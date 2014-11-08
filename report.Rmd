@@ -1,0 +1,11 @@
+---
+title: "report"
+author: "Julio Trecenti"
+date: "Saturday, November 08, 2014"
+output: html_document
+---
+
+```{r intro}
+
+```
+
