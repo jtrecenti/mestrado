@@ -1,0 +1,40 @@
+
+
+SENTENÇA
+
+Processo Físico nº:0030757-54.2012.8.26.0002
+Classe ? Assunto:Procedimento Ordinário - Interpretação / Revisão de Contrato 
+Requerente:Casa Pronta Comércio de Móveis Ltda
+Requerido:Tim Celular S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Eurico Leonel Peixoto Filho
+
+
+Vistos.
+Casa Pronta Comércio de Móveis Ltda, qualificado(s) na inicial, ajuizou(aram) ação de Procedimento Ordinário em face de Tim Celular S/A. Pretende a parte autora o restabelecimento de serviço de telefonia móvel, bem como a condenação da parte ré ao pagamento de prejuízos materiais e morais. Aduz que entabulou ?Contrato de Prestação de Serviço Móvel Pessoal ? SMP' na modalidade Liberty Empresa, recebendo 50 sim cards. Ocorre que o serviço contratado foi suspenso, mesmo antes do vencimento da primeira fatura de cobrança. Afirma que a suspensão do serviço contratado lhe está causando prejuízos, pois o contrato foi realizado com a finalidade de propiciar comunicação com representantes comerciais e clientes. Requereu a antecipação de tutela para o restabelecimento do serviço.
+A petição inicial foi indeferida em relação ao pedido de indenização por danos materiais e concedida a antecipação de tutela (fls. 84).
+Em relação a decisão antecipatória foi interposto agravo de instrumento.
+A ré, citada, ofertou contestação aduzindo que o serviço de telefonia móvel contratado pela parte autora foi suspensão por estar sendo utilizado com violação às regras contratuais. Aduziu que os serviços contratados estavam sendo utilizados em um volume elevado e com a utilização de parelhos GSM Box, Black Box e similares que convertem de forma irregular as chamadas fixo-móvel em móvel-móvel, com infração à cláusula contratual.
+O feito foi saneado, com a fixação dos pontos controvertidos e determinação de realização de prova pericial (fls.176).
+O laudo pericial foi apresentado (fls. 198/267) e as partes se manifestaram ( fls. 274/308) e (fls. 312/315).
+É o relatório.
+Decido.
+A solução da lide posta nos autos cinge-se a determinar se a parte autora utilizou o serviço contratado em desconformidade com as cláusulas contratais, motivando a suspensão dos serviços.
+Com efeito, o contrato entabulado pelas partes estabelece em sua cláusula 3ª, que trata dos direitos e deveres, mais especificamente no item 3.3, a proibição do contratante instalar e fazer uso indevido do TIMChip em qualquer aparelho ou estrutura diferente de Estação Móvel. 
+Mais adiante, no item 3.3.1 passa a apontar o que caracteriza uso indevido:
+?3.3.1.1 Comercialização de minutos/serviços.
+3.3.1.3 Utilização de equipamento GSM Box, Black Box e equipamentos similares.
+3.3.1.3. Usos estático (sem mobilidade) do aparelho celular em cerca de 60% do tráfego originado pelo cliente e recebimento de ligações em proporção inferior a 33% do volume originado, por mês?.
+E no item 3.4. do contrato há a previsão de que em caso de constatação de qualquer violação às regras do contrato, a ?TIM poderá a seu exclusivo critério suspender a utilização do(s) acesso  móvel(eis)...?
+Por sua vez, a perícia realizada concluiu que o correu a violação das cláusulas acimas apontadas, pois a parte autora valeu-se de expediente denominado ?By Pass? ou reorganização de chamadas, ?fato este que viola várias cláusulas contratuais (2.4, 3.3, 3.4) do contrato SMP assinado entre as partes, além de não estar de acordo com a Resolução 477 da ANATEL e Lei Geral de Telecomunicações n 9472, as quais proíbem a comercialização de serviços de telecomunicações  sem a devida licença e autorização da ANATEL? (fls. 257).
+Note-se que as infrações contratuais apontadas no laudo pericial têm influencia direta nas condições econômicas do contrato, pois evidente que os valores oferecidos pela parte ré na contratação do serviço levam em consideração o porte da empresa contratante e, por consequência, uma forma padrão de utilização, o que não ocorreu na espécie, pois a autora passou a comercializar o serviço contratado.
+A suspensão dos serviços pela parte ré, assim, se deu de forma legítima. 
+Ante o exposto, JULGO IMPROCEDENTE o pedido inicial e revogo a antecipação de tutela de fls. 84. Arcará a parte autora com o pagamento das despesas, custas processuais e honorários advocatícios que fixo em R$ 3.000,00. 
+P.R.I.
+São Paulo, 12 de março de 2014.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

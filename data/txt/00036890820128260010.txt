@@ -1,0 +1,47 @@
+
+
+SENTENÇA
+
+Processo nº:0003689-08.2012.8.26.0010
+Classe - AssuntoProcedimento do Juizado Especial Cível - Imputação do Pagamento
+Requerente:Maria do Socorro Melo
+Requerido:Banco Panamericano S/A e outro
+
+
+
+
+Juiz(a) de Direito: Dr(a). Ricardo Dal Pizzol
+
+
+
+Vistos,
+
+
+I  Dispensado o relatório, na forma da lei.
+II ? Rejeito a preliminar de ilegitimidade passiva de fls. 96/98, por se confundir com o mérito. 
+Ainda que se entenda que o requerido Meridiano não teve responsabilidade no evento, isso não o tornaria parte ilegítima, mas sim implicaria na improcedência do pleito em relação a ele. Nesse sentido, a lição de DINAMARCO: 
+?Será inadequado falar em ilegitimidade quando, ainda que contrariamente ao direito, do provimento se possa esperar o proveito jurídico e prático desejado. Se cobro judicialmente um crédito que não é meu, certamente não terei direito algum à sentença favorável, porque não sou credor; se peço a condenação de alguém a pagar débito alheio, idem; nessas duas situações, porém, a sentença que julgasse procedente a minha pretensão seria plenamente capaz de oferecer-me o proveito que desejo. Nada teria de inútil, embora contrária à lei material. (...) Sempre que se trate de obrigações fungíveis, a ausência de titularidade ativa ou passiva (direitos e obrigações) é questão de mérito, sendo improcedente a demanda e não ilegítima a parte. Os tribunais brasileiros são fortemente propensos a tratar como ilegitimidade esses casos de ausência do direito do autor perante o réu. (...) Na verdade, tais demandas são improcedentes? (Instituições, v. II, p. 307).
+III ? No mérito, a ação deve ser julgada procedente.
+Primeiramente, deve-se considerar que restou incontroversa, visto que não impugnada pelos requeridos em suas respectivas contestações, a alegação de que o débito apontado nos órgãos de proteção ao crédito (fl. 20) refere-se ao cartão de crédito mencionado na inicial.
+Conforme ofício de fl. 09, elaborado em resposta a procedimento instaurado pela autora perante o PROCON, ?o cartão sob nº 5482.****.****.6047 encontra-se cancelado, com saldo zerado, conforme solicitação efetuada?.  
+Ora, se o cartão de crédito estava cancelado, com saldo zerado, indevida a manutenção do nome da autora nos órgãos de proteção ao crédito por débito relativo ao referido cartão.
+Além disso, na hipótese de haver algum débito pendente, era ônus dos requeridos comprovar documentalmente a existência e regularidade desse débito. Os requeridos, no entanto, não se desincumbiram desse ônus probatório. Nenhum documento sequer foi juntado para comprovar a existência do débito inscrito (fl. 20).
+Certo, ainda, que as contestações dos requeridos são absolutamente genéricas, nada explicando acerca do débito inscrito nos órgãos de proteção ao crédito (fl. 20). 
+Pelas razões expostas, é caso de reconhecer a inexistência do(s) débito(s), na forma requerida na inicial. 
+IV ? O pedido de indenização por dano moral também merece acolhida. 
+O dano moral, em caso de inscrição indevida, é in re ipsa, não dependendo de comprovação.
+O débito foi inscrito, inicialmente, pelo requerido Banco Panamericano, conforme documento de fl. 15. Posteriormente, após a cessão do crédito, a inscrição foi mantida pelo requerido Meridiano, conforme documento de fl. 20. Daí porque ambos os requeridos são responsáveis, solidariamente, pelo dano moral. 
+Ainda que o réu Meridiano tenha apenas se sub-rogado nos direitos creditórios de outra empresa, sua responsabilidade é evidente. Na condição de cessionário, deveria o réu Meridiano ter se preocupado em verificar a validade do crédito recebido, o que não fez. Além disso, sua responsabilidade decorre do risco da atividade (art. 927, parágrafo único, do CC), na medida em que atua de maneira profissional no mercado, recebendo e cobrando créditos constituídos por outras empresas. Nesse sentido, a jurisprudência do TJSP:
+Responsabilidade civil. Dano moral. Preliminar de ilegitimidade passiva rejeitada. Inscrição do nome do autor nos cadastros de inadimplentes dos órgãos de proteção ao crédito. Inexistência de negócio jurídico entabulado entre as partes. Fraude de terceiro. Réu que é cessionário do crédito relativo ao contrato firmado em nome do autor, cujo inadimplemento culminou na negativação de seu nome. Aplicação da Teoria do Risco Profissional. Ainda que o réu tenha se sub-rogado nos direitos creditórios de outra empresa, deve garantir os riscos advindos de sua conduta, já que atua de maneira profissional no mercado. Réu deveria ter se preocupado em verificar a validade dos créditos cedidos. Indenização devida. Prova do dano moral que se satisfaz apenas com a demonstração da anotação irregular. Fixação de maneira equitativa e moderada. Vedação ao enriquecimento sem causa. (...). Sentença mantida. Recursos improvidos. (TJSP, 1013873120098260006)
+Alguns elementos, no caso, devem ser considerados para a fixação do valor da indenização por dano moral: (i) longo período de inscrição indevida; (ii) a inscrição só foi suspensa, segundo o que consta nos autos, após a concessão da tutela antecipada; (iii) inexistência de outros apontamentos em nome da autora; (iv) valor do débito (R$ 129,23); (v) a indenização por dano moral não pode ser fixada em valores excessivamente elevados, pois isso tornaria o dano psíquico vantajoso para quem o sofre, mas, em contrapartida, também não deve ser fixada em valor irrisório, pois isso seria um desestímulo ao ajuizamento das ações, implicando, na prática, em denegação de acesso à justiça; (vi) a autora não comprovou nenhum sofrimento que exceda aqueles que costumeiramente se observam em situações análogas de inscrição indevida.
+Em face do exposto, entendo que o valor de R$ 4.000,00 (quatro mil reais) é suficiente para reparar o dano, punindo adequadamente os requeridos, sem gerar enriquecimento sem causa em favor da autora. 
+
+DECIDO.
+Ante o exposto, JULGO PROCEDENTE a ação, para:
+(a) DECLARAR INEXISTENTE o débito no valor de R$ 129,23 (fl. 20), bem como outros relacionados ao cartão de crédito mencionado na inicial (fl. 05). Confirmo, assim, a tutela antecipada anteriormente concedida;
+(b) CONDENAR os requeridos, em solidariedade passiva, ao pagamento da quantia de R$ 4.000,00 (quatro mil reais) à autora, a título de danos morais, acrescida de correção monetária, conforme a Tabela Prática do TJSP, e de juros de mora de 1% ao mês, a partir da presente data;
+Sem condenação em custas, despesas e honorários advocatícios, nesta fase. 
+P.R.I.C.
+São Paulo, 24 de setembro de 2012.
+
+Ricardo Dal Pizzol  Juiz de Direito

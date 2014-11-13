@@ -1,0 +1,118 @@
+
+
+SENTENÇA
+
+Processo nº:0149041-86.2010.8.26.0100
+Classe - AssuntoProcedimento Sumário - Indenização por Dano Material
+Requerente:Antero Octavio de Medeiros Cabral
+Requerido:Eletropaulo Metropolitana Eletricidade de São Paulo S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Maria Rita Rebello Pinho Dias
+
+
+Vistos.
+
+
+I.ANTERO OCTAVIO DE MEDEIROS CABRAL ajuizou Ação de Obrigação de Fazer c.c. Declaração de nulidade de Termo de Ocorrência de Irregularidade contra ELETROPAULO ELETRICIDADE DE SÃO PAULO. Disse que em 11/12/2009 a ré realizou uma inspeção em seu imóvel, apontando irregularidades no consumo de energia elétrica, conforme Termo de Ocorrência de Irregularidade nº 7247466, tendo recebido aviso de cobrança de R$ 2.548,72, em 11/12/09. Alega que no momento da vistoria não foi exigida a presença do titular da instalação. Afirma que houve o óbito do titular da conta. Disse que recebeu em 20/04/10 aviso de suspensão de fornecimento, em razão do débito de R$ 126,78, tendo procedido ao seu pagamento. Disse que mesmo com o pagamento a ré efetuou o corte do fornecimento de energia elétrica. Alega que não lhe foi concedida oportunidade para questionamento da cobrança. Destaca que o serviço prestado pela ré é publico, sendo irregular o corte de energia. Defende a impossibilidade da suspensão do fornecimento de energia elétrica diante do princípio da dignidade da pessoa humana. Entende que é abusiva a prática do corte do fornecimento de energia elétrica em razão de débitos pretéritos, expondo-o ao constrangimento e ao ridículo. Defenda a incidência do CDC e a imputação de irregularidade nos medidores ao consumidor, prevista na Res. ANEEL nº 456/00, como sendo abusiva. Acusa a ré de não manter os seus equipamentos e a rede de distribuição, sendo este o risco de sua atividade. Afirma que não há prova de fraude por ele praticada e que não há informação clara sobre os procedimentos adotados pela ré. Nega ter alterado relógio medidor. Questiona o método adotado pela empresa para apurar o valor base, visto que utiliza o maior valor dos 12 meses anteriores ao fato, em prejuízo ao consumidor. Alega que não foi comunicado da possibilidade de requerer gratuitamente perícia para apurar a irregularidade. Questiona cobrança de custo administrativo adicional de 30%, visto que o CDC limita a multa punitiva a 2%.  Requer a declaração de nulidade do TOI nº 7247466, com o cancelamento do débito nele consignado. Junta documentos (fls. 40/74).
+
+Deferida a liminar (fl. 75). Interposto agravo de instrumento (fls. 97/115), para o qual foi negado provimento (fls. 237/241)..
+
+Regularmente citada, a ré apresentou contestação (fls. 117/137). Defende a regularidade da cobrança, bem como dos critérios utilizados para apurar o valor devido pelo autor. Entende ser regular a suspensão do fornecimento de energia elétrica em razão do inadimplemento do autor. Destaca que o autor é responsável pela conservação do sistema de medição de energia elétrica. Junta documentos (fls. 138/164).
+
+A ré apresentou reconvenção, cobrando o valor de R$ 2.548,72 (fls. 87/95). Contestação à reconvenção (fls. 183/188). Réplica à reconvenção (fls. 191/203).
+
+Réplica (fls. 171/181).
+
+Despacho saneador (fls. 211/212).
+
+Laudo (fls. 282/348). Parecer Técnico parcialmente concordante (fls. 357/368). Impugnação do autor (fls. 381/384).
+
+É o relatório.
+
+II.FUNDAMENTO.
+
+Entendo que as questões controvertidas são todas de direito ou já estão satisfatoriamente comprovadas, não havendo necessidade de produção de prova oral em audiência, nos termos do art. 130 do CPC. Por este motivo, passo ao julgamento antecipado da lide, nos termos do artigo 330, I, do CPC.
+
+No mérito, a ação é PARCIALMENTE PROCEDENTE e a reconvenção PARCIALMENTE PROCEDENTE.
+
+É incontroversa a incidência do Código de Defesa do Consumidor ao caso em análise, tendo em vista o disposto no art. 2º, parágrafo único, do CDC. 
+
+O perito realizou perícia indireta, tendo em vista que a prova local não foi preservada (fls. 303/304). O perito apresentou, então, histórico do consumo (fls. 306/307), e, diante dele, notou registros de consumo muito baixos antes da inspeção da ré (fl. 311) e, após esta, degrau positivo de consumo (fl. 312). Segundo o perito, essa situação consiste em indicio de que houve a irregularidade apontada no TOI. 
+
+A irregularidade apontada no TOI foi a de o lacre da caixa de medição estar ausentes e de que havia existência de um desvio de energia elétrica por meio de uma fase realizada no cabo de entrada, dentro da caixa de medição sem passar pelo medidor (fl. 317). Segundo o perito, pelas fotos obtidas junto à ré referentes ao TOI, observa-se que as irregularidades apontadas realmente eram possíveis (fl. 317).
+
+O perito informa que a média dos consumos registrados nos últimos 12 meses antes da inspeção da ré foi de 53 kWh (fl.312) e, após ela, 250 kWH (fls. 312/313).
+
+Diante da confirmação da irregularidade no relógio medidor do autor, o perito procedeu ao cálculo do consumo que deixou de ser registrado. Utilizou, para tanto, a carga instalada na oportunidade da inspeção da ré, ou seja, 18.700 W, o que indicou um consumo de 249,77 kWh (fl. 314), valor este que é muito próximo à média de consumo observada após a realização da inspeção, de 250 kWh (fl. 315).
+
+O perito, em face das observações supra, afirmou:: "(...) com estas considerações e apurações indiretas, em especial pelas imagens da fotos obtidas pela requerida de quando de sua inspeção, não restaram dúvidas ao subscritor de que a unidade do autor estava apresentando registro irreal de energia elétrica antes da inspeção da Eletropaulo. 10 - desta feita, pelos cálculos do item 7 anterior, a unidade do autor, potencialmente, consumiria uma média de 249,77 kWh, sendo que, a seguir, serão apresentados os cálculos do consumo a recuperar e o quanto devido pelo autor à requerida." (fl. 315).
+
+Ora, as provas produzidas nos autos - seja os documentos que acompanham o TOI, elaborado pela ré, seja a prova pericial - corroboram a conclusão de que houve fraude no relógio medidor instalado na residência do autor.
+
+Irrelevante se foi o autor o responsável pela realização da fraude indicada pelo perito. A manutenção do relógio medidor, instalado nas residências, é de responsabilidade do possuidor do mesmo. Logo, ainda que não tivesse sido o autor responsável pela realização da fraude, é responsável por sua perpetuação, visto que, no momento em que tomou posse do imóvel, deveria ter se certificado de que nenhuma irregularidade estava ocorrendo e, em caso positivo, adotar as medidas necessárias para sua cessação.
+
+Destaco que é irrelevante se houve ou não cerceamento do direito de defesa do autor em fase administrativa, tendo em vista que houve amplo exercício do direito de defesa e do contraditório nesta ação, em juízo, especialmente durante a fase de produção de provas.
+
+Desse modo, é o autor responsável por fraude observada em relógio medidos instalado em sua residência, devendo, portanto, responder pelo pagamento dos valores que haviam deixado de ser cobrados, em razão da referida fraude. Observo que o autor não questiona que era possuidor do imóvel no período cobrado pela ré.
+
+O perito considerou como sendo o consumo mensal médio 249,77 kWh e o período cobrado pela ré, como tendo ocorrido cobrança a menor, ou seja, 11/12/07 a 11/12/09. Com base em tais premissas, indicou que o consumo total previsto seria de 5.998,58, enquanto que o consumo faturado foi de 2.031,00, de modo que o consumo a recuperar era de 3.967,58 kWH (fl. 315).
+
+Aplicando-se a tarifa da ré sobre o consumo a recuperar, ou seja, 3.967,58 kWh, incluindo o PIS e COFINS, apurou o valor de R$ 1.636,84. A este valor, acrescentou custo administrativo de 30%, resultando no valor final de R$ 1.986,17 (fl. 316).
+
+O critério utilizado pelo perito para apuração do valor do consumo que deixou de ser cobrado pela ré, em razão de fraude no relógio medidor do autor, foi correto e satisfatoriamente justificado, visto que aplicado considerando a carga instalada na residência.
+
+A ré insurge-se contra o critério adotado pelo perito, destacando que o correto seria aquele indicado no art. 72 da Resolução ANEEL nº 456/00. O critério por ela sugerido - adoção do maior valor de consumo observado nos últimos 12 meses e sua utilização como valor médio - não parece ser adequado. Isso porque irreal e não guarda qualquer relação com a carga efetivamente instalada na residência do autor. Parece mais correto adotar critério de cálculo do débito que guarde relação com dados concretos e reais.
+
+O autor insurge-se contra o critério utilizado pelo perito para cálculo do valor devido, afirmando que questiona justamente a aplicação da Resolução ANEEL nº 456/00, que legitima o laudo pericial diante do disposto no seu art. 72, c.
+
+Em que pese o questionamento do autor, o fato é que ele não questiona o laudo na parte em que confirma que houve fraude no relógio medidor instalado na casa do autor, nem, tampouco, que houve cobrança inferior em face do consumo efetivamente apurado.
+
+Ora, diante da constatação de que houve fraude que permitiu indicação de consumo inferior ao efetivo e, consequentemente, cobrança de valor inferior ao devido, o fato é que procede pedido do réu para que o autor seja condenado a efetuar o pagamento do valor que deixou de ser faturado. E, dentro desse contexto, o critério adotado pelo perito para apurar tal valor - carga instalada - parece se bastante justo e razoável, sendo próximo ao consumo efetivamente apurado na residência do autor, conforme evidenciado no laudo pericial. O que não se admite é que se mantenha a fatura do consumo do autor com base nos critérios irreais observados antes da vistoria realizada pela ré.
+
+O autor não indicou qualquer outro critério alternativo para apurar o valor do consumo que deixou de ser faturado pela ré, de modo que seu questionamento consiste em simples tentativa de permanecer sendo faturado pelo valor irreal de consumo observado em razão da fraude. Sua pretensão além de não encontrar respaldo em lei é imoral.
+
+O autor afirma que a perícia não apurou quem era o titular da fatura de energia elétrica no momento da suposta fraude. Ocorre que não questiona que era o possuidor do imóvel no período cobrado, de modo que é irrelevante quem era o titular da fatura, tratando-se de mera formalidade. 
+
+Diante das conclusões supra, entendo que o valor cobrado pela ré foi excessivo, de modo que procede em parte questionamento do autor. Ocorre, todavia, que restou comprovado que houve consumo em valor superior ao medido no período cobrado pela ré, e que ela tem, de fato, direito ao recebimento do valor de R$ 1.636,84.
+
+Concluo, também, que o procedimento da ré de realizar inspeção no instrumento que registra o consumo de energia elétrica e cobrar eventual diferença entre o serviço efetivamente prestado e o medido ? inferior em decorrência de fraude ? é lícito, visto que previsto na Resolução ANEEL nº 456/2000 e Lei nº 8.987/95. Ressalto que, conforme tais normas, o instrumento de medição é de propriedade da ré, que tem o direito de certificar sua regularidade e, em caso negativo, tem o direito de emitir o TERMO DE OCORRÊNCIA DE IRREGULARIDADE, notificando o infrator do fato, permitindo-lhe o direito de impugnar tal questionamento pela via administrativa, inclusive com pedido de perícia. 
+
+Assim, diante de todo o acima exposto, regular a cobrança realizada pela ré, não havendo qualquer irregularidade ou inexistência, já que amparada em regular exercício de direito ? especialmente pelo fato de que houve efetiva prestação de serviços por sua parte, o que sequer foi questionado pelo autor.
+
+Contudo, mesmo diante da regularidade do exercício do direito de cobrança, entendo que o recurso da ré à suspensão do fornecimento de energia elétrica, não é medida adequada. Isso porque não se trata de simples corte do fornecimento de energia elétrica por inadimplemento de fatura mensal, mas sim com base em levantamento unilateral realizado pela ré por dívida pretérita, acumulada ao longo de meses, como forma visível de coação para satisfação de seu crédito. A ré, nessa hipótese, abusa de seu direito de cobrar, visto que vale do fato de que o autor encontra-se em situação de forte dependência do produto que fornece, o qual é, reconhecidamente, essencial. Além disso, o alto valor da dívida acumulada consiste em forte óbice ao cumprimento da obrigação pelo autor, o qual, certamente, correria o risco de ficar privado de serviço essencial até que conseguisse quitar o débito ? situação esta que, considerando o seu valor, talvez nunca ocorresse.
+
+A ré deve, portanto, no caso de dívidas pretéritas e acumuladas, que não foram por ela cobradas imediatamente, recorrer à via ordinária de cobrança ? a saber, ação judicial ? e não utilizando vias transversas, valendo-se da essencialidade do serviço prestado ao autor.
+
+Nesse sentido, a jurisprudência:
+
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. SUSPENSÃO. FORNECIMENTO DE ENERGIA ELÉTRICA. DÉBITOS PRETÉRITOS. IMPOSSIBILIDADE. RECURSO ESPECIAL INTERPOSTO COM FULCRO NO ART. 105, INCISO III, LETRA "C", DA CF/88. DIVERGÊNCIA NÃO CONFIGURADA. I - A suspensão no fornecimento de energia elétrica somente é permitida quando se tratar de inadimplemento de conta regular, relativa ao mês do consumo, restando incabível tal conduta quando for relativa a débitos antigos não-pagos, em que há os meios ordinários de cobrança, sob pena de infringência ao disposto no art, 42 do Código de Defesa do Consumidor. Precedente: AgRg no Ag n° 633.I73/RS, Rei. Min. JOSÉ DELGA DO, DJ de 02.05.05. III - Recurso especial improvido. (STJ - REsp 772.486/RS - Ia T - Rei Min. FRANCISCO FALCÃO - J. 06.12.2005).
+
+PROCESSUAL CIVIL. AGRA VO REGIMENTAL. INEXISTÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO, DUVIDA OU FALTA DE FUNDAMENTAÇÃO NO ACÓRDÃO A QUO. CORTE NO FORNECIMENTO DE ENERGIA ELÉTRICA. CABIMENTO NO CASO DO ART 6o, § 3o, II, DA LEI N° 8.987/95. EXIGÊNCIA DE DÉBITO PRETÉRITO. CARACTERIZAÇÃO DE CONSTRANGIMENTO E AMEAÇA AO CONSUMIDOR. CDQ ART. 42. DISSÍDIO PRETORIANO NÃO COMPROVADO. 4 - Com relação ao fornecimento de energia elétrica, o art. 6o, § 3°, II da Lei n° 8.987/95 dispõe que "não se caracteriza como descontinuidade do serviço a sua interrupção em situação de emergência ou após prévio aviso, quando for por inadimplemento do usuário, considerado o interesse da coletividade*'. Portanto, havendo o fornecimento de energia elétrica pela concessionária, a obrigação do consumidor será a de cumprir com sua parte, isto é, o pagamento pelo referido fornecimento, sendo possível, verificando-se caso a caso, uma vez não realizada a contraprestação, o corte. 5 - Hipótese dos autos que se caracteriza pela exigência de débito pretérito, não devendo, com isso, ser suspenso o fornecimento, visto que o corte de energia elétrica pressupõe o inadimplemento de conta regular, relativa ao mês do consumo, sendo inviável, pois, a suspensão do abastecimento em razão de débitos antigos, em relação aos quais existe demanda judicial ainda pendente de julgamento, devendo a companhia utilizar-se dos meios ordinários de cobrança, não se admitindo qualquer espécie de constrangimento ou ameaça ao consumidor,  nos termos do art.42doCDC. (...) (STJ AgRg no AI 633.173/RS - Ia T - Rei. Min. JOSÉ DELGADO-J. 17.03.2005).
+
+Acolho questionamento do autor quanto à cobrança do custo administrativo arbitrado em 30%. A referida taxa está prevista no art. 73 da Res. ANEEL nº 456/00, a título e custo administrativo adicional. A cobrança, em tese, dos custos havidos para conseguir haver valor devido é correta e legal, amparada na norma que permite que uma pessoa possa requerer indenização por danos sofridos em razão da conduta alheia.
+
+O supra referido dispositivo tem natureza reparatória e não punitiva.
+
+A norma acima mencionada estipula que o custo administrativo adicional corresponde a, no máximo, 30%. Deveria a ré demonstrar quais foram os seus custos no levantamento e apuração dos valores devidos em razão da fraude. Não há essa indicação nos autos. Ao contrário, a aplicação de tal custo no valor do débito foi feito pela ré de forma genérica, sem qualquer indicação específica dos custos efetivamente incorridos.
+
+Considerando que não houve indicação dos custos incorridos, não pode a ré cobrar custo de 30%, o qual se mostra indevido. Isso porque, conforme já mencionado, a norma em análise tem natureza reparatória e depende de comprovação dos custos, e não natureza punitiva.
+
+Nesse sentido:
+
+PRESTAÇÃO DE SERVIÇOS - ENERGIA ELÉTRICA - AÇÃO ANULATÓRIA CUMULADA COM OBRIGAÇÃO DE NÃO FAZER - FRAUDE NO MEDIDOR - OCORRÊNCIA - COBRANÇA DE DÉBITOS PRETÉRITOS - NÃO CABIMENTO ? MULTA ADMINISTRATIVA DE 30% - RESOLUÇÃO ANEEL 456/2000 - NÃO COMPROVAÇÃO - NATUREZA REPARATÓRIA NÃO PUNITIVA - APELAÇÃO PARCIALMENTE PROVIDA. I. Evidenciando a prova dos autos a existência de expediente fraudulento destinado a propiciar registro de consumo de energia elétrica inferior ao real mormente em face do degrau no histórico de consumo verificado, pertinente é a apuração levada a termo pela apelada que calculou o débito foco desta ação. II. Diante do posicionamento do STJ, não é admissível a suspensão do fornecimento de energia em razão de débitos pretéritos, devendo a cobrança ser feita pelos meios ordinários. III. O custo administrativo adicionai nos termos da Resolução da ANEEL 456/2000, há que corresponder, no máximo, a 30%. Resulta disto que necessário se faz que a concessionária demonstre quais são seus custos no levantamento e apuração dos valores devidos em razão de fraude no medidor para que, então possa cobrá-los do consumidor, respeitado o teto imposto. Não demonstrando os seus custos, indevido é o acréscimo do valor a ele correspondente, na fatura. A cobrança tio valor do custo administrativo tem cunho reparatório e não punitivo, não se constituindo em multa. (0024313-16.2010.8.26.0506  Apelação; Relator(a): Paulo Ayrosa; Comarca: Ribeirão Preto; Órgão julgador: 31ª Câmara de Direito Privado; Data do julgamento: 13/11/2012; Data de registro: 14/11/2012).
+
+III.DECIDO.
+
+Diante do exposto, JULGO PARCIALMENTE PROCEDENTE o pedido formulado por ANTERO OCTAVIO DE MEDEIROS CABRAL contra ELETROPAULO ELETRICIDADE DE SÃO PAULO, e PARCIALMENTE PROCEDENTE a reconvenção, com fundamento no artigo 269, I, do CPC, mantendo decisão que antecipou os efeitos da tutela¸ para condenar o autor a pagar à ré o valor de R$ 1.636,84, o qual deverá ser corrigido monetariamente pela tabela prática do E. Tribunal de Justiça do Estado de São Paulo/SP desde setembro de 2009, data em que foi apurada a prática do ilícito pelo autor, com incidência de juros moratórios legais de 1% ao mês a partir da mesma data. Tendo em vista ter sido acolhida parte mínima do pedido do autor, CONDENO o autor ao pagamento das custas e despesas processuais, além da verba honorária que arbitro em 15% (quinze por cento) do valor da condenação atualizado.
+
+P. R. I..C.
+
+
+São Paulo, 03 de dezembro de 2012.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

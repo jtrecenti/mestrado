@@ -1,0 +1,45 @@
+
+
+SENTENÇA
+
+Processo nº:0072842-52.2012.8.26.0100
+Classe - AssuntoProcedimento Sumário - Obrigação de Fazer / Não Fazer
+Requerente:Fast Shop S/A
+Requerido:Google Brasil Internet Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Renata Martins de Carvalho
+
+Vistos.
+
+FAST SHOP S.A. ajuizou Ação de Obrigação de Fazer c.c. Indenização por Danos Morais contra GOOGLE BRASIL INTERNET LTDA. alegando, em resumo, que constatou a reprodução indevida de sua marca em um blog hospedado no endereço eletrônico http://fastshop-zero.blogspot.com.br, disponibilizado pela ré; que o blog possuía conteúdo ofensivo à sua reputação, de modo que notificou a ré para excluí-lo; que a disponibilidade do blog foi restringida de início, mas após certo tempo voltou a ser pública. Requereu a tutela antecipada para a retirada do ar do blog disponível em http://fastshop-zero.blogspot.com.br e http://fastshop-zero.blogspot.com.br/2012/08/a-familia-kakumoto.html e para que a ré forneça os dados de identificação do autor e responsável pelo blog. E, ao final, a procedência da ação para condenar a ré a retirar do ar o blog disponível acima mencionado; na obrigação de fazer consistente na apresentação dos dados de identificação do autor do blog e ao pagamento de indenização por danos morais. Juntou documentos (fls. 21/46).
+A tutela antecipada foi deferida para determinar a ré a retirada do ar dos endereços eletrônicos mencionados, bem como para fornecer os dados do responsável pelo blog, no prazo de 5 dias (fls. 72).
+Citada (fls. 102), a ré apresentou Embargos de Declaração em face da decisão de fls. 72 alegando que não houve especificação de quais dados de identificação do autor do blog deveriam ser fornecidos. 
+Os embargos foram rejeitados às fls. 129.
+A ré ofereceu Contestação às fls. 134/166 alegando, preliminarmente, ilegitimidade passiva por não ter controle sobre o conteúdo do blog. No mérito, aduziu que é impossível fiscalizar o conteúdo disponibilizado nos blogs que hospeda, de tal sorte que não poderia ser responsabilizada pela violação de direitos de imagem perpetrada pelo autor do blog. Asseverou, por fim, que não poderia removê-lo nem informar os dados de seu autor sem determinação do Poder Judiciário.
+
+Às fls. 168 a ré comunicou a interposição de Agravo de Instrumento da decisão de fls.72, ao qual foi negado provimento (fls. 196/204, 238/242, 262/268 e 279/283).
+Em cumprimento a tutela antecipada a ré informou os dados do endereço IP (fls.205/215). 
+A autora ofertou réplica (fls. 216/233).
+A Autora pediu o julgamento antecipado da lide (fls. 293).
+A ré juntou aos autos Parecer Técnico para demonstrar a impossibilidade de controle prévio do conteúdo do blog hospedado e negou interesse na conciliação (fls. 294/409).
+É o Relatório.
+DECIDO.
+Julgo antecipadamente a lide por cuidar de matéria de fato e de direito que prescinde da produção de outras provas, nos termos do artigo 330, inciso I, Código de Processo Civil.
+A preliminar de ilegitimidade passiva não prospera. O provedor de conteúdo é obrigado a viabilizar a identificação de usuários, coibindo anonimato, e de fornecer a identificação do registro do número de protocolo (IP) dos computadores utilizados para cadastramento de contas na internet, como meio de rastreamento de usuários. Assim, embora a requerida, na qualidade de provedor, não possa ser responsabilizada pela mensagem de caráter ofensivo à imagem e à reputação da autora, deve responder pela conduta omissiva, ou seja, de não ter retirado do ar a referida mensagem assim que notificada. Assim, a ré é parte legítima para figurar no polo passivo.
+No mérito, restou incontroverso, pela ausência de impugnação da ré e pelos documentos de fls. 42/46, que a autora notificou-a para remover do ar a página de conteúdo supostamente ofensivo e que esta nada fez, limitando-se a alegar que não tinha controle sobre o conteúdo dos blogs que hospeda pelo serviço Blogger. E que após a segunda notificação, a publicidade da página chegou a ser restringida a leitores convidados, durante certo tempo, mas voltou ao acesso aberto posteriormente, à época da propositura da ação.
+Não assiste razão à ré ao alegar que não exerce controle de conteúdo dos blogs e que, portanto, não tem qualquer responsabilidade pela violação de direitos de imagem. Como retro exposto, a autora não pretende a responsabilização da ré em razão de não ter previamente controlado o conteúdo publicado no blog que hospeda. 
+A responsabilização que autora pleiteia é pela conduta omissiva após a notificação, ou seja, não ter bloqueado ou excluído, de imediato, o conteúdo do blog violador dos direitos da requerente, assumindo o risco de sua omissão voluntária, nos termos do artigo 186, do Código Civil. E, neste sentido, é impertinente o Parecer Técnico de fls. 298/409.
+É evidente que seria completamente desarrazoado exigir da ré que exercesse controle editorial prévio sobre as páginas que hospeda, mas não pode ser admitida sua inércia quando notificada e ciente da existência de potencial conteúdo ilícito. Duas notificações foram necessárias para restringir a visualização da página e, mesmo assim, o livre acesso à página ofensiva retornou após certo tempo e à autora foi necessário promover a presente ação. 
+Assim sendo, a ré deve responder pelos danos morais sofridos pela autora, pois permitiu a permanência das ofensas à imagem e reputação da autora. E no que refere à indenização, considerando o tempo que a mensagem ofensiva permaneceu no ar, a quantia de R$ 5.000,00 se mostra razoável e proporcional para o caso em tela, para evitar recidivas por parte da requerida e o enriquecimento indevido da autora. 
+No que tange aos demais pedidos formulados na inicial, em cumprimento à decisão antecipatória, a requerida retirou do ar o referido blog, bem como informou o endereço IP às fls. 205/215.
+Neste sentido, conforme mencionado no v. acordão do Agravo Regimental n° 0027432-43.2013.8.26.0000/5000 (contra decisão da relatoria que negou seguimento ao Agravo de Instrumento n° 0027432-43.2013 que impugnou a decisão da tutela antecipada), no REsp n° 1.186.616/MG, de relatoria da Ministra Nancy Andrighi (dj 23.08.11), ficou assentado o entendimento que ?ao oferecer um serviço por meio do qual se possibilita que os usuários externem livremente sua opinião, deve o provedor de conteúdo ter o cuidado de propiciar meios para que se possa identificar cada um desses usuários, coibindo o anonimato e atribuindo a cada manifestação uma autoria certa e determinada. Sob a ótica da diligência média que se espera do provedor, deve este adotar as providências que, conforme as circunstâncias específicas de cada caso, estiverem ao seu alcance para a individualização dos usuários do site, sob pena de responsabilização subjetiva por culpa in omittendo. Ainda que não exija os dados pessoais dos seus usuários, o provedor de conteúdo que registra o número de protocolo (IP) na internet dos computadores utilizados para o cadastramento de cada conta mantém um meio razoavelmente eficiente de rastreamento dos seus usuários, medida de segurança que corresponde à diligência média esperada dessa modalidade de provedor de serviço de internet?.  
+Isto posto, e pelo que mais dos autos consta, JULGO PROCEDENTE o pedido inicial para condenar a ré a retirar do ar o blog disponível http://fastshop-zero.blogspot.com.br e http://fastshop-zero.blogspot.com.br/2012/08/a-familia-kakumoto.html; na obrigação de fazer consistente na apresentação dos dados de identificação do protocolo IP do autor do blog, tornando em definitivos os efeitos da tutela antecipada, e ao pagamento de indenização por danos morais na quantia de R$ 5.000,00 (cinco mil reais), atualizada a partir do arbitramento e acrescida dos juros de mora de 1% (um por cento) ao mês também a partir do arbitramento. E, por conseguinte, julgo extinto o processo com resolução de mérito com fulcro no artigo 269, inciso I, do Código de Processo Civil.
+Condeno a ré no pagamento das custas e honorários advocatícios que fixo em 15% do valor da condenação.
+P.R.I.
+
+São Paulo, 17 de dezembro de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

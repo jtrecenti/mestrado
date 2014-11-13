@@ -1,0 +1,60 @@
+
+
+SENTENÇA
+
+Processo nº:0032150-51.2011.8.26.0001 - Procedimento Ordinário
+Requerente:Vanusa Magalhães Freitas
+Requerido:Banco Bradesco S/A
+
+
+Juiz(ª) de Direito Dr.(ª): Enéas Costa Garcia
+
+
+Vistos. 
+
+1. VANUSA MAGALHAES FREITAS, qualificada nos autos, ingressou com ação indenizatória contra BANCO BRADESCO S.A, alegando, em síntese, que: a) a pedido de sua irmã, negociou com o réu o desconto de cheque pré-datado (contrato de borderô de desconto de cheques), negócio realizado em 9/12/2010; b) o cheque havia sido preenchido equivocadamente pela pessoa que o entregou à irmã da autora, constando a data como 30/01/2010, quando na realidade o cheque seria apresentado em 30/01/2011; c) constava do cheque a menção bom para 30/01/2011; d) o valor da operação de desconto foi creditado na conta da autora, contudo, na época própria não houve compensação do cheque, devolvido sob alínea 44 (prescrição); e) o banco falhou na prestação do serviço, realizando o contrato com cheque que não admitiria compensação; f) o banco exige da autora o pagamento do título, tendo negativado seu nome.   
+Pretende o acolhimento do pedido para condenação do requerido ao pagamento de indenização de dano material e moral, no montante de 100 salários mínimos. 
+
+2. O réu foi citado e apresentou contestação (fls. 38/55). Alega em defesa que não houve defeito na prestação do serviço, havendo culpa exclusiva da consumidora, impugnando o pedido de indenização. 
+
+3. Veio aos autos a réplica (fls. 89/92).
+É o relatório. 
+
+DECIDO.
+
+4. O feito comporta julgamento antecipado, sendo dispensável a produção de prova oral, nos termos do art. 330, I do Código de Processo Civil.
+
+5. A ação é PARCIALMENTE PROCEDENTE. 
+Os fatos são incontroversos, demonstrados pelos documentos juntados: I) em 09/12/2010 a autora celebrou com o requerido contrato de desconto de cheque (fls. 16); II) foi entregue o cheque de R$ 5.000,00, para depósito em 30/01/2011 (fls. 17), cheque emitido por terceiro (fls. 14); III) o cheque era pré-datado e a emitente pretendeu colocar a data em que o título deveria ser depositado (bom para 30/01/2011), mas se enganou quanto ao ano, preenchendo 30 de janeiro de 2010 (fls. 14); IV) quando o cheque foi apresentado para compensação já contava com mais de um ano da data de emissão (equivocadamente preenchida), sendo devolvido pela alínea 44 (prescrição); V) em razão da não compensação do cheque a autora passou a ser cobrada pelo banco e, inclusive, teve seu nome negativado (fls. 15).
+Alega a autora que houve falha no serviço bancário, pois o requerido teria aceitado celebrar o contrato com cheque inadequado. Sustenta a autora que não teria celebrado o negócio se o réu houvesse desde logo apontado a irregularidade do cheque, pois contava com o valor do título a ser compensado. 
+E realmente o vício do serviço está caracterizado, pois não se justifica que o banco aceite celebrar o contrato em dezembro/2010 relativo a cheque emitido em janeiro/2010, quando o requerido sabia que o título não seria passível de compensação em razão do longo tempo decorrido. 
+Falhou gravemente o banco no dever de conferência do título recebido para a operação de desconto. 
+Se em razão do erro de preenchimento o título se tornava insuscetível de compensação, sendo o banco profissional e sabedor desta circunstância, cabia-lhe o indeclinável dever de recusar a operação. 
+Aceitando-a cometeu falha, dando causa aos fatos posteriores contra os quais se volta a requerente. 
+Procede a argumentação da autora no sentido de que se o banco houvesse adequadamente analisado o título e recusado a operação ela não teria sido colocada na situação atual de devedora do valor respectivo e vítima de restrição de crédito. Portanto, caracterizada a falha do serviço e o nexo causal. 
+O banco invoca a excludente da culpa exclusiva do consumidor, todavia, no caso sub judice não se trata de culpa exclusiva da vítima, mas de culpa concorrente da instituição financeira. 
+O banco tinha o dever contratual e profissional de analisar a higidez do título, de modo que a aceitação de cheque formalmente irregular caracteriza sua culpa. 
+Havendo culpa concorrente não se aplica a causa excludente e o prestador de serviço responde integralmente pelo dano causado. 
+O pedido de indenização deve ser acolhido em parte, pois não discriminado qual seria o dano material que a autora reclama reparação.
+O pedido de dano moral é pertinente, considerando que a negativação de crédito teve origem na falha do serviço bancário. 
+A indevida restrição de crédito, por si só, caracteriza dano moral, independentemente de outras consequências. 
+Desnecessária a produção de prova da existência do dano. Ampliado, porém o conceito de abalo de crédito, para compreender também as suas projeções na esfera subjetiva dos direitos da personalidade do indivíduo, já então, e contrariamente ao decidido por alguma jurisprudência, a existência do dano moral não reclama rigorosa demonstração probatória. (YUSSEF SAID CAHALI, Dano moral, p. 361).
+Como salientou o Ministro Castro Filho: Cabe ainda ressaltar que, em casos que tais, faz-se desnecessária a prova do prejuízo, que é presumido, uma vez que o dano moral decorre da própria inclusão indevida do nome do autor no cadastro de inadimplentes. (STJ ? AgRg no Ag. nº 470538/SC  - Rel. Min. Castro Filho ? j. 6/11/03)
+No mesmo sentido: Resp. nº 389.879/MG -   Rel. Min. Sálvio de Figueiredo Teixeira; Resp. nº 332.622/RJ - Rel. Min. César Asfor Rocha; Resp. nº 285.854/PB - Rel. Min. Carlos Alberto Menezes Direito; Resp. nº 51.158/ES - Rel. Min. Ruy Rosado de Aguiar.
+Considerando as circunstâncias do caso, o grau de culpa, as consequências do evento, fixo a indenização em R$ 5.000,00 (cinco mil reais). 
+Incide correção monetária desde a sentença (Súmula 362 do STJ) e juros de mora, à taxa legal, desde a data da negativação (março/2011), nos termos da Súmula nº 54 do Superior Tribunal de Justiça.
+A fixação da indenização de dano moral em valor inferior ao reclamado não caracteriza sucumbência, nos termos da Súmula nº 326 do Superior Tribunal de Justiça: Na ação de indenização por dano moral, a condenação em montante inferior ao postulado na inicial não implica sucumbência recíproca.
+ 
+6. Diante do exposto, JULGO PARCIALMENTE PROCEDENTE o pedido para CONDENAR o requerido ao pagamento da quantia de R$ 5.000,00 (cinco mil reais), com correção monetária desde a sentença (Súmula 362 do STJ) e juros de mora, à taxa legal, desde a data da negativação (março/2011).
+Condeno a parte requerida, sucumbente na quase integralidade do pedido, ao pagamento de custas, despesas processuais e honorários advocatícios, que arbitro em 10% do valor da condenação.  
+
+P. R. I
+
+
+   São Paulo, 06 de junho de 2012.
+
+
+ ENÉAS COSTA GARCIA
+        JUIZ DE DIREITO
+
+         (assinatura digital)

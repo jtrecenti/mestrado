@@ -1,0 +1,66 @@
+
+
+SENTENÇA
+
+Processo nº:0001686-67.2013.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Defeito, nulidade ou anulação
+Requerente:Rec Ribeiro Preto S/A
+Requerido:F.C Rental Locação de Maquinas e Veiculos Ltda e outro
+
+
+
+Juiz(a) de Direito: Dr(a). Rodrigo Garcia Martinez
+
+
+
+Vistos.
+ 
+
+
+
+
+REC RIBEIRO PRETO S/A ajuizou ação declaratória de nulidade de título cumulada com antecipação de tutela em face de F.C. RENTAL LOCAÇÃO DE MAQUINAS E VEICULOS LTDA e FIDC EXODUS III. Em breve resumo, alegou o autor ter realizado um contrato de prestação de serviços de terraplanagem e pavimentação com a primeira ré. Sustentou que ao receber as notas de cobrança efetuou as transferências dos valores na conta bancária fornecida pela requerida. Aduziu ainda, que se surpreendeu ao receber dois títulos protestados em nome da segunda ré, referentes aos pagamentos que fizera, além da negativação do nome no SERASA. 
+Sustenta ao final a inexigibilidade dos títulos, pleiteando a indenização por danos morais sob a ótica da negativação. 
+Citada as rés (fls. 76/77), apresentaram defesa. A primeira contestou (fls. 81/90) alegando ilegitimidade de parte por haver cedido o crédito à segunda ré e que o requerente era mal pagador, devendo quitar a dívida em aberto. Ademais, ele teria efetuado a transferência em conta inativa. 
+A segunda ré também apresentou contestação (fls. 103/121), aduzindo a exigibilidade dos títulos exigíveis, uma vez que a dívida não foi paga, tendo a autora o conhecimento da cessão de crédito realizada entre as rés.
+
+Houve réplica. (fls. 156/162)
+
+É o relatório.
+
+FUNDAMENTO.
+
+DECIDO.
+
+
+Pretende o autor a inexigibilidade dos títulos ante os pagamentos realizados. Verifico de plano que a presente demanda é totalmente PROCEDENTE. Senão vejamos.
+
+Ao autor cabia ante a convenção com a ré o pagamento das duplicatas. Segundo os termos do contrato, poder-se-ia cumprir a obrigação via depósito bancário ou DOC/TED, em conta indicada pela requerida, conforme cláusula 2.2. 
+Em suma, DOC/TED são operações que tem por finalidade a realização de transferências interbancárias. DOC é documento de crédito, enquanto o TED é uma transferência eletrônica disponível. A principal diferença entre elas está nos valores das transações. Para a realização de DOC é permitido apenas valores inferiores a R$ 1.000,00, e TED, valores superiores a R$ 5.000,00. Acima de mil e abaixo de cinco mil, é facultada a operação, seja por DOC ou TED. 
+Optou o autor pela transferência eletrônica disponível. 
+
+Sob as alegações de ilegitimidade de parte e inatividade da conta bancária, não se coadunam com a realidade fática e provas acostadas. Primeiramente, para que fosse reconhecida a ilegitimidade (verdadeira matéria de mérito), a ré contratante deveria notificar o autor da cessão de crédito realizada com a outra corré. É o que dita à redação do artigo 290, do Código Civil:
+?A cessão do crédito não tem eficácia em relação ao devedor, senão quando a este notificada...?. 
+Tal notificação, pelo que dos autos consta não ocorreu. 
+Com relação à cessão de crédito, notório está a impossibilidade de ceder havendo proibição nos termos do contrato pactuado. Senão, veja-se a cláusula 2.2 do contrato traz em sua redação o seguinte: 
+?Fica expressamente proibido à Subcontratada a emissão de boletos e títulos contra a Contratante e/ou Interveniente Anuente, bem como a cessão total ou parcial a quaisquer dos créditos decorrentes deste contrato?.
+
+ Neste sentido, o Código civil traz sob a égide do artigo 286:
+?O credor pode ceder o seu crédito, se a isso não se opuser a natureza da obrigação, a lei, ou a convenção com o devedor; a cláusula proibitiva da cessão não poderá ser oposta ao cessionário de boa-fé, se não constar do instrumento da obrigação?.
+Verifico, portanto que o contrato expressamente permitia a forma de pagamento optada pelo requerente, além de ser proibia a cessão do crédito. Os documentos de fls. 42/43 comprovam a autenticidade dos pagamentos realizados, e, por óbvio, impossível realizar transferências em conta inexistente/inativa, conforme alegado pela requerida. Acrescento, ao final, sobre o tema, o disposto no artigo 292, do Código Civil, no qual: 
+?Fica desobrigado o devedor que, antes de ter conhecimento da cessão, paga ao credor primitivo...?.
+Logo, de rigor a declaração de inexigibilidade de cobrança das dívidas pagas pelo autor, cujo protesto indevido restou demonstrado, pelos documentos de fls. 42/43. 
+A inscrição indevida em cadastro de proteção ao crédito, tal como o Serasa, por si só, causam transtornos à imagem da vítima (uma vez que se trata de pessoa jurídica) e caracterizam os danos morais in re ipsa. O artigo 5º da Constituição Federal, em seu inciso X, traz uma garantia indenizatória em dano moral decorrente da violação à imagem.
+O valor da indenização deve ser fixado de modo a compensar os danos suportados pela ré, não sendo tão elevados a ponto de representar enriquecimento indevido. Sobre a fixação do patamar indenizatório, vale destacar o magistério de Carlos Roberto Gonçalves:
+?Pode-se afirmar que os principais fatores a serem considerados são: a) a condição social, educacional, profissional e econômica do lesado; b) a intensidade de seu sofrimento; c) a situação econômica do ofensor e os benefícios que obteve com o ilícito; d) a intensidade do dolo ou o grau de culpa; e) a gravidade e a repercussão da ofensa; e f) as peculiaridades e circunstâncias que envolveram o caso, atentando-se para o caráter antissocial da conduta lesiva?.
+
+Assim, atento que o presente caso se trata de pessoa jurídica (não sofre danos psíquicos, limitados apenas à imagem e ao nome) fixo o valor da indenização por danos morais em R$ 6.000,00, por entender quantia razoável para o presente caso.
+
+Ante o exposto, JULGO PROCEDENTE a presente demanda, para declarar inexigíveis as dívidas referentes às duplicatas de nº. 446 e 454, cancelando os respectivos protestos, nos termos do artigo 269, I do C.P.C. Reitero, assim, a tutela antecipada (fls. 63).
+Condeno, ainda, a requerida, à compensação pelos danos morais, fixada em R$ 6.000,00, corrigido pela tabela prática do Tribunal, a partir desta data até o efetivo pagamento, acrescidos de juros legais contados da citação.
+Fica ainda a requerida responsável pelo pagamento das despesas processuais e honorários advocatícios fixados em 10% do valor da condenação, devidamente atualizado.
+PRI.
+
+São Paulo, 17 de dezembro de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

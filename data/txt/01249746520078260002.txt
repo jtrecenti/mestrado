@@ -1,0 +1,49 @@
+
+
+SENTENÇA
+
+Processo nº:0124974-65.2007.8.26.0002
+Classe - AssuntoOutros Feitos Não Especificados - Assunto Principal do Processo >
+Requerente:Bradesco Seguros S/A
+Requerido:Areva Transmissão e Distribuição de Energia Ltda
+
+
+
+Juiz(a) de Direito: Dr(a). Adriana Borges de Carvalho
+
+
+
+VISTOS.
+
+
+BRADESCO SEGUROS S/A ajuizou ação de ressarcimento em face de AREVA TRANSMISSÃO E DISTRIBUIÇÃO DE ENERGIA LTDA. alegando que firmou contrato de seguro com a empresa Votorantim Celulose e Papel S/A. Relata que, em razão de um incêndio causado pela má qualidade no disjuntor fabricado pela ré, arcou com o prejuízo, pagando à segurada a quantia de R$ 97.010,12. Assim, requer a procedência da ação, com a condenação da ré ao ressarcimento deste valor, corrigido e acrescido de juros, sem prejuízo das verbas de sucumbência.
+Citada, a ré apresentou contestação (fls. 171/183), alegando que a operação e instalação do equipamento são de responsabilidade da empresa Votorantim e que o laudo indica que diversas situações podem ter causado o incêndio, faltando, pois, o nexo causal. Impugnou os laudos e os valores apresentados pela demandante, enfatizando a inaplicabilidade do Código de Defesa do Consumidor. Ao final, aguarda a improcedência da ação.
+Houve réplica a fls. 185/197. Em seguida, as partes especificaram as provas que pretendiam produzir (fls. 202/206 e fls. 207/209) e o feito foi saneado (fls. 212/214), determinando-se a realização de prova pericial, cujo laudo foi apresentado a fls. 246/269, com complemento a fls. 370/380. Na sequência, sobrevieram manifestações das partes.
+Na audiência designada, foram ouvidas as testemunhas arroladas pelo autor (fls. 433 e 453).
+É o relatório do essencial.
+
+D E C I D O.
+
+A presente ação é regressiva. A demandante, na qualidade de seguradora, pagou os prejuízos causados à empresa Votorantim em razão de um incêndio. Por conseguinte, subrogou-se nos direitos da segurada, decorrentes da apólice de seguro contratada por esta. 
+Divergem as partes quanto à responsabilidade pela explosão ocorrida no cubículo de nº 13 (Marca Alstom ? tipo PAD3-15), localizado na sala de controle do Turbo Gerador 3 de 55MVA, causando um incêndio, em 14/05/2004.
+O autor cobra da ré a indenização que pagou à segurada, sob o argumento de que o aludido cubículo, de sua fabricação, apresentou defeito. Por seu turno, a ré imputa à empresa Votorantim a culpa exclusiva pelo sinistro, na medida em que há indícios de má instalação e manutenção do produto.
+Para dirimir a questão, foi realizada perícia técnica, com o fim de averiguar se o acidente ocorreu por defeito de fabricação ou falha na instalação/manutenção do equipamento instalado na fábrica da Votorantim. 
+O trabalho técnico foi elaborado com observância da norma da ABNT (NBR 7118), que fixa as características exigíveis dos disjuntores de alta tensão, como é o caso do equipamento fabricado pela requerida. Pelas normas, há regras para a escolha correta dos disjuntores, sendo necessária a realização de uma pré-inspeção, para se averiguar se o ambiente onde será instalado comporta o tipo de disjuntor escolhido. Especificamente no caso dos autos, o perito afirma que não há qualquer referência se no processo de compra dos equipamentos pela Votorantim foi realizada a referida inspeção (fl. 261).
+No entanto, o documento de fl. 99 mostra que, em 06/05/2004, uma semana antes do sinistro, foi realizado um teste no disjuntor e constatada uma anomalia; segundo apurou o expert, a empresa Votorantim manteve a utilização do equipamento, com o objetivo de efetuar um posterior ensaio de tipo para verificar a adequação às suas necessidades. Nada foi mencionado, naquela ocasião, que a anomalia era decorrente de eventual defeito de fabricação, tanto que, mesmo depois de constatado um problema, o disjuntor continuou sendo utilizado. 
+Também apurou o perito, que em 28/12/2003, a requerida já havia atendido a uma ocorrência na Votorantim e constatou que houve manutenção inadequada no disjuntor por pessoal não habilitado; e que após a devida correção, deixou o equipamento funcionando conforme as especificações, até a ocorrência do dia 06/05/2004. 
+Destarte, o laudo de avaliação formulado pelo técnico da seguradora (fls. 50/60) não trouxe elementos que pudessem afirmar, de modo irrefutável, que o sinistro foi causado pela má fabricação do produto vendido pela requerida. Até mesmo o laudo crítico apresentado a fls. 334/348 por parte do requerente, afirma, no item 4.0 (fl. 347), que a ocorrência de sinistros do tipo avaliado nesta ação, pode ser decorrente de uma infinidade de causas, tais como a mencionada possível inadequação do equipamento às condições de instalação, problemas ambientais e de manutenção, e até mesmo às causas externas (grifo não original).
+Por seu turno, o trabalho realizado pelo perito do Juízo não deixa dúvida de que pode ter havido manutenção inadequada no equipamento. E este fator, como bem ressaltou o perito em mais de uma oportunidade, pode ser considerado como causa dos problemas ocorridos no produto.
+Logo, não se pode assegurar que o sinistro ocorreu por culpa exclusiva da requerida. Nesse caso, a culpa não se presume. Mesmo diante do trabalho técnico realizado e da prova oral colhida, que em nada contribuiu para infirmar o conteúdo do laudo pericial, não se vislumbra a existência de nexo causal entre o dano e a conduta da ré, qual seja, a de fabricação do equipamento. 
+Não se ignore que o ônus de comprovar os fatos constitutivos de seu direito compete ao autor, nos termos do art. 333, I, do Código de Processo Civil. Não logrando fazê-lo, de rigor é a improcedência da ação.  
+Diante do exposto e do mais que dos autos consta, JULGO IMPROCEDENTE a ação proposta por BRADESCO SEGUROS S/A em face de AREVA TRANSMISSÃO E DISTRIBUIÇÃO DE ENERGIA LTDA., extinguindo o processo, nos termos do art. 269, I, do Código de Processo Civil. 
+Pelo princípio da sucumbência, o autor arcará com as custas e despesas processuais, corrigidas desde o desembolso, além dos honorários advocatícios, que fixo por equidade em R$ 2.000,00.
+Após o trânsito em julgado, aguarde-se por 30 dias. Nada sendo requerido, arquivem-se os autos, com as cautelas de praxe.
+Para cálculo da taxa de preparo, considerar-se-á o valor histórico atribuído à causa.
+P.R.I.
+São Paulo, 11 de março de 2011.
+
+
+
+ADRIANA BORGES DE CARVALHO
+   Juíza de Direito
+         (assinatura digital)

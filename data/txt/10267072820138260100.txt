@@ -1,0 +1,61 @@
+
+
+SENTENÇA
+
+Processo nº:1026707-28.2013.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Defeito, nulidade ou anulação
+Requerente:MAD PRODUCT DISTRIBUIDORA LTDA
+Requerido:GTS LOGISTICS LTDA.
+
+Juiz(a) de Direito: Dr(a). Rogério de Camargo Arruda
+
+Vistos.
+MAD PRODUCT DISTRIBUIDORA LTDA. ajuizou ação declaratória de inexigibilidade de obrigação cambiária cumulada com cancelamento de protesto e pedido de tutela antecipada contra GTS LOGISTICS LTDA. alegando, em síntese, que se comprometeu a pagar valores relativos a dois fretes marítimos realizados pela ré. Afirma que os fretes chegaram ao destino em 13.04.2012 e que o pagamento foi realizado em 16.04.2012. Diz que, na época, a Receita Federal realizou uma operação chamada ?Maré Vermelha?, que reteve diversos fretes, dentre eles, um dos seus (CMI ? 003019). Aduz que, em razão dessa retenção, a ré cobrou uma sobreestadia em dólares, sendo que o combinado inicial entre as partes era em euros. Afirma que a ré protestou o título do referido frete. Por essas razões, requereu antecipação da tutela para que o protesto seja cancelado. Requereu, ainda, a declaração de inexigibilidade da dívida da fatura CMI 3019, a condenação da ré por danos morais em valor equivalente a 30% do valor do título protestado e a condenação da ré na indenização do valor correspondente à taxa de cancelamento de protesto. 
+
+A tutela foi antecipada (folha 63).
+
+Citada, a ré apresentou contestação ás folhas 82/88, alegando, em síntese, ter sido contratada pela autora para prestar serviço de agenciamento de transporte marítimo internacional de cargas, tendo a autora, quando recepcionou a carga no Brasil, firmado um termo de responsabilidade, pelo qual se responsabilizou pelo pagamento de eventual demurrage. Aduz que a autora foi cientificada de que as taxas de sobreestadia seriam informadas pela Cia Marítima detentora do embarque. Diz que a cobrança não se vincula intimamente à cobrança de sobreestadia, e sim, à cobrança devido à prestação de serviço. Afirma que não houve força maior ou caso fortuito no caso da retenção do frete na operação da Receita Federal, pois isso é um risco do negócio da autora. Impugnou os danos morais pleiteados. Por essas razões, requereu a improcedência da ação.
+
+Réplica às folhas 118/124.
+
+Instadas a produzirem mais provas (folha 125), a ré requereu prova oral (folha 128), e a autora requereu o julgamento antecipado da lide (folha 129).
+
+É o relatório.
+Fundamento e decido.
+
+O feito comporta julgamento no estado em que se encontra, tendo em vista que as alegações das partes e os documentos por elas acostados aos autos permitem o sentenciamento do feito, independentemente da produção de outras provas, nos termos do artigo 330, inciso I, do Código de Processo Civil.
+
+Posto isso, a ação é parcialmente procedente.
+
+Isso porque a ré cobrou da autora ?demurrage?, como comprovado na fatura de folhas 45/46. No entanto, a ?demurrage? não pode dar causa à emissão de duplicatas, pois as hipóteses legais que autorizam o saque cambial são a) compra e venda mercantil ou b) prestação de serviços. Ocorre que a sobreestadia de container não é considerada prestação de serviços, já que possui natureza indenizatória por descumprimento contratual. Trata-se, portanto, de indenização a ser paga, com finalidade de compensar o proprietário e transportador do container por eventuais prejuízos sofridos em razão de sua retenção no porto, por prazo superior ao contratado.  
+
+Ademais, conforme os §§ 1º e 2º do art. 20 da Lei de Duplicatas (Lei 5.474/68), tem-se que ?a fatura deverá discriminar a natureza dos serviços prestados? e ?a soma a pagar em dinheiro corresponderá ao preço dos serviços prestados?. A sobreestadia protestada pela ré não tem, na fatura, nenhum dos itens apontados na lei, pois, como já mencionado, o ?demurrage? não é compra e venda mercantil e nem prestação de serviços. 
+
+Nesse sentido,
+
+ANULACAO DE TITULO DE CREDITO E CAUTELAR DE SUSTACAO DE PROTESTO - LIMINAR CONCEDIDA - DUPLICATA SACADA PARA COBRANCA DE "DEMURRAGE" - IMPOSSIBILIDADE - NATUREZA DO TITULO.
+1. Não procede a preliminar de cerceamento de defesa, além de se tratar de matéria preclusa pela inercia de recorrer da decisão interlocutória que decidiu pelo julgamento antecipado da lide, e ante o fato do julgador se sentir satisfeito e apto a sentenciar, com as provas ate então produzidas.
+2. Deve a duplicata, necessariamente, representar o débito do preço de uma compra e venda mercantil ou a remuneração de serviços prestados, não servindo para cobrança de outras parcelas, tal como a dos autos, a "demurrage", eventualmente devida pela autora, mas que para ser cobrada depende de ação própria.
+3. recurso negado. legislação: CF/88 ? art. 5º.
+(Apelação Cível 926156 PR. Des. Rel. Tufi Maron Filho. J. 15.10.1996).
+
+Dessa forma, indevido o protesto do título realizado pela ré contra a autora, devendo aquela arcar com a taxa de cancelamento do protesto, como requerido.
+
+No que concerne aos danos morais pleiteados, sabe-se que, ao derivarem de protesto indevido, dispensam a comprovação da extensão da lesão e independem de prova de prejuízo, sendo de rigor a sua indenização nesta lide. Nesse sentido:
+
+?AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE TÍTULO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS.
+Recorrente reconheceu que não houve relação negocial com a autora a ensejar a emissão da duplicata. Correto o reconhecimento da nulidade do título. Configurado o protesto indevido, não há se falar em ausência de demonstração do dano moral sofrido pela autora, pois evidenciado pelas circunstâncias do próprio fato. Valor da condenação de R$4.942,62 bastante moderado. Sentença mantida pelos próprios fundamentos. Art. 252 do Regimento Interno do E. Tribunal. Recurso improvido? (Apelação Cível nº. 0004636-50.2008.8.26.0609, 17ª Câmara de Direito Privado, Des. Rel. Erson de Oliveira, d.j. 10/04/2013).
+
+
+Fixado o dever de indenizar, referida indenização por danos morais, como apontam doutrina e jurisprudência, deve atender à sua dupla finalidade: ressarcimento do dano experimentado pela vítima e desestimulo da conduta do ofensor. 
+
+Assim sendo, consideradas as particularidades do caso concreto, tendo-se em conta a razoabilidade e, por fim, para que se evite o enriquecimento ilícito da parte autora, fixo os danos morais em 30% do valor do título protestado (R$ 7.294,95).
+
+Por outro lado, sucumbe a autora no pedido de inexigibilidade da dívida. Isso porque o termo de responsabilidade (folhas 101/103) traz expressamente que a ?demurrage? será cobrada com base na tarifa de sobreestadia, conforme tabela vigente da Co. Marítima de Navegação, detentora do embarque. Tendo a autora assinado esse termo, obrigou-se a pagar referida indenização, no caso de atraso na devolução do container, o que efetivamente ocorreu, não podendo a requerente se desincumbir da obrigação.  Assim, em que pese a irregularidade na emissão de título de crédito, por não se tratar de causa subjacente válida para tanto, isso não quer dizer que não haja dívida, a qual, a toda evidência existe e é exigível pelos meios legais de cobrança, só não por meio de duplicata, como fez a requerida.
+
+Diante do exposto, JULGO PARCIALMENTE PROCEDENTE a ação para a) confirmar a tutela antecipada; b) condenar a ré a arcar com a taxa de cancelamento de protesto; c) condenar a ré a pagar R$ 7.294,95 a título de danos morais atualizada desta data e com juros de mora de 1% ao mês, a partir desta data. Em consequência, julgo extinto o feito, nos termos do artigo 269, inciso I, do Código de Processo Civil. Em razão da sucumbência recíproca, cada parte arcará com metade das custas e despesas processuais, bem como com honorários de seus respectivos advogados, na forma do artigo 21, do Código de Processo Civil.
+
+P.R.I.C.
+São Paulo, 09 de setembro de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

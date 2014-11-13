@@ -1,0 +1,68 @@
+
+
+SENTENÇA
+
+Processo nº:0018183-27.2011.8.26.0004
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Material
+Requerente:Adobe Systems Incorporated e outro
+Requerido:Hoperatriz Comércio e Representações Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Lúcia Helena Bocchi Faibicher
+
+
+Vistos.
+
+ADOBE SYSTEMS INCORPORATED e MICROSOFT CORPORATION ajuizaram a presente ação de indenização contra HOPERATRIZ COMÉRCIO E REPRESENTAÇÕES LTDA , alegando, em resumo, que são titulares dos direitos autorais relativos aos diversos programas de computador indicados na inicial, cujo uso depende de prévio licenciamento, devendo as cópias  ser adquiridas diretamente das autoras ou de um de seus distribuidores autorizados. Acontece que a ré estaria se valendo dos programas em questão por meio de cópias ilegais, o que comprometeria os direitos e os interesses das autoras. Desejam, assim, com amparo na Lei nº 9.609/98, que a ré seja proibida de continuar utilizando os programas de computador em questão, sob pena do pagamento de multa diária, bem como condenada ao pagamento de indenização pelos danos materiais causados.
+Devidamente citada, a ré apresentou contestação (fls. 209/215). Em preliminar, alega defeito de representação processual e falta de interesse de agir. No mérito, sustenta inexistência de irregularidade de uso de software, uma vez que alguns programas de computadores são de uso livre e os demais, possuem licenças de uso. Sustenta que não há prova da prática de qualquer ato ilícito ou danoso. 
+Houve réplica (fls. 233/240).
+Determinada a especificação de provas (fls. 241), as autoras pugnaram pelo julgamento antecipado da lide (fls. 243).
+A audiência de tentativa de conciliação restou infrutífera (fls. 247).
+Determinada a regularização da representação processual das autoras (fls. 259), as partes se manifestaram às fls. 273 e 278.
+Em apenso, encontram-se os autos da medida cautelar de vistoria, busca e apreensão nº 0012458-57.2011.8.26.0004, envolvendo as mesmas partes, com base nos mesmos fatos e fundamentos jurídicos acima narrados, cujo pedido foi de concessão de liminar para busca e apreensão de programas de computador de titularidades das autoras, reproduzidos com violação de direitos autorais.
+Indeferido o pedido de segredo de justiça (fls. 666).
+Emenda à inicial (fls. 667/670).
+A medida liminar foi concedida (fls. 673/674).
+Foi appresentado laudo pericial (fls. 680/708), sobre os quais as partes manifestaram às fls. 782/783 e 784/786.
+A ré apresentou contestação às fls. 724/734. Arguiu a nulidade da vistoria e da citação, pela necessidade de dois oficiais de justiça e testemunhas para o cumprimento da diligência. No mais, alinha os mesmos fundamentos de defesa acima expostos.
+Houve réplica (fls. 770/780).
+Os processos foram reunidos para julgamento conjunto (fls. 781).
+
+É o relatório.
+Fundamento e decido.
+
+As partes são legítimas e estão devidamente representadas.
+Estão presentes os pressupostos processuais e as condições da ação, tendo em vista que as autoras estão se valendo do procedimento útil e adequado para a obtenção da tutela jurisdicional.
+Quanto ao mérito, há provas suficientes de que houve a utilização irregular dos programas pela ré e que estão protegidos pela Lei nº 9.6120/98.
+De acordo com o artigo 7º, XII da Lei nº. 9.610/98, os programas de computador são considerados obras intelectuais e, portanto, protegidos.
+O artigo 29, inciso I do mencionado diploma legal também estabelece que a reprodução parcial ou integral da obra depende de prévia e expressa autorização do titular dos direitos, sob pena de configurar contrafação, cuja repressão encontra amparo no artigo 5º, inciso VII da Lei de Direitos Autorais.
+Assim, feitas estas considerações e tendo em vista que as autoras juntaram documentos para comprovar que são as titulares dos direitos autorais referentes aos programas mencionados na petição inicial, resta analisar se houve a reprodução indevida por parte da ré.
+A prova pericial (fls.680/689) produzida nos autos da ação cautelar em apenso no 20 de julho de 2011, com a nomeação de dois peritos, acompanhado do oficial de justiça e na presença de funcionário da ré, concluiu que os programas de titularidade das autoras não tiveram as licenças de uso comprovadas, sendo vistoriados 4 microcomputadores no total.
+A origem dos programas somente poderia ser comprovada mediante a apresentação dos certificados que são concedidos pelo titular do programa, no caso, as autoras e que são aptos a indicar a autenticidade.
+Estes certificados acompanham o programa original e deveriam estar em poder da ré, o que não aconteceu em todos os programas vistoriados, motivo pelo qual as provas são mais do que suficientes para revelar que houve infração à legislação em vigor.
+Assim, diante da prova pericial produzida, comprovou-se de forma satisfatória a utilização indevida de programas popularmente conhecidos como ?pirata?.
+A indenização também é devida e neste sentido pode ser destacada a ementa a seguir transcrita:
+DIREITO AUTORAL - Informática - Propriedade Intelectual de Programa de Computador - Utilização não autorizada de software - Busca e apreensão e vistoria dos programas irregulares para o fim de constituir-se a prova natural da lesão.
+Deve o usuário demandado perder os exemplares fraudulentos e ainda responder por uma indenização adequada ao ilícito cometido, convindo que seja apurada em liquidação de sentença quando não se puder aplicar os critérios legais (artigos 103, parágrafo único a 107 da Lei nº 9.610/98 c. c. artigo 2º da Lei nº 9.609/98). A nota fiscal de compra e a licença constituem a prova natural do uso regular do programa de computador. O procedimento de busca e apreensão e vistoria está previsto nos artigos 13 a 14 da Lei nº 9.609/98 e, desde que realizada dentro da normalidade, sem abusos e excessos, não dá ensejo à parte requerida para reclamar qualquer indenização. Sentença que bem observou tais diretrizes, assim a merecer confirmação pelos próprios termos. Improvimento de ambos os apelos. (TJRJ - AC nº 21.239/2.000 - 9ª C. Cív. - Rel. Des. Laerson Mauro - DORJ 04.10.2.001).
+Quanto ao valor da indenização, entendo que assiste razão às autoras ao considerar que deve ser aplicado o disposto no artigo 103 da Lei 9.610/98.
+Segundo este:
+?Quem editar obra literária, artística ou científica sem autorização do titular, perderá para este os exemplares que se apreenderem e pagar-lhe-á o preço dos que tiver vendido.
+Parágrafo único. Não se conhecendo o número de exemplares que constituem a edição fraudulenta, pagará o transgressor o valor de três mil exemplares, além dos apreendidos?.
+Este artigo deve ser aplicado por analogia e a indenização encontra amparo apenas no ?caput?, sem que exista a possibilidade de condenar a ré ao pagamento de três mil exemplares, pois não se trata de edição fraudulenta, mas sim de uso indevido de programas.
+Assim, observando-se o disposto no ?caput? do artigo 103, as autoras têm direito ao recebimento do valor representado pelo número de programas que foram utilizados pela ré, sem a devida licença, valor este que será apurado em liquidação de sentença.
+Para a apuração da indenização, será levado em consideração o valor de mercado dos programas por ocasião da elaboração do laudo.
+Como as autoras não indicaram qual vantagem econômica teria sido obtida pela ré, além de não terem fornecido parâmetros para o cálculo dos lucros cessantes, a indenização deverá observar as diretrizes acima traçadas.
+Ressalto, neste ponto, que muito embora seja admissível a formulação de pedido genérico, também é certo que a parte deverá apresentar os parâmetros para que a indenização seja calculada.
+A liquidação realmente pode ser feita por arbitramento, mas observados os limites estabelecidos na sentença proferida na primeira fase do processo.
+Por fim, o pedido das autoras nos autos da ação cautelar em apenso deve ser julgado procedente, para tornar definitiva a liminar concedida. 
+
+Posto isso e considerando o mais que dos autos consta, julgo procedentes a medida cautelar e o pedido principal, para o fim de condenar a ré a abster-se de reproduzir ou mesmo utilizar de qualquer forma os programas irregulares, sob pena do pagamento de multa diária de R$ 1.000,00 por cada um deles, tornando definitiva a liminar concedida.
+Outrossim, também condeno a ré ao pagamento de indenização, consistente no repasse do valor relativo ao preço de mercado de cada um dos programas, mediante apuração correspondente em regular liquidação por arbitramento. Os valores encontrados serão devidamente acrescidos de correção monetária com base na Tabela Prática do Tribunal de Justiça do Estado de São Paulo e acrescidos de juros de mora de 1% ao mês desde a citação levada a efeito na cautelar.
+Arcará a ré, também, com o pagamento das custas dos processos, inclusive salários periciais, e dos honorários advocatícios, fixados, por equidade, em R$ 2.000,00, nos termos do artigo 20, § 4º, do Código de Processo Civil.
+P.R.I.C.
+
+São Paulo, 10 de julho de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

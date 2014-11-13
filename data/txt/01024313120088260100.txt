@@ -1,0 +1,77 @@
+
+
+SENTENÇA
+
+Processo nº:0102431-31.2008.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Seguro
+Requerente:Agf Brasil Seguros S/A e outros
+Requerido:Combustol Indústria e Comércio Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Paulo César Batista dos Santos
+
+
+AGF BRASIL SEGUROS S/A, BRADESCO SEGUROS S/A, BRASIL COMPANHIA DE SEGUROS, ITAÚ SEGUROS S/A, AZUL COMPANHIA DE SEGUROS GERAIS, SUL AMERICA COMPANHIA NACIONAL DE SEGUROS, SUL AMÉRICA SANTA CRUZ SEGUROS, ALLIANZ ULTRAMAR COMPANHIA BRASILEIRA DE SEGUROS, UNIBANCO AIG SEGUROS, GERLING SUL AMÉRICA S/A SEGUROS INDUSTRIAIS aparelharam ação de conhecimento contra COMBUSTOL INDÚSTRIA E COMÉRCIO LTDA, com pedido condenatório regressivo, decorrente de indenização paga por sinistro coberto em apólice de seguro.
+Trata-se de contrato de cosseguro firmado entre as autoras e a empresa Rhodia Brasil Ltda, cujo objeto englobava danos a equipamentos e lucros cessantes na fábrica da empresa segurada, nos riscos assumidos.
+Ocorrido um incêndio, inicialmente, no aquecedor identificado como AQ-2, em 7 de março de 1999, as autoras descrevem os danos ocorridos em vários dos equipamentos da referida empresa, o que gerou o pagamento da respectiva indenização.
+A causa do incêndio seria a corrosão do tubo diretor, fabricado indevidamente em aço carbono, quando o projeto previa a fabricação em aço inox.
+Descrevendo todos os prejuízos causados, e a correspondente indenização que tiveram que suportar, em regresso, as autoras requerem a condenação da ré ao pagamento de R$ 2.883.992,08.
+Citada, a ré apresentou resposta (fl. 719/780).
+Em suas longas razões, a ré trouxe preliminares (prescrição, denunciação à lide, ilegitimidade passiva, chamamento ao processo, falta de interesse de agir, ausência de documentos essenciais à propositura da ação) para, no mérito, bater-se na total ausência de responsabilidade pelo pagamento dos valores pleiteados, já que agiu nos termos firmados no contrato entabulado com a Rhodia Brasil Ltda.
+Disse também que não há prova a indicar que sua conduta tenha sido causa ou tenha contribuído para o incêndio, estranhamente respondendo pelo valor integral da indenização paga, de forma rápida, sem maiores questionamentos, ainda no ano de 1999.
+Em suma, fundamentando-se na lei e no contrato, requereu a improcedência do pedido.
+Houve réplica (fl. 981/1002).
+Saneador às fl. 1015/1024, com rejeição das preliminares e deferimento de prova pericial e testemunhal.
+Laudo (fl. 1230/1359), com oportunidade de pareceres técnicos, impugnações e esclarecimentos.
+Oitiva do Perito, Assistentes Técnicos e Testemunhas às fl. 1783/1836.
+Testemunhas ouvidas por precatória (fl. 1849/1862).
+Memoriais sucessivos às fl. 1905/1933.
+É o relatório do necessário.
+DECIDO.
+Preliminares já enfrentadas integralmente no saneador.
+No mérito, o pedido é improcedente.
+Dúvida não há quanto à responsabilidade da causadora do sinistro, em ações de regresso fundadas em apólice de seguro com indenização liquidada.
+A seguradora se sub-roga nos direitos que cabiam ao segurado contra os responsáveis pelos danos, nos exatos termos do art. 786 do CC/02. Precedente: Enunciado 188 do STF.
+Sucede que, como em toda responsabilidade civil aquiliana subjetiva, cabe à parte autora a prova dos fatos constitutivos de seu direito (art. 333, inciso I, do CPC), reconhecidamente, a conduta, dano, nexo causal e a culpa.
+O centro nervoso da controvérsia é: responsabilidade da ré pelo incêndio ocorrido no Aquecedor AQ-2, utilizado para aquecimento do fluído térmico Dowtherm, com posteriores proliferações na unidade fabril da segurada.
+Dessume-se dos autos que, após o sinistro, foram realizadas discussões quanto a possíveis causas do incêndio, algumas delas, inclusive, com a participação de representantes da ré.
+A indenização foi liquidada integralmente ainda em julho do ano 2000, sem necessidade de ação judicial, razão pela qual a discussão das causas e responsabilidades pelo incêndio é amplamente cabível nestes autos.
+A solução da controvérsia, absolutamente, demanda prova pericial e documental; daí porque não será considerada como fundamental a oitiva das testemunhas dos autos, prova essa que, como sói acontecer, pouco ajudou. 
+Quanto à prova técnica, contudo, somente foi possível a perícia indireta, já que, após o incêndio, a fábrica foi reformada e, posteriormente, entrou em inatividade. A perícia direta perdeu seu objeto de estudo.
+Caberia às autoras, assim, a prova de que o queimador fabricado pela ré, em aço carbono, quando deveria ser inox, e que era parte integrante do tubo diretor de ar (especificamente, a ponteira do referido tubo), uma vez corroído, teria resultado na alteração da geometria da chama e, consequentemente, rompimento do fluido térmico da serpentina, com desdobramentos catastróficos, levando ao incêndio descrito na inicial.
+Pois bem.
+A conclusão do Sr. Perito, em trabalho exaustivamente desenvolvido, foi no sentido de que a causa do incêndio fora o queimador fabricado pela ré em aço carbono, ao invés de aço inox. 
+De fato, não há dúvida: o queimador misto foi produzido e vendido pela ré com o corpo em aço carbono. É o que está escrito, com todas as letras, no documento de fl. 115: ?01 corpo em aço carbono? e fl. 119.
+Nada impede, assim, que a análise feita pelo Laboratório Falcão Bauer tenha usado como amostra uma parte do corpo do queimador, não a sua extremidade (fl. 161/162).
+O fato de a seguradora a ter optado pelo reforma do equipamento pela própria ré, e não por outra empresa, por si só, não significa nada, já que o segundo equipamento, fabricado em aço inox, não tem relação direta e imediata com a fabricação do primeiro.
+Também não há qualquer irregularidade no fato do perito ter buscado informações com a Rhodia. Natural que assim o fosse, pois foi na sua unidade fabril que o incêndio ocorreu.
+Porém, o documento citado acima era claro ao dizer que o corpo do queimador era em aço carbono, suma extremidade deveria ser em aço inox.
+Ainda que não o fosse, contudo, não bastaria apenas isso para a condenação da ré.
+Digo por que.
+Para que fosse cabível a condenação, seria preciso também prova clara e direta de que a ré fora a única e exclusiva causadora dos danos decorrentes de um incêndio de tamanhas proporções, no qual foi preciso auxílio de brigadistas locais, corpo de bombeiros e populares da cidade de Poços de Caldas-MG.
+Por isso mesmo, dificilmente se pode falar em causa única e exclusiva do sinistro. Fala-se em concausas.
+Com efeito, a ré se responsabilizou pelo fornecimento do queimador e nada mais; não tinha obrigação nenhuma quanto ao projeto de sua adaptação ao tubo diretor, não se sabendo sequer se a Rhodia realizou as corretas instalações para receber a tubulação de interligação ao aquecedor. A concausa do incêndio, assim, poderia perfeitamente ser a folga existente entre o tubo diretor e o concreto refratário que deveria servir de preenchimento.
+A Perícia oficial não excluiu peremptoriamente essa hipótese.
+Outra concausa do triste desfecho, seguramente, pode ter sido a ausência de um sistema de segurança e prevenção (gerenciamento de queimadores), para que, ainda que se iniciasse o incêndio, ele fosse imediatamente mitigado, com eventual desligamento de outros equipamentos, evitando-se, assim, a sua propagação, já que as chamas alcançaram o corpo do aquecedor, local onde estavam as serpentinas por onde os 60.000 litros de fluido Dowtherm, altamente inflamável, passavam.
+Outras possíveis causas do incêndio, conforme bem levantadas pela ré, poderiam ser as condições de suprimento do ar e óleo combustível, geometria do aquecedor, corrosão prévia do aquecedor etc.
+Nada obstante, as autoras insistem na afirmação peremptória (fundadas, é verdade, no estudo técnico) de que a causa do incêndio fora, ao todo e ao certo, a fabricação da ponteira do queimador em aço carbono, quando, nem mesmo isso restou categoricamente provado, já que o material analisado, como dito, pode ter sido retirado do próprio corpo do aquecedor, que, de fato, era de aço carbono, e não da sua extremidade (bico).
+Não é por demais destacar o trabalho feito pelo IPT-Instituto de Pesquisar Tecnológicas do Estado de São Paulo, que após construir um protótipo do queimador, concluiu que era irrelevante o material com que fora fabricada a ponteira do tubo diretor.
+A comparação das conclusões é inafastável.
+É para isso que existe assistente técnico.
+Tal afirmação, obviamente, não ilide completamente a conclusão do Sr. Perito, em seu trabalho também muito bem desenvolvido, mas é forte o bastante para mitigar ainda mais a conclusão de responsabilidade da ré, ainda que o tenha sido utilizado anel metálico modificado, e não o tubo diretor do equipamento mencionado (já perdido e não submetido à perícia).
+É verdade que não foi considerado o desgaste constante da peça no referido estudo, mas também é verdade que o queimador já operava no aquecedor há vários meses, assim como queimadores outros que funcionavam na fábrica de Santo André-SP, razão pela qual não seria preciso fossem consideradas as piores condições de corrosão.
+Destaca-se, mais uma vez, que, lamentavelmente se tratou de perícia indireta, razão pela qual o Sr. Perito pouco podia fazer além de basear suas conclusões apenas em documentos e depoimentos.
+Uma cautelar de produção antecipada de prova seria de rigor, o que não ocorreu.
+Com essas breves considerações, conclui-se, de fato, que não há prova robusta o suficiente de que: a) o material levado o exame tenha sido retirado do bico do queimador fabricado pela ré, considerando-se que se tratava de aquecedor misto com corpo em aço carbono. Com isso, não há prova esgotada de que se tratava de extremidade em aço carbono; b) ainda se assim o fosse, existe parecer técnico no sentido de que, independentemente do material usado na confecção do tubo diretor, a geometria da chama não seria alterada de maneira significativa. Como dito, tal prova não sufraga o laudo pericial, mas deve ser considerada; c) ainda que assim o fosse, existem diversas concausas que poderiam ter sido responsáveis pela propagação do incêndio, inclusive, falta de equipamento eficaz de segurança a impedir que as chamas chegassem ao aquecedor e, consequentemente, atingissem o fluido térmico que corria nas serpentinas.
+Em suma, as autoras se esmeraram, mas não conseguiram a prova eficaz e conclusiva dos fatos constitutivos de seu direito (art. 333, inciso I, do CPC).
+A improcedência é medida que se impõe.
+Ante o exposto, JULGO IMPROCEDENTE o pedido e decreto a extinção do feito com resolução do mérito (art. 269, I, do CPC).
+Condeno as autoras, proporcionalmente, ao pagamento das custas e despesas processuais, além de honorários advocatícios, que fixo equitativamente em R$ 30.000,00 (art. 20, §4º do CPC), tendo em vista a grande complexidade probatória da causa.
+P.R.I.
+São Paulo, 10 de abril de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

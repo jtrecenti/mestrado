@@ -1,0 +1,46 @@
+
+
+SENTENÇA
+
+Processo nº:0108922-15.2012.8.26.0100
+Classe - AssuntoProcedimento Ordinário 
+Requerente:Financeware Comercio e Serviços Ltda
+Requerido:Telefonica Data S/A e outro
+
+
+
+Juíza de Direito: Dra. Celina Dietrich  e Trigueiros Teixeira Pinto
+
+
+
+
+Vistos.
+
+Financeware Comercio e Serviços Ltda move ?ação ordinária? contra Telefonica Data S/A e outro, alegando, em síntese, que contratou os serviços denominados Framerelay e Colocation, fornecidos pela ré, em 2007. Ocorre que seu cadastro foi inserido de forma errada no banco de dados da ré, o que gerou o direcionamento de faturas para endereços inexistentes, desde 2009, obrigando-a a solicitar segunda via das contas todo mês, pedidos que não eram prontamente atendidos devido ao engessamento burocrático da ré. As pendências não foram solucionadas e a ré simplesmente desligava o seu acesso de dados, obrigando a autora a efetuar pagamentos indevidos ou firmar confissão de dívidas inexistentes, tendo em vista que todas as cobranças objeto da ação haviam sido contestadas e referiam-se a serviços Framerelay cancelados e a faturas já quitadas, mas não baixadas pelas rés. Assim, reconhecia uma dívida no valor de R$ 73.165,20, mas a ré cobrava-lhe indevidamente a quantia de R$ 27.064,31, referente aos lançamentos elencados a fls. 19/20 da inicial. Sofreu dano material e moral, que pretende ver indenizados. Daí a propositura da ação, pretendendo obrigar a ré a efetuar o cadastramento correto dos seus dados, notadamente o endereço: Rua Paraíso, nº 139, 13º andar, conj. 131, CEP 04103-000 e  ao religamento do serviço Framelay, desligado em 24/1/2012, bem como a declaração de inexigibilidade do débito cobrado no valor de R$ 27.064,31 e indenização de dano moral.  
+Pelo que expôs requereu antecipação da tutela para religamento do serviço e a final procedência da ação, nos termos acima. Requereu, também, o depósito da quantia de R$ 73.165,20, a título de caução para autorizar a tutela antecipada.
+Juntou os documentos de fls. 26/269.
+A liminar foi deferida a fls. 270. Houve agravo de instrumento. 
+A ré Telefônica contestou a fls. 307, alegando que não se aplica do Código de Defesa do Consumidor ao caso dos autos e no mérito sustentando que a própria autora solicitou envio de faturas tanto para a Rua do Paraíso, nº 139, CEP 04103-000, como para Av. Tamboré, nº 341, CEP 06460-000, não havendo envio incorreto de cobrança, e que a alegação de não recebimento do boleto não é suficiente para justificar a inadimplência, pois há outras maneiras de quitação das faturas, tais como solicitação de novas vias por telefone ou internet. Além disso, o serviço Framerelay nº 36810581 estava funcionando normalmente, e não houve cobrança de valores após cancelamento dos serviços Framerelay nºs 1100055050951 e 11000310666070. Finalmente, não houve nenhuma irregularidade no serviço com relação ao Framerelay nº 1100031061422, de modo que  a cobrança efetuada era legítima, não caracterizando portanto dano material ou moral. 
+A fls. 387 contestou a corré Telecomunicações de São Paulo,  com os mesmos argumentos. 
+Réplica a fls. 470.
+É o relatório. Decido.
+-I- 
+Trata-se de ação visando ao reconhecimento de inexigibilidade de faturas emitidas pela ré e indenização de dano moral, decorrente da cobrança indevida do valor de R$ 27.064,31.
+Alega a inicial, em suma, que  a ré prestou à autora o serviço denominado Framerelay,  e que cadastrou incorretamente o CEP do seu endereço, o que gerou envio de faturas para local inexistente. Além disso, houve mal funcionamento do serviço, e cobranças indevidas após o cancelamento . 
+A ação procede em parte. 
+A autora é destinatária final do serviço fornecido pelas rés, que não integra a sua cadeia de produção,  de modo que nada justifica o afastamento da Legislação Consumerista. 
+No mérito, impõe-se a inversão do ônus da prova, com fundamento no artigo 6º, inciso VIII, do Código de Defesa do Consumidor, uma vez que são as rés que detêm os meios e condições necessários para a produção da prova respeitante à prestação dos seus serviços. 
+Contudo, como salientou a autora em sua réplica, a prova produzida pelas rés limitou-se à juntada de cópia de suas telas banco de dados, o que constitui documento unilateral e insuficiente como prova, tanto mais quando a alegação principal produzida pela autora consiste justamente no fato da existência de confusão no cadastramento de dados no sistema interno da ré. 
+Assim, a ré não produziu prova da correta prestação do serviço contratado, ou da inexistência de cobrança posterior ao cancelamento dele, e , assim,  não se justifica a existência do débito objeto da ação. 
+Não fosse o bastante, a autora juntou com a inicial, diversos e-mails enviados à ré requerendo a correção do cadastramento do seu endereço e solicitando segundas vias de boletos, como se constata de fls. 54/65; 90, 91, 98/103, 126,138, 144, 145, 146, dentre outros, tudo levando a concluir pela inexigibilidade do débito descrito na inicial.
+O dano moral, entretanto, não se demonstrou, sobretudo porque a autora é pessoa jurídica e nada nos autos indica abalo de crédito ou de seu nome, no mercado em que atua. 
+Daí a procedência parcial da ação. 
+-II- 
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a presente ação para declarar a inexigibilidade do débito descrito na inicial no valor de R$ 27.064,31, tornando definitiva a liminar concedida "initio litis". Cada parte arcará com metade das custas processuais e honorários de seu advogado. Em se tratando de quantia incontroversa, autorizo às rés o levantamento da quantia depositada nos autos pela autora a fls.281. Por fim, providenciem as requeridas a regularização de sua representação processual, juntando instrumento de mandato em cinco dias.   A taxa judiciária para apelação é de R$ 82,10, e o porte de remessa e retorno para 1 volume é de R$ 25,00.
+                                        P.R.I.
+       São Paulo, 19 de novembro de 2012.
+
+                                         CELINA DIETRICH TRIGUEIROS TEIXEIRA PINTO 
+                              Juíza de Direito
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

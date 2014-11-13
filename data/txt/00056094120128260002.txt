@@ -1,0 +1,105 @@
+
+
+SENTENÇA
+
+Processo nº:0005609-41.2012.8.26.0002
+Classe - AssuntoProcedimento Ordinário - Obrigação de Fazer / Não Fazer
+Requerente:Universal Cartuchos  - EPP
+Requerido:Net São Paulo LTDA
+
+
+
+
+Juiz(a) de Direito: Dr(a). Carlos Eduardo Prataviera
+
+
+Vistos.
+UNIVERSAL CARTUCHOS ? EPP ajuizou esta ação em face de NET SÃO PAULO LTDA, aduzindo, em apertada síntese, que contratou com a requerida serviços de TV a cabo, internet e telefone. Afirma que ficou ajustado o pagamento mensal de R$ 119,90, sendo que em razão de promoção ofertada pela ré, nos três primeiros seria cobrado o valor de R$ 59,90. No primeiro mês seria cobrado apenas o valor residual de R$ 10,02. Ocorre que logo nos primeiros vezes foram cobrados valores diversos do que foi contratado. Ainda assim, efetuou o pagamento das faturas. Requer a declaração de inexigibilidade dos valores cobrados a maior, impondo-se à ré a obrigação de cumprir o que foi contratado, bem como indenização por danos morais.
+
+Regularmente citada, a ré contestou ação, alegando, em preliminar, que é parte ilegítima para responder ao feito, já que os serviços são prestados pela empresa Embratel. Aduz, nesse sentido, que apenas fornece a tecnologia via cabo para que a Embratel preste os serviços. No mérito, sustenta que não se aplica a legislação consumerista ao caso e que inexiste conduta ilícita da ré ou danos morais.
+
+Não houve réplica.
+
+Determinada a juntada do contrato que envolve as partes, na forma dos arts. 355 e 359 do CPC, a ré declarou que não o possui e requereu a expedição de ofício à Embratel.
+
+É O RELATÓRIO.
+DECIDO.
+
+Trata-se de questão unicamente de direito, que dispensa a produção de outras provas além das que instruem os autos, motivo autorizante de se dar o julgamento no estado do processo, modalidade julgamento antecipado da lide.
+
+Não merece prosperar a preliminar de ilegitimidade passiva argüida. A ré afirma não ser ela a responsável pela prestação dos serviços contratados pela autora, já que apenas possui parceria para o fornecimento do cabeamento à Embratel.
+
+A ré aduz, ainda, que é a responsável pelos reparos na rede física de cabos e visitar técnicas nos locais onde são prestados os serviços em questão (fls. 110).
+
+ Ora, da própria argumentação da ré se vislumbra a sua responsabilidade por eventual falha na prestação dos serviços. A parceria realizada entre a ré e a Embratel de certo visa ao incremento da atividade empresarial e obtenção de lucros para ambas.
+
+Não pode a ré, agora, alegar ser parte ilegítima para responder a eventuais falhas na prestação desse serviço, já que toma parte em sua execução. Some-se a isso o fato de ser ela a responsável pelo faturamento dos serviços, conforme se vê de fls. 16/18. Diante desses documentos, cai por terra a alegação de ilegitimidade passiva.
+
+Com efeito, a ré e a Embratel devem responder de forma solidária pelo serviço que prestam mediante parceria. Nesse sentido, é assente a jurisprudência do E. Tribunal de Justiça do Estado de São Paulo:
+
+ILEGITIMIDADE PASSIVA - Não ocorrência - A ré, EMBRATEL, é parte legítima para ser demandada, na presente ação indenizatória, em conjunto com a outra ré Net - Os fatos alegados na inicial e os documentos que instruem o processo são suficientes para demonstrar que ambas as rés podem responder pelas supostas irregularidades ocorridas - Solidariedade passiva demonstrada - Decisão mantida - RECURSO NÃO PROVIDO.
+(TJ-SP, Agravo de Instrumento nº 0331993-42.2010.8.26.0000, Rel. Des. Spencer Almeida Ferreira, 38ª Câmara de Direito Privado , julgado em 15/12/2010.
+
+
+ILEGITIMIDADE PASSIVA - PRECLUSÃO - Nos termos do art. 473 do Código de Processo Civil, é defeso à parte discutir, no curso do processo, as questões já decididas, a cujo respeito se operou a preclusão - Alegação repelida. . INDENIZAÇÃO - DANOS MORAIS E MATERIAIS - A autora firmou contrato de prestação de serviços com a empresa Net São Paulo Ltda., a qual, por sua vez, possui parceria com a Embratel para o fornecimento de telefonia - Segundo constou, a ré Net é quem realiza todo faturamento dos serviços prestados, sendo que a Embratel somente emite faturas próprias para cobrar seus débitos - Solidariedade passiva demonstrada - A negativação se deu em data posterior ao pagamento, o que demonstra de forma plena a prática do denominado ilícito civil - O quantum foi fixado de forma exagera, refugindo dos limites da razoabilidade e ponderação - Recursos parcialmente providos. SUCUMBÊNCIA - HONORÁRIOS ADVOCATÍCIOS - Pedido de redução dos honorários de advogado - Descabimento - Com a redução da indenização, a verba honorária advocatícia fixada mostra-se módica - Recursos improvidos.
+(TJ-SP, Apelação nº 0216489-85.2010.8.26.0000, Rel. Des. Carlos Alberto Lopes, 18ª Câmara de Direito Privado, julgado em 10/08/2010)
+
+AGRAVO INSTRUMENTO - PRESTAÇÃO DE SERVIÇOS DE TELEFONIA PRELIMINAR DE ILEGITIMIDADE PASSIVA DA CO-RÉ EMBRATEL ACOLHIDA EM PRIMEIRO GRAU - INADMISSIBILIDADE - AMBAS AS RÉS QUE PODEM SER RESPONSABILIZADAS DE FORMA OBJETIVA E SOLIDÁRIA PELOS DANOS OCASIONADOS AO CONSUMIDOR - DIVISÃO INTERNA DE RESPONSABILIDADES QUE NÃO PODE ALCANÇAR O CLIENTE - DICÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR - RECURSO PROVIDO.
+(TJ-SP, Agravo de Instrumento nº 9019788-66.2008.8.26.0000, Rel. Des. Francisco Thomaz, 29ª Câmara de Direito Privado, julgado em 06/04/2011)
+
+
+Superada a questão da legitimidade, entendo como inaplicável ao caso as disposições do Código de Defesa do Consumidor, já que a autora se trata de empresa e foi nessa qualidade que contratou os serviços em questão. Assim, uma vez que os serviços prestados pela ré eram presumidamente utilizados pela autora em sua atividade comercial, ela não se enquadra na definição de destinatário final e, portanto, de consumidor.
+
+Não obstante, a inércia da ré em apresentar o contrato que envolve as partes impede reconhecer a alegação dela de que os valores foram cobrados de acordo com o contratado, mesmo porque, impugnada a cobrança, caberia à ré a prova do fato positivo, isto é, da sua correção.
+
+Há contrato estabelecido entre as partes e o autor alega que ele foi descumprido pela ré. Esta afirma o contrário.
+
+No caso, a inversão do ônus da prova se impõe porque o que o autor alega é um fato negativo ? não contratou o valor que lhe foi cobrado ? e a ré alega exatamente o contrário, um fato positivo ? a efetiva contratação daqueles valores. Trata-se de odiosa probandi, situação na qual, necessariamente se inverte o ônus da prova, para que a parte que alega o fato positivo faça prova dele, pois de muito tranqüila demonstração, já que necessariamente o fato deve estar documentado, por meio do contrato assinado pelas partes, já que para a parte que alega fato negativo a prova é impossível, pois inexistente no mundo jurídico.
+
+Trata-se de imposição de indestrutível princípio da lógica. Não há como se demonstrar aquilo que não aconteceu.
+
+A ré preferiu omitir-se e eximir-se desta sua obrigação, acarretando a conclusão de que, de fato e de direito, os valores foram cobrados incorretamente. 
+
+Assim somente resta reconhecer que não ficou demonstrada a contratação dos valores cobrados, daí a ilegitimidade da cobrança. Portanto, no primeiro mês, deve ser considerado como devido o valor de R$ 10,02 e no segundo e terceiros meses, R$ 59,90, conforme fundamentação da inicial. 
+
+O pedido de indenização por danos morais, por seu turno, não merece acolhimento.
+
+O dever de indenizar por quem causou dano a outrem é princípio geral de direito encontrado em todo ordenamento jurídico dos povos civilizados, como pressuposto de vida em sociedade.
+
+Maria Helena Diniz afirma que ...poder-se-á definir a responsabilidade civil como a aplicação de medidas que obriguem alguém a reparar dano moral ou patrimonial causado a terceiros em razão de ato do próprio imputado, de pessoa por quem ele responde, ou de fato de coisa ou animal sob sua guarda (responsabilidade subjetiva), ou, ainda, de simples imposição legal (responsabilidade objetiva). Definição esta que guarda, em sua estrutura, a idéia da culpa quando se cogita da existência de ilícito e a do risco, ou seja, da responsabilidade sem culpa. {}
+
+Continuando em seu magistério, a mestra ensina que a responsabilidade civil requer a coexistência de três requisitos, sem os quais estará afastado o dever de reparar o mal causado: 
+
+a) Existência de uma ação, comissiva ou omissiva, qualificada juridicamente, isto é, que se apresenta como um ato ilícito ou lícito, pois ao lado da culpa, como fundamento da responsabilidade, temos o risco...
+
+b) Ocorrência de um dano moral ou patrimonial causado à vítima por ato comissivo ou omissivo do agente ou de terceiro por quem o imputado responde...
+
+c) Nexo de causalidade entre o dano e a ação (fato gerador da responsabilidade)...
+
+A responsabilização por dano moral, assim como por qualquer dano, não escapa às regras e conceitos da responsabilidade civil, que jamais existirá sem que haja uma relação de causalidade entre o dano e a ação que o provocou (RT 224:155, 466:68, 477:247, 463:244; RLTJSP, 28:103).
+
+O dito vínculo entre o prejuízo e a ação - nexo de causalidade - deve se fazer presente de tal forma que o fato lesivo deve ter origem na ação, diretamente ou como sua conseqüência previsível. 
+
+Sem a presença destes três elementos essenciais não há obrigação de indenizar, como se vê no artigo  186 do Código Civil. Sobre o tema fala com maestria Caio Mário da Silva Pereira:  " Não basta que o agente haja procedido contra direito, isto é, não se define a responsabilidade pelo fato de cometer um "erro de conduta"; não basta que a vítima sofra um "dano", que é o elemento objetivo do dever de indenizar, pois se não houver um prejuízo a conduta antijurídica não gera obrigação ressarcitória. É necessário se estabeleça uma relação de  causalidade entre a injuricidade da ação e o mal causado, ou, na feliz expressão de Demogue, "é preciso esteja certo que, sem este fato, o dano não teria acontecido. Assim, não basta que uma pessoa tenha contravindo a certas regras; é preciso que sem esta contravenção, o dano não ocorreria" (Traité des Obligations en Genéral, vol. IV, nº 366).
+
+A disputa, em suma, é sobre se saber se foi ou não ferida a honra da autora em decorrência de conduta da ré. "Honra: objetivamente é a opinião dos outros sobre nosso mérito; subjetivamente é o nosso receio sobre essa opinião" (SCHOPHENHAUER, apud HUNGRIA, Comentários ao Código Penal, Forense Rio, 4ª. Edição, VI/40).
+
+O caso dos autos trata, tão somente, da chamada honra objetiva, já que a autora se trata de empresa, não havendo que se falar sobre ofensa à honra subjetiva.
+
+A autora afirma que o descumprimento contratual, caracterizado pela cobranças de valores indevidos, causou-lhe prejuízo de ordem moral. No entanto, esse fato, por si só, não causou qualquer abalo à imagem da autora, tendo em vista que sequer houve negativação junto aos órgãos de proteção ao crédito.
+
+Veja-se, nesse sentido, o seguinte julgado:
+
+PRESTAÇÃO DE SERVIÇOS FORNECIMENTO E INSTALAÇÃO DE VIDROS E ESQUADRIAS DE ALUMÍNIO DESCUMPRIMENTO DA OBRIGAÇÃO DE FAZER FIXAÇÃO DE MULTA COMINATÓRIA EXECUÇÃO PARCIAL DO SERVIÇO REDUÇÃO DA "ASTREINTE" POSSIBILIDADE ARTIGO 461, § 6º DO CPC DANO MORAL INOCORRÊNCIA SENTENÇA MANTIDA APELO DA AUTORA IMPROVIDO. I Cerceamento de defesa inocorrente O julgamento antecipado da lide não vulnera o direito de defesa da parte quando as provas requeridas não ajudariam na solução do litígio. II A pessoa jurídica somente faz jus à indenização por dano moral quando o seu bom nome, reputação ou imagem forem atingidos no meio social ou comercial por algum ato ilícito. Ausentes quaisquer dessas situações, indevido o ressarcimento pretendido.
+(TJ-SP, Apelação nº 0016658-29.2010.8.26.0009, Rel. Des. Mendes Gomes, 35ª Câmara de Direito Privado, julgado em 12/11/2012)
+
+
+Assim, inexistindo dano moral, incabível qualquer indenização a esse título.
+
+Isto posto, JULGO PARCIALMENTE PROCEDENTE o pedido para declarar inexigíveis os valores cobrados a maior nos três primeiros meses da relação contratual que envolve as partes. JULGO IMPROCEDENTE o pedido de indenização por danos morais. JULGO EXTINTO o processo nos termos do art. 269, I, do Código de Processo Civil.
+
+Dada a sucumbência recíproca, cada parte arcará com suas custas e despesas do processo, bem como com os honorários de seus respectivos advogados.
+PRI.
+
+
+São Paulo, 04 de dezembro de 2012.

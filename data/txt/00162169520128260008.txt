@@ -1,0 +1,47 @@
+
+
+SENTENÇA
+       CONCLUSÃO
+Em 28/06/2013,
+Faço estes autos conclusos à 
+MM(ª) Juiz(íza) de Direito, 
+Luciane Cristina da Silva 
+Eu,          , Luciane Cristina da Silva, escrevente, digitei e subscrevi.
+
+Processo nº:0016216-95.2012.8.26.0008 - Procedimento do Juizado Especial Cível
+Requerente:Richard Veisaga Oshima
+Requerido:Hewlett-Packard HP
+Juiz(a) de Direito: Dr(a). Luciane Cristina da Silva
+
+Controle nº 2445/12
+Vistos.
+Trata-se de ação de indenização.
+Dispensado o relatório nos termos do artigo 38 da Lei 9099/95.
+O autor alega que adquiriu um notebook fabricado pela ré e que após dois anos e meio de uso este apresentou defeito em peça essencial e que a ré negou garantia ao equipamento. Acrescenta que vários equipamentos de mesmo modelo apresentaram defeitos similares. Requer a condenação da ré à devolução do preço e ao pagamento de valor correspondente ao preço de outro equipamento que foi obrigado a garantir.
+A ré suscita preliminar de incompetência do juízo e, quanto ao mérito, afirma que não há prova do vício, nem da causa deste, e a expiração da garantia.
+Afasto a preliminar suscitada. O documento as fls. 40 demonstra que o defeito do produto foi constatado por uma assistência técnica em março de 2013. Veja-se, ainda, que a ré não teve acesso ao produto, porque seu sistema de atendimento ao consumidor é apenas telefônico. Logo, a própria conduta da empresa inviabilizou a prova que lhe competia produzir em juízo. Saliente-se, ainda, que o laudo da assistência técnica não indicou mau uso do produto. 
+Quanto ao mérito, o pedido é improcedente.
+A insurgência do autor teria respaldo legal se existente prova de que o vício insanável (queima do HD) tivesse se apresentado em prazo inferior. Vejamos.
+Há três conceitos usados no Código de Defesa do Consumidor que, muitas vezes, são confundidos: a garantia legal, a garantia contratual e o prazo decadencial.
+A garantia legal é prevista no artigo 24 do CDC que estabelece: ?A garantia legal de adequação do produto ou serviço independe de termo expresso, vedada a exoneração contratual do fornecedor.?
+Esta garantia não se limita ao prazo decadencial previsto no artigo 26 do CDC. Este prazo, aliás, não tem relação com a garantia do produto, referindo-se, apenas, ao período que o consumidor dispõe para ajuizar demanda relativa ao vício do produto. Tal prazo inicia-se com a entrega do produto e, em se tratando de vício oculto, começa a partir da constatação deste, conforme expressamente previsto no parágrafo 3º do mencionado dispositivo legal.
+Em suma, a garantia legal refere-se à adequação, à funcionalidade e à durabilidade do produto, pelo  período de vida útil do produto.
+Já a garantia contratual, prevista no artigo 50 do CDC, não é obrigatória e pode ser limitada pelo fornecedor tanto em relação aos componentes do produto ou serviço, quanto em relação ao período. 
+Conforme expresso no artigo 25 do CDC, o fornecedor não pode limitar a garantia legal, em nenhum aspecto. Na realidade, a garantia legal de adequação do produto ou serviço ao fim que ele se destina acompanha toda a vida útil deste e, portanto, é necessariamente variável, conforme a natureza do bem. Nesse sentido, vejam-se os seguintes ensinamentos e julgado:
+?Se o vício é oculto, porque se manifesta somente com o uso, a experimentação do produto, ou porque se evidenciará muito tempo após a tradição, o limite temporal da garantia legal está em aberto, seu termo inicial; segundo o parágrafo 3º do art. 26, é a descoberta do vício. Somente a partir da descoberta do vício (talvez meses ou anos após o contrato) é que passarão a correr os 30 ou 90 dias.
+Será, então, a nova garantia legal eterna? Não, os bens de consumo possuem uma durabilidade determinada. É a chamada vida útil do produto. Se se trata de um videocassete, por exemplo, sua vida útil seria de oito anos aproximadamente; se o vício oculto se revela nos primeiros anos de uso, há descumprimento do dever legal de qualidade, há responsabilidade dos fornecedores para sanar o vício. Somente se o fornecedor conseguir provar que não há vício, ou que sua causa foi alheia à atividade de produção como um todo, pois o produto não tinha vício quando foi entregue (ocorreu mau uso desmesurado ou caso fortuito posterior), verdadeira prova diabólica, conseguirá excepcionalmente se exonerar. Se o vício aparece no fim da vida útil do produto, a garantia ainda existe, mas começa a esmorecer, porque se aproxima o fim natural da utilização deste, porque o produto atingiu já a durabilidade normal, porque o uso e o desgaste como que escondem a anterioridade ou não do vício, são causas alheias à relação de consumo que como que se confundem com a agora revelada inadequação do produto para seu uso normal. É a 'morte' prevista dos bens de consumo.
+Em outras palavras, caberá ao Judiciário verificar se o dever do fornecedor de qualidade (durabilidade e adequação) foi cumprido. Se o fornecedor não violou o seu dever ao ajudar a colocar no mercado aquele produto, não haverá responsabilidade. Neste sentido, a garantia legal de adequação dos produtos com vício oculto tem um limite temporal, qual seja a vida útil do produto.? 
+
+?Consumidor. Responsabilidade pelo fato ou vício do produto. Distinção. Direito de reclamar. Prazos. Vício de adequação. Prazo decadencial. Defeito de segurança. Prazo prescricional. Garantia legal e prazo de reclamação. Distinção. Garantia contratual. Aplicação, por analogia, dos prazos de reclamação atinentes à garantia legal. No sistema do CDC, a responsabilidade pela qualidade biparte-se na exigência de adequação e segurança, segundo o que razoavelmente se pode esperar dos produtos e serviços. ... O CDC apresenta duas regras distintas para regular o direito de reclamar, conforme se trate de vício de adequação ou defeito de segurança. Na primeira hipótese, os prazos para reclamação são decadenciais, nos termos do art. 26 do CDC, sendo de 30 dias para produto ou serviço não durável e de 90 dias para produto ou serviço durável. A pretensão à reparação pelos danos causados por fato do produto ou serviço vem regulada no art. 27 do CDC, prescrevendo em 05 anos. A garantia legal é obrigatória, dela não podendo se esquivar o fornecedor. Paralelamente a ela, porém, pode o fornecedor oferecer uma garantia contratual, alargando o prazo ou o alcance da garantia legal. A lei não fixa expressamente um prazo de garantia legal. O que há é prazo para reclamar contra o descumprimento dessa garantia, o qual, em se tratando de vício de adequação, está previsto no artigo 26 do CDC, sendo de 90 ou 30 dias, conforme seja um produto ou serviço durável ou não. Diferentemente do que ocorre com a garantia legal contra vícios de adequação, cujos prazos de reclamação estão contidos no art. 26 do CDC, a lei não estabelece prazo de reclamação para a garantia contratual. Nessas condições, uma interpretação teleológica e sistemática do CDC permite integrar analogicamente a regra relativa à garantia contratual, estendendo-lhe os prazos de reclamação atinentes à garantia legal, ou seja, a partir do término da garantia contratual, o consumidor terá 30 (bens não duráveis) ou 90 (bens duráveis) dias para reclamar por vícios de adequação surgidos no decorrer do período desta garantia. Recurso especial conhecido e provido.? (STJ, 3ª T, Resp 967.623/RJ, rel. Min. Nancy Andrighi, j. 16.04.2009) 
+No caso em tela, o consumidor adquiriu um notebook. A expectativa média de uso de produto desta natureza não é muito superior a três anos. Com efeito, neste período, diversos e mais modernos produtos similares foram lançados, tornando o equipamento adquirido obsoleto a um ponto que não se exige mais a cobertura pela garantia legal, nem contratual. No caso em tela, o vício foi constatado em março de 2013 (fls. 40), ou seja, mais de três anos após a data da compra. Assim, o autor até teria direito à reposição da peça, mediante o pagamento desta, mas não à devolução do preço do produto que foi até então utilizado.   
+Assim, considerando-se que o produto não mais gozava de garantia legal, é de rigor a improcedência do pedido. 
+Ante o exposto, JULGO IMPROCEDENTE O PEDIDO.
+Deixo de condenar a parte vencida nas verbas da sucumbência nos termos do artigo 55 da Lei 9.099/95. Após o trânsito em julgado, as partes terão o prazo de 10 (dez) dias para retirar os documentos que instruíram o processo, sob pena de inutilização. Comunique-se e após 180 dias, desmontem-se os autos. 
+Em caso de recurso: Valor do preparo = R$ 193,70 (Guia GARE-DR, Código 230-6). Despesas de porte de remessa e retorno por volume de autos = R$ 29,50 (Guia FEDTJ, código 110-4).
+P.R.I.C..  
+São Paulo, 28 de junho de 2013.
+
+
+
+Luciane Cristina da Silva
+       Juiz(íza) de Direito

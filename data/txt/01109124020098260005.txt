@@ -1,0 +1,92 @@
+
+
+SENTENÇA
+
+TERMO DE CONCLUSÃO
+Em 07 de fevereiro de 2013, faço estes autos conclusos à MM.ª Juíza de Direito da 1ª Vara Cível do Foro Regional V - São Miguel Paulista Dra. Lucilia Alcione Prata. Eu, Ingrid Silvino Amaral, _____, escrevente, subscrevo.
+Processo nº:0110912-40.2009.8.26.0005 - Procedimento Ordinário
+Requerente:Afitec Afiações Ltda e outro
+Requerido:Eletropaulo Metropolitana Eletricidade de São Paulo S/A
+
+
+Vistos.
+
+
+AFITEC AFIAÇÕES LTDA. e CLAUDIO JOSÉ DE SOUZA ME ajuizaram a presente ação de ressarcimento de danos c.c. pedido de lucros cessantes em face de Eletropaulo Metropolitana Eletricidade de São Paulo S/A., alegando, em síntese, que:
+
+A) procuraram a ré a fim de sanar problemas de variação de tensão na unidade consumidora; todavia, aquela tardou a enviar preposto para a realização de medições in loco;
+
+B) por culpa da ré, duas máquinas de propriedade das autoras (Vekia 440 e Kondia B500, série B5615) sofreram queima de seu drive, razão pela qual tiveram as requerentes de arcar com a quantia de R$ 16.210,00;
+
+C) as autoras se utilizam de maquinário comum e ambas tiveram diminuição significativa na produção: a co-autora AFITEC, no período entre julho e agosto de 2008, e a Cláudio José de Souza ME, entre maio e agosto do mesmo ano;
+
+D) considerando-se a média de faturamento de ambas as empresas nos dois meses anteriores, tem-se os seguintes totais de perdas: R$ 18.587,83 à empresa AFITEC e R$ 10.149,66 à Cláudio ME;
+
+E) tanto a empresa de assistência técnica contratada pelas autoras quanto o preposto da ré constataram a existência de níveis de tensão em desacordo com os limites previstos pela ANEEL.
+
+Requerem a procedência dos pedidos, para que a ré forneça às autoras nível de tensão compatível com a unidade consumidora, bem como para a sua condenação ao pagamento de R$ 16.210,00 a título de danos materiais e de R$ 29.737,49 de lucros cessantes.
+
+A petição inicial veio acompanhada dos documentos de fls. 14/56.
+
+Emenda à inicial à fl. 63, com os documentos de fls. 64/67.
+
+Contestação às fls. 77/89, aduzindo, em síntese, que:
+
+A) o equipamento a que alude o documento de fls. 27 apresentou defeito anterior, de forma que não foi a variação nos níveis de tensão que causou o dano;
+
+B) a empresa AFITEC possui rendimento variável, não se justificando o valor a título de lucros cessantes, tendo em vista que seu faturamento bruto nos meses impugnados se manteve próximo à media de R$ 37.193,56;
+
+C) os recibos de fls. 37 e 38 não se referem a relatórios da empresa Cláudio José de Souza ME, mas sim à AFITEC;
+
+D) a média mensal do faturamento bruto da empresa Cláudio José de Souza ME é de R$ 30.423,80, ao passo que a média do faturamento nos meses impugnados é de R$ 28.281,84, o que revela normalidade de rendimentos;
+
+E) os maquinários descritos na inicial contam com diversos sistemas de proteção que impediriam sua queima em casos como o presente, de pequena variação nos níveis de tensão.
+
+Réplica às fls. 91/93.
+
+Audiência de tentativa de conciliação infrutífera (fl. 103).
+
+Designada perícia, sobreveio laudo às fls. 142/198.
+
+Parecer técnico divergente às fls. 211/222.
+
+Laudo pericial contábil às fls. 250/296.
+
+Audiência de Instrução às fls. 530, com oitiva de uma testemunha à fl. 531. 
+
+Memoriais dos autores às fls. 542/544 e da ré às fls. 552/554.
+
+É o que de relevante havia a relatar.
+
+Passo a fundamentar e a decidir:
+
+Conforme concluiu o laudo pericial houve efetiva falha na prestação do serviço pela ré, ocasionando variação de tensão, acarretando por conseguinte falha/defeito nos equipamentos das autoras.
+
+Conforme asseverou o laudo pericial com conclusão de que é plausível como causa do evento uma "deficiência no fornecimento de energia elétrica decorrente de nível de tensão inadequado ao permitido, pois se apresentava fora dos limites previstos na Resolução 505 da Aneel".
+
+As autoras são empresas do ramo industrial de médio porte com uso de equipamento que demandam correto fornecimento de energia de acordo com suas especificidades.
+
+As autoras comprovam que durante certo período (fls.24/28) tiveram vários problemas com defeitos nos maquinários e drivers decorrente da variação de tensão no fornecimento de energia elétrica no imóvel (fls.33/41), tendo providenciado a devida reclamação junto à ré (fls.29/31), a qual efetivamente não buscou os meios necessários para garantir a qualidade e quantidade do serviço prestado.
+
+Aliás a referida oscilação foi confessada pela ré conforme relatado no laudo pericial às fls. 171, o que provavelmente ocorreu pelo fato da rede de tensão encontrar-se alta (acima do limite de fornecimento -fls. 171), a denominada "sobretensão", conforme descrito no laudo às fls. 172 e que diante do impacto sobre os equipamentos guarda relação de nexo causal com os danos experimentados nos equipamentos dos autores.
+
+Por fim, no laudo pericial todas as possíveis hipóteses de defeitos foram analisadas e excluídas, permanecendo como única hipótese a falha no fornecimento por estar com nível de tensão fora dos limites previstos pela ANEEL (fls.176).
+
+Deste modo, a ré é objetivamente responsável pela reparação dos danos materiais, o que inclui danos emergentes e lucros cessantes tendo em vista que as autoras sofreram várias interrupções no processo normal de produção.
+
+APELAÇÕES CÍVEIS - DEMANDAS CONEXAS - AÇÃO DE INDENIZAÇÃO E AÇÃO REGRESSIVA DE REPARAÇÃO DE DANOS - CELESC - INTERRUPÇÃO NO FORNECIMENTO DE ENERGIA ELÉTRICA E OSCILAÇÕES NA REDE - DANOS EM EQUIPAMENTO DE EMPRESA - SEGURADORA QUE PAGOU PARTE DOS VALORES PARA CONSERTO DO MAQUINÁRIO - RESPONSABILIDADE OBJETIVA DA CONCESSIONÁRIA DE SERVIÇO PÚBLICO - NEXO DE CAUSALIDADE SUFICIENTEMENTE DEMONSTRADO NOS AUTOS - DEVER DE REPARAR OS PREJUÍZOS CONFIGURADO - RECURSOS DESPROVIDOS.1. "'Constitui obrigação da concessionária desempenhar o seu mister com esmero e, dada a natureza remunerada do serviço prestado, suportar os riscos dessa atividade, não podendo deles se desvencilhar pela simples circunstância de que o autor se omitiu de utilizar equipamentos opcionais de segurança. Desse modo, forte na premissa de que toca à CELESC a tarefa de modernizar a rede, com o escopo de evitar ou minimizar sinistros oriundos da oscilação, é patente o dever de indenizar, pois, à luz do que alude o artigo 37, parágrafo sexto, da Carta Magna, configurados estão os requisitos da responsabilidade objetiva.' (AC n. 2006.046646-5, rel. Des. Volnei Carlin, da Capital, julgado em 10.09.2007)" (AC n. 2008.052488-9, rel. Des. Sérgio Roberto Baasch Luz, j. 26.11.08)2. "Comprovado nos autos que o segurado sofreu prejuízos ante a perda de parte de equipamentos industriais por conta da queda de energia, faz jus a seguradora sub-rogada à indenização dos danos materiais a ser paga pela concessionária de energia elétrica" (TJSC,AC n. 2007.043028-0, rel. Des. Jaime Ramos, j. 16.10.09)
+
+Nesse passo a prova pericial contábil apurou que o dano patrimonial com o conserto das maquinas foi de R$ 19.534,53 (referência abril de 2012- fls. 289).
+
+Por fim, o laudo pericial contábil após minuciosa análise dos registros contábeis da empresa conclui pela inexistência de lucros cessantes  uma vez que não foi verifica efetiva queda de faturamento das empresas, mesmo porque conforme ressalta o laudo pericial não foram apresentadas provas efetivas do tempo de paralisação, dos pedidos de clientes não atendidos e outros elementos necessários à comprovação dos fatos alegados pelos autores.
+
+Ante o exposto e o que mais dos autos consta, JULGO  PARCIALMENTE PROCEDENTE o pedido inicial formulado por Afitec Afiações Ltda, Claudio Jose de Souza Me em face de Eletropaulo Metropolitana Eletricidade de São Paulo S/A, para  condenar o requerido ao pagamento de danos patrimoniais (danos emergentes) no valor de R$ 19.534,53 , corrigido monetariamente a partir de abril de 2012 (data da eleaboração do aludo) e acrescido de juros de mora de 1% ao mês devidos desde a citação.
+
+Em razão da sucumbência, e diante do princípio da causalidade, condeno o réu ao pagamento de custas,despesas processuais, honorários periciais já fixados e honorários advocatícios que fixo em 15% sobre o valor da condenação.
+
+P.R.I.C. 
+
+São Paulo, 25 de fevereiro de 2013.
+
+Lucilia Alcione Prata
+Juíza de Direito

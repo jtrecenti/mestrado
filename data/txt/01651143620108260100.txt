@@ -1,0 +1,86 @@
+
+
+SENTENÇA
+
+Processo nº:0165114-36.2010.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Seguro
+Requerente:Raquel Vanessa Zanetti Migliaccio de Ávila
+Requerido:Chubb do Brasil Cia de Seguros e outro
+
+
+
+
+Juiz(a) de Direito: Dr(a). Alberto Alonso Muñoz
+
+
+I. Relatório
+
+Cuida-se de ação condenatória em que a parte autora alega, em síntese, ter firmado contrato de seguro com a primeira ré. Afirma que o pagamento do prêmio ocorreria em sete parcelas mensais a partir de março/2009 até setembro/2009. Ficou em mora da parcela de abril/2009 e seguintes. Seu veículo segurado teria sido furtado em junho/2009. Entrando em contato com a corretora de seguros, foi-lhe informado que o contrato permaneceria vigente se pagas as prestações vencidas e vincendas, o que fez. O veículo foi recuperado pela polícia em estado de perda total, sendo o casco entregue à seguradora. Ocorre que, apesar disso, a seguradora veio a negar-lhe o pagamento da indenização. Deduziu os seguintes pedidos alternativos:
+1.º) CONDENAR as rés, solidariamente, ao pagamento de R$ 91.590,40 (noventa e um mil quinhentos e noventa reais e quarenta centavos);
+2.º) CONDENAR as rés ao pagamento de indenização por perdas e danos no valor do veículo apropriado, no montante de R$ 160.000,00 (cento e sessenta mil reais);
+3.º) CONDENAR as rés a restituir o bem à autora, mais indenização por lucro cessante correspondente ao período em que deixou de estar em sua posse.
+Juntou documentos (fls. 13/157).
+Contestação da ré Estação Segura a fls. 173/176. Em preliminar, suscita a ilegitimidade passiva, já que a recusa pelo pagamento da indenização seria da seguradora. No mérito, sustentou que a mora da autora é causa da extinção do contrato.
+Contestação da ré Cubb do Brasil a fls. 187/201. Aduz que a mora ensejaria a extinção do contrato e das obrigações securitárias nele previstas, conforme inclusive disciplina da SUSEP que invoca. Acrescenta que, apesar de a autora ter pago as demais parcelas, o fez sem pagar a multa moratória e, ainda assim, quitou apenas algumas parcelas e não todas. Não remeteu, ademais, os documentos essenciais à liberação do valor da indenização pelo veículo sinistrado. Impugnou ainda os pedidos alternativos. Sustenta, por fim, que o valor de mercado referenciado (previsto no contrato), atingiria R$ 96.774,00 (noventa e seis mil setecentos e setenta e quatro reais) em 11/10/2009, do qual deveriam ser deduzidos débitos existentes relacionados ao veículo e parcelas restantes do prêmio, multa e juros das não quitadas. 
+Houve réplicas.
+Relatei o essencial. Decido.
+
+II. Fundamentação
+
+O processo comporta julgamento antecipado do mérito, na forma do art. 330, I do Código de Processo Civil, não se caracterizando cerceamento de defesa se não eram necessárias outras provas. Ao contrário, nas hipóteses em que se impõe, o julgamento antecipado do mérito não é faculdade do julgador, mas dever legalmente imposto até mesmo pela Constituição Federal quando o feito se encontra em condições de ser sentenciado, sendo corolário do princípio da economia processual (que decorre daquele do devido processo legal: art. 5.º, LIV da CF/88) e da razoável duração do processo (art. 5.º, LXXVIII).
+A preliminar da ré Estação Segura não prospera. O Código de Defesa do Consumidor, em seu art. 7.º, estabelece que, ?Tendo mais de um autor a ofensa, todos responderão solidariamente pela reparação dos danos previstos nas normas de consumo?.
+Da mesma forma, não prospera a tese da ré Chubb de que a responsabilidade recairia exclusivamente sobre a ré Estação Segura. Dispõe o mesmo código: ?Art. 34. O fornecedor do produto ou serviço é solidariamente responsável pelos atos de seus prepostos ou representantes autônomos?.
+Ao mérito.
+O pedido é procedente.
+No contrato de seguro, o art. 763 do Código Civil dispõe que: ?Não terá direito a indenização o segurado que estiver em mora no pagamento do prêmio, se ocorrer o sinistro antes de sua purgação?.
+Prima facie, ao menos, estando em mora a autora, não faria jus à indenização pelo prêmio pago. 
+Não obstante, o Colendo STJ já firmou entendimento pacífico no sentido de que se exige a prévia constituição em mora do segurado para a extinção do contrato. Anoto a seguinte jurisprudência que pacificou o entendimento:
+
+AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO CONTRA  A INADMISSÃO DE RECURSO ESPECIAL. DIREITO CIVIL. SEGURO. ABUSIVIDADE DE CLÁUSULA CONTRATUAL QUE PREVÊ O CANCELAMENTO OU A EXTINÇÃO DA AVENÇA EM RAZÃO DO INADIMPLEMENTO, SEM PRÉVIA NOTIFICAÇÃO DO SEGURADO. INCIDÊNCIA DO ENUNCIADO 83 DA SÚMULA DESTA CORTE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Nos termos dos precedentes desta Corte, considera-se abusiva a cláusula contratual que prevê o cancelamento ou a extinção do contrato de seguro em razão do inadimplemento do prêmio, sem a prévia constituição em mora do segurado, mediante prévia notificação.
+2. Agravo regimental a que se nega provimento.
+(AgRg no Ag 1036634/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/05/2011, DJe 07/06/2011)
+
+CIVIL. RECURSO ESPECIAL.  AGRAVO REGIMENTAL. SEGURO. ATRASO NAS PRESTAÇÕES. CANCELAMENTO AUTOMÁTICO OU SUSPENSÃO DO CONTRATO.
+IMPOSSIBILIDADE. AUSÊNCIA DE NOTIFICAÇÃO.
+1. Consoante orientação firmada por esta Corte, o simples atraso no pagamento da prestação mensal, sem prévia constituição em mora do segurado, não produz o cancelamento automático ou a imediata suspensão do contrato de seguro firmado entre as partes.
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp
+ 1111576/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 25/09/2012, DJe 02/10/2012)
+
+CONTRATO DE SEGURO E PROCESSUAL CIVIL. RECURSO ESPECIAL. REEXAME DE PROVAS E INTERPRETAÇÃO CONTRATUAL. INVIABILIDADE. CONTESTAÇÃO. ÔNUS DO RÉU DE IMPUGNAR ESPECIFICAMENTE OS FATOS ALEGADOS PELO AUTOR E EXPOR TODA A MATÉRIA DE DEFESA. SUSCITAÇÃO EXTEMPORÂNEA. PRECLUSÃO.
+ARTIGO 12 DO DECRETO-LEI 73/66. CORRETA EXEGESE. EXIGÊNCIA DE NOTIFICAÇÃO DO SEGURADO PARA SUSPENSÃO DA COBERTURA SECURITÁRIA.
+1. O artigo 300 do Código de Processo Civil orienta que cabe ao réu, na contestação, expor defesas processuais e as de mérito passíveis de serem arguidas naquele momento processual, isto é, na peça processual devem estar concentradas todas as teses, inclusive as que, nos termos do artigo 333, II, do CPC, possam demonstrar a existência de fato impeditivo, modificativo ou extintivo do direito do autor, sob pena de a parte sofrer os efeitos da preclusão consumativa.
+2. O princípio da eventualidade impõe ao réu que, na contestação, apresente todas as suas teses passíveis de serem argüidas naquele momento processual, para que, em caso de rejeição da primeira, possa o juiz examinar as subsequentes.
+3. Os fatos articulados pelo autor, dês que não impugnados, conforme se infere dos artigos 302 e 303 do CPC, passam a ser incontroversos, presumindo-se verdadeiros e, em decorrência da preclusão, não se admite que o réu proponha ulteriormente a produção de provas com o propósito específico de afastar o ponto incontrovertido.
+4. No caso, a moldura fática revela o parcial pagamento do prêmio do seguro, sendo certo que a Corte local acentuou que "há nos autos prova documental apresentada no laudo do assistente técnico da própria seguradora apelada de que houve o pagamento da primeira parcela do prêmio pelo tomador".
+5. Ademais, no que tange à alegação de violação do artigo 12 do Decreto-lei 73/66, cabe observar que, com o julgamento, pela colenda Segunda Seção, do REsp. 316552/SP, ficou pacificado que a correta interpretação do dispositivo é no sentido de que o atraso no pagamento do prêmio não importa desfazimento instantâneo do seguro, ou suspensão da cobertura securitária, pois é necessária a constituição em mora do contratante pela seguradora.
+6. Igualmente, o "seguro garantia", ao contrário da generalidade dos seguros, não está adstrito ao mutualismo e à atuária. Com efeito, tendo em vista a singularidade dessa modalidade de seguro, que muito se aproxima da fiança, o tomador contrata seguro, pelo qual  a seguradora garante o interesse do segurado, relativo à obrigação assumida pelo tomador, não podendo, por isso, ser arguida pela seguradora a ausência de pagamento do prêmio.
+7. Recurso especial não provido.
+(REsp 1224195/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/09/2011, DJe 01/02/2012)
+
+Ora, não houve prévia notificação da autora, de sorte que o contrato permanecia válido e eficaz.
+Ademais, a autora, após o sinistro, buscou imediatamente pagar as parcelas vencidas e vincendas. Assim, presente o princípio da função social do contrato, que impõe sua preservação quando possível, a procura do pagamento das parcelas enseja a manutenção de sua vigência.
+Há, porém, que se admitir a compensação do valor da indenização com aqueles decorrentes da mora e de multas. Quanto a estas últimas em particular, não cabe impor à seguradora o ônus por tais valores, já que não foi responsável por eles.
+Correrão juros de mora, na forma contratualmente prevista, desde o vencimento de cada parcela, incidindo também a atualização monetária na forma prevista no contrato.
+Da mesma forma, para que a seguradora possa desincumbir-se de transferir a propriedade do veículo alegadamente perdido a terceiros, exige-se que a autora lhe apresente os documentos necessários a tanto. Desse modo, no prazo de 10 (dez) dias a partir do trânsito em julgado desta sentença deverá a seguradora apresentar a lista desses documentos, devendo depositar o valor da indenização, o qual só poderá ser levantado pela autora após a juntada, nestes autos dessa documentação.
+O valor da indenização é aquele apresentado pela parte ré, ou seja,  R$ 96.774,00 (noventa e seis mil setecentos e setenta e quatro reais) em 11/10/2009. E isso por várias razões. A uma porque foi o valor estipulado contratualmente, que o vincula à tabela Fipe. A duas porque foi apresentado pela parte ré e, a três, ainda que apresentado pela ré, é mais favorável à autora, que pediu valor menor. Não se viola o princípio da correlação, já que apenas se está aqui cumprindo os termos do contrato, tornando-se, nos termos acima, o pedido líquido.
+Juros da indenização contados desde a citação, no porcentual de 1% ao mês, capitalizados anualmente. Correção monetária na forma da tabela do Egrégio Tribunal de Justiça do Estado de São Paulo.
+O pedido, portanto, há de ser acolhido da forma acima.
+
+III. Dispositivo
+
+Ante o exposto, JULGO PROCEDENTE o pedido da parte autora e EXTINGO o processo, COM RESOLUÇÃO DE MÉRITO, na forma do art. 269, I, do Código de Processo Civil para o fim de CONDENAR as rés, solidariamente, ao pagamento de R$ 96.774,00 (noventa e seis mil setecentos e setenta e quatro reais) em 11/10/2009.
+AUTORIZO a compensação do valor da indenização com aqueles decorrentes da mora e de multas. 
+Correrão juros de mora, na forma contratualmente prevista, desde o vencimento de cada parcela, incidindo também a atualização monetária na forma prevista no contrato.
+No prazo de 10 (dez) dias a partir do trânsito em julgado desta sentença deverá a seguradora apresentar a lista dos documentos necessários para a transferência de propriedade do veículo e regularização perante o órgão de trânsito, devendo depositar no mesmo ato valor da indenização, o qual só poderá ser levantado pela autora após a juntada, nestes autos dessa documentação.
+Juros da indenização contados desde a citação, no porcentual de 1% ao mês, capitalizados anualmente. Correção monetária na forma da tabela do Egrégio Tribunal de Justiça do Estado de São Paulo.
+Custas pela parte ré. Honorários fixados em 10% sobre o valor da condenação, considerando a complexidade do feito e o número de atos praticados, na forma do art. 20, §§ 3.º e 4.º do CPC. 
+Publique-se. Registre-se. Intimem-se.
+
+
+São Paulo, 19 de novembro de 2012.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

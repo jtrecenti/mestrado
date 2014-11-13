@@ -1,0 +1,94 @@
+
+
+SENTENÇA
+
+Processo Físico nº:0025397-41.2012.8.26.0002
+Classe - AssuntoEmbargos À Execução - Nulidade / Inexigibilidade do Título
+Embargante:Copy Ware Comércio e Assistência Técnica Ltda - ME e outros
+Embargado:Banco Bradesco S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Eurico Leonel Peixoto Filho
+
+       Vistos.
+Trata-se de embargos à execução promovida por BANCO BRADESCO S.A. em face de COPY WARE COMÉRCIO E ASSISTENCIA TÉCNICA LTDA ME. Aduz a embargante que a execução contra ela movida é nula por não ser a cédula de crédito bancário titulo executivo, produzido de forma unilateral. Afirma que os valores cobrados são excessivos e não observam ao contratado, vedada a cumulação da cobrança de taxa de remuneração com outros encargos , bem como ilegal a capitalização diária. 
+A parte embargada ofereceu impugnação, sustentando a legalidade dos encargos contratados. 
+É o relatório.
+Decido.
+É o caso de se julgar o feito no estado em que está por versar a controvérsia apenas sobre matéria de direito.
+TITULO EXECUTIVO.
+A cédula de crédito bancário, por expressa previsão na Lei n° 10.931/04 é título executivo extrajudicial.
+?Art. 28. A Cédula de Crédito Bancário é título executivo extrajudicial e representa dívida em dinheiro, certa, líquida e exigível, seja pela soma nela indicada, seja pelo saldo devedor demonstrado em planilha de cálculo, ou nos extratos da conta corrente, elaborados conforme previsto no § 2?.
+Veja-se que diferentemente do alegado pela embargante há na cédula, de forma expressa, o valor total da quantia mutuada e as prestações devidas, o que torna o título líquido.
+Outrossim, quanto as cálculos apresentados pela embargante, observa-se que deixou de considerar a forma de capitalização contratada que, como abaixo se tratará, é legal.
+Desta forma, nesse ponto, não há nulidade, estando a execução fundada em título executivo com todos os atributos necessários.
+LIMITAÇÃO DOS JUROS REMUNERATÓRIOS 
+No tocante a limitação da taxa de juros ao patamar de 12% ao ano, então prevista no artigo 192, §3º, da Constituição Federal, o comando não era aplicável porque dependia de regulamentação por meio de Lei complementar. 
+Mas atualmente a questão restou superada com o advento da Emenda Constitucional n. 40/2003, que revogou o dispositivo mencionado.
+Além disso, o STJ já decidiu a questão no Recurso Especial n. 1.061.530, de relatoria da Ministra Nancy Andrighi, julgado em 22.11.2008, apreciado sob a sistemática dos recursos repetitivos:
+?ORIENTAÇÃO 1 - JUROS REMUNERATÓRIOS. 
+a) As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33), Súmula 596/STF;
+b) A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade; 
+c) São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02; 
+d) É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada (art. 51, §1º, do CDC) fique cabalmente demonstrada, ante as peculiaridades do julgamento em concreto?.
+O STF, igualmente consolidou entendimento no sentido da inaplicabilidade da Lei de Usura às Instituições Financeiras, firmando esse entendimento em duas súmulas:
+Súmula 596: As disposições do Decreto 22.626 de 1933 não se aplicam às taxas de juros e aos outros encargos cobrados nas operações realizadas por instituições públicas ou privadas, que integram o sistema financeiro nacional.
+Súmula Vinculante n° 7: A norma do §3º do artigo 192 da constituição, revogada pela emenda constitucional nº 40/2003, que limitava a taxa de juros reais a 12% ao ano, tinha sua aplicação condicionada à edição de lei complementar.
+CAPITALIZAÇÃO  DIÁRIA DOS JUROS 
+A questão também está regulada no já citado art. 28 da Lei n° 10.931/04:
+Art. 28 (...)
+§ 1o Na Cédula de Crédito Bancário poderão ser pactuados:
+I - os juros sobre a dívida, capitalizados ou não, os critérios de sua incidência e, se for o caso, a periodicidade de sua capitalização, bem como as despesas e os demais encargos decorrentes da obrigação.
+Em relação a possibilidade de capitalização diária de juros já se decidiu:
+EMBARGOS À EXECUÇÃO CÉDULA DE CRÉDITO BANCÁRIO - Liquidez - Capitalização diária - Possibilidade - Advento da Lei nº 10.931/04, art. 28, § 1º, I, que não padece de inconstitucionalidade Expressa previsão contratual - Recurso desprovido. (Apelação 0004844-33.2013.8.26.0100, 15ª Câmara de Direito Privado, rel. Des. Vicentini, rel. Des. Vicentini Barroso, j. em 11/02/2014, g. n.).
+APELAÇÃO - AÇÃO DE COBRANÇA - CONTRATO BANCÁRIO - JUROS ? CRÉDITO DISPONÍVEL EM CONTA CORRENTE - CAPITALIZAÇÃO DIÁRIA - ADMISSIBILIDADE - Conforme orientação do STJ, não se aplicam os artigos 591 e 406 do Código Civil às instituições financeiras; tampouco tais entidades se sujeitam à limitação de juros estipulados na Lei de Usura (Dec. 22.626/33; Súmula 596 do STF) - Capitalização diária de juros expressamente pactuada, conforme contrato apresentado - Recurso parcialmente conhecido e, na parte conhecida, improvido. (Apelação 0243296-73.2009.8.26.0002, 37ª câmara de Direito Privado, rel. Des. Leonel Costa, j. em 27/11/2012).
+EMBARGOS À EXECUÇÃO CÉDULA DE CRÉDITO BANCÁRIO Alegação de ausência de título executivo extrajudicial apto a embasar a execução, porque não está assinado por duas testemunhas. INADMISSIBILIDADE: Embora o apelante sustente a iliquidez e a incerteza da dívida, a execução é perfeitamente admissível, uma vez que lastreada em uma Cédula de Crédito Bancário que contém todos os requisitos exigidos pelo art. 29 da Lei n° 10.931/04. A cédula de crédito bancário é uma modalidade de crédito regulamentada pela citada Lei, que em seu artigo 28 dispõe se tratar de "título executivo extrajudicial e representa dívida em dinheiro, certa, líquida e exigível". Entendimento em consonância com a Súmula 14 da Seção de Direito Privado 2 deste E. Tribunal. A ausência da assinatura de duas testemunhas é irrelevante para a formação do título executivo em tela, uma vez que não se trata de requisito essencial exigido pelo art. 29 da Lei n° 10.931/2004. Sentença mantida. CAPITALIZAÇÃO DIÁRIA DE JUROS ANATOCISMO - Pretensão dos embargantes de reconhecimento da ilegalidade na incidência de juros capitalizados diariamente. INADMISSIBILIDADE: A Lei nº 10.931 de 2 de agosto de 2004 em seu artigo 28, §1º e inciso I prevê a capitalização dos juros em qualquer periodicidade desde que pactuada. Além disso, a cédula de crédito bancário exequenda foi emitida, quando já em vigor a Medida Provisória nº 1963-17/2000, atual MP 2.170 de 23.08.01, que em seu art. 5º autoriza a capitalização dos juros, por período inferior a um ano, não sendo possível o reconhecimento de sua inconstitucionalidade por órgão fracionado do Poder Judiciário. (...). RECURSO DESPROVIDO. (Apelação 0005988-48.2012.8.26.0077, 37ª Câmara de Direito Privado, rel. Des. Israel Góes dos Anjos, j. em 12/11/2013).
+Não há ilegalidade na periodicidade diária de capitalização dos juros.
+CUMULAÇÃO DE TAXA DE REMUNERAÇÃO COM ENCARGOS MORATÓRIOS.
+A cláusula 3ª do contrato prevê a cobrança cumulada de encargos remuneratórios, encargos moratórios , taxa de remuneração, juros moratórios e multa. E embora grafada com o terno ?taxa de remuneração?, na realidade tem-se a cobrança cumulada de comissão de permanecia com encargos moratórios.
+In casu, inadmissível a cumulação, adotando-se v. entendimento da ministra Nancy Andrighi, do E. Superior Tribunal de Justiça:
+IV - Da comissão de permanência c/c juros remuneratórios e correção monetária.
+Restou firmado pela Segunda Seção do STJ entendimento no sentido de ser admissível a cobrança de comissão de permanência após o vencimento da dívida, desde que não cumulada com juros remuneratórios e/ou correção monetária, conforme decidido no Recurso Especial 271.214, Rel. p/ acórdão Min. Carlos Alberto Menezes Direito, DJ de 04.08.2003. Indispensável, portanto, a discussão da possibilidade de cumulação da comissão de permanência com juros moratórios e multa contratual. 
+Assim sendo, passo à análise do tema.
+V - Da comissão de permanência c/c juros moratórios
+Através da edição da Resolução 1.129/86, o BACEN resolveu:
+?I - Facultar aos bancos comerciais, bancos de desenvolvimento, bancos de investimento, caixas econômicas, cooperativas de crédito, sociedades de crédito, financiamento e investimento e sociedades de arrendamento mercantil cobrar de seus devedores por dia de atraso no pagamento ou na liquidação de seus débitos, além de juros de mora na forma da legislação em vigor, 'comissão de permanência', que será calculada às mesmas taxas pactuadas no contrato original ou à taxa de mercado do dia do pagamento.
+II - Além dos encargos previstos no item anterior, não será permitida a cobrança de quaisquer outras quantias compensatórias pelo atraso no pagamento dos débitos vencidos.?.(sem grifos no original)
+Infere-se, pela análise do excerto acima, que, além dos juros de mora na forma da legislação em vigor, o BACEN autorizou a cobrança da comissão de permanência. Ademais, dispôs que, além desses encargos, nenhuma outra quantia compensatória pelo atraso no pagamento poderia ser cobrada.
+No entanto, não é com fulcro no aludido normativo do BACEN que se deve analisar a pretensa cumulação, mas sim sob a ótica da natureza jurídica desses institutos.
+Já se decidiu no STJ pela impossibilidade de cumulação da comissão de permanência com os juros remuneratórios e com a correção monetária.
+Se a cumulação desses encargos não pode ocorrer, tal se dá porque a comissão de permanência possui a natureza jurídica tanto de juros remuneratórios quanto de correção monetária, ou seja, tem em sua taxa embutidos índices que permitem ao mesmo tempo a remuneração do capital mutuado e a atualização do valor de compra da moeda.
+Sobre a comissão de permanência, há de se considerar que a incidência do encargo, que ocorre sempre após o vencimento da dívida, tem por escopo remunerar o credor pelo inadimplemento obrigacional e coagir o devedor a efetuar o cumprimento da obrigação o mais rapidamente possível, isto é, impedir que o devedor continue em mora, já que incide diariamente, majorando a cada dia o valor do débito.
+Por sua vez, os juros moratórios consistem em: ?juros decorrentes da mora?, isto é, os que se devem, por convenções ou legalmente, em virtude do retardamento no cumprimento da obrigação. São os juros ditos de propter moram, fundados numa demora imputável ao devedor de dívida exigível. Nesta razão, os juros moratórios se fundam em dois elementos dominantes:
+a) a existência de uma dívida exigível;
+b) a demora do não-pagamento dela, imputável ao devedor.' (SILVA, De Plácido e. Vocabulário Jurídico, 16. ed., Ed. Forense, Rio de Janeiro, 1999, p. 470).
+Ora, ao se cotejar as características da comissão de permanência acima alinhavadas com a definição de juros moratórios, constatasse que, após o vencimento da dívida, a comissão de permanência também desempenha a função dos juros moratórios, ou seja, remunera o credor pelo descumprimento da obrigação e coíbe o devedor a não incidir ou permanecer em mora.
+Assim sendo, permitir a incidência cumulada desses encargos é chancelar a ocorrência de bis in idem condenável, pois estar-se-á pagando por dois encargos contratuais que possuem a mesma natureza jurídica e desempenham a mesma função no contrato.
+Dessa forma, forçoso concluir pela possibilidade de incidência da comissão de permanência após o vencimento da dívida, mas nunca cumulada com juros remuneratórios, correção monetária e/ou juros moratórios.
+Caso haja cumulação, afastam-se os juros moratórios e mantém-se a comissão de permanência, seguindo-se a orientação firmada pela Segunda Seção relativamente aos juros remuneratórios e à correção monetária.
+VI - Da comissão de permanência c/c multa contratual
+A Resolução 1.129, de 15.05.1986 determina em seu inc. II que, ?além dos encargos previstos no item anterior [comissão de permanência e juros moratórios], não será permitida a cobrança de quaisquer outras quantias compensatórias pelo atraso no pagamento de débitos vencidos?.
+Por essa razão defende-se a possibilidade de incidência da comissão de permanência com a multa contratual, já que a multa possui natureza moratória, o que, em princípio, não contraria o inciso II da aludida resolução.
+Contudo, ressalte-se novamente que a cumulação não há de ser analisada em observância ao conteúdo do normativo referido, mas mediante a análise da natureza jurídica desses encargos.
+Além das considerações já realizadas sobre a comissão de permanência, mister se faz asseverar também que esse encargo incide às taxas de mercado do dia do pagamento e é calculada com base no índice de inadimplência dos devedores.
+Isso significa dizer que o BACEN, ao estipular a taxa de comissão de permanência, considera o total dos devedores em mora no mercado, estima e prefixa os prejuízos advindos do inadimplemento dos débitos e assim embute na taxa as perdas e danos resultantes do não pagamento das dívidas no seu vencimento.
+Por sua vez, a multa contratual constitui espécie de cláusula penal, estipulada pelas partes para incidir no caso de mora.
+Sobre o instituto da cláusula penal, Maria Helena Diniz leciona que:
+"... vem a ser um pacto acessório, pelo qual as próprias partes contratantes estipulam, de antemão, pena pecuniária ou não, contra a parte infringente da obrigação, como conseqüência de sua inexecução completa culposa ou à alguma cláusula especial ou de seu retardamento, fixando, assim, o valor das perdas e danos, e garantindo o exato cumprimento da obrigação principal (CC, art. 409, 2.ª parte). Constitui uma estipulação acessória, pela qual uma pessoa, a fim de reforçar o cumprimento da obrigação, se compromete a satisfazer certa prestação indenizatória, seja ela uma prestação em dinheiro ou de outra natureza, como a entrega de um objeto, a realização de um serviço ou a abstenção de um fato (RT, 172:138; RF, 146:254, 120:18), se não cumprir o devido ou o fizer tardia ou irregularmente, fixando o valor das perdas e danos devidos à parte inocente em caso de inexecução contratual." (DINIZ, Maria Helena. Curso de Direito Civil Brasileiro, 17.ª ed., Ed. Saraiva, São Paulo, 2003, p. 392).
+Portanto, a multa contratual fixada em contrato de mútuo é, na verdade, cláusula penal moratória, pela qual as partes estipulam antecipadamente em favor do credor, juntamente com a obrigação principal, valor ou percentual a título de indenização por eventual descumprimento obrigacional pelo devedor.
+Considerando que o cálculo da taxa de comissão de permanência se faz observado o índice de inadimplência existente no mercado, com a prefixação das perdas e danos sofridos pelas instituições financeiras em razão do inadimplemento das obrigações assumidas por seus devedores, como soa ocorrer com multa contratual, conclui-se que esses encargos desempenham a mesma função.
+Por essa razão não se justifica a cobrança cumulada da comissão de permanência com a multa contratual, sob pena de ocorrência de dupla incidência de um mesmo encargo, como ocorre para os juros remuneratórios, a correção monetária e os juros moratórios.
+Esse entendimento já restara sufragado quando do julgamento do recurso especial 451.233, julgado pela Terceira Turma em 26/06/2003.
+(AgR-Resp n. 706.368/RS, unânime, DJU de 08.08.2005)
+Por consequência, no período de inadimplemento, não pode o embargado cobrar a denominada ?taxa de remuneração ? operações em atraso?.
+Mas, analisando-se as planilhas que instruíram a execução, constata-se que sobre o débito a exequente apenas fez incidir os juros moratórios e a correção monetária. Não há, embora prevista no contrato, a cumulação ilegal.
+DISPOSITIVO
+Ante o exposto, JULGO IMPROCEDENTES os embargos. Arcará a parte autora com o pagamento das custas, despesas processuais e honorários advocatícios que fixo em R$ 500,00. 
+Após o transito em julgado aguarde-se por vinte dias e caso nada seja requerido, arquive-se.
+P.R.I.
+São Paulo, 18 de julho de 2014.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

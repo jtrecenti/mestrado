@@ -1,0 +1,43 @@
+
+
+SENTENÇA
+
+Processo nº:4000280-37.2013.8.26.0004
+Classe - AssuntoProcedimento do Juizado Especial Cível - Obrigação de Fazer / Não Fazer
+Requerente:Josinete Alves da Silva
+Requerido:Serasa S.A.
+
+
+
+
+Juiz(a) de Direito: Dr(a). Fernando Salles Amaral
+
+Vistos.
+
+JOSINETE ALVES DA SILVA moveu a presente ação de indenização por danos morais em face de SERASA S/A, alegando, em síntese, que teve seu nome inscrito em mecanismo denominado "concentre scoring", que atribuiu pontuação ao consumidor para análise do crédito que lhe será atribuído pelas associadas da ré. Afirma ter sofrido danos morais, pela abusividade de sua conduta em inserir o nome do autor em referido mecanismo. Pede a condenação da ré a se abster de inserir os dados do autor no "concentre scoring" e a condenação da ré ao pagamento de indenização por danos morais. Juntou documentos. 
+
+Validamente citada, a requerida apresentou defesa, sustentando, no mérito, a validade do mecanismo e ausência de danos morais. Requereu a improcedência. Juntou documentos. 
+
+É o relatório. Decido. 
+
+O objeto da reclamação do autor, no que toca à SERASA, é o serviço de informações por esta chamado de "Credit Score", vendido a fornecedores como informação sobre o grau de risco para avaliação da oportunidade de concessão de crédito a consumidores. 
+
+A ré, por modelos e fórmulas matemáticas, protegidas por sigilo por serem propriedade industrial, avalia o consumidor que busca crédito e, por meio de um valor numérico inserido em uma escala, informa ao fornecedor o nível de risco de lhe conceder o crédito, ou seja, informa um número que expressa probabilidade de adimplemento ou inadimplemento de obrigação, obtido por meio de cálculo específico. 
+
+Como a ré SERASA não explicou, de forma objetiva, como calculou a  pontuação atribuída à parte autora e quais informações sobre a autora efetivamente foram utilizados, não há meios para o juízo averiguar se foram utilizadas informações vedadas pelo art. 43, § 1.º, do CDC, ou seja, se foram utilizadas informações negativas referentes a período superior a 5 anos. 
+
+E essa omissão da ré SERASA no tocante às informações que usa para elaboração do conceito que exprime por número a respeito de um consumidor autoriza concluir que tal prática viola também o § 3.º daquele mesmo art. 43 do CDC, pois veda ao consumidor exigir eventual correção nos dados e cadastros. Mais: desde que a ré SERASA pretende que tais informações sejam sigilosas até mesmo em relação ao próprio consumidor que é objeto da avaliação, também ocorre violação ao § 2.º do mesmo art. 43 do CDC, pois evidentemente não comunica ao consumidor a "abertura de cadastro, ficha, registro e dados pessoais e de consumo".
+
+No caso concreto, ainda, a omissão da ré SERASA impede, ainda, que se verifique se descumpriu o que expressamente prevê o § 5.° daquele mesmo art. 43: "consumada a prescrição relativa à cobrança de débitos do consumidor, não serão fornecidas, pelos respectivos Sistemas de Proteção ao Crédito, quaisquer informações que possam impedir ou dificultar novo acesso ao crédito junto aos fornecedores". 
+
+Era ônus da ré SERASA provar que não feriu o art. 43 do CDC, em nenhum de seus dispositivos, mas não o fez, o que implica em se reconhecer a ilegalidade da informação que prestou a respeito da parte autora. 
+
+Não houve, porém, dano moral, pois não há mínima comprovação de que a informação fornecida pela ré seria negativa. Ao contrário, o que a pontuação atingida pela autora exprime é ser ela pessoa em que se pode dar crédito.
+
+Em razão do exposto, JULGO PROCEDENTE o pedido para condenar a ré SERASA ao cumprimento de obrigação de fazer, consistente na exclusão do "Concentre Scoring" vinculado à parte autora, no prazo de até 10 dias, a contar de intimação específica para tanto, sob pena de multa diária de R$ 100,00 (cem reais), limitada a R$ 5.000,00. No entanto, julgo improcedente o pedido de indenização por danos morais. Por conseqüência, resolvo o mérito com fundamento no artigo 269, I, do Código de Processo Civil. Sem custas nesta fase processual, na forma do artigo 55 da Lei 9.099/95.
+
+PRI
+
+ São Paulo, 18 de dezembro de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

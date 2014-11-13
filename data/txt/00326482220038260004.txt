@@ -1,0 +1,86 @@
+
+
+SENTENÇA
+
+Processo nº:0032648-22.2003.8.26.0004 - Procedimento Ordinário
+Requerente:Guilherme dos Santos Vaz
+Requerido:Eletropaulo Metropolitana - Eletricidade de São Paulo S/A
+
+
+
+Juiz(a) de Direito: Dr(a). Rodrigo de Castro Carvalho
+
+
+Vistos, etc.
+
+
+
+
+
+GUILHERME DOS SANTOS VAZ ajuizou o presente pedido declaratório em face de ELETROPAULO METROPOLITANA DE SÃO PAULO S/A, alegando, em síntese, que no dia 07 de outubro de 2002 houve inspeção por funcionários da requerida, constatando irregularidade com suposta fraude entre 02 de dezembro de 1999 e aquela data, suspendendo o fornecimento de energia elétrica. Na agência da requerida apenas lhe foi dado demonstrativo de consumo irregular do período no valor de R$ 70.746,75. Para restabelecimento da energia foi apresentado Termo de Confissão de Dívida do valor imaginário para pagamento em 24 parcelas de R$ 2.947,78. Tal imposição é absurda já que havia aberto o estabelecimento comercial há um mês, apesar de residir na parte de cima do imóvel e desconhecer qualquer irregularidade. Pede, portanto, liminar para abstenção do corte no fornecimento de energia e, no mérito, a declaração da inexistência de débito, acrescidos dos demais consectários legais. 
+
+Deferida a liminar, regularmente citada, a requerida apresentou defesa alegando não ter ocorrido conduta abusiva, pois ao constatar brusca variação de consumo, houve a inspeção no imóvel, sendo que o procedimento foi acompanhado pelo requerente que ainda exarou assinatura no documento. Tudo foi realizado conforme determina a Resolução 456/00 da ENEEL. Conforme documentação, o autor é representante legal do estabelecimento e as contas foram emitidas em nome da empresa, o que demonstra sua responsabilidade. Também de acordo com a Lei 8.987/95 e Resoluções, o corte no fornecimento era plenamente possível e legal, principalmente se constatada a fraude, existindo inadimplemento e descumprimento do instrumento de confissão. Não houve coação na assinatura do instrumento, celebrado de comum acordo entre as partes. Salienta ser de responsabilidade da requerida a fiscalização dos medidores e do usuário pelos danos administrativo. 
+
+Em reconvenção, com os mesmos argumentos da legalidade dos atos praticados e do não pagamento do débito, pede a condenação do autor ao pagamento de R$ 70.746, 75, acrescidos dos demais consectários legais.
+
+Em réplica o(a) requerente rebateu as alegações da defesa, reforçando seu pedido inicial. 
+
+Em audiência nos termos do artigo 331 do Código de Processo Civil, não foi possível a composição. 
+
+Saneado o feito, foi deferida a realização de prova pericial, cujo laudo foi juntado a fls. 212/248. Parecer Técnico a fls. 275/285.
+
+Em memoriais as partes reiteraram as alegações postuladas durante a fase postulatória. 
+
+A fls. 468 houve regularização dos atos processuais, dando-se oportunidade ao requerente se de manifestar em contestação à reconvenção, ficando inerte.
+
+É o relatório necessário.
+
+D E C I D O.  
+
+A questão controvertida nos autos gira em torno da alegada irregularidade no medidor de energia elétrica na unidade consumidora do requerente, fato que deu causa ao corte do fornecimento de energia elétrica, tudo apurado por meio de diligências realizadas pela concessionária prestadora dos serviços.
+
+O que se tem verificado é que a concessionária traz aos autos elementos que demonstram a correção de suas alegações, em especial providenciando a juntada aos autos do "TOI" (Termo de Ocorrência de Irregularidade), demonstrando ainda o "degrau", (diferença abrupta no consumo de energia elétrica, para menos) a princípio inexplicável, mostrando ainda que não foram apresentados elementos que justificassem a queda abrupta. 
+
+Para demonstrar tais pontos, a concessionária normalmente faz uma confrontação entre o consumo anterior ao "degrau" e o consumo posterior ao TOI", tudo em comparação ao período durante o qual houve a inexplicável queda no consumo. 
+
+Em caso de evidente "degrau", tem sido reconhecido que efetivamente o valor relativo à diferença é devido, ainda que, tal diferença deva ser aferida por outra forma, que não aquela normalmente adotada pela concessionária. 
+
+Este procedimento que a concessionária tem adotado nos feitos é correto, tendo em vista que não há como carrear ao usuário a prova negativa, chamada de prova "diabólica"; com efeito, não seria possível ao, autor provar que não consumiu aquilo que a concessionária diz ter sido consumido.
+
+Entretanto, a apuração unilateral de eventual fraude no medidor de energia elétrica terá foros de verdade apenas se se acompanhar de perícia isenta, a da policia científica ou de instituto oficial de metrologia.
+
+No caso dos autos, houve perícia indireta, cujo laudo concluiu pelo consumo irregular e menor (fls. 234), o que fica visível ao leigo pelos gráficos de fls. 227 e 228.
+
+Ao dispor sobre revisão de fatura, a Resolução ANEEL n° 456/2000 exorbita e incide em nulidade, porque elege como uma das alternativas o "maior valor de consumo" em doze meses (art. 72, IV), acrescido de "custo administrativo" de 30% (idem, art. 73).
+
+O exame do histórico do consumo revela variação na quantidade mensal de quilowatt, que nada impedia viesse a ser apurada, mas de modo adequado.
+
+A solução se revela intuitiva, a apuração da diferença pela média mensal do consumo verificado após a correção do medidor, porque o que ocorreu costuma se refletir no hoje e no amanhã.
+
+Quanto a multa, ou custo administrativo, extrapola qualquer conceito básico pelo qual o prestador do serviço se remunera por tarifa e não há qualquer parâmetro em utilizar como base de cálculo o valor do débito, já que o custo administrativo não é o mesmo para pequeno, médio ou grande consumo.
+
+Deste modo, a correta cobrança deve levar em consideração o consumo médio dos doze meses posteriores à regularização do relógio e sem a incidência da multa.
+
+Por fim, o corte no fornecimento do serviço é autorizado pela 6º, parágrafo 3º, inciso II, da Lei 8.987/95, no caso de inadimplemento.
+
+Todavia, é entendimento corrente no Superior Tribunal de Justiça, que nos casos de verificação de fraude, mas cujas faturas estão sendo pagas regularmente, não há possibilidade de efetuar o cancelamento do fornecimento do serviço como forma de coação ao pagamento, justamente por se tratar de débitos pretéritos e não atuais.
+
+Conquanto a essencialidade do serviço de fornecimento de energia elétrica obrigue as concessionárias a prestá-lo de forma contínua (art. 22 do CDC), sua interrupção, quando fundada em motivos relevantes, dentre eles o inadimplemento, e desde que previamente cientificado o consumidor, não caracteriza violação, pois a medida atende ao interesse da coletividade adimplente (inciso II, § 3o, art. 6º da Lei n° 8.987/95) .
+
+No entanto, a interrupção deve ser fundada em débito de conta regular, relativa ao mês de consumo, e não em dívidas pretéritas, como na hipótese em questão.
+
+Nesse sentido: 
+
+"ADMINISTRATIVO. ENERGIA ELÉTRICA. FORNECIMENTO. ART. 6o, § 3o, II, DA LEI N° 8.987/95. CORTE. DÉBITOS ANTIGOS. ILEGALIDADE. 1. O princípio da continuidade do serviço público, assegurado pelo art. 22 do Código de Defesa do Consumidor, deve ser obtemperado, ante a regra do art. 6°, § 3°, II, da Lei 8.987/95, que prevê a possibilidade de interrupção do fornecimento de energia quando, após aviso, permanecer inadimplente o usuário, considerado o interesse da coletividade. Precedentes. 2. É indevido o corte do fornecimento de energia elétrica nos casos em que se trata de cobrança de débitos antigos e consolidados, os quais devem ser reivindicados pelas concessionárias por meio das vias ordinárias de cobrança, sob pena de se infringir o disposto no art. 42 do Código de Defesa do Consumidor. Precedentes. 3. Agravo regimental não provido." (AgRg no Ag 96223 7/RS ? Ministro Castro Meira - Data do Julgamento: 11/03/2008).
+
+Na espécie a suspensão foi fundada em irregularidade que determinou um registro menor da energia utilizada, ou seja, de fornecimento pretérito, o que não autoriza a medida adotada pela requerida.
+
+Observe-se, ainda, que tal discussão foi levada ao Tribunal de Justiça que decidiu pela manutenção da liminar, mas determinou a prestação de caução (que não veio aos autos) e o pagamento em dias das faturas (fls. 187/190). 
+
+Isto posto e considerando o mais que dos autos consta, JULGO PARCIALMENTE PROCEDENTE o pedido principal para declarar parcialmente inexigível o débito, que deverá tomar como parâmetro a média dos doze meses posteriores à regularização do medidor, sem a incidência da multa ou custo administrativo; e PARCIALMENTE PROCEDENTE o pedido reconvencional, condenando o requerente-reconvindo ao pagamento da diferença de consumo que deverá ser apurado tomando como parâmetro a média dos doze meses posteriores à regularização do medidor, sem a incidência da multa ou custo administrativo.
+
+Diante da sucumbência recíproca, cada parte arcará com as custas e despesas a que deram causa, assim como honorários de seus respectivos patronos.
+
+R.P.I.
+
+São Paulo, 08 de julho de 2011.

@@ -1,0 +1,68 @@
+
+
+SENTENÇA
+
+Processo nº:0067386-27.2012.8.26.0002
+Classe - AssuntoProcedimento Ordinário - Defeito, nulidade ou anulação
+Requerente:Athos Sistemas de Identificação Ltda
+Requerido:Ticket Serviços S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Antonio Carlos Santoro Filho
+
+
+
+Trata-se de ação declaratória de inexigibilidade de débito c.c.  indenização por danos morais ajuizada por  ATHOS SISTEMAS DE IDENTIFICAÇÃO LTDA. em face de TICKET SERVIÇOS S.A.
+Alega a autora, em síntese, que se utiliza dos serviços da ré para abastecimento de seus veículos. No período de 19.3.2012 a 18.4.2012, no entanto, observou diversas transações não realizadas por seus empregados, pois em finais de semana e em valores que superam a capacidade de um tanque de gasolina. A ré foi comunicada do fato, mas, injustificadamente, se recusou a excluir a cobrança. Além disso, incluiu o nome da autora, indevidamente, em cadastros de inadimplentes. Requer, por tais fundamentos, a declaração de inexistência do débito no montante de R$ 4.583,98, e a condenação da ré ao pagamento de indenização por danos morais. 
+Deferida a tutela antecipada, a ré foi citada e ofertou a resposta de fls. 60/66, na qual sustentou que o seu sistema não possui qualquer falha, de forma que os saques, com cartão eletrônico, foram realizados pela própria autora ou por pessoa por ela autorizada; que se culpa houve pelo evento, esta coube exclusivamente à autora, na medida em que não foi diligente na guarda de seus cartões e de suas senhas; que não é cabível, na hipótese, a inversão do ônus da prova; que não se caracterizaram os alegados danos morais. Requereu a improcedência da ação. 
+Em réplica a autora reiterou os argumentos iniciais. 
+É o relatório. 
+Decido. 
+A prova pericial requerida pela ré é manifestamente impertinente, pois além de não pretender a ré custeá-la, incontroverso que a autora não pagou os valores impugnados. Logo, não há qualquer finalidade na pretendida verificação técnica. 
+No mais, versando a controvérsia apenas sobre matéria de direito ou passível, tão-somente, de prova documental, já produzida ou cuja oportunidade de produção foi atingida pela preclusão, passo ao conhecimento direto do pedido. 
+A ação procede. 
+Com efeito, sustenta a autora que com cartões clonados terceiros causaram um débito em sua fatura no valor de R$ 4.583,98, sendo que tais operações não foram por ela realizadas. 
+Para fortalecer tais alegações a autora juntou aos a reclamação dirigida à ré e a respectiva resposta (fls. 41). 
+A ré, em sua contestação, negou qualquer negligência de sua parte para o evento, na medida em que seu sistema de segurança não seria sujeito a falhas, e atribuiu à autora a responsabilidade pelo fato. 
+A versão defensiva, todavia, não merece acolhimento. 
+A uma porque a ré não trouxe aos autos qualquer documento apto a afastar a versão inicial. 
+A duas porque inviável se exigir da autora a prova de fato negativo, isto é, de que não realizou os saques ou consumos impugnados. 
+A três porque a própria ré, em sua resposta (fls. 63/64), acaba por admitir que seus cartões são passíveis de clonagem ou fraude, o que contradiz o principal argumento de sua defesa, em sentido contrário. 
+Assim, seja já pelo disposto no art. 333, do CPC, seja pela regra insculpida no art. 6º, inciso VIII, do Código de Defesa do Consumidor ? aplicável à espécie, pois a autora é destinatária final dos produtos e serviços prestados pela ré - caberia à segunda demonstrar a infalibilidade de seus sistemas de segurança, e mais, que foi a autora, e não terceiro por ela não autorizado, o responsável pela utilização do cartão. 
+Nada disso, entretanto, fez a ré. 
+Com efeito, apesar de ter alegado na sua resposta, não demonstrou que as operações impugnadas eram constantemente realizadas pela autora; não demonstrou que os veículos da autora comumente utilizavam-se dos postos em que realizadas as transações; não demonstrou, por fim, qualquer contribuição culposa do autor para o evento. 
+Registre-se que tais fatos comportariam apenas prova documental, não produzida. 
+Assim, considerando a absoluta ausência de provas a respeito da contribuição da autora para os fatos e, por outro lado, a responsabilidade objetiva da ré ? art. 14, do CDC -, impõe-se a procedência da demanda. Neste sentido tem se orientado parcela significativa da jurisprudência, em hipóteses similares. A título de ilustração: 
+
+Direito processual civil. Ação de indenização. Saques sucessivos em conta corrente. Negativa de autoria do correntista. Inversão do ônus da prova. 
+- É plenamente viável a inversão do ônus da prova (art. 333, II do CPC) na ocorrência de saques indevidos de contas-correntes, competindo ao banco (réu da ação de indenização) o ônus de provar os fatos impeditivos, modificativos ou extintivos do direito do autor.
+- Incumbe ao banco demonstrar, por meios idôneos, a inexistência ou impossibilidade de fraude, tendo em vista a notoriedade do reconhecimento da possibilidade de violação do sistema eletrônico de saque por meio de cartão bancário e?ou senha.
+- Se foi o cliente que retirou o dinheiro, compete ao banco estar munido de instrumentos tecnológicos seguros para provar de forma inegável tal ocorrência.
+Recurso especial parcialmente conhecido, mas não provido. (REsp. n. 727.843/2005-SP ? Rel. Min. Nancy Andrighi).
+
+PROCESSO CIVIL. INVERSÃO DO ÔNUS DA PROVA. SAQUE INDEVIDO COM CARTÃO MAGNÉTICO. Correta a inversão do ônus da prova determinada pelo tribunal a quo porque o sistema de segurança do cartão magnético é vulnerável a fraudes. Agravo regimental não provido (REsp. n. 724.954/2005-RJ ? Rel. Min. Ari Pargendler)
+
+DANO MORAL ? Responsabilidade civil ? Banco ? Saque indevido em conta-corrente ? Cartão bancário ? Responsabilidade objetiva do fornecedor do serviço ? Valores restituídos ? Dano moral configurado ? Redução para montante adequado às peculiaridades do caso ? Recurso parcialmente provido (Apelação Cível n. 7.021.060-3 ? São Paulo - 22ª Câmara de Direito Privado ? Relator: Matheus Fontes ? 15.08.06 - V.U. - Voto n. 14592)
+
+Assim, de rigor a declaração de inexigibilidade do débito impugnado, no montante de R$ 4.583,98, cabendo à autora a quitação do remanescente da fatura. 
+Com relação aos danos morais, também restaram caracterizados. 
+Isto porque o dano simplesmente moral, como o abalo do crédito e a lesão à honra, não necessita de outras provas, existindo apenas pela ofensa, e dela sendo presumido, o que, por si só, justifica a indenização. 
+De fato, não há como se negar que a atribuição a determinada empresa, injustamente, da qualidade de inadimplente, causa dificuldades no seu cotidiano, em suas relações comerciais e em seu bom nome, o que merece a devida compensação. 
+Consoante jurisprudência firmada no Superior Tribunal de Justiça, o dano moral decorre do próprio ato lesivo de inscrição indevida nos cadastros de proteção ao crédito, "independentemente da prova objetiva do abalo à honra e à reputação sofrido pelo autor, que se permite, na hipótese, facilmente presumir, gerando direito a ressarcimento" (Resp. 110.091/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJ 28.08.00; Resp. 196.824, Rel. Min. CÉSAR ASFOR ROCHA, DJU 02.08.99; Resp. 323.356/SC, Rel. Min. ANTÔNIO PÁDUA RIBEIRO, DJ 11.06.2002)
+ Considerando a capacidade econômica das partes, o grau do dano e a negativa da ré em solucionar o problema assim que comunicada do fato, entendo suficiente a tal compensação a fixação de indenização de R$ 9.000,00 (nove mil reais), equivalente a duas vezes o valor indevidamente cobrado, que sofrerá correção monetária a partir desta data e juros de mora de 1% a.m. desde a citação. 
+Ante o exposto, JULGO PROCEDENTE a ação de indenização por danos materiais e morais ajuizada por ATHOS SISTEMAS DE IDENTIFICAÇÃO LTDA. em face de TICKET SERVIÇOS S.A., para tornar definitiva a tutela antecipada concedida, DECLARAR INEXIGÍVEL o débito impugnado, no montante de R$ 4.583,98 - cabendo à autora a quitação do remanescente da fatura ? e para CONDENAR a ré a pagar à autora Indenização por danos morais no valor de R$ 9.000,00 (nove mil reais), que sofrerá atualização monetária a partir desta data e o acréscimo de juros de mora de 1% a.m. desde a citação. Faculta-se às partes a compensação de valores. 
+Arcará a ré, por fim, com as custas processuais e honorários advocatícios que arbitro em 10% do valor atualizado da condenação. 
+                Após o trânsito em julgado, aguarde-se em cartório por 20(vinte) dias. Nada mais sendo requerido, arquive-se. 
+P.R.I.C. 
+
+
+
+ANTONIO CARLOS SANTORO FILHO
+Juiz de Direito
+
+
+São Paulo, 02 de julho de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

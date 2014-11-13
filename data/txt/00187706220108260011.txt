@@ -1,0 +1,81 @@
+
+
+SENTENÇA
+
+CONCLUSÃO
+Em 16 de dezembro de 2010, faço estes autos conclusos ao MM. Juiz de Direito, Exm. Sr. Dr. Raquel Machado Carleial de Andrade. Eu ___, subscrevi.
+
+
+
+Processo nº:0018770-62.2010.8.26.0011 - Procedimento Sumário
+Requerente:Geraldo Prim Ferreira
+Requerido:Sul América Seguro Saúde S/A
+
+
+
+Juiz(a) de Direito: Dr(a). Raquel Machado Carleial de Andrade
+
+
+Vistos.
+
+GERALDO PRIM FERREIRA qualificado nos autos, propôs ação cominatória com pedido de tutela antecipada c/c danos morais contra SUL AMÉRICA DE SEGURO SAÚDE S/A., também qualificada nos autos. Alega que é portador de câncer de próstata sendo-lhe indicado o tratamento radioterápico tridimensional conformado com modulação da intensidade do feixe (IMRT). Sustenta que a ré negou a cobertura do tratamento, pois os documentos não eram suficientes. Desta forma, a médica enviou à ré uma carta justificando a necessidade do tratamento e novamente a ré negou a autorização do tratamento. Assim, pugna pela procedência da ação para determinar que ré autorize o tratamento radioterápico (IMRT), com pedido de tutela antecipada, bem como condenar a ré ao pagamento de danos morais em valor não inferior a 50 salários mínimos.
+
+A tutela antecipada foi deferida a fls.45/47.
+
+Citada, a ré ofereceu contestação, aduzindo que o tratamento não foi autorizado, pois não se encontra taxado na Tabela SAS, nem no Rol de Procedimentos da ANS, sendo excluído da cobertura contratual. Sustenta que cumpriu com os termos estabelecidos no contrato. Quanto aos danos morais esclarece que não pode ser responsabilizada por atos a que não deu causa, já que não houve recusa ilícita no fornecimento do referido tratamento (fls.71/87).
+
+Interpôs agravo de instrumento com pedido de concessão de efeito suspensivo a fls.146.
+
+Réplica a fls.150/161.
+
+É o relatório.
+Fundamento e decido.
+
+O processo comporta julgamento antecipado, conforme artigo 330, I, do Código de Processo Civil. A matéria fática só demanda prova documental, que já se encontra ou deveria estar presente nos autos.
+
+Não há dúvida de que o contrato de seguro-saúde prevê cobertura para quimioterapia e radioterapia, mediante solicitação médica (item 4.7, G  fls. 101). No caso vertente há prescrição médica.
+
+É bem verdade que há expressa exclusão de cobertura para "procedimentos que não constem no Rol de Procedimentos e Eventos em Saúde para a segmentação Ambulatorial e Hospitalar com Obstetrícia, instituído pela ANS e vigente na data de realização do Evento" (item 6.26  fls. 106). Com base nessa cláusula a ré nega o direito pretendido pelo autor.
+
+Contudo, razão não assiste à ré.
+
+A doutrina médica explica que o IMRT - Intensity Modulated Radiotherapy - Radioterapia com Intensidade Modulada é uma tecnologia avançada de radioterapia. O objetivo de todos os tratamentos de radioterapia é o de causar o máximo de dano às células cancerosas e ao mesmo tempo provocar um mínimo de dano às células normais. As máquinas IMRT têm a capacidade de controlar melhor o feixe de radiação do que as máquinas convencionais, provocando assim o mínimo de danos às células normais (http://www.siemens.com.br/templates/coluna1.aspx?channel=2124).
+
+Sem dúvida o procedimento é indicado no tratamento da próstata, conforme prossegue o site pesquisado: O câncer da próstata é uma das doenças que podem ser tratadas com o método IMRT. A próstata está situada junto a órgãos sensíveis à radiação. Assim, o uso de IMRT pode reduzir a quantidade de radiação recebida pelo reto e outros órgãos adjacentes. Pela redução da dose de radiação sobre tecidos adjacentes, podem-se aumentar as doses de radiação sobre o tumor, o que aumenta as probabilidades de um tratamento mais eficaz (http://www.siemens.com.br/templates/coluna1.aspx?channel=2124).
+
+Outro site acresce: O planejamento tridimensional preparatório para as técnicas conformal (RT-3D) ou IMRT, é efetuado através da reconstrução de cortes de tomografia computadorizada, onde são delineadas as estruturas de interesse (cabeça de fêmur, reto, bexiga, próstata e vesículas seminais). Permite o arranjo de vários campos com diferentes portas de entrada, inclusive em planos não-axiais, e principalmente o cálculo da distribuição de dose, comparação entre diferentes técnicas, e geração de histogramas de dose-volume (DVH - gráficos que ilustram o quanto de cada órgão, seja ele alvo ou normal, recebe de radiação) (http://www.lincx.com.br/lincx/cientificos/medicos/urologia/imrt.asp).
+
+Resta, pois, evidente que a nova técnica não representa um procedimento diagnóstico, nem tratamento clínico novo, mas aperfeiçoamento da radioterapia, que acaba sendo executada com o controle maior da quantidade de radiação.
+
+O fato de o exame não estar incluído na tabela da ANS não afasta a obrigação de cobertura. Evidente que a demora do órgão público na atualização do rol de procedimentos não inviabiliza o tratamento, que decorre de doença coberta. Interpretação contraria redundaria prestigiar o fornecedor, que redigiu as cláusulas de adesão, em detrimento do aderente. 
+
+Implicaria também violação ao princípio da boa-fé objetiva na medida em que o consumidor, ciente da cobertura do câncer, da quimioterapia e radioterapia, confia na amplitude do contrato, acreditando na plena proteção em situações da espécie (art. 51, IV, do Código de Defesa do Consumidor).
+
+Como se não bastasse, abusivo se mostra também exigir do consumidor que aguarde a atualização da tabela da ANS para submeter-se ao procedimento de radioterapia necessitado, coberto e disponível no mercado..
+
+A propósito do tema, vale registrar os seguintes precedentes:
+
+"PLANO DE SAÚDE ? AÇÃO DECLARATÓRIA C.C. OBRIGAÇÃO DE FAZER - Recusa da seguradora em arcar com os custos advindos de radioterapia com intensidade modulada (IMRT) - Inadmissibilidade - Contrato que prevê cobertura para a radioterapia convencional - Cobertura que deve abranger tratamentos inovadores - Necessidade do paciente incontroversa (portador de câncer na próstata) ? Interpretação contratual que deve se ajustar aos avanços da medicina ? Tratamento prescrito por médico integrante do Hospital A.C. Camargo (instituição
+renomada em tratamentos oncológicos) - Contrato firmado sob a vigência da Lei 9.656/98, mas que não pode afrontar o CDC (em especial seu art. 51, IV, que não foi revogado pelo advento da sobredita Lei e Resoluções a ela coligadas) - Precedentes deste E. Tribunal - Tratamento aqui discutido que, ademais, não se insere no rol de restrições contido no artigo 10 da referida Lei 9.656/98 - Cobertura devida - Sentença mantida - Recurso improvido" (8a Câm. Dir. Priv., Apel. Cível 688.326.4/0, de São Paulo, rei. Des. Salles Rossijulg. 9/12/09, v.u.).
+
+" PLANO DE SAÚDE - AÇÃO DE OBRIGAÇÃO DE FAZER - Recusa da seguradora em arcar com os custos advindos de radioterapia com intensidade modulada (IMRT) em favor do autor -Inadmissibilidade - Contrato que prevê cobertura para a radioterapia convencional Cobertura que deve abranger tratamentos inovadores - Necessidade do paciente incontroversa (portador de neoplasia prostática em grau avançado)Interpretação contratual que deve se ajustar aos avanços da medicina - Alegação de que o tratamento não está incluído no rol de procedimentos da ANS - Descabimento - Contrato que não pode afrontar o CDC (em especial seu art. 51, IV, que não foi revogado pelo advento da sobredita Lei e Resoluções a ela coligadas) - Precedentes deste E. Tribunal(inclusive desta Câmara) - Cobertura devida Sentença mantida -Recurso improvido." (TJ/SP - Apelação n° 990101952440 - 8a Câmara de Direito Privado - Rei. Des. Salles Rossi - j. 30/06/2010)
+
+Quanto aos danos morais, o autor não mencionou, ao longo de sua exposição, qualquer fato que lhe pudesse trazer sofrimento anormal a ensejar a indenização pretendida. A negativa a cobertura de seguro saúde, baseada em cláusula contratual de discutível validade, não é suficiente para tanto.
+
+Ante o exposto, por estes fundamentos e pelo mais que dos autos consta, JULGO PARCIALMENTE PROCEDENTE A AÇÃO para condenar a ré a custear as despesas com o tratamento oncológico de radioterapia com intensidade modular (IMRT) e exames complementares, desde que prescritos pelo médico assistente, sob pena de multa diária R$ 5.000,00, tornando, assim, definitiva a tutela antecipada concedida. 
+
+Face à sucumbência recíproca, cada parte arcará com os honorários de seus respectivos patronos.
+
+Para fins de execução da sentença condenatória: Transitada em julgada a sentença, deverá o(a) devedor (a) cumprir voluntariamente a condenação, no prazo de 15 dias, independente de citação ou intimação para esse fim, sob pena da incidência da multa de 10% sobre o valor total da condenação, nos termos do disposto no art. 475-J, do Código de Processo Civil. Na hipótese de não cumprimento da sentença, deverá o credor desde logo requerer o início da execução. Decorrido o prazo de seis meses, sem manifestação do credor, os autos serão arquivados, nos termos do art. 475-J, parágrafo quinto, do Código de Processo Civil.
+
+Comunique-se essa decisão ao Egrégio Tribunal, em virtude do Agravo de Instrumento lá interposto.
+ 
+P.R.I.
+
+ São Paulo, 16 de dezembro de 2010.
+
+ 
+              D  A  T  A
+Em _______ de _______ de 2010
+recebi estes autos em Cartório.
+Eu,______________, Escr., subsc.

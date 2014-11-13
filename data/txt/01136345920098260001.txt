@@ -1,0 +1,52 @@
+
+
+SENTENÇA
+
+Processo nº:0113634-59.2009.8.26.0001
+Classe ? Assunto:Procedimento Ordinário - Assunto Principal do Processo > 
+Requerente:Conexão Montagens Tecnicas S/C Ltda
+Requerido:Banco Itaú S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Edmundo Lellis Filho
+
+
+Vistos. 
+
+Trata-se de ação de reparação por danos materiais cumulada com indenização por danos morais pela qual alega a autora que, sendo correntista em conta bancária  mantida junto ao réu, constatou que em 20 de janeiro de 2009 houve três transferências bancárias no valor de R$15.000,00. 
+Alega a autora que tais transferências foram praticadas por fraudadores que vulneraram o sistema de segurança bancário.
+O réu contestou a fls. 53/110, alegando que o seu sistema bancário de acesso via Internet é totalmente seguro e que houve culpa exclusiva do cliente.
+Impugnou os danos morais. 
+Houve réplica.  
+Em audiência não se compuseram as partes.
+
+Eis o relatório.
+Decido. 
+
+É procedente ação.
+
+Com efeito, o autor apresentou para o réu um requerimento informando sobre a existência de fraude em sua conta corrente.
+Em resposta, o banco se pronunciou pelo descabimento do ressarcimento postulado, por entender que não houve fraude.
+Sucede que o sistema "bankline" é um serviço operado pelo próprio réu, a benefício dos clientes, mas em favor de si mesmo, em face da concorrência bancária nesse segmento.
+Logo, a segurança do sistema deve ser, concretamente, demonstrada, e não simplesmente aduzida em termos genéricos, ainda que com base em parecer técnico unilateralmente produzido.
+Quanto ao sistema "itoken", já decidiu o Eg. Tribunal de Justiça de SP: 
+"Com efeito, a ação tem por objeto o pedido a condenação do banco-réu e também apelante por ter causado ao autor, seu correntista, dano de natureza material  e moral consistente em permitir a movimentação de sua conta por  terceiro.  Resta saber,  assim, se as operações impugnadas pelo autor se deram com sua participação direta ou em decorrência de falha no serviço prestado pelo réu.  O réu insiste no fato do autor  ter  sido negligente na utilização do sistema, sugerindo com isso que os danos alegados decorreram de culpa exclusiva do próprio correntista.Todavia, não há nos autos sequer umprincípio de prova no sentido de demonstrar tal alegação. O ônus dessa prova incumbia totalmente ao apelante, por força do disposto no artigo 333, II, do CPC. Sem prova da alegação não há como deixar de concluir que os saques indevidos na conta do autor se deramem função de falha ou defeito dos serviços prestados pela apelante, razão pela qual não há como isentá-lo de ressarcir dos prejuízos materiais por ele suportados e bemdemonstrados nos autos. Não é demais salientar, outrossim, que o negócio entabulado caracteriza relação de consumo, estando as instituições financeiras, como o réu, sujeitas às regras  da legislação consumerista conforme entendimento jurisprudencial pacificado na súmula 297 do STJ. Destarte, tem-se que a responsabilidade do réu é de natureza objetiva o que torna desnecessária a comprovação de que tenha concorrido culposamente para os fatos articulados nos autos", Relator Desembargador IRENEU FAVA, apelação nº 990.307011-9.
+
+Logo, está caracterizada a responsabilidade do banco réu.
+Quanto aos danos morais, é fato que a jurisprudência do Eg. TJSP não é firme em nenhum sentido.
+O entendimento do sentenciante é de que todo ato ilícito é apto a gerar danos morais, porque toda ilegalidade causa na vítima transtornos, frustrações e outras influências negativa no seu psiquismo.
+Logo, é exceção não ser passível o ilícito (contratual ou extracontratual) de reparação por danos morais.
+E concernente à situação em tela, já se manifestou a Corte Paulista pela reparabilidade:
+
+0125418-03.2009.8.26.0011 Apelação Relator(a): Carlos Alberto Lopes Comarca: São Paulo Órgão julgador: 18ª Câmara de Direito Privado Data do julgamento: 15/06/2011 Data de registro: 28/07/2011 Outros números: 01254180320098260011 
+Ementa: ..."Bankline", na conta-corrente da autora - Alegação da ré de que o referido sistema é seguro, impossibilitando a ocorrência da fraude - Responsabilidade objetiva da instituição financeira - Aplicação do disposto no artigo 14 do Código de Defesa do Consumidor - Inversão do ónus da prova a favor da consumidora - Culpa exclusiva da vítima não demonstrada ... 
+Ementa: * INDENIZAÇÃO - Operações bancárias - Transações financeiras realizadas por terceira pessoa desconhecida, através do sistema "Itaú Bankline", na conta-corrente da autora - Alegação da ré de que o referido sistema é seguro, impossibilitando a ocorrência da fraude - Responsabilidade objetiva da instituição financeira - Aplicação do disposto no artigo 14 do Código de Defesa do Consumidor - Inversão do ónus da prova a favor da consumidora - Culpa exclusiva da vítima não demonstrada - Danos morais e materiais configurados - Ausência da prova dos lucros cessantes - O conjunto probatório dos autos foi devidamente analisado - Aplicação do artigo 252 do Regimento Interno do Egrégio Tribunal de Justiça do Estado de São Paulo - Descabimento da repetição em dobro prevista no parágrafo único, do artigo 42 do diploma consumerista - O presente caso não trata sobre cobrança indevida - O quantum indenizatório foi fixado em observância aos limites da razoabilidade e ponderação - Decisão mantida - Recursos improvidos
+
+Fixo a indenização por danos morais em R$ 5.000,00.
+Assim, pelas razões expendidas como fundamento da sentença, JULGO PROCEDENTE a ação para condenar o réu a restituir para o autor R$ 15.000,00, com juros moratórios da citação e correção monetária da data do saque indevido; ainda, condeno o réu a pagar para o autor R$ 5.000,00, com juros moratórios da citação e correção monetária da sentença. Finalmente, condeno o réu em custas corrigidas do desembolso e em verba honorária, que fixo em 10% sobre o valor total da condenação.
+P.R.I.C.
+
+
+São Paulo, 09 de setembro de 2011.

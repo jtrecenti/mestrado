@@ -1,0 +1,62 @@
+
+
+SENTENÇA
+
+Processo nº:0070620-14.2012.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Rescisão / Resolução
+Requerente:Autimpex Comercial Ltda
+Requerido:Telefônica Brasil S/A e outro
+
+
+Juiz(a) de Direito: Dr(a). Ana Claudia Dabus Guimarães e Souza de Miguel
+
+
+Vistos.
+
+AUTIMPEX COMERCIAL LTDA. ajuizou a presente "AÇÃO DE RESCISÃO CONTRATUAL c/c PERDAS E DANOS, INDENIZAÇÃO MATERIAL E MORAL E TUTELA ANTECIPADA PARA OBRIGAÇÃO DE NÃO FAZER" contra TELEFÔNICA BRASIL S.A. e VIVO PARTICIPAÇÕES LTDA, qualificados nos autos, objetivando: a) rescisão contatual da linha telefônica 2631-4561, para que cessem as cobranças mensais; b) indenização pelos danos materiais no importe de R$ 5.787,80, correspondentes aos valores pagos a título de locação dos computadores e serviços, sem que o serviço tenha sido efetivamente prestado, e a restituição dos valores vincendos; c) dano moral, em razão do descumprimento contratual, da necessidade de contratação de outra operadora, perda do número telefônico. 
+O pedido de tutela antecipada foi indeferido (fls. 88/89). 
+Citadas (fls. 102 e 103), as rés ofertaram contestação às fls. 105/121 e 255/271. 
+A ré Telefônica Brasil S.A suscitou preliminar de ilegitimidade passiva da ré Vivo Participações S.A. Aduz que não se aplica a essa situação o Código de Defesa do Consumidor. Afirma que a autora solicitou inicialmente o serviço de DDR Digital no seu antigo endereço e somente um mês após a solicitação é que a empresa informou que mudaria de endereço e que pretendia contratar o mesmo serviço para ser instalado na Rua Manuel Gaya. Explica que o contrato firmado entre as partes prevê um prazo de 60 dias para a instalação dos serviços. Justifica que a portabilidade não ocorreu de forma correta devido à interferência da própria autora, que não respeitou o prazo de 60 dias estipulado no contrato e também fez solicitação de portabilidade numérica de uma operadora para outra, não se atentando ao fato de que seu serviço - anteriormente digital - passaria a ser analógico em razão da portabilidade do tronco chave ter sido solicitada antes desse prazo de 60 dias, o que ocasionou o bloqueio do serviço. Aduz que é culpa exclusiva da autora que não seguiu as orientações da ré e por isso ao solicitar a portabilidade antes do prazo, interferiu negativamente no processo, reiniciando-o. Alega o descabimento dos danos materiais e morais. Pede a improcedência.  
+Já a ré Vivo Participações S.A suscitou preliminar de ilegitimidade passiva e também defendeu a inaplicabilidade do Código de Defesa do Consumidor na presente demanda. No mérito sustentou os mesmos argumentos da ré Telefônica Brasil S.A. 
+Houve réplica (fls. 209/216). 
+É o relatório.
+Fundamento e DECIDO.
+Antecipo o julgamento, porquanto a solução da matéria independe de dilação probatória, ex vi do art. 330, I, do Código de Processo Civil. 
+Não vinga a preliminar de ilegitimidade passiva sustentada pelas rés.
+Com efeito, pese à alegação de que se trata de pessoas jurídicas distintas, certo é que a fusão das citadas empresas foi amplamente divulgada pela imprensa, sendo que em pesquisa rápida realizada pela internet, possível verificar o anúncio de que se trata da "maior fusão ocorrida na telefonia brasileira".
+Outrossim, em entrevista citada no site da revista Istoé, o próprio Presidente da empresa anuncia que a Vivo passa a representar todos os serviços de telefonia fixa, celular, banda larga e tevê por assinatura.
+A confusão é tanta que os instrumentos de procuração apresentados por ambas é o mesmo, outorgado pela empresa Telefônica Brasil S.A. (fls. 145/146 e 195/196).
+Assim, não há falar em ilegitimidade passiva, mesmo porque a tal ata que comprovaria que a Vivo S/A não seria a sucessora da Telefônica, sendo dela pessoa jurídica distinta, embora mencionada, não consta dos autos.
+Feitas tais considerações, ingresso na análise do mérito.
+Não há falar em incidência do Código de Defesa do Consumidor na hipótese em questão. 
+Conforme estabelecido no art. 2º, do Código de Defesa do Consumidor, a pessoa jurídica é considerada consumidora quando destinatária final do produto ou serviço prestado. No caso, o serviço contratado é voltado ao exercício da atividade comercial desenvolvida pela autora. 
+Outrossim, a autora não se encontra em situação de vulnerabilidade em relação ao serviço contratado, hipótese que poderia, excepcionalmente, admitir a incidência das normas consumeristas à espécie.
+Nesse sentido, o entendimento do Egrégio Superior Tribunal de Justiça:
+"Direito civil ? Consumidor ? Agravo no recurso Especial ? Conceito de consumidor ? Pessoa Jurídica ? Excepcionalidade ? Não constatação. A jurisprudência do STJ tem evoluído no sentido de somente admitir a aplicação do CDC à pessoa jurídica empresária excepcionalmente, quando evidenciada a sua vulnerabilidade no caso concreto; ou por equiparação, nas situações previstas pelos atrs. 17 e 29 do CDC. Negado provimento ao agravo." (AgRg no REsp 687.239/RJ, rel. Min. Nancy Andrighi, 3ªT., j. 06.04.2006). 
+A questão relativa à culpa exclusiva da parte autora pelo evento narrado deve ser afastada. 
+Conforme demonstrado nos autos, em nenhum momento, a ré alerta a autora ou afirma ser imprescindível o decurso do prazo de 60 dias para que o processo de portabilidade pudesse ser executado, nem mesmo que, uma vez desrespeitado tal prazo, haveria prejuízo da implantação de tal serviço. 
+Ora, no contrato firmado entre as partes e na comunicação realizada via e-mails, resta evidente que a autora buscou por diversas vezes acompanhar a implantação do novo sistema, reiterando a mudança de endereço e a urgência da instalação. Às fls. 26/31 fica claro o aviso à ré a respeito da mudança de endereço. Também é visível pela análise dos e-mails trocados pelas partes (fls. 70/78), que a ré assegurou à autora que a implantação seria executada conforme o previsto, estabelecendo, inclusive, datas para a referida instalação.  
+No mais, a alegação de que a autora dificultou o processo de transferência devido ao fato da linha telefônica pertencer anteriormente a outra operadora, é descabido.  
+Ora, o documento de fls. 31 ("Termo de Aceite  Confirmação de Solicitação de Portabilidade") demonstra que, desde o início, a ré tinha ciência de que os números eram oriundos de outra operadora, comprometendo-se a prestar os serviços contratados, mediante a portabilidade dos números já utilizados pela autora.
+Nesse sentido, pelos motivos expostos, não se verifica nenhum indício de que a conduta da parte da autora teria inviabilizado a execução do contrato, mas sim o descumprimento da obrigação por parte da própria ré.  
+Outrossim, a autora afirma que é indevida a cobrança mensal do valor de R$ 578,68, referente à locação dos computadores e contratação dos serviços Speed, pois referido serviço não funciona no novo endereço, motivo que levou a autora a contratar outra operadora para prover sua internet. 
+Tal fato, inclusive, sequer foi contestado pela ré.  
+Por esse motivo, devido ao descumprimento contratual por parte da ré, o contrato deve ser rescindido. Como consequência, cabível a restituição dos valores, a título de danos materiais, no importe indicado de R$ 5.787,80, correspondentes aos valores pagos indevidamente pela locação dos computadores e serviços Speed que não funcionam no novo endereço da autora. 
+Ressalte-se que as rés não demonstraram a prestação do serviço, sequer impugnando os fatos relacionados ao serviço de Speedy.
+Já o pedido de indenização por danos morais deve ser afastado. 
+Com efeito, apenas em hipóteses excepcionais resta caracterizado o dano moral decorrente do descumprimento contratual.
+Nesse sentido, bem elucida Sergio Cavalieri Filho ao tratar sobre o tema: "O importante, destarte, para a configuração do dano moral não é o ilícito em si mesmo, mas sim a repercussão que ele possa ter" ("in" Programa de Responsabilidade Civil, Ed. Atlas, 10ª edição, pág. 95).
+Na hipótese em apreço, não restou demonstrada nenhuma consequência que extrapole um mero contratempo resultante das relações comerciais estabelecidas na sociedade moderna.
+O descumprimento do contrato, embora tenha gerado aborrecimentos, não tem o condão de impor o ressarcimento do dano moral. 
+Nesse sentido, segue o entendimento jurisprudencial: 
+"CIVIL E PROCESSUAL CIVIL. DIREITO DE AUTOR. DESCUMPRIMENTO CONTRATUAL. DANO MORAL. INOCORRÊNCIA EM REGRA. SITUAÇÃO EXCEPCIONAL NÃO CARACTERIZADA. PRESCRIÇÃO. TERMO INICIAL. CAUTELAR DE ANTECIPAÇÃO DE PROVA.EFEITO INTERRUPTIVO. MEDIDA PREPARATÓRIA DE AÇÃO INDENIZATÓRIA. CPC, ARTS. 219 E 846. RECURSO PARCIALMENTE PROVIDO. I - O inadimplemento do contrato, por si só, pode acarretar danos materiais e indenização por perdas e danos, mas, em regra, não dá margem ao dano moral, que pressupõe ofensa anormal à personalidade. Embora a inobservância das cláusulas contratuais por uma das partes possa trazer desconforto ao outro contratante - e normalmente o traz - trata-se, em princípio, do desconforto a que todos podem estar sujeitos, pela própria vida em sociedade. Com efeito, a dificuldade financeira, ou a quebra da expectativa de receber valores contratados, não tomam a dimensão de constranger a honra ou a intimidade, ressalvadas situações excepcionais." (REsp 202564/RJ, Rel. Ministro Sálvio de Figueiredo Teixeira, Quarta Turma, j. 02.08.2001).
+O mais não pertine. 
+Ante o exposto, JULGO PROCEDENTE EM PARTE o pedido para DECLARAR rescindido o contrato relativo à linha telefônica de nº 2631-4561 e demais serviços decorrentes, determinando que cessem as cobranças relativamente aos serviços vinculados à citada linha, bem como para CONDENAR as rés - solidariamente - ao pagamento da indenização dos danos materiais totalizados em R$ 5.787,80 (cinco mil setecentos e oitenta e sete reais e oitenta centavos), devidamente atualizado pela Tabela Prática do E. Tribunal de Justiça de São Paulo desde o ajuizamento da ação até efetivo pagamento, acrescido de juros de mora de 1% ao mês, desde a citação. Efetivado o pagamento do citado valor, ficam as rés autorizadas a proceder à retirada dos equipamentos locados. 
+Como cada litigante foi ? a um só tempo ? vencedor e vencido, hão de suportar os honorários dos seus patronos. As custas e as despesas processuais ficam entre eles divididas em iguais frações (50%), respeitado o artigo 21 do Código de Processo Civil.
+P. R. I. C.
+
+São Paulo, 16 de abril de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

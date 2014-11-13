@@ -1,0 +1,67 @@
+
+
+SENTENÇA
+
+C O N C L U S Ã O
+
+Em 04 de março de 2013, faço estes autos conclusos ao MMº. Juiz de Direito Dr. Carlos Antonio da Costa, da 3ª Vara Cível do Fórum Regional do Ipiranga. Eu, Juliana Tande Higa, Escrevente, digitei.
+
+Processo nº:0009229-71.2011.8.26.0010
+Classe - AssuntoProcedimento Ordinário - Direito Autoral
+Requerente:Microsoft Corporation
+Requerido:Metalúrgica Lopes Ltda.
+
+
+
+
+
+Feitos ns. 888/21011 e 653/2011. 
+
+Vistos. 
+Considerando que não mais se justifica a tramitação processual sob segredo de Justiça, determino o levantamento do segredo de Justiça, providenciando-se.
+MICROSOFT CORPORATION, qualificada nos autos, ajuizou Ação Indenizatória contra METALURGICA LOPES LTDA alegando, em síntese, que em 29 de junho de 2011 ajuizou ação cautelar de vistoria, busca e apreensão pleiteando liminarmente a busca e apreensão de diversas cópias de programas de computador de sua titularidade que estavam sendo utilizadas sem licença pela ré; que a liminar foi concedida; e que os peritos judiciais examinaram os computadores da empresa-ré e constataram a reprodução e utilização ilegal dos programas de computador fabricados pela suplicante. Requereu a procedência da ação para condenar a suplicada a abster-se definitivamente de utilizar os programas de computador tidos como ilícitos no laudo pericial, sob de pena de multa diária, e condená-la ao pagamento de indenização a ser arbitrada em liquidação de sentença e em conformidade com os artigos 102 e 103 da Lei nº 9.610/98. Atribuiu à causa o valor de R$ 25.000,00 (fls. 02/12). Juntou documentos (fls. 13/120).
+A parte-ré contestou a ação acenando, preliminarmente, com a necessidade de caução e com a falta de interesse de agir, estando comprovado que os programas instalados nos computadores foram adquiridos legalmente. Asseverou que antes da vistoria pericial desconhecia que havia computadores operando de forma irregular; que em 05/08/2011 adquiriu os programas necessários; que não reproduziu programas da autora pertencentes à autora; que um dos computadores utilizada o sistema Windows 7 Professional, adquirido em 30/06/2010; que adquiriu quatro computadores usados que já utilizavam o sistema Windows XP Professional; que cinco computadores possuíam o sistema Office 2003 Professional; e que não causou danos à suplicante (fls. 135/145). Juntou documentos (fls. 146/162).
+Instada (fls. 131), a parte-autora prestou caução (fls. 167/171).
+Houve réplica (fls. 174/182).
+Concedeu-se a oportunidade para a especificação de provas (fls. 183), manifestando-se a requerente (fls. 187).
+A ação principal foi antecedida por Ação Cautelar de Vistoria e Busca e Apreensão (Feito nº 653/2011) proposta por C. CORP e MICROSOFT CORPORATION na qual a parte-autora requereu liminarmente a visória e a busca e apreensão de eventuais programas de computador utilizados pela parte-ré sem licença (fls. 02/21 e 22/549). A r. decisão proferida em 05/07/2011 deferiu a liminar (fls. 551/552) que foi devidamente cumprida (fls. 568/572). O laudo pericial foi juntado às fls. 574/589, manifestando-se a suplicante (fls. 595/596). A empresa-ré também contestou a ação cautelar reproduzindo o conteúdo da peça defensiva juntada nos autos principais (fls. 603/611 e 612/628). Houve réplica (fls. 633/644). Sobreveio decisão instando a autora a prestar caução e concedendo a oportunidade para especificação de provas (fls. 647).
+Vieram-me conclusos. Decido.
+O feito comporta julgamento no estado em que se encontra.
+Conforme o entendimento pacífico da jurisprudência, colacionado na conhecida obra de THEOTONIO NEGRÃO:
+?Constantes dos autos elementos de prova documental suficientes para formar o convencimento do julgador, inocorre cerceamento de defesa se julgada antecipadamente a controvérsia? (in ?Código de Processo Civil e Legislação Processual em Vigor", Saraiva, 42ª edição, 2010, nota 2b ao art. 330, pág. 438).
+A objeção atinente à caução restou superada, pois a autora já prestou caução (fls. 131 e 167/171).
+E considerando que o ordenamento jurídico vigente protege os direitos autorais, reputo presentes o interesse de agir e, também, as demais condições das ações (principal e cautelar), pelo que rejeito a preliminar de falta de interesse de agir e passo a enfrentar o mérito.
+Razão assiste a autora MICROSOFT, ao menos em parte.
+Com efeito, em 29/07/2011 os peritos judiciais vistoriaram 5 (cinco) computadores com o sistema operacional Windows encontrados na sede da empresa-ré, constataram uma instalação do Windows 7 Professional, quatro instalações do Windows XP Professional e cinco instalações do Office 2003 Professional, e informaram que na ocasião a suplicada não apresentou as licenças de uso daqueles programas (fls. 570 e 574/589).
+E ao contestar a ação cautelar a suplicada Metalúrgica Lopes juntou aos autos notas fiscais objetivando comprovar a aquisição dos programas de computador da autora Microsoft (fls. 623/628). Ocorre, porém, que se por um lado o programa Windows 7 Professional foi adquirido em 30/06/2010 (fls. 623/625), por outro lado os quatro programas Windows XP Professional e o cinco programas Office 2003 Professional foram adquiridos em 05/08/2011 (fls. 626 e 627/628), ou seja, somente após a vistoria pericial realizada em 29/07/2011, logo, é forçoso convir que a parte-ré utilizava 9 (nove) programas de computador sem a necessária licença, afrontando o direito autoral da suplicante.
+O 'software' é considerado obra intelectual protegida pelas regras de direitos autorais, conforme dispõe a Lei do Software (Lei n.º 9.609 /98) e a Lei dos Direitos Autorais (Lei n.º 9.610 /98). 
+A contrafação é a reprodução não autorizada - ou fraudulenta - de obra (artigos 5º, inciso VII, e 102, da Lei n.º 9.610/98).
+E ao utilizar em seus computadores programas sem (prévia) licença a empresa-ré violou o disposto no art. 29 da Lei n.º 9.610 /98, já que a regularidade do uso de um 'software', de acordo com o art. 9º da Lei n. 9.609/98, é comprovada mediante a apresentação do respectivo contrato de licença e, na sua falta, pelo documento fiscal relativo à aquisição, logo e considerando que nove programas eram utilizados sem licença, daí emerge o dever da requerida de indenizar.
+E nem se diga que o fato da suplicada ter adquirido computadores usados beneficiaria sua situação, pois tal circunstância não descaracteriza a afronta aos direitos autorais, até porque se fosse suficiente para ensejar a descaracterização bastaria que empresas adquirissem equipamentos usados para utilizar programas de computador sem a necessária licença, logo, independentemente da procedência do computador, a ré somente poderá utilizar legitimamente o programa nele instalado se possuir a indispensável licença.
+E considerando que a parte-ré possui licenças para utilizar os 10 (dez) programas de computador instalados nos 5 (cinco) equipamentos vistoriados, não há como acolher a pretensão da autora Microsoft, consistente em compeli-la a se abster de utilizar tais programas, pelo que se revela atendível somente a pretensão indenizatória, não se justificando o arbitramento em liquidação de sentença, até porque já se encontram presentes os requisitos para a fixação da indenização.
+E atento ao fato de que a suplicada pagou os montantes de R$ 1.430,00 e de R$ 1.725,00 nas licenças adquiridas somente após a vistoria pericial (fls. 626/627 e 628), arbitro a indenização em valor correspondente ao triplo da soma daqueles montantes, perfazendo R$ 9.465,00 [(R$ 1.430,00 + R$ 1.725,00) x 3 = R$ 9.465,00], indenização essa que se revela suficiente para punir e desestimular a parte-ré a desrespeitar os direitos autorais.
+
+Ante o exposto:
+a) julgo improcedente a Ação Cautelar de Vistoria e Busca e Apreensão (Feito nº 653/2011) proposta por C. CORP contra METALURGICA LOPES LTDA, e assim procedo com fundamento no artigo 269, inciso I, segunda parte, do CPC; 
+b) julgo procedentes em parte a Ação Indenizatória e a Ação Cautelar de Vistoria e Busca e Apreensão propostas por MICROSOFT CORPORATION contra METALURGICA LOPES LTDA e, consequentemente, torno definitiva a liminar (fls. 551/552) e condeno a suplicada ao pagamento da indenização de R$ 9.465,00 (nove mil, quatrocentos e sessenta e cinco reais), incidindo atualização monetária (tabela do TJSP) a partir da publicação desta decisão e juros de mora legais (12% ao ano) desde a citação (agosto de 2011; fls. 565 e 572 da cautelar), ficando resolvidos os processos com resolução de mérito (CPC, artigo 269, inciso I, primeira parte).
+Diante do conteúdo dos itens ?1? e ?2?, condeno a parte-ré ao pagamento de 80% das custas e despesas processuais, de 80% das despesas periciais definitivamente arbitradas em R$ 2.400,00 dada a reduzida complexidade da perícia (sendo R$ 1.200,00 para cada perito), e dos honorários advocatícios dos Patronos da parte-autora ora arbitrados em 15% (quinze por cento) do valor da indenização.
+Após o trânsito em julgado determinar-se-á o levantamento das cauções prestadas.
+P. R. I. C.
+São Paulo, 04 de março de 2013.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

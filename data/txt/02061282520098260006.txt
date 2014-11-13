@@ -1,0 +1,66 @@
+
+
+SENTENÇA
+
+Processo nº:0206128-25.2009.8.26.0006
+Classe - AssuntoProcedimento Ordinário - Inclusão Indevida em Cadastro de Inadimplentes
+Requerente:Algarve Comercial Ltda - EPP
+Requerido:Getnet Tecnologia Em Captura e Processamento de Transações HUA Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Antonio Carlos Santoro Filho
+
+Vistos.
+
+Trata-se de ação de obrigação de fazer c.c. declaração de quitação de débito e indenização por danos morais ajuizada por ALGARVE COMERCIAL LTDA. EPP em face de GETNET TEC. EM CAPTURA E PROCESSAMENTO DE TRANSAÇÕES HUA LTDA.
+Alega a autora, em síntese, que mantinha contrato de prestação de serviços com a ré, relativo à venda de créditos pré-pagos, com limite de crédito de R$ 17.500,00. Em setembro de 2008, por conta de pane no sistema da ré, os pagamentos acabaram sendo realizados de forma distinta. Ocorre que a ré não registrou tais pagamentos, limitou o crédito da autora e acabou por incluir seu nome em cadastros de inadimplentes, mesmo inexistente o débito. Assim, requer o restabelecimento do crédito, a declaração da inexigibilidade da dívida e a condenação da ré ao pagamento de indenização pelos danos morais.
+Foi deferida a tutela antecipada para suspender a publicidade do apontamento. 
+Citada, a ré ofertou resposta, na qual sustenta que a autora não comprovou a quitação dos débitos; que, sem qualquer dúvida, ainda há débito em aberto; que atuou em exercício regular de direito; que a autor não demonstrou o sofrimento dos alegados danos. Pede, por tais fundamentos, a improcedência da ação. Subsidiariamente impugna os valores pretendidos pelo autor. 
+Em réplica a autora reiterou os argumentos iniciais. 
+Saneado o feito, foi determinada a produção de prova pericial contábil. 
+Produzido o laudo, não impugnado, apenas a autora apresentou alegações finais.  
+É o relatório. 
+Decido. 
+Produzida a única prova útil deferida quando do saneamento, passo ao julgamento da lide. 
+A alegação da ré de que a autora não comprovou a quitação dos débitos vai de encontro à prova pericial produzida. 
+Com efeito, revelou o senhor perito que após a análise dos documentos juntados aos autos, apurou-se que o faturamento do período de 25 de agosto de 2008 a 6 de outubro de 2008, abrangendo, portanto, o período em discussão nestes autos, foi corretamente pago, tendo discriminado os pagamentos efetivados (fls. 343/344).
+Da prova documental acostada à inicial, aliada à prova pericial, que não sofreu qualquer impugnação técnica ou mesmo genérica, assim, depreende-se que inexistia motivo justo para a inscrição do nome da autora em cadastros de inadimplentes, o que, por si só, já serve a rejeitar a alegação de que teria a ré agido sob o manto do exercício regular de direito.
+ Em seu favor argumenta a ré, no entanto, que não contribuiu com culpa para o evento, uma vez que a manutenção do nome da autora no SERASA somente se deu em virtude de falha no sistema de controle de pagamentos. 
+Tal alegação, contudo, ao contrário do que pretende a ré, não exclui a sua culpa para o evento, mas reforça a convicção de sua ocorrência. 
+Com efeito, tendo a ré por atividade a concessão de crédito, a ela cabe rigoroso controle quanto aos pagamentos efetivados, a fim de que nos serviços de proteção ao crédito não constem informações inverídicas a respeito das pessoas que com ela contratam. Se escolheu sistema de controle ineficiente ou se não providenciou a manutenção necessária, ou ainda se viabilizou a quitação mediante depósitos em instituições financeiras sem capacidade para gerenciar tal forma de quitação, estes fatos não podem ser opostos à autora, mas somente à própria ré, que não observou, no caso concreto, o dever de cautela que lhe era exigível
+
+INDENIZAÇÃO - Responsabilidade civil - Dano moral - Inscrição do nome da autora no cadastro de inadimplentes de órgão de proteção ao crédito - Ato indevido - Dívida integralmente paga - Alegada falha no repasse de valores - Descabimento - Dano caracterizado - Verba devida - Recurso não provido - JTJ 272/93 
+
+DANO MORAL ? Responsabilidade civil ? Cobrança de dívida já paga e inscrição do nome da autora em cadastro de inadimplentes ? Ato ilícito ? Caracterização ? Empresa de cobrança contratada pela ré ? Ato de preposto ou representante autônomo ? Responsabilidade objetiva e solidária ? Recurso parcialmente provido. (Apelação Cível n. 920.074-0/5 - São Paulo ? 35ª Câmara de Direito Privado - Relator: Clóvis Castelo ? 23.10.06 ? V.U. ? Voto n. 10233)
+
+Alega a ré, no entanto, que estes fatos não configuram dano moral indenizável, pois não trouxe a autora aos autos qualquer prova de que sofreu prejuízos ou lesão à sua honra por força do ato culposo. 
+Sem razão, contudo, a ré. 
+Isto porque o dano simplesmente moral, como o abalo do crédito e a lesão à honra, não necessita de outras provas, existindo apenas pela ofensa, e dela sendo presumido, o que, por si só, justifica a indenização. 
+De fato, não há como se negar que se atribuir a determinada empresa, injustamente, a qualidade de inadimplente, ofende o seu nome comercial, diminui o seu crédito na praça e causa dificuldades no seu cotidiano, o que merece a devida compensação. 
+Neste sentido já se firmou a jurisprudência. A título de ilustração: 
+
+Indenização - Responsabilidade civil - Dano moral - Protesto cambiário indevido - Desnecessidade de provar a existência de dano patrimonial - Verba devida - Art. 5º, inc.X, da Constituição da República - Recurso provido (RJTJESP 134/151).
+
+O protesto indevido de título de crédito quando já saldada a respectiva dívida  causa  injusta  lesão à honra,  consubstanciada  em  descrédito na praça, cabendo indenização por dano moral, assegurado pelo art. 5º, X, da C.F. (RT 650/63).
+
+DANO MORAL ? Banco de dados ? Inscrição indevida do nome do autor nos órgãos de proteção ao crédito ? Dano moral caracterizado ? Situação que por si só exige reparação, independentemente de prova efetiva do prejuízo ? Procedência da indenizatória - Recurso improvido (Apelação Cível n. 1.011.301-0/3 ? São Paulo ? 35ª Câmara de Direito Privado - Relator: Artur Marques - 03.07.06 ? V.U. ? Voto n. 11429)
+
+               Este também o entendimento da jurisprudência firmada no Superior Tribunal de Justiça, pois, como já sustentado nesta decisão, o dano moral decorre do próprio ato lesivo de inscrição indevida nos cadastros de proteção ao crédito, "independentemente da prova objetiva do abalo à honra e à reputação sofrido pelo autor, que se permite, na hipótese, facilmente presumir, gerando direito a ressarcimento" (Resp. 110.091/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJ 28.08.00; Resp. 196.824, Rel. Min. CÉSAR ASFOR ROCHA, DJU 02.08.99; Resp. 323.356/SC, Rel. Min. ANTÔNIO PÁDUA RIBEIRO, DJ 11.06.2002)
+Assim, a pretensão inicial merece procedência integral. 
+Considerando a capacidade econômica das partes, o valor indevidamente cobrado ? razoável-, o tempo curto pelo qual permaneceu a restrição indevida ao crédito, entendo suficiente para compensar o dano sofrido pela autora o arbitramento de indenização no montante de R$ 12.000,00 (doze mil reais), que sofrerá correção monetária a partir desta data e juros de mora de 1% a.m. desde a citação, por se tratar de ilícito contratual. 
+Ante o exposto, JULGO PROCEDENTE a ação ajuizada por ALGARVE COMERCIAL LTDA. EPP em face de GETNET TEC. EM CAPTURA E PROCESSAMENTO DE TRANSAÇÕES HUA LTDA. para: 
+
+(a)Declarar inexigível o débito lançado pela ré em desfavor da autora em cadastros de inadimplentes e, em consequência, tornar definitiva a tutela antecipada concedida e determinar o cancelamento da anotação. Oficie-se; 
+(b)Condenar a ré ao pagamento de indenização por danos morais à autora no valor de R$ 12.000,00 (doze mil reais), que sofrerá correção monetária a partir desta data e juros de mora de 1% a.m. desde a citação; 
+(c)Condenar a ré a restabelecer o crédito da autora, observados os termos do contrato, sob pena de rescisão;
+(d)Condenar a ré ao pagamento das custas e despesas processuais (inclusive honorários periciais) e honorários advocatícios que arbitro em 15% do valor atualizado da condenação. 
+
+               Após o trânsito em julgado, aguarde-se em cartório por 20(vinte) dias. Nada mais sendo requerido, arquive-se. 
+P.R.I.C. 
+
+
+São Paulo, 23 de agosto de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

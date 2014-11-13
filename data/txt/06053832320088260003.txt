@@ -1,0 +1,93 @@
+
+
+SENTENÇA
+
+Processo nº:0605383-23.2008.8.26.0003
+Classe - AssuntoProcedimento Ordinário - Assunto Principal do Processo >
+Requerente:MRB Automóveis Comércio de Veículos Ltda - EPP
+Requerido:Banco Itaú S/A
+
+
+
+Juiz(a) de Direito: Dr(a). Marco Aurélio Pelegrini de Oliveira
+
+
+
+
+
+
+VISTOS.
+
+Processo ajuizado em 02.12.2008.
+Citação em 03.08.2009.
+Sentença proferida em 20.10.2010.
+
+
+Cuida-se de processo de conhecimento de procedimento comum ordinário, por meio do qual se busca a emissão de provimento jurisdicional, de condenação ao pagamento de indenização por danos materiais e morais, além da condenação à devolução de valores indevidamente subtraídos de conta-corrente, promovida a demanda por MRB ? AUTOMÓVEIS COMÉRCIO DE VEÍCULOS LTDA contra BANCO ITAÚ SOCIEDADE ANÔNIMA.
+
+A inicial, narrou, substancialmente, o seguinte: 1) a empresa autora é correntista do réu (Agência 2969 ? conta-corrente 11341-0) e nessa qualidade, um de seus sócios, em 19.09.2007, efetuou consulta na conta da empresa por meio de caixa eletrônico, quando, então, constatou que diversas movimentações haviam sido realizadas, sem que fossem autorizadas por quaisquer dos sócios; 2) tão logo foi constatada a violação da conta-corrente, o sócio Márcio Tadeu Coelho da Eira dirigiu-se à agência onde se dera o ilícito, exigindo explicações sobre o que havia ocorrido, oportunidade na qual lhe foi garantida pela assistente da gerência (senhora Márcia), a devolução de todos os valores que desapareceram da conta da autora, afirmando que o fato se dera provavelmente pela atuação de algum Hacker; 3) diante dessa promessa, 02 (dois) dias mais tarde, em 21.03.2007, o sócio Márcio consultou novamente a conta da empresa-autora, constatando que os valores subtraídos não haviam sido creditados conforme o prometido, circunstância que o levou novamente à agência, sendo orientado a formalizar sua reclamação (como se já não a tivera feito) por escrito, e ainda de próprio punho, solicitando a devolução dos valores desaparecidos (sacados ou transferidos, não se sabe ao certo de que forma o numerário deixou a conta); 4) entre 13.09.2007 e 18.09.2007 (05 dias) desapareceram R$ 7.594,65 (sete mil quinhentos e noventa e quaro reais e sessenta e cinco centavos), os quais não foram reembolsados; 5) inconformado com o desrespeito e pouco caso da instituição-ré, o sócio Márcio dirigiu-se ao 38º Distrito Policial e nele registrou o Boletim de Ocorrência nº 5959/2007, também enviando uma correspondência epistolar ao banco, tudo sem surtir qualquer efeito; 6) em 16.10.2007 o réu enviou carta à autora, alegando que o desaparecimento do numerário da conta-corrente não era de sua responsabilidade. Nova carta da autora foi seguida de outra do réu, igualmente e inacreditavelmente isentando-se de qualquer responsabilidade, o que provocou o ajuizamento da presente demanda.
+
+A petição inicial (fls.02/10) veio acompanhada de documentos (fls.11/37).
+
+O réu foi citado por mandado, regularmente em 03.08.2009 (fls.48) e apresentou contestação em 20.08.2009, em 26 (vinte e seis) laudas (fls.50/75), também acompanhada de documentos (fls.76/98).
+
+Nessa peça de resistência suscitou-se preliminar de inépcia da petição inicial e quanto ao mérito a inexistência de ato ilícito imputável ao réu, tendo-se em conta a segurança dos seus sistemas de serviços e a segurança que os acompanha.
+
+Numa postura que beira a arrogância, numa contestação padronizada, fingindo desconhecer a enorme atividade de Hackers nas redes de internet banking, bem como o portentoso número de ações que versam exatamente a mesma matéria que serve como causa de pedir deste feito, afirmou-se que o sistema é totalmente seguro, na medida em que os dados digitados no Itaú Bankline são protegidos por tecnologia criptografada com chave de segurança e transmissão de dados por meio do protocolo SSL 3.0.
+
+Passou-se, na sequência, ao mais puro exibicionismo, assegurando-se que o réu é portador de um selo especial, emitido pela Fundação Carlos Alberto Vanzolini, o que representaria uma situação na qual seria impossível, sob quaisquer pontos de vista, a concretização de fraude por parte de terceiros não correntistas.
+
+Sem qualquer pejo, ainda foi relatado que o fato deu-se por culpa exclusiva da autora (a vítima), a qual certamente propiciou circunstâncias que redundaram nos prejuízos que sofreu, porquanto deve ter aberto algum programa espião (spyware), que é utilizado nos golpes praticados nos computadores dos usuários e nunca do banco.
+
+No mais se alegou que não houve danos e que, portanto, não tem o banco o dever de repará-los, mas que o fez por mera liberalidade (fls.66, segundo parágrafo) e que danos morais jamais existiram e se existiram não foram comprovados. Pediu-se a improcedência de todos os pedidos.
+
+A réplica encontra-se a fls.101/109.
+
+Na sequência este juiz determinou expressamente, de forma clara e objetiva, que o banco-réu apresentasse um relatório das operações realizadas e apontadas na inicial no seu sistema bancário por internet ou caixa eletrônico, esclarecendo o tipo de operação efetuada, o beneficiário dessas operações e o banco receptor a que se referiram os débitos (fls.110 ? decisão de 24.11.2009).
+
+Em resposta de fls.125 a autora assegurou que o banco réu simplesmente mentiu, pois não houve qualquer ressarcimento dos valores que desapareceram da conta-corrente da autora (petição de 15.06.2010). 
+
+É o que de relevante havia a relatar.
+
+Passa-se a fundamentar e decidir.
+
+O processo encontra-se em condições de ser julgado desde logo, porquanto a matéria objeto da controvérsia apresenta aspectos preponderantemente de direito, enquanto a parcela fática encontra-se suficientemente esclarecida pelos elementos de convicção existentes nos autos.
+
+Com efeito, a preliminar de inépcia da petição inicial não tem o menor cabimento, pois nela se vislumbram perfeitamente todos os elementos constitutivos dessa peça processual, que uma vez despachada ou distribuída, faz nascer o processo.
+
+Nela está narrada a causa de pedir remota, ou seja, a existência de um contrato no qual o banco não garantiu a segurança a que o consumidor tinha o mais legítimo direito de esperar. Lá está a causa de pedir próxima, consistente na recusa do banco em, espontaneamente, ressarcir os danos da autora, e bem assim o pedido mediato, o bem da vida de direito material, qual seja, a indenização pelos danos materiais e morais. Por fim o pedido imediato, o qual, no caso, consiste no provimento de natureza preponderantemente condenatória.
+ 
+É oportuno registrar que os danos morais são presumidos em situações como a narrada, o que retira a necessidade de se discorrer cansativamente sobre os dissabores óbvios que as pessoas passam quando percebem que dinheiro foi subtraído de suas contas-correntes, e isso porque o sistema dos bancos dos quais são correntistas não funcionou a contento, permitindo a terceiros a invasão e desvio com inequívoca subtração de numerário. O serviço não produziu os resultados que legalmente os consumidores estavam legitimados a esperar, justamente porque o sistema não está imune a invasões de terceiros. Repete-se: o sistema não é perfeito e certamente não é imune a invasão por Hackers.  
+
+A relação de direito material protagonizada pelas partes foi, e disso não se tem qualquer dúvida, de consumo. Nas palavras do festejado Professor Nelson Nery Júnior, um dos autores do anteprojeto que viria a se tornar o Código de Defesa do Consumidor Brasileiro, todas as operações e contratos bancários se encontram sob o regime jurídico do CDC. Não só os serviços bancários expressamente previstos no CDC 3º, parágrafo 2º, mas qualquer outra atividade, dado que o banco é sociedade anônima, reconhecida sua atividade como sendo de comércio, por expressa determinação do Ccom. 119. Assim, suas atividades bancárias são de comércio e o comerciante é fornecedor conforme prevê o caput do CDC 3º. Por ser comerciante, o banco é, sempre, fornecedor de produtos e serviços (in Código de Processo Civil Comentado, Nelson Nery Júnior, 1996, p.1679).
+
+O banco, como prestador dos serviços que anuncia, deveria, ante a inversão do ônus da prova, demonstrar a participação do correntista no desaparecimento do seu numerário. As contestações padronizadas dos bancos sequer tocam nesse aspecto relevantíssimo das relações que estabelecem com sua clientela. Os advogados, sem saber como defender os bancos, criam petições cansativas, repetitivas, padronizadas, enormes, que só fazem dificultar o trabalho dos juízes. 
+
+É sempre bom lembrar que a FEBRABAN contratou famoso jurista fluminense (Arnald Wald) para que elaborasse parecer jurídico com o fim de defender a tese de que as relações entre os correntistas e os bancos não eram de consumo. Felizmente, como ainda há Juízes corajosos na Suprema Corte Brasileira, a tese da Federação Brasileira dos Bancos foi firmemente rechaçada, federação que se sabe, é a entidade mais poderosa do país. Pacificou-se, então, nas cortes superiores de Pindorama, o entendimento, segundo o qual, as relações entabuladas entre os bancos e os correntistas são, certamente e inapelavelmente, de consumo.
+
+O banco é o responsável pelos seus serviços e pela segurança a eles concernente. Se não funcionaram a contento, se o suporte de segurança não atuou de acordo com as expectativas do consumidor usuário, a responsabilidade civil pela indenização dos danos causados, induvidosamente, é da instituição financeira, a qual somente conseguiria afastar essa dita responsabilidade se comprovasse a culpa do correntista. No caso presente isso não ocorreu.
+
+Os casos envolvendo fraudes com desaparecimento de dinheiro de correntistas aportam aos milhares nos fóruns do território nacional. Todos os tribunais do país já tiveram a oportunidade de se manifestarem sobre o assunto. E prepondera o entendimento aqui esposado, não sendo compreensível e em justificada a pertinaz resistência dos bancos no reconhecimento de sua responsabilidade civil quanto ao ressarcimento dos valores que desaparecem das cotas de seus clientes-usuários-correntistas. Os bancos destilam argumentos inaceitáveis e que sabem de antemão que não serão prestigiados pelo Poder Judiciário.   
+
+A propósito:
+
+Indenização ? Danos materiais e morais ? Saques e lançamentos realizados na conta- corrente da apelada via internet ? Vulnerabilidade do sistema evidenciado ante a não comprovação de participação do correntista ? Ônus dessa prova que incumbia ao prestador de serviço ? Responsabilidade objetiva decorrente do risco da atividade ? Danos materiais e morais demonstrados ? Dever de indenizar reconhecido ? Valores compatíveis com a extensão dos danos suportados ? Sentença confirmada ? Recurso desprovido (Apelação nº 7.188.205-0, Relator Heraldo de Oliveira, acórdão de 10.12.2007).
+
+Ainda: Instituição financeira ? Dano moral. Dano Material ? Indenização ? Transferências indevidas de valores de conta corrente, pelo sistema Itaú Bankline, via internet ? Responsabilidade objetiva do banco ? Aplicação da teoria do risco profissional ? Ausência de comprovação de excludentes ? Obrigação de indenizar caracterizada ? Fixação do quantum levando-se em conta tanto a reparação do ofendido, como a reparação do infrator ? Manutenção da sentença ? Recurso improvido (Apelação n. 1.293.763-6 ? Santos ? 18ª Câmara de Direito Privado Relator: Rubens Cury ? 09.02.06 ? V.U.).
+
+Face ao exposto, JULGO PROCEDENTES os pedidos deduzidos na petição inicial, fazendo-o para condenar o banco a devolver à autora a quantia de R$ 7.594,65 (sete mil quinhentos e noventa e quatro reais e sessenta e cinco centavos), com juros de mora de 1% (um por cento) ao mês e correção monetária (de acordo com a Tabela Prática de Cálculos do Tribunal de Justiça de São Paulo), tudo a partir do momento em que o dinheiro desapareceu da conta-corrente da autora, mais R$ 37.973,25 (trinta e sete mil novecentos e setenta e três reais vinte e cinco centavos). Sobre tal valor incidirá juros de mora de 1% (um por cento) de juros e correção monetária a partir da citação, pois a inicial não pediu arbitramento, mas indicou valor certo e determinado.
+
+Condeno-o, outrossim, pagar custas, despesas processuais e honorários de advogado, que ora fixo em 15% (quinze) por cento do valor da condenação.
+
+P.R.I.C.
+
+
+
+
+               São Paulo, 20 de outubro de 2010.
+
+
+
+
+Marco Aurélio Pelegrini de Oliveira
+        Juiz de Direito

@@ -1,0 +1,106 @@
+
+
+SENTENÇA
+
+Processo nº:0149390-21.2012.8.26.0100
+Classe - AssuntoProcedimento Sumário - Obrigação de Fazer / Não Fazer
+Requerente:Fernando Cheung Russo
+Requerido:Nokia do Brasil Tecnologia Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Adriana Cardoso dos Reis
+
+
+
+Vistos.
+
+
+
+Trata-se de AÇÃO DE OBRIGAÇÃO DE FAZER C.C. INDENIZAÇÃO POR DANO MORAL. 
+
+Narra, em síntese, a petição inicial que: 1) o autor comprou um aparelho de telefone celular fabricado pela ré, modelo NOKIA E7; 2) desde os primeiros dias de uso o aparelho apresentou defeito ? desligava sozinho e mostrava a seguinte mensagem: ?erro de conexão?; 3) o autor solicitou à ré a solução do problema; 4) o atendente da ré informou que o autor deveria atualizar o software; 5) o autor fez a atualização, mas o defeito permaneceu ? o aparelho celular continuou desligando sozinho e depois de uns dias passou a não ligar mais; 6) o aparelho celular foi encaminhado para a assistência técnica da ré; 7) o laudo deste setor concluiu que a placa do produto estava oxidada.
+
+O autor postula a condenação da ré à obrigação de efetuar os reparos necessários no aparelho celular adquirido ou, alternativamente, devolver o preço pago, no montante de R$ 919,44, devidamente corrigido, e também ao pagamento de indenização por dano moral. 
+
+A petição inicial foi instruída com documentos (fls. 8/18). 
+
+A ré foi citada (fls. 37) e ofereceu contestação, alegando, em síntese, que: 1) o defeito do produto decorreu do uso inadequado pelo autor, vale dizer: exposição do produto a meio líquido ou umidade excessiva; 2) a origem do defeito demonstra que não houve vício de fabricação, razão pela qual o dano não está coberto pela garantia; 3) o manual do usuário, recebido pelo autor, dispõe expressamente que a exposição do produto à umidade excessiva está excluída da garantia; 4) não há dano moral a ser indenizado, uma vez que não praticou ato ilícito (fls. 38/49).
+
+Com a contestação vieram documentos (fls. 50/58). 
+
+O autor apresentou réplica (fls. 77/90).
+
+
+É O RELATÓRIO.
+FUNDAMENTO E DECIDO. 
+
+Julgo antecipadamente a lide, com fulcro no inciso I do art. 330 do Código de Processo Civil, porque as partes não postularam a produção de outras provas.
+
+Deixo de designar audiência de tentativa de conciliação, diante da ausência de interesse das partes em relação à medida.
+
+Quanto ao mérito, o pedido é parcialmente procedente, pelos motivos que passo a expor.
+
+De início cumpre ressaltar que é fato incontroverso a existência do vício redibitório no produto adquirido pelo autor; vale dizer: a existência de defeito oculto que  tornou o produto impróprio ao uso a que se destina.
+
+O fundamento da responsabilidade pelos vícios redibitórios encontra-se no princípio da garantia, segundo o qual todo alienante deve assegurar, ao adquirente, a título oneroso, o uso da coisa por ele adquirida e para os fins a que é destinada.
+
+Saliento que o defeito apresentado no aparelho de telefone celular fabricado pela ré e adquirido pelo autor se manifestou após curto período de uso e dentro do prazo de garantia.
+
+Os documentos que instruíram a petição inicial comprovaram referido fato.
+
+A relaçãoé de consumo. Logo, a responsabilidade da ré pela reparação do dano é objetiva (Código de Defesa do Consumidor, artigo 14), ou seja: para sua configuração não depende de culpa.
+
+A única excludente de responsabilidade admitida é a comprovação da culpa exclusiva do consumidor para o evento lesivo, o que não ocorreu no caso vertente, vejamos.
+
+É certo que o laudo do setor técnico da ré apontou pela oxidação da placa, sugerindo que este defeito foi causado pelo uso inadequado do aparelho celular.
+
+Porém, esta prova não é suficiente para a comprovação da tese da ré.
+
+A uma porque foi produzida unilateralmente por ela.
+
+A duas porque o autor juntou aos autos a notícia de que o Ministério Público investiga a existência de fraude em relação a laudos desta natureza, com a finalidade de não reparar os danos causados ao consumidor.
+
+Logo, há dúvida sobre a conclusão do setor de assistência técnica da ré.
+
+A ré postulou o julgamento antecipado da lide.
+
+E nos termos do art. 6º, inciso VIII, do Código de Defesa do Consumidor a dúvida acerca da origem do defeito deve ser interpretada a favor do autor, em razão da verossimilhança de sua versão e da dificuldade para ele de comprová-la.
+
+Esclareço que a vulnerabilidade do consumidor não se confunde com o grau de seus conhecimentos técnicos e jurídicos.
+
+Na verdade, o conceito de hipossuficiência e vulnerabilidade traduz-se no fato de o consumidor ser a parte mais fraca da relação de consumo, uma vez que ele se submete ao poder de controle dos titulares de bens de produção (empresários); merecendo, deste modo, tratamento desigual.
+
+Transcrevo, pois, decisão do Egrégio Tribunal de Justiça de São Paulo a respeito do tema discutido na presente lide: 
+
+"TRIBUNAL DE JUSTIÇA DE SÃO PAULO - E M E N T A - PLANO DE SAÚDE - REEMBOLSO DE HONORÁRIOS MÉDICOS, POR SERVIÇOS PRESTADOS FORA DE REDE CREDENCIADA - SITUAÇÃO EMERGENCIAL, PORÉM, QUANDO O PACIENTE SE VIU COMPELIDO A BUSCAR TRATAMENTO ALHURES, ANTE A INSATISFATORIEDADE DO QUE SE LHE DISPENSAVA NA REDE, COM DIAGNÓSTICO EQUIVOCADO E AUSÊNCIA DE MELHORA, NO QUADRO CLÍNICO - RESPONSABILIDADE OBJETIVA DA PRESTADORA DE SERVIÇOS, INDEPENDENTE DE EVENTUAL CULPA DE SEUS PREPOSTOS, PELO PRÓPRIO FATO DO SERVIÇO, PROPICIADO DEFEITUOSAMENTE - INTELIGÊNCIA DO ARTIGO 14 E SEUS PARÁGRAFOS, DO CÓDIGO DE DEFESA DO CONSUMIDOR - INEXIGIBILIDADE DE CONDUTA DIVERSA DO PACIENTE, AO PROCURAR OUTROS RECURSOS DE ATENDIMENTO, INCONFORMADO COM A INSUFICIÊNCIA E COM A LENTIDÃO DO ATENDIMENTO, INCONFORMADO COM A INSUFICIÊNCIA E COM A LENTIDÃO DO ATENDIMENTO, QUE LHE DISPENSAVA A REDE CREDENCIADA - CIRCUNSTÂNCIA SIGNIFICATIVA DE HAVER A RÉ ACEDIDO EM PAGAR AS DESPESAS HOSPITALARES, PORQUE O ESTABELECIMENTO SE SUJEITOU À TABELA DO PLANO DE SAÚDE, MAS NÃO, OS HONORÁRIOS MÉDICOS, PORQUE A EQUIPE DE ATENDIMENTO ÀQUELA NÃO SE DOBROU - REVELAÇÃO CONSEQÜENTE DE QUE A RÉ NÃO REPUTAVA INDEVIDO O REEMBOLSO, APENAS NÃO ACEITANDO OS VALORES PRETENDIDOS - SENTENÇA MANTIDA - RECURSO NÃO PROVIDO. (APELAÇÃO CÍVEL N. 24.939-4 - SÃO PAULO - 10ª CÂMARA DE DIREITO PRIVADO - RELATOR: QUAGLIA BARBOSA - 29.09.98 - V. U.) 
+ 
+               Nos termos do art. 18, §1º, inciso I e II, deve ser respeitada a escolha do consumidor.
+
+Desta forma, se não for possível o cumprimento da obrigação de fazer deverá ser restituído o preço do produto adquirido, qual seja: R$ 919,44.
+
+Nesta hipótese, os juros de mora serão devidos a partir da citação, no montante de um por cento ao mês, por força do disposto no art. 219 do Código de Processo Civil e art. 406 do Código Civil. 
+
+Já a correção monetária, pelo índice oficialmente adotado pela Tabela Prática do Egrégio Tribunal de Justiça de São Paulo, incidirá a partir da data do ajuizamento da ação, em consonância com o disposto no §2º do art. 1º da Lei 6.899, de 9 de abril de 1981.
+
+De outra banda, o pedido de indenização por dano moral é improcedente, pelos motivos que passo a expor. 
+
+Ora, o dano moral constitui-se na dor e no sofrimento, que residem na alma.
+
+A vida em sociedade traz alegrias e contentamentos, ocorrendo, dada à multiplicidade de relações intersubjetivas, satisfações e tristezas ao longo dos relacionamentos e no desenrolar dos fatos.
+
+Isto, contudo, não implica admitir a ocorrência de dano moral todas as vezes que ocorre um dissabor ou um desgosto, pois são acontecimentos naturais decorrentes da convivência em sociedade.
+
+A indenização por dano moral é cabível somente quando os eventos causem transtornos anormais, excepcionais, que fujam à ordinariedade, o que não ocorreu na hipótese vertente.
+
+Diante do exposto, e do mais que dos autos consta, JULGO  PARCIALMENTE PROCEDENTE O PEDIDO, nos termos do art. 269, inciso I, do Código de Processo Civil, para o fim de condenar a ré à obrigação de efetuar o conserto do aparelho celular do autor, no prazo de 10 dias, deixando-o em perfeitas condições de uso, ou na hipótese de não cumprimento, reembolsar ao autor a quantia de R$ 914,44, com incidência de juros de mora e correção monetária. 
+
+Tendo em vista a sucumbência recíproca, nos termos do art. 21 do CPC, cada uma das partes arcará com os honorários de seu patrono e com cinquenta por cento das custas e despesas processuais de comprovado desembolso nos autos.
+
+P.R.I.
+
+
+São Paulo, 29 de outubro de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

@@ -1,0 +1,84 @@
+
+
+SENTENÇA
+
+Processo nº:0033473-20.2013.8.26.0002
+Classe - AssuntoProcedimento Ordinário - Planos de Saúde
+Requerente:Dario Bezerra da Silva
+Requerido:Metropolitan Life Seguros e Previdência Privada S/A
+
+
+Justiça Gratuita
+
+Juiz(a) de Direito: Dr(a). Carlos Eduardo Prataviera
+
+
+
+VISTOS.
+
+DARIO BEZERRA DA SILVA ajuizou esta ação em face de METROPOLITAN LIFE SEGUROS E PREVIDÊNCIA PRIVADA S/A, alegando, em apertada síntese, que é beneficiário de seguro da ré, por apólice coletiva de seu empregador, e foi acometido de invalidez funcional permanente, porém teve a indenização negada pela seguradora. Pede a condenação da ré ao pagamento da indenização securitária, além de indenização por danos morais.
+
+Regularmente citada, a ré contesta a ação aduzindo que ocorreu a prescrição da pretensão do autor. No mais, sustenta que não foi caracterizada a invalidez funcional total e permanente por doença do autor, que é o risco coberto pelo contrato; não houve contratação de garantia por invalidez laborativa; não houve dano moral. Pede a improcedência.
+
+Houve réplica.
+
+RELATADOS.
+DECIDO.
+
+Trata-se de questão unicamente de direito, que dispensa a produção de outras provas além das que instruem os autos, motivo que autoriza o julgamento antecipado da lide.
+
+A prescrição é inafastável.
+
+Dispõe o art. 206 do Código Civil que:
+
+"Art. 206. Prescreve:
+§ 1o Em um ano:
+[...]
+II - a pretensão do segurado contra o segurador, ou a deste contra aquele, contado o prazo:
+[...]
+b) quanto aos demais seguros, da ciência do fato gerador da pretensão;"
+
+A pretensão fundada em contrato de seguro coletivo, como é o caso dos autos, segue o prazo do artigo mencionado, a teor do disposto na Súmula 101 do C. Superior Tribunal de Justiça: "A ação de indenização do segurado em grupo contra a seguradora prescreve em um ano". Sobre o mesmo tema, a Corte Superior também firmou o entendimento de que "o termo inicial do prazo prescricional, na ação de indenização, é a data em que o segurado teve ciência inequívoca da incapacidade laboral" (Súmula 278).
+
+É questão pacífica, portanto, que o prazo prescricional se conta a partir da ciência inequívoca da invalidez, sendo que o pedido administrativo apenas suspende seu curso.
+
+Nesse sentido, veja-se a jurisprudência do C. Superior Tribunal de Justiça:
+
+"EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. PROPÓSITO INFRINGENTE. RECEBIMENTO COMO AGRAVO REGIMENTAL. CONTRATO DE SEGURO DE VIDA. INDENIZAÇÃO. AÇÃO DE COBRANÇA. PRESCRIÇÃO ÂNUA. ART. 178, § 6º DO CÓDIGO CIVIL DE 1916. ART. 206, § 1º, II, DO CC/2002. INAPLICABILIDADE DO ART. 27 DO CDC. PRESCRIÇÃO. TERMO INICIAL. SÚMULA N. 278-STJ. INCAPACIDADE. CIÊNCIA INEQUÍVOCA. APOSENTADORIA POR INVALIDEZ.
+1. Aplica-se a prescrição ânua do art. 178, § 6º, II, do Código Civil de 1916 (correspondente ao art. 206, § 1º, II, do CC/2002), às ações do segurado contra a seguradora buscando o pagamento de indenização de seguro de vida em grupo (Súmula 101/STJ).
+2. "O termo inicial do prazo prescricional, na ação de indenização, é a data em que o segurado teve ciência inequívoca da incapacidade laboral." Súmula n. 278, do STJ.
+3. Embargos de declaração recebidos como agravo regimental, a que se nega provimento."
+(EDcl no REsp 864165 / SC, Relator(a) Ministra MARIA ISABEL GALLOTTI, Órgão Julgador T4 - QUARTA TURMA Data do Julgamento 18/10/2012 Data da Publicação/Fonte DJe 25/10/2012 
+
+"CIVIL E PROCESSUAL CIVIL. SEGURO. SINISTRO. AVISO À SEGURADORA. INTERESSE DE AGIR. AUSÊNCIA, SALVO SE HOUVER OPOSIÇÃO DA SEGURADORA AO PEDIDO DE INDENIZAÇÃO. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. PRESCRIÇÃO. PRAZO. CONTAGEM.
+1. O comando do art. 1.457 do CC/16, cuja essência foi mantida pelo art. 771 do CC/02, não autoriza a seguradora a recusar o pagamento da indenização pelo simples fato de o segurado não ter comunicado o sinistro. A obrigação de informar a seguradora do sinistro "logo que o saiba" desaparece desde que se torne supérfluo qualquer aviso, pela notoriedade do fato ou quando, pela espécie de seguro, não tenha a seguradora interesse algum em ser avisada imediatamente da ocorrência.
+2. Ausente o prévio comunicado de sinistro à seguradora, o segurado em princípio não tem interesse no ajuizamento da ação de cobrança, ante a ausência de pretensão resistida.
+3. Ainda que não haja prévio comunicado à seguradora acerca da ocorrência do sinistro, eventual oposição desta ao pedido de indenização deixa clara sua resistência frente à pretensão do segurado, demonstrando a presença do interesse de agir.
+4. Nem sempre a resposta da seguradora implicará impugnação ao pedido de pagamento. Poderá, por exemplo, reconhecer o seu dever de indenizar ou simplesmente alertar para a ausência de prévia solicitação administrativa, hipóteses em que, a rigor, caberá a extinção do processo sem o julgamento do mérito, por ausência de
+interesse de agir.
+5. Constitui entendimento assente desta Corte, consolidado nos enunciados n. 101, 229 e 278 da Súmula/STJ, que a ação do segurado em grupo contra a seguradora prescreve em um ano, contado da data em que tiver conhecimento inequívoco da sua incapacidade laboral, sendo que o pedido de indenização formulado à seguradora suspende o referido prazo, até que o segurado tenha ciência da respectiva decisão.
+6. A caracterização da ciência inequívoca do segurado acerca da sua incapacidade laboral se dá, em regra, com a sua aposentadoria por invalidez ou por meio da perícia médica que a autoriza. Precedentes.
+7. Recurso especial provido."
+(REsp 1137113 / SC, Relator(a) Ministra NANCY ANDRIGHI, Órgão Julgador T3 - TERCEIRA TURMA Data do Julgamento 13/03/2012 Data da Publicação/Fonte DJe 22/03/2012)
+
+
+O fato gerador da pretensão, no caso, é a caracterização da invalidez permanente do autor. Embora não haja prova contundente quanto à data da ciência do autor quanto à sua invalidez, a documentação trazida aos autos indica que ele já conhecia sua condição de incapacidade em janeiro de 2011 (fls. 46).
+
+Em que pese a aposentadoria junto ao INSS tenha sido concedida, judicialmente, apenas em abril de 2012 (fls. 56/58), há que se ressaltar que a elaboração do aviso de sinistro, em 20/01/2011 (fls. 100) demonstra que o autor demonstrou ter ciência inequívoca, já naquela ocasião, de sua invalidez permanente.
+
+Desta feita, ainda que se conte o prazo a partir da negativa da seguradora, que ocorreu em fevereiro de 2011 (fls. 99), verifica-se que ocorreu a prescrição da pretensão do autor em fevereiro de 2012. Observe-se que o pedido de reconsideração foi apresentado pelo autor, intempestivamente, somente em outubro de 2012 (fls. 102).
+
+Assim, quando do ajuizamento desta ação, a pretensão há muito já encontrava prescrita.
+
+Por fim, não há como se acolher o pedido de indenização por dano moral, porque a negativa da seguradora baseou-se em interpretação de cláusula contratual, não caracterizando ato ilícito. Outrossim, ainda que tenha ocorrido eventual inadimplemento da seguradora no tocante ao pagamento da indenização a que se obrigou, a mera resistência ao pagamento da indenização, na via administrativa, é insuficiente, por si só, para causar ofensa aos direitos da personalidade.
+
+Pelo exposto, reconheço a prescrição da pretensão do autor de recebimento da indenização securitária e JULGO EXTINTO o processo, em relação a esse pedido, nos termos do art. 269, IV, do Código de Processo Civil. JULGO IMPROCEDENTE o pedido de indenização por danos morais e EXTINTO o processo nos termos do art. 269, I, do Código de Processo Civil.
+
+Pelos ônus da sucumbência, arcará o autor com as custas e despesas do processo, bem como honorários de advogado da parte contrária, que se fixa em R$ 1.200,00 (CPC, art. 20, § 4º). Na execução da sucumbência, deverá ser observado o que prescreve o art. 12 da Lei nº 1.060/50.
+
+P.R.I.C.
+
+
+São Paulo, 30 de setembro de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

@@ -1,0 +1,77 @@
+
+
+SENTENÇA
+
+Processo nº:0113514-21.2006.8.26.0001 - Procedimento Sumário
+Requerente:Alcina Martins Gomides
+Requerido:Eletropaulo Metropolitana Eletricidade de São Paulo S/A
+
+
+Juiz de Direito Dr.: Elói Estevão Troly
+
+
+
+
+
+VISTOS ETC... 
+I 
+ALCINA MARTINS GOMIDES propôs a presente ação, consoante o rito ordinário, contra ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S.A. e alegou, em síntese, que, 24.03.2005, o técnico inspetor da ré esteve no local, informou a existência de suposta irregularidade nos dois medidores de fornecimento, o que causaria registro inferior da real energia consumida; houve suspensão do fornecimento da energia, em razão do que foi obrigada a assinar confissão de dívida de R$ 39.863,82; não se apresentou laudo técnico algum comprobatório da alegada irregularidade; o serviço foi indevidamente suspenso e lhe causou dano moral. Com base nisso, pleiteou a procedência da ação para: a) declaração da inexistência do débito; e (b) condenação da ré à (b.1) à devolução da quantia indevidamente paga e à (b.2) indenização do dano moral; requereu inversão do ônus da provas e instruiu o pedido inicial com documentos.
+A ré, na contestação, sustentou, em resumo, que agira no exercício regular do direito de constatar a fraude do medidor (desvio de energia sem medição) e cobrar o respectivo crédito, consoante as normas reguladoras da atividade, sem cometimento de ilícito algum; a interrupção do fornecimento de energia elétrica é legal nesses casos; o Código de Defesa do Consumidor não é aplicável à hipótese; os cálculos foram elaborados corretamente, conforme as normas de regência; a confissão de dívida foi assinada espontaneamente, portanto é válida e representa crédito exigível; não houve ato ilícito nem caracterização do alegado dano moral; não tem responsabilidade por indenização de eventuais danos. Amparada nesses argumentos, propugnou a improcedência da ação, encartou documentos e protestou por outras provas (fls. 58/65).
+A autora, na réplica, refutou as objeções da ré e reiterou o pedido inicial (fls. 71/73).
+Na audiência preliminar, em razão da ausência da autora e de seu advogado, a conciliação ficou prejudicada (fls. 80).
+Por força da decisão interlocutória saneadora houve: a) inversão do ônus da prova por aplicação do Código de Defesa do Consumidor; e (b) deferimento das provas pericial e oral (fls. 83).
+Sobreveio o laudo pericial (fls. 101/137), a respeito do que a ré apresentou o parecer técnico divergente de fls. 157/169, e a autora se manifestou (fls. 175).
+Na audiência, ouvidas duas testemunhas arroladas pela autora (fls. 216 e 217) e uma indicada pela ré (fl. 218), deferiu-se a substituição do debate oral (fls. 215).
+Por fim, a autora e a ré ofereceram memoriais e reiteraram suas manifestações anteriores (fls. 244/246 e 226/240).
+Da ação cautelar preparatória.
+Anteriormente, a autora, baseada nos mesmos fatos e fundamentos, ajuizara ação cautelar e obtivera liminar para restabelecimento do fornecimento de energia elétrica; sobreveio contestação fincada nas mesmas razões expostas na resposta à ação principal.
+É O RELATÓRIO 
+DECIDO 
+II 
+Em razão da conexão esta ação principal e a cautelar preparatória (autos em apenso) devem ser julgadas simultaneamente.
+A presente ação é procedente.
+O fornecimento de energia elétrica constitui relação jurídica de consumo, nos termos do artigo 3º, e parágrafos, da Lei 8.078/1990.
+No pavimento superior do prédio (fusão de duas unidades autônomas), está instalado o salão de beleza da autora, provido dos dois pontos de fornecimento de energia elétrica questionados.
+No âmbito fático, o perito judicial concluiu:
+?Os testes estatísticos efetuados sobre os históricos de consumo dos imóveis vistoriados não dão suporte à tese da requerida de que havia irregularidade no sistema elétrico dos mesmos, uma vez eu os aludidos testes mostraram que o consumo de energia APÓS a reparação de suposta irregularidade pode ser considerado estatisticamente igual ao consumo ANTES da reparação da alegada irregularidade;
+?Muito embora os TOI's ? Termos de Ocorrência de Irregularidade (fls. 45 e 36) tenham informado que foram extraídas fotos das irregularidades, tais fotos não foram juntadas nos autos nem tampouco fornecidas ao jurisperito por ocasião da vistoria empreendida;
+?A constatação plena e fiel das irregularidades somente seria possível mediante as fotos supramencionadas. Nesse sentido, restou configurada uma falha na caracterização da irregularidade por parte da requerida, eis que não foram apresentadas as fotos;
+?Pelo exposto, não é possível asseverar que havia irregularidade no sistema de medição dos imóveis objetivados  ? fl. 128.
+
+Portanto, independentemente da inversão do ônus da prova, não há demonstração da objeção essencial em que se baseia a ré, vale dizer, a existência concreta de fraude nos medidores e irregular medição da energia elétrica fornecida no período questionado.
+A propósito, o parecer elaborado pelo assistente da ré não tem o condão de infirmar a conclusão pericial nem de demonstrar, materialmente, que houve fraude de captação de energia praticada pela autora (fls. 157/169).
+Não bastasse a falta de prova inequívoca da alegada fraude, a coação moral (vis compulsiva) a que estivera concretamente exposta a autora da autora, no dia da imputação da fraude e da exigência de confissão do débito, o que constitui motivo para anulação desse negócio.
+Sem observância das garantias essenciais de defesa, não se pode admitir que a ré exerça regularmente um direito ao impor a confissão de dívida para que não houvesse interrupção do serviço. Não se configurou, portanto, uma das hipóteses que desnaturaria a coação (artigo 153, do Código Civil).
+A apuração da alegada irregularidade foi feita unilateralmente pela ré. Apesar de seguir regras formais de Resolução da ANEEL, não propiciou real oportunidade de ampla defesa nem garantia de realização de perícia. O Termo de Ocorrência de Irregularidade (TOI) elaborado pela ré não respeita tais garantias e deve ser interpretado favoravelmente à consumidora, sobretudo em razão da premência para restabelecimento do fornecimento de energia, bem essencial.
+A apuração administrativa de irregularidade depende, necessariamente, de processo administrativo, o qual deve ser instaurado e conduzido com a observância rigorosa (e real) das garantias constitucionais de ampla defesa e do contraditório, como prescreve o artigo 5°, inciso LV, da Constituição Federal.
+Sem o devido processo legal (administrativo), a forma sumária de atuação unilateral da ré deve ser considerada absolutamente nula (incidenter tantum) e abusiva, também em face das normas do Código de Defesa do Consumidor.
+Sob outro aspecto, e como fundamento adicional e complementar, pode-se invocar o artigo 187 do Código Civil, para enquadrar a conduta da ré como abusiva de direito e caracterizadora de ato ilícito.
+As resoluções da ANEEL, sobretudo a 456/2000, ? especificamente o artigo 72, ? são inconstitucionais nas partes em que, a despeito de algumas providências de constatação, não determinam a obrigatória realização de perícia e a instauração formal e regular de processo administrativo para preservação das garantias do contraditório e da ampla defesa.
+Além da irregular e inconstitucional apuração unilateral de suposta fraude, a suspensão do fornecimento da energia constitui elemento de forte coação, como visto.
+A interrupção do fornecimento da energia (consumada ou prometida) realmente não pode ser considerada, nestes casos, exercício normal de um direito (artigo 153, do Código Civil), porque ela somente é admissível na hipótese de inadimplemento do usuário em relação ao consumo normal e inquestionável, para o fim de não se lhe permitir a fruição do serviço em períodos mensais subseqüentes sem o respectivo pagamento, situação que, se perdurar, pode colocar em risco o atendimento de toda a coletividade.
+Diversa é a situação fática de quem sofre a suspensão do fornecimento (ou ameaça disso) baseada em suposta irregularidade pretérita, apurada unilateral e irregularmente, sem o devido processo legal administrativo, verdadeiramente coagido pela urgência do restabelecimento do serviço. 
+Na prática ocorre o seguinte fato, já público e notório nesta Capital: inicialmente, a ré, mediante ação repentina e unilateral, aplica verdadeira sanção (pena), vale dizer, ameaça ou, em muitas vezes (ta como neste caso), interrompe o fornecimento; imediatamente em seguida, baseada em frágil formulário provido de aparente fundamento regulamentar (infralegal e inconstitucional), não instaura o imprescindível processo administrativo; subtrai do usuário a garantia de ampla defesa para, finalmente, obter adesão maculada do devedor acuado, -- pressionado diante de literal escuridão física de seu lar ou de seu estabelecimento comercial, como se, num passo de mágica, ficasse iluminado (no sentido figurado) e, serena e seguramente convencido, concordasse em admitir a indigitada confissão de dívida.
+Em consequência, deve-se declarar inexigível o débito apontado pela ré como decorrente da suposta fraude, bem como anulado o termo de confissão de dívida.
+E se a causa (o negócio) foi inválida, o pagamento deve ser assim considerado, para o fim da devolução, devidamente atualizado desde os desembolsos das respectivas parcelas.
+Por outro lado, em razão da natureza do fato gerador do suposto débito (suposta fraude na medição do consumo da energia), -- o que foi alvo de discussão e de ampliação probatória dependente até mesmo de perícia no curso do processo, -- não se pode atribuir à ré a exigência do valor por má-fé ou culpa, de maneira que não incide, neste caso, a sanção da devolução do dobro, prevista pelo artigo 42, do Código de Defesa do Consumidor. 
+A interrupção do fornecimento da energia atingiu a imagem da autora, enquanto consumidora e também como empresa, o que tipificou dano moral efetivo e não mero aborrecimento.
+O dano moral, assim caracterizado, independe de demonstração de prejuízos para ser indenizado, conforme tem reafirmado a jurisprudência:
+"`O ressarcimento do dano moral é inteiramente cabível, ainda porque albergado na nova Constituição da República, e porque, em rigor, encontra guarida na própria regra geral consagrada no art. 159 do Código Civil. Na espécie, foram atingidos direitos integrantes da personalidade do apelante, tendo ocorrido o `sofrimento humano', que rende ensejo à obrigação de indenizar. Patente a ofensa não só à integridade física, como também ao sentimento de auto-estima da vítima, também merecedor da tutela jurídica. Concretiza-se, em resumo, a hipótese de ofensa a um direito, ainda que dela não decorrido prejuízo material'" (TJSP, 7ª C., Ap., Rel. Campos Mello - J. 30.10.91; RJTJESP 137/186).
+"A Constituição da República é expressa no garantir a indenizabilidade da lesão moral, independente de estar ou não, associado o dano ao patrimônio físico" (TJSP, 2ª C., Ap., Rel. Cezar Peluso, j. 29.9.92; JTJ-LEX 142/95).
+RESPONSABILIDADE CIVIL - Indenização - Dano moral - Desnecessidade da prova dos prejuízos, desde que presentes o nexo de causalidade e culpa - Verba devida (RT 746/183). 
+
+No caso, levando-se em conta a situação econômica da ofensora (empresa de grande porte financeiro) e a intensidade da gravidade da conduta praticada, bem como, de outro lado, a inexistência de outras conseqüências mais graves, a indenização deve ser fixada em R$ 5.000,00. 
+A correção monetária deve incidir a partir desta sentença, e os juros incidentes são apenas os moratórios, a contar da data do fato danoso, -- suspensão do fornecimento da energia elétrica --, nos termos do entendimento cristalizado pela Súmula 54, do Superior Tribunal de Justiça. 
+Não há possibilidade de adoção de patamar superior, tendo em vista a inexistência de correspondência precisa e específica entre tal valor e o dano moral, imensurável pecuniariamente pela própria natureza. A indenização, nesta esfera, não repõe nem repara absolutamente a ofensa; ao contrário, constitui espécie de compensação, para rebater, em outras palavras, para aliviar aquela conseqüência maléfica. Daí porque, se não pode ser ínfima, também não deve servir de meio para obtenção de quantia excessiva, que extrapola os princípios da eqüidade.
+De igual forma, e com base nos mesmos fundamentos supracitados, a ação cautelar deve ser julgada procedente.
+III 
+DIANTE DO EXPOSTO e do mais que dos autos consta: 
+a) JULGO PROCEDENTE a presente ação principal, para: a) declarar a inexigibilidade do débito especificado na petição inicial; b) anular o INSTRUMENTO PARTICULAR DE CONFISSÃO DE DÍVIDA E COMPROMISSO DE PAGAMENTO de fls. 15/18 e o de fl. 19/21; e (c) condenar a ré a (c.1) restituir à autora os valores pagos (dessas confissões de dívida), acrescidas de correção monetária, desde os desembolsos das parcelas, e a pagar (c.2) indenização pelo dano moral, no valor de R$ 5.000,00 (cinco mil reais), atualizado monetariamente a partir desta data; sobre os dois valores incidirão juros de mora de 1% ao mês, a contar da citação. Considerando a sucumbência recíproca, as partes arcarão com as despesas processuais e com os honorários advocatícios, que arbitro em 15% do valor total da condenação, na proporção de 2/3 a cargo da ré e de 1/3 por conta da autora, compensando-se aquela verba honorária. Se não houver pagamento espontâneo no prazo de quinze dias, a contar do trânsito em julgado, o débito ficará sujeito à multa de 10%, com fundamento no artigo 475-J, do Código de Processo Civil.
+b) JULGO PROCEDENTE a ação cautelar preparatória (autos em apenso), nos termos da liminar concedida, para manter o fornecimento da energia elétrica sem interrupção. Condeno a requerida a pagar as despesas processuais e os honorários advocatícios, que fixo em 15% do valor atualizado dessa causa.
+P.R.I.
+
+ São Paulo, 22 de novembro de 2010.
+
+(assinatura digital)
+Elói Estevão Troly
+Juiz de Direito

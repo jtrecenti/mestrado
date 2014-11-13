@@ -1,0 +1,63 @@
+
+
+SENTENÇA
+
+Processo nº:002.10.017347-2
+Classe - AssuntoProcedimento Ordinário - Planos de Saúde
+Requerente:Everson Alexandre Jarrah
+Requerido:Medial Saúde S/A
+
+Juiz(a) de Direito: Dr(a). Adriana Borges de Carvalho
+
+
+
+
+
+
+VISTOS.
+
+
+
+
+
+
+EVERSON ALEXANDRE JARRAH ajuizou a presente ação de obrigação de fazer com pedido de antecipação de tutela em face de MEDIAL SAÚDE S/A, alegando, em síntese, que desde janeiro de 2009 é associado plano de saúde coletivo Clássico II  Quarto Individual e no momento da assinatura só lhe foi entregue um guia simplificado do plano contratado, guia esta que não explicava as coberturas e procedimentos não cobertos. Ainda no ano de 2009, descobriu ser portador de Sarcoma na região paretal esquerda da cabeça, sendo então, submetido à cirurgia e quimioterapia, procedimentos que foram custeados pela ré. Em fevereiro de 2010, após nova consulta médica foi prescrito ao autor o tratamento através de radioterapia conformada 3D. Tal tratamento não foi autorizado pela ré sob o argumento de que a radioterapia conformada 3D não é procedimento contemplado pela ANS. Pelo exposto, requer a antecipação da tutela para que seja a ré compelida a fornecer cobertura assistencial integral ao tratamento do autor inclusive para tratamento de radioterapia conformada 3D, na forma como requerida pelo médico responsável, aguardando a confirmação em procedência final.
+Deferida a liminar foi imposta a ré multa no valor de R$ 100.000,00 em caso de descumprimento da liminar (fl. 47/51), sendo determinada a citação (fl. 54).
+Comunicou o autor o descumprimento da medida liminar, ante a não liberação do procedimento médico. Requereu a aplicação da multa em face ao descumprimento a determinação judicial. (fls. 81/86)
+Em contestação manifestou-se a ré alegando em síntese que a cobertura do tratamento não e devida, por se tratar de procedimento que não consta do rol de procedimentos da ANS; assim, tem-se exclusão por cláusula contratual que é válida, sob pena de gerar-se desequilíbrio contratual. (fls. 89/94).
+Ante ao descumprimento da liminar noticiado às fls. 81/86, foi aplicada a multa de R$ 100.000,00 que foi objeto de bloqueio através do BACEN-JUD (fls. 145). Houve interposição de agravo de instrumento contra esse bloqueio.
+Sobreveio réplica a fls. 169/175.
+É o relatório do essencial.
+
+D E C I D O.
+
+A hipótese é de julgamento antecipado da lide, uma vez que a matéria controvertida é unicamente de direito, já estando suficientemente demonstrada nos autos a matéria de fato.
+É incontroverso nos autos o contrato celebrado pelas partes, bem como que o autor estava em dia com suas obrigações para com a ré.
+É incontroverso também que o autor é portador de sarcoma na região paretal esquerda da cabeça, sendo adequado o tratamento a ele indicado pelo profissional médico.
+Como já anotado no despacho inicial:
+
+"Consta no atestado médico que o demandante necessita ainda do tratamento de Radioterapia Conformada 3D, justificando a médica responsável pelo acompanhamento do autor, Dra Joyce Z. Cyralnik, que:
+No caso em questão, tal avaliação é imprescindível na medida em que se tem órgãos nobres vizinhos ao leito tumoral (encéfalo, incluindo córtex, tronco cerebral, prisma óptico, hipófise, etc), que têm restrições quanto à dose de radioterapia que podem receber sem sofrer danos. Ao passo que, para o tipo histológico do tumor em questão, são necessárias doses altas de radiação, que poderiam ultrapassar tal limite (fls. 28/29 ? grifos e negritos não originais).
+Segundo relata, a requerida chegou a liberar as autorizações para o tratamento radioterápico (tradicional), porém não com a especificação que o autor necessita, segundo cristalina justificação médica (ou seja, com Conformação 3D), estando em risco o sucesso do tratamento indicado ao câncer verificado no autor, bem como em risco os demais órgãos essenciais à vida do demandante (como visão, audição e outras funções cerebrais), que não apresentam comprometimento na atualidade.
+Em outro atestado, consignou a médica especialista:
+Assim, o planejamento tridimensional se faz necessário para estimarmos tais doses, ministrando a maior dose possível de radiação ao leito tumoral, enquanto poupamos as estruturas nobres adjacentes (fl. 31 verso ? grifos e destaques não originais).
+Note-se que a postura adotada pela ré vem estampada nos atestados médicos, havendo expresso pedido médico, URGENTE, para a liberação da senha, ante a possibilidade de recidiva tumoral (fl. 31), fazendo-o nos seguintes termos:
+Tem indicação de Radioterapia Conformada Tridimensional pós-operatória. O tratamento radioterápico deve ser realizado o mais rápido possível, sob risco de recorrência tumoral (fl. 31 ? subscritos originais)."
+
+Desta forma, a questão central refere-se a ilegalidade da exclusão da cobertura da radioterapia conformada 3D para o tratamento da doença acima mencionada. 
+Verifica-se que a não autorização da realização do procedimento por parte da ré foi ilícita, pois quando da contratação do plano de saúde neste constava a autorização expressa para radioterapia. Uma pessoa leiga, como ocorre no presente caso, não tem condições de saber qual o melhor método para o tratamento de uma enfermidade e nem as diferenças entre os procedimentos disponibilizados.
+Neste sentido, cite-se o seguinte julgado:
+"Seguro saúde. Cobertura. Câncer de pulmão. Tratamento com quimioterapia. Cláusula abusiva.
+1. O plano de saúde pode estabelecer quais doenças estão sendo cobertas, mas não que tipo de tratamento está alcançado para a respectiva cura. Se a patologia está coberta, no caso, o câncer, é inviável vedar a quimioterapia pelo simples fato de ser esta uma das alternativas possíveis para a cura da doença. A abusividade da cláusula reside exatamente nesse preciso aspecto, qual seja, não pode o paciente, em razão de cláusula  limitativa, ser impedido de receber tratamento com o método mais moderno disponível no momento em que instalada a doença coberta.
+2. Recurso especial".
+(STJ  3ª Turma  Recurso Especial nº 668.216-SP  Relator Ministro Carlos Alberto Menezes Direito  j. Em 15/03/2007  v.u.)
+Ora, a Lei Federal 8.078/90, em seu artigo 47, é bastante clara ao dispor que as cláusulas contratuais. devem ser interpretadas de modo favorável ao consumidor. 
+É o caso dos autos, pois a adjetivação que o tratamento recebe pouco importa, eis que, de modo genérico, se trata de radioterapia. 
+Assim, se radioterapia em sentido amplo é coberta pelo plano de saúde, quanto mais um tipo específico de tratamento, como, no caso, a radioterapia conformacional 3D.
+ Foi o próprio médico credenciado pelo autor que sugeriu o dito tratamento, de sorte que, havendo previsão contratual, cabia à ré tão somente cumprir sua obrigação.
+Diante do exposto e do mais que dos autos consta, JULGO PROCEDENTE a ação promovida por EVERSON ALEXANDRE JARRAH em face de MEDIAL SAUDE S/A e torno definitiva a r. decisão de fls. 47/51 determinando à ré que proceda à cobertura total e ilimitada do tratamento do SARCOMA desenvolvido pelo autor, abrangendo todas as despesas relacionadas com o procedimento de Radioterapia, especialmente a  Conformada Tridimensional - 3D (inclusive, se necessários, medicamentos, com internação hospitalar ou ambulatorial, pertinentes à recuperação e manutenção da saúde do autor), atendendo estritamente ao tratamento ditado pela médica responsável pelo autor, mantida a imposição da multa de R$ 100.000,00 para cada descumprimento da ordem judicial.
+Pelo princípio da sucumbência, arcará a ré com o pagamento das custas e despesas processuais, corrigidas desde cada efetivo desembolso, além de honorários advocatícios que fixo em 20% do valor atualizado da causa.
+Caso demonstrada a necessidade (nos moldes do despacho  de fl. 145, item 3), libere-se ao autor o valor bloqueado correspondente a multa aplicada pelo descumprimento da determinação judicial (anotando-se que foi indeferido o pedido liminar de suspensão desta decisão em sede de agravo  fl. 181. Oficie-se ao Tribunal de Justiça, informando a presente decisão..
+Para fins de cálculo do preparo de apelação, considera-se o valor histórico atribuído à causa.
+P.R.I.
+São Paulo, 09 de agosto de 2010.

@@ -1,0 +1,72 @@
+
+
+SENTENÇA
+
+Processo nº:0044296-24.2011.8.26.0002 - Procedimento Ordinário
+Requerente:Phisical Academia de Ginástica Ltda.
+Requerido:Tim Celular S/A
+
+Juiz(a) de Direito: Dr(a). Paulo André Bueno de Camargo
+
+Vistos.
+
+PHISICAL ACADEMIA DE GINÁSTICA LTDA move ação cominatória de obrigação de fazer c.c. indenizatória em face de TIM CELULAR S/A, aduzindo que, em março/2011, celebrou contratos com a ré adquirindo 32 linhas de telefonia móvel (cliente nº6.975223.10). Sustenta que a utilização do serviço iniciou-se em abril/2011 e recebeu apenas uma fatura de R$ 910,46 com vencimento em 20/05/2011, sendo a mesma quitada.  Contudo, a partir de maio/2011, sem notificação ou justo motivo, a ré bloqueou as linhas para efetuar e receber ligações. Assim, a autora contatou a ré (protocolo n.20116563535), ocasião em que foi informada de inadimplemento (da fatura já quitada), contudo, mesmo contrariada, a autora efetuou o pagamento e enviou o comprovante à ré por fac-símile. Porém, em 12/05/2011, a autora recebeu a informação da ré de que as linhas estavam canceladas por falta de documentos. Aduz a autora que improcede tal justificativa, uma vez que a documentação foi entregue no ato da contratação. Diante dos fatos narrados, pugna pela procedência do pedido consistente na reativação das 32 linhas, com alterações contratuais e indenização por danos morais. 
+
+Indeferido o pedido liminar (fl. 42).
+
+Mantida a decisão de indeferimento da liminar (fl.57).
+
+Citada, a requerida contestou o pedido (fls. 63/74), pugnando pela sua improcedência.  Sustenta que, nos termos da oferta contratada pela autora, o serviço deveria ser utilizado exclusivamente para fins de comunicação pessoal, estando vedada a utilização das linhas em equipamentos como GSM BOX, Black Box e similares e em uso estático (sem mobilidade) e seu uso indevido acarreta o cancelamento da oferta pela ré. Desta forma, a ré constatou a utilização dos aludidos aparelhos em evidente afronta da autora ao contrato. A utilização como tal gera prejuízos à ré com a necessidade de redimensionamento de sua rede. Assevera que não é aplicável ao caso a legislação consumerista e impugna o pleito indenizatório, uma vez que a suspensão do serviço ocorreu embasada no contrato. 
+
+Determinada especificação de provas (fl.101), a ré pugnou pela prova pericial (fl. 104).
+
+Decisão saneadora deferiu a prova pericial (fl.107).
+
+Quesitos apresentados pela ré (fls.110/114).
+
+Laudo (fls.144/357).
+
+Manifestação da ré sobre o laudo (fls.362/371).
+
+Vieram documentos.
+
+É o relatório.
+
+D E C I D O.
+
+A parte autora move a presente ação cominatória e indenizatória em razão do bloqueio e cancelamento das linhas de telefonia móvel promovido unilateralmente pela ré.
+
+As partes celebraram contratos com ?Oferta TIM Liberty Empresa? (fl. 28). Os aludidos contratos são regidos pelo ?Regulamento Oferta TIM Liberty Empresa? (fls. 80/81). 
+
+O regulamento, por sua vez, dispõe de cláusulas bem explicativas, dentre elas: 
+?3.4 ? A oferta ?TIM Liberty Empresa? deve ser usada unicamente para fins de comunicação pessoal e está vedado qualquer tipo de uso comercial das ligações e serviços incluídos na oferta, tais como a comercialização, spam, black box entre outras práticas.
+ 3.5 ? A TIM se reserva o direito de cancelar a presente oferta e os benefícios nela dispostos, caso ocorra uso indevido do benefício concedido.
+3.6 ? Para efeitos dessa oferta, considera-se uso indevido quaisquer dos itens abaixo:
+3.6.2 ? Utilização dos chips em equipamentos como GSM Box, Black Box e equipamentos similares.
+3.6.3 ? Uso estático (sem mobilidade) do aparelho celular em cerca de 60% do tráfego originado pelo Cliente e recebimento de ligações em proporção inferior a 33% do volume originado, por mês.
+3.7 ? Para os casos em que for constatada qualquer violação às regras dispostas neste Regulamento, a TIM poderá a seu exclusivo critério suspender a utilização do acesso móvel e cancelar a oferta ?TIM Liberty Empresa?.  
+
+Diante das regras contratuais, a perícia foi necessária para apuração de eventual infração da parte autora.
+
+O trabalho pericial chegou à conclusão de que houve nítida violação pela autora à cláusula 3.6.3 (uso estático).
+ 
+Questionada se era possível afirmar que algumas das linhas contratadas pela autora foram utilizadas de forma estática e se tal utilização feria o contrato (quesito 22 ? fl. 182), a expert respondeu: ?Positiva é a resposta para ambos os questionamentos. A perícia demonstrou o uso estático das linhas analisadas. (...).?
+
+A análise pericial, em suma, chegou à seguinte conclusão:
+
+?1.1 - (...) Na totalização de todos os acessos, foram efetuadas 10.469 ligações e recebidas 3.831 ligações, estas correspondendo a 36,59% das ligações efetuadas (originadas), acima, portanto, do mínimo de 33% admissível pelo contrato.? (fl.188). 
+
+Nos Itens 1.2 (fl.188) e 2.2 (fl.189), a expert enfatiza o nítido uso estático das linhas.
+
+ Desta forma, ao contrário da alegação da parte autora, não houve ato unilateral arbitrário da parte ré, mas, tão-somente fez valer direito embasado no contrato. Ademais, inexiste infração ao direito consumerista, porquanto a autora não era consumidora final dos serviços prestados pela ré, já que se utilizava das linhas móveis em sua atividade empresarial. Por outro lado, não há omissão sobre os termos contratuais, uma vez que a própria autora assinala na inicial que conseguiu encontrar o contrato no site da requerida  (fl. 07). Outrossim, o termos de contratação remete a parte contratante às "cláusulas e condições dos contratos que regem o SMP" (fl. 28).
+ 
+Posto isso, JULGO IMPROCEDENTE o pedido, para o fim de condenar a autora ao pagamento das custas, despesas processuais e honorários advocatícios que fixo em R$ 2.000,00 (dois mil reais), nos termos do art. 20, § 4º, do CPC. Fixo os honorários periciais definitivos em R$ 7.960,00 (fl. 418).
+
+Para interposição de eventual recurso, o valor deverá corresponder a 2% (dois por cento) sobre o valor da condenação, se houver ou da causa (do principal) atualizado, e deverá ser recolhido à título de porte de remessa e retorno dos autos o valor de R$ 32,70 por volume, observando-se o disposto na Lei 11.608/03.
+
+
+Transitada em julgado, certifique-se. Nada requerido, arquivem-se. 
+
+P.R.I.
+              
+          São Paulo, 08 de agosto de 2014 .

@@ -1,0 +1,58 @@
+
+
+SENTENÇA
+
+Processo nº:0010624-62.2010.8.26.0001
+Classe - AssuntoProcedimento Ordinário - Obrigação de Fazer / Não Fazer
+Requerente:Márcia Magalhães Garcia
+Requerido:Banco Nossa Caixa S/A
+
+
+
+Juiz(a) de Direito: Dr(a). Vincenzo Bruno Formica Filho
+
+
+Vistos, etc.
+
+Márcia Magalhães Garcia propôs demanda declaratória de inexistência de débito cumulada com demanda condenatória ao pagamento de indenização por dano material e moral em decorrência de sua inclusão nos cadastros de proteção ao crédito contra Banco do Brasil S.A., sucessor do Banco Nossa Caixa s.a.
+Afirma ter-se surpreendido com a existência de débitos, em sua conta-corrente, para pagamento de títulos que não reconhece. Surpreendeu-se, ainda, com celebração de empréstimo bancário no valor de R$15.000,00, que não havia contratado. Pede a declaração de inexistência do contrato de empréstimo e a condenação do réu ao pagamento de indenização por dano material e moral (fls.2/13).
+Foi deferida a antecipação dos efeitos da tutela (fls.50/51).
+O réu contestou a demanda, alegando inexistência de defeito na prestação do serviço, haja vista o sistema de segurança instituído pelo banco para a realização de saques. Aduz que, se houve saque indevido, a autora concorreu para isso ao fornecer a senha a terceiros ou negligenciar sua guarda. Nega a ocorrência de dano moral. Pede a improcedência da demanda (fls.62/79).
+Réplica a fls.93/99.
+É o relatório.
+Passo a decidir.
+A demanda comporta imediato julgamento, porque desnecessária a produção de provas em audiência (art.330, inc.I, do Código de Processo Civil).
+Quanto ao empréstimo, a ausência de impugnação especificada desse fato pelo réu é corroborada pela ausência de comprovação da existência desses negócios e de sua contratação pela autora.
+Cumpre esclarecer que, ao se alegar a inexistência de uma relação jurídica e suas conseqüências obrigacionais, incumbe à parte contrária a demonstração da existência delas, utilizando-se dos meios de prova disponíveis, como a documental ou a testemunhal. Isso ocorre, porque a comprovação do fato negativo - inexistência da relação jurídica - é uma probatio diabolica.
+Se o réu cobra um crédito contra a autora, deve comprovar a origem dele por meio da prova documental da celebração do contrato (art.368 do Código de Processo Civil) ou testemunhal da contratação verbal.
+Portanto, o contrato de empréstimo no valor de R$15.000,00 deve ser declarado inexistente.
+Quanto aos débitos, os fatos alegados pela consumidora são verossímeis e encontram ressonância nas alegações genéricas do réu, motivo pelo qual deve ser aplicada a inversão do ônus da prova, corolário da facilitação da defesa dos direitos do consumidor (art.6º, inc.VIII, do Código de Defesa do Consumidor).
+Ressalte-se que a apregoada infalibilidade do sistema de segurança é flagrantemente contestada pela realidade, em que se multiplicam casos de fraudes eletrônicas.
+A responsabilidade do réu pelo fato do serviço independe de culpa, somente elidível pela comprovação de que o defeito inexista ou tenha ocorrido fato de terceiro ou do consumidor. Acerca da natureza de sua responsabilidade, manifesta-se a eminente Claudia Lima Marques:
+A responsabilidade positivada no Código de Defesa do Consumidor é, sem dúvida, objetiva, no sentido de ser independente da existência de culpa, mas não pelo risco da atividade. Seria a introdução, no ordenamento jurídico brasileiro, da chamada responsabilidade não culposa. Este tipo de responsabilidade exige, para a caracterizar o ilícito, a existência de um defeito, defeito este imputado objetivamente (peritus spondet artem suam) aos fornecedores citados na norma do art.12 e nos casos especiais previstos no art.13. Esta imputabilidade objetiva, baseada no profissionalismo dos fornecedores e no defeito efetivamente existente, afastaria qualquer alegação de que o defeito seria, por exemplo, oriundo de caso fortuito ou força maior quando da atividade do fornecedor (corte de energia, erro do computador, erro dos prepostos, clonagem de cartão de crédito por criminosos etc.).
+O réu não comprovou que, nas específicas transações impugnadas, tenha ocorrido fato do consumidor ou de terceiro, ou, mesmo, que o defeito inexistiu. Sequer trouxe documentos sobre as movimentações financeiras. A crença na indefectibilidade de seus sistemas não é suficiente para afastar a sua responsabilidade e presumir a culpa do consumidor.
+Dessa maneira, o réu deve ser responsabilizado pelo dano material que causou à autora, conforme a jurisprudência do Egrégio Tribunal de Justiça de São Paulo:
+RESPONSABILIDADE CIVIL ? Dano material ? Autor que mantinha conta poupança na agência do banco réu ? Saldo que, em 14.03.2000, alcançava o montante de R$ 10.642,52 ? Constatação em março de 2002 que seu saldo estava zerado ? Realização de diversos saques na conta do autor por meio do 'cartão poupança banco dia e noite' no período de 20.03.2000 a 22.01.2001 ? Banco réu que alega ser o sistema inviolável, necessitando para a efetivação do saque o conhecimento da senha secreta ? Responsabilidade objetiva do fornecedor do serviço passível de ser refutada nas hipóteses do § 3º, do artigo 4º, do Código de Defesa do Consumidor ? Situações de exclusão de responsabilidade não verificadas ? Indenização devida - Recurso desprovido (Apelação cível n. 7.063.379-7 ? São Paulo - 23ª Câmara de Direito Privado ? Relator: José Marcos Marrone ? 09.06.06 - V.U.).
+RESPONSABILIDADE CIVIL - Dano material - Instituição financeira - Saque indevido em conta-corrente - Cartão bancário - Inversão do ônus da prova por aplicação do Código de Defesa do Consumidor - Admissibilidade - Reconhecimento quanto à possibilidade de violação do sistema eletrônico, vulnerável a fraudes - Responsabilidade objetiva do fornecedor do serviço - Caracterização - Restituição dos valores equivalentes ao prejuízo de capital a ser suportado pelo réu, nos termos especificados na sentença, por se tratar de responsabilidade contratual - Recurso parcialmente provido (Apelação Cível n. 1.231.559-6 - Comarca de São Paulo - 22ª Câmara de Direito Privado - Relator: Matheus Fontes - J. 30.01.2007 - V.U. - Voto n. 15.214).
+Contudo, não faz jus a autora ao valor integral dos danos materiais pleiteados, porque não se justifica a condenação do réu ao pagamento de valores cuja declaração de inexistência se pretende nesta demanda, sob pena de enriquecimento sem causa.
+A autora deve ser ressarcida, tão-somente, dos valores indicados a fls.41, 42, 43, 44, 46, 47, 48 e 49, os quais deverão ser corrigidos e acrescidos de juros de mora desde o saque indevido.
+Ressalto, ainda, que a condenação em dobro não pode ser acolhida, porquanto a hipóteses dos autos não se caracteriza como cobrança indevida, nos moldes do art.42, §único, do Código de Defesa do Consumidor - lei n° 8.078/90 -.
+Passo para a análise da demanda condenatória ao pagamento de indenização pelos danos morais.
+A inscrição desabonadora de um débito inexistente caracteriza um defeito no serviço prestado pelo réu. Sua responsabilidade, nestes casos, independe de culpa, nos termos do art.14 do Código de Defesa do Consumidor.
+Os fornecedores de serviços devem dominar os erros prováveis de sua atividade, impedindo-os de causar danos aos consumidores, não lhes socorrendo a alegação de que não agiram culposamente ou de que foram vítimas de fraude perpetrada por terceiros.
+O nexo de causalidade está presente no fato de a inscrição desabonadora ter partido de informação prestada pelo próprio réu, com o intuito de causar gravame ao consumidor, fechando-lhe as portas do comércio como método de pressão ao pagamento.
+A decisão de inscrever o nome do autor foi do réu. Portanto, não há fato de terceiro, porque, ainda que a fraude possa ter induzido ao erro, não é suficiente para interromper o nexo de causalidade, visto não ser a causa adequada do dano.
+Os danos morais estão sujeitos à comprovação dos mesmos requisitos da teoria da responsabilidade civil ou consumerista. Com a única diferença: comprovada a conduta ofensiva à honra, o dano está in re ipsa, independentemente de comprovação da efetiva dor psicológica ou da efetiva depreciação da honra objetiva.
+A inscrição desabonadora em serviços de proteção ao crédito acarreta uma mácula na dignidade do consumidor, conforme já sedimentado na jurisprudência pátria.
+A fixação do quantum da indenização deve pautar-se pelos critérios da punição, compensação e solidariedade. Levando-se em conta as características e circunstâncias do caso, como a capacidade econômica das partes, o valor do débito inscrito, a conduta do réu e o tempo em que permaneceu a inscrição, fixo os danos morais em R$2.000,00.
+Ressalto que o valor pleiteado a título de danos morais é mera estimativa e seu não-acolhimento não enseja sucumbência recíproca, de acordo com a jurisprudência das cortes superiores (súmula n°326/STJ).
+Por fim, não há que se falar em condenação do réu ao pagamento dos honorários de advogado, porquanto a sucumbência já se destina a indenizar a esse título.
+A demanda é parcialmente procedente.
+Decido.
+Assim sendo e considerando o que mais dos autos consta, julgo parcialmente procedente, nos termos o art.269, inc.I, do Código de Processo Civil, a demanda proposta por Márcia Magalhães Garcia contra Banco do Brasil S.A., sucessor do Banco Nossa Caixa s.a., para declarar a inexistência contrato de empréstimo no valor de R$15.000,00 e para condenar o réu ao pagamento dos valores indicados a fls.41, 42, 43, 44, 46, 47, 48 e 49, assim como dos valores cobrados a título de parcela do empréstimo, os quais deverão ser corrigidos e acrescidos de juros de mora desde cada saque indevido, nos termos do art.395 e art.398 do Código Civil, e ao pagamento de R$2.000,00, a título de danos morais pela inscrição desabonadora indevida, corrigidos a partir desta sentença e acrescidos de juros de mora desde o evento danoso (5.6.10), nos termos do art.395 e art.398 do Código Civil.
+Em razão da sucumbência ínfima da autora, condeno o réu ao pagamento das custas e despesas processuais e ao pagamento de honorários de advogado que fixo em R$1.700,00, corrigidos desde a propositura da demanda e acrescidos de juros de mora a partir do trânsito em julgado.
+Transitado em julgado o processo, certifique-se. Nada requerido, arquivem-se; se juntada a memória do débito com indicação de bens à penhora e recolhida a condução do oficial de justiça, expeça-se mandado de penhora nos moldes do artigo 475-J do Código de Processo Civil.
+Publique-se. Registre-se. Intimem-se.
+São Paulo, 16 de dezembro de 2010.
+Vincenzo Bruno Formica Filho
+juiz de direito

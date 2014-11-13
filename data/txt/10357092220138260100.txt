@@ -1,0 +1,67 @@
+
+
+SENTENÇA
+
+Processo nº:1035709-22.2013.8.26.0100
+Classe ? Assunto:Cautelar Inominada - Liminar 
+Requerente:JOSE CARLOS ROMERO RODRIGUES
+Requerido:Jefferson E J Haach e outros
+
+
+Juiz(a) de Direito: Dr(a). Maria Fernanda Belli
+
+
+
+
+
+
+
+Vistos.
+
+
+
+
+
+Trata-se de ação de obrigação de fazer, cumulada com pedido de indenização, com pedido de tutela antecipada, ajuizada por JOSÉ CARLOS ROMERO RODRIGUES, qualificado nos autos, contra JEFFERSON EDUARDO JHOGY HAACH, VINÍCIUS RAMOS TOLEDO FERRAZ e ZEMPLO COMÉRCIO E ARTIGOS DO VESTUÁRIO LTDA.-EPP, também qualificados, argumentando, em síntese, que, após sua participação em torneio de pôquer, foi surpreendido com a existência de comentários ofensivos à sua reputação em fórum de debates destinados ao referido jogo, localizado nas páginas www.maisev.com.br e www.maisev.com, cujos titulares de domínio são os réus. Pretende, liminarmente, a remoção do conteúdo ofensivo, medida que será confirmada ao final, além da condenação dos réus no pagamento de indenização por danos morais no valor de cinquenta salários mínimos, cada um. 
+
+A petição inicial veio instruída com procuração e documentos (fls. 06/23) e foi emendada a fls. 25/73, 75/84 e 86/100. 
+A decisão de fls. 101/103 deferiu o pedido liminar e determinou a remoção do conteúdo desonroso. 
+
+Citados, os réus Vinicius e Jefferson ofereceram contestação, respectivamente, a fls. 130/132 e 137/140, arguindo, inicialmente, sua ilegitimidade passiva. Argumentaram que não são os autores das ofensas, apenas trabalham como analistas de sistemas, e postularam a improcedência do pedido. 
+
+A corré ZEMPLO, por seu turno, apresentou defesa a fls. 145/152 e rebateu as alegações iniciais. Afirmou que, em atendimento à ordem judicial, bloqueou o acesso ao link com expressões ofensivas, as quais foram inseridas por terceiros. Sustentou que o conteúdo das mensagens postadas é de inteira responsabilidade de terceiros, conforme adesão dos participantes. Ao final, requereu a improcedência dos pedidos e juntou documentos (fls. 153/171). 
+
+Réplica a fls. 191/198.
+
+
+É o breve relatório.
+DECIDO. 
+
+
+JULGO ANTECIPADAMENTE O PEDIDO, com fulcro no artigo 330, inciso I, do CPC, tratando-se de matéria eminentemente de direito, que dispensa dilação probatória. Neste sentido, confira-se o entendimento jurisprudencial: ?Em matéria de julgamento antecipado da lide, predomina a prudente discrição do magistrado, no exame da necessidade ou não da realização de prova em audiência, ante as circunstâncias de cada caso concreto e a necessidade de não ofender o princípio basilar do pleno contraditório? (STJ-4ª Turma, REsp 3.047-ES, rel. Min. Athos Carneiro).
+
+Reconheço, primeiramente, a ilegitimidade passiva dos réus VINÍCIUS RAMOS TOLEDO FERRAZ e JEFFERSON EDUARDO JHOGY HAACH. De fato, os réus não são titulares dos domínios indicados na inicial, tampouco são responsáveis pelas ofensas ao autor. É o que se extrai dos documentos de fls. 07, 08/23, 35/73 e 92. 
+
+Por outro lado, em relação à empresa ré, os pedidos são parcialmente procedentes. 
+
+Como consabido, ?aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito? (artigo 186 do Novo Código Civil) e, por consequência, fica obrigado a repará-lo (artigo 927 do mesmo diploma). As partes não divergem quanto à existência de comentários ofensivos, apenas se discute a responsabilidade (ou não) da ré. Embora demonstrada a ofensa, não há nexo de causalidade entre o fato e a conduta da ré. Os comentários foram introduzidos por terceiros, e não pela requerida, que somente disponibilizou o site para debate entre seus usuários. 
+
+A ré é titular dos domínios www.maisev.com.br e www.maisev.com, os quais serviram de suporte para inserção de comentários ofensivos à reputação do autor. Como provedor de informações colocadas por terceiros, é dever do responsável pelo site, após regular notícia de conteúdos ilícitos, o bloqueio e a retirada do ar, assim como o do fornecimento de informações sobre o terceiro responsável. Neste sentido, confira-se: ?Internet - Mensagens depreciativas inseridas em site de relacionamento (orkut), com o nítido propósito de denegrir a imagem objetiva de marca notória que se expande no mercado mediante franquias - Provedor de hospedagem que cumpre o dever de, ao ser cientificado do ilícito, bloquear o conteúdo e despaginar a comunidade que fez uso ilegal da comunicação na rede, excluindo a obrigação de pagar danos morais que somente é possível em caso de negligente controle (art. 186, do CC) -Provimento, em parte? (TJSP, Apelação n° 9103068-32.2008.8.26.0000, 4ª Câmara de Direito Privado, j. 30-07-2009, rel. Des. Enio Zuliani).
+
+?Responsabilidade civil. Provedor de hospedagem. Atendimento a ordem de remoção de perfil no Orkut e de fornecimento de dados do criador do perfil. Ausência de obrigação ressarcitória ou de compensação de alegados danos morais. Inocorrido cerceamento de prova. Sentença mantida. Recurso desprovido? (TJSP, Apelação n° 0230052-45.2007.8.26.0100, 1ª Câmara de Direito Privado, j. 01-03-2011, rel. Des. Cláudio Godoy).
+
+Diferentemente do que afirma o autor, a obrigação da ré em fornecer informações sobre terceiros responsáveis pelo conteúdo depreciativo é restrita à divulgação do número de identificação IP (Internet Protocol) e dados de cadastros em seu poder, mas não se exige a exibição de outros dados como nome, endereço, RG, CPF. A esse respeito, já se decidiu:
+
+?Prestação de serviços Obrigação de fazer Alegação de exibição de vídeos no site Youtube, com utilização de expressões ofensivas contra os devedores dos clientes da autora - Sentença de procedência - Vídeos já removidos. Identificação do usuário com o fornecimento dos únicos dados disponíveis pela ré, ou seja, IP (Internet Protocol) e cadastro. Impossibilidade de fornecimento de nome, endereço e documentação do usuário. Sentença já cumprida Ré que deu causa ao ajuizamento da demanda e deve suportar os ônus sucumbenciais Apelação provida em parte? (TJSP, Apelação n° 992.08.073333-5, 36ª Câmara de Direito Privado, j. 18-03-2010, rel. Des. Romeu Ricupero).
+
+Nesta órbita, assiste razão ao autor somente no tocante à retirada do conteúdo ilícito pela requerida, mas não quanto ao pedido indenizatório. Nesse sentido: ?Apelação Indenização Sentença que julgou parcialmente procedente a ação, rejeitando o pedido de condenação da empresa apelada ao pagamento de indenização por danos morais à apelante Alegação da apelante de que teve sua honra maculada pela divulgação não autorizada de informações pessoais de contato dela por terceiro que se passava por mulher casada em busca de aventuras sexuais através de sala de bate-papo hospedada no site da apelada Dano moral que, conquanto bem delineado, não pode ser atribuído à conduta da apelada Nexo causal não configurado Responsabilidade por atos exclusivos de terceiros não pode ser atribuída à apelada, cuja atividade comercial se limita ao oferecimento de acesso a internet e conteúdo a seus assinantes Impossibilidade de obrigação à apelada para que monitore e fiscalize previamente o conteúdo que venha a ser criado por seus usuários para evitar que sejam praticados atos desabonadores em face de terceiros, porquanto seu cumprimento se apresenta impossível Inviabilidade da aplicação da teoria do risco Atividade que consiste propiciar meios para a criação de sala de bate-papo a seus usuários, não se revestindo de qualquer ilicitude, enquanto que a efetiva prática delituosa somente pode ser imputada a terceiro Inexistência de risco criado pela própria prestadora do serviço Sentença mantida Recurso improvido? (TJSP, Apelação n.º 0033486-30.2010.8.26.0000, 2ª Câmara de Direito Privado, rel. José Joaquim dos Santos, data do julgamento 01.10.2013). 
+
+Diante do exposto: a) JULGO EXTINTO O PROCESSO SEM RESOLUÇÃO DE MÉRITO, com fulcro no artigo 267, inciso VI, do CPC, em relação aos réus VINÍCIUS RAMOS TOLEDO FERRAZ e JEFFERSON EDUARDO JHOGY HAACH. Considerando que se formou a relação jurídica processual, arcará o autor com o pagamento de eventuais custas e despesas processuais proporcionais e honorários advocatícios em favor de seu patrono, que arbitro em R$ 3.000,00 (três mil reais), na forma do artigo 20, §4º, do CPC; b) JULGO PARCIALMENTE PROCEDENTES OS PEDIDOS em relação ao réu ZEMPLO COMÉRCIO E ARTIGOS DO VESTUÁRIO LTDA.-EPP, torno definitiva a decisão que deferiu o pedido liminar (fls. 101/103) para determinar a exclusão pela ré http://www.maisev.com/forum/poker-livre/73517-atenção-catrupe-mto-sick-nos-livres-do-brasil-html, bem como a fornecer os números de IP e demais dados que possuir sobre os usuários indicados a fls. 194, no prazo de trinta dias, contados do trânsito em julgado, sob pena de aplicação de multa diária futuramente arbitrada para o caso de descumprimento. Custas, despesas processuais e honorários advocatícios compensados, à luz do artigo 21, caput, do CPC. 
+
+P.R.I.
+
+
+São Paulo, 07 de outubro de 2013.
+
+MARIA FERNANDA BELLI
+Juíza de Direito

@@ -1,0 +1,58 @@
+
+
+CONCLUSÃO
+Em 15 de janeiro de 2014, faço estes autos conclusos a(o) MM. Juiz(a) de Direito da 10ª Vara Cível de São Paulo, Dr.(ª)Andrea de Abreu e Braga Eu ______, Escr., subscr.
+
+
+SENTENÇA
+
+Processo nº:1054131-45.2013.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Defeito, nulidade ou anulação
+Requerente:Estrela Distribuidora de Brinquedos, Comercial, Importadora e Exportadora Ltda
+Requerido:Pontomobi Tecnologia Informática Ltda. e RBS Administração e Cobranças Ltda.
+
+
+
+
+Juiz(a) de Direito: Dr(a). Andrea de Abreu e Braga
+
+Vistos.
+    ESTRELA DISTRIBUIDORA DE BRINQUEDOS, COMERCIAL, IMPORTADORA E EXPORTADORA LTDA moveu a presente ação declaratória e indenizatória em face de PONTOMOBI TECNOLOGIA INFORMÁTICA LTDA e RBS ADMINISTRAÇÃO E COBRANÇAS LTDA, alegando, em síntese, que a autora e a primeira ré celebraram contrato verbal para desenvolvimento de 11 jogos digitais, com custo avaliado em R$178146,01, que deveria ser dividido entre as partes. Afirma que a requerente pagou a quantia de R$165.000,00. No decorrer do projeto, os termos do contrato foram alterados, com o descarte de 2 dos jogos e diminuição do custo para R$1554636,36. Alega que a ré apenas entregou 05 aplicativos, o que reduziu o valor devido pela autora a apenas R$413527,56. Afirma que a ré recebeu patrocínio no valor de R$790.000,00.de outras empresas e que metade deste valor deve ser revertido à requerente. Entende ser credora da requerida no valor de R$146.472,44, o que torna indevida a emissão de duplicata, endossada em favor da segunda requerida, que, além de não ter aceite, não corresponde a serviços prestados. Diz ter sofrido danos morais e materiais. Pede a declaração de nulidade da duplicata e a condenação das rés ao pagamento de indenização por danos morais e materiais pelo abalo do crédito, no valor de R$500.000,00. Juntou documentos.
+    Deferida a liminar, as rés foram validamente citadas e apresentaram defesa, sustentando que a autora e a primeira ré celebraram contrato de parceria em que a ré desenvolveria aplicativos para autora, que arcaria apenas com a metade dos custos. De acordo com os termos do contrato, que não foi assinado pela ré, mas que foi por ela aceito, a participação da autora seria de 75%, com custos de investimentos iniciais de responsabilidade de 50% para cada parte. Após o lançamento dos jogos, os custos de manutenção do projeto seriam de 75% para a autora e 25% para a ré. Já as receitas do projeto seriam dividas igualmente entre as partes, mas deveriam quitar prioritariamente os custos de desenvolvimento. A autora, entretanto, deixou de arcar com o pagamento, sendo acordado que o saldo em aberto seria pago até 15 de dezembro de 2012, o que não foi cumprido, embora a ré tenha prestado os serviços contratados. Afirma que a entrega dos jogos estava prevista para março de 2013 e que a autora incorreu em inadimplência antes de tal data. Diz que a autora determinou a paralisação dos jogos para diminuir seus prejuízos com a parceria. Em relação ao patrocínio, os valores recebidos, antes da divisão,, deveriam descontar a comissão da agência (20%), impostos, custos de produção adicionais e custos de mídia e veiculação, sendo que o saldo era destinado a cobrir prioritariamente os custos de desenvolvimento e servidor. Sustentam que a grande maioria dos jogos está pronta, mas não houve o lançamento, por estratégia comercial, porque os jogos lançados geram custos e em face do inadimplemento da autora. Negam os danos da autora. Sustentam a validade da duplicata que, por ser digital, não comporta aceite.                               Em reconvenção, as rés reconvintes pedem a condenação da autora reconvinda ao pagamento do valor expresso na duplicata em discussão (R$612.318,13).                                A reconvenção foi contestada.                                Réplica nos autos.                         
+É o relatório.
+Decido. 
+O feito se encontra maduro para julgamento, em vista das alegações das partes.
+O que se depreende dos autos é que as partes celebraram contrato complexo de prestação de serviços para criação de jogos em plataforma digital.
+Os custos dos projeto foram divididos entre as partes, assim como as receitas.
+Entretanto, não obstante o vultoso valor do contrato, não há instrumento contratual assinado entre as partes.
+Existe uma minuta de contrato, que não foi assinada. Esta minuta é reconhecida pela ré como contrato formal, enquanto a autora nega seus termos.
+Dos emails trocados entre as partes, não é possível aferir se os termos da minuta são exatamente aqueles contratados.
+A autora, na inicial, confirma a existência do contrato, mas diz que a duplicata não é exigível, uma vez que não houve prestação de serviços.
+Curiosamente, em réplica, a autora nega inclusive a existência do contrato, o que soa absurdo, em face de suas alegações em petição inicial e também em vista da ocorrência de pagamento parcial dos serviços contratados, o que é reconhecido pela autora.
+Pois bem, se o contrato existe, a exigibilidade do pagamento da duplicata apenas depende da comprovação ou não da prestação de serviços.
+Isto porque, em se tratando de serviços consistentes em desenvolvimento de jogos, evidente que a entrega do material apenas ocorreria após o pagamento dos valores contratados. Não se trata, assim, de prestação de serviços que teria visualização prévia pela tomadora dos serviços, como ocorre, por exemplo, em construção civil. São serviços desenvolvidos dentro do estabelecimento comercial da ré e que o resultado apenas é conhecido com a entrega do material.
+Não se poderia exigir da ré que entregasse os jogos desenvolvidos, sem que houvesse o pagamento.
+Aliás, na minuta do contrato apresentado, bem como no email de fls.201, a ré chega a mencionar a emissão da duplicata, sem que houvesse resposta para tanto da autora.
+Diante deste quadro, a única prova pertinente para demonstrar a efetiva prestação de serviços seria a perícia técnica, no material digital produzido.
+Entretanto, dentre as provas pretendidas pela autora encontra-se a prova oral e a pericial contábil, esta para demonstrar os pagamentos realizados. 
+Ocorre que a colheita de depoimentos orais são meio inábil a demonstrar a prestação de serviços de desenvolvimento de jogos eletrônicos. Necessário que um técnico analise o material e assim indique para o Juízo se realmente houve a prestação de serviços.
+Esta prova não foi requerida e, assim, incabível a aceitação da tese da autora de que o pagamento é indevido. 
+Necessário ainda verificar que a autora não trouxe qualquer elemento documental acerca do contrato celebrado entre as partes, o que, inclusive é negado por ela em sede de réplica.
+Assim, uma vez ausente documentação que traga um indício de veracidade sobre sua tese (já que a autora nega a validade da minuta apresentada pela ré), incabível a aceitação de colheita de prova exclusivamente oral para demonstração de seus argumentos, tendo em vista o valor do contrato celebrado, de acordo com a lei adjetiva vigente.
+Finalmente, ainda em relação às provas requeridas pela autora, mostra-se de todo impertinente o pedido para produção de perícia contábil para o fim de aferir os pagamentos e detalhes da contabilização do negócio jurídico. Isto porque os pagamentos efetuados são incontroversos. O que se mostra controvertidos são os termos do contrato e isto a perícia contábil não poderia desvendar.
+Em síntese, o que se infere dos autos é a controvérsia sobre o contrato e sobre a prestação de serviços.
+E, em relação à prestação de serviços, apenas a perícia técnica de engenharia eletrônica seria meio hábil a comprovar a prestação. Não sendo requerida esta prova, prejudicada a demonstração do fato.
+E, em relação aos termos contratuais, a autora não traz qualquer elemento documental que indique seus termos, sendo inviável a aceitação da prova exclusivamente oral, em face do valor do contrato.
+Desta forma, não tendo a autora demonstrado que a duplicata  é inexigível, o que lhe competia, a ação principal é improcedente.
+Resta a análise da reconvenção.
+Em referida ação acessória, não contestada tempestivamente, de acordo com certidão cartorária de fls.544, busca o réu reconvinte a condenação da autora reconvinda ao pagamento do valor expresso na duplica.
+Uma vez que o título é hígido, conforme fundamentação trazida no bojo desta sentença, cabe à autora efetuar o pagamento dos valores nele expressos.
+Diante do exposto, julgo IMPROCEDENTE a ação principal, nos termos do artigo 269, I, do CPC e julgo PROCEDENTE a reconvenção para condenar a autora a pagar à ré a quantia de R$612.318,13, monetariamente corrigida a partir do vencimento do título, de acordo com a Tabela Prática do Tribunal de Justiça. Juros moratórios de 1% ao mês a partir da citação.  
+Em virtude da sucumbência, a autora arcará com as custas processuais e honorários advocatícios da parte adversa que arbitro em 15% da condenação.
+Nos termos da Lei n.º 11.608/03, o valor do preparo para eventual interposição de recurso importa em R$12246,36.
+Oficie-se ao TJ, comunicando o sentenciamento do feito. Libere-se a caução.
+P.R.I.C.
+São Paulo, 15 de janeiro de 2014.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

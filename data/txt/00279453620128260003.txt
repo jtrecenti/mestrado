@@ -1,0 +1,40 @@
+
+
+SENTENÇA
+
+Processo nº:0027945-36.2012.8.26.0003
+Classe - AssuntoProcedimento Ordinário - Perdas e Danos
+Requerente:Tanino Importadora e Comércio Ltda.
+Requerido:Serasa S.A.
+
+
+
+
+
+Vistos, etc.
+TANINO IMPORTADORA E COMÉRCIO LTDA move AÇÃO DECLARATÓRIA, C.C. OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MORAIS e PEDIDO LIMINAR em face de SERASA S.A., alegando, em síntese, que advogado telefonou indagando de negativação na SERASA do nome de sua cliente, informando que desconhecia dívida, indicando ele empresa de cobrança e telefone desta, e por lhe ser estranha e nunca ter firmado contrato com a ré, contatou-a em 04/10 que lhe forneceu login e senha, e acessando os sistemas constatou que o débito da cliente do advogado havia sido baixado em 05/10, e que existia mais de 1.600 apontamentos em nome de terceiras pessoas, sendo que em 10/10 a senha foi novamente alterada por desconhecidos,  passando a receber pessoas reclamando e ameaçando, bem como convocações do Procon, suportando danos, ficando a situação fora de controle pela fraude praticada pela fragilidade dos sistemas da ré, a qual também enviou boleto de cobrança de serviços no valor de R$ 7.577,31, motivos pelos quais e com fundamento na CF e CC requereu declaração de cancelamento da ?conta? junto a ré e do valor cobrado, bem como exclusão dos apontamentos em nome de terceiros com comunicação a eles, e ainda indenização por danos materiais com eventuais demandas judiciais ou administrativas, e indenização por danos morais.
+A ré contestou (fls.107/122) alegando, em síntese, que no dia 03/09/2012 recepcionou pedido eletrônico de contrato de prestação de serviços -PME PREMIUM-, conferindo os dados e disponibilizando login e senha, depois emitindo fatura de prestação de serviços, e se equívoco houve também é vítima, sendo que a autora solicitou em 08/10 seus logins ativos alegando falta de uso, e no dia 09/10 contatou novamente e outra senha lhe foi liberada, advindo cancelamento do contrato em 19/10, antes do ajuizamento da ação, sendo que no cancelamento do contrato todos os apontamentos são automaticamente baixados, estando a situação solucionada; discorreu sobre sua atividade; negou prática de ato ilícito e que tenha causado danos; e, requereu a improcedência.
+Réplica a fls.166/171, aduzindo a autora que o contato em 09/10 foi efetuado pelo fraudador, sendo que o telefone informado é utilizado por empresas de cobranças que contam com reclamações de golpes idênticos.
+É o relatório. DECIDO.
+Julgo nos termos do CPC, artigo 330, I.
+Admitiu a SERASA ter sido contratada por meio eletrônico. Empresa que disponibiliza meio eletrônico para contratação de seus serviços assume o risco de fraudes praticadas por terceiros que utilizam de dados falsos ou obtidos ilicitamente.
+No caso a conclusão é de que os dados da autora foram utilizados ilicitamente na contratação junto a SERASA, uma vez que cabia a esta apresentar já com a contestação, o momento processual próprio (CPC, artigo 396 e 297), todos os elementos do contato eletrônico para provar que recepcionava pedido de contratação formulado por pessoa jurídica legitimamente representada.
+Todavia, limitou-se a SERASA a apresentar a tela por reprodução a fls.109 da contestação, deixando de fazê-lo em relação a todos os demais dados transmitidos pelo solicitante da contratação, especialmente número de telefone e demais dados de identificação, corroborando não só a fraude como também conduta culposa de seus prepostos, os quais descuraram na prática de bem aferir a idoneidade da solicitação e do solicitante.
+Nesse contexto, nulo é o contrato de prestação de serviços ?PME PREMIUM- em relação à ré, razão que acolho para todos os efeitos legais o pedido declaratório de inexistência de relação jurídico-contratual inserto no pedido de cancelamento que já efetivou a própria SERASA, inclusive em relação aos terceiros objeto de apontamentos, e em decorrência também o pedido de inexigibilidade da cobrança de R$ 7.577,31 (fls.41).
+Acolho ainda o pedido de obrigação de fazer consistente na comunicação pela SERASA do cancelamento de apontamento a todos os terceiros a quem expediu comunicação do CDC, artigo 43, § 2º, sob pena de multa a ser fixada em eventual execução de astreintes.
+Responde ainda a ré perante a autora quanto a resultados danosos que esta tenha experimentado, consoante os termos do CC, artigos 186 e 927.
+Rejeito, entrementes, o pedido de indenização material por ausentes elementos de prova de gastos administrativos ou judiciais em relação a terceiros negativados, situando-se na seara do subjetivo o pedido futuro, mormente porque alguma prova necessariamente documental já deveria ter produzido.
+E provando a autora ter sido acionada por advogado de terceira pessoa e também convocada pelo Procon em face dos apontamentos fraudulentamente obtidos em seu nome, reconheço tenha experimentado reflexo subjetivo negativo caracterizador de dano moral à honra como pessoa jurídica, e acolho o pedido de indenização por dano moral.
+Vários têm sido os critérios de arbitramento da indenização por dano moral, e no caso presente, consideradas as circunstâncias e consequências, bem como os princípios da razoabilidade e proporcionalidade, e atento à vedação de enriquecimento via ação, considerando ainda o boleto de cobrança, reputo adequado valor de R$ 15.000,00, atualizado pela tabela de débitos judiciais desta data em diante, acrescendo-se juros de mora de 1% a.m., contados da citação.
+Arcará a ré por inteiro com as verbas de sucumbência ante rejeição mínima do pedido.
+
+Ante o exposto, JULGO PROCEDENTE EM PARTE a AÇÃO e declaro inexistente relação jurídico-contratual entre as partes quanto ao contrato eletrônico PME-PREMIUM; declaro inexigível a cobrança de R$ 7.577,31; CONDENO a SERASA na obrigação de fazer consistente em comunicar cancelamento do apontamento a todos os terceiros que comunicou a negativação, sob pena de multa a ser fixada em eventual execução de sentença; CONDENO a ré a pagar indenização por dano moral no valor de R$ 15.000,00, atualizado pela tabela de débitos judiciais desta data em diante, acrescendo-se juros de mora de 1% a.m., contados da citação; rejeito o pedido de indenização material; e, condeno a ré nas custas, despesas processuais, e honorários advocatícios de 15% sobre o valor da condenação.
+Transitando em julgado e decorrendo o prazo de 15 dias para pagamento voluntário da condenação, observe o credor o disposto no CPC, art. 475-J, acrescido pela Lei 11.232, de 22/12/2005; nada sendo requerido em 06 meses ao arquivo nos termos do artigo 475-J, § 5º.
+         
+P.R.I.
+
+São Paulo, 29 de janeiro de 2013
+
+JOSÉ WAGNER DE OLIVEIRA MELATTO PEIXOTO
+                          JUIZ DE DIREITO
+                  (assinatura eletrônica)

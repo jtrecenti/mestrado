@@ -1,0 +1,71 @@
+
+
+SENTENÇA
+
+Processo nº:0177741-04.2012.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Defeito, nulidade ou anulação
+Requerente:Sabina Lowenthal
+Requerido:Claro S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Rodrigo Faccio da Silveira
+
+1. Sob o procedimento ordinário, a demandante SABINA LOWENTHAL deduz o pedido de declaração de inexigibilidade da obrigação de pagar o débito de R$ 23.434,89 para a sociedade demandada CLARO S.A. Ademais, a demandante deduz o pedido de condenação da demandada à obrigação de repetir o respectivo indébito e de condenação da demandada à obrigação de indenizar os respectivos danos morais, sob a alegação de que o valor cobrado na fatura referente ao mês de Maio/2012 (fls. 24-25) é abusivo e indevido. Embora tenha utilizado o celular para ligações e envio de mensagens durante viagem ao exterior, não houve a contratação de nenhum serviço de fluxo de dados internacional. Ademais, o uso de 754,298 MB, indicado na fatura, é bem inferior a 3 GB, quantidade disponível no plano contratado junto à demandada. Logo, não há excedente a ser cobrado. Juntou documentos (fls.21-229). 
+Houve a citação da demandada com apresentação da contestação de fls. 235-265, na qual houve a alegação de que os valores cobrados na fatura decorrem da utilização de serviços de ?roaming internacional?, não incluídos no plano contratado pela demandante e, portanto, tarifados de forma avulsa (R$ 36,00/MB), ressaltando-se que o aparelho celular utilizado, por dispor de tecnologia 3G, ativa automaticamente o acesso aos serviços de transferência de dados, sem contratação de qualquer plano de ?roaming internacional?. Pugnou pela improcedência da ação.
+Réplica a fls. 294-304. 
+Pronunciamento de fls. 308-309, que saneou o feito, com determinação de emenda à inicial (fls. 312-313), bem como deferiu a antecipação dos efeitos de parte da tutela. 
+Pronunciamento de fl. 318, que instou as partes a especificarem provas.
+Manifestação das partes, requerendo o julgamento antecipado da lide (fls. 322 e 324).
+Eis o relatório.
+
+2. Fundamentação (meritum causae).
+
+Restou incontroverso, nos autos, o fato de a demandante ter utilizado aparelho celular, com conexão 3G, fora do território nacional, por meio de plano mensal ? que incluía serviços de telefonia celular e de transmissão de dados (limitada a 3GB/mês) ? contratado junto à demandada.
+Incontroverso, ainda, a não contratação, pela demandante, de pacote de ?roaming internacional? disponibilizado pela empresa demandada.
+Também superada a controvérsia a respeito da ativação automática dos serviços de transmissão de dados. 
+Na réplica, a demandante reconhece que desconhecia os procedimentos de bloqueio/desbloqueio de acesso às conexões em aparelhos com tecnologia 3G, similares ao que ela usou durante a viagem:
+
+?Ora, a autora não sabia que o aparelho realiza acessos automáticos à internet, como afirmado pela ré, razão pela qual não viu motivo para se preocupar com essa questão antes de viajar. A autora também não sabia que é possível desabilitar esse acesso automático (até por desconhecê-lo!)? (fl.297).
+?A autora errou ao desconhecer o acesso automático de seu aparelho à internet, não tendo desabilitado essa função antes de viajar? (fl.298). 
+
+Ultrapassadas estas questões, demonstradas tanto a contratação dos serviços de transmissão de dados fora do território nacional, quanto o uso efetivo dos serviços pela demandante, a solução da lide passa a depender tão somente da análise acerca da legalidade das cobranças realizadas.
+Como bem esclarece a contestação, a demandante habilitou o serviço de ?roaming internacional? com os recursos do seu celular, que dispõe da tecnologia 3G, mas não contratou o pacote de ?roaming internacional?, disponibilizado pela demandada, que oferece descontos para utilização dos serviços.
+Assim procedendo, a demandante sujeitou-se às tarifas internacionais, cobradas de acordo com o serviço utilizado, o volume trafegado, enfim, com a quantidade de dados transmitidos.
+Como informado pela demandada, no ?roaminng internacional?, sem contratação de pacote, ?o uso de dados avulso é tarifado a R$36,00/MG, independente do destino do cliente e da tecnologia utilizada (GPRS, EDGE ou 3G)? (fl.244).
+Note-se que a aplicação da tarifação diferenciada, nos casos de ?roaming? (nacional ou internacional), ocorre em razão do uso dos serviços fora da área de registro da linha telefônica:
+ 
+?Assim, o serviço utilizado fora da área de cobertura da requerida, com utilização de conexão 3G sem contratação do plano de roaming internacional, foi cobrado na tarifa cheia, integralmente, de acordo com as tarifas da operadora prestadora de serviços de telefonia móvel na localidade visitada.? (fl.251).     
+  
+ A respeito do volume de tráfego registrado na fatura, apontado como excessivo pela demandante, a empresa demandada esclarece que, nos casos de conexão com aparelhos 3G:
+ 
+?(...) a sua utilização de forma inadequada ou inadvertida pode gerar gastos elevados, pela simples má utilização do aparelho. Ocorre que, como é sabido de todos que possuem esses aparelhos que dão acesso à rede de internet, que ao ativar nas suas ferramentas a conexão, inicia-se o consumo de MB e, se após o uso não for desativado esta conexão, estará consumindo de forma ilimitada, mesmo que não esteja navegando e/ou acessando algum aplicativo que necessite de internet conectada. É exatamente isso que aconteceu com a autora.? (fl.247).
+
+Assim, a quantidade de dados transmitidos decorre da espécie de aparelho de telefonia da demandante, aparelho esse que possui inúmeros aplicativos que são atualizados constantemente.
+
+
+
+Como demonstram as faturas juntadas aos autos (fls.22-224), a demandante manteve-se conectada, praticamente, de forma ininterrupta durante a viagem, sendo o fluxo de dados constante, com registro de data, serviço utilizado, localidade, operadora e volume de tráfego. 
+A alegação de que os serviços prestados, em ?roaming internacional?, estariam incluídos no plano contratado junto à demandada também não merece acolhida.
+ Ora, não é crível que o pacote (?Plano Claro Combo 600 min/3GB- promoção?), contratado para uso em território nacional abrangesse acesso à telefonia celular e transmissão de dados em outros países, como os visitados pela demandante. 
+A diferença nas tarifas, nos casos de ?roaming?, é notória. A própria demandante, aliás, reconhece a existência de diferença nas tarifas, como explicita a fl. 07: 
+
+?Obviamente a cobrança da ré, pelo que se pode perceber da fatura enviada, é devida ao fato de os dados terem sido utilizados no exterior, já que há diferenciação de cobrança na conta, o que, no entanto, não a torna regular? (grifo meu). 
+
+ Vale ressaltar que, no ?roaming internacional?, a tarifação diferenciada decorre dos repasses feitos ao cliente, pela operadora original (no caso, pela ?Claro?), em razão dos valores cobrados pelas operadoras locais para disponibilização dos serviços.
+Também não pode prosperar a alegação de que a empresa demandada não divulga e/ou não disponibiliza informações a respeito da diferença tarifária nos casos de ?roaming internacional?, vez que, como este magistrado pôde observar, a página da empresa na rede mundial de computadores traz ? de forma bastante acessível e com boa visibilidade ? uma série de explicações sobre ?roaming internacional?, cálculos das diferenças tarifárias e ofertas de pacotes.
+Em suma, trata-se de cobrança lícita por serviços de telefonia celular e de transmissão de dados efetivamente contratados e utilizados.
+Eis os fundamentos da improcedência do pedido. 
+
+3. Conclusão.
+
+Sob o fundamento do art. 269, inc. I, do Código de Processo Civil, há a improcedência dos pedidos da demandante SABINA LOWENTHAL, com extinção da 1ª fase do processo, em 1º grau de jurisdição, com o julgamento do mérito. 
+Ademais, nos termos da presente sentença, é indispensável a ineficácia do pronunciamento de fls. 308-309 quanto à tutela de urgência.
+De mais a mais, a demandante, sucumbente, pagará as custas processuais e os honorários advocatícios do(s) patrono(s) da demandada, que arbitro pelo art. 20, §§ 3º e 4º, do Código de Processo Civil, em R$ 1.000,00 (mil reais), corrigidos monetariamente desde a presente data e acrescidos de juros a partir do trânsito em julgado da sentença. 
+
+4. Registre-se a sentença.
+
+5. Intime(m)-se.
+
+São Paulo, 26 de abril de 2013.

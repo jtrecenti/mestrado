@@ -1,0 +1,132 @@
+
+
+SENTENÇA
+
+Processo nº:0003269-87.2013.8.26.0100
+Classe - AssuntoProcedimento Sumário - Obrigação de Fazer / Não Fazer
+Requerente:BRA Fomento Mercantil LTDA
+Requerido:Telefônica Brasil S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Marcelo Augusto Oliveira
+
+
+
+
+
+
+
+Vistos.
+
+BRA FOMENTO MERCANTIL LTDA. move a presente ação de obrigação de fazer c/c indenização por danos materiais e morais em face de TELEFÔNICA BRASIL S/A, alegando, em síntese, que a requerida lhe presta serviços de telefonia por meio do tronco de número (11) 3404-9090, com dez linhas. As referidas linhas eram operadas pela empresa Embratel, mas foram transferidas à requerida por meio da portabilidade no início de dezembro de 2012. Ocorre que em 04/12/12 teve seus serviços de telefonia totalmente interrompidos. Mesmo após inúmeros contatos com a requerida, o problema persiste. Afirma estar sofrendo prejuízos com a paralização do serviço, pois o local é uma empresa e precisa das linhas em funcionamento para o contato com os clientes. Em vista da urgência, pleiteou liminar para que a requerida fosse obrigada a restabelecer o serviço. Aduz que os danos materiais devem ser liquidados posteriormente, pois necessário será apurar quantos e quais negócios foram prejudicados. Ao final, pediu a procedência da ação, para que seja confirmada a liminar e condenada a requerida ao pagamento de indenização pelos danos morais suportados no importe de R$ 20.000,00 e pelos danos materiais.
+
+Às fls. 74 foi deferida a liminar pleiteada, fixando-se multa diária de R$ 500,00 para a hipótese de inadimplemento. A requerida interpôs recurso de agravo de instrumento contra tal decisão (fls. 83/93), que teve o provimento negado (fls. 217/225).
+
+A requerida ofertou contestação às fls. 96/110, sustentando a inaplicabilidade do Código de Defesa do Consumidor e ausência dos requisitos para se estabelecer a inversão do ônus da prova. Aduz que sua responsabilidade só vai ate o Ponto de Terminação de Rede, o ?poste?, sendo a instalação e manutenção da rede interna encargo da autora. Argumenta que não há qualquer problema na rede externa na região da autora, pendendo de verificação técnica a falha apontada. Acrescenta que o serviço Speedy está condicionado à disponibilidade técnica no local e que as cobranças foram efetuadas de forma regular. Apontando a necessidade de comprovação do dano material e a inexistência de dano moral, pede a improcedência da ação.
+
+Às fls. 122/125 a requerida aditou a contestação, apontando preliminar de ilegitimidade passiva, vez que não consegue instalar os serviços por indisponibilidade técnica do suporte da Embratel. 
+
+Réplica às fls. 139/144, ratificando a autora os termos da inicial e esclarecendo não serem objeto da ação serviço de Speedy, cobranças indevidas e negativação de seu nome.
+
+Sobre o aditamento, manifestou-se a autora às fls. 148/151, afastando a alegação de ilegitimidade passiva e reiterando a necessidade do restabelecimento de sua antiga linha de número 3404-9090.
+
+Facultada a especificação de provas e questionadas quanto ao interesse na designação de audiência de conciliação (fls. 146), as partes se manifestaram às fls. 157 e 166/167.
+
+Às fls. 236/238 a autora informa que a linha telefônica voltou a funcionar apenas em 14/06/2013.
+
+É o relatório.
+
+Fundamento e decido.
+
+Não havendo necessidade de produção probatória, utilizo-me da faculdade contida no art. 330, inc. I, do Código de Processo Civil, para julgar antecipadamente a lide.
+
+Afasto a preliminar de ilegitimidade passiva arguida.
+
+Os documentos juntados às fls. 31/33 demonstram que por meio de portabilidade a requerida passou a prestar serviços à autora, o que foi confirmado em sede de contestação.
+
+Em decorrência disso, a partir de 04/12/2012 passou a figurar a Telefônica como responsável pelos serviços de telefonia prestados à autora, possuindo, portanto, legitimidade para figurar no polo passivo da ação.
+
+Em verdade, pretende ela se eximir da responsabilidade lançando a alegação de culpa exclusiva de terceiro, o que é matéria de mérito e, como tal, oportunamente será apreciada.
+
+No mérito, a ação é parcialmente procedente.
+
+Inicialmente cabe destacar que a relação travada entre as partes é tipicamente de consumo, e por isso tem incidência o Código de Defesa do Consumidor.
+
+A melhor interpretação ao artigo 2º, caput, do Código de Defesa do Consumidor impõe a aplicação do diploma legal em favor das pessoas jurídicas quando destinatárias finais do produto ou serviço, contanto verificada sua vulnerabilidade diante do fornecedor. 
+
+A propósito, confira-se o seguinte julgado do Colendo Superior Tribunal de Justiça:
+
+?PROCESSUAL CIVIL. SOCIEDADE ESTRANGEIRA SEM IMÓVEIS, MAS COM FILIAL NO PAÍS. DESNECESSIDADE DE CAUÇÃO PARA LITIGAR EM JUÍZO. MITIGAÇÃO DA EXIGÊNCIA LEGAL. CÓDIGO DE DEFESA DO CONSUMIDOR. PESSOA JURÍDICA. TEORIA FINALISTA. (...) A jurisprudência desta Corte, no tocante à matéria relativa ao consumidor, tem mitigado os rigores da teoria finalista para autorizar a incidência do Código de Defesa do Consumidor nas hipóteses em que a parte (pessoa física ou jurídica), embora não seja tecnicamente a destinatária final do produto ou serviço, se apresenta em situação de vulnerabilidade? (REsp 1027165/ES, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 07/06/2011, DJe 14/06/2011).
+
+Evidentemente a requerida constitui-se como fornecedora, uma vez que se organiza empresarialmente para a prestação de serviços de telefonia no mercado de consumo, em consonância ao artigo 3º, caput, do mesmo diploma legal. 
+
+Por conta do porte da autora e do seu objeto social, mostra-se incontestável o cabimento da apreciação do pedido à luz dos preceitos e princípios do Código de Defesa do Consumidor.
+
+Destarte, nos termos do artigo 6º, inciso VIII, do Código de Defesa do Consumidor, é o caso de inverter-se o ônus da prova. 
+
+A autora alega que sofreu prejuízos de ordem material e moral ao ter os serviços de telefonia prestados pela requerida injustificadamente paralisados.
+
+Com relação à pretensão de indenização por danos materiais, mostra-se indevida a pretensão.
+
+Em que pese a responsabilidade objetiva da requerida em decorrência da prestação dos serviços de telefonia, a mera estimativa de danos materiais, sem qualquer prova de sua ocorrência, representa ausência de demonstração do an debeatur.
+
+Sem a discriminação oportuna de quais negócios foram perdidos, quando e com quem, não há como se apurar o quantum debeatur.
+
+Nesse sentido:
+
+?Ação ordinária de indenização precedida de medida cautelar. Acordo celebrado na ação cautelar que, por seus próprios termos não significa influência no conteúdo da lide principal. Sentença que homologa o acordo e extingue as ações cautelar e principal com base no artigo 269 , III , do CPC . Equívoco evidente que permite ao Tribunal conhecer dos temas debatidos na ação principal, por força do disposto no artigo 515 , § 2º , do CPC .Ação ordinária de indenização. Cessão de área para exploração publicitária. Ausência de consentimento da antiga titular de domínio no imóvel. Restrição que persistiu após a alienação do domínio para terceiro. Cessionária da área que não observou as restrições que pendiam sobre a área alienada. Conflito de interesses entre a antiga alienante da área e o uso pretendido pela cessionária. Perícia realizada que era desnecessária. Ausência de demonstração do an debeatur que não justificaria apuração de eventual quantum debeatur. Ação ordinária de indenização. Pretensão de recebimento por danos causados pela cessionária da área. Ausência de cláusula penal na escritura de venda realizada. Ausência total de comprovação dos danos sofridos. Verba honorária corretamente fixada, pelo decaimento recíproco. Apelos improvidos.? (APL n.º 9151761522005826 SP 9151761-52.2005.8.26.0000, TJ-SP, data de publicação: 23/09/2011)
+
+?RESPONSABILIDADE CIVIL - ACIDENTE DE TRÂNSITO - MOTORISTA QUE SE DEPARA COM ANIMAL SOBRE A PISTA E ACABA POR INVADIR SUA CONTRAMÃO DE DIREÇÃO - CHOQUE COM MOTOCICLETA QUE SE MOVIMENTAVA EM SENTIDO INVERSO - ESTADO DE NECESSIDADE QUE NÃO ELIDE A RESPONSABILIDADE CIVIL PERANTE A VÍTIMA - DANOS MATERIAIS NÃO COMPROVADOS - NÃO DEMONSTRAÇÃO DO AN DEBEATUR - PEDIDO GENÉRICO - INDENIZAÇÃO RELATIVA AO ABALO MORAL DEVIDA - DENUNCIAÇÃO DA LIDE À SEGURADORA - RESPONSABILIDADE LIMITADA À APÓLICE - DANOS MORAIS INCLUSOS NOS PESSOAIS - MAJORAÇÃO DO QUANTUM - HONORÁRIOS ADVOCATÍCIOS SUPORTADOS PELA SEGURADORA - RECURSO DA LITISDENUNCIADA DESPROVIDO - RECURSO ADESIVO DO AUTOR PARCIALMENTE PROVIDO 1. O estado de necessidade não elide a responsabilidade civil do ofensor, restando a este o direito de regresso contra o eventual causador do perigo. 2. "A condenação em dano material exige comprovação dos prejuízos. O autor que não apresenta prova e não especifica o pedido a título de dano material, não pode fazer jus à indenização, já que o artigo 286 do CPC, exige pedido certo e determinado"(AC n.º , Des. Sérgio Roberto Baasch Luz). 3."A apólice de seguro que cobre indenização por danos pessoais garante a cobertura por danos morais, porquanto este é uma espécie daquele gênero. Assim, a seguradora é responsável pelo pagamento da indenização por danos morais, desde que obedecido o limite fixado na apólice" (AC n.º 7636 SC 2001.000763-6, Desª Salete Silva Sommariva TJ-SC, data de publicação: 15/04/2005)
+
+No que toca à existência de danos morais, razão assiste à autora.
+
+Forçoso concluir que a responsabilidade pelo dano é de fato da requerida.
+
+Assim dispõe o art. 14, caput, do Código de Defesa do Consumidor:
+
+?Art. 14 - O fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos.?
+
+Caberia à requerida, prestadora do serviço, tão-somente a prova da existência das causas excludentes - responsabilidade exclusiva do consumidor ou de terceiro e vícios originados de caso fortuito ou força maior, o que não fez. 
+
+Restringiu-se ela, entretanto, a tecer genéricas alegações de que a indisponibilidade técnica deve ser imputada à Embratel. Não trouxe aos autos prova hábil a justificar, em última análise, a demora no restabelecimento dos serviços, o que era indubitavelmente seu ônus fazer.
+
+Em consequência, forçoso concluir que não havia qualquer razão para que a requerida suspendesse os serviços de telefonia. 
+
+É indiscutível que o comportamento da requerida trouxe à autora inúmeros transtornos. Ficou ela incomunicável com seus clientes, tendo que por inúmeras vezes contatar a requerida objetivando o restabelecimento do serviço. 
+
+Os funcionários da autora tiveram de dedicar boa parte de seu tempo de trabalho tentando solucionar o problema havido, que não foi por ela causado, sem qualquer sucesso.
+
+As operadoras de telefonia colocam à disposição do consumidor, para solução de problemas, os conhecidos serviços de telemarketing, de duvidosa eficácia. Não é raro se exigir do consumidor que passe por várias e cansativas etapas de atendimento, para ao final não se chegar a resultado algum.
+
+Esse sistema certamente traz benefícios às operadoras, que ficam livres de arcar com os altos custos de uma loja física, que seria o ideal para solução dos problemas causados aos consumidores.
+
+Se o consumidor, mesmo depois de cumprir, muitas vezes de forma até heroica, todo caminho para chegar até o atendente, não tem seu pedido recebido e observado, como ocorreu no caso vertente, deve a operadora reparar por todo este tempo que fez o consumidor despender, e consequentemente todo dissabor que foi a ele injustamente imposto.
+
+Tem, assim, a autora, inegável direito à indenização por danos morais pretendida.
+
+A propósito, confira-se recente julgado do Tribunal de Justiça de São Paulo:
+
+?INDENIZAÇÃO. Cartão de crédito. Lançamento de débitos indevidos por aproximadamente quatro meses. Insegurança. Diversos contatos feitos pelo consumidor para solução do problema. Indenização pela perda do tempo livre. Dano moral caracterizado. Condição pessoal das partes. Indenização que deve buscar compensação e também reprimenda. Gravidade da falha. Majoração da indenização.? (Apelação com Revisão nº 0003212-75.2012.8.26.0368, 23ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo, Relator o Desembargador Sá Moreira de Oliveira, julgado em 10 de abril de 2013)
+
+Na falta de previsão legal, por equidade fixo a reparação dos danos morais em R$ 8.000,00, o que bem ressarcirá a autora pelo padecimento sofrido. 
+
+Por fim, ressalto que a autora deverá requerer de forma autônoma a execução da multa diária imposta às fls. 74, em razão do cumprimento tardio da obrigação.
+
+O pedido inicial, pois, merece parcial acolhida.
+
+Posto isso, JULGO PARCIALMENTE PROCEDENTE esta ação, para o exato fim de condenar a requerida ao pagamento de R$ 8.000,00 à autora, a título de reparação de danos morais, com correção monetária a partir da presente data ? aplicação da Súmula 362 do STJ, incidindo ainda juros de mora de 1% ao mês, a contar da citação.
+
+Em razão da sucumbência recíproca, cada parte irá arcar com metade das custas e despesas processuais, e com os honorários de seu patrono.
+
+  P.R.I.C.
+
+São Paulo, 17 de dezembro de 2013.
+
+
+MARCELO AUGUSTO OLIVEIRA
+      Juiz de Direito 
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

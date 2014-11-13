@@ -1,0 +1,71 @@
+
+
+SENTENÇA
+
+Processo nº:0023106-50.2012.8.26.0008
+Classe ? Assunto:Procedimento Sumário - Defeito, nulidade ou anulação 
+Requerente:Luiz Teixeira Colangelo
+Requerido:ELETROPAULO METROPOLITANA  ELETRICIDADE DE SÃO PAULO S/A
+Prioridade Idoso
+
+
+
+Juiz(a) de Direito: Dr(a). Antonio Manssur Filho
+
+
+Vistos.
+
+Luiz Teixeira Colangelo ajuizou ação com pedido de declaração de inexistência e nulidade de débito, cumulado com indenização por danos materiais e morais, contra AES Eletropaulo Metropolitana Eletricidade de São Paulo S/A., alegando, em síntese, que em fevereiro de 2012 foi surpreendido pela vistoria da ré para substituição do relógio medidor, anotando que foi constatada suposta irregularidade de consumo. Que em 26/10/2012 foi surpreendido com a suspensão de consumo, ocasião em que se dirigiu à ré, onde foi coagido a firmar termo de confissão de dívida, no importe de R$ 4.725,52, mantendo o pagamento de suas parcelas. Discorreu sobre os fatos e direito que entendeu aplicável. Negando qualquer fraude no consumo, pleiteou a declaração de inexigibilidade da dívida, a devolução dos valores pagos e referidos à confissão de dívida e indenização por danos morais, estimados em R$ 4.725,52. Houve pedido de antecipação de tutela. Juntou documentos, (fls. 02/91).
+
+O pedido de antecipação de tutela foi indeferido, (fls. 92).
+
+Citada, a ré apresentou contestação, sem defesas preliminares. No mérito, sustentou a correção de sua conduta e informou que o autor não obteve sucesso em sede administrativa. Impugnou as pretensões indenizatórias, (fls. 100/117, com documentos).
+
+Houve réplica, (fls. 129/136).
+
+Saneador a fls. 137, com fixação de ponto controvertido e deferimento, exclusivamente, de prova técnica de engenharia.
+
+Laudo encartado a fls. 225/310, submetido a regular contraditório.
+ 
+Este o relatório do essencial, passo a fundamentar e a decidir.
+
+ A ação procede em mínima parte.
+
+Com efeito, pese a falta de apresentação do relógio medidor para a realização de perícia direta, o estudo realizado demonstrou, por meio de elementos indiretos, a ocorrência de registro irreal de consumo antes da substituição do relógio medidor.
+
+Neste particular, pouco importa ao feito qualquer enfrentamento acerca das causas da irregularidade de apuração, (se decorrente de fraude, crime, manipulação indevida, ou defeito), ao passo que a conservação do relógio medidor é de responsabilidade exclusiva do consumidor.
+
+Diante destes elementos, o bem elaborado estudo pericial fez anotar, inicialmente, que as fotografias da ocorrência, apesar de não possibilitarem a aferição de violação na caixa de medição e, tampouco, de rebaixamento do mancal do disco, indicaram indícios de violação nos lacres da tampa de vidro do medidor.
+
+Além do fato supra mencionado, a análise dos consumos anteriores à substituição do relógio demonstraram expressivo aumento do consumo de energia elétrica, indicando, sobremaneira, ''degrau de consumo'' bastante a configurar a irregularidade no período anterior à substituição.
+
+É do estudo pericial que antes da substituição do relógio medidor, a média de consumo estabelecia-se em 198 KW/h e que, ao depois, a média de consumo subiu, exponencialmente, para 498 KW/h, mantendo-se constante, a partir de então.
+
+Absoluto, pois, que a substituição do relógio regularizou a situação de registro irreal de energia elétrica. Evidenciada a hipótese, a suspensão de fornecimento de energia elétrica está devidamente prevista pelo art. 6o, par. 3o, inc. II, da Lei 8.987/95 que, ressalte-se, em nada ofende as disposições consumeristas. 
+
+ Com efeito, o art. 22 do CDC não afasta a incidência do indigitado dispositivo legal supra citado, uma vez que a fraude ou falta de pagamento pelos serviços de fornecimento de energia elétrica pode acarretar colapso no sistema e, assim, afetar a sua continuidade, por conseguinte, óbvio que a extensão e alcance do art. 22, CDC não tem o condão de albergar a possibilidade de instituição de um verdadeiro salvo conduto, em flagrante inversão de valores. 
+
+ Por estas razões, fica rejeitada a impugnação ao laudo aportada pelo autor.
+
+Nestes moldes, revelou-se absolutamente correta a conduta da ré, assistindo-lhe o direito de recuperar, na forma dos normativos específicos, (Res. ANEEL 456/00, arts. 72 e 73 e Res ANEEL 414/2010), a energia consumida e não registrada.
+
+Todavia, pequena parte da pretensão deve ser albergada, pois, malgrado a ré ter adotado média de consumo inferior, (464 Kw/h), àquela que poderia utilizar, (479 Kw/h), sem embargo de que a capacidade de potencial de consumo da unidade em questão, conforme indicado pela perícia é de 725,27 Kw/h, tudo em benefício do consumidor, os cálculos realizados para recuperação do consumo não podem ser acolhidos.
+
+Isto porque, a ré não demonstrou como chegou ao importe indicado na confissão de dívida, acolhendo-se, pois, os cálculos trazidos pela perícia, neste ponto não impugnados pela ré, que, de forma clara, (fls. 257), explicitou que a ré não considerou os valores faturados no período para a formação do valor devido.
+
+
+Com efeito, para o total de 11.131,74 Kw/h de consumo previsto devem ser abatidos 4.985,00 Kw/h faturados, remanescendo o saldo de 6.146,74 Kw/h a recuperar, (fls. 257).
+
+E referida quantidade de Kw/h corresponde, segundo a tarifa da época, ao importe de R$ 2.613,59, conforme quadro de fls. 258.
+
+Por conseguinte, o valor da confissão de dívida deve ser reduzido para o importe de R$ 2.613,59.
+
+Ante o exposto, julgo parcialmente procedente a ação, o que faço, apenas, para fixar o valor do débito em R$ 2.613,59, mantendo-se, no mais, os termos da confissão de dívida.
+
+Caso o autor tenha quitado valores a maior, a ré deverá promover a devolução, corrigida monetariamente desde o desembolso e com juros legais de 1% ao mês, contados da sentença, o que deverá ser realizado por meio de liquidação de sentença, por meros cálculos aritméticos referidos às eventuais provas de pagamento das parcelas.
+
+Maior a sucumbência do autor, condeno-o a 70% das custas e despesas processuais, além de honorários advocatícios, fixados, por equidade, em R$ 1.000,00, além de remuneração do assistente técnico da ré, que fixo em R$ 500,00, (art. 20, par. 2º, in fine, CPC), corrigidos da data da sentença.
+ 
+PRIC.
+
+São Paulo, 04 de fevereiro de 2014.

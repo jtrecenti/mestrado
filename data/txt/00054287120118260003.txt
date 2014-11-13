@@ -1,0 +1,48 @@
+
+
+SENTENÇA
+
+Processo nº:0005428-71.2011.8.26.0003
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Material
+Requerente:Microsoft Corporation
+Requerido:Maxicon Serviços Ltda
+
+
+
+
+
+
+CONCLUSÃO
+Em    18 de setembro de 2012, faço estes autos conclusos a(o) MM.(ª). Juiz(a) de Direito abaixo. Eu, _______, (Breno), escrev., subsc.
+Juiz(a) de Direito: Dr(a). Paulo Furtado de Oliveira Filho
+
+
+
+
+
+
+
+
+Vistos.
+A  autora alega o seguinte: a) é titular dos direitos de autor, relativos aos programas de computador (e respectivos manuais de usuário), discriminados nos Certificados de Registro de Direitos Autorais expedidos pelo Escritório de Direitos Autorais dos Estados Unidos da América; b) o art. 2º., da Lei de Software (Lei 9.609/98) dispõe que o regime de proteção à propriedade intelectual de programas de computador é o mesmo conferido às obras literárias; c) no Brasil, a Lei 9610/98, que protege os direitos autorais, estabelece que o autor tem direito exclusivo de utilizar, fruir e dispor da obra literária (e por consequência do programa de computador); d) para utilizar, reproduzir, editar e distribuir um programa de computador, o usuário deverá possuir autorização expressa do autor do software, de acordo com o art. 9º. da Lei 9.609/98, o que se dá pelo contrato de licença ou nota fiscal de aquisição ou licenciamento de cópia de software; e) a aquisição de uma ou mais cópias legítimas não confere ao usuário o direito de produzir novas cópias para a instalação em seus computadores sem a devida aquisição das demais licenças de uso, pois qualquer forma de utilização ou reprodução depende de autorização expressa do autor; f) a ré utilizou ilicitamente o programa de computador da autora, fazendo reproduções sem a devida licença, causando prejuízo.  Por isso, requer a autora a condenação da ré a cessar o uso indevido do programa de computador e ao pagamento de quantia correspondente a dez vezes o valor de cada programa encontrado.
+Por determinação de fls. 133, a autora emendou a petição inicial, a fls. 135/136, identificando os dois programas de computador que teriam sido indevidamente utilizados pela ré: a) duas licenças CAL, necessárias para legalizar o acesso dos computadores da rede ao servidor; b) um cópia não autorizada em CD-ROM do programa Windows 98 de titularidade da Autora.
+A ré foi citada e ofereceu contestação a fls. 177/198, alegando o seguinte: a)  não houve prestação da caução exigida pelo art. 835 do CPC; b)  a inicial é inepta por imprecisão na determinação da causa de pedir e da generalidade do pedido formulado;  c) ilegitimidade passiva; d) as licenças CAL mencionadas pela autora foram adquiridas e as notas fiscais comprovam tal aquisição; d) o CD cópia do Windows 98, objeto da apreensão nada tem de ilegal, pois consta da capa o número de licença e tratava-se apenas de um cópia para segurança (?backup?), o que tem amparo no art. 6º., da Lei 9609/98 e em cláusula do contrato de licença da autora; e) a autora deve ser condenada por litigância de má-fé.
+Houve réplica.  Determinei o apensamento da cautelar. Nela, foi realizada vistoria e busca e apreensão, tendo por objeto cópias de programas de computador de titularidade da autora. A diligência foi realizada em 8 de fevereiro de 2011, oportunidade em que os peritos judiciais examinaram todos os computadores da ré, para confirmar a reprodução e utilização ilegal de programas de computador da autora. Houve contestação e sentença.
+É o relatório.
+Não havendo necessidade da produção de outras provas, passo ao julgamento antecipado da lide.
+A caução não se mostra necessária, seja porque não exigida por lei especial que rege a matéria, ao tratar da busca e apreensão, seja porque a autora tem plenas condições de responder com seus bens no Brasil por eventuais verbas de sucumbência, o que afasta a incidência do art. 835 do CPC.
+Igualmente deve ser rejeitada a alegação de inépcia da petição inicial, que está claramente fundada na suposta violação ao direito da autora, decorrente do indevido uso de programa de computador pela ré, estando a pretensão amparada pela legislação que rege a matéria, não havendo necessidade de fixação do valor da indenização, sujeito a arbitramento judicial.
+Afasta-se também a alegação de ilegitimidade passiva porque, dos fatos narrados na inicial, pertinente a colocação da ré no pólo passivo, o que não significa ter-se como demonstrada a violação, mas apenas que a mera afirmação deste fato na inicial é o que basta para a ré ter legitimidade.
+No mérito, é incontroverso que a autora é titular de vários programas de computador, descritos na petição inicial da ação cautelar em apenso. Na vistoria realizada nas dependências da ré, o quadro era o seguinte (fls. 612 dos autos da cautelar): a) 1 programas Windows Server 2008 Standard Edition instalado e 1 licença de uso; b) 16 programas Windows XP Home Edition e 16 licenças de uso; c) 1 programa Windows XP Pro instalado e 1 licença de uso; d) 2 programas Windows 98 instalados e 7 licenças de uso; e) 2 programas e Ms Oficce Home & Student 2007 instalados e 3 licenças de uso. Portanto, todos os programas Windows instalados tinham  suporte em licenças de uso, não havendo conduta ilícita da ré.
+Quanto à localização de uma cópia do programa Windows 98, gravado em CD-ROM, trata-se de reprodução como ?salvaguarda ou armazenamento eletrônico?, com amparo no art. 6º., I, da Lei no. 9609/98. Ademais, ré detinha 7 licenças de uso do programa Windows 98 e usava apenas duas delas, o que mostra a lisura em seu comportamento e afasta o alegado uso ilegal da cópia.
+Com relação às duas licenças Cal   não  encontradas (o perito apontou que havia 17 instaladas e 15 licenças de uso ? fls. 612 da cautelar), realmente não há dúvida quanto à falta cometida pela autora, que deveria ter adquirido estas licenças.  O perito informou que é necessária uma licença para cada computador conectado ao servidor. Portanto, a ação é procedente apenas em parte, a fim de que a ré pague o valor das duas licenças CAL que deveria ter adquirido.
+Finalmente, não deve ser acolhida a pretensão da ré de condenação da autora por litigância de má-fé, pois a vistoria era a medida necessária para apurar a violação do seu direito, e, ademais, foi constada a falta de duas licenças.
+Pelo exposto, julgo procedente em parte a demanda para condenar a ré ao pagamento da quantia correspondente a duas licenças CAL, pelo preço da nota fiscal de fls. 620/621, com correção monetária e juros de mora desde então.  Os honorários são de 10%: a) do valor da condenação, devidos pelo réu; b) do valor correspondente à diferença entre o valor da causa atualizado, e o da condenação, devidos pela autora. As partes responderão pelas despesas do processo, de acordo com a medida da sua sucumbência, levando-se em conta o valor da causa atualizado e o valor da condenação.
+P.R.I.
+São Paulo, 18 de setembro de 2012.
+
+
+
+
+Paulo Furtado de Oliveira Filho
+                 Juiz de Direito

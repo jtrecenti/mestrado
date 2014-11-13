@@ -1,0 +1,44 @@
+
+
+SENTENÇA
+
+Processo nº:002.08.156145-5
+Classe - AssuntoEmbargos À Execução - Efeito Suspensivo / Impugnação / Embargos à Execução
+Requerente:Lucimar Gonzatto Franceschini e outro
+Requerido:Banco Nossa Caixa S/A
+
+
+
+Juiz(a) de Direito: Dr(a). Fábio Fresca
+
+
+LUCIMAR GONZATTO FRANCESCHINI e LUIZ ROBERTO DE OLIVEIRA opuseram embargos à execução em face de BANCO NOSSA CAIXA S.A., alegando, preliminares de: a) nulidade da execução e da penhora, ante a existência de ação de conhecimento (autos nº 200100009193) na qual se discute o valor cobrado, a forma de reajuste das prestações e do saldo devedor; e, b) conexão entre a execução e referida ação de conhecimento. No mérito sustentam, em apertada síntese, que em 28 de setembro de 1990 as partes firmaram Instrumento Particular de Compra, Venda, Mútuo e Hipoteca, de acordo com o Sistema Financeiro da Habitação, tendo por objeto a aquisição do imóvel situado à rua Barão de Melgaço, nº 106, 7º andar, apartamento 72. O preço seria financiado em 180 meses, de acordo com Plano de Equivalência Salarial de sua Categoria Profissional (PES/CP). O reajuste das parcelas e do saldo devedor está equivocado, porque seguiu o índice de remuneração básica das cadernetas de poupança, (TR). Atribuem o inadimplemento das parcelas do financiamento ao reajuste pelo referido índice, que é incompatível com os reajustes de sua categoria profissional. Entendem que a utilização da TR é ilegal, ... uma vez que reflete variações de juros dos CDB's. Postulam a extinção da execução hipotecária. Acompanharam os documentos (fls. 22/165).
+Os embargos foram recebidos sem o efeito suspensivo (fls. 195).
+O réu ofereceu impugnação (fls. 206/219), sustentando, em apertada síntese, sustentando que o contrato firmado entre as partes previu a correção do saldo devedor pela Taxa Referencial, (TR). Sustenta a legalidade do reajuste do saldo devedor pela TR, porque referido índice reflete a variação da remuneração das cadernetas de poupança, recursos esses utilizados na concessão do financiamento imobiliário.
+É o Relatório. 
+
+DECIDO.
+
+Afasto a preliminar de nulidade da execução e da penhora, porque a ação de conhecimento proposta pelo embargante é autônoma, tramita pela via própria e não suspende a execução, em obediência ao disposto nos artigos 585 parágrafo primeiro e 574, ambos do Cód. de Proc. Civil: 
+585 parágrafo primeiro: A propositura de qualquer ação relativa ao débito constante do título executivo não inibe o credor de promover-lhe a execução. 
+Art. 574. O credor ressarcirá ao devedor os danos que este sofreu, quando a sentença, passada em julgado, declarar inexistente, no todo ou em parte, a obrigação, que deu lugar à execução.
+Neste sentido: 
+EXECUÇÃO - Suspensão - Desacolhimento - Ação de conhecimento proposta pelos apelantes é autônoma, tramita por via própria, e não suspende a execução movida pelo apelado - Exegese dos arts. 574 e 585 do CPC - Recurso não provido neste aspecto (TJSP; 17ª Cam. Direito Privado; Apelação nº 70281226; Rel. Des. Carlos Luiz Bianco). 
+Afasto igualmente a preliminar de conexão, porque a ação declaratória ajuizada pelo embargado já foi julgada em primeiro grau (vide primeiro parágrafo embargos, fls. 3), nos termos da Súmula 235 do Superior Tribunal de Justiça:
+ A conexão não determina a reunião dos processos, se um deles já foi julgado.
+A existência de apelação, pendente de julgamento naqueles autos, é irrelevante, porque a conexão só obriga a reunião de processos na primeira instância.  Neste sentido:
+PROCESSUAL CIVIL. POSSESSÓRIA. CONEXÃO. Não há conexão, que poderia determinar a reunião dos processos, se um deles já se acha julgado, sem relevo a circunstância de haver apelação, posto que a conexão somente ocorre na mesma instância. Destaca-se a facultatividade da reunião de processos conexos (STJ, 2ª Seção; Conflito de Competência nº 3075-3/BA; Rel. Min. Dias Trindade). 
+Não havendo necessidade de produção de outras provas, por tratar de matéria de direito, e, de fato, provada por documentos, passo à apreciação do mérito (art. 740, caput CPC).
+O contrato firmado entre as partes previu que o reajuste das parcelas obedeceria ao Plano de Equivalência Salarial por Categoria Profissional ? PES/CP, enquanto o saldo devedor seria reajustado pela Taxa Referencial, TR (vide cláusulas sexta e sétima, fls. 39, vº).
+Conforme se observa pelos documentos carreados à execução, o banco embargado reajustou as parcelas pelo Plano de Equivalência Salarial (PES) e o saldo devedor pela Taxa Referencial (TR), em obediência ao ajustado no contrato (fls. 17/19). 
+Em que pesem os esforços do patrono dos embargantes, não há ilegalidade na utilização da Taxa Referencial para correção do saldo devedor, desde que pactuada.
+Referido entendimento é pacífico nos Tribunais Superiores; o próprio Supremo Tribunal Federal admite a utilização da TR como índice de atualização, rejeitando o argumento de que o declarara inconstitucional. Neste mesmo sentido se posiciona o Superior Tribunal de Justiça:
+"Agravo regimental. Recurso especial. Contrato de mútuo habitacional.Carteira hipotecária. Março de 1990. IPCde 84,32%. Taxa referencial. 1. Considerando decisões da Corte Especial e da Segunda Seção deste Tribunal, aplica-se o IPC de 84,32% com relação ao mês de março de 1990 nos contratos de mútuo habitacional. 2. Válida é a utilização da taxa referencial como índice de atualização monetária em contratos como o dos autos, considerando não haver discussão ou demonstração de efetivo pacto de reajustes das prestações com base no Plano de Equivalência Salarial - PES. 3. Agravo regimental desprovido." (STJ; 3ª Turma; AGRESP 437610/PR , REL. MIN. CARLOS ALBERTO MENEZES DIREITO, DATA DA DECISÃO: 12/08/2003). 
+"Civil. Mútuo. Compra e venda de imóvel. Carteira hipotecária. Taxa Referencial - TR. Legalidade. índice pactuado. Caderneta de poupança. Saldo devedor. Amortização. Precedentes. 1. É legal a utilização da Taxa Referencial na hipótese presente, em que adotado no contrato o índice da caderneta de poupança. 2. "O sistema de prévio reajuste e posterior amortização do saldo devedor não fere a comutatividade das obrigações pactuadas no ajuste, uma vez que, de um lado, deve o capital emprestado ser remunerado pelo exato prazo em que ficou à disposição do mutuário, e, de outro, restou convencionado no contrato que a primeira parcela será paga apenas no mês seguinte ao do empréstimo do capital" (STJ; REsp n" 42 7.329/SC, da Rel. Min. Nancy Andrighi, DJ de 9/6/03).   
+CORREÇÃO MONETÁRIA - Sistema Financeiro da Habitação - Empréstimo com garantia hipotecária - Ação revisional de contrato de financiamento imobiliário - Contratos celebrados com recursos da carteira hipotecária não se sujeitam ao regime do Sistema Financeiro da Habitação e possibilitam a cobrança de juros remuneratórios livremente pactuados - Critério de reajuste referente ao período de março/abril de 1990 - Atualização ocorrida na primeira quinzena de abril de 1990 sujeita-se à incidência do 1PC, por ser esse o critério legal vigente na primeira quinzena de março de 1990 e por serem os valores reajustados pelo critério empregado para a atualização das cadernetas de poupança - Anatocismo não demonstrado e que não descobre da mera utilização da Tabela Price - Possibilidade de atualização pela Taxa Referencial - Inexistência de Ilegalidade na cobrança de taxas de serviços - Impossibilidade de liberação do gravame hipotecário - Sistemática de cobrança de juros moratórios que è ilegal e deve ser expungida do contrato - Ação procedente em parte - Recurso provido em parte" (1º TACSP 12ª Cam. Apelação nº 0866592-1 Rel. Des. Campos Mello).
+ 
+Ante o posto, com resolução de mérito (art 269, inc I Cód Proc Civil), JULGO IMPROCEDENTES os presentes embargos. Por força da sucumbência, condeno os embargantes ao pagamento das custas processuais e honorários advocatícios que fixo, por equidade, em R$ 1.000,00 (art. 20 § 4º Cód. Processo Civil).
+
+P.R.I.
+
+São Paulo, 31 de maio de 2010.

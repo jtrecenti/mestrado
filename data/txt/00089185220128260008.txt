@@ -1,0 +1,86 @@
+
+
+SENTENÇA
+
+       CONCLUSÃO
+Em 11 de junho de 2013,
+Faço estes autos conclusos ao(à)
+MM.(ª) Juiz(íza) de Direito, 
+Dr. Luciane Cristina da Silva 
+Eu,          , Luciane Cristina da Silva, digitei e subscrevi.
+
+
+Processo nº:0008918-52.2012.8.26.0008 - Procedimento do Juizado Especial Cível
+Requerente:Leandro Rafael Lima de Sena
+Requerido:Net São Paulo LTDA
+
+
+
+Juiz(a) de Direito: Dr(a). Luciane Cristina da Silva
+
+
+
+Controle nº 1237/12
+Vistos.
+
+Trata-se de ação de indenização.
+Dispensado o relatório nos termos do artigo 38 da Lei 9099/95.
+O autor afirma que contratou com a ré o plano empresarial de acesso à internet e telefonia, que desde meados de fevereiro deixou de receber boletos bancários, que em 19.03.2012 solicitou o boleto, mas não o recebeu e, dias depois, foi cobrado pela ré. Alega que, por telefone, a ré comprometeu-se a enviar o boleto com vencimento para o dia 28.03.2012, mas em 26.03.2012 suspendeu os serviços. Permaneceu dois dias com os serviços suspensos, o que deu causa a danos materiais de R$15.000,00 e a danos morais.
+A ré suscita preliminar de ilegitimidade ativa e, quanto ao mérito, alega que a ausência de envio do boleto bancário não eximia o autor do pagamento da prestação e que não há provas dos danos materiais alegados, nem caracterização dos danos morais.
+Afasto a preliminar suscitada.
+O boleto as fls. 12 demonstra que a pessoa física do autor é o contratante. Logo, ele é parte legítima para figurar no pólo passivo da presente demanda. Ressalte-se que se a ré aceita que pessoas físicas celebrem o Plano Empresas Econômico, há que se admitir que estas mesmas pessoas físicas ajuizem demanda que tenha por causa de pedir falhas nesse serviço. Ademais, o autor é microempreendedor individual (documento em anexo extraído do site da JUCESP) e a personalidade jurídica de sua empresa não se distingue da personalidade de sua pessoa física. 
+Quanto ao mérito, o pedido é parcialmente procedente.
+Primeiro, há que se ponderar que é fato notório que a ré, e as demais empresas de telefonia, têm serviços de atendimento ao consumidor por telefone e por meio de site próprio. Assim, qualquer destas formas de comunicação estabelecidas entre o consumidor e a empresa são válidas. Em suma, compromissos assumidos por atendentes da ré por meio de ligações telefônicas vinculam a requerida. Com efeito, o contrato é de trato sucessivo e, até pelas características do serviço, costuma ser modificado ao longo do tempo. Logo, os termos e ofertas realizadas verbalmente, em ligação telefônica, vinculam as partes, nos termos do artigo 427 do Código Civil. 
+Desta feita, se a atendente comprometeu-se a estender o prazo de vencimento do boleto (de 20.03 para 28.03) em razão do atraso na remessa deste, a ré não poderia suspender o serviço antes deste prazo. Ressalte-se que a ré não impugna este fato de forma específica em sua contestação e, ainda que o fizesse, é ônus integral da ré a comprovação dos termos contratuais avençados por meio de ligação telefônica, pois somente ela tem acesso à gravação destas ligações. 
+Considera-se, portanto, que a ré incidiu em inadimplemento contratual e deve ser responsabilizada pelos danos dele decorrentes. 
+O autor comprovou parcialmente os danos alegados.  
+Ao tentar entrar em contato com uma empresa e não obter êxito, nem por telefone, nem por e-mail, o cliente passa a considerá-la fechada ou em péssimas condições financeiras por não ter conseguido manter serviço essencial ao desenvolvimento de sua atividade. Portanto, ao suspender o serviço de telefonia e de acesso à internet do autor, a ré feriu a credibilidade da empresa perante seus clientes e deu causa a dano moral indenizável. 
+Resta assim quantificar o dano. 
+A indenização por dano moral deve ser equivalente à extensão do prejuízo, mas também levar em consideração as condições pessoais das partes envolvidas e suas respectivas condutas. No presente caso, observo que a ré incorreu em grande falha, mas é necessário considerar que o autor também não agiu de forma a impedir a caracterização de seu próprio dano. Ora, é fato notório que a ré disponibiliza a segunda via de boletos em seu site. Bastava ao autor o acionamento deste serviço on line que nenhum inadimplemento haveria. 
+A alegação do autor de que não sabia da existência deste serviço não se sustenta. Trata-se de pessoa extremamente jovem (fls. 06), que possui conta de e-mail e até site (fls. 89/90). Evidente, portanto, seu acesso e ciência deste serviço. Acessar o site da ré para a obtenção de segunda via da fatura para pagamento seria a alternativa mais óbvia para a solução imediata do problema atinente à falta de remessa de boletos, mas, provavelmente, não lhe concederia a possibilidade de prorrogação do prazo de vencimento da prestação. 
+Saliente-se que a obrigação prévia do autor de, no dia 20.03.2012, efetuar o pagamento por meio da emissão de segunda via dos boletos é reconhecida pela jurisprudência. Nesse sentido, os seguintes julgados:
+"Responsabilidade Civil ? Cartão de Crédito ? Inscrição em cadastro de inadimplentes ? Danos morais. 
+Segundo a Orientação nº 1 do Superior Tribunal de Justiça, decorrente de julgamento de recurso repetitivo, as instituições financeiras não estão sujeitas a limitação de juros remuneratórios. 
+Em consonância com o princípio da boa-fé contratual, a alegação de não recebimento dos boletos relativos a parcelas de acordo de dívida de cartão de crédito não exime o devedor do adimplemento. 
+É lícita a inscrição de dívida nos cadastros de inadimplentes pela instituição financeira, quando demonstradas a regularidade da origem do débito e a inadimplência de seu cliente. 
+Ação improcedente. Recurso não provido, com observação. (TJSP, Apelação 0009476-55.2011.8.26.0009, 21ª Câmara de Direito Privado, Rel. Des. Itamar Gaino, J. Em 15/04/2013)".
+"Apelação ? Ação de Indenização ? Reconvenção ? Exercício Regular de Direito ? Inadimplemento configurado ? Possibilidade de inscrição dos dados cadastrais do devedor perante os órgãos de proteção ao crédito ? Necessidade de suportar o pagamento da dívida assumida e não adimplida em sua integralidade. O inadimplemento é fato incontroverso. O apelado agiu no exercício regular de seu direito ao enviar o nome da Apelante para negativação junto aos órgãos de proteção ao crédito. O fato de o apelado ter enviado o nome da autora para negativação em órgão de proteção ao crédito, não configura dano moral passível de indenização, pois o débito ainda persiste, não tendo a Apelante provado sua quitação, prova esta que lhe competia, a teor do disposto no art. 333, I, do CPC. Eventual omissão no envio do boleto bancário de pagamento (carnê) não justifica a inadimplemência da dívida quando o devedor tem ciência do valor e do dia do vencimento, como ocorreu no caso em foco, pois a obrigação de pagamento pertence ao devedor, eis que se trata de dívida portable. ? ART. 252, do Regimento Interno do E. Tribunal de Justiça de São Paulo. Em consonância com o princípio constitucional da razoável duração do processo, previsto no art. 5º, inciso. LXXVIII, da Carta da República, é de rigor a ratificação dos fundamentos da r. Sentença recorrida. Precedentes desse Tribunal de Justiça e do Superior Tribunal de Justiça ? Sentença Mantida ? Recurso Improvido. (TJSP, Apelação nº 0032928-18.2011.8.26.0196, 38ª Câmara de Direito Privado, Rel. Des. Eduardo Siqueira, J. Em 10/04/2013)".
+"Apelação ? Ação declaratória de inexigibilidade de dívida c.C indenização por danos morais e materiais ? Dívida paga após o vencimento ? Culpa exclusiva da ré no atraso do envio do boleto não comprovado- Ônus da prova do autor, nos termos do artigo 333, I, do Código de Processo Civil- Inclusão do nome do autor nos cadastros dos órgãos de proteção ao crédito ? Exercício regular do direito ? Recurso desprovido. (TJSP, Apelação nº 0008804-42.2010.8.26.0604, Rel. Des. Pedro Kodama, J. Em 23/04/2013)".
+Porém, conforme já mencionado, por telefone, a ré aceitou emitir novos boletos ao autor e, consequentemente, estava obrigada a cumprir sua promessa. 
+Ponderando-se esses fatores, fixo a indenização em R$ 1.000,00.
+O dano material foi parcialmente demonstrado.
+O autor afirma que deixou de celebrar contratos porque seus clientes não tinham como entrar em contato com a gráfica. Para a demonstração deste fato, trouxe três testemunhas (fls. 82/84) e dois documentos (fls. 89/90) que demonstravam o relacionamento comercial anterior dos depoentes com sua gráfica. 
+Do conjunto probatório não se extrai a integralidade do dano material alegado. 
+Pelo que consta do depoimento de Linneu Marcos Merlo, o autor teria deixado de ganhar R$9.800,00; do depoimento de Caique de Andrade Garcia extrai-se lucro cessante de aproximadamente R$500,00 e do depoimento de Aline Mariano Copeti soma-se dano de R$320,00. O autor requereu a condenação da ré ao pagamento de R$15.000,00 a este título. 
+As três testemunhas relatam que tentaram entrar em contato com o autor nos dias em que a ré suspendeu o serviço de telefonia e, diante do insucesso, deixaram de contratá-lo para a confecção de remessas determinadas de cartões, flyers e folhetos. 
+Linneu Marcos Melo relata que deixou de fazer ao autor pedido no valor de R$9.800,00, pois não conseguiu encontrá-lo no único telefone de sua empresa (fls. 82).
+Caique de Andrade Garcia afirmou que compra cartões de visitas e folhetos quinzenal e mensalmente. Afirmou que sempre faz o pedido por telefone e que o valor médio do contrato é de R$400,00 a R$500,00 (fls. 83).
+Aline Mariano Copeti também afirmou que costuma encomendar ao autor cartões e etiquetas e que deixou de fazer-lhe o pedido em março porque o telefone da empresa estava mudo e não obteve resposta por e-mail. Declarou que encomendou 2.000 cartões de outra empresa pelo preço de R$320,00 (fls. 84).
+Percebe-se que o maior prejuízo econômico experimentado pelo autor foi em relação ao primeiro cliente mencionado, pois se tratava de uma encomenda grande, de valor muito expressivo pelo porte da empresa do requerente. Com efeito, pelos documentos as fls. 89/90, somados aos depoimentos de Caique e Aline, tem-se que o valor médio dos pedidos recebidos pelo autor é de R$500,00. 
+Porém, se considerada a prova oral colhida, sem qualquer ponderação, tem-se que o autor deixou de auferir, de forma absolutamente excepcional, no período de 48 horas, o valor de R$10.620,00, em razão da indevida suspensão dos serviços pela ré. Tal conclusão não é lógica, especialmente se considerada a contribuição do próprio autor para o fato.
+Conforme já mencionado, o autor poderia ter evitado todo o dano se, simplesmente, tivesse obtido a segunda via dos boletos de pagamento por meio eletrônico. Tal atitude era especialmente esperada de um pequeno empresário que tinha recebido pedido de cotação de montante bastante expressivo. Inevitável, portanto, considerar que a conduta do autor constituiu concausa de seu próprio dano.
+Em outras palavras, houve culpa concorrente do autor, ao deixar de pagar o boleto na data do vencimento quando poderia obtê-lo por meio eletrônico, e da ré, ao descumprir a promessa de emissão de boleto com vencimento postergado e de suspensão do serviço antes deste prazo.  
+Há, ainda, que se salientar que o autor utiliza os serviços da ré para o desenvolvimento de sua própria atividade produtiva. Consequentemente, não é consumidor final da requerida e ao caso em tela, não se aplica o Código de Defesa do Consumidor, mas sim o Código Civil. 
+A culpa concorrente, com descumprimento de contraprestações pelas duas partes contratantes, levaria ao pagamento de indenizações recíprocas. Como apenas o autor experimentou prejuízo, razoável a distribuição deste na proporção de 50% para cada parte.
+Ademais, observo que o autor é optante do sistema MEI, conforme esclarecido as fls. 88. Com efeito, o artigo 18-A, §1º da Lei Complementar 128/08, modificado pela Lei Complementar 139/2011 estabelece como requisito para a qualificação de empresa como microempresário individual o faturamento bruto anual de R$60.000,00, o que confere ao empresário faturamento mensal médio de R$5.000,00. Logo, não é viável concluir que em 48 horas o autor deixou de auferir o rendimento médio de dois meses de trabalho.
+ Veja-se que o valor fixado a título de indenização por danos materiais já contempla o que seria o rendimento médio presumido do autor em um mês, considerando que encomenda perdida era de grande porte para sua empresa.   
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE O PEDIDO.
+Condeno a ré a pagar ao autor os montantes de R$5.310,00, atualizados pela Tabela Prática do Tribunal de Justiça desde março de 2012, com juros legais de 1% ao mês desde a citação e de R$1.000, atualizados pela Tabela Prática do Tribunal de Justiça desde a prolação da sentença, com juros legais de 1% ao mês desde a mesma data (Súmula 362 do STJ).
+Deixo de condenar a vencida nas verbas da sucumbência nos termos do artigo 55 da Lei 9.099/95. a) O prazo para interposição de recurso é de 10 (dez) dias, contado da intimação; b) na hipótese de não haver recurso, após o trânsito em julgado, terá prazo de 10 (dez) dias para retirada de documentos que instruíram o processo, sob pena de inutilização; c) efetuado o pagamento voluntário, fica desde já deferida a expedição de guia de levantamento em favor do credor, devendo ser intimado para retirada, no prazo de 10 dias, sob pena de cancelamento. Com o trânsito em julgado, comunique-se ao Distribuidor e após 180 dias, desmontem-se os autos. Registre-se. 
+Em caso de recurso: Valor do preparo = R$ 326,20 (Guia GARE-DR, Código 230-6). Despesas de porte de remessa e retorno por volume de autos = R$ 29,50 (Guia FEDTJ, código 110-4).
+P.R.I.C..  
+São Paulo, 11 de junho de 2013.
+
+
+
+Luciane Cristina da Silva
+         Juiz(íza) de Direito
+
+
+
+
+      RECEBIMENTO
+Em
+Recebi os autos em Cartório com 
+a sentença supra, que torno pública.
+Eu,                       , escrevente, subscrevi.

@@ -1,0 +1,38 @@
+
+
+SENTENÇA
+
+Processo nº:0200255-82.2011.8.26.0100
+Classe ? Assunto:Procedimento Ordinário - Indenização por Dano Material 
+Requerente:Centro de Manutençaõ e Inspeção Veicular Ltda
+Requerido:Dayco Industria e Comercio de Autopeças S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Alberto Alonso Muñoz
+
+
+Vistos.
+
+Centro de Manutençaõ e Inspeção Veicular Ltda, qualificado(s) na inicial, ajuizou(aram) ação de Procedimento Ordinário em face de Dayco Industria e Comercio de Autopeças S/A.
+Alega a parte autora, em síntese, que seu objeto social consistiria no fornecimento de serviços de reparos automotivos, bem como inspeção veicular. Narra que um de seus clientes teria adquirido uma peça para substituição em seu automóvel, uma correia de transmissão de número de código 6PK1755. Após instalada, houve dano ao veículo. A empresa indenizou o cliente no valor de R$ 2.840,00, após informação da ré de que a correia correta para instalação seria a de código 5PK1750. Afirma que a correia especificada na caixa do produto recomenda especificação imprópria para o modelo de veículo de seu cliente (Clio 1.0, 16 válvulas). Afirma que apenas após esses fatos a ré, que se negaria a admitir o equívoco, teria alterado as informações de seu catálogo. Pediu, então, indenização pelo dano material suportado, no valor de  R$ 2.840,00, e mais indenização pelo dano moral suportado.
+Citada, a ré contestou. Alega que não houve nenhum vício de informação sobre o produto, tanto assim que a embalagem seria expressa ao esclarecer que o modelo de correia de código 6PK1755 serviria apenas para o Clio 1.6. Teria havido, isso sim, erro de leitura da embalagem pelos mecânicos, funcionários da autora. Impugnou os pedidos de indenização pelos danos materiais e morais.
+Houve réplica.
+Relatei. DECIDO.
+O processo comporta julgamento antecipado do mérito, na forma do art. 330, I do Código de Processo Civil, não se caracterizando cerceamento de defesa se não eram necessárias outras provas. Ao contrário, nas hipóteses em que se impõe, o julgamento antecipado do mérito não é faculdade do julgador, mas dever legalmente imposto até mesmo pela Constituição Federal quando o feito se encontra em condições de ser sentenciado, sendo corolário do princípio da economia processual (que decorre daquele do devido processo legal: art. 5.º, LIV da CF/88) e da razoável duração do processo (art. 5.º, LXXVIII).
+O pedido é IMPROCEDENTE.
+Não há complexidade jurídica na matéria. A questão, aqui, é exclusivamente probatória.
+A premissa básica é: o veículo da cliente da demandante era um automóvel Clio, 1.0 (importante: motor um ponto ZERO), de 16 válvulas (importante: DEZESSEIS válvulas).
+A fls. 26 a parte autora juntou aos autos cópia da embalagem da correia que teria sido instalada. Dela constam as especificações da peça de modo muito claro: ela se destinava a veículos Clio 1.6 (um ponto MEIA e NÃO um ponto ZERO), de dezesseis válvulas. 
+Portanto, o código 6PK1755 ? código da peça instalada, conforme consta dessa embalagem ? não se destinava a um Clio 1.0 (um ponto zero), mas sim a um Clio 1.6 (um ponto MEIA). 
+Irrelevantes os dados dos catálogos de fls. 29 e 35. Se houve alteração posterior no código, isso em nada afeta o fato de que os funcionários da autora ? que são técnicos e devem cuidar para que, com a máxima cautela, não sejam colocadas peças impróprias nos veículos de seus clientes ? não leram a embalagem. Não checaram, antes de iniciar o procedimento de instalação da peça, se essa era a peça correta.
+Duas ordens de considerações, antes de concluir.
+A primeira delas é que o caso é em tudo análogo ao de um médico ou enfermeiro que deixa de verificar se o medicamento a ser injetado no paciente está correto. Não há, obviamente, como responsabilizar o fabricante do medicamento pelo erro exclusivo daquele que o injetou sem verificar se correspondia ao procedimento a ser realizado no paciente.
+A segunda é que a hipótese seria inteiramente diversa nos casos: a) em que houvesse efetivo erro informacional ou b) em que a peça, dentro da embalagem, não correspondesse às informações constantes da própria embalagem. No primeiro caso, que é a tese da autora, a embalagem traria informação incorreta ? o que não se verificou. No segundo caso, haveria erro decorrente do conteúdo da embalagem ? tese que também não se verificou e tampouco foi levantada pela autora.
+Em síntese, o erro, pela prova produzida, foi de exclusiva responsabilidade dos mecânicos da autora. Se deixaram de verificar as informações na embalagem para assegurar-se que a peça era mesmo a apropriada ao veículo, não é de transferir-se a responsabilidade por sua negligência ou imprudência à ré.
+Pelo exposto, julgo IMPROCEDENTE o pedido e EXTINGO o processo, com resolução de mérito, na forma do art. 269, I do Código de Processo Civil.
+Custas pela parte autora. Honorários sucumbenciais fixados em R$ 5.000,00 (cinco mil reais).
+P.R.I.
+
+São Paulo, 07 de março de 2013.

@@ -1,0 +1,76 @@
+
+
+C O N C L U S Ã O
+
+Em 31 de outubro de 2013, faço estes autos conclusos à MM. Juíza de Direito da 15ª Vara Cível Central, Dra. Daise Fajardo Nogueira Jacot. Eu, Pedro Augusto Zanon Paglioni, Estagiário Nível Superior, subscrevi.
+
+SENTENÇA
+
+Processo nº:0159518-03.2012.8.26.0100
+Classe - AssuntoProdução Antecipada de Provas 
+Requerente:Dsl Comércio Varejista S/A
+Requerido:It4solution Tecnologia Ltda e outros
+
+
+
+Juíza de Direito: Dra. Daise Fajardo Nogueira Jacot 
+
+
+Vistos.
+
+1.- DSL COMÉRCIO VAREJISTA S.A., qualificada na inicial, ajuizou esta MEDIDA CAUTELAR DE PRODUÇÃO ANTECIPADA DE PROVA em face de IT4SOLUTION TECNOLOGIA LTDA. (IT4), OMAR DAYCHOUM, RICARDO BEZERRA DA SILVA e RINALDO ARGENTIERE NETO,  também qualificado na inicial, visando a produção antecipada de provas, consistente em exame pericial nos servidores e computadores dos requeridos, bem como a expedição de ofício à Telefônica S.A., para informar os dados cadastrais do cliente que fazia uso do IP nº 201.26.255.43, no dia 19 de dezembro de 2011, às 12:27:18, referência GMT (-3). Fundamentou o pedido nos artigos 846 e seguintes do Código de Processo Civil.
+A requerente alega, em resumo, que administra respeitosa rede de comércio varejista denominada Daslu; contratou a empresa corré para manter e administrar sua sofisticada rede de informática; os correqueridos executavam tarefas de maior complexidade; os serviços prestados pela ré estavam aquém das expectativas, razão pela qual contratou profissionais especializados em informática; diante do iminente fim da relação contratual entre as partes, fatos incomuns envolvendo o sistema de informática passaram a ocorrer; nos dias 12 e 13 de dezembro de 2011 o serviço de correio eletrônico e o acesso à Internet ficaram prejudicados; a corré diagnosticou uma invasão do sistema; no dia 14 do mesmo mês as senhas de acesso aos servidores foram substituídas e disponibilizadas à corré; no dia 16 novas instabilidades foram constatadas e no dia 19 os quatro (4) servidores virtuais pararam subitamente, perdendo-se todas as informações essenciais para o bom desenvolvimento das atividades da empresa; trocou novamente as senhas do servidor, mas não as repassou à corré; apesar da previsão contratual, a corré não mantinha cópia de segurança dos arquivos (back up); os correqueridos solicitaram as novas senhas, sob o argumento de que restabeleceriam o normal funcionamento do sistema, mas eles não esclareceram como fariam isso se não possuíam o necessário back up; o Instituto Brasileiro de Peritos (IBP) realizou uma profunda análise nos equipamentos e sistemas, constatando diversas tentativas de acesso infrutíferas aos servidores, originadas de endereço IP desconhecido (nº 189.38.240.176, vinculado a mail.it4solution.com.br e nº 201.26.255.43, da Telefônica S.A.); verificou ainda que o último acesso ao servidor antes dos dados serem apagados foi feito pelos sistemas da corré; muitos indícios levam à participação dos requeridos nos problemas ocorridos; ante ao fundado risco de que as informações necessárias à identificação do autor do ilícito sejam destruídas, faz-se necessária a produção antecipada de provas, a fim de que possa buscar a condenação dos responsáveis pelos ilícitos praticados na demanda principal. Por fim, requereu a citação dos requeridos para os termos do pedido e que, julgada procedente a ação, sejam a eles impostos os ônus do sucumbimento. Protestou por prova e à causa deu o valor de R$ 10.000,00 (fls. 2/21). Juntou documentos (fls. 22/98).
+ 
+Instada, a requerente informou que a demanda principal consistirá em ação de indenização por danos materiais e morais (fls. 101/102).
+O pedido liminar foi deferido tão somente para a expedição ofício a Telefônica S.A. (fls. 103/105), que se manifestou, apresentando documentos (fls. 110/114 e 146/147).
+A requerente interpôs Recurso de Agravo, na forma de instrumento (fls. 116/144), ao qual foi negado provimento pelo E. Tribunal de Justiça (fls. 151/156).
+Citados (fl. 169), os requeridos contestaram o feito arguindo preliminar de ausência de interesse processual, sustentando no mérito a improcedência sob a argumentação de que as partes mantiveram contrato de prestação de serviços na área de Tecnologia da Informática no período compreendido entre 01 de junho de 2011 de 03 de janeiro de 2012; sempre desenvolveram a contento os trabalhos para os quais foram contratados; a proposta comercial de fls. 53/62 não está assinada e comportava alterações; a contratação do back up foi feita apenas uma vez, sendo pago à parte e por hora; os responsáveis pelo back up eram Nivaldo Moreira Vieira e Rafael Martins, funcionários da requerente; jamais noticiaram qualquer tentativa de invasão nos sistemas, apenas sugeriram que as ocorrências dos dias 12 e 13 de dezembro de 2011 poderiam ser devidas à oscilação de energia; desde 14 de dezembro de 2011, só possuem acesso à senha de suporte, especificamente para o cumprimento das obrigações assumidas; o fato de solicitarem a senha de administrador da requerente para tentar recuperar os arquivos perdidos é totalmente normal; não houve aviso prévio de rescisão contratual, tendo o contrato sido prorrogado automaticamente; as tentativas de acesso aos servidores da requerente realizadas por meio dos IPs de titularidade dos requeridos, datadas de 19 de novembro de 2011, foram feitas por solicitação de Eliene dos Santos Silva, que à época funcionava como Analista de Sistemas da requerente; a perda dos arquivos somente se deu às 15h24min; não consta no laudo pericial produzido por Perito particular contratado pela requerente o horário do encerramento da conexão partida do servidor dos requeridos, tampouco se existiram outras conexões internas ao servidor no horário compreendido entre 13h10min e 15h24min; deve ser feita prova pericial em ação de conhecimento (fls. 170/180). Juntou documentos (fls. 181/196).
+A requerente apresentou réplica, refutando o alegado e insistindo no pedido (fls. 255/261). 
+
+É o relatório. 
+Fundamento e decido. 
+
+2.- Cuida-se de pedido de produção antecipada de prova, consistente em exame pericial contábil, disciplinado nos artigos 846 a 851 do Código de Processo Civil.
+Conforme já relatado, a requerente alega que administra a rede de comércio varejista denominada Daslu, com sofisticada rede de informática, abrangendo servidores, computadores para funcionários, sistemas de comunicação de dados, software básico e aplicativo e recursos de proteção digital; contratou a requerida IT4 para a prestação de serviços de suporte ao sistema, análise de ocorrências nos sistemas e correção de falhas, monitoramento de sistemas, investigação e análise de dados, monitoramento de links de internet, monitoramento de serviços de sistemas e backup de rede e banco de dados para guarda e proteção da informação; a IT4, por meio dos correqueridos, executava serviços de maior complexidade, tendo acesso aos elementos estruturais do sistema; como os serviços da IT4 se mostrava aquém de suas expectativas, optou pela contratação direta dos correqueridos, que passaram a realizar os serviços; desde então o relacionamento com a IT4 passou a ter contornos de tensão pelo iminente fim da relação comercial; ocorre que nos dias 12 e 13 de dezembro de 2011, o serviço de correio eletrônico e o acesso à internet ficaram prejudicados, o que fora diagnosticado pela IT4 como invasão de sistema; as senhas de acesso aos servidores foram então substituídas no dia 14 seguinte por novas senhas; novas instabilidades foram constatadas no dia 16 daquele mês e no dia 19 quatro (4) servidores virtuais, localizados dentro de um servidor físico, pararam de funcionar; realizou troca da senha do servidor, que não mais foi disponibilizada aos requeridos; arquivos necessários haviam sido apagados e não havia cópia de backup, diligência basilar; em razão das circunstâncias anormais com danos nos sistemas de informática, contratou o Instituto Brasileiro de Peritos (IBP), que fez profunda análise dos equipamentos e dos registros dos sistemas disponíveis, elaborando parecer técnico com indicação de diversas tentativas de acesso ao seu servidor feitas a partir do endereço do IP 189.38.240.176, que estava vinculado à mail.it4solution.com.br, pertencente à Empresa requerida; esse IP foi utilizado conjuntamente com o IP nº 201.26.255.43 da Telefônica S.A. para acessos não autorizados de sua rede de informática, que não foram consumados em razão de seus dispositivos de segurança; necessita das informações necessárias para a prova pericial para a identificação do autor do ilícito; as informações podem ser facilmente destruídas; necessita da medida para, caso seja configurada a responsabilidade dos requeridos, ajuizar ação de indenização pelos danos materiais e morais (fls. 2/21 e 101/102). 
+Os requeridos, por sua vez, insurgem-se contra o pedido sustentando falta de interesse processual e no mérito a improcedência, sob a argumentação de que as partes mantiveram contrato de prestação de serviços na área de Tecnologia da Informática no período compreendido entre 01 de junho de 2011 de 03 de janeiro de 2012. Sempre desenvolveram a contento os trabalhos para os quais foram contratados. A proposta comercial de fls. 53/62 não está assinada e comportava alterações. A contratação do back up foi feita apenas uma vez, sendo pago à parte e por hora; os responsáveis pelo back up eram Nivaldo Moreira Vieira e Rafael Martins, funcionários da requerente. Jamais noticiaram qualquer tentativa de invasão nos sistemas, apenas sugeriram que as ocorrências dos dias 12 e 13 de dezembro de 2011 poderiam ser devidas à oscilação de energia. Desde 14 de dezembro de 2011, só possuem acesso apenas à senha de suporte, especificamente para o cumprimento das obrigações assumidas. O fato de solicitarem a senha de administrador da requerente para tentar recuperar os arquivos perdidos é totalmente normal. Não houve aviso prévio de rescisão contratual, tendo o contrato sido prorrogado automaticamente. As tentativas de acesso aos servidores da requerente realizadas por meio dos IPs de titularidade dos requeridos, datadas de 19 de novembro de 2011, foram feitas por solicitação de Eliene dos Santos Silva, que à época funcionava como Analista de Sistemas da requerente. A perda dos arquivos somente se deu às 15h24min. Não consta no laudo pericial produzido por Perito particular contratado pela requerente o horário do encerramento da conexão partida do servidor dos requeridos, tampouco se existiram outras conexões internas ao servidor no horário compreendido entre 13h10min e 15h24min; deve ser feita prova pericial em ação de conhecimento (fls. 170/180). 
+2.1.- A preliminar de ausência de interesse processual deve ser afastada.
+Com efeito, a requerente sustenta a configuração do fumus boni iuris pela fundada suspeita de que os requeridos tenham concorrido para a exclusão de arquivos importantes de seus sistemas informatizados, e o periculum in mora pela urgência em colher os elementos necessários à produção da prova pericial nos computadores e servidores dos requeridos.
+Não se há falar pois em extinção desta medida cautelar , impondo-se mesmo a rejeição da matéria arguida em preliminar.
+2.2.- Contudo, quanto ao mérito, certo é que a requerente trouxe aos autos um laudo pericial elaborado por Perito particular, datado de 27 de março de 2012, dando conta dos fatos ocorridos em seus servidores e demais sistemas informatizados. Ainda que esse laudo não tenha sido realizado sob o crivo do contraditório, serve como prova para o ajuizamento da cautelar, mesmo porque a prova pode ser complementada na fase instrutória da demanda principal (fls. 72/98). 
+Não bastasse isso, verifica-se que a discussão constante dos autos se refere a acontecimentos datados de dezembro de 2011, mas esta Medida Cautelar somente foi distribuída em 20 de junho de 2012.
+Ora, resta a esta altura prejudicado o objeto desta Medida Cautelar de Produção Antecipada de Prova, não havendo qualquer óbice ao autor para o ajuizamento da Ação de Reparação de Danos pelo rito ordinário.
+A propósito de caso que guarda relação de semelhança com o dos autos, já se entendeu que:
+
+9063910-38.2006.8.26.0000   CLASSES ANTIGAS DO SAJ / DIREITO DO CONSUMIDOR     
+Relator(a): TORRES DE CARVALHO  
+Data de registro: 31/08/2007  
+Outros números: 0.531.291-5/2-00, 994.06.062446-4  
+Ementa: PRODUÇÃO ANTECIPADA DE PROVAS São José da Bela Vista ? Suspeita de improbidade- Busca e apreensão. Bom direito e periculum in mora. O bom direito e o perigo na demora compõem os requisitos e configuram, ao mesmo tempo, o mérito da ação cautelar; daí a opção, nem sempre fácil, de negar o interesse processual ou denegar a cautela no caso de falta de qualquer deles. ? A falta de indicação de artigos de lei não constitui nulidade se a sentença deixa claro os fundamentos da decisão. Inicial indeferida. Recurso do autor desprovido.
+
+
+Apelação 994020737262 (2618354000) 
+Relator(a): J.L. Mônaco da Silva 
+Comarca: Cotia 
+Órgão julgador: 5ª Câmara de Direito Privado 
+Data do julgamento: 27/01/2010 
+Data de registro: 12/02/2010 
+Ementa: CAUTELAR - Produção antecipada de provas - Indeferimento da petição inicial por falta de interesse de agir - Inconformismo - Não demonstração de que o exame pericial é absolutamente necessário para a constatação dos fatos alegados na petição inicial - Incidência do art. 849 do Código de Processo Civil - Sentença mantida - Recurso desprovido
+
+
+Assim, resta prejudicado o exame quanto ao mais, sem embargo do empenho profissional dos ilustres Patronos das partes.
+
+
+3.- Diante do exposto e de tudo o mais que dos autos consta, julgo a autora CARECEDORA desta MEDIDA CAUTELAR e, por isso, EXTINGO o processo com base no artigo 267, inciso VI, do Código de Processo Civil.
+
+Arcará a requerente, por força do princípio do sucumbimento, com o pagamento das custas processuais e dos honorários advocatícios, estes arbitrados na quantia correspondente a dez por cento (10%) do valor atualizado da causa.
+
+Para o caso de Recurso, a recorrente deverá recolher a quantia de R$ 96,85, a título de preparo e a quantia de R$ 25,00, a título de porte de retorno para cada volume dos autos principais e para cada um dos volumes referentes aos incidentes processuais em Apenso porventura existentes (v. Lei Estadual n° 11.608/2003, Provimento n° 833/2004 e Provimento nº 14/2008). 
+
+
+P.R.I.C.
+
+São Paulo, 31 de outubro de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

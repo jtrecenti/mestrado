@@ -1,0 +1,81 @@
+
+
+SENTENÇA
+
+Processo Físico nº:1060528-23.2013.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Seguro
+Requerente:Itaú Seguros S/A
+Requerido:Kuehne + Nagel
+
+
+
+Juiz(a) de Direito: Dr(a). Alexandre Batista Alves
+
+
+
+Vistos.
+
+
+
+
+ITAÚ SEGUROS S/A ajuizou a presente AÇÃO DE RESSARCIMENTO contra KUEHNE +NAGEL alegando, em resumo, que: a) no exercício de suas atividades no ramo de seguro de mercadorias, cobriu os riscos sobre um carregamento de peças para aviões de transporte de Miami/EUA até o aeroporto de Viracopos/SP; b) a mercadoria foi entregue avariada no local de destino e, em cumprimento às obrigações contratuais, a autora indenizou seu segurado no montante apontado na inicial, cuja restituição pretende por força  do instituto da sub-rogação.
+
+A petição inicial veio instruída com documentos (fls. 07/47).
+
+Citada, a ré ofereceu contestação (fls. 55/79), na qual suscitou preliminares de ausência de documentos indispensáveis à propositura da lide, ilegitimidade ativa e passiva. Requereu, ainda, a denunciação à lide da empresa ABSA AEROLINHAS BRASILEIRAS e suscitou prejudicial de decadência, bem como alegou descumprimento do art. 157 do CPC. No mérito, sustentou inexistir prova dos danos nas mercadorias, especialmente na extensão alegada na inicial, pugnando, na hipótese de procedência, pelo reconhecimento da indenização tarifada.
+
+Sobreveio réplica (fls. 155/187).
+
+É o relatório.
+Fundamento e Decido.
+
+A matéria é de direito e de fato comprovável por meio de prova documental, autorizando o julgamento antecipado da lide, nos termos do art. 330, I, do CPC.
+
+Passo ao exame das preliminares.
+
+A petição inicial veio acompanhada dos documentos tidos como pressupostos da causa, viabilizando o oferecimento de ampla de defesa, razão pela qual é descabida a preliminar suscitada.
+
+Frise-se que é prescindível a juntada da apólice de seguro nas ações regressivas, bastando a prova do pagamento da indenização. É que a ação está fundada no pagamento de indenização, de modo que é impertinente qualquer discussão sobre as cláusulas da apólice.
+
+Por outro lado, a autora é parte legítima para figurar no polo ativo da demanda, uma vez que se trata de ação regressiva movida por companhia seguradora. Nesse caso, ela tem o direito de reaver do responsável o que efetivamente pagou pelo ressarcimento do dano, competindo-lhe, apenas, provar o desembolso, conforme já enfatizado.
+
+A ré, por seu turno, tem legitimidade para suportar as consequências da demanda, porquanto: a) foi a transportadora aérea contratada pela Embraer para realizar o transporte aéreo internacional de carga, tanto que emitiu o conhecimento de transporte em seu nome (fl. 10); b) embora tenha subcontratado a realização do serviço com um transportador de fato (ABSA), conforme faz prova o documento de fl. 148, a jurisprudência consagra a responsabilidade solidária por danos causos a terceiros em transporte de todos aqueles que integram a cadeia logística de transporte.
+
+Inadmissível, de outra parte, a pretensão consistente na denunciação da lide ao transportador de fato da carga (ABSA), pois sua aceitação acarretaria a abertura de discussão paralela à tratada nos autos, com prejuízo ao bom andamento do feito. 
+
+Note-se que o art. 70 do CPC, ao dispor sobre a obrigatoriedade da denunciação da lide, trata da perda do direito de regresso contra aquele que é o garante do direito discutido em juízo, dispondo o inciso III, do referido dispositivo processual, por seu turno, ser obrigatória a denunciação da lide ?àquele que estiver obrigado, pela lei ou pelo contrato, a indenizar, em ação regressiva, o prejuízo do que perde a demanda?. Ou seja, não deve ser admitida a denunciação da lide quando não haja relação jurídica de garantia propriamente dita entre o denunciante e o denunciado. Ademais, nenhum prejuízo é causado à ré, que poderá exercer eventual direito de ressarcimento em ação própria.
+
+Também não quadra acolhimento a prejudicial de decadência, porquanto inexiste obrigação de o importador notificar o transportador nos dez dias subsequentes ao desembarque, conforme bem analisado no julgado trazido à colação em réplica.
+
+Prosseguindo na análise das questões preliminares, é certo que o art. 157 do CPC determina que só poderá ser juntado aos autos documento em língua estrangeira quando acompanhado de versão em vernáculo, firmada por tradutor juramentado.
+
+Não é menos correto, porém, que tal dispositivo deve ser interpretado em conjunto com os princípios que regem as nulidades. Assim, ?Não havendo prejuízo, não se pode dizer que a falta de tradução, no caso, tenha importado violação ao art. 157 do CPC? (STJ-RP 127/222: Resp 616.103 in Código de Processo Civil e legislação processual em vigor, Theotonio Negrão, 39ª edição, ed. Saraiva, nota 2b ao art. 157). 
+
+No caso em questão, não obstante a inicial esteja acompanhada de alguns documentos em língua estrangeira, é certo que se trata apenas do conhecimento de transporte e da fatura comercial, os quais contêm pequenas inscrições em inglês, que não têm em absoluto o condão de embaraçar o direito de defesa, tanto mais porque a própria ré também não cuidou de verter para o vernáculo documento juntado em contestação (fl. 148).
+
+Superadas essas questões, no mérito, procede a pretensão.
+
+Colhe-se dos autos que a ré foi contratada pela empresa segurada e era responsável pelos riscos do agenciamento, inclusive quanto ao tipo de transporte escolhido.
+
+No caso, as avarias nas mercadorias transportadas foram constatadas pela Infraero no momento da descarga, bem como vieram satisfatoriamente demonstradas pelo Relatório Técnico de Materiais Vistoriados (fl. 34) e demais documentos que instruem a inicial.
+
+Ora, cuidando-se de contrato de transporte, a ré assumiu o compromisso de zelar pela mercadoria, de tal forma que responde objetivamente perante o segurado pelos danos causados à luz Código de Defesa do Consumidor.
+
+Quanto à seguradora, aplicam-se as regras do artigo 349 do CC, uma vez que a sub-rogação transfere ao novo credor todos os direitos, ações, privilégios e garantias do primitivo, em relação à dívida, contra o devedor principal e seus fiadores. 
+
+No que se refere à tarifação indenizatória pelas avarias nas mercadorias, não tem aplicação a Convenção de Varsóvia, com as mudanças operadas pela Convenção de Montreal, ante o advento do Código de Defesa do Consumidor, que prevê o princípio da ampla reparação, configurada a relação de consumo, conforme entendimento jurisprudencial predominante.
+
+Em suma, comprovados os danos e não tendo a ré demonstrado a existência de causas excludentes de responsabilidade, ônus que lhe incumbia, deverá arcar com o pagamento do valor de R$27.947,83, que deverá ser atualizado desde o desembolso.
+
+Ante o exposto, JULGO PROCEDENTE o pedido (CPC, artigo 269, I) para condenar a ré ao pagamento da quantia de R$27.947,83, devidamente atualizada a partir do desembolso e acrescida de juros de mora de 1% ao mês a partir da citação até a data do efetivo pagamento, nos moldes requeridos na inicial.
+
+Vencida a ré, pagará as custas, despesas e honorários advocatícios, arbitrados estes em 10% do valor da condenação.
+
+P.R.I.
+
+São Paulo, 04 de agosto de 2014.
+
+CERTIDÃO PUBLICAÇÃO
+Certifico e dou fé que a r. sentença foi enviada ao DJE. Disponibilização em 06/08/2014 (publ. 70). Considera-se a data da publicação o primeiro dia útil subseqüente à data da disponibilização no DJE. Eu, G.F.F., Escrevente subsc. 
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

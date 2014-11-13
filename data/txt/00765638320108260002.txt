@@ -1,0 +1,76 @@
+
+
+SENTENÇA
+
+Processo Físico nº:0076563-83.2010.8.26.0002
+Classe - AssuntoProcedimento Ordinário - Defeito, nulidade ou anulação
+Requerente:José Almeida
+Requerido:Rubens Kapp e outros
+
+
+
+Juiz(a) de Direito: Dr(a). Carlos Eduardo Prataviera
+
+
+
+
+
+Vistos.
+JOSÉ ALMEIDA move ação pauliana em face de RUBENS KAPP, sua esposa MARCIA REGINA CROCCE KAPP e MARIA DE LOUDES AZEVEDO FRAZÃO, aduzindo, em apertada síntese, que ajuizou ação de execução de cheque contra o primeiro réu, que se frustrou por conta não localização de bens em nome dele. Isso porque os dois primeiros requeridos venderam o imóvel descrito na inicial, único bem passível de constrição judicial, em evidente consilium fraudis com a adquirente, ora terceira requerida. Pleiteia a anulação da escritura pública de venda e compra do imóvel.
+
+Citada, a corré Maria de Lourdes contestou a ação alegando, em resumo, que o autor litiga de má-fé, pois a execução foi proposta unicamente contra Rubens, emitente do cheque, e o imóvel foi adquirido por sua esposa Marcia, com quem é casado em regime de comunhão parcial, a título de herança. Assim, o imóvel está excluído da comunhão de bens. Apesar de se tratar de conta conjunta, apenas o emitente do cheque deve responder pela satisfação do débito. Sustenta ter adquirido o imóvel de boa-fé, pois não pesava nenhuma restrição contra a única proprietária e vendedora do bem à época da compra. Afirma que o imóvel é impenhorável, por se tratar de bem de família. Pede a improcedência.
+
+Houve réplica.
+
+Os corréus Marcia Regina e Rubens Kapp, não obstante regularmente citados (fls. 30 e 88/89), deixaram de contestar a ação.
+
+
+R  E  L  A  T  A  D  O  S.
+D  E  C  I  D  O.
+
+Trata-se de questão unicamente de direito, que dispensa a produção de outras provas além das que instruem os autos, motivo autorizante de se dar o julgamento no estado do processo, modalidade julgamento antecipado da lide.
+
+A ação é improcedente.
+
+O reconhecimento da fraude contra credores como causa de anulação do negócio jurídico pressupõe a existência concomitante de dois requisitos: eventus damni e consilium fraudis. O primeiro deles consiste na existência de prejuízo ao credor em virtude da alienação do bem, isto é, na hipótese de tornar-se insolvente o devedor, sem outros bens aptos a satisfazem a dívida. O segundo é o elemento subjetivo, caracterizado pela intenção ou ciência dos contratantes de que o negócio prejudicará o interesse dos credores do alienante.
+
+A respeito da ação pauliana, oportuna a lição de Humberto Theodoro Júnior:
+
+"Essa ação, que serve especificamente para os casos de fraude contra credores, comumente denominada ação pauliana, funda-se no duplo pressuposto do eventus damni e do consilium fraudis. Aquele consiste no prejuízo suportado pela garantia dos credores, diante da insolvência do devedor, e este no elemento subjetivo, que vem a ser o conhecimento, ou a consciência, dos contraentes de que a alienação prejudicará os credores do transmitente, desfalcando o seu patrimônio dos bens que serviriam de suporte para a eventual execução."
+
+
+No caso sub judice, cuida-se a ação principal de execução de cheque emitido pelo corréu Rubens Kapp em 25 de abril de 2006. O cheque em questão era oriundo de conta conjunta mantida pelo executado com sua esposa Marcia Regina, ora corré (fls. 12 dos autos principais).
+
+A execução foi proposta em março de 2007, sendo o executado citado em janeiro de 2014. Frustrada a execução por não terem sido encontrados bens em nome do executado passíveis de constrição, veio aos autos, por meio desta ação pauliana, a notícia de venda do imóvel em questão à corré Maria de Lourdes, em junho de 2008.
+
+Ocorre que o imóvel em questão não era de propriedade do executado, mas se tratava de bem particular de sua cônjuge, que o adquiriu por força de herança (fls. 42/43). Com efeito, os corréus são casados sob o regime da comunhão parcial de bens, no qual, como é sabido, não há comunicação entre os bens adquiridos por apenas um dos cônjuges a esse título (art. 1.659, inciso I, do Código Civil).
+
+Tanto é assim, que conforme constou da matrícula do imóvel (fls. 42/43) e da escritura de venda e compra (fls. 44/45), o imóvel foi vendido unicamente por Marcia Regina, que na transação foi meramente assistida pelo executado, seu cônjuge.
+
+Não há, pois, como reconhecer a alegada fraude contra credores, já que a alienação de imóvel que sequer era de propriedade do executado, por óbvio, não teria como reduzi-lo ao estado de insolvência. Esse argumento é suficiente, por si só, para afastar a pretensão do autor, porque o negócio que se busca anular com esta ação não foi celebrado pelo devedor do título executivo.
+
+Poder-se-ia argumentar que o cheque foi emitido a partir de conta conjunta de titularidade dos cônjuges, presumindo-se a assunção da dívida em benefício da família e prevalecendo a responsabilização solidária a que se refere o art. 1.644 do Código Civil.
+
+Entretanto, o reconhecimento dessa solidariedade somente teria cabimento para fins de que os bens de propriedade da esposa do executado também se sujeitassem à execução, ainda que não tivesse ela contraído pessoalmente a dívida. Não se estenderia, contudo, a ponto de fazer anular negócio celebrado unicamente pela cônjuge do devedor envolvendo seus bens particulares.
+
+No mais, é fato que a adquirente do imóvel deixou de exigir a apresentação de certidões negativas referentes à pessoa do executado, como é a praxe no mercado imobiliário. No caso específico dos autos, porém, isso não basta para se presumir por fraudulenta a alienação do imóvel, uma vez que o cônjuge da vendedora não detinha meação sobre o bem.
+
+Além do elemento objetivo representado pelo dano suportado pelo credor em razão da insolvência decorrente da alienação, é necessário que o terceiro adquirente tenha concorrido conscientemente para o ato danoso. Dessa maneira, estando o terceiro de boa-fé, não haverá como sujeitá-lo à responsabilidade executiva pelo débito do alienante. É necessário sempre que o terceiro tenha ciência efetiva ou presumida da existência da demanda contra o alienante e do seu estado de insolvência. Do contrário, o que prevalece é a boa-fé como dado suficiente para impedir a configuração da fraude.
+
+Não se nega de todo a possibilidade de ter havido a fraude, porém a presunção de boa-fé é a regra, e no caso em comento não se verifica qualquer outro indício de negócio fraudulento a reforçar a tese da inicial. A má-fé por parte da terceira adquirente deveria ter sido demonstrada a contento, no que não obteve êxito o autor.
+
+Observa-se, ainda, que é facultado ao exequente requerer a expedição de certidão para fins de averbação na matrícula dos imóveis do executado, para conhecimento de terceiros (CPC, art. 615-A), porém o autor não manifestou interesse na providência.
+
+Em suma, não tendo o autor demonstrado o fato constitutivo de seu direito (CPC, art. 333, inciso I), qual seja, a presença do consilium fraudis, e tampouco havendo que se falar em eventus damni por conta do negócio em questão, impõe-se a rejeição do pedido inicial.
+
+Por fim, deixo de condenar o autor nas penas por litigância de má-fé, por não vislumbrar conduta processual maliciosa de sua parte.
+
+Ante o exposto, JULGO IMPROCEDENTE o pedido e EXTINTO o processo, nos termos do artigo 269, inciso I, do Código de Processo Civil.
+
+Pelos ônus da sucumbência, arcará o autor com as custas e despesas do processo, bem como honorários do advogado da corré Maria de Lourdes, que se fixa em R$ 1.200,00 (CPC, art. 20, § 4º). Na execução da sucumbência, deverá ser observado o que prescreve o art. 12 da Lei nº 1.060/50.
+
+P.R.I.
+
+São Paulo, 28 de março de 2014.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

@@ -1,0 +1,50 @@
+
+
+SENTENÇA
+
+Processo nº:0009767-52.2011.8.26.0010
+Classe - AssuntoProcedimento do Juizado Especial Cível - Obrigação de Fazer / Não Fazer
+Requerente:Irene Kassaoka Somekava
+Requerido:Caixa de Assistência dos Funcionários do Banco do Brasil - Cassi
+
+Juiz(a) de Direito: Dr(a). Ricardo Dal Pizzol
+
+
+
+Vistos.
+
+I  Dispensando o relatório, na forma da lei. 
+II  Rejeito a preliminar de ilegitimidade ativa (fl. 76). 
+A legitimidade é aferida no plano do direito material. No caso, a autora é contratante do plano de saúde, figurando seu esposo como dependente. 
+Na condição de titular do plano de saúde, que custeia mediante pagamento das mensalidades, a autora tem o direito de exigir o cumprimento do contrato sempre que houver, como no caso, violação da relação jurídica firmada. Já decidiu o Eg. TJSP:
+
+?Importante lembrar que o contratante, ao celebrar o ato jurídico, assume na relação obrigacional uma posição universal (direitos e deveres), ou seja, não assume apenas deveres (pagar as mensalidades), mas também direito de exigir o cumprimento das obrigações oriundas do contrato, ostentando legitimidade para figurar no pólo ativo da demanda, podendo, pois, exigir o reembolso das despesas médicas originadas pelo atendimento hospitalar de sua esposa. Cumpre destacar que, no caso, não está o contratante apelante a demandar em nome próprio direito alheio, mas direito próprio consistente na proteção que contratou também para a sua esposa (usuária/dependente)?. (AP nº 9086539-40.2005.8.26.0000; Relator(a): Miguel Brandi; Comarca: Jaboticabal; Órgão julgador: 7ª Câmara de Direito Privado; Data do julgamento: 25/05/2011; Data de registro: 30/05/2011).
+Inegável, portanto, a legitimidade ativa da autora. 
+III  Ressalto que as partes, em audiência de instrução e julgamento, afirmaram expressamente não possuir interesse na produção de outras provas (fl. 74). O feito está pronto, portanto, para julgamento. 
+IV - No mérito, a ação deve ser julgada procedente. 
+No receituário médico de fl. 33, subscrito por médico especialista, lê-se o que segue: "Paciente com nódulo hepático biopsiado por laparoscopia com anatomopatológico de carcinoma de origem pancreatobiliar, não sendo possível determinar natureza primária ou metástica do mesmo. RNM de abdomen aponta realce em área cicatricial em segmento V e nódulo suspeito em adrenal esquerda. Solicito PET-CT para rastreamento de possível tumor primário e descartar outros sítios metastáticos. Ressalto que o exame é fundamental e urgente para a conduta no caso, pois pode evitar procedimentos invasivos que não teriam impacto na evolução do paciente caso a doença metastática fosse diagnosticada e nenhum outro exame o substitui neste intuito". 
+O relatório médico, como se percebe, é claro: o exame prescrito era imprescindível, urgente e insubstituível. 
+Cabe ao médico, que é o profissional habilitado, avaliar a situação de cada paciente e prescrever-lhe o melhor tratamento, não cabendo ao Juízo afastar a indicação do médico sem fundamento plausível. 
+A Súmula 469 do STJ é clara quanto à incidência do CDC nas relações de plano de saúde: "Aplica-se o Código de Defesa do Consumidor aos contratos de plano de saúde". 
+O regulamento do plano de saúde, no caso, prevê cobertura, genericamente, para "serviços de apoio à diagnose" (art. 16, III, fl. 12v) e para "exames e procedimentos complementares, indispensáveis para o controle da evolução da doença e elucidação diagnóstica" (art. 17, V, fl. 12v). 
+Em contrapartida, não há cláusula que afaste expressamente a cobertura em relação ao exame específico pleiteado nestes autos (PET-CT). Vide art. 33 (fls. 18/19). 
+Tratando-se de relação de consumo e de contrato de adesão, a interpretação deve ser favorável ao consumidor-aderente. Assim, não havendo cláusula expressa que afaste a cobertura do exame, deve-se entender que este está abrangido pelo contrato. 
+Além disso, o Superior Tribunal de Justiça já decidiu que, estando a doença abrangida pelo plano de saúde, não pode a operadora restringir tratamento indicado por médico para a cura do paciente-segurado, incluindo os exames necessários:
+Seguro saúde. Cobertura. Câncer de pulmão. Tratamento com quimioterapia. Cláusula abusiva. 1. O plano de saúde pode estabelecer quais doenças estão sendo cobertas, mas não que tipo de tratamento está alcançado para a respectiva cura. Se a patologia está coberta, no caso, o câncer, é inviável vedar a quimioterapia pelo simples fato de ser esta uma das alternativas possíveis para a cura da doença. A abusividade da cláusula reside exatamente nesse preciso aspecto, qual seja, não pode o paciente, em razão de cláusula limitativa, ser impedido de receber tratamento com o método mais moderno disponível no momento em que instalada a doença coberta. 2. Recurso especial conhecido e provido. (REsp 668.216/SP, rel. Min. Carlos Alberto Menezes Direito, 3ª Turma, j. 15/03/2007 grifei).
+Tal entendimento já foi inclusive sumulado pelo EG. TJSP (Súmula 96): "Havendo expressa indicação médica de exames associados a enfermidade coberta pelo contrato, não prevalece a negativa de cobertura do procedimento". 
+Ademais, a ausência de previsão do exame na relação de procedimentos obrigatórios da ANS não serve como fundamento para a tese da requerida. Os exames e procedimentos inovadores (mas não experimentais) devem ser cobertos pelas administradoras de plano de saúde ou seguro saúde, desde que recomendados de forma fundamentada pelo médico responsável. A lista da ANS contém uma relação mínima de procedimentos, o que não quer dizer que, estando o procedimento fora da lista, a cobertura esteja automaticamente afastada. 
+Em casos idênticos, referentes ao mesmo exame (PET-CT), já decidiu o Eg. TJSP:
+Obrigação de fazer cumulada com pedido de antecipação de tutela. Plano de saúde. Recusa de cobertura de exame PET-CT, para a autora, portadora de Neoplasia Maligna Secundária de Outras Localizações, sob a argumentação de não constar do rol de procedimentos instituídos pela ANS. Inadmissibilidade. Sentença de procedência que determinou a cobertura do custeio do exame pleiteado, que fica mantida. Aplicabilidade do Código de Defesa do Consumidor. Aplicação do art. 252 do Regimento Interno deste Egrégio Tribunal de Justiça. Recurso não provido. 
+
+PLANO DE SAÚDE - Ação cominatória - Decisão que impôs à ré o custeio de exame denominado PET SCAN a paciente acometida de câncer - Contrato posterior à Lei no 9.656/96 - Incidência das regras do Código de Defesa do Consumidor. Incabível negar cobertura ao segurado para realização de exame específico ao planejamento do melhor tratamento, ao fundamento de que o procedimento não está previsto no rol da Agência Nacional de Saúde. Demorados trâmites administrativos de classificação não podem deixar a paciente a descoberto, colocando em risco bens existenciais. Inocorrência de dano moral. Inadimplemento contratual que não causou maiores problemas à autora, que tão logo recebeu a negativa, ajuizou ação e obteve a tutela antecipada para realização do exame. Sentença mantida. Recursos não providos. (TJSP, Ap. 1820460220108260100) 
+PLANO DE SAÚDE. Suspeita de neoplasia. Necessidade do PET-CT. Recusa injusta da ré. Jurisprudência, agora já sumulada (súmula 96, TJSP), no sentido de que havendo indicação médica e nexo com a patologia coberta a negativa é descabida. Sentença que, orientada pela perspectiva da visão tradicional dos contratos de seguro, acolheu a restrição e denegou a cobertura do exame, por isso mesmo que não pode prevalecer. RECURSO PROVIDO. (TJSP, 1753715720098260100)
+Plano de Saúde. Doença coberta pelo seguro. Câncer. Negativa de exame de PET SCAN para detectar a possibilidade de tumores e metástase. Impossibilidade. Precedente análogo do STJ. Sentença mantida. RITJSP, art. 252 Recurso improvido. (TJSP, Ap. 64982620108260564)
+Plano de saúde - Exclusão da cobertura do exame PET SCAN - Restrição contratual alegada Inadmissibilidade. Existência de cobertura para a doença. Impossibilidade de exclusão de tratamento com o método mais moderno disponível no momento. Inteligência do artigo 51 do Código de Defesa do Consumidor. Sentença mantida. Recurso desprovido (TJSP, Ap. 6828654600)
+Pelas razões expostas, a procedência da ação é solução de rigor, confirmando-se a tutela antecipada concedida. 
+DECIDO. 
+Ante o exposto, JULGO PROCEDENTE a ação, para OBRIGAR a requerida a arcar com os custos da realização do exame requerido na inicial. Confirmo, assim, a tutela antecipada anteriormente concedida (fl. 42). 
+Sem condenação em custas, despesas e honorários advocatícios, nesta fase. 
+P.R.I.C.
+São Paulo, 26 de junho de 2012.
+
+Ricardo Dal Pizzol  Juiz de Direito

@@ -1,0 +1,81 @@
+
+
+CONCLUSÃO
+Em 21 de agosto de 2013, faço estes autos conclusos à MMa. Juíza de Direito Doutora LUCIANA NOVAKOSKI F.A. DE OLIVEIRA.
+Eu, __________, escrevente, dig.
+
+SENTENÇA
+
+Processo nº:0006366-71.2013.8.26.0011
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Moral
+Requerente:Dalcon do Brasil Indústria e Conexões Ltda e outro
+Requerido:Universo Online S/A
+
+
+
+Juiz(a) de Direito: Dr(a). Luciana Novakoski Ferreira Alves de Oliveira
+
+
+
+
+
+Vistos.
+
+Trata-se de ação de indenização por danos materiais e morais ajuizada por DALCON DO BRASIL INDÚSTRIA E CONEXÕES LTDA. e JACKELINE VIEIRA RIOS CONCEIÇÃO  em face de UNIVERSO ONLINE S/A.
+
+Alegam, em síntese, que a coautora Jackeline, na qualidade de sócia da empresa Dalcon do Brasil, contratou os serviços da ré, denominados UOL Host Plano de Hospedagem Econômica e UOL Host Domínios, que envolvem, respectivamente, a hospedagem do site da empresa e o serviço de armazenamento de informações de e-mail dela e de seus empregados. Afirmam que, em 04/04/2013, o site da empresa e o e-mail coorporativo da coautora e de todos os empregados saíram do ar. Após inúmeras tentativas de contato com a ré, sustentam que o problema não foi solucionado e tampouco foi fornecida resposta que explicasse os problemas existentes. Aduzem, ainda, que cerca de 80% de sua movimentação em vendas é efetuada pela internet e também pelo envio e recebimento de e-mails. Dessa forma, a indisponibilidade do site da empresa e dos e-mails corporativos causou-lhes lucros cessantes e, também, abalo à imagem da empresa, já que clientes e fornecedores que acessassem o site pensariam que a empresa havia fechado. Assim, requerem a condenação da ré ao pagamento de indenização por lucros cessantes, equivalentes à diminuição no faturamento da empresa de 04/04/2013 até a data do reestabelecimento dos serviços, a serem apurados em liquidação, e ao pagamento de R$ 5.000,00, pelos danos morais sofridos. Há pedido de tutela antecipada.
+
+A antecipação dos efeitos da tutela é deferida, à fl. 51. Contra essa decisão, é interposto agravo retido.
+
+A ré é citada e apresenta contestação. Aduz que o serviço de hospedagem compartilhada tem custo mais baixo e menos benefícios para seus usuários. Afirma, por conseguinte, a necessidade de obediência a determinadas regras, estabelecidas contratualmente, para sua utilização. Assevera que as autoras efetuaram um consumo excessivo de recursos no servidor em que estava hospedado o site da empresa, o que prejudicou demasiadamente os demais sites nele hospedados. Além disso, alega que encontrou um script malicioso no conteúdo hospedado pelas autoras, o que, nos termos da cláusula 9.5 do contrato firmado entre as partes, enseja a suspensão dos serviços contratados, independentemente de prévia notificação. Sustentam, assim, a ausência de falha na prestação de seus serviços e, ainda, a ausência de prova dos danos alegados pelas autoras. Requer a improcedência do pedido.
+
+Réplica, às fls. 106/107.
+
+Instadas acerca da pretensão na produção de provas, a ré pede o julgamento antecipado da lide, enquanto as autoras requerem a produção das provas documental e testemunhal.
+
+Realizada audiência de conciliação, não há acordo. 
+
+É o relatório.
+
+Fundamento e decido.
+
+Trata-se de julgamento antecipado do processo, nos termos do art. 330, inciso I, do Código de Processo Civil, diante do desinteresse da ré na dilação probatória e da desnecessidade de produção de prova oral.
+
+O pedido é procedente.
+
+As partes celebraram contrato de prestação de serviços, pelo qual a ré se obrigou a fornecer a hospedagem do site da empresa autora e a disponibilizar-lhe e-mails coorporativos, mediante pagamento mensal.
+
+No entanto, ela não cumpriu de forma adequada os serviços contratados, pois houve interrupção na sua prestação.
+
+Embora a ré afirme que deixou de proporcionar os serviços em decorrência de inadimplemento contratual por parte das autoras, que teriam disponibilizado script malicioso, e, por conta desse uso indevido, autorizado a suspensão dos serviços pela ré, nos termos da cláusula 9.5 do contrato, ela não se desincumbiu do ônus de comprovar irregularidade na conduta das autoras.
+
+Não há, nos autos, prova suficiente de que as autoras tenham praticado infração contratual. Isso porque essa comprovação somente poderia ser feita por prova pericial, em contraditório, o que não foi requerido pela ré. Ao contrário, ela limitou-se a juntar parecer unilateral (fl. 101/103), que, por tratar de questão técnica, é incompreensível.
+
+Por outro lado, não se poderia exigir a realização de prova negativa por parte das autoras, tampouco que compreendessem a explicação técnica e superficial apresentada pela ré. Veja-se, ademais, que, nos e-mails trocados entre as partes, a ré não apresentou qualquer satisfação ou explicação às suas clientes. Nem mesmo aventou essa possibilidade de script malicioso.
+
+Logo, as autoras não teriam condições de demonstrar a ausência de inserção de dados sobrecarregados no servidor da ré nem a inexistência de script malicioso. Como dito, o ônus probatório era da ré, que não realizou qualquer prova que corroborasse suas alegações.
+
+Desse modo, restou patente a falha na prestação dos serviços contratados. Em consequência, a suspensão do site da empresa e a impossibilidade de acesso dos e-mails corporativos causaram prejuízos às autoras.
+
+Além de veicular no site a comercialização de seus produtos, expondo fotos e descrição de seus materiais, tal espaço na rede serve como verdadeiro meio de publicidade para suas vendas. Por isso, a suspensão do site na internet gera consequente interrupção nos negócios da empresa.
+
+A veiculação do chamado marketing on-line é, atualmente, um dos meios mais utilizados pelas empresas para exposição de seus produtos e serviços na web. Há estudos que comprovam, em concreto, a apuração de lucros oriundos dessa publicidade.
+
+Ademais, a suspensão do site da empresa, por período considerável, leva à perda de credibilidade dela perante clientes e fornecedores e à presunção de que ela suspendeu suas atividades e não opera mais no mercado.
+
+Desse modo, é evidente o dano moral suportado pelas autoras. E a pessoa jurídica pode ser vítima de um dano à sua honra objetiva, e esse abalo advém de um dano de natureza patrimonial. Nesse sentido:
+
+?Não há como admitir dor psíquica da pessoa jurídica, senão abalo financeiro da entidade e moral dos membros que a compõem. Nem por isso, porém, deixará de ser reparado um dano de natureza moral contra a pessoa jurídica: apenas que, a nosso ver, esse dano moral sempre terá reflexo patrimonial. Será sempre economicamente apreciável, por exemplo, o abalo mercadológico que sofre uma empresa acusada injustamente, por exemplo, de vender produtos roubados ou falsificados. No campo da pessoa jurídica, o que levamos em conta no aspecto do dano moral é o ataque à honra objetiva, em síntese, a reputação e o renome. Evidente que não são aplicados à pessoa jurídica os princípios dos direitos personalíssimos.? (Código Civil Interpretado, Sílvio de Salvo Venosa, Editora Atlas, 2010, pág. 854).
+
+Apurado o dano moral, a fixação da indenização fica por conta do prudente arbítrio do juízo. Devem ser sopesados os fatores de suficiente castigo à ré e de ausência de enriquecimento ilícito para as autoras. Para tanto, tenho que o valor sugerido de R$ 5.000,00 ? equivalente à metade do capital social da empresa - seja suficiente e recomendável. Restarão castigada a ré, pela falha na prestação de seus serviços, e indenizadas as autoras.
+
+No tocante à requisição de lucros cessantes, pelo período em que o site da empresa e seus e-mails ficaram fora do ar, também é devida indenização.
+
+Durante todo o período de indisponibilidade do site, a empresa ficou impossibilitada de realizar negócios on line e, também, de divulgar seus produtos. Por isso, dada a importância, nos dias atuais, no volume de negócios realizados pela rede de computadores, mostra-se razoável o ressarcimento, na proporção de 80% da média do faturamento, calculada no período de suspensão dos serviços contratados, a título de lucros cessantes. A quantificação dos faturamentos da coatura deverá ser feito na fase de liquidação da sentença.
+ 
+Ante o exposto, JULGO PROCEDENTE o pedido para, confirmando a tutela antecipada, condenar a ré: a) à obrigação de prestar  os serviços contratados, durante a relação contratual; b) ao pagamento de valor correspondente a 80% do lucro da empresa, pelo período de suspensão dos serviços, a ser apurado na fase executiva, com base na média dos rendimentos da empresa nos últimos doze meses que antecederam o evento; e c) ao pagamento de indenização por danos morais, no valor de R$ 5.000,00, acrescidos de correção monetária, pela tabela do Tribunal de Justiça de São Paulo, e de juros de mora de 1% ao mês, ambos contados da presente sentença, que tornou líquido o valor da indenização. Em razão da sucumbência, arcará a ré com o pagamento das custas e despesas processuais e de honorários advocatícios de 10% sobre o valor total da condenação.
+
+P.R.I.C.
+São Paulo, 06 de setembro de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

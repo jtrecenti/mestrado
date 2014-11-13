@@ -1,0 +1,142 @@
+
+
+SENTENÇA
+
+Processo nº:0023146-94.2005.8.26.0002
+Classe - AssuntoProcedimento Ordinário - Assunto Principal do Processo >
+Requerente:Fiber Line Telecomunicações Ltda
+Requerido:Televisão Cidade S.a
+
+
+
+Juiz(a) de Direito: Dr(a). Regina de Oliveira Marques
+
+
+
+Vistos.
+
+
+
+FIBER LINE TELECOMINICAÇÕES Ltda; qualificada nos autos, propôs AÇÃO DE OBRIGAÇÃO DE FAZER C.C. PRECEITO COMINATÓRIO com pedido de tutela em face de TELEVISÃO CIDADE S.A; também qualificada, argüindo, em síntese, que em agosto/04 firmou com a requerida contrato de prestação de serviço por atacado de acesso à Internet e acesso a Pay TV, sendo que, desde a contratação, vem procedendo a vendas permitidas pelo contrato; entretanto, em 2005, a requerida rescindiu o contrato sem justa causa, em prejuízo à autora e seus clientes; ademais, a autora seria credora da requerida em dois milhões de reais em razão da confissão de dívida. Requereu a concessão da tutela para que a requerida restabelecesse de imediato o sinal de acordo com o contrato, sob pena de astreinte e, a final, a procedência da ação com a condenação da ré ao cumprimento do contrato com mantença dos sinais para o atendimento de seus clientes, além dos ônus da sucumbência. Deu à causa o valor de R$ 1.000,00, juntando documentos.
+
+Indeferida a tutela a folhas 146 e 193 dos autos.
+
+A ré apresentou contestação a folhas 330/344 arguindo que as partes celebraram contrato de serviços que abrangia várias cidades e cujo objeto era instalação de TV à cabo; modem e fastcondomínio, acesso à Internet entre outros; entretanto, a partir de abril/05, houve rescisão de contrato por iniciativa da ora requerida, com a notificação devida, bem como o pagamento de indenização à autora no montante de R$ 2.011.056,75, devidamente pagos, de acordo com os documentos acostados. Asseverou que teria havido conduta irregular da autora e cortou links clandestinos, com prejuízos à requerida e com embasamento para a não mantença dos serviços, também em razão da publicidade indevida e retenção de equipamentos. Requereu a improcedência do pedido, com condenação da autora aos ônus da sucumbência. Juntou documentos.
+
+Réplica a folhas 487/496 dos autos.
+
+Reconvenção proposta a folhas 208/224 onde a requerida reconvinte asseverou que a reconvinda teria comercializado produtos sem a anuência da reconvinte, bem como retendo aparelhos de sua propriedade, decorrendo prejuízos que deveriam ser ressarcidos de acordo com a cláusula 12.3 do contrato firmado, ou seja, 50% da média das faturas incorridas durante o contrato multiplicado pelo número de meses até completar 12 meses do contrato. Requereu, assim, a tutela para reintegração dos aparelhos e a procedência da reconvenção e condenação da reconvinda ao pagamento de R$ 822.310,60 à guisa de não devolução dos aparelhos; multa rescisória de R$ 726.098,45 do contrato de prestação de serviços de acesso à Internet; indenização por danos extra- contratuais e anulação do instrumento de transação, sendo ressarcida na quantia de R$ 1.266.634,05. Deu à causa o valor de 1.548.409,05, juntando documentos.
+
+Tutela indeferida a folhas 443. Pedido de reconsideração a folhas 451/454 e mantença a folhas 465. Agravo de Instrumento a folhas 471/485 tendo sido negado provimento a folhas 889/893.
+
+A folhas 444 a autora reconvinda pleiteou a desistência da ação com a extinção. A folhas 448/449 a requerida reconvinte não aceitou.   
+
+Contestação à reconvenção a folhas 501/514.
+
+Réplica a folhas 753/761.
+
+Audiência de conciliação restada infrutífera a folhas 914.
+
+Saneador determinando perícia técnica de telecomunicação e contábil a folhas 923.
+
+Laudo do perito judicial de telecomunicações a folhas 1063/1170. Manifestação da autora a folhas 1716/1719 e da requerida a folhas 1721/1735. Laudo do perito judicial contábil a folhas 1760/1789. Manifestação da requerida a folhas 1808/1813. 
+
+Manifestação dos requeridos a folhas 563/567 e 583/584 e do autor a folhas 579/580 e 586/588.
+
+Memoriais da autora a folhas 1833 e da requerida a folhas 1818/1828.
+
+É o Relatório.
+DECIDO.
+
+
+DA AÇÃO PRINCIPAL.
+
+
+Trata-se de ação ordinária de OBRIGAÇÃO DE FAZER com preceito cominatório por meio da qual a autora objetiva que a ré restabeleça o contrato firmado entre as partes na forma original.
+
+Por seu turno, a requerida alegou que a autora violou o contrato provocando a ruptura motivada, restando a não obrigação de restabelecimento do contrato.
+
+Segundo a regra estatuída por Paulo e compilada por Justiniano, a prova incumbe a quem afirma e não a quem nega a existência do fato (Dig. XXII, 3, 2). Assim sendo e tendo o Código de Processo Civil adotado tal regra, o autor precisa demonstrar a existência do ato ou do fato que constitua seu direito.
+
+É mister ressaltar que a procedência de uma ação não pode estar embasada no solo movediço do possível ou do provável, mas sim no terreno firme da certeza; essa a real exegese do artigo 333, inciso I do Código de Processo Civil. Bem por isso a milenar sabedoria latina já mencionava que actore incumbit probatio ? ou ainda, já sob a égide de Justiniano, diziam os romanos que allegatio e non probatio ? quasi non allegatio.
+
+O ponto de fato deve ser provado, porque é na verdade resultante dessa prova que a sentença a ser proferida na ação, vai se assentar para restaurar em sua inteireza e plenitude o direito ameaçado ou violado.
+
+Conforme Aguiar Dias : Não basta, todavia, que o autor mostre que o fato de que se queixa, na ação, seja capaz de produzir dano, seja de natureza prejudicial. É preciso que prove o dano concreto, assim entendida a realidade do dano que experimentou, relegando para a liqüidação, a avaliação do seu montante.
+
+Analisando o laudo de telecomunicações acostado a folhas 1063/1170 temos que as partes firmaram vários contratos com dois objetos principais: um para a instalação de equipamentos de assinantes e manutenção de rede externa de TV à cabo e outro de prestação de serviço por atacado de acesso à Internet e/ou TV à cabo no qual a autora adquiria lotes de assinaturas da ré e a comercializava no varejo.
+
+O primeiro contrato foi rescindido e pago à autora pela requerida a indenização de R$ 2.011.056,75.
+
+O segundo contrato, objeto desta causa, foi rescindido em abril de 2005 tendo a requerida alegado irregularidades em seu cumprimento por parte da ora autora, interrompendo a conexão de dados.
+
+Pelo que se depreende, razão cabe à requerida em relação à ruptura do contrato firmado com a autora; senão vejamos.
+
+A autora veiculou, por meio de panfleto distribuído em Aracaju, publicidade que induzia a idéia de que era prestadora e detentora de licença para serviço de TV a cabo, quando, na verdade, era a requerida; assim, cometeu irregularidade contratual se passando pela requerida, embora não tenha se utilizado do nome da requerida no panfleto.
+
+Quanto ao preço cobrado para as duas primeiras mensalidades com desconto de 50% a violar a cláusula 7.1 do contrato acostado a folhas 105/119 dos autos temos que era vedado à autora informar à cliente preço de acesso inferior ao praticado pela requerida na localidade; ora, apesar de a autora ter acostado tabelas de outras parceiras da requerida com descontos promocionais, não poderia proceder a desconto sem qualquer aprovação da requerida, já que também acostou correspondências ? fls.663 ? comprometendo-se a enviar à requerida material produzido para prévia aprovação de preço, bem como e-mail interno ? fls. 666 a fim de requerer da ré a tabela de preços. Assim, não poderia embasar seu comportamento no fato de que se a requerida teria permitido para uma, teria que permitir para outra ? autora, restando que o contratado não pode ser presumido, infringindo, cláusula contratual.
+
+Em relação à retenção indevida dos aparelhos da ré, a autora não os devolveu, de acordo com o perito, na data correta e, por ser fiel depositária e estando obrigada ? cláusula 3.1 do contrato ? à guarda dos aparelhos, já que transferia à autora a responsabilidade que seria dos assinantes, incorreu na multa prevista contratualmente.
+
+Também apurado pelo experto, a autora tinha permissão contratual para administrar carteiras de assinantes de cable modem e prestar serviços ISP, estando interligada aos equipamentos da requerida, sem qualquer violação contratual; não obstante, ainda que houvesse entre as partes acordo tácito para utilização da estrutura da ré ? utilização de links de fibra óptica, de acordo com as correspondências entre partes e que a requerida não proibia a autora de sublocar bandas, fornecendo especificações de cabos, aos 28/12/04 a requerida manifestou desinteresse em manter tal acordo, findando a possibilidade de a autora compartilhar sua infra-estrutura dando prazo de 90 dias à autora para migração e mais, a autora confirmou a migração e houve a desconexão na mesma data. Em que se pese que a requerida se utilize de contratos para autorizar o uso de link de dados interligados aos seus equipamentos, a priori e durante certo tempo, permitiu à autora o uso gratuito, restando que parte dos assinantes não podem ser caracterizados como irregulares, já que o provedor PASSE LIVRE estava pela requerida autorizado a operar em sua rede física, descabendo qualquer indenização mesmo tendo a autora usufruído de recursos da requerida e auferindo vantagens, pois, de acordo com o perito, a requerida foi co-responsável.
+
+O JUIZ NAO PODE DEIXAR DE ATUAR A LEI PARA SE TRANSFORMAR EM CRIADOR DE DIREITO SUBJETIVO (Tribunal de Alçada do Rio Grande do Sul ? Rel: JOÃO AYMORE BARROS COSTA).
+
+
+Do laudo pericial contábil se extrai que a multa por violação contratual seria no valor de R$ 726.098,45 e que o valor por ter retido os aparelhos da requerida seria de R$ 1.575.157,75.
+
+Assim, alegando e comprovando a ré fato extintivo do direito da autora, cumpriu com o ônus estatuído no art. 333, inciso II, do Código de Processo Civil. Não se justifica o inconformismo da autora quanto à rescisão porquanto violou disposição contratual de veiculação de propaganda como se fosse detentora dos serviços e também oferta de serviços com preços promocionais não autorizados.
+
+Por todo o exposto, descabe o alegado pela autora a fim de obrigar a requerida a restabelecer as condições anteriores do contrato.
+
+DA RECONVENÇÃO.
+
+A reconvenção é ação onde o réu defende pretensão própria tutelável que visa modificar ou excluir o pedido do autor, no mesmo processo, entendendo que a contestação e a reconvenção são autônomas e o autor reconvinte poderia ser autor de outro processo e apenas aproveita o já proposto, desde que a ação principal e a reconvenção sejam conexas em seus pedidos. 
+
+A reconvenção é ação onde o réu defende pretensão própria tutelável que visa modificar ou excluir o pedido do autor, no mesmo processo, entendendo que a contestação e a reconvenção são autônomas e o autor reconvinte poderia ser autor de outro processo e apenas aproveita o já proposto. 
+
+No caso em tela, em parte dos pedidos reconvencionais não há liame entre eles e a ação principal, tampouco com a matéria de defesa, devendo a reconvenção ser parcialmente analisada. Assevere-se que o pedido de anulação do instrumento particular de transação e outras avenças por dolo da autora é matéria estranha aos autos que deve ser dirimida em ação própria, inclusive com pleito de devolução de valores pagos se o instrumento for anulado.
+
+Desta feita, EXTINGO a reconvenção quanto ao pedido de anulação de instrumento particular de transação e outras avenças firmado pelas partes por não estar presente a condição de admissibilidade de reconvenção em relação a ele.
+
+Passo a examinar os pedidos deduzidos em reconvenção, ou seja, as indenizações e reintegração dos equipamentos. 
+
+Pleiteou nesta ação a reconvinte que fosse a autora condenada ao pagamento de multa rescisória do contrato de prestação de serviços por atacado de acesso á internet no valor de R$ 726.098,45.
+
+Conforme se depreende do todo asseverado, a autora foi responsável pela ruptura do contrato firmado entre as partes por propaganda irregular e descontos não autorizados, cabendo a multa fixada no contrato que confirmada pelo perito contábil perfaz o valor de R$ 726.098,45.
+
+O pedido de reintegração seria, a priori, cabível, vez que, conforme os laudos, a autora reteve os equipamentos da requerida sem a devida devolução quando da rescisão, restando que era fiel depositária dos bens em substituição aos assinantes. Entretanto, a própria autora notificou os assinantes no sentido de que era a rela proprietária dos bens e que estes não deveriam ser devolvidos à autora; assim, o pedido é revertido em perdas e  danos, conforme cláusula contratual 3.4.  
+
+Quanto à multa pela retenção dos equipamentos da requerida pela autora, comprovado restou o fato, ensejando a indenização prevista no contrato firmado entre as partes no importe de R$ 1.575.157,75, devidamente atualizado pelo perito contábil.
+
+A respeito dos prejuízos extracontratuais alegados pela requerida, o corpo desta sentença já os afastou, visto que, em um primeiro momento e durante certo tempo, a requerida permitiu à autora o uso gratuito e operação em sua rede física, sem caracterização de que os assinantes seriam irregulares. Mesmo tendo a autora auferido vantagens, o fato se deu por desídia da requerida, descabendo qualquer indenização, valendo lembra que: Se a vítima contribui com ato seu na construção dos elementos do dano, o direito não se pode conservar alheio a essa circunstância (RUI STOCO in RESPONSABILIDADE CIVIL E SUA INTERPRETAÇÃO JURISPRUDENCIAL, ed. RT, 4.ª ed., p. 89.).
+
+  
+Não está no espírito da Lei obrigar o juiz abdicar de sua racionalidade e julgar contra a evidência.
+
+Ante o exposto, por tais fundamentos e pelo mais que dos autos se vê, JULGO:
+1)    IMPROCEDENTE a ação principal.
+
+2)   PARCIALMENTE PROCEDENTE a reconvenção, condenando a autora reconvinda ao pagamento à requerida reconvinte dos seguintes valores:
+
+a)por atacado de acesso à internet no valor de R$ 726.098,45, devidamente corrigido desde a propositura multa rescisória do contrato de prestação de serviços da reconvenção até efetivo pagamento, acrescido de juros de 1% a.m. desde a citação.
+
+b)     multa pela retenção dos equipamentos da requerida, com base contratual no importe de R$ 1.575.157,75, devidamente corrigida desde o laudo até efetivo pagamento e acrescida de juros de 1% desde a citação.
+
+ 3)       JULGO IMPROCEDENTE o pedido reconvencional quanto aos danos extracontratuais.
+
+4)       JULGO EXTINTA a reconvenção quanto ao pedido de anulação de instrumento particular de transação e outras avenças firmado pelas partes por não estar presente a condição de admissibilidade de reconvenção em relação a ele, conforme o artigo 267, inciso VI, do Código de Processo Civil. 
+
+Pela sucumbência a maior, CONDENO a autora reconvinda ao pagamento das custas, despesas processuais e honorários advocatícios, estes arbitrados em 10% da condenação, em consonância às diretrizes do artigo 20, parágrafo 3º do Código de Processo Civil.  
+
+JULGO EXTINTAS as ações, com julgamento do mérito, conforme artigo 269, I do Código de Processo Civil.
+
+Para fins de preparo para eventual recurso de apelação fixo, conforme artigo 4ª, inciso II, parágrafo 2ª da lei 11.608/03, o valor da condenação.
+
+P.R.I. 
+
+São Paulo, 15 de fevereiro de 2011.
+
+
+Regina de Oliveira Marques
+         Juíza de Direito

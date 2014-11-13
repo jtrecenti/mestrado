@@ -1,0 +1,53 @@
+
+
+CONCLUSÃO
+Aos  22/08/2013, promovo a conclusão destes autos ao Dr(a). Antonio Carlos de Figueiredo Negreiros, MM(ª). Juiz(a) de Direito da 7ª Vara Cível Central. Eu, _________, Escrevente, subscrevi.  
+
+SENTENÇA
+
+Processo nº:0208666-17.2011.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Prestação de Serviços
+Requerente:Sudeste Armazéns Gerais e Logística Ltda
+Requerido:Sopho Business Communications Soluções Empresariais Ltda
+
+Juiz(a) de Direito: Dr(a). Antonio Carlos de Figueiredo Negreiros
+
+VISTOS,
+SUDESTE  ARMAZÉNS GERAIS E LOGÍSTICA LTDA ajuizou ação de DECLARATÓRIA DE INEXIGIBILIDADE DE TITULO C.C. CANCELAMENTO DE PROTESTO E INDENIZAÇÃO E PEDIDO LIMINAR PARA A RETIRADA DOS EQUIPAMENTOS em face de SOPHO BUSINESS COMMUNICATIONS SOLUÇÕES EMPREARIAIS LTDA (atual denominação de PHILIPS BUSINESS COMMUNICATIONS SOLUÇÕES EMPREARIAIS LTDA). Alega, em suma, que realizou contrato de prestação de serviços com a ré para a locação de uma central telefônica dotada de sistema eletrônico de comunicação e cessão de uso de programação do referido aparelho; a central telefônica foi instalada em 10/01/2009 após exaustiva manutenção remota; que foram inúmeras as ordens de serviços para que a central funcionasse a contento, razão porque a ré nunca se sentiu confortável para cobrança das mensalidades no período, até mesmo porque em dado momento a autora foi orientada pela ré para fazer uma conexão direta para não perder ligações; que em 10/05/2010 a autora farta dos problemas decidiu contratar uma prestadora de telefonia no lugar dos serviços da requerida; que perdeu clientes pelos constantes problemas no sistema de telefonia da ré; que após comunicada da intenção da autora de rescindir o contrato a ré emitiu faturas todas com vencimento para 10/05/2010 e apontou o nome da autora no cadastro restritivo de crédito. Requereu seja declarada a inexigibilidade dos títulos emitidos pela ré, com a exclusão dos apontamentos restritivos no SERASA e a condenação da ré ao pagamento de uma indenização por dano moral, que estima no valor correspondente a 12 locativos. Requreu, ainda, a título de antecipação de tutela, que a ré seja intimada para retirada do equipamento. Juntou os documentos de fls. 19/182.
+A tutela antecipada foi concedida para a intimação da ré para retirada da central telefônica.
+A ré ofereceu a contestação de fls. 269/281. Apresenta preliminar de inépcia da inicial. No mérito, alega que houve regular prestação de serviços à autora, tanto que a autora manifestou integral satisfação com o serviço prestado em todas as ordens de serviço executadas (manutenção periódica); que a reprogramação da central telefônica foi realizada com o maior zelo para mitigar a possibilidade de dano à autora, o que incluiu o empréstimo de uma outra central telefônica; que não existe qualquer notificação da autora manifestando insatisfação com os serviços prestados pela ré. Requereu a improcedência do pedido. Juntou os documentos de fls. 283/375.
+A ré apresentou a pedido reconvencional às fls. 377/387 para a cobrança dos aluguéis insatisfeitos. Juntou os documentos de fls. 389/517.
+Réplica a fls. 524/530.
+A reconvinda apresentou contestação (fls. 532/537).
+A tentativa de conciliação em audiência restou infrutífera (fls. 561).
+É o relatório.
+DECIDO.
+O julgamento antecipado se impõe porque a prova requerida pela autora ? depoimento de testemunhas - não se mostra hábil a desqualificar a prova documental produzida.
+Afasto a preliminar de inépcia da inicial, porquanto a inicial preenche todos os requisitos do Artigo 282 do CPC porque a causa de pedir está perfeitamente identificada e o pedido é certo e determinado.
+O objeto do contrato celebrado entre as partes era a locação de um equipamento de PABX e a cessão de uso dos programas do equipamento locado, com o fim de modernizar o sistema de telefonia da autora.
+A autora tomou a iniciativa da rescisão do contrato e pretende seja declarada a inexigibilidade das mensalidades avençadas, sob a alegação que o equipamento nunca apresentou um desempenho satisfatório.
+Pois bem, consta no período de vigência do contrato a abertura de dez chamados da autora (vide relatório de fl. 321) que não se referem, portanto, a visita de rotina.
+As cópias das ordens de serviço que instruem a inicial e a contestação dão conta de que algumas dessas ocorrências referem-se a problemas com placas da CPU do aparelho, conforme os seguintes documentos:
+a) fl. 133 ? O.S. de 07/04/2009 ? placa retirada para substituição.
+b) fl. 135 ? O.S. de 17/04/2009 (faz referência à pendência da substituição da placa recomendada na OS anterior).
+c) fl. 312 ? O.S. de 23/07/2009 ? problemas de travamento de canais e áudio persistente;
+d) fl. 313 ? O.S. de 16/10/2009 ? problemas no ambiente WAN ? ligações não completadas ou interrompidas.
+e) fl. 143 ? O.S. de 05/11/2009  - faz referência à pendência da troca da placa, embora os testes não constaram os defeitos anteriores.
+f) fl. 315 ? O.S. de 30/11/2010 realizada a troca da placa.
+g) O documento de fl. 316 ? de 22/01/2010 - faz referência a novos problemas em alguns ambientes do sistema.
+h) fl. 153 ? OS de 17/03/2010 ? constatado problema no funcionamento do aparelho com provável origem nas placas de tronco e o cliente foi orientado para ligar os aparelhos diretamente nas linhas.
+Nota-se, portanto, que houve constante manutenção do aparelho, porém o persistente problema verificado a partir de março de 2010 justificava o interesse manifestado pela autora de rescisão do contrato, sem incidência da multa.
+Isso, todavia, não significa que a autora não utilizava o bem locado, inclusive no período em que o defeito na placa dificultava o uso do PABX em alguns ambientes (exceção feita ao problema constatado em março de 2010 que, pelo que se extrai das mensagens de fls. 155 e fl. 117 não foi solucionado até o pedido de rescisão do contrato).
+Pelo contrário, as pontuais reclamações encaminhadas servem de prova de que o equipamento tinha utilidade, tanto que a própria autora manifestava interesse na prorrogação do contrato antes do problema de funcionamento que levou a autora a contratou outro serviço.
+A ré, por sua vez, justificou que aguardava a assinatura do contrato para emissão das faturas, o que explica a falta de faturamento do serviço contrato antes de junho/2010 e nunca abriu mão da cobrança das mensalidades insatisfeitas, embora tivesse proposto a diluição dos valores insatisfeitos nas faturas vincendas..
+Não há uma única mensagem trocada anteriormente a maio de 2010 manifestando insatisfação da autora com o aparelho locado ou mesmo alguma solicitação de abatimento ou desconsideração dos aluguéis em razão de mau funcionamento do aparelho.
+Se o aparelho esteve no período efetivamente instalado no estabelecimento da autora e a ré ofereceu a prometida assistência técnica, não há como afastar a exigibilidade do aluguel avençado, exceto no período em que o aparelho parou de funcionar (17/03/2010).
+Neste contexto, tinha a autora motivo para postular a rescisão do contrato, porém são devidos os aluguéis entre a data da instalação do aparelho e a manifestação do problema que levou à rescisão do contrato (17/03/2010).
+Não se justifica a pretendida indenização por dano moral, haja vista que as faturas insatisfeitas, na maior parte, são efetivamente devidas.
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE o pedido para DECLARAR A RESCISÃO DO CONTRATO, por justa causa, bem como inexigíveis os serviços faturados a partir de 17/03/2010. Julgo improcedente o pedido indenizatório formulado pela autora.
+Por outro lado, JULGO PARCIALMENTE PROCEDENTE a RECONVENÇÃO para CONDENAR a RÉ ao pagamento das faturas do período de efetiva prestação de serviços (10/01/2009 a 17/03/2010).
+Diante da sucumbência recíproca, cada uma das partes arcará com o pagamento das custas despendidas e com os honorários de seu advogado, sem prejuízo do arbitramento de honorários para a fase de execução de sentença, caso não haja voluntário pagamento no para previsto no artigo 475-J do CPC.
+P.R.I.
+São Paulo,  13/12/2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

@@ -1,0 +1,59 @@
+
+
+SENTENÇA
+
+Processo nº:0006438-32.2011.8.26.0010
+Classe - AssuntoProcedimento do Juizado Especial Cível - Pagamento
+Requerente:MARCOS ANTONIO MARIA
+Requerido:Porto Seguro Companhia de Seguros Gerais
+
+
+
+
+Juiz(a) de Direito: Dr(a). Ricardo Dal Pizzol
+
+
+
+
+Vistos.
+
+
+
+Dispensado o relatório, na forma da lei.
+
+
+Passo a Fundamentar.
+I ? Rejeito a preliminar de carência da ação por falta de interesse de agir, por se confundir com o mérito da demanda.
+II ? Rejeito a preliminar de ilegitimidade passiva, por também se confundir com o mérito. Ainda que se reconheça que a requerida não tem qualquer responsabilidade no ocorrido, a questão é de mérito e não de ilegitimidade passiva. Na lição de DINAMARCO, "será inadequado falar em ilegitimidade quando, ainda que contrariamente ao direito, do provimento se possa esperar o proveito jurídico e prático desejado. Se cobro judicialmente um crédito que não é meu, certamente não terei direito algum à sentença favorável, porque não sou credor; se peço a condenação de alguém a pagar débito alheio, idem; nessas duas situações, porém, a sentença que julgasse procedente a minha pretensão seria plenamente capaz de oferecer-me o proveito que desejo. Nada teria de inútil, embora contrária à lei material. (...) Sempre que se trate de obrigações fungíveis, a ausência de titularidade ativa ou passiva (direitos e obrigações) é questão de mérito, sendo improcedente a demanda e não ilegítima a parte. Os tribunais brasileiros são fortemente propensos a tratar como ilegitimidade esses casos de ausência do direito do autor perante o réu. (...) Na verdade, tais demandas são improcedentes? (Instituições, v. II, p. 307).
+III - No mérito, a ação deve ser julgada improcedente.
+Após a ocorrência do acidente, a filha do autor ajuizou ação contra a requerida para cobrança da indenização do seguro, sob a alegação de que o veículo sofrera "perda total". A ação foi julgada parcialmente procedente em 1º grau, em 04.10.1999, com condenação da requerida ao pagamento do seguro contratado, no valor de R$ 16.500,00, com os acréscimos legais (fl. 50). Em 08.02.2001, as partes requereram, conjuntamente, autorização para venda do "salvado", com depósito do produto da venda em Juízo, "aguardando-se final decisão, ocasião em que será levantado por quem de direito" (fl. 53). O pedido foi deferido (fl. 102).  Em 17.05.2005, a filha do autor noticiou a venda do "salvado", que até então havia permanecido na posse do autor (vide fl. 05, 2º e 3º parágrafos), pelo valor de R$ 1.200,00, que foi depositado nos autos (fl. 51). Em 17.12.2007 (fls. 103/104), foi protocolizado acordo, pondo fim à demanda, por meio do qual a requerida obrigou-se a pagar à filha do autor a quantia de R$ 54.000,00, com quitação plena, expedindo-se guia de levantamento do depósito de R$ 1.200,00 em favor da requerida (vide fl. 104, parte final).
+Segundo o que se depreende dos autos, o veículo ainda continua registrado em nome do autor junto aos órgãos de trânsito (fl. 22), não tendo sido promovida sua "baixa", apesar da perda total. Daí porque o IPVA continua sendo lançado em nome do autor. 
+A principal questão, no caso, parece ser a seguinte: quem tinha o dever (ou ônus) de promover a "baixa" do veículo sinistrado? 
+Dispõe o art. 126 do Código de Trânsito Brasileiro:
+Art. 126. O proprietário de veículo irrecuperável, ou definitivamente desmontado, deverá requerer a baixa do registro, no prazo e forma estabelecidos pelo CONTRAN, sendo vedada a remontagem do veículo sobre o mesmo chassi, de forma a manter o registro anterior.
+Parágrafo único. A obrigação de que trata este artigo é da companhia seguradora ou do adquirente do veículo destinado à desmontagem, quando estes sucederem ao proprietário.
+
+Ou seja, a obrigação de requerer a baixa do registro é, a princípio, do proprietário do veículo sinistrado. Tal obrigação passa a ser da companhia seguradora ou do adquirente do veículo destinado à desmontagem, quando estes sucederem ao proprietário.
+Entendo, porém, que a requerida não chegou a "suceder" o autor no que diz respeito à propriedade do veículo. 
+O próprio autor afirmou na petição inicial (fl. 05, 2º parágrafo) que, entre a ocorrência do acidente em 1997 e a alienação do veículo como "sucata" em 2004 (fl. 62), este permaneceu guardado em sua garagem. Conforme fl. 05, 3º parágrafo, foi o próprio autor que providenciou a venda do "salvado" para terceiro (fl. 62), depositando o dinheiro nos autos (vide fls. 51/52), para que fosse levantado, posteriormente, "por quem de direito" (na forma da petição conjunta de fl. 53). 
+Em nenhum momento, portanto, a requerida obteve a posse desse veículo, que passou diretamente do autor para o terceiro, sendo que tal transferência foi conduzida unicamente pelo autor. 
+A alegação do autor de que a propriedade do veículo foi transferida para a requerida em 07/10/1997, com a assinatura do documento de transferência, não se sustenta (fl. 34). Como regra geral, a propriedade de veículos automotores transmite-se com a tradição (artigos 1226 e 1267 do CC), que é a entrega da coisa ao adquirente, com ânimo de transferir a propriedade. 
+A tradição pode ser real, simbólica ou ficta. Na tradição real, há entrega material da coisa do alienante ao adquirente. Na tradição simbólica, embora não exista entrega física da coisa, o comportamento concludente das partes, valorado pelos usos e costumes, produz o mesmo efeito da entrega física. É o caso, por exemplo, da entrega das chaves de um veículo. Finalmente, a tradição ficta, ou consensual, resulta de convenção entre as partes, sem conduta ou sinais exteriores fáticos indicativos da transmissão da propriedade, de que são exemplos a traditio brevi manu e o constituto possessório (art. 1267, parágrafo único, do CC). 
+No caso, não houve qualquer tipo de tradição do autor para a requerida (real, simbólica ou ficta). Logo, não tendo ocorrido tradição, não houve transferência da propriedade.
+Chamo a atenção, ainda, para o fato de que não consta o "De acordo" da seguradora no documento de transferência de fl. 34. 
+É preciso ter em mente, ainda, que a transferência dos "salvados" à seguradora é uma consequência do pagamento da indenização contratada. Assim, como se pode compreender que a assinatura do DUT em 07/10/1997 tenha implicado em transferência do veículo, se o objeto da ação de indenização era justamente a negativa da requerida em pagar o seguro? Em outras palavras: não faz sentido afirmar que os "salvados" foram transferidos à requerida em 07/10/1997, se, nessa época, a requerida negava inclusive o seu dever de pagar a indenização. 
+Na verdade, o direito da requerida sobre o produto da alienação do salvado (e não sobre o salvado em si) só foi reconhecido definitivamente no acordo protocolizado em 17.12.2007 (fls. 103/104), após, portanto, o autor ter vendido a sucata do veículo para terceiro (fl. 51). 
+Em face do exposto, entendo que a seguradora nunca se tornou proprietária do veículo objeto destes autos, tendo a propriedade, na verdade, sido transferida diretamente do autor para o terceiro (fls. 51 e 62). 
+Assim, considerando que a requerida não "sucedeu" ao autor na posição de proprietário do bem, não era sua a obrigação de requerer a baixa do registro do veículo sinistrado, na forma do art. 126, parágrafo único, do CTB, já transcrito acima ("A obrigação de que trata este artigo é da companhia seguradora ou do adquirente do veículo destinado á desmontagem quando estes sucederem ao proprietário").
+Tal obrigação, como se pode perceber, era do próprio autor ou do adquirente do veículo (fl. 62). 
+Além disso, a Resolução CONTRAN nº 011/98 condiciona a baixa do veículo sinistrado com perda total ao recolhimento das "partes do chassi que contêm o registro VIN e suas placas" (art. 1º, §1º), o que deverá ser efetivado "antes da venda do veículo ou sua destinação final" (art. 1º, §2º). Ora, como a requerida poderia promover tal baixa, em face dessas exigências, se o autor alienou o veículo como sucata para terceiro em 2004 (fl. 62)? 
+Assim, em face do exposto, parece-me que o autor dispõe de dois caminhos: ( i ) exigir que o terceiro adquirente do veículo promova a baixa; ( ii ) ingressar com ação diretamente contra a Fazenda Pública, para desconstituição dos débitos de IPVA, com fundamento no art. 11, caput, da lei 6.606/89 (vide, nesse sentido: TJSP, Ap. 787.311-5/8-00; TJSP, Ap. 0368263-02.2009). Não pode, contudo, pelas razões expostas, exigir que tal baixa seja promovida pela requerida. 
+IV ? Afastada a obrigação de a requerida dar baixa no registro do veículo, ficam prejudicados, por consequência, os seguintes pedidos: ( i ) obrigar a requerida ao pagamento dos débitos de IPVA; ( ii ) indenização por dano moral. 
+Considerando que não era dever da requerida promover a baixa no registro, não se pode cogitar em ato ilícito passível de reparação por dano moral. Da mesma forma, não sendo a requerida proprietária do veículo, nem responsável pela sua baixa no registro, também não pode ser obrigada a pagar os débitos de IPVA pendentes. 
+Por todas as razões expostas, a ação deve ser julgada improcedente.
+DECIDO.
+Ante o exposto, JULGO IMPROCEDENTE a ação, revogando, por conseguinte, a tutela antecipada concedida à fl. 66. Oficie-se. 
+Sem condenação em custas ou honorários, nesta fase, na forma da lei.
+P.R.I.C.
+São Paulo, 17 de fevereiro de 2012.
+RICARDO DAL PIZZOL ? Juiz de Direito

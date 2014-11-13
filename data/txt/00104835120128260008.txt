@@ -1,0 +1,75 @@
+
+
+SENTENÇA
+
+       CONCLUSÃO
+Em 06 de novembro de 2012,
+Faço estes autos conclusos ao(à)
+MM.(ª) Juiz(íza) de Direito, 
+Dr. Luciane Cristina da Silva 
+Eu,          , Luciane Cristina da Silva, digitei e subscrevi.
+
+Processo nº:0010483-51.2012.8.26.0008 - Procedimento do Juizado Especial Cível
+Requerente:Maria José Martins Ferreira
+Requerido:Banco CSF S/A
+Juiz(a) de Direito: Dr(a). Luciane Cristina da Silva
+
+Controle nº 1462/12
+Vistos.
+Trata-se de ação de indenização.
+Dispensado o relatório nos termos do artigo 38 da Lei 9099/95.
+A autora afirma que celebrou contrato de cartão de crédito com o réu e que a fatura vencida em novembro de 2009, no valor de R$197,30, foi integralmente paga, sendo R$50,00 em 23.11.09 e R$150,00 em 28.11.09. No entanto, o pagamento foi erroneamente calculado como parcelamento da fatura. Foi feito o cancelamento do parcelamento, mas a fatura de janeiro de 2010 cobra valor maior do que o devido, o que deu causa à cobrança de juros e encargos irregulares. Em audiência, foi esclarecido que a autora fez um acordo para o pagamento de débitos que incluíam estes encargos que ela considera indevido, razão pela qual pleiteia a devolução dos valores pagos. 
+O réu alega o valor pago pela autora em 23.11.2009 correspondia, exatamente, à da prestação do acordo ofertado na fatura, razão pela qual foi entendido como parcelamento desta, com os encargos decorrentes. Sustenta a licitude e regularidade do acordo e nega a caracterização de qualquer dano. 
+O pedido é parcialmente procedente.
+De fato, a quantia de R$50,00 paga pela autora em 23.11.2009 correspondia ao valor de entrada proposto pelo réu para parcelamento da fatura vencida em 20.11.2009 (fls. 24). No entanto, na fatura de janeiro de 2010 já constava o cancelamento do parcelamento da fatura e, portanto, não se justifica, por este motivo, a cobrança de qualquer encargo da autora. Ademais, o pagamento de R$150,00, três dias após o suposto pagamento da entrada do acordo, já deveria ser suficiente para desconstituir qualquer parcelamento de fatura, uma vez que a somatória das quantias quitadas pela autora, em um mesmo mês, superava seu débito junto à administradora do cartão de crédito. 
+Ademais, há que se considerar que a fatura do mês de dezembro de 2009 (fls. 26/27) é de difícil entendimento. Com efeito, os lançamentos devidos totalizam R$503,07 (e não R$522,25 como consta). No entanto, ao invés de constar como crédito apenas o valor pago pela autora, ou seja, os R$200,00 pagos no mês anterior, creditou-se a quantia de R$397,59. Esta quantia não corresponde nem ao pagamento efetivado pela autora e nem mesmo à somatória deste com o valor do parcelamento da fatura, que foi de R$147,30. De qualquer forma, foi cobrada da autora a quantia de R$321,96. Esta quantia foi integralmente paga um dia antes do vencimento (fls. 25). Consequentemente, débito algum havia para ser cobrado no mês subsequente. 
+Contudo, em janeiro de 2010, ao invés de cobrar da autora apenas os lançamentos atinentes às suas compras, no valor de R$281,69 (fls. 29), o réu apresentou o total da fatura em R$409,50, novamente, de forma incompreensível.    
+A partir de então, as cobranças a maior são uma constante, conforme tabela que se segue. Esclareça-se que o cálculo dos valores devidos contempla apenas os lançamentos atinentes a compras da autora, taxas de manutenção da conta, seguros e IOF, sem os encargos. 
+
+
+11/09Valor depositado (R$)
+       197,30Valor cobrado (R$)
+        197,30   Pago (R$)
+     200,00Diferença (R$)
+       + 2,70
+
+12/09       Débito  503,07         321,96     321,96      
+01/10        281,69          409,50     268,97      +12,72
+02/10        172,26         312,79     148,17      - 24,09
+03/10        252,62         418,34     224,67     - 27,95
+04/10        166,41         391,73     164,75      -1,66
+05/10        240,18          503,47     234,91      -2,27
+06/10        162,65         475,72     162,65       0,00
+07/10        234,89         598,04     236,00      +1,11
+08/10         178,74        609,31     172,04      -6,7
+09/10        240,23        765,08     228,66      -11,57
+10/10        247,61        886,98     238,83      -8,78
+11/10        95,74 *
+     5 X a mesma prestação de 16,58        893,42     185,76      +90,02
+12/10          3,99        824,03       0,0      -3,99
+01/11          3,99        1015,21       0,00     -3,99
+02/11          3,99        1227,90      0,00      0,00
+03/11Acordo 10 X 130,54 = 1.305,40      +15,55
+
+A tabela demonstra, ainda, que a autora, em várias oportunidades, pagou quantias inferiores aos lançamentos efetivamente devidos. Porém, as diferenças são bastante insignificantes e, mesmo com os altos juros cobrados (em torno de 16% ao mês) não chegariam ao valor cobrado ao final para a celebração do acordo. Ademais, há que se considerar que em alguns meses a autora pagou quantia superior à devida.  Logo, ainda que a autora tivesse alguma dívida com o réu em razão destas pequenas diferenças, não foram feitas as compensações devidas. 
+Desta feita, o acordo para o pagamento de dez prestações de R$130,54 foi abusivo, pois contemplou um débito infinitamente superior a qualquer dívida da autora. Justifica-se, portanto, com fundamento no artigo 51, inciso IV do Código de Defesa do Consumidor, a declaração de nulidade de todo o acordo, com a consequente devolução dos valores pagos.
+Não é cabível a devolução em dobro, uma vez que as falhas da ré, embora sucessivas, não chegam a caracterizar a má-fé que autoriza a aplicação do artigo 42, § único do Código de Defesa do Consumidor. 
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE O PEDIDO.
+Condeno o réu a pagar à autora o montante de R$1305,40, atualizados pela Tabela Prática do Tribunal de Justiça desde a data dos pagamentos das prestações (de março a dezembro de 2011), com juros legais de 1% ao mês desde a citação.
+Deixo de condenar a vencida nas verbas da sucumbência nos termos do artigo 55 da Lei 9.099/95. a) O prazo para interposição de recurso é de 10 (dez) dias, contado da intimação; b) na hipótese de não haver recurso, após o trânsito em julgado, terá prazo de 10 (dez) dias para retirada de documentos que instruíram o processo, sob pena de inutilização; c) efetuado o pagamento voluntário, fica desde já deferida a expedição de guia de levantamento em favor do credor, devendo ser intimado para retirada, no prazo de 10 dias, sob pena de cancelamento. Com o trânsito em julgado, comunique-se ao Distribuidor e após 180 dias, desmontem-se os autos. Registre-se. 
+Em caso de recurso: Valor do preparo = R$ 184,40 (Guia GARE-DR, Código 230-6). Despesas de porte de remessa e retorno por volume de autos = R$ 25,00 (Guia FEDTJ, código 110-4).
+P.R.I.C..  
+São Paulo, 23 de novembro de 2012.
+
+
+Luciane Cristina da Silva
+         Juiz(íza) de Direito
+
+
+
+
+      RECEBIMENTO
+Em
+Recebi os autos em Cartório com 
+a sentença supra, que torno pública.
+Eu,                       , escrevente, subscrevi.

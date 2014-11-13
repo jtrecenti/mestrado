@@ -1,0 +1,75 @@
+
+
+SENTENÇA
+
+Processo Físico nº:0030334-94.2012.8.26.0002
+Classe - AssuntoProcedimento Ordinário - Seguro
+Requerente:Vitor Aguiar Lima
+Requerido:Mapfre Seguros Gerais S.A.
+
+
+Justiça Gratuita
+
+Juiz(a) de Direito: Dr(a). Ricardo Dal Pizzol
+
+
+Vistos.
+
+
+VITOR AGUIAR DE LIMA ajuizou "ação de cobrança de indenização de seguro" contra MAPFRE SEGUROS GERAIS S.A.
+
+Em síntese, alega o autor que: (i) em 13/09/2008, seu pai, Valdelino da Silva Lima, faleceu em virtude de acidente de trânsito no qual colidiram dois veículos; (ii) a colisão foi causada por José Alberto Bueno de Matos, que, posteriormente, também veio a falecer em decorrência do acidente; (iii) este último possuía contrato de seguro com a requerida, o qual previa cobertura para indenização a terceiros; (iv) a requerida efetuou depósito nos autos do inventário apenas do valor referente aos danos materiais; (v) por meio de  mensagem eletrônica, a requerida informou que o valor devido  a título de indenização pelos danos corporais era de R$ 20.000,00, contudo alegou impossibilidade de realizar o pagamento sem autorização por parte do inventariante do espólio do segurado; (vi) efetuou diligência no sentido de localizar a esposa do segurado, informando à requerida seu endereço e telefone comercial, sem contudo, obter retorno da seguradora.
+
+Contestação às fls. 134 e seguintes. Alega, preliminarmente, ilegitimidade passiva, prescrição, inépcia da petição inicial, ausência de interesse processual. No mérito, alega que: (i) há que se observar os limites máximos de indenização previstos no contrato, os quais devem ser aplicados conjuntamente a todas as vítimas do evento; (ii) deve-se proceder à dedução do valor recebido pelo autor do seguro DPVAT; (iii) a correção monetária e os juros devem incidir a partir da fixação do valor a ser pago. 
+
+Réplica às fls. 236/255.
+É o Relatório. 
+Passo a Fundamentar.
+I ? Possível o julgamento antecipado da lide, pois não há necessidade de produção de outras provas.  Vale lembrar que ?sendo o Juízo o destinatário da prova, somente a ele cumpre aferir sobre a necessidade ou não de sua realização? (TJSP, AI 13811-5, Rel. Des. Hermes Pinotti).
+Observo que o autor requereu expressamente o julgamento antecipado da lide à fl. 260. Quanto às provas requeridas às fl. 262/263, entendo: a) desnecessária prova testemunhal, tendo em vista que a matéria controvertida não guarda qualquer relação com a dinâmica do acidente; b) desnecessário ofício à Receita Federal, tendo em vista que a pretensão do autor se limita ao pagamento de indenização, não havendo pedido de pensão; c) desnecessário ofício para a Seguradora Líder, visto que já existe nos autos prova de recebimento, pelo autor, do seguro DPVAT (fls. 226/228).
+II ? Rejeito a preliminar de fl. 135 (ilegitimidade passiva). O entendimento jurisprudencial dominante no STJ é no sentido de que o terceiro tem legitimidade para requerer a indenização diretamente da seguradora contratada pela outra parte envolvida no acidente. Nesse sentido:
+CIVIL E PROCESSO CIVIL. RECURSO ESPECIAL. INDENIZAÇÃO SECURITÁRIA. AÇÃO PROPOSTA DIRETAMENTE EM FACE DA SEGURADORA SEM QUE O SEGURADO FOSSE INCLUÍDO NO POLO PASSIVO. LEGITIMIDADE. 
+1. A interpretação de cláusula contratual em recurso especial é inadmissível. Incidência da Súmula 5/STJ.
+2. Inexiste ofensa ao art. 535 do CPC, quando o tribunal de origem pronuncia-se de forma clara e precisa sobre a questão posta nos autos.
+3. A interpretação do contrato de seguro dentro de uma perspectiva social autoriza e recomenda que a indenização prevista para reparar os danos causados pelo segurado a terceiro seja por este diretamente reclamada da seguradora.
+4. Não obstante o contrato de seguro ter sido celebrado apenas entre o segurado e a seguradora, dele não fazendo parte o recorrido, ele contém uma estipulação em favor de terceiro. E é em favor desse terceiro - na hipótese, o recorrido - que a importância segurada será paga. Daí a possibilidade de ele requerer diretamente da seguradora o referido pagamento. 
+5. O fato de o segurado não integrar o polo passivo da ação não retira da seguradora a possibilidade de demonstrar a inexistência do dever de indenizar.
+6. Recurso especial conhecido em parte e, nessa parte, não provido.
+(STJ, REsp 1245618 / RS, Ministra NANCY ANDRIGHI)
+
+RESPONSABILIDADE CIVIL. Acidente de trânsito. Atropelamento. Seguro. Ação direta contra seguradora. A ação do lesado pode ser intentada diretamente contra a seguradora que contratou com o proprietário do veículo causador do dano. Recurso conhecido e provido. (REsp 294057 / DF - Ministro RUY ROSADO DE AGUIAR - T4 - QUARTA TURMA -  Julgamento 28/06/2001 ? Publicação DJ 12/11/2001)
+III ? Rejeito a alegação de prescrição.
+De acordo com a melhor doutrina, ?a prescrição ânua diz respeito à ação entre segurado e segurador, não alcançando o beneficiário, que está excluído da incidência desse prazo reduzido? (Nestor Duarte, comentário ao art. 206, II, na obra Código Civil Comentado, Coordenador Ministro Cezar Peluso, 5ª edição, 2011, Editora Manole, pag. 206). 
+A jurisprudência do STJ é pacífica no sentido de que a ação de terceiro contra seguradora está sujeita a prescrição de 10 anos:  
+
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO SECURITÁRIA. SEGURO DE VIDA EM GRUPO. AÇÃO MOVIDA PELOS BENEFICIÁRIOS. PRAZO PRESCRICIONAL.
+1. Os princípios da economia processual e da fungibilidade autorizam o recebimento, como agravo regimental, dos embargos de declaração que contenham exclusivo intuito infringente.
+2. Esta Corte tem entendimento de que, no caso de terceiro beneficiário de contrato de seguro de vida em grupo, o qual não se confunde com a figura do segurado, o prazo para propositura da ação indenizatória é decenal, em consonância com o artigo 205 do Código Civil de 2002. Precedentes.
+3. Embargos de declaração recebidos como agravo regimental a que se nega provimento.
+(STJ EDcl no AREsp 372417 / GO, Rel. Min. Luis Felipe Salomão, 4ª Turma, j. Em 17.9.2013)
+
+IV ? Rejeito a preliminar de fl. 139 (inépcia da petição inicial), visto que a inicial narra de forma suficiente a causa de pedir e o pedido, havendo nexo lógico entre ambos.
+V ? Rejeito a preliminar de fl. 144 (falta de interesse de agir), visto que, na forma como foi aduzida, confunde-se com o mérito.  
+O interesse de agir é caracterizado pelo binômio necessidade/adequação. Há interesse-necessidade quando, sem o processo e sem o exercício da jurisdição, o autor seria incapaz de obter o bem da vida desejado. Há interesse-adequação quando a via processual escolhida é apta, em tese, para propiciar ao autor o bem da vida desejado. 
+O interesse de agir está presente no caso. Em face da resistência da requerida, os autores não obterão indenização sem empregarem a via jurisdicional. Logo, há interesse-necessidade. Da mesma forma, é inegável que a ação de conhecimento de cobrança, pelo rito ordinário, é a via adequada para a obtenção do bem da vida objetivado pelos autores (indenização). Logo, também há interesse-adequação. 
+VI ? No mérito, a ação deve ser julgada parcialmente procedente. 
+Explico. 
+Ante a ausência de negativa da requerida em contestação, restaram incontroversos os seguintes fatos: (i) existência do contrato de seguro;  (ii) falecimento do pai do autor em decorrência do acidente; (iii) condição de único herdeiro do autor; (iv) culpa do segurado da requerida no acidente.
+Além disso, deve-se ressaltar que o laudo pericial de fls. 28/43, elaborado pelo instituto de criminalística, concluiu que o segurado da requerida deu causa ao acidente, na medida em que trafegava pela contra-mão de direção. Tal laudo, em nenhum momento, foi impugnado pela requerida. 
+Note-se que a própria requerida já havia, inclusive, concordado em indenizar o autor, no valor de R$ 20.000,00 (conforme e-mail de fl. 60).
+Conforme se observa pelo documento de fl. 221 (apólice do seguro), há previsão expressa de cobertura para danos corporais até o limite de R$ 50.000,00 a terceiro prejudicado. Conforme fl. 167, "dano corporal" abrange "lesão exclusivamente física (morte, invalidez parcial ou total, lesão corporal), causada a terceiro, em consequência de acidente de trânsito envolvendo o veículo segurado". 
+Argumenta a requerida que os limites máximos contratualmente estipulados a título de indenização (fl. 140) devem ser aplicados a todas as vítimas conjuntamente. Deixou de comprovar, contudo, a efetiva realização de pagamento de qualquer quantia a outras pessoas, em decorrência do evento. Assim, responde a requerida pelo pagamento da indenização até o limite máximo previsto contratualmente (R$ 50.000,00). 
+No que se refere ao abatimento do valor já recebido pelo autor do seguro DPVAT, assiste razão à requerente. É entendimento sumulado do STJ no sentido de que "o valor do seguro obrigatório deve ser deduzido da indenização judicialmente fixada" (Súmula nº 246/STJ). Nesse sentido: AgRg nos EDcl no Ag 1041905 / GO - 2008/0084836-0, 4ª Turma, Rel. Min.  João Otávio de Noronha, DJe 01/12/2008. 
+Conforme consta dos autos, o autor recebeu o valor de R$ 13.500,00 do seguro DPVAT (fl.226/228). Tal valor deverá ser abatido do valor devido pela requerida a título de indenização, chegando-se  a um total de R$ 36.500,00. 
+Os juros de mora devem ser calculados a partir da citação e a correção monetária a partir da data do acidente (AgRg no AREsp 200514/RJ 2012/0141865-0, rel. Min. Ministro SIDNEI BENETI , j. 28/05/2013). 
+DECIDO
+Ante o exposto, julgo PARCIALMENTE PROCEDENTE a presente ação, para CONDENAR a requerida a pagar ao autor a quantia de R$ 36.500,00 (trinta e seis mil e quinhentos reais), acrescida de correção monetária, conforme a Tabela Prática do TJSP, desde a data do acidente (13/09/2008), e de juros de mora de 1% ao mês, desde a citação. 
+Em face do princípio da causalidade, condeno a requerida ao pagamento das custas, despesas processuais e honorários advocatícios, que fixo em 10% da condenação. 
+Para interposição de eventual recurso, o valor deverá corresponder a 2% (dois por cento) sobre o valor da condenação, se houver, ou do valor da causa atualizado, e deverá ser recolhido a título de porte de remessa e retorno dos autos o valor de R$ 29,50 por volume, observando-se o disposto na Lei 11.608/03. Transitada em julgado, certifique-se. Nada requerido, arquivem-se.
+P.R.I.C.
+
+
+São Paulo, 06 de junho de 2014.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

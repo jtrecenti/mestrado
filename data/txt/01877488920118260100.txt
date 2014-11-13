@@ -1,0 +1,60 @@
+
+
+SENTENÇA
+
+Processo nº:0187748-89.2011.8.26.0100
+Classe - AssuntoConsignação Em Pagamento - Pagamento em Consignação
+Requerente:Jose Augusto dos Santos
+Requerido:Banco Itaucard
+
+
+
+
+Juiz(a) de Direito: Dr(a). Paulo César Batista dos Santos
+
+
+JOSÉ AUGUSTO DOS SANTOS propôs ação de conhecimento contra o BANCO ITAUCARD S/A, com pedido declaratório de nulidade, desconstitutivo e condenatório, buscando revisão de contrato bancário de arrendamento mercantil, sob o argumento de que não recebeu sua via do instrumento entabulado, o contrato estaria repleto de cláusulas e condições desproporcionais e abusivas, tais como juros abusivos, anatocismo e comissão de permanência, requerendo declaração de nulidades das cláusulas apontadas e condenação do réu em danos materiais, com devolução dos valores indevidamente cobrados e do VRG pago.
+Deferida parcialmente a antecipação, para consignação de parcelas nos autos, assim como deferida a gratuidade, em razão de interposição de agravos de instrumento.
+Citada, a ré apresentou contestação (fl. 193 seg.), com preliminares e, no mérito, impugnação aos argumentos da inicial, defendendo a total legalidade da avença e requerendo a improcedência do pedido inicial.
+O contrato foi juntado às fl. 227 e seg.
+É o relatório do necessário.
+DECIDO.
+A prova é suficiente para análise do pedido inicial, sendo desnecessária a realização de audiência de instrução e julgamento. Sendo assim, converto o feito em julgamento antecipado da lide, como manda o art. 330, inciso I, do CPC.
+A inicial atende aos requisitos do art. 282 do CPC, não havendo se falar em inépcia.
+No mérito, o pedido é procedente em parte.
+Aplica-se à espécie o Código de Defesa do Consumidor (art. 3º §2º. Da Lei n° 8.078/90).
+Trata-se de questão já bastante surrada na jurisprudência, donde já se concluiu que não há falar em prática de anatocismo em contrato de arrendamento mercantil.
+Lembre-se: ?A cobrança antecipada do valor residual garantido (VRG) não descaracteriza o contrato de arrendamento mercantil para o de compra e venda à prestação? (verbete n. 293 da jurisprudência consolidada do STJ).
+Vale insistir, na espécie, cuida-se de contrato de arrendamento mercantil (leasing), regido pela Lei n. 6.099/74 e pela Resolução do BACEN n. 2.309/96, modalidade contratual que, diversamente dos contratos de financiamento bancário, compõe-se de uma fórmula intermediária entre a compra e venda e a locação, exercendo função parecida com a venda com reserva de domínio e com a alienação fiduciária, embora oferecendo ao utilizador do bem maior leque de alternativas, no caso de não querer ficar com a propriedade do equipamento após um primeiro prazo de utilização.
+No caso, o contrato celebrado entre os litigantes está em perfeita sintonia às disposições acima expostas, sendo claro ao consignar o valor do bem arrendado, o número de prestações a serem adimplidas e o quantum correspondente a cada uma delas, constituído este pela prestação mensal do Valor Residual Garantido ? VRG e pela contraprestação básica mensal.
+Na parte que toca ao financiamento previsto no contrato juntado (fl. 227/231), conforme pacificado pela jurisprudência, as instituições financeiras não estão submetidas ao limite de juros anuais de 12% (enunciado 382 da súmula do STJ). A respeito da capitalização de juros, o E. STJ já decidiu pela sua possibilidade com periodicidade inferior a um ano, com base no art. 5º da MP 2170-36/2001, como se vê nos precedentes AgRg no Ag 1013961/RS e AgRg no Ag 1045805/DF.
+Tal posicionamento foi confirmando no julgamento do Resp. Repetitivo n. 973827, quando se decidiu que não há ilegalidade na cobrança da capitalização mensal de juros, porquanto evidentemente pactuada e tida como legal, nos termos da referida MP 2170-36/2001. 
+Vê-se que a capitalização, ainda que não pactuada, presumem-se constatados juros na forma capitalizada quando não há correspondência entre as taxas mensal e anual contratadas, ou seja, quando existe previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal; isso é suficiente para permitir a cobrança da taxa efetiva anual contratada.
+No que tange à Tabela Price, o posicionamento não é diferente.
+O simples fato de se ter utilizado a Tabela Price não torna ilegal o contrato, sendo relevante destacar que referido sistema de amortização traz o benefício ao consumidor de pagar o devido em parcelas fixas, não sendo ilícito o referido sistema de amortização da dívida, conforme precedentes do E. STJ (AgRg no REsp 958.057/RS).
+Quanto à cobrança da comissão de permanência, ela não pode ocorrer cumulada com outros encargos, já que aquela verba já possui a função simultânea de remunerar, atualizar e penalizar. Assim, a sua incidência juntamente com outros encargos, moratórios ou remuneratórios, representa verdadeiro bis in idem.
+Sucede que o contrato em questão não prevê tal cumulação (Cláusula 17, fl. 230).
+Quanto às Tarifas impugnadas, recentemente o C. STJ sufragou o entendimento de que as Tarifas de Abertura de Crédito (TAC) ou Tarifa de Cadastro, e a Tarifa de Emissão de Carnê (TEC), por não estarem encartadas nas vedações previstas na legislação regente, ostentam natureza de remuneração pelo serviço prestado pela instituição financeira ao consumidor, consubstanciam cobranças legítimas.
+Tal entendimento deve ser aplicado também às demais tarifas impugnadas, já que livremente contratadas e integrantes do valor contratual, nada havendo de abusivo ou ilegal.
+Somente em relação à devolução do VRG, o pedido comporta parcial provimento.
+Com a inadimplência do consumidor, opera-se a resolução do contrato de arrendamento mercantil, o que implica a reintegração do arrendador na posse do bem arrendado.
+Como consequência, o arrendatário tem direito à restituição das parcelas pagas a título de Valor Residual Garantido ? VRG, em face da própria natureza do contrato, pois eles representam antecipação do que pagaria ao final do contrato para adquirir o bem, sem com isso descaracterizar a natureza da avença.
+Entende-se, entretanto, que o VRG se presta a assegurar ao arrendador um recebimento mínimo, para o caso de não exercício da opção de compra, e nesse contexto, a devolução deve ocorrer conforme o caso específico, considerando-se o valor de venda do bem.
+Daí porque se tem as seguintes possibilidades: 
+a) os valores pagos a título de antecipação do VRG, somados ao valor de venda do veículo pela arrendadora, seja ao final do contrato, seja quando abortado por razão outra qualquer, superam o valor total estipulado no contrato a título de VRG: neste caso, haverá a devolução ao arrendatário do valor que sobejar;
+b) os valores pagos a título de antecipação do VRG, somados ao valor de venda do veículo pela arrendadora, seja ao final do contrato, seja quando abortado por razão outra qualquer, igualam o valor total estipulado no contrato a título de VRG: neste caso, não há saldo devedor nem credor;
+c) os valores pagos a título de antecipação do VRG, somados ao valor de venda do veículo pela arrendadora, seja ao final do contrato, seja quando abortado por razão outra qualquer, são inferiores ao valor total estipulado no contrato a título de VRG: neste caso, nada deve ser devolvido ao arrendatário, que, inclusive, apresentará saldo devedor.
+Não há prova documental da venda do veículo, apresentando o seu valor.
+Portanto, caberá à ré, em cumprimento da sentença, trazer aos autos o comprovante de venda do bem, para que se possa aferir, nos termos acima estabelecidos, se algum valor há a restituir ao autor ou, se pela sistemática aqui preconizada, nada há a ser restituído.
+Caso haja inércia, presumir-se-á vendido o bem no dia de sua retomada, pelo valor da Tabela FIPE vigente à época.
+Ante o exposto, JULGO PROCEDENTE EM PARTE o pedido, apenas para o fim de que a liquidação do contrato se dê nos termos supra preconizados, determinando-se à ré que, na fase de cumprimento da sentença, apresente nos autos o comprovante de venda do veículo e saldo do contrato quando da retomada do bem para que, por simples cálculos aritméticos, seja possível apurar eventual valor a que o recorrido faça jus a título de restituição de VRG, no que ficará o réu condenado a pagar.
+Caso não seja apresentado o documento no prazo acima estabelecido, será considerado vendido o veículo na data de retomada do bem, pelo valor da Tabela FIPE vigente à época. 
+Constatando-se que há saldo credor em favor do autor, deverá o banco restituí-lo em quinze dias, sob pena de multa de 10%, valor esse corrigido pela Tabela prática do TJSP desde a propositura da ação e acrescido de juros de mora de 1% ao mês, desde a citação.
+Não havendo saldo a restituir ou havendo saldo devedor, nada poderá ser exigido pela arrendadora nestes autos, pois não formulada reconvenção.
+Cada parte arcará com custas e despesas, ressalvada a gratuidade, e sem honorários, face à sucumbência recíproca (art. 21do CPC).
+P.R.I.
+São Paulo, 26 de março de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

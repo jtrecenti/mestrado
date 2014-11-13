@@ -1,0 +1,288 @@
+
+
+SENTENÇA 
+
+
+Processo:0073999-97.2011.8.26.0002 - Procedimento Ordinário
+Requerente:Nadia Marques da Rocha
+Requerido:Banco Itaú S/A
+
+
+VISTOS.
+
+
+
+Consta do pedido inicial, em resumo, que, em 22.7.2011, ao tentar usar o cartão bancário, percebeu que sua senha foi dada como inválida. Ao dirigir-se ao na agência do banco réu em que mantinha conta-corrente, constatou que havia uma série de movimentações indevidas, num total de R$ 62.770,00 (setenta e dois mil setecentos e setenta reais). Ao questionar o banco, teve negado o pedido de ressarcimento sob o argumento de que a movimentação se dera com uso de senha  alguém havia trocado a senha e retirado um "itoken", viabilizando-se inclusive a movimentação pela Internet. E depois de atribuir a responsabilidade do evento danos ao banco réu, a autora deduziu os seguintes pedidos: a) indenização por danos materiais no valor de R$ 124.000,00  valor dobrado movimentado indevidamente, b) inexigibilidade do empréstimo e c)  reparação dos danos morais. 
+
+
+
+O réu ofertou contestação (fls. 27/32).  Em apertado resumo, o réu alegou que a autora não fez prova de que ela mesmo não teria realizado as aludidas transações. Além disso, afirmou que o ocorrido se deu mediante senha secreta, pessoal e intransferível de conhecimento exclusivo da autora.
+
+
+Houve réplica (fls. 86/88).
+
+
+
+É O BREVE RELATÓRIO.
+
+FUNDAMENTO E DECIDO.
+
+O processo comporta imediato julgamento, dispensando a produção de outras provas, nos termos do artigo 330, inciso I do Código de Processo Civil. 
+
+
+A lide cinge-se à discussão da responsabilidade do banco réu por despesas efetuadas por terceiro em razão de furto do cartão de crédito.
+
+
+A análise do litígio passa, necessariamente, pela qualificação da relação jurídica travada entre as partes como uma relação de consumo, tornando aplicáveis as disposições da Lei n. 8.078/90 (Código de Defesa do Consumidor - CDC). A matéria encontra-se pacificada pelas posições assumidas pelo Supremo Tribunal Federal (no julgamento da ADI 2.591) e pelo Superior Tribunal de Justiça (súmula 297: ?O Código de Defesa do Consumidor é aplicável às instituições financeiras?).
+
+
+Nesta linha, cabe inicialmente a qualificação do evento danoso narrado pelo autor: saque indevido em sua conta-corrente pelo apossamento por terceiros de seu cartão magnético e de sua senha pessoa. Trata-se de fato do serviço, na linguagem do Código de Defesa do Consumidor (CDC), disciplinado mais especificamente no artigo 14 daquele diploma legal.
+
+
+
+O banco réu em suas manifestações não impugnou a existência de responsabilidade civil sobre evento danoso qualificado como fato do serviço. Buscou demonstrar, todavia, as seguintes excludentes de sua responsabilidade (art. 14, parágrafo 3º., incisos I e II do CDC): a) inexistência de defeito do serviço e b) culpa exclusiva do consumidor.
+
+
+
+Por isso, é necessário corrigir o foco relativo ao ônus da prova: não era atribuição da parte autora (consumidora) provar a existência do defeito, mas sim do réu (fornecedor) provar aquelas excludentes (inexistência do defeito do serviço e culpa exclusiva do consumidor). Tratava-se de atribuição legal de ônus da prova e não de inversão operada pelo juiz.
+
+As premissas do julgamento ? incidência do CDC e atribuição do ônus de provar as excludentes de responsabilidade por fato do serviço ? facilitam a construção da fundamentação. Resta analisar-se, diante do conjunto probatório: a) se o serviço bancário revelou-se sem defeito e b) se o consumidor agiu com culpa exclusiva. 
+
+
+A prova documental (fls. 19/20) não deixou dúvidas: quatro transações de empréstimos e transferências para contas distintas foram realizadas, todas no curto período entre 14.07.2011 e 21.07.211. 
+
+
+Ora, entendo que aquelas operações indicavam que o cartão era objeto de uso indevido. Não é necessário ter enorme experiência investigativa, para desconfiar da idoneidade das transferências, quando realizadas em poucos dias e completamente fora do perfil da consumidora. 
+
+
+No caso sob exame, não houve demonstração de que a movimentação tivesse exigido o cartão com chip de posse da autora.  O banco réu não impugnou as seguintes afirmações da autora: a) alguém trocou sua senha e b) pessoa não autorizada retirou o "itoken" na agência, tornando possível a movimentação da conta pela Internet. E o banco réu não se deu ao trabalho de trazer na defesa a prova documental da idoneidade das transações  notadamente o relatório de auditoria para afastar por completo a participação de terceiro nas transações impugnadas. Houve um empréstimo de R$ 43.870,00 seguido de transferências bancárias. O banco não investigou para quem o dinheiro foi desviado?
+
+
+
+Em outras palavras, entendo que o sistema de movimentação de conta-corrente pela Internet ou por cartão magnético deve conter uma forma para evitar pagamentos de títulos, saques e transferências indevidos.  Trata-se da segurança do serviço bancário, requisito elementar para a idoneidade do serviço. Aliás, não é por outro motivo que restrições são feitas, destacando-se, dentre outras: a) horário para utilização do serviço de saque em caixas eletrônicos, b) a limitação de valores para saques, c) senhas de acesso à Internet, etc. 
+
+
+Sendo assim, estranha-se que não se tenha desenvolvido nenhum sistema capaz de gerar um alerta para transações fora do perfil do correntista em dias seguidos, criando-se um procedimento de segurança que possa, por exemplo, checar a idoneidade da movimentação pelo pedido de confirmação pelo telefone ou por telegrama. Aliás, registre-se que rito semelhante já acontece no sistema de cartão de crédito, em que, por segurança, diante de transações seguidas em curto espaço de tempo, o fornecedor (administradora do cartão de crédito) telefona para o consumidor (cliente) para confirmar a idoneidade das operações. 
+
+
+Importante lembrar que todo o sistema e a extensão da dinâmica do procedimento de movimentação pela Internet ou são concebidos pelo fornecedor (instituição financeira). A ele devem ser creditados os méritos pela facilidade que o sistema proporciona, tanto ao consumidor (agiliza os serviços), como a ele fornecedor (reduz o custo da operação bancária e aumenta o lucro). Porém, a ele também devem ser debitados os riscos da insegurança do sistema.
+
+
+Passo a apreciar a culpa exclusiva do consumidor.  
+
+
+Afasto a alegação de que a autora  concorreu para o evento danoso, na medida em que permitiu a descoberta da senha. Alguém trocou a senha sem autorização da autora, fato não impugnado. Trata-se de presunção do banco réu, não havendo prova nos autos de dolo ou culpa da vítima, prova cujo ônus sobre ele recaía. Anoto que a evolução da informática em fraudes não torna impossível a suposição de que a senha tenha sido obtida sem qualquer participação - culposa - da autora. Importante destacar que, antes de tudo, o autor é vítima no evento danoso, até mesmo na parte em que sua senha foi indevidamente obtida pelo terceiro!
+
+
+A forma como a senha chegou ao conhecimento do terceiro assume pouca importância na conclusão da responsabilidade do banco. Ora, numa sociedade em que as pessoas são identificadas por números (RG, CIC, conta-corrente, etc.), não se pode descartar a possibilidade da pessoa fazer uso de senha com número de fácil lembrança. É o natural e não pode ser qualificado como negligência ou imprudência ? culpa. Se o consumidor deve ter facilitado o uso do serviço do caixa eletrônico e da própria Internet, não pode ser submetido a conceber uma senha com números completamente estranhos. Não basta que o banco faça advertência de que tais números são indesejáveis. Se o risco é grande, deve o banco réu impedir ? pelo sistema ? o uso de tais números (com datas de aniversários, casamentos, nascimentos, etc.). 
+
+
+Ainda que se pudesse cogitar da investigação sobre a sinceridade da versão da autora, caberia ao banco demonstrar ? por meio de prova documental ? que o valor movimentado na conta-corrente tinha a participação da mesma. Não há nos autos qualquer indício de que aquele dinheiro tenha sido movimentado com a participação da autora. E surge inusitado que o banco réu não tenha promovido uma investigação interna das transferências impugnadas, até pela facilidade de identificação dos beneficiários pelos códigos de barras. Ou seja, em nenhum momento da instrução, o banco réu colaborou para que se tivesse uma informação segura sobre a autoria do golpe. 
+
+
+Repito: houve um empréstimo de R$ 43.870,00 na conta-corrente da autora, completamente fora do seu perfil, com destinação de algumas transferências bancárias, tudo pela Internet, sem que o banco tenha trazido qualquer indício de participação da autora. 
+
+
+Em outros termos, na época da movimentação da conta bancária,  podia o banco réu confirmar os dados da aludida operação, em especial o destino daquelas quantias transferidas com a utilização do cartão magnético  e da senha da  autora. Não apresentou qualquer indício a respeito. Os extratos ? documentos unilaterais ? apenas retratam a retirada de valores da conta-corrente, mas não a higidez das operações.
+
+
+Nem se diga que a informação sobre a conta corrente destinatária do dinheiro transferido para pagamento dos títulos estava coberta pelo sigilo bancário. A Lei Complementar n. 105/2001 autorizou expressamente a troca de informações entre instituições financeiras, para fins cadastrais, inclusive por intermédio de centrais de risco (art. 1º., parágrafo 3º., inciso I).
+
+
+Concluindo-se, entendo que o serviço prestado pelo banco réu foi defeituoso, ao não proporcionar a segurança dele esperada e sem que se possa imputar à consumidora culpa exclusiva pelo evento danoso.
+
+
+A respeito do tema, confira-se valioso precedente da 3ª. Turma do Superior Tribunal de Justiça, REsp. n. 727.843-SP, relatora a Ministra Nancy Andrighi, julgado em 15.12.2005, DJ 01.02.2006, destacando-se:
+
+
+?Diferenciando-se apenas quanto ao fundamento utilizado para a inversão do ônus da prova (art. 6º, inc. VIII do CDC), aplica-se perfeitamente à hipótese dos autos o precedente supra transcrito, de cujo voto-condutor vale transcrever as seguintes conclusões:
+
+"a) o sistema é suscetível de falhas que se ocorrerem, podem dar azo a enormes prejuízos para o consumidor; 
+
+?b) tratando-se de sistema próprio das instituições financeiras e geridos pelas mesmas, ocorrendo retirada indevida de numerário da conta corrente do cliente, não se vislumbra nenhuma possibilidade deste ilidir a 'presunção de culpa' que deseja construir a instituição bancária."
+
+?Nada há que possa distinguir o presente processo da jurisprudência acima colacionada, a qual traz ainda, à liça, a enxurrada de notícias veiculadas pela imprensa a respeito de fraudes e golpes perpetrados contra correntistas e instituições financeiras, sobre os quais inclusive tem se debruçado a Federação Brasileira de Bancos - FEBRABAN na busca da equalização do problema.
+
+?Como solução a esse impasse, ínsito à área de tecnologia da informação e que figura como uma das conseqüências funestas do alvissareiro avanço tecnológico mundial, impõe-se a inderrogável salvaguarda do equilíbrio da relação jurídica estabelecida entre o usuário dos serviços e o banco.
+
+?Para tanto, deve necessariamente recair sobre a instituição detentora e/ou produtora dessas tecnologias o ônus de produzir mecanismos de verificação e controle hábeis a comprovar que as operações foram realizadas pelo correntista, ou sob as ordens deste.
+
+?Assim, embora comprovado o dissídio jurisprudencial com a Quarta Turma do STJ, de cujo precedente paradigma se extrai a orientação consistente na inviabilidade de inversão do ônus da prova em hipóteses como a em apreço, cabendo ao banco demonstrar tão-só que não agiu com culpa, incumbindo, por seu turno, ao correntista, a prova da negligência, imperícia ou imprudência da instituição financeira, tal posicionamento não se coaduna com a mais recente jurisprudência desta Terceira Turma do STJ, da qual se extraem os seguintes fundamentos:
+
+
+?i) é plenamente viável a inversão do ônus da prova (art. 333, II do CPC) na ocorrência de saques indevidos de contas-correntes, competindo ao banco (réu da ação de indenização) o ônus de provar os fatos impeditivos, modificativos ou extintivos do direito do autor, isto é, deve o réu demonstrar que das alegações do autor não decorrem as conseqüências por ele pretendidas;
+
+?ii) incumbe ao banco demonstrar, por meios idôneos, a inexistência ou impossibilidade de fraude, tendo em vista a notoriedade do reconhecimento da possibilidade de violação do sistema eletrônico de saque por meio de cartão bancário e/ou senha;
+
+?iii) se foi o cliente que retirou o dinheiro, compete ao banco estar munido de instrumentos tecnológicos seguros para provar de forma inegável tal ocorrência.?
+
+
+(negrito e grifo nossos).
+
+
+Também no E. Tribunal de Justiça de São Paulo há precedentes na mesma direção, destacando-se a Apelação n° 7.163.647-2 -, 24ª. Câmara de Direito Privado, relator o Desembargador Roberto Mac Cracken, julgado em 16.8.2007, com a seguinte ementa:
+
+
+?INDENIZATÓRIA - PERDAS E DANOS - MÁ PRESTAÇÃO DOS SERVIÇOS BANCÁRIOS - PRESUMIDA A BOA-FÉ DA CONSUMIDORA - INEXISTÊNCIA DE PROVAS PARA O FIM DE AFASTAR TAL PRESUNÇÃO.
+
+?É evidente, com o devido respeito, a possibilidade de falha no serviço bancário, tanto que, infelizmente, ao longo da história, inúmeras fraudes, das mais diversas modalidades, são registradas. Ainda mais, deve ser registrado que a fragilidade e insegurança do sistema bancário, em especial em alguns segmentos de sua atividade, é patente. Pelas provas carreadas, a apelante teve valores indevidamente retirados de sua conta corrente, após ser auxiliado por suposto funcionário do Banco réu. O fato se deu no caixa eletrônico existente no interior do prédio onde se localiza a agência bancária da ré. Ao que tudo indica, ocorreu falha no dever de segurança e vigilância, que impõe o dever de indenizar. Não se pode argumentar em revelação da senha pela correntista, já que inexiste prova neste sentido, bem como, porque, efetivamente, não existem indícios que levem à conclusão que a senha tenha sido obtida com o consenso do consumidor. A questão toma certa gravidade uma vez que o próprio Banco, depois de tomar conhecimento dos fatos, realizou um crédito na conta da apelante, no valor reclamado pela autora, e, posteriormente, promoveu, sponte própria, o estorno de tal valor, cobrando inclusive uma taxa por ter adiantado o valor. Não pode o Banco, unilateralmente, creditar e debitar valores na conte corrente da autora, por seu exclusivo entendimento. Assim, uma vez creditada determinada quantia, ainda que o crédito tenha sido feito peta Instituição Financeira, não pode mais esta, isoladamente, retirar tal valor da conta corrente da apelante. Tal ocorrência só poderia se dar com concordância expressa do cliente ou por determinação judicial, ou, ainda, excepcionalmente, de forma comprovada, por erro operacional (vide: Resolução n° 2878 do Banco Central do Brasil, de 26/7/2001, artigo 16, inciso I, parágrafo 1º, com as alterações contidas na Resolução n° 2892 do Banco Central do Brasil, de 27/9/2001, artigo 1o, inciso IX). Nenhuma das hipóteses acima elencadas ocorreu no caso em exame. Danos material e moral existentes. Indenização devida. Recurso parcialmente provido.?  
+
+(negrito nosso).
+
+
+E na mesma linha, confiram-se os seguintes julgados do Tribunal de Justiça de São Paulo, com as ementas destacadas:
+
+?APELAÇÃO AÇÃO INDENIZATÓRIA DANOS MORAIS CONTRATOS DE EMPRÉSTIMOS NEGATIVAÇÃO INDEVIDA Relação de consumo caracterizada - Inversão do ônus da prova Não demonstrado que os contratos de empréstimos foram celebrados pelo autor - Possibilidade de clonagem do cartão ou da senha, ou do sistema eletrônico ser destravado, possibilitando o uso do cartão sem a respectiva senha, que não podem ser desconsideradas - Responsabilidade objetiva da instituição financeira decorrente do risco integral de sua atividade - Falha no sistema de segurança do banco caracterizada Dano moral puro que é presumível, independendo de comprovação Inteligência do art. 14 do CDC Indenizatória procedente Apelo improvido.?
+
+(Apelação Cível nº 9111268- 28.2008.8.26.0000 , 24ª Câmara de Direito Privado, Relator o Desembargador SALLES VIEIRA, julgado em 10.11.2011)
+
+=========
+
+"RESPONSABILIDADE CIVIL DANO MORAL empréstimos e saque indevido na conta corrente da apelada relação de consumo inversão do ônus da prova pela verossimilhança da versão da apelada dever do apelante de demonstrar que não houve movimentação indevida da conta, ônus do qual não se descurou responsabilidade objetiva do prestador de serviço na hipótese dever de zelar pela segurança do serviço prestado danos morais existentes indenização corretamente fixada em R$ 10.000,00 recurso desprovido."
+
+(Apelação Cível nº 0026258- 50.2010.8.26.0114 , 12ª Câmara de Direito Privado, Relator o Desembargador CASTRO FIGLIOLIA, julgado em 09.11.2011)
+
+=========
+
+"RESPONSABILIDADE CIVIL Conta corrente Indenização. Saques realizados sem conhecimento ou autorização do correntista - Banco-réu não comprovou que os saques foram realizados pelo correntista ou por terceiros por eles autorizados Aplicação do art. 6º, VIII, do CDC - Responsabilidade objetiva do Banco pelo fato do produto e do serviço (cf. arts. 12 a 14 do CDC), bem como pelo vício do produto e do serviço (cf. arts. 18 a 20, 21, 23 e 24) - Responsabilidade evidenciada Restituição dos valores retirados indevidamente Possibilidade Limitação, contudo, ao valor pedido (R$ 5.598,00), menor que a soma dos saques indevidos (R$ 6.650,00). 
+
+"DANOS MORAIS Saques em conta corrente não reconhecidos pelo correntista Admissibilidade Inscrição da correntista nos cadastros de órgãos de proteção ao crédito Dano in re ipsa Fixação do valor em R$ 8.000,00 - Admissibilidade."
+
+
+(Apelação Cível nº 9063611- 27.2007.8.26.0000 , 20ª Câmara de Direito Privado, Relator o Desembargador ÁLVARO TORRES JÚNIOR, julgado em 07.11.2011)
+
+
+
+PASSO A FIXAR A INDENIZAÇÃO. 
+
+
+Acolho, em parte, o pedido de indenização dos danos materiais. 
+
+
+Entendo que traduz prejuízo patrimonial o fato da autora ver realizado indevidamente um empréstimo de R$ 43.870,00 em 14.7.2011 que é declarado inexigível, impedindo-se a cobrança de quaisquer valores oriundos do mesmo (fls. 20).
+
+
+A partir daquele empréstimo, foram efetivadas as seguintes transferências: a) R$ 14.000,00 em 14.7.2011, c) R$ 8.400,00 em 15.7.2011, d) R$ 12.300,00 em 18.7.2011, e) R$ 13.000,00 em 19.7.2011, f) R$ 12.800,00 dia 20.7.2011 e g) R$ 2.270,00 em 21.7.2011. O total de transferências alcançou R$ 62.770,00 (sessenta e dois mil setecentos e setenta reais). Considerando-se o crédito oriundo do valor do empréstimo (já declarado indevido), o prejuízo efetivo da autora em sua conta-corrente alcançou R$ 18.900,00 (dezoito mil e novecentos reais).  O valor será acrescido de todos os encargos (juros remuneratórios, taxas, tarifas, multas, correção monetária, etc.) exigidos pelo banco réu da autora em razão do saldo devedor acarretado na conta-corrente da mesma. Trata-se de cuidar da efetiva recomposição do patrimônio da autora. O valor será apurado em fase de execução. Poderá o banco, voluntariamente, no lugar de pagar os valores correspondentes, fazer os estornos na conta-corrente da autora, se ainda for possível contabilmente. 
+
+
+REJEITO O PEDIDO DE PAGAMENTO DOBRADO. Não incidia a hipótese do artigo 42 do CDC. 
+
+
+A existência do dano moral também é indiscutível. 
+
+Numa sociedade de massa, a indevida movimentação de valores em conta-corrente, gerando-se a ameaça de prejuízo patrimonial e até a cobrança de quantias geram situações de abalo moral. A consumidora viu-se obrigada a percorrer uma verdadeira epopéia para esclarecer os fatos, não sendo atendida pelo banco réu de maneira satisfatória.
+
+
+Oportuno o magistério de José de Aguiar Dias sobre o dano moral (in ?Da Responsabilidade Civil?, Forense, Tomo II, 4a. ed., 1960, pág. 775):
+
+"Ora, o dano moral é o efeito não patrimonial da lesão do direito e não a própria lesão, abstratamente considerada. O conceito de dano é único, e corresponde a lesão de direito. Os efeitos da injúria podem ser patrimoniais ou não, e acarretam, assim, a divisão dos danos em patrimoniais e não patrimoniais. Os efeitos não patrimoniais da injúria constituem os danos não materiais."
+
+
+No mesmo sentindo, sobressai a lição do professor Carlos Alberto Bittar (in ?Reparação Civil por Danos Morais?, RT, 1993, págs. 41 e 202) sobre a extensão jurídica dos danos morais:
+
+
+"Qualificam-se como morais os danos em razão da esfera da subjetividade, ou do plano valorativo da pessoa na sociedade, em que repercute o fato violador, havendo-se, portanto, como tais aqueles que atingem os aspectos mais íntimos da personalidade humana (o da intimidade e da consideração pessoal), ou o da própria valoração da pessoa no meio em que vive e atua (o da reputação ou da consideração social).
+
+
+?...
+
+
+?Na concepção moderna da teoria da reparação de danos morais prevalece, de início, a orientação de que a responsabilidade do agente se opera por força do simples fato da violação. Com isso, verificado o evento danoso, surge, ipso facto, a necessidade da reparação, uma vez presentes os pressupostos de direito. Dessa ponderação, emergem duas conseqüências práticas de extraordinária repercussão em favor do lesado: uma, é a dispensa de análise da subjetividade do agente; outra, a desnecessidade de prova do prejuízo em concreto.? (negrito nosso).
+
+
+
+As lições dos ilustres juristas servem de ponderação no caso presente. Em alguns acontecimentos, provado o fato danoso, surge como conclusão inafastável e independente de outras provas a obrigação de reparação dos danos morais. É o que ocorre, por exemplo, com a perda de um ente querido. 
+
+
+Do mesmo modo, entendo que se pode  concluir que, uma vez provada a indevida movimentação da conta-corrente da consumidora, surgirá, ipso facto, a obrigação de reparação dos danos morais independente da análise subjetiva do sentimento da ofendida ou da produção de outras provas. 
+
+
+No caso em tela, há prova de que a autora experimentou o constrangimento de ver-lhe negado o ressarcimento dos valores retirados indevidamente de sua conta-corrente, com ameaça das sanções contratuais de inadimplemento. 
+
+
+
+Preocupa-me a tese esposada por alguns intérpretes do Direito, diferenciando o dano moral dos transtornos causados pelo cotidiano, que não seriam indenizáveis. A Constituição Federal concebeu a indenização dos danos morais sem qualquer restrição, não cabendo ao Estado (legislador ordinário ou juiz) diminuir o alcance de tão importante direito fundamental. 
+
+
+Por isso, como regra ampla e geral, onde existir o desconforto, o transtorno, o incômodo, etc. haverá lugar para a indenização por dano moral. Logicamente, como exceção, os abusos (a patologia) deverão ser extirpados e combatidos, sem preconceitos e sem a preocupação com uma ?indústria do dano moral?, pensamento, ?data venia?, sem qualquer fundamento jurídico. 
+
+
+Sobre esta parte, colhe-se a magnífica manifestação do Min. FRANCISCO REZEK (participando do julgamento do recurso extraordinário já citado, RT 740/205), que vê na tímida atuação do foro cível - ao lado do foro criminal - uma das causas da sensação de impunidade do país: 
+
+
+?Volto agora ao que nos interessa: receio que seja também ideológica a leniência do foro cível - que responde, tanto quanto o foro criminal, pela imagem do ?país da impunidade? - no domínio das relações do cidadão, visto na sua qualidade de consumidor, com todas as forças estabelecidas no plano econômico: o comerciante, o industrial, o prestador de serviços, o banqueiro, o próprio Estado-empresário. A tendência do Poder Público diante dos reclamos do consumidor sempre foi - neste país mais do que nos outros - a de reagir com surpresa. O que é isso ? Que história é esta ? Não é caso de indenização; não é caso da pessoa sentir-se tão lesada; não é caso de pedir em juízo reparação alguma. Parece-me que essa forma de leniência no foro cível deveria finalmente, à luz da CF/88, encontrar seu paradeiro, produzindo uma situação nova, condizente com os termos da Carta.? 
+
+
+(negrito nosso).
+
+
+
+Na verdade, o que se depreende dos autos é o controle insuficiente do banco réu sobre os procedimentos de segurança de movimentação da conta-corrente pela Internet, caracterizando um descaso com o consumidor.
+
+
+
+
+A função da indenização oriunda do dano moral tem dividido as opiniões dos autores. Clayton Reis (in ?Dano Moral?, Forense, 2a. ed., 1.992, págs. 78/82) afirma que ?todos os doutrinadores são uniformes em defender a tese de que a função da reparação de danos morais é meramente compensatória?, porém também diz que ?a compensação da vítima tem um sentido punitivo para o lesionador, que encara a pena pecuniária como uma diminuição do seu patrimônio material em decorrência do seu ato lesivo?. Augusto Zenun (in ?Dano Moral?, Forense, 6a. ed., 1.997., págs. 109/139) reserva à reparação dos danos morais a finalidade compensatória pelos ?derivativos?, sugerindo ?o arbitramento de derivativos suficientes e capazes de minorar a dor, ou por melhor explicar, as seqüelas que a dor moral causa (sentimentos, depressão, desvios da normalidade de vida, alheiamento parcial ou total)?. Pela tese do mencionada autora, os derivativos serviriam para compensar e consolar o ofendido.  O professor Caio Mário da Silva Pereira (in ?Responsabilidade Civil?, Forense, 3a. ed., 1.992, págs.  56/62) mostra-se amplamente favorável à indenização por dano moral,  sublinhando que ?a par do caráter punitivo imposto ao agente, tem de assumir sentido compensatório?.
+
+
+
+Na jurisprudência, colhe-se o brilhante voto do Desembargador Walter Moraes (RT 650/63) que destaca a finalidade compensatória da reparação do dano moral, negando sua função punitiva mas admitindo que deva ter o condão de inibir o ofensor:
+
+
+"O dano moral não se avalia mediante cálculo matemático-econômico das repercussões patrimoniais negativas da violação - como se tem feito às vezes - porque tal cálculo já seria a busca exatamente do minus ou do detrimento patrimonial, ainda que aproximativa estimação. E tudo isso já esta previsto na esfera obrigacional da indenização por dano propriamente dito (CC, art. 1553). A reparação pecuniáriapelo dano moral, descartada já a impossibilidade da eqüiponderância de valores, tem outro sentido, como anota Windscheid acatando opinião de Wichter: compensar a sensação de dor da vítima com uma sensação agradável em contrário (nota 31 ao parágrafo 455 das Pandette, trad. Fadda e Bensa). Assim, tal paga em dinheiro deve representar para a vítima uma satisfação, igualmente moral, ou, que seja, psicológica, capaz de neutralizar ou anestesiar em alguma parte o sofrimento impingido; como diz Roberto Brebbia (El Daño Moral, p. 28), "uma soma de dinheiro ao danificado para que este possa proporcionar-se uma satisfação equivalente ao desassossego sofrido", pois "o dano moral (diz noutro ponto) compreende a estimação dos padecimentos, o temor das conseqüências definitivas ou transitórias do dano emergente" (p. 154). A eficáciada contrapartida pecuniárianão esta na aptidão para proporcionar a satisfação em justa medida, de modo que tão pouco signifique um enriquecimento sem causa da vítima, mas esta em produzir no causador do mal, impacto bastante para dissuadi-lo de igual ou novo atentado. Trata-se, então, de uma estimação prudência, que não dispensa sensibilidade para as coisas da dor e da alegria, para os estados d'alma humana, e que deve ser feita pelo mesmo juiz ou, quando muito, por outro jurista; inútil sempre por em ação a calculadora do economista ou do técnico em contas. É nesse sentido que o citado Brebbia, na sua excelente monografia sobre o dano moral, assinala alguns elementos que se devem levar em conta na fixação do reparo: a gravidade objetiva do dano, a personalidade da vítima (situação familiar e social, reputação), a gravidade da falta  (conquanto não se trate de pena, a culpa da ação implica na gravidade da lesão), a personalidade (as condições) da autora do ilícito (p. 119)". 
+
+
+(negrito nosso).
+
+
+
+Concluindo, também entendo que a finalidade principal da reparação centra-se na compensação destinada à vítima, como forma de aliviar (se não for possível eliminar) a lesão experimentada. Todavia, em determinados casos, também a função inibitória (uma idéia aproximada à da sanção civil) assume relevante papel, a fim de que o ofensor seja punido de tal forma a não praticar atos similares. 
+
+
+Nas ofensas cometidas contra os consumidores, a função inibitória assume destacada importância, sendo imprescindível que a indenização possa persuadir - desestimular - o fornecedor (ofensor); afinal, para grandes empresas uma condenação em valores ínfimos poderá representar um risco assumido na adoção de posturas ilegais contra os consumidores (todos sabem que nem todos os ofendidos ingressam em Juízo na defesa dos seus direitos e interesses).
+
+
+Na hipótese sob exame, revelando-se significativas ambas as  funções compensatória e inibitória, entendo que o valor da indenização do dano moral deve ser fixado em R$ 15.000,00 (quinze mil reais). Anoto que o valor foi estipulado, considerando as peculiaridades do caso. A repercussão do dano também foi levada em conta, na medida em que se situou dentro de padrões não excepcionais. 
+
+
+A quantia será acrescida de correção monetária calculada pelos índices adotados pelo TJSP (a partir da presente data, 23.04.2012) e de juros de mora de 1% (um por cento) ao mês (a partir da  citação, 31.1.2012).
+
+
+
+DISPOSITIVO.
+
+
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE A AÇÃO promovida por Nadia Marques da Rocha contra o Banco Itaú S/A, para acolher as pretensões da autora nos seguintes termos:
+
+A)  DECLARAR NULO E INEXIGÍVEL O EMPRÉSTIMO NO VALOR DE R$ 43.870,00 EM 14.7.2011, IMPEDINDO-SE A COBRANÇA DE QUAISQUER VALORES ORIUNDOS DO MESMO (FLS. 20).
+
+
+B) CONDENAR O BANCO RÉU AO PAGAMENTO DE INDENIZAÇÃO DOS DANOS MATERIAIS DA AUTORA NO VALOR DE R$ 18.900,00 (DEZOITO MIL E NOVECENTOS REAIS).  O valor será acrescido de todos os encargos (juros remuneratórios, taxas, tarifas, multas, correção monetária, etc.) exigidos pelo banco réu da autora em razão do saldo devedor acarretado na conta-corrente da mesma. Trata-se de cuidar da efetiva recomposição do patrimônio da autora. O valor será apurado em fase de execução. Poderá o banco, voluntariamente, no lugar de pagar os valores correspondentes, fazer os estornos na conta-corrente da autora, se ainda for possível contabilmente. 
+
+
+C) REPARAÇÃO DOS DANOS MORAIS NO VALOR DE R$ 15.000,00 (QUINZE MIL REAIS). A quantia será acrescida de correção monetária calculada pelos índices adotados pelo TJSP (a partir da presente data, 23.4.2012) e de juros de mora de 1% (um por cento) ao mês (a partir da  citação, 31.1.2012).
+
+
+Em razão da sucumbência na maior parte do pedido,  o réu deverá suportar o pagamento de 70% da custas judiciais (atualizadas). Também pagará os honorários advocatícios, estes fixados em 10% (dez por cento) do valor integral da indenização dos danos morais (letra "C" deste dispositivo, com juros e correção monetária). Os honorários são fixados para a fase de conhecimento. Se não houver cumprimento voluntário da sentença, serão fixados honorários adicionais para a fase de execução.
+
+
+Fica o réu intimado a cumprir o pagamento em dinheiro ordenado na sentença, no prazo de 15 (quinze) dias contados da data em que a condenação se tornar exigível, em primeiro ou segundo graus de jurisdição, independente de outras e novas intimações, sob pena de incidência de multa processual de 10% (dez por cento), na forma do artigo 475-J do Código de Processo Civil. 
+
+A base de cálculo para a taxa judiciária incidente na fase recursal: valor da causa sem acréscimos.
+
+
+P.R.I.
+
+São Paulo23 de abril de 2012
+
+
+Alexandre David Malfatti  
+    
+
+CERTIDÃO ? PUBLICAÇÃO
+
+Certifico e dou fé que a  decisão ou sentença anterior foi enviada ao D.J.E. Disponibilização em  _____ / _____ / 20__. Considera-se data da publicação o primeiro dia útil subseqüente à data acima mencionado. 
+Custas de preparo: R$ ________________.
+Taxa de porte e remessa: R$ _____________.
+
+Eu, .............................. escr. , digitei e subscrevo.

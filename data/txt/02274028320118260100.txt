@@ -1,0 +1,62 @@
+
+
+SENTENÇA
+
+Processo nº:0227402-83.2011.8.26.0100
+Classe - AssuntoProcedimento Sumário - Bancários
+Requerente:Rafael dos Santos
+Requerido:Bv Financeira S/A
+
+
+Justiça Gratuita
+
+Juiz(a) de Direito: Dr(a). Douglas Iecco Ravacci
+
+Vistos.
+
+ RAFAEL DOS SANTOS ajuizou ação contra BV FINANCEIRA S/A, requerendo a revisão de contrato de mútuo celebrado com alienação fiduciária de um veículo em garantia, alegando cobrança de valores abusivos de prestações mensais, sob regime de juros compostos. Discorre acerca de impossibilidade da discussão das cláusulas diante do contrato de adesão, limitação da taxa de juros em 12 % ao ano, cobrança de comissão de permanência cumulada com multa de mora. Requereu a concessão da liminar para expedição de ofícios com fito de impedir a inscrição de seu nome nos órgãos de proteção ao crédito, aplicação do CDC e consequente inversão do ônus probante, reconhecimento da prática de anatocismo, julgamento da ação como procedente, determinando a  revisão das cláusulas que especificam as taxas de juros anuais, mensais e Custo efetivo anual, bem como a que estabelece os encargos moratórios,  Anulação da cláusula que institui IOF, Serviços de terceiros, tarifa de cadastro, registro de contrato e tarifa de avaliação do bem, condenação do réu nas custas e demais despesas que vier a sofrer no curso da demanda, bem como honorários advocatícios.
+
+O réu fora citado e apresentou contestação (fls. 141/168), alegando em preliminar a inépcia da inicial. No mérito, invocou o princípio da obrigatoriedade dos contratos, ausência de requisitos para a revisão e defendeu a legalidade dos encargos remuneratórios e moratórios contratados, requerendo a improcedência do pedido.
+
+Apresentada a réplica ( fls. 179/195).
+
+É o relatório.
+Fundamento e decido.
+
+Conheço diretamente do pedido, nos termos do artigo 330, I, do CPC.
+
+Conforme se verifica dos autos, cuida-se contrato de Crédito Bancário, com alienação fiduciária do bem como garantia, a prazo certo, prestações fixas a taxa de juros prefixada de 1,49% ao mês, com previsão de multa de 2% e comissão de permanência de 12,00% em caso de mora.
+
+Apesar da incidência do CDC à relação jurídica, típica de consumo, não é caso de revisão por quaisquer vícios de vontade ou sociais, bem como reconhecimento das ilegalidade apontadas.
+
+Em relação aos encargos remuneratórios, o STF e STJ têm conferido validade e eficácia à antiga Súmula 596 do primeiro no sentido de que as proibições da Lei da Usura.  
+
+Com relação às limitações às taxas de juros, não se aplicam aos contratos firmados com instituições financeiras integrantes do Sistema Financeiro Nacional. A limitação constitucional da taxa de juros é questão já superada  pela Súmula 648 do STF no sentido de que é norma revogada pela Emenda Constitucional n. 40/2003.
+
+ No que tange à capitalização de juros, tem-se por legalmente possível em relação ao método de amortização decorrente da tabela Price. Contudo, o contrato é posterior da Medida Provisória n. 1.963-17/2000, de 31 de março de 2000, que admite a capitalização mensal dos juros, nos moldes convencionados, cuja aplicação vem sendo reconhecida pelo STJ.
+
+ Excepcionalmente há possibilidade do reconhecimento de abusividade pela cobrança de taxa de juros, quando superior aquela praticada pelo mercado, hipótese diversa dos autos.
+
+No que diz respeito ao encargos de mora, razão parcial assiste à parte autora. Isto porque, apesar do reconhecimento da legalidade da cobrança de comissão de permanência no período de inadimplência a taxa mensal de 12% ao ano), a qual segundo precedentes do STJ, em parte já sumulados, deve-se limitar ao percentual do contrato, mas sem a cumulação com outros encargos:
+
+?Ação de revisão de contrato bancário. Refinanciamento. Código de Defesa do Consumidor. Capitalização. Cumulação da comissão de permanência com juros moratórios e multa contratual. Precedentes da Corte. 1. O Código de Defesa do Consumidor aplica-se às instituições financeiras como assentado na Súmula nº 297 da Corte. 2. É vedada a capitalização nos contratos de mútuo bancário não regidos por legislação especial que a autorize. 3. Confirma-se a jurisprudência da Corte que veda a cobrança da comissão de permanência com os juros moratórios e com a multa contratual, ademais de vedada a sua cumulação com a correção monetária e com os juros remuneratórios, a teor das Súmulas nº 30, nº 294 e nº 296 da Corte. 4. Recurso especial não conhecido.? (Resp 595653/ RS; Recurso Especial 2003/0178502-6 Ministro Carlos Alberto Menezes Direito, 3ª Turma, publicado no DJ em 07.03.2005 p. 245)
+
+Direito processual civil e econômico. Agravo no recurso especial. Ação revisional. Contrato de financiamento com garantia fiduciária. Comissão de permanência. Súmula 83/STJ aplicada. - É admitida a incidência da comissão de permanência desde que não cumulada com juros remuneratórios, juros moratórios, correção monetária e multa moratória. Precedentes. - Inviável o recurso especial quando a decisão recorrida está em harmonia com a jurisprudência do Superior Tribunal de Justiça. Negado provimento ao agravo no recurso especial. (AgRg no REsp 840654/RS, Min. Nancy Andrighi, 3a Turma, DJ 02.10.2006 p. 280) (g.n.)
+
+
+Feitas tais observações, a cláusula sobre encargos de mora é revista para fim de excluir a possibilidade de cobrança de comissão de permanência cumulada com os demais encargos de mora (multa de mora de 2%), e limitada aquela aos juros contratados (1,49% ao mês). 
+
+Por fim, no que tange aos valores constantes do custo efetivo total, devem ser excluídos (à exceção dos tributos), pois se tratam de despesas inerentes à atividade bancária, caracterizando a abusividade vedada pelo CDC o repasse ao consumidor, mas sem a má-fé autorizadora da repetição em dobro: 
+
+CONTRATO. FINANCIAMENTO DE BENS E/OU SERVIÇOS COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. COBRANÇA A TÍTULO DE ?SERVIÇOS DE TERCEIROS? E ?SERVIÇOS DE CORRESPONDENTES NÃO BANCÁRIOS?. ABUSIVIDADE. REPETIÇÃO DO INDÉBITO PELO DOBRO. DANO MORAL. 1. Embora contratualmente prevista, é abusiva a cobrança relativa a ?serviços de terceiros? e ?serviços de correspondentes não bancários?, porquanto não poderia o fornecedor cobrar do consumidor despesas de sua responsabilidade. Afinal, é abusiva a cobrança de taxas que não representam prestação de serviço ao cliente, servindo apenas como estratagema para redução de riscos da atividade do fornecedor. 2. Tendo em vista que a cobrança decorreu de previsão contratual e não se vislumbra má-fé por parte da fornecedora, não cabe devolução em dobro. 3. A autora assumiu parcelas em valores fixos, de maneira que descabe a alegação de que o inadimplemento decorreu dos acréscimos indevidos embutidos no preço. 4. Recursos não providos. (Apelação 0000752-21.2011.8.26.0637, Relator(a): Melo Colombi, Comarca: Tupã, Órgão julgador: 14ª Câmara de Direito Privado, Data do julgamento: 14/03/2012, Data de registro: 21/03/2012, Outros números: 7522120118260637) 
+
+O reconhecimento da ilegalidade das cobranças (Serviços de Terceiros: R$ 1.472,48; Tarifa de cadastro: R$ 509,00; Registro de contrato ? R$ 91,42;  Tarifa de Avaliação do bem: R$ R$ 193,00), implica em redução das parcelas e dever de restituição do excesso a ser abatido do saldo devedor.
+
+Ante o exposto, JULGO PROCEDENTE EM PARTE o pedido e extinto o processo com julgamento do mérito, nos termos do artigo 269, I, do CPC. Declaro nula a cláusula 6a que permite a cobrança de multa cumulada com comissão de permanência , limitando esta a taxa de juros efetiva contratada ? 1,49% ao mês com capitalização, podendo a ré optar por uma ou outra. Declaro indevida a cobrança dos valores mencionados acima (Serviços de Terceiros: R$ 1.472,48; Tarifa de cadastro: R$ 509,00; Registro de contrato ? R$ 91,42;  Tarifa de Avaliação do bem: R$ R$ 193,00), e determino o recálculo das prestações, abatendo-se os valor indevidamente cobrados de saldo devedor ou, no caso de quitação, ainda que antecipada, devolução dos valores devidamente corrigidos e com juros de mora de 1% ao mês a contar da citação. 
+
+Pela sucumbência recíproca, cada parte arcará com metade das custas e despesas processuais, dando por compensada a verba honorária.
+
+P.R.I.
+São Paulo, 16 de setembro de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

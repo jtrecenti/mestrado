@@ -1,0 +1,77 @@
+
+
+SENTENÇA
+
+Processo nº:0048047-60.2011.8.26.0053
+Classe - AssuntoProcedimento Ordinário - Anulação de Débito Fiscal
+Requerente:Polico Comercial de Alimentos Ltda
+Requerido:Fazenda do Estado de São Paulo
+
+
+Juiz(a) de Direito: Dr(a). Liliane Keyko Hioki
+
+Vistos.
+
+Trata-se de ação declaratória de nulidade de auto de infração e imposição de multa, com pedido de antecipação dos efeitos da tutela, proposta por POLICO COMERCIAL DE ALIMENTOS LTDA em face da FAZENDA DO ESTADO DE SÃO PAULO, objetivando a declaração de nulidade das infrações tributárias descritas no auto de infração e imposição de multa nº 3.066.584-0, lavrado em 31/01/2007, eis que as infrações que lhe foram imputadas não ocorreram. Subsidiariamente pleiteou a redução do valor da multa imposta, em razão da inexistência de dano ao Erário, assim como a redução do imposto a pagar. Com a inicial vieram documentos (fls. 18/1215).
+Tutela antecipada indeferida a fls. 1216.
+Emenda à inicial a fls. 1219/1231.
+Citada, a requerida apresentou contestação (fls. 1237/1353) e postulou a improcedência dos pedidos. Sustentou a validade do auto de infração, assim como a caracterização das infrações tributárias apontadas pela autoridade administrativa.
+Réplica a fls. 1356/1363 e reiteração do pedido de antecipação dos efeitos da tutela a fls. 1365/1377.
+É a síntese do essencial. FUNDAMENTO E DECIDO.
+O feito prescinde de outras provas, eis que cuida de questão jurídica, possibilitando o julgamento nos termos do artigo 330, inciso I do Código de Processo Civil.
+Os pedidos são improcedentes.
+Isso porque a autora não conseguiu desconstituir o ato administrativo atacado, que se mostra hígido e em consonância com a legislação aplicável ao caso.
+I ? Pagamento de imposto a menor (item 1 do AIIM).
+Sustenta a autora que não obstante as notas fiscais de saída terem apontado valor errado do ICMS o equívoco foi reparado por meio de cartas de correção, tanto que a escrituração e o recolhimento do imposto foram feitos com base nos valores corretos.
+Ocorre, no entanto, que a autora não procedeu da forma como estabelecida na legislação de regência no tocante à correção da base de cálculos e do imposto destacado, haja vista que a utilização da carta de correção não era possível para os fins pretendidos pela autora, eis que não prevista no RICMS, o qual, somente a partir de 04/04/2007, com a promulgação do Decreto 51.801, que acresceu o §3º ao artigo 183 do RICMS, veio a ser disciplinado como forma de se corrigir documento fiscal, sem, no entanto, a amplitude perquirida pela autora:
+3º - Fica permitida a utilização de carta de correção para a regularização de erro ocorrido na emissão de documento fiscal, desde que o erro não esteja relacionado com (Ajuste SINIEF-01/07): (Artigo acrescentado pelo Decreto 51.801, de 09-05-2007; DOE 10-05-2007; Efeitos a partir de 04-04-2007)
+I - as variáveis que determinam o valor do imposto tais como base de cálculo, alíquota, diferença de preço, quantidade, valor da operação ou da prestação;
+II - a correção de dados cadastrais que implique mudança do remetente ou do destinatário;
+III - a data de emissão ou de saída. 
+Não se sustenta a tese inicial no sentido que a utilização da carta de correção, antes do advento do Decreto retro referido, era possível em qualquer hipótese, porque assim não o é, na medida em que, como dito, não se previa aquele meio na legislação de regência do ICMS, na época dos fatos, de sorte que inadequado, quiçá ilegal, a correção tal como operada. Ademais, o artigo 182 do regramento prevê a forma adequada para a correção de erros, tais como os praticados pela autora:
+Artigo 182 - Os documentos fiscais previstos no artigo 124 serão também emitidos, conforme o caso (Lei 6.374/89, art. 67, § 1º, Convênio de 15-12-70 - SINIEF, art. 21, e Convênio SINIEF-6/89, arts. 4º e 89): 
+I - no reajustamento de preço em razão de contrato escrito ou de qualquer outra circunstância que implique aumento no valor original da operação ou prestação; 
+II - na exportação, se o valor resultante do contrato de câmbio acarretar acréscimo ao valor da operação constante na Nota Fiscal; 
+III - na regularização em virtude de diferença no preço, em operação ou prestação, ou na quantidade de mercadoria, quando efetuada no período de apuração do imposto em que tiver sido emitido o documento fiscal original; 
+IV - para lançamento do imposto, não efetuado em época própria, em virtude de erro de cálculo ou de classificação fiscal, ou outro, quando a regularização ocorrer no período de apuração do imposto em que tiver sido emitido o documento fiscal original; 
+V - na data do encerramento das atividades do estabelecimento, relativamente à mercadoria existente como estoque final; 
+VI - em caso de diferença apurada no estoque de selos especiais de controle fornecidos ao usuário pelas repartições do fisco federal ou estadual para aplicação em seus produtos, desde que a emissão seja efetuada antes de qualquer procedimento do fisco. 
+§ 1º - Na hipótese do inciso I ou II, o documento fiscal será emitido dentro de 3 (três) dias, contados da data em que se tiver efetivado o reajustamento do preço ou o acréscimo ao valor da operação. 
+§ 2º - Na hipótese do inciso III ou IV, se a regularização se efetuar após período mencionado, o documento fiscal também será emitido, devendo o contribuinte: 
+1 - recolher em guia de recolhimentos especiais a diferença do imposto com as especificações necessárias à regularização, indicando, na via do documento presa ao talão, essa circunstância, bem como o número da autenticação e a data da guia de recolhimento; 
+2 - efetuar, no livro Registro de Saídas: 
+a) a escrituração do documento fiscal; 
+b) a indicação da ocorrência, na coluna "Observações", nas linhas correspondentes aos lançamentos do documento fiscal original e do documento fiscal complementar; 
+3 - registrar o valor do imposto recolhido na forma do item 1 no livro Registro de Apuração do ICMS, no quadro "Crédito do Imposto - Estornos de Débitos", com a expressão "Diferença do Imposto - Guia de Recolhimento nº ..., de ../../..". 
+§ 3º - Não se aplicará o disposto nos itens 1 e 3 do parágrafo anterior se, no período de apuração em que tiver sido emitido o documento fiscal original e nos períodos subseqüentes, até o imediatamente anterior ao da emissão do documento fiscal complementar, o contribuinte tiver mantido saldo credor do imposto nunca inferior ao valor da diferença. 
+§ 4º - Na hipótese do inciso VI, a falta de selos caracterizará saída de produto sem emissão do documento fiscal e sem pagamento do imposto. 
+De se ver que as obrigações acessórias também rendem infrações, se não cumpridas nos termos legais, sendo certo que a caracterização delas (infrações) independe de efetivo prejuízo ao Fisco.
+II ? Erro na apuração da alíquota (itens 2 e 4 do AIIM).
+Aqui também se equivocou a autora, porque a redação por ela invocada do artigo 3º, do Anexo II do RICMS, que reduziu a alíquota do produto (alho) para 7%, foi dada pelo Decreto 50.071, de 30.09.2005, com efeitos a partir de 1º de janeiro de 2006, de sorte que não se pode aplicar aos fatos discutidos nesta demanda que remontam a período anterior à entrada em vigor da norma:
+Artigo 3° - (CESTA BÁSICA) - Fica reduzida a base de cálculo do imposto incidente nas operações internas com os produtos a seguir indicados, de forma que a carga tributária resulte no percentual de 7% (sete por cento) (Convênio ICMS-128/94, cláusula primeira): (Redação dada ao artigo pelo Decreto 50.071 de 30-09-2005; DOE 1°-10-2005): (...) VI ? alho.
+Veja que os produtos fabricados pela autora não podem ser equiparados ao previsto no inciso VI, retro mencionado, eis que o intuito da redução da alíquota foi privilegiar os produtos integrantes da cesta básica, que por certo não incluiu produtos derivados do alho in natura (alho em flocos e alho granulado). Não bastasse isso, a conjugação do artigo 150, §6º da CF e do artigo 111, inciso II do CTN faz concluir que a interpretação extensiva pretendida pela autora é inadmitida, porquanto em casos de redução da alíquota do imposto a lei tem interpretação restrita.
+Tampouco há que se aplicar, como pretendeu a autora, a decisão proferida na Consulta Pública 626/01, eis que, como pontuado pela requerida, o parecer refere-se a período diverso do apurado em relação à autora e a validade daquele entendimento restringe-se à consulente, tal como dispõe o artigo 520 do RICMS:
+Artigo 520 - A resposta aproveitará exclusivamente ao consulente, nos exatos termos da matéria de fato descrita na consulta (Lei 6.374/89, art. 106). 
+Assim, a alíquota incidente sobre os produtos comercializados/fabricados pela autora é de 12%, seja porque no período de apuração essa era a alíquota vigente, seja porque após a redução do percentual para 7% os produtos da autora (alho em flocos e alho granulado) não estavam inseridos entre as hipóteses beneficiadas pela redução, que previa exclusivamente o alho in natura.
+III ? Diferença de alíquotas para vendas a EPP, micro empresas e consumidor final (item 3 do AIIM).
+As argumentações tecidas no item supra aqui se aplicam.
+A uma porque a lei incidente na espécie, Decreto 49.113/04 excluia expressamente a venda a micro empresas, EPP e consumidor final da redução de alíquota (12%), aplicando-se, pois, o percentual deduzido no AIIM (18%):
+§ 1º - A redução de base de cálculo prevista neste artigo (artigo 39, retro transcrito): (...) 2 - não se aplica à saída destinada a: a) estabelecimento enquadrado como beneficiário do regime tributário atribuído à microempresa e empresa de pequeno porte; b) cconsumidor final (...).
+A duas porque os produtos fabricados pela autora não se incluem nas hipóteses de redução previstas no Decreto 50.071/05.
+IV ? Não entrega da GIA
+O documento copiado a fls. 1207 demonstra que a GIA do mês de setembro de 2004 foi entregue em afronta ao disposto no artigo 254 do RICMS, de modo que a infração apontada subsiste:
+Artigo 254 - Salvo disposição em contrário, a guia de informação será entregue no mês subseqüente ao da apuração e até os dias a seguir indicados, de acordo com o último algarismo do número de inscrição estadual do estabelecimento (Lei 6.374/89, art. 56, com alteração da Lei 10.619/00, art. 1º, XXIII; Convênio de 15-12-70 - SINIEF, arts. 80 e 81, ambos na redação do Ajuste SINIEF-1/96, cláusula primeira, II, o primeiro com alteração do Ajuste SINIEF-7/96; Ajuste SINIEF-4/93, cláusulas oitava, parágrafo único, e décima, na redação do Ajuste SINIEF-9/98): 
+I - finais 0 e 1 - até o dia 11; 
+II - finais 2, 3 e 4 - até o dia 12; 
+III - finais 5,6 e 7 - até o dia 13; 
+IV - finais 8 e 9 - até o dia 14. 
+Parágrafo único - O contribuinte de outra unidade federada que, na condição de responsável, efetuar retenção do imposto a favor deste Estado, deverá apresentar, até o dia 10 do mês subseqüente ao da apuração do imposto, a Guia Nacional de Informação e Apuração do ICMS Substituição Tributária - GIA-ST.
+Em assim sendo, as argumentações tecidas pela autora não tem amparo legal, devendo, destarte, serem rechaçadas, prevalecendo o ato administrativo atacado.
+Ante o exposto, JULGO IMPROCEDENTES os pedidos formulados por POLICO COMERCIAL DE ALIMENTOS LTDA em face da FAZENDA DO ESTADO DE SÃO PAULO, extinguindo o feito com resolução do mérito, nos termos do artigo 269, inciso I do CPC.
+Verbas de sucumbência pela autora, com honorários fixados em R$ 2.000,00 (art. 20, §4º do CPC).
+P.R.I.
+São Paulo, 14 de agosto de 2012.
+
+
+                Liliane Keyko Hioki
+                    Juiz(a) de Direito

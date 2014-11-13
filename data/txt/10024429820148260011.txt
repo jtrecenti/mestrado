@@ -1,0 +1,38 @@
+
+
+SENTENÇA
+Em 20 de maio de 2014 faço estes autos conclusos ao Mm. Juíz de Direito da 2ª VARA CÍVEL DO FORO REGIONAL DE PINHEIROS ? XI. Eu, Antonio Valoto Junior, subscrevi.
+Processo nº:1002442-98.2014.8.26.0011
+Classe - AssuntoProcedimento Ordinário - Seguro
+Requerente:Diagrama Home Office Centro de Negócios Ltda
+Requerido:FUNDO GARANTIDOR DE CRÉDITOS - FGC
+
+Juiz(a) de Direito: Dr(a). Eduardo Tobias de Aguiar Moeller
+
+Vistos.
+
+Trata-se de ação de cobrança.
+DIAGRAMA HOME OFFICE CENTRO DE NEGÓCIOS LTDA ajuizou esta ação contra FUNDO GARANTIDOR DE CRÉDITOS - FGC. Alegou o autor que detinha instimentos em Certificado de Depósito Bancário - CDB no Banco BVA, o qual sofreu intervenção do Banco Central em 19.10.2012 e foi posteriormente liquidado em 19.06.2013. Alegou que após a data da intervenção e antes da data da liquidação houve a modificação do valor da garantia prestada pelo réu, que aumentou de R$ 70.000,00 para R$ 250.000,00. Alegou que, por este motivo, e também pelo fato de que o aumento do valor se deu antes do pagamento da garantia ao autor, deve haver complementação do valor pago para que se atinja o valor atualmente vigente. Sustentou que o marco estabelecido pelo réu para pagamento das indenizações (qual seja, a data da intervenção) evidencia antecipação para evitar o pagamento da garantia maior, levando se em conta que o regulamento do FGC também prevê a data de liquidação para concessão da garantia. Alegou que o Código do Consumidor se aplica na relação havida entre as partes. Requereu o pagamento pela ré de R$ 180.000,00, como complementação da garantia, e de indenização por danos morais com valor a ser arbitrado pelo juízo.
+Com a inicial vieram notas de compra dos investimentos no Banco BVA (fls. 31/33),  termo de cessão de direitos que atesta o pagamento da quantia de R$ 70.000,00 (fls. 34), Ato Normativo 1238/12 do Banco Central que decretou a intervenção (fls. 35), Ato Normativo 1.256/13 do Banco Central que decretou a liquidação do Banco BVA (fls. 37), edital que comunica o pagamento das garantias (fls. 39), Resolução 4.087/12 do CMN que instituía o valor de R$ 70.000,00 para a garantia ordinária (fls. 57/74), e Resolução 4.222/13 do CMN que aumentou o valor da garantia para R$ 250.000,00 (fls. 75/95).
+O réu contestou o feito (fls. 104/124).  Alegou que em 23.2.13, após obter informações do interventor, divulgou a todos os investidores do Banco BVA as datas e locais para pagamento da garantia no valor de R$ 70.000,00 vigente à época. Alegou que, de fato, por meio da Resolução 4.222/13 o valor da garantia foi elevado para R$ 250.000,00; alegou, porém, que o fato gerador do pagamento (data da intervenção, de acordo com o art. 3º, inciso I da Resolução 4.087/12) já havia ocorrido em data anterior a esta majoração. Sustentou que o pagamento dos credores do Banco BVA se deu de forma escalonada em razão de logística e todos receberam a mesma quantia. Impugnou o pedido de danos morais alegando que não houve prática de ato ilícito. Juntou a Resolução nº 4.087/12 (fls. 156/178), edital de pagamento aos investidores do banco BVA (fls. 179/181).
+Houve réplica (fls. 211/214).
+
+É o relatório.
+D E C I D O.
+
+Na forma do artigo 330, I, do CPC, julgo antecipadamente esta lide. 
+Primeiramente, deve ser afastada a pretensão da parte autora de aplicação do Código de Defesa do consumidor à controvérsia. Isto porque não pode a legislação consumerista servir de norte para interpretação de norma expedida pelo BACEN ? no caso, o regulamento do FGC (Resolução 4.087/2012 e seus anexos, Resolução 4.222/2013). O comando de interpretação mais favorável à parte hipossuficiente contido no artigo 47 deve ser aplicado aos contratos de adesão firmados entre fornecedores e consumidores, e não às disposições legais contidas nas normas acima mencionadas.
+Restaram incontroversos nestes autos os seguintes fatos: (i) a intervenção do Banco BVA pelo Banco Central em 19.10.2012 (fls. 35), sendo o autor um de seus investidores;  (ii) o pagamento pelo réu em 28.5.2013 (fls. 34) da garantia ao autor no valor de R$ 70.000,00; e (iii) o aumento da garantia a ser paga pelo FGC de R$ 70.000,00 para R$ 250.000,00 por meio da Resolução 4.222, de 23 de maio de 2013 (fls. 75/95).
+Divergem as partes sobre o evento que estabeleceria definitivamente o valor a ser pago pelo FGC: enquanto o autor sustenta que o FGC deliberadamente escolheu o marco para pagamento da garantia, evitando o novo e maior valor, o réu alega que o fato gerador que ensejou o pagamento da garantia é a ocorrência da intervenção, aplicando-se o valor vigente à sua época (no caso, R$ 70.000,00).
+A pretensão da parte autora contraria o regulamento do réu (art. 3º, I,  do Estatuto do Fundo Garantidor de Créditos ? FGC, anexo à Resolução 4222/13, fls. 80). Esta norma prevê que a garantia a ser paga torna-se devida nas situações de "decretação da intervenção ou da liquidação extrajudicial de instituição associada".
+A intervenção e a liquidação de instituição financeira são eventos distintos e que podem ocorrer em hipóteses independentes.  A liquidação pode ocorrer de ofício ou a requerimento de seus diretores, de acordo com o art. 15, I e II, da Lei 6.024/74.  A intervenção não necessariamente culmina em liquidação da instituição financeira.
+Mostra-se lógica e razoável a interpretação normativa no sentido de que o pagamento da garantia deva ocorrer na primeira ocorrência de um dos dois eventos mencionados acima (intervenção ou liquidação). É razoável o argumento do réu de que a garantia se tornou líquida e exigível a partir da data da intervenção já que foi a partir deste evento que os investidores observaram a indisponibilidade de seus investimentos perante o Banco BVA.
+O réu é pessoa jurídica de direito privado criada para "proteger depositantes e investidores no âmbito do sistema financeiro" (art. 2º, I, do Estatuto do FGC, fls. 60) e é fortemente regulado pelo Banco Central e tendo suas resoluções aprovadas pelo Conselho Monetário Nacional.  O réu não tem poder discricionário para escolher qual condição deseja respeitar para que haja exigibilidade da garantia que deve pagar aos investidores.
+Embora o valor da garantia tenha sido elevado de R$ 70.000,00 para R$ 250.000,00 após a intervenção e antes da liquidação do Banco BVA, tal circunstância não altera o fato de que o primeiro evento que ocorreu foi a intervenção e nesta data é que fixou-se a obrigação de pagar a garantia (e seu valor) pelo réu.
+O valor de R$ 70.000,00 pago ao autor (fls. 34) de fato correspondia à garantia devida pelo réu à época da intervenção em outubro de 2012, não estando o réu obrigado a pagar qualquer diferença.
+Observo também que conforme edital veiculado pelo réu (fls. 39 e 179/181), os pagamentos aos investidores do Banco BVA foram realizados de 4.3.2013 a 5.7.2013.  Se fosse acolhida a tese do autor, restaria de fato configurado um tratamento desigual pois os outros investidores em idêntica situação receberam o valor da garantia de R$ 70.000,00.
+Por fim, ante a ausência de ato ilícito imputável ao réu, como acima fundamentado, é também improcedente o pedido formulado pelo autor de indenização a título de danos morais.
+Por estas razões julgo IMPROCEDENTE esta ação que DIAGRAMA HOME OFFICE CENTRO DE NEGÓCIOS LTDA ajuizou em face de FUNDO GARANTIDOR DE CRÉDITOS ? FGC.
+CONDENO o autor ao pagamento das custas processuais e honorários advocatícios que arbitro, na forma do art. 20, § 4º, do CPC, em R$ 2.000,00
+P. R. I. 
+São Paulo, 20 de maio de 2014.

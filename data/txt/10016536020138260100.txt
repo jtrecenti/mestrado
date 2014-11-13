@@ -1,0 +1,84 @@
+
+
+SENTENÇA
+
+Processo nº:1001653-60.2013.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Moral
+Requerente:HIAGO SPOSITO RAMOS
+Requerido:BANCO SANTANDER (BRASIL) S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Rogério Marrone de Castro Sampaio
+
+
+Vistos.
+
+
+HIAGO SPOSITO RAMOS ajuizou ação declaratória de inexigibilidade de débito, cumulada com pedido de indenização por danos materiais e morais, contra BANCO SANTANDER (BRASIL) S.A.. Em síntese, afirma o autor que teve quatro cheques por ele sacados contra a instituição ré para o pagamento de compras realizadas, nos valores de R$ 4.500,00 cada um (nºs 000046, 000047, 000048 e 000049). No entanto, as cártulas foram clonadas e apresentadas em duplicidade para compensação gerando um débito em sua conta corrente no valor total de R$ 36.000,00. Constatada a fraude, a instituição financeira, em novo equivoco, concretizou a transação em relação aos cheques clonados, devolvendo sem compensação os efetivamente válidos. Imputando responsabilidade civil à instituição financeira ré, pede a declaração de inexigibilidade dos débitos originados dos cheques fraudados, no valor de R$ 18.000,00, com a sua condenação à devolução dos valores indevidamente debitados em sua conta corrente a esse título, além do pagamento de indenização por danos morais, no valor estimado em vinte salários mínimos.  
+
+Com a petição inicial juntou documentos (fls. 13/33).
+
+Deferida, em parte, a antecipação de tutela, foi determinada a citação da ré (fls. 41).
+
+A ré, citada (fls. 47), não ofereceu contestação (fls. 98). 
+
+É o relatório.
+
+Decido.
+
+O caso comporta julgamento antecipado da lide, nos termos do artigo 330, I e II, do CPC. Não bastasse o fenômeno processual da revelia, bem caracterizado, a questão versa sobre matéria de direito e de fato, sendo suficiente a prova documental já produzida.
+
+No mérito a ação é procedente, em parte.
+
+Trata-se, no caso, de se aferir a responsabilidade civil da demandada, instituição financeira, por danos decorrentes de compensação indevida de cheques clonados e conseqüente apontamento do nome do autor nas listas de pessoas inadimplentes elaboradas por entidades de proteção ao crédito.
+
+De início, impõe-se o reconhecimento da sua responsabilidade civil. Com efeito, tanto o apontamento do nome do autor em banco de dados de entidade de proteção ao crédito, quanto o protesto de cheques ainda que sacados validamente, tiveram por origem manifesta falha nos serviços prestados pela instituição financeira. 
+
+Não bastasse a presunção de veracidade dos fatos alegados pelo autor, como efeito principal da revelia, os elementos de convicção proporcionados permitem concluir que houve apresentação e compensação em duplicidade de cheques sacados pelo autor, fruto de clonagem. E, para agravar ainda mais a situação, a instituição financeira, tentando regularizar a situação, acabou por viabilizar a compensação efetiva dos cheques falsos, debitando seus valores da conta corrente do autor, devolvendo ao apresentante os cheques válidos. 
+
+Acrescente-se, ainda, que a ré, adotando comportamento incompatível com o princípio da boa-fé objetiva, mesmo após ser alertada da situação fraudulenta, manteve o apontamento do nome do autor nos órgãos de proteção ao crédito, em função do saldo negativo gerado em sua conta (fls. 90/91). 
+
+Não se pode perder de vista, também, que a relação travada entre a instituição financeira e os destinatários de seus serviços é de consumo o que permite a aplicação dos princípios norteadores do Código de Defesa do Consumidor. Assim, no que diz respeito a tais serviços, tem a ré responsabilidade civil objetiva, como se infere do disposto no artigo 14, da Lei 8.078/90: O fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos.
+
+Violando dever de cuidado inerente às suas atividades, permitiu a ré, instituição financeira, débitos de valores em conta corrente mantida pelo autor. Considerando a atividade específica desempenhada pela ré é de se esperar diligência acima da do homem médio no tocante à certificação da autenticidade e da segurança dos serviços postos à disposição dos consumidores, usuários de seus serviços. Quanto mais, tendo em vista a habitualidade dessa prática ilícita ? clonagem de cheques.
+
+Nem se argumente, ainda, com a tese de que não teria a ré a obrigação de examinar a regularidade dos cheques que são apresentados à compensação. Não bastasse a incidência do Código de Defesa do Consumidor, como já dito, também a legislação que regulamenta o cheque se direciona no sentido da responsabilização da instituição financeira. Vale a pena a transcrição do art. 39, parágrafo único da Lei do Cheque: 
+
+?Art . 39. O sacado que paga cheque ''à ordem'' é obrigado a verificar a regularidade da série de endossos, mas não a autenticidade das assinaturas dos endossantes. A mesma obrigação incumbe ao banco apresentante do cheque a câmara de compensação. 
+
+Parágrafo único. Ressalvada a responsabilidade do apresentante, no caso da parte final deste artigo, o banco sacado responde pelo pagamento do cheque falso, falsificado ou alterado, salvo dolo ou culpa do correntista, do endossante ou do beneficiário, dos quais poderá o sacado, no todo ou em parte, reaver a que pagou.? (Negritos não originais.)?
+
+Essa orientação também foi consagrada no Supremo Tribunal Federal, consolidada na Súmula 28: 
+
+?O estabelecimento bancário é responsável pelo pagamento de cheque falso, ressalvadas as hipóteses de culpa exclusiva ou concorrente do correntista?. 
+
+Não poderia mesmo ser outra a postura a ser adotada diante da realidade sócio-econômica vivenciada, como já ressaltado anteriormente. 
+
+Importante, nesse tópico, destacar a lição de Gladston Mamede: 
+
+?A regra do artigo 911 e parágrafo único, do Código Civil, no entanto, diferencia-se da regra do artigo 39 da Lei n. 7.357/85 por uma particularidade extrínseca: o banco, obrigado ao pagamento, tem nessa operação uma atividade profissional, auferindo ganhos com sua exploração. Ora, por se tratar de atividade exercida em caráter profissional, exige-se da instituição maior acuro, designadamente para situações previsíveis, costumeiras, bem como cuidado redobrado para com as operações de maior valor, pois são essas as mais visadas por falsários. Seu trabalho deve ser técnico e previdente, detectando falhas e substituindo procedimentos na medida necessária e eficaz para evitar sua ocorrência. Ademais, se na massificação dos procedimentos o banco tem uma fonte de ganho, tem, mutatis mutandis, no risco a ela inerente uma fonte possível de perda; seria odioso para o Direito se o banco pudesse beneficiar-se de procedimentos simplificados, mas não pudesse ser responsabilizado pelos danos provocados por eles.? (In Títulos de Crédito, Editora Atlas, 2ª edição, 2005, pp. 270/280 ? negritos não originais.) 
+
+
+Assim, inexigível a dívida representada nos cheques fraudados e caracterizada a obrigação de indenizar, resta a identificação do dano. 
+
+Irrecusável a presença de dano material. Reconhecida a irregularidade das operações, deve a ré restituir ao autor os valores indevidamente debitados de sua conta corrente, com origem nos cheques clonados, que atingiu o montante de R$ 18.000,00. 
+
+As circunstâncias do caso permitem, ainda, reconhecer a presença de dano moral. Evidente o constrangimento suportado pelo autor em função dos serviços defeituosos prestados pela instituição financeira. A compensação em duplicidade de cheques, parte deles clonados, acabou por gerar débito inexigível, com consequente apontamento do nome do autor na lista de inadimplentes elaborada por entidade de proteção ao crédito (fls. 30/33). Como é notório, tais entes encontram-se vinculados ao mercado fornecedor, que a ele tem acesso imediato de modo a restringir o crédito daquele que tem seu nome inserido em suas listas. Não bastasse isso, houve protesto dos cheques validamente sacados e equivocadamente não compensados pela instituição financeira. 
+
+Entretanto, a liquidação da obrigação de indenizar o dano moral merece alguns cuidados. Deve-se proceder com cautela na valoração dos sentimentos experimentados pela vítima, evitando-se, assim, o denominado processo de industrialização do dano moral.  Como ensina Sérgio Cavalieri Filho, só deve ser reputado como dano moral a dor, vexame, sofrimento ou humilhação que, fugindo à normalidade, interfira intensamente no comportamento psicológico do indivíduo, causando-lhe aflições, angústia e desequilíbrio em seu bem-estar (Programa de Responsabilidade Civil, 2ª ed., 2ª tiragem, 1999, Malheiros Editores, p. 76).
+
+No caso, considerando a intensidade do aborrecimento suportado, bem como a necessidade de se tentar evitar a repetição de comportamentos como o praticado pela ré, toma-se por razoável o arbitramento da respectiva indenização em R$ 12.000,00 (doze mil reais).
+
+Ante o exposto e de tudo mais que dos autos consta, JULGO PROCEDENTE a ação para: a) declarar a inexigibilidade do débito originado dos quatro cheques fraudados, no valor total de R$ 18.000,00; b) condenar a ré a restituir referido montante, indevidamente debitado da conta corrente do autor, devidamente corrigido pela Tabela Prática do Tribunal de Justiça, desde a compensação das respectivas cártulas, acrescidos de juros moratórios de 1% ao mês, contados da mesma data; c) condenar a ré a pagar ao autor a quantia de R$ 12.000,00 (doze mil reais), a título de indenização por danos morais, atualizada a partir dessa sentença e acrescida de juros moratórios de 1% ao mês, contados a partir da citação. 
+
+Em razão da sucumbência, arcará a ré com as custas judiciais e despesas processuais, corrigidas a partir do desembolso, bem como com os honorários advocatícios que, nos termos do artigo 20, § 3º, do CPC, arbitro em 20% do valor da condenação devidamente atualizada.
+
+P.R.I.C.
+
+
+
+São Paulo, 18 de outubro de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

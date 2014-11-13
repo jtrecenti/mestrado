@@ -1,0 +1,52 @@
+
+
+SENTENÇA
+
+Processo nº:0030324-84.2011.8.26.0002 - Cautelar Inominada
+Requerente:Darmaster Consultoria Ltda - Control Credit
+Requerido:O Núcleo de Informação e Coordenação do Ponto Br-Nic - Registro.Br
+
+
+
+Juiz(a) de Direito: Dr(a). Paolo Pellegrini Junior
+
+Vistos.
+
+
+
+Darmaster Consultoria Ltda. ajuizou a presente ação declaratória de inexistência de relação jurídica em face de Núcleo de Informação e Coordenação do Ponto Br-Nic-Registro.Br, alegando que uma empresa inexistente se cadastrou junto à ré para fazer uso do domínio www.darmaster.com.br. Asseverou que referido cadastro é fraudulento, pois se vale do nome e CNPJ da autora, sendo possivelmente utilizado para a prática de estelionatos e outros ilícitos. Postulou a concessão de liminar para retirada do domínio do ar, bem como para que seja declarada a inexistência de relação jurídica. Instruiu a inicial com os documentos de fls. 07/26. 
+
+A liminar foi deferida a fls. 30 para determinar a suspensão do domínio e a retirada da página do ar. 
+
+Citada, a ré apresentou resposta, arguindo preliminar de ilegitimidade passiva e de perda de objeto. No mérito, aduziu que faz apenas o cadastro eletrônico, não sendo responsável pelas informações inseridas para concessão do domínio. Aduziu, ainda, que o site já foi retirado do ar e que não há qualquer dano a ser indenizado (fls. 36/59). Juntou os documentos de fls. 60/240.
+
+Houve réplica a fls. 244/247.
+
+É o Relatório. Decido.
+
+A questão versada nestes autos comporta julgamento antecipado, uma vez que a matéria é exclusivamente de direito (artigo 330, inciso I, do Código de Processo Civil).
+
+A ré é responsável pelo registro do domínio e como tal responde ao pedido da autora de declaração de inexistência de relação entre as partes. Assim, não há a alegada ilegitimidade passiva.
+
+Somente após a liminar é que houve a retirada do site, o que não permite concluir pela perda de objeto. Passo ao mérito.
+
+A questão é bastante clara e de simples solução. Terceira pessoa, de posse do nome e dados da autora, registrou na ré o domínio www.darmaster.com.br. Em tal página, fez inserir todos os dados da autora, como se ela fosse, para tentar angariar incautos e promover a prática de ilícitos.
+
+Ocorre que a responsável pelo registro foi uma empresa cujo CNPJ está cancelado por empresa inexistente de fato.
+
+Veja-se que uma pessoa jurídica foi criada e registrou o domínio com o nome da autora, no sistema da ré, para enganar clientes da requerente e obter ganho fácil.
+
+Isso torna certo que não há relação jurídica entre a autora e a ré, o que leva ao acolhimento do pedido, com confirmação da liminar que determinou a suspensão do domínio e a retirada da página do ar.
+
+Deixo de apreciar as questões relativas a possível indenização, pois não constam do pedido inicial.
+
+Ante o exposto, julgo procedente a presente ação para declarar a inexistência de relação jurídica entre as parte e, em consequência, determinar o cancelamento definitivo do domínio www.darmaster.com.br. Pela causalidade, condeno a requerida ao pagamento das custas processuais e dos honorários advocatícios, que arbitro em R$ 500,00, nos termos do artigo 20, §4º, do CPC. 
+
+P. R. I.
+ 
+São Paulo, 10 de setembro de 2012.
+
+
+
+   Paolo Pellegrini Junior
+      Juiz de Direito

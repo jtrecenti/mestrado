@@ -1,0 +1,59 @@
+
+
+SENTENÇA
+
+Processo nº:0228463-18.2007.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Telefonia
+Requerente:Bucarest Clinica Medica Ltda
+Requerido:Telefonica Empresas S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Marcela Dias De Abreu Pinto Coelho
+
+
+Vistos.
+
+Bucarest Clínica Médica Ltda, qualificada nos autos, ajuizou Ação de Rescisão Contratual c/c Repetição de Indébito e Indenização por Danos Morais, sob o rito ordinário contra Telefônica Empresas S/A, igualmente identificada no feito em epígrafe, alegando, em suma, que, as partes pactuaram um contrato de prestação de serviços de IP Dedicado + IP Internet, mediante o pagamento mensal de R$1366,00.
+
+Sustenta, ainda, que, apesar de a aparelhagem necessária para o funcionamento de referido serviço ainda não ter sido instalada na sede da empresa, a ré vem lhe enviando diversas notificações e títulos de cobrança que excedem o valor contratado. Requereu o cancelamento do serviço contratado, tendo a ré se recusado a proceder à rescisão contratual, a qual somente seria realizada mediante o pagamento integral da quantia devida. Diante do não pagamento, a ré promoveu a inscrição do nome da Autora no SERASA. Requer a condenação da ré ao pagamento de danos materiais e morais. Juntou documentos.
+
+Regularmente Citada, a ré apresentou contestação (fls. 89/95), sustentando que o serviço contratado foi efetivamente ativado e que, em razão disso, as faturas de cobrança foram emitidas. Impugnou os documentos de fls. 42, 43 e 45, ao argumento de representarem prova unilateral e inconclusiva quanto aos fatos alegados na Inicial. Esclarece que não se recusou a rescindir o contrato e que o valor de R$5.987,14 cobrado refere-se à multa pela rescisão antecipada.
+
+Réplica às fls.136/140.
+
+As partes foram intimadas para especificar as provas que desejam (147). Deferida a produção de prova documental e pericial de engenharia e informática.
+
+É o relatório.
+
+Fundamento e DECIDO.
+
+Em sua contestação, a ré impugna os documentos de fls. 42, 43 e 45 por representarem prova unilateral e serem inconclusivos quanto aos fatos narrados. Contudo, não lhe assiste razão. Analisando referidos documentos, observo que se trata de relatório técnico que sequer foi produzido pela Autora e que remontam exatamente ao objeto da lide, não havendo motivos para desconsiderá-los.
+
+Com efeito, o cerne da discussão do caso em análise é a prestação de serviços especificados no Formulário de Solicitação de Serviço, sendo que para elucidar a questão foi deferida prova pericial. Entretanto, compulsando o laudo coligido aos autos, observo que a perícia pautou-se exclusivamente na documentação constante no processo, não tendo sido realizada nenhuma diligência capaz de apurar as condições de funcionamento das redes, tendo em vista que não existe mais a instalação que originou a lide em questão, além de já terem sido devolvidos os aparelhos à Telefônica (fls. 225). Daí decorre a conclusão lógica de que o perito em momento algum analisou fatos, mas tão somente os documentos apresentados, conforme ele mesmo esclareceu.
+
+Em que pese a importância dos laudos periciais, não se pode olvidar que o juiz não está adstrito a tais laudos, como se depreende do art. 436, CPC. No presente caso, o expert afirma que o serviço contratado pela Requerente foi efetivamente disponibilizado em 28 de Dezembro de 2006 (fls. 221). Lado outro, ao responder o primeiro quesito formulado pela autora, esclarece que não tem como verificar se o serviço foi indubitavelmente prestado ao autor (fls. 224). Desta feita, é imperiosa a análise das demais provas constantes nos autos.
+
+Dos documentos carreados aos autos, consta às fls. 42 que a LP não está instalada, às fls. 43 Não está instalada a LP de dados e às fls. 45 problema na LP, sem sinal, o que indica a inexistência de prestação de serviços. Ademais, os Termos de Aceite de Execução de Serviços Dados/DDR de fls. 46, 47 e 48 também corroboram essa situação, na medida em que comprovam a existência de defeitos recorrentes a serem removidos.      
+
+Destarte, considerando que os serviços, de fato, não foram prestados e, tendo em vista que a ré encaminhou títulos de cobrança que foram quitados (fls. 67/68 e 70/72) pela Autora, outra alternativa não há senão reconhecer que os valores de R$1.247,32 e R$166,31 indevidamente pagos, respectivamente em 04/05/2007 e 10/07/2007 deverão ser ressarcidos a partir da data dos respectivos desembolsos. Outrossim, diante da resistência da ré em assumir a inexistência de prestação de serviços, dou por rescindido o contrato, ausente a incidência de qualquer multa rescisória.
+
+No tocante aos danos morais, a despeito de merecerem especial atenção em se tratando de pessoa jurídica, observo que a ré além de ter promovido a negativação do nome da Autora no SERASA (fls. 74), também promoveu protesto de título em desfavor da autora (fls. 143), restando caracterizada, via de conseqüência, lesão à imagem e boa fama da autora.
+
+Outrossim, quanto ao valor da indenização por danos morais, o STJ vem entendendo que o mesmo deve ser fixado equitativamente pelo juiz, sempre observando o princípio da razoabilidade e proporcionalidade, com base nas circunstâncias do evento danoso (dimensão do dano, culpabilidade do agente e culpa concorrente da vítima) e no interesse jurídico lesado.
+
+Além disso, deve atender ao binômio do equilíbrio, não representando enriquecimento sem causa do ofendido e constituindo um desestímulo ao ofensor no sentido de evitar novas ofensas.
+
+À luz dessas circunstâncias, tenho que o valor de R$5.000,00 se mostra adequado e proporcional a recompensar o dano experimentado pela autora.   
+
+Diante do exposto, julgo PROCEDENTE a presente ação, com resolução de mérito, nos termos do art. 269, I, CPC, para declarar a rescisão do contrato entabulado pelas partes, sem incidência de qualquer multa rescisória, bem como para condenar a ré ao pagamento de R$1.247,32, incidindo juros legais de mora de 1% ao mês e Correção Monetária pela Tabela Prática deste Tribunal, ambos a partir de 04/05/2007 e ao pagamento de R$166,31 com juros legais de mora de 1% ao mês e Correção Monetária pela Tabela Prática deste Tribunal, ambos a partir de 10/07/2007, além do pagamento de R$5.000,00, a título de danos morais, com juros legais de mora de 1% ao mês da data da citação e Correção Monetária pela Tabela Prática deste Tribunal a partir da data da prolação desta decisão. 
+Sucumbente, arcará a ré com o pagamento das custas e despesas processuais, e honorários advocatícios que arbitro em 10% do valor da condenação. 
+P.R.I.C.
+
+
+São Paulo, 01 de abril de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

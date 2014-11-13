@@ -1,0 +1,50 @@
+
+
+SENTENÇA
+
+Processo nº:0186133-30.2012.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Seguro
+Requerente:Porto Seguro Cia de Seguros Gerais
+Requerido:Daniel Jun Kuwatomi Takematsu
+
+Juiz(a) de Direito: Dr(a). Miguel Ferrari Junior
+
+Vistos.
+
+Trata-se de demanda proposta por PORTO SEGURO COMPANHIA DE SEGUROS GERAIS em face de DANIEL JUN KUWATOMI TAKEMATSU em que pretende o recebimento da quantia de R$ 13.917,00 (treze mil, novecentos e dezessete reais). A autora afirma que celebrou um contrato de seguro com Ronildo Cardoso Cerqueira, cujo veículo envolvera-se em um acidente de trânsito com o veículo conduzido pelo réu que fora o culpado pelo ato ilícito. Em razão disso, em 30 de novembro de 2009, a autora pagou a indenização ao segurado e se sub-rogou nos respectivos direitos na forma do artigo 786 do Código Civil. Em razão disso, pleiteia a condenação do réu ao pagamento da quantia indenizada ao segurado, porquanto sustenta a sua responsabilidade pelo acidente de trânsito. Com a petição inicial vieram os documentos de folhas 25/47. 
+
+Citado para os termos da demanda, o réu apresentou contestação às folhas 77/81. Sustenta a perda da pretensão pela fluência do lapso prescricional. Afirma que o acidente ocorrera em 24 de junho de 2008, data a partir da qual começou a fluir o lapso prescricional. No mais, sustenta a ausência de culpa pelo acidente. Com a contestação vieram os documentos de folhas 83/127.
+
+Réplica encartada às folhas 131/148. Impugna a prejudicial de mérito e argumenta que o prazo prescricional iniciou-se na data em que pagara a indenização ao segurado. 
+
+É o relatório do essencial.
+
+Fundamento e decido.
+
+A prejudicial de mérito (prescrição) deve ser acolhida, senão vejamos.
+
+No caso em voga, a seguradora-autora, por força do contrato de seguro pactuado com Ronildo Cardoso Cerqueira e diante do pagamento da indenização, sub-rogou-se nos direitos do segurado, consoante estabelecido pelo artigo 786 do Código Civil, verbis: ?Paga a indenização, o segurador sub-roga-se, nos limites do valor respectivo, nos direitos e ações que competirem ao segurado contra o autor do dano.? (grifei).
+
+Verte-se dos autos que o acidente de trânsito ocorreu em 24 de junho de 2008.
+
+O artigo 206, § 3º, V, do Código Civil estabelece que a pretensão de reparação civil prescreve em três anos. Naturalmente, o prazo prescricional começou a fluir com o surgimento da pretensão (CC, artigo 189) que na hipótese concreta traduz-se na prática do ato ilícito (acidente de trânsito). E o termo a quo do lapso prescricional é o mesmo tanto para a vítima do evento danoso (no caso o segurado) quanto para a seguradora que se sub-roga nos direitos daquela por força do contrato de seguro. Reza o artigo 349 do Código Civil que: ?A sub-rogação transfere ao novo credor todos os direitos, ações, privilégios e garantias do primitivo, em relação à dívida, contra o devedor principal e os fiadores.? Pelo princípio de que memo plus iuris transfere ad alium potest quam ipse habet, ninguém pode transferir mais direitos do que tem. A respeito do tema, vale a transcrição da doutrina do mestre CAIO MÁRIO DA SILVA PEREIRA: ?Qualquer que seja a sub-rogação ? legal ou convencional ? adquire o sub-rogado o próprio crédito do sub-rogante, tal qual é. Opera, assim, a substituição do credor pelo sub-rogatário, que recebe o crédito com todos os seus acessórios, mas seguido também dos seus inconvenientes, e das suas falhas e defeitos. Suporta o sub-rogado, evidentemente, todas as exceções que o sub-rogante teria de enfrentar. Não tem direito a outros juros, senão os que vencia a dívida solvida, e está sujeito à mesma prescrição do crédito primitivo.? (Instituições de Direito Civil, Volume II, Teoria Geral das Obrigações, 20ª. Edição, atualizado por Luiz Roldão de Freitas Gomes, Editora Forense, página 228 ? grifei e destaquei).
+
+O Professor e Desembargador YUSSEF SAID CAHALI é preciso quanto ao tema em debate: ?No direito anterior, considerando a natureza pessoal do direito do segurado sub-rogado, tinha-se como vintenário o prazo prescricional para a seguradora haver do culpado aquilo que pagou ao segurado, por motivo de acidente; agora, de conformidade com o novo Código Civil, esse prazo se reduz para três anos, pelo art. 206, § 3º, V, que se refere à pretensão de reparação civil. Em se tratando de ação regressiva da seguradora, poderia parecer que o prazo prescricional deve começar a fluir do dia do pagamento feito ao segurado, considerando que só com esse pagamento teria nascido a pretensão do reembolso. Esta colocação é equivocada, pois o pagamento da indenização ao segurado é simples condição de legitimação da seguradora para o reembolso. Não efetuando tal pagamento, não pode se valer do direito como terceiro, em nome do segurado, ampliando o prazo do triênio prescricional, protelando indefinidamente aquele pagamento. Mas o segurador pode manifestar protesto interruptivo da prescrição da ação de reembolso do seguro antes mesmo de sua sub-rogação nos direitos do segurado pelo pagamento, à semelhança do titular de direito eventual, que pode exercer os atos destinados a conservá-los, pendente a condição suspensiva.? (in Prescrição e Decadência, RT, páginas154/155, grifei).
+
+Seria ilógico imaginar que o prazo de prescrição, no caso ora sob exame, correria a partir do pagamento da indenização ao segurado ou de qualquer outra data que não aquela do ato ilícito. A pretensão surge com a violação do direito material (artigo 189 do Código Civil) que no caso consiste na infração do preceito neminen laedere. Consoante obtempera PEDRO ALVIM: ?Ora, a relação jurídica que vincula o segurador ao terceiro encontra seu fundamento na culpa aquiliana e não no contrato. É verdade que a sub-rogação proveio do contrato, mas não se pode confundir a relação convencional entre segurado e segurador que dá origem à prescrição ânua e a relação que serve de supedâneo ao segurador para exigir do terceiro o ressarcimento do que pagou ao segurado.? (...) ?A ação do sub-rogante não repousa sobre o contrato de seguro, ao qual é estranho o terceiro causador do dano. Seu fundamento é o da responsabilidade civil, disciplinada pelo direito comum e não pelo Código Comercial.? (O Contrato de Seguro, 3ª. edição, Editora Forense, páginas 509/510, grifei). Dessa arte, uma vez que o fundamento desta demanda é a responsabilidade civil extracontratual e não o contrato de seguro pactuado entre a autora e o segurado, inexoravelmente o início do prazo prescricional deve ser a data do evento danoso e não a do pagamento da indenização à vítima. 
+
+Em situação análoga a dos autos, assim já decidiu o Superior Tribunal de Justiça:
+
+CIVIL E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. FURTO DE VEÍCULO EM ESTACIONAMENTO. SEGURADORA. SUB-ROGAÇÃO LEGAL. REQUISITOS. AUSÊNCIA. BOLETIM DE OCORRÊNCIA. PROVA INSUFICIENTE. INEXISTÊNCIA DE PRESUNÇÃO JURIS TANTUM. PRECEDENTES DA CORTE. RECURSO DESACOLHIDO. I - Na sub-rogação, o sub-rogado adquire o crédito com os seus acessórios, mas também com os seus inconvenientes, não ficando desobrigado de satisfazer as exigências legais para poder recebê-lo. Em outras palavras, não terá o sub-rogado contra o devedor mais direitos do que o primitivo credor. II - Tratando-se de furto de veículo em estacionamento e de sub-rogação, necessária a demonstração da prova da sub-rogação, da ocorrência do furto nas dependências da ré e da não-recuperação do veículo, não bastando apenas a prova do pagamento da dívida (art. 985-III, Código Civil). III - Ausente qualquer dos requisitos, impõe-se a improcedência do pedido, por não ter o autor provado fato constitutivo do seu direito (art. 333-I, CPC). IV - O boletim de ocorrência policial não gera presunção juris tantum da veracidade dos fatos narrados, uma vez que apenas consigna as declarações unilaterais narradas pelo interessado, sem atestar que tais afirmações sejam verdadeiras. Em outras palavras, o documento apenas registra que as declarações foram prestadas, sem consignar, todavia, a veracidade do seu conteúdo. (REsp174353/RJ - Ministro SÁLVIO DE FIGUEIREDO TEIXEIRA - T4 - QUARTA TURMA - DJ 17/12/1999 p. 374 - grifei)
+
+Vale enfatizar que a hipótese em questão é de sub-rogação (Código Civil, artigo 786) e não e de direito de regresso, pelo que não há direito novo para a seguradora, como explica o jurista português JOSÉ VASQUES: ?As figuras da sub-rogação e do direito de regresso são muitas vezes confundidas pela doutrina, pela jurisprudência e pela própria lei. Sinteticamente, pode dizer-se que na sub-rogação, o sub-rogado é colocado na titularidade do direito de crédito primitivo, enquanto que o direito de regresso é um direito novo (não consubstanciando, por isso, qualquer transmissão) de que é titular aquele que extinguiu a relação creditícia anterior.? (Contrato de Seguro, Notas para uma teoria geral, Coimbra Editora, página 159). Ora, se a seguradora é colocada na titularidade do direito do segurado (vítima), não pode pretender o deslocamento do início do lapso prescricional para outro momento temporal que não aquele no qual ocorrera o acidente de trânsito, pois é a partir deste que começa a fluir a prescrição para o exercício da pretensão pela vítima. 
+
+Dessa arte, no caso em questão, o lapso prescricional consumara-se em 24 de junho de 2011. Porém, a demanda fora proposta somente em 30 de agosto de 2012, a destempo, portanto. 
+
+Em face do exposto, pronuncio a prescrição e com fulcro no artigo 269, IV, do Código de Processo Civil, julgo extinto o processo com exame do mérito. Em razão da sucumbência, condeno a autora ao pagamento das despesas processuais e honorários advocatícios que arbitro consoante apreciação equitativa (CPC, artigo 20, § 4º) em 10% (dez por cento) sobre o valor da causa.
+
+P.R.I.C.
+
+São Paulo, 11 de junho de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

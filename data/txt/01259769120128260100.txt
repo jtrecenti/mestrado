@@ -1,0 +1,69 @@
+
+
+SENTENÇA
+
+Processo nº:0125976-91.2012.8.26.0100
+Classe ? Assunto:Procedimento Sumário - Indenização por Dano Material 
+Requerente:Iss Servisystem do Brasil Ltda e outro
+Requerido:Google Brasil Internet Ltda
+
+
+Juiz(a) de Direito: Dr(a). Maria Fernanda Belli
+
+
+
+
+
+
+
+VISTOS. 
+
+
+
+
+
+
+
+
+ISS SERVISYSTEM DO BRASIL LTDA. e ANGÉLICA PIGOLA, qualificados nos autos, ajuizou a presente ação visando obrigação de fazer, com pedido de tutela antecipada, contra GOOGLE BRASIL INTERNET LTDA., pessoa jurídica também qualificada, alegando, em síntese, que a pessoa jurídica tem por objeto a execução de projetos de limpeza e manutenção em geral, separação, seleção, pensamento e coleta de lixo, elaboração de projetos de paisagismo, dentre outras atividades, ao passo que a coautora é sócia e diretora de recursos humanos da empresa, e nessa qualidade foram surpreendidos com a criação de uma conta anônima de e-mail, no serviço ?Gmail?, oferecido pela ré, em nome de Anderson Santos e com endereço asalves78@gmail.com, utilizada para divulgação de mensagens com conteúdo ofensivo às autoras. Sustentam que, em uma das mensagens, o usuário da conta disse que a coautora Angélica ?maquiou os números? do Banco BNP Paribas Brasil, um dos clientes da empresa, causando constrangimentos. Pretendem, assim, seja a ré obrigada a fornecer as informações sobre o criador da conta, consistentes em dados cadastrais, registro eletrônico de criação e registros de logs, log da aplicação webmail, log de IP de conexão, log do servidor SMTP por e-mails enviados e conexões, log do servidor POP por e-mails recebidos e conexões e seus respectivos números de telefone utilizados nas conexões. 
+
+A petição inicial veio instruída com procuração e documentos (fls. 49/321). 
+
+O pedido de antecipação de tutela foi deferido a fls. 322. 
+
+A ré ingressou no feito a fls. 344/347 e prestou parte das informações determinadas a fls. 322. Noticiou também a interposição de agravo de instrumento (fls. 348/372), ao qual foi dado provimento.  
+
+A ré também ofereceu contestação a fls. 373/392 e discorreu sobre a impossibilidade do cumprimento integral da decisão de fls. 322. Teceu considerações sobre o serviço gratuito de e-mail ?Gmail? e as exigências para a criação de uma conta. Argumentou que dados como CPF e RG não são exigidos e trouxe informações sobre os serviços prestados por provedor de internet. Por fim, salientou a inexistência de litígio, que impede a condenação no pagamento de ônus sucumbenciais. 
+
+Não houve réplica.  
+
+
+É O BREVE RELATÓRIO. 
+DECIDO.  
+
+
+JULGO ANTECIPADAMENTE O PEDIDO, com fundamento no artigo 330, inciso I, do CPC, prescindindo o feito de aprofundamento instrutório, em razão dos elementos probatórios já constantes dos autos. Confira-se o entendimento a respeito: ?Em matéria de julgamento antecipado da lide, predomina a prudente discrição do magistrado, no exame da necessidade ou não da realização de prova em audiência, ante as circunstâncias de cada caso concreto e a necessidade de não ofender o princípio basilar do pleno contraditório? (STJ-4ª Turma, REsp 3.047-ES, rel. Min. Athos Carneiro). 
+
+Sem matéria preliminar a apreciar, passo ao exame do mérito. 
+
+Os pedidos são parcialmente procedentes. Consoante é incontroverso, os autores receberam mensagem eletrônica de cunho ofensivo e atentatório à imagem e bom nome da empresa e de sua sócia. A mensagem foi enviada a inúmeros destinatários, por pessoa até o momento desconhecida. É certo, porém, que a mensagem foi enviada da conta de e-mail asalves78@gmail.com, criada através do serviço oferecido gratuitamente pela ré. 
+
+Assim, pretendem os autores compelir a parte adversa ao fornecimento de informações que possibilitem a identificação do responsável pela mensagem ofensiva em comento. 
+
+A identificação do responsável pelo envio da mensagem ofensiva é imprescindível para que os autores possam se valer das medidas judiciais cabíveis visando à cessação da conduta ilícita e à reparação dos danos que tenha sofrido em razão dela. A medida pretendida não implica violação à garantia constitucional de sigilo das comunicações de dados, diante da ofensa a direito. A par da garantia da livre manifestação do pensamento, a Constituição Federal também veda o anonimato. A propósito do tema, já se decidiu:
+?Agravo de Instrumento. Ação cominatória Decisão que deferiu antecipação de tutela para remoção de perfil hospedado pela agravante e fornecimento de dados eletrônicos utilizados na sua criação Pleito de reforma desta decisão sob o argumento de que a determinação viola preceitos constitucionais Mensagens de cunho difamatório enviadas de forma anônima Inaplicabilidade da proteção constitucional ao sigilo das comunicações à hipótese Liberdade de expressão que não pode ser exercida de forma irrestrita, prejudicando direto de terceiros. Determinação mantida. Nega-se provimento ao recurso? (TJSP, Agravo de Instrumento n.º 0121262-63.2013.8.26.0000, 1ª Câmara de Direito Privado, rel. Christine Santini, data do julgamento 01.10.2013). 
+
+?Prestação de serviços Obrigação de fazer Alegação de exibição de vídeos no site Youtube, com utilização de expressões ofensivas contra os devedores dos clientes da autora - Sentença de procedência - Vídeos já removidos. Identificação do usuário com o fornecimento dos únicos dados disponíveis pela ré, ou seja, IP (Internet Protocol) e cadastro. Impossibilidade de fornecimento de nome, endereço e documentação do usuário. Sentença já cumprida Ré que deu causa ao ajuizamento da demanda e deve suportar os ônus sucumbenciais Apelação provida em parte? (TJSP, Apelação n° 992.08.073333-5, 36ª Câmara de Direito Privado, j. 18-03-2010, rel. Des. Romeu Ricupero).
+
+De rigor, portanto, a exibição das informações requeridas na inicial, à exceção daquelas que a ré demonstrou não possuir, como números de CPF e RG e registros de logs de servidores POP, não solicitados para a criação da conta, o que inclusive foi objeto do agravo de instrumento. 
+Diante do exposto, JULGO PARCIALMENTE PROCEDENTE O PEDIDO, declaro extinto o processo com resolução de mérito, com fundamento no artigo 269, inciso I, do CPC e torno definitiva a decisão que antecipou os efeitos da tutela, no tocante ao fornecimento das informações que possui como registro de criação do correio eletrônico e números de IP utilizados para acessar a conta criada. 
+
+Nos termos do artigo 21, parágrafo único, do CPC, reconheço a sucumbência mínima dos autores e, em atenção ao princípio da causalidade, condeno a ré no pagamento de custas e despesas processuais e honorários advocatícios, que arbitro em R$ 2.500,00 (dois mil e quinhentos reais), nos termos do artigo 20, §4º, do CPC. 
+
+P.R.I. 
+
+
+São Paulo, 13 de novembro de 2013. 
+
+MARIA FERNANDA BELLI
+                 Juíza de Direito

@@ -1,0 +1,79 @@
+
+
+SENTENÇA
+
+
+CONCLUSÃO
+Em 15 de agosto de 2012, faço conclusão destes autos a(o) Meritíssimo(a) Juiz(a) de Direito, Doutor(a)  Hélio Benedini Ravagnani. Eu,  Escrevente, digitei.
+
+Processo nº:0001109-14.2012.8.26.0007 - Procedimento Ordinário
+Requerente:Rodrigo Marques da Silva
+Requerido:TNC PCS S.A Oi Telefonia Movel
+
+Justiça Gratuita
+
+Juiz(a) de Direito: Dr(a). Hélio Benedini Ravagnani
+
+
+
+
+
+
+
+
+
+Vistos.
+
+
+
+
+
+RODRIGO MARQUES DA SILVA ajuizou a presente ação ordinária de indenização por danos morais contra TNL PCS S/A, alegando, em síntese, que: é cliente e consumidor dos serviços de telefonia móvel prestados pela requerida; em março/11 descobriu que a requerida cedeu todos seus dados telefônicos, de caráter confidencial, a terceiro, que se utilizou das informações para lhe perturbar; as informações confidenciais foram remetidas para endereço que jamais lhe pertenceu; não foi o autor da solicitação de envio das informações; a ré se nega a fornecer a gravação telefônica na qual o terceiro solicitou as informações confidenciais; a ré descumpriu o contrato; sofreu prejuízos de ordem moral, que devem ser indenizados.
+Requereu, desta forma, a condenação da ré ao pagamento de indenização por danos morais em valor equivalente a 40 salários mínimos.
+Juntou documentos (fls. 10/20).
+Em contestação (fls. 37/48), a requerida alega, em síntese, que: as solicitações via call center somente são efetuadas após a confirmações de vários dados pessoais; o autor não alegou perda ou furto dos documentos pessoais; o boletim de ocorrência lavrado pela autoridade policial demonstra que o autor manteve relacionamento com a pessoa que utilizou de seus dados para obter as informações sigilosas; não pode responder por ato de terceiro de má-fé; nas informações prestadas, não há menção ao teor das conversas; não consta no sistema que o autor tenha solicitado as gravações do atendimento; não houve falha na prestação do serviço; o autor não sofreu danos morais; eventual indenização deve ser em valor razoável; não cabe a inversão do ônus da prova.
+
+É o relatório.
+
+Fundamento e decido.
+
+As questões postas em discussão são somente de direito e de fato provado documentalmente, autorizando o julgamento antecipado da lide, nos termos do artigo 330, inciso I, do Código de Processo Civil. 
+A ação é parcialmente procedente.
+Trata-se, no caso, de responsabilidade civil contratual.
+Restou incontroverso nos autos que o autor é contratante e consumidor dos serviços da ré. Também incontroverso que o detalhamento de ligações foi fornecido à revelia do consumidor, pois a ré atendeu a pedido de terceiro. Inclusive, as informações foram enviadas para endereço diverso do autor. Por fim, não há impugnação dos alegados aborrecimentos do autor causados pela mulher que teve acesso aos dados.
+Ora, é princípio básico do direito contratual (mesmo sem ingressar na seara dos direitos do consumidor) que só as partes contratantes podem exercitar atos ligados à respectiva prestação/fruição do serviço contratado. Tal princípio decorre da ?pacta sunt servanda?.
+Portanto, se o autor é o titular do serviço móvel pessoal (como confirmou a requerida), aquele que contratou com a ré e, portanto, único responsável pelo cumprimento dos deveres e fruição dos direitos respectivos, obviamente que somente por solicitação dele poderia haver a disponibilização das informações atreladas à utilização do terminal.
+O sigilo de dados e das comunicações telefônicas é protegido pelo art. 5°, XII, da Constituição Federal, regulamentado pela Lei n° 9.296/96, admitindo-se a violação apenas por ordem judicial.
+Além disso, o art. 6º, IV, do Regulamento do Serviço Móvel Pessoal, anexo à Resolução 477/07, da ANATEL, garante ao usuário a inviolabilidade e sigilo de sua comunicação, que somente pode ser excepcionada nas hipóteses e condições constitucionais e legais. Isso sem falar na privacidade nos documentos de cobrança e na utilização de seus dados pessoais (inciso IX).
+De seu turno, o relatório detalhado das ligações, indicando: área de registro de origem e área de registro ou localidade de destino da chamada; código de acesso chamado; data e horário (hora, minuto e segundo) do início da chamada; a duração da chamada (hora, minuto e segundo); e valor da chamada, como no caso dos autos, é um direito exclusivo do usuário, na forma do artigo 7º, do referido regulamento.
+E, a despeito do que alega a requerida, tais informações também estão, juntamente com o teor das conversas, protegidas pelo sigilo das telecomunicações. Esta é a interpretação do artigo 89, do regulamento supracitado. 
+Somente estaria excluída do sigilo a identificação, pelo usuário chamado, do usuário originador da chamada, quando este não opuser restrição (art. 91 do regulamento do SMP).
+Agiu de forma imprudente a requerida ao liberar as informações sigilosas sem o aval do contratante, sendo irrelevante o fato de o solicitante ter confirmado os dados pessoais do titular. A existência de eventual relação ?afetiva? entre o autor e o solicitante em nada interfere o contrato de prestação de serviços, de responsabilidade exclusiva do consumidor.
+A requerida deveria proceder com mais rigor e averiguar a veracidade e legitimidade das solicitações de detalhamento de ligações, assim como faz para proceder às demais solicitações (ativação, suspensão, desativação, etc.). Se usa de certa formalidade para contratar, deve seguir o mesmo procedimento no fornecimento dos serviços atrelados à contratação.
+Fortalece a tese de negligência da requerida o fato de que as informações sigilosas foram enviadas para endereço que não pertence ao autor, fazendo presumir que, além da quebra do sigilo, ocorreu, também, a indevida alteração de dados cadastrais do consumidor.
+Ademais, ?A prestadora é responsável pela inviolabilidade do sigilo das comunicações em toda a sua rede, bem como pela confidencialidade dos dados e informações, empregando meios e tecnologia que assegurem este direito dos Usuários. Parágrafo único. As prestadoras devem utilizar todos os recursos tecnológicos para assegurar a inviolabilidade do sigilo das comunicações nos enlaces radioelétricos entre a Estação Rádio Base e a Estação Móvel? (Art. 89 e parágrafo único do Regulamento anexo à Resolução 477/07, da ANATEL).
+Sem contar que o ato da requerida é equiparado a má prestação de serviço e violação de direito do usuário, implicando no dever de reparação dos danos, independente da prova da culpa (art. 20, CDC e art. 6º, XII, do regulamento anexo à Resolução 477/07, da ANATEL).
+Comprovada a quebra do sigilo telefônico, direito protegido pela Constituição Federal, o dano moral é consequência imediata, sendo desnecessária a produção de prova nesse sentido, já que é inerente ao próprio evento. Evidente que a divulgação de dados sigilosos atrelados à utilização de linha telefônica causa contratempos e aborrecimentos, passíveis de indenização (dano moral).
+Esse foi o entendimento esposado pela colenda 33ª Câmara de Direito Privado do E. Tribunal de Justiça/SP (Apelação 0005576-18.2010.8.26.0650, 30/07/2012), em caso semelhante, de onde se extrai o seguinte trecho:
+
+?A apelada afirma, em sua exordial, que recebeu em sua residência extrato de conferência de todas as ligações dos meses de outubro e novembro de 2009 sem que o solicitasse. Sustenta, ainda, que à época relacionava-se com o Sr. Gilson Fernandes, sendo que foi a cônjuge dele quem solicitou os demonstrativos junto à empresa apelante. Além disso, a apelante também os remeteu à residência da esposa do Sr. Gilson, quebrando seu sigilo telefônico. Assevera que em decorrência das informações prestadas sofreu danos morais. A irresignação merece prosperar. Com efeito, não há dúvida que a apelada teve o seu sigilo telefônico violado. O documento de fls. 23/24 demonstra que o extrato de conferência, além de ter sido enviado para o endereço da apelada, também foi remetido ao endereço do Sr. Gilson. Importante ressaltar que cabia à empresa apelante certificar-se da veracidade dos dados fornecidos antes de enviar extratos telefônicos da apelada a terceiros e, se assim não procedeu, assumiu o risco de ser responsabilizada pelo erro cometido. Houve invasão de privacidade, tratando-se de violação de direito protegido constitucionalmente. Diante desse quadro, é inegável que houve abalo moral hábil a ensejar a indenização pleiteada pela apelada. Ademais, no presente caso, o dano é considerado in re ipsa, ou seja, decorrente do próprio fato, sendo desnecessária a prova do prejuízo.?
+
+Frise-se, por oportuno, que não está sendo objeto de análise os contratempos sofridos pelo autor em decorrência dos atos praticados pela terceira estranha à lide. Eventual prejuízo imaterial por ela causado deverá ser discutido em ação própria.
+Por outro lado, o valor atribuído ao dano moral, na petição inicial, é exagerado, fugindo do caráter compensatório para a vítima e punitivo para o ofensor, passando a atuar no campo do enriquecimento sem causa. Por essas razões deve ser modificado, atendendo ao pedido alternativo.
+Destarte, na fixação do quantum do dano moral, deve ser levado em consideração o nível sócio econômico do autor, a repercussão da ofensa, o grau de culpa e a situação econômica do ofensor, bem como as circunstâncias que envolveram os fatos. 
+Considerando o grau de culpa do ofensor, a situação econômica precária da parte autora, pois declarou-se pobre, sem condições de arcar com as custas do processo sem prejuízo do próprio sustento, e, por outro lado, a participação de terceiro no ato perpetrado e a extensão dos danos, a verba relativa aos danos morais fica estabelecida em R$ 4.000,00. Quantia esta que reputo suficiente para, de um lado, compensar a dor sofrida e, de outro, retirar o estímulo para a reiteração da conduta.
+
+
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTES os pedidos para condenar a ré no pagamento da quantia de R$ 4.000,00 (quatro mil reais), a título de danos morais, com atualização monetária e juros de mora de 1% ao mês a partir da publicação desta sentença (RSTJ 112/184). 
+
+Nos termos da Súmula 326, do STJ, condeno a ré ao pagamento das custas, despesas processuais e honorários advocatícios que fixo em 20% do valor da condenação atualizado.
+
+P.R.I.C.
+
+
+São Paulo, 15 de agosto de 2012.
+
+
+
+Hélio Benedini Ravagnani
+Juiz(a) de Direito

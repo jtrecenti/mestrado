@@ -1,0 +1,82 @@
+
+
+C O N C L U S Ã O
+
+Em  08 de agosto de 2011
+faço estes autos conclusos ao (à) MM(ª). Juiz (a) de Direito
+DR (ª)Roberta Poppi Neri Quintas 
+Eu, Deborah Del Papa,  escrev., digitei.
+
+
+SENTENÇA
+
+Processo nº:0128218-02.2007.8.26.0002 - Ação Civil Pública
+Requerente:Associação Brasileira dos Usuários de Acesso Rápido - Abusar
+Requerido:Net Serviços de Comunicação S.a e outro
+
+
+
+Juiz(a) de Direito: Dr(a). Roberta Poppi Neri Quintas
+
+
+Vistos.
+
+
+
+Trata-se de ação civil pública com pedido de tutela antecipada ajuizada por ASSOCIAÇÃO BRASILEIRA DOS USUÁRIOS DE ACESSO RÁPIDO  ABUSAR em face de NET SERVIÇOS DE COMUNICAÇÃO S/A. e  ANATEL  AGÊNCIA NACIONAL DE TELECOMUNICAÇÕES. Alega a associação autora que a 1ª requerida vem fornecendo os serviços de provimento de acesso à Internet em banda larga, de forma abusiva e ilegal. Requereu a procedência da demanda para que a requerida NET forneça o serviço VIRTUA sem exigir a contratação de provedor, sob pena de multa de R$ 10.000,00; que a requerida contrate um provedor de acesso ou aceite qualquer provedor pelos usuários, inclusive os gratuitos, sob pena de multa diária de R$ 10.000,00; forneça o VIRTUA sem obrigar o usuário a contratar o aluguel do modem, sob pena de multa de R$ 10.000,00; fornecimento do serviço do VIRTUA sem autenticação do tráfego de dados dos consumidores; devolução de valores em dobro dos valores pagos pelos usuários ao provedor de acesso e aluguel do modem, por todo o período em que foram assinantes do VIRTUA, atualizado monetariamente e, acrescido de juros; indenização pelos danos morais causados pelas irregularidades acima e pelo abuso do poder econômico, posição dominante e venda casada; determinar que a requerida suspenda a diferenciação de preços e serviços entre os usuários do VIRTUA residencial e comercial. Com relação à Anatel requereu a procedência da ação para que ela exija que a Net deixe de submeter o usuário à contratação de provedor de acesso à Internet, para ter acesso ao serviço de transporte e, exerça seu poder de polícia sobre a Net para obrigá-la a prestar o serviço de acesso em conexão a Internet, coibindo a utilização indevida da linha do STFC, além da condenação de ambas as requeridas nos demais consectários legais. Com a inicial foram juntados os documentos de fls. 31-102.
+
+A inicial foi emendada às fls. 107-109. 
+
+A apreciação do pedido de tutela antecipada foi postergada (fls. 110-111).
+
+As requeridas foram regularmente citadas (fls. 118 e 124).
+
+A Anatel apresentou contestação e documentos de fls. 126-153, alegando preliminarmente impossibilidade jurídica do pedido, ausência dos requisitos para concessão da tutela antecipada, ilegitimidade passiva. No mérito, sustentou o seu procedimento e rebateu os argumentos expendidos pela autora. 
+
+A Net apresentou contestação e documentos de fls. 155-458, alegando preliminarmente carência de ação, ilegitimidade passiva e ativa, impossibilidade jurídica do pedido. No mérito, sustentou o seu procedimento e rebateu os argumentos expendidos pela autora. 
+
+Houve réplica às fls. 494-504.
+
+Manifestação do MP às fls. 527-541.
+
+Por decisão de fls. 544-550 foi reconhecida a ilegitimidade passiva da Anatel no feito, remetendo-se o feito à Justiça Estadual. 
+
+Manifestação do MP pela procedência da ação às fls. 577-579.
+
+Às fls. 629-632 o processo foi saneado, ocasião em que foram afastadas as preliminares argüidas em sede de contestação, determinando-se a produção de prova pericial. 
+
+Laudo pericial às fls. 766-801.
+
+Às fls. 840-850, o MP manifestou-se pela parcial procedência da ação. 
+
+A requerida apresentou alegações finais de fls. 1117-1134, reiterando sua posição inicial e a autora quedou-se inerte.
+
+ Relatei, passando a decidir.
+
+Trata-se de ação civil pública.
+
+As preliminares argüidas em sede de contestação já foram analisadas e rejeitadas conforme despacho saneador.
+
+No mérito, a ação é parcialmente procedente, senão vejamos.
+
+Pelo laudo pericial concluiu-se que vários pedidos restaram prejudicados já que na rede atual da requerida, os pacotes de dados não trafegam através das redes de provedores. Quando da utilização do provedor de acesso da requerida, não há custo para o consumidor. Não há diferença em termos de rota ou de custo para os acessos residenciais e comerciais. Assim, com relação aos pedidos de obrigação de fazer destes itens, claro é a perda superveniente do interesse de agir, ocorrida no curso do processo. Contudo, ainda resta a análise do pedido de devolução de valores indevidamente cobrados, quanto a estes itens, razão pela qual não há que se falar em extinção do processo sem julgamento do mérito.
+
+Os outros pedidos no tocante à limitação de tráfego ou controle indevido de tráfego, não restaram comprovados, ônus que cabia à requerida, diante da inversão do ônus da prova preconizada pelo Código de Defesa do Consumidor. Lembre-se que o perito foi impedido de ter acesso às dependências da requerida para análise dos quesitos que responderiam e comprovariam as alegações da autora neste ponto. Assim, impediu a requerida a produção de prova, cujo ônus lhe cabia. 
+
+Contudo, em que pese a alteração do posicionamento da requerida, certo é que houve a cobrança indevida aos consumidores de serviço de provedor da Internet, razão pela qual esses valores cobrados indevidamente, devem ser restituídos aos consumidores, bem como as anteriores cobranças de aluguel do modem e a diferenciação de valores de consumidores comerciais e residenciais.
+
+Alega a requerida que não podia agir diferente. Contudo, tal conduta viola frontalmente o Código de Defesa do Consumidor, já que condicionava um fornecimento de serviço a outro, favorecendo-se a empresa da vulnerabilidade do consumidor, conforme destacado pelo nobre representante do parquet. 
+
+Tampouco há que se falar em indenização por danos morais, não pertinentes, nem tampouco comprovados nos autos. Também não entendo presentes crimes que importem em infração à ordem econômica ou afins. 
+
+Diante do exposto, julgo PARCIALMENTE PROCEDENTE, determinando a requerida que forneça o serviço VIRTUA sem autenticar o tráfego de dados dos consumidores, sob pena de multa diária de R$ 10.000,00; condeno a requerida à devolução em dobro de valores pagos pelos consumidores assinantes, que digam respeito ao provedor de acesso e aluguel do modem roteador, por todo o período irregular destas cobranças, valores estes atualizados monetariamente desde cada desembolso e, acrescidos de juros moratórios de 1% ao mês, contados a partir da citação. 
+
+Em face da sucumbência recíproca, cada parte arcará com o pagamento das custas e despesas processuais, bem como com os honorários advocatícios de seus patronos.
+
+Ciência ao MP.
+
+ Transitada em julgado, certifique-se. Nada requerido, arquivem-se; se juntada a memória do débito com indicação de bens à penhora,bem como, recolhida a condução do oficial de justiça, expeça-se mandado de penhora nos moldes do artigo 475-J, do CPC. 
+
+P.R.I.               
+
+          São Paulo, 08 de agosto de 2011.

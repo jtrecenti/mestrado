@@ -1,0 +1,65 @@
+
+
+SENTENÇA
+
+Processo nº:0001645-97.2013.8.26.0004
+Classe - AssuntoProcedimento do Juizado Especial Cível - Protesto Indevido de Título
+Requerente:Kleber Betti e outro
+Requerido:OCKA Comércio de Imóveis Utilidades Ltda e outro
+
+
+
+
+Juiz(a) de Direito: Dr(a). Fernando Salles Amaral
+
+Vistos.
+
+Dispensado o relatório. DECIDO.
+
+Regularmente citados e intimados, os requeridos não apresentaram contestação tempestivamente, pois o fizeram fora do prazo, devendo ser considerados incontroversos os fatos alegados na inicial, decretando-se a revelia.
+
+Em que pese a revelia, analiso os argumentos lançados em contestação.
+
+Primeiramente, é de se reconhecer a impossibilidade de procedimento cautelar neste juízo, devendo ser julgado extinto sem julgamento de mérito o pedido de exibição de documentos formulado, o que não prejudica a análise dos pedidos indenizatório e declaratório formulados.
+
+Quanto a estes pedidos, estão presentes as condições da ação e os pressupostos processuais. Da causa de pedir (cancelamento do contrato) decorre logicamente o pedido (declaração de inexigibilidade e sustação dos protestos), o qual é juridicamente possível. As partes são legítimas, sendo a questão do endosso invocada pelas partes referente ao mérito. Passo a analisar esta questão.
+
+A ré OKCA sustenta que houve endosso translativo, razão pela qual não pode responder pelo protesto. O réu ITAÚ sustenta que houve endosso-mandato, razão pela qual é parte ilegítima.
+
+Em que pese a alegação da ré OKCA, o fato de ter colocado os títulos de crédito em circulação não exclui a possibilidade de sua responsabilização (logo, de sua legitimidade de parte), pois as obrigações contratuais originárias se deram entre autores e a ré OKCA, que ao colocar o título em circulação sabe muito bem que este pode ser protestado pelo endossatário se houver inadimplemento e sabe muito bem que o devedor poderia lhe opor exceções pessoais por ser o credor originário.
+
+Os documentos de fls.40/43 comprovam, contudo, que o banco réu tem razão em sua alegação. Trata-se de endosso-mandato, não podendo o banco responder pelos danos causados, pois não agiu fora dos poderes que lhes foram outorgados, tampouco tinha ciência de qualquer falta de higidez do título a comprometer a cobrança. Nesse sentido, já decidiu o Superior Tribunal de Justiça: 
+
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. PROTESTO INDEVIDO DE DUPLICATA.ENDOSSO-MANDATO. ILEGITIMIDADE DA INSTITUIÇÃO FINANCEIRA. CASO CONCRETO. PECULIARIDADES.
+1. O banco que recebe por endosso-mandato duplicatas representadas por boletos bancários somente é parte legítima para responder pelos danos causados pelo indevido protesto do título se houver sido advertido previamente sobre a falta de higidez da cobrança e, ainda assim, nela prosseguir, hipótese não caracterizada nos autos. 
+2. AGRAVO DESPROVIDO.(AgRg no REsp 866.748/PR, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 16/11/2010, DJe 01/12/2010)
+
+EMBARGOS DE DECLARAÇÃO. RECEBIMENTO COMO AGRAVO REGIMENTAL.FUNGIBILIDADE. RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DUPLICATA SEM CAUSA. ENDOSSO-MANDATO. PROTESTO INDEVIDO. AÇÃO ANULATÓRIA.LEGITIMIDADE PASSIVA DA INSTITUIÇÃO FINANCEIRA AFASTADA PELA CORTE DE ORIGEM. MODIFICAÇÃO DO JULGADO. IMPOSSIBILIDADE. EXAME DE MATÉRIA FÁTICO-PROBATÓRIA.
+1.Embargos de declaração conhecidos como agravo regimental, tendo em vista os princípios da fungibilidade recursal e economia processual.
+2.Apenas responde por danos materiais e morais o banco endossatário que, após receber o título de crédito mediante endosso-mandato, o leva a protesto, extrapolando os poderes de mandatário ou em razão de falha na prestação do seu serviço.
+3.Inviável a pretensão recursal por óbice da Súmula 7/STJ, que impede o revolvimento do conteúdo fático dos autos, providência utilizada pelo acórdão recorrido para concluir pela ilegitimidade passiva da instituição financeira.
+4. EMBARGOS DE DECLARAÇÃO CONHECIDOS COMO AGRAVO REGIMENTAL PARA MANTER A DECISÃO IMPUGNADA POR SEUS PRÓPRIOS FUNDAMENTOS.(EDcl no REsp 1234759/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 16/10/2012, DJe 19/10/2012)
+
+Tratando-se de matéria de ordem pública, a despeito da revelia, reconheço a ilegitimidade do banco réu, passo a analisar o mérito em relação à primeira ré.
+
+Pelo contrato de fls.117/120, os autores se comprometeram a pagar a quantia de R$ 21.180,00 para a execução de móveis planejados. Contudo, conforme admitiu a ré em contestação, tal valor era baseado em projeto preliminar apenas com base em informações passadas pelos autores; ao final do projeto definitivo, constatou a necessidade de pagamento de uma diferença de R$ 3.000,00, a qual os autores se recusaram a pagar, preferindo rescindir o contrato. Entende a ré que é absolutamente legítima a cobrança dessa diferença, permanecendo os autores vinculados integralmente ao contrato, devendo arcar com a multa contratual de 15% para a rescisão, o que foi inclusive objeto de pedido em reconvenção.
+
+Contudo, é muito claro que tais argumentos não encontram amparo na legislação que rege a relação de consumo entre as partes. Os artigos 6º, III, e 31 da Lei 8.078/90 são claros ao estabelecer direito do consumidor a uma informação completa sobre o preço do produto. Ademais, o artigo 39, VI, da mesma lei dispõe que antes da realização de qualquer serviço, é preciso que haja a elaboração de um orçamento prévio com estipulação clara do preço.
+
+Com efeito, tendo o autor assinado contrato em determinado valor, para que houvesse acréscimo no preço, necessário seria a aquiescência do autor. Se ele não concordou, outra conduta não poderia ser esperada da ré senão aceitar o cancelamento do contrato solicitado pelo autor. 
+
+A ré, no entanto, agiu de uma forma que não poderia ser mais reprovável. Efetuou a cobrança do valor da multa rescisória por meio do banco réu, por meio de endosso mandato de título que sequer tinha aceite, levando títulos a protesto. 
+
+Assim, em relação à indenização por danos morais, deve haver a reparação, isso porque em casos de restrição indevida do crédito, desnecessária a comprovação de efetivo sofrimento, uma vez que se atinge a honra objetiva da pessoa, ou seja, sua imagem-atributo, bastando por si só a demonstração da inscrição irregular. Nesse sentido:
+
+RESPONSABILIDADE CIVIL - DANO MORAL - INSCRIÇÃO INDEVIDA EM CADASTRO DE DEVEDORES - PROVA DA EFETIVA EXISTÊNCIA DO PREJUÍZO - Segundo a jurisprudência desta Corte, a exigência de prova do dano moral (extrapatrimonial) se satisfaz com a demonstração da existência da inscrição irregular. (Ac. 4ª Turma do Superior Tribunal de Justiça, no REsp.204.036-RS. rel. Min. Barros Monteiro, j.11-05-99, DJU 23-08-99, p. 132). CIVIL - DANO MORAL - REGISTRO NO CADASTRO DE DEVEDORES DO SERASA - IRRELEVÂNCIA DA EXISTÊNCIA DE PREJUÍZO. - A jurisprudência desta Corte está consolidada no sentido de que na concepção moderna de reparação do dano moral prevalece a orientação de que a responsabilidade do agente se opera por força do simples fato da violação, de modo a tornar-se desnecessária a prova do prejuízo em concreto. A existência de vários registros, na mesma época, de cadastro de devedores do SERASA, não afasta a presunção de existência do dano moral, que decorre ?in re ipsa?, vale dizer, do próprio registro de fato inexistente. Hipótese em que as instâncias locais reconheceram categoricamente que foi ilícita a conduta da recorrida em manter, indevidamente, os nomes dos recorrentes, em cadastro de devedor, mesmo após a quitação da dívida. (Ac. 4ª Turma do Superior Tribunal de Justiça, no REsp/196.024-MG, rel. Min. César Asfor Rocha, j. 02-03-99, DJU 02-08-99,p. 192).
+
+Em relação ao valor da indenização por danos morais, deve o magistrado recorrer a seu prudente arbítrio, observando as circunstâncias de cada caso concreto, levando em conta, sobretudo, o grau de extensão do dano; as condições econômicas das partes envolvidas; os antecedentes pessoais de honorabilidade e confiabilidade do ofendido; a intensidade do sofrimento psicológico gerado pelo vexame sofrido; a finalidade admonitória da sanção, para que a prática do ato ilícito não se repita; e o bom senso, para que a indenização não seja extremamente gravosa, a ponto de gerar um enriquecimento sem causa ao ofendido, nem irrisória, que não chegue a lhe propiciar uma compensação para minimizar os efeitos da violação ao bem jurídico. No caso dos autos, entendo suficiente, para atender aos critérios citados, o arbitramento em R$ 8.000,00.
+
+Diante do exposto e considerando tudo mais que dos autos consta, JULGO EXTINTO o processo sem resolução de mérito quanto ao provimento cautelar requerido, com fundamento no artigo 51, II, da Lei 9.099/95. Ainda JULGO EXTINTO o processo em relação ao réu ITAÚ, com fundamento no artigo 267, VI, do Código de Processo Civil. Ademais, JULGO IMPROCEDENTE o pedido formulado pela ré OCKA. Finalmente, JULGO PROCEDENTE o pedido para: 1 - declarar a inexigibilidade da dívida citada na inicial; 2-  decretar a rescisão do contrato ajustado entre os autores e a ré OCKA sem custos para os autores; 3- determinar a sustação do protesto, ou de seus efeitos, oficiando-se ao cartório de protestos, os quais deverão ser informados que a cobrança de emolumentos poderá ser feita ao apresentante, sem possibilidade de cobrança aos autores; 4- condenar a ré OCKA a pagar ao autor a importância de R$ 8.000,00, com juros de 1% ao mês e correção monetária pela  tabela do Tribunal de Justiça a partir da prolação da sentença. Por consequência, julgo extinto o processo com resolução de mérito, com fundamento no artigo 269, I, do Código de Processo Civil. Sem custas nesta fase processual.
+
+PRI
+
+São Paulo, 27 de junho de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

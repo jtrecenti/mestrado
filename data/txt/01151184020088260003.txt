@@ -1,0 +1,41 @@
+
+
+SENTENÇA
+
+Processo nº:0115118-40.2008.8.26.0003
+Classe - AssuntoProcedimento Ordinário - Assunto Principal do Processo >
+Requerente:Danielle Santini da Silva
+Requerido:Banco Itaú S/A
+
+
+
+
+Vistos. etc.
+DANIELLE SANTINI DA SILVA move AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS e TUTELA ANTECIPADA em face de BANCO ITAÚ S.A., alegando, em síntese, que no final de março acessou o serviço do Itaú Bankline para consulta de saldo de sua conta corrente, aparecendo tela solicitando códigos, e estranhando reiniciou a operação e apareceu a mesma tela, digitando então seus códigos e com acesso verificou na tela o extrato bancário, sendo que após uma semana novamente consultou a conta e constatou saldo devedor de R$ 3.887,30 e pagamento de títulos sem seu conhecimento, acionando a agência para bloqueios, mas outras operações de créditos automáticos e pagamento de títulos foram efetuadas, negando o réu ressarcimentos e enviando cobranças e comunicando o débito à SERASA embora tenha dado causa por falhas na prestação de seus serviços, sendo responsável, motivos que requereu devolução de valores e abstenção de cobrança dos créditos automáticos, bem como indenização por dano moral.
+Tutela deferida (fls.34).
+Na contestação (fls.57/89) o réu discorreu sobre o sistema "ItaúBankline" e sua segurança pelos sistemas assim já terem sido reconhecidos e comprovados, bem como que para acesso e operações variadas é exigido senha eletrônica da ?Internet?, cartão de segurança, cartão magnético e senha de uso pessoal; negou prática de ato ilícito; atribuiu culpa exclusiva à autora na utilização de suas senhas; negou nexo de causalidade; impugnou o pedido de indenização material e moral e o valor do pedido; e, requereu a improcedência.
+Em réplica (fls.135/144) a defesa foi refutada e ratificados os fundamentos e pedido.
+Deferiu-se ao réu que informasse o destino dos valores impugnados, principalmente quanto aos beneficiários das transferências e pagamento de títulos (fls.145), bem como deferiu-se diligências de identificação dos beneficiários (fls.153, 166/167, 180, 189, 191, 196, 198/199, 205/206 e 251).
+O réu manifestou-se e apresentou documentos (fls.147, 150/152, 156, 159/161 e 255). 
+O ?Bradesco? prestou informações e apresentou documentos dos beneficiários dos títulos pagos através da conta da autora (fls.173, 182/188 e 208/241).
+A autora manifestou-se (fls.164/165, 171/172, 193,201/202 e 248/250).
+Em memoriais cada qual das partes renovou suas alegações e requerimentos em face das provas produzidas (fls.260/265 e 266/271).
+É o relatório. DECIDO.
+O desfecho do destino dos recursos debitados na conta da autora e por ela impugnados foram parcialmente identificados e informados nos autos. E a vista da ausência de qualquer objeção do réu a conclusão é de que não tem ela nenhum relacionamento com os respectivos beneficiários, convencendo assim de que houve mesmo fraude nas operações bancárias através do sistema bankline, via internet.
+E do contexto técnico do sistema e sua utilização por parte dos correntistas a variante que remanesce é de que a violação ocorreu mediante "invasão" eletrônica que possibilitou a obtenção ou utilização dos elementos quando de regular acesso para realização de operações, depois seguindo-se operações visualizadas nos extratos, todas fraudulentas.
+Assim sendo, a despeito da segurança tecnológica articulada na contestação, sujeito à ação de terceiros não estão livres os elementos do sistema, este que deveria contar com dispositivo ou ferramenta bloqueando cópia ou reprodução de página semelhante quando regularmente acessado pelo correntista, resultando, portanto, caracterizada hipótese de defeito na prestação dos serviços em face a segurança que deles se espera (CDC, art. 14, § 1º, II), não totalmente elidido pelas excludentes consumeristas (art. 14, § 3º), já que é do Banco, o fornecedor, a obrigação de segurança ampla e irrestrita, previsíveis ações da espécie.
+Entrementes, diante do próprio relato da autora nos articulados da petição inicial, contribuiu ela também para que seus dados fossem obtidos por meios fraudulentos, já que diante do que se lhe apresentava na tela de seu computador demandava suas maiores cautelas, razões pelas quais reconheço sua parcial concorrência no resultado danoso.
+Defere-se, portanto, à autora devolução de metade dos valores, operacionalizando-se mediante estorno de metade do valor das operações fraudulentas, inclusive nos reflexos de encargos gerados, atualizando-se os valores individuais pela tabela de débitos judiciais da data dos débitos e acrescendo-se juros de mora de 12% a.a. (Código Civil/02, art. 406, c.c. C.T.N., art. 161, § 1º), contados da citação. 
+Rejeito, no entanto, o pedido de indenização por dano moral, haja vista não reunir o contexto fático elementos de enquadramento na CF, artigo 5º, X, especialmente porque apesar de notório eventuais ocorrências da espécie como resultado da ação de captura de dados por terceiros -hacker-, opta o correntista pelos sistemas bancários informatizados em detrimento da movimentação bancária tradicional, desse modo assumindo os riscos a impor como limite de responsabilização bancária somente o resultado material, excluído reflexo subjetivo negativo de ordem moral.
+Diante da parcial procedência reputo adequada a compensação das verbas de sucumbência.
+
+Isto posto e considerando o mais que dos autos consta, JULGO PROCEDENTE EM PARTE a presente AÇÃO e CONDENO  o réu a devolver para a autora metade do valor das operações fraudulentas, inclusive reflexos de encargos, operacionalizando-se mediante estorno na conta bancária, observando atualização dos valores individuais pela tabela de débitos judiciais e a partir da data dos débitos, e acrescendo-se juros de mora de 12% a.a., contados da citação; confirmo a tutela antecipada até cumprimento da decisão; rejeito o pedido de indenização por dano moral; e, compenso as verbas de sucumbência.
+
+P.R.I.
+
+São Paulo, 20 de setembro de 2011
+
+
+
+JOSÉ WAGNER DE OLIVEIRA MELATTO PEIXOTO
+                         JUIZ DE DIREITO

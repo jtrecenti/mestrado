@@ -1,0 +1,60 @@
+
+
+SENTENÇA
+
+Processo nº:0189197-48.2012.8.26.0100
+Classe - AssuntoCautelar Inominada - Liminar
+Requerente:Confederação Nacional dos Dirigentes Lojistas - Spc Brasil
+Requerido:Facebook Serviços On Line do Brasil Ltda
+
+C O N C L U S Ã O
+
+Em 02 de outubro de 2013, faço estes autos conclusos ao MM. Juiz Titular II da 43ª Vara Cível Central da Capital. Eu,________, Vitor Pinton Martines, Escrevente Técnico Judiciário, subscrevi.
+
+
+Juiz(a) de Direito: Dr(a). Fabio Coimbra Junqueira
+
+Vistos.
+
+CONFEDERAÇÃO NACIONAL DOS DIRIGENTES DE LOJISTAS (SCPC) BRASIL. ajuizou medida cautelar de obrigação de fazer com pedido liminar contra FACEBOOK SERVIÇOS ON LINE DO BRASIL LTDA. e MICROSOFT INFORMÁTICA LTDA. alegando em síntese que teria tomado conhecimento que terceiros estariam praticando consultas para realização de serviços nos moldes do que a autora faz, utilizando-se de seu nome, mediante recebimento e valores. Aduz a necessidade de remoção dos perfis "Spc Brasil-www.facebook.Com/#!/spcbrasil e a obtenção dos endereços de Internet Protocol (IP) para que consiga encontrar o(s) criador(es) do perfil e utilizadores do e-mail ofensivo, bem como a procedência da ação. Juntou documentos à fls. 11/49.
+Concedida a liminar à fls. 53.
+Foi aditada a inicial para extensão da ordem, retirando do ar outra URL de endereço www.Facebook.Com/#!/SPCBRASILPERNAN, além de impedir a utilização do noem da autora sob qualquer hipótese pelo réu, sendo que foi dado provimento parcial ao agravo neste ultimo aspecto. 
+Devidamente citada a Microsoft ofereceu contestação à fls. 89/104. Alega em sua defesa a preliminar de ilegitimidade passiva, uma vez que deveria ser acionada a empresa com sede nos Estados Unidos e Irlanda, que verdadeiramente gerencia os sistemas do requerido.  Requer a improcedência da ação. Juntou documentos à fls. 105/121.
+Réplica à contestação à fls. 253/260.
+Manifestação posterior do réu a fls. 284/291
+É o relatório.
+FUNDAMENTO e DECIDO.
+O caso comporta julgamento no estado em que se encontra, uma vez que a questão de mérito independe da produção de outras provas de acordo com o disposto no Art. 330 do Código de Processo Civil.
+Deixo de acolher a preliminar de ilegitimidade arguida pela ré. Isso porque ambas fazem parte de seus respectivos conglomerados empresariais maiores, mantendo relação com as atividades empresariais daqueles, de acordo com as formas descritas no Capítulo VIII do Código Civil Brasileiro que cuida das sociedades coligadas. 
+Neste sentido:
+
+Apelação. Ação cautelar de exibição de livros. Ofensas ao autor publicadas, por terceiros, em rede social da ré (Orkut). Preliminar de extinção da cautelar por falta de propositura da ação principal no prazo de 30 dias. Preliminar afastada uma vez que desnecessária a propositura de ação principal em casos em que a identificação dos ofensores satisfaz a pretensão do autor, ao menos com relação à ré. Cautelar de natureza satisfativa, a exemplo das de exibição de documentos. Legitimidade passiva presente, posto que identificada a existência de grupo econômico formado pelas empresas Google Brasil Internet Ltda. e Google Inc. No mérito, aplicação do art. 252 do RITJSP para ratificar os fundamentos da r. sentença. Recurso improvido.(Apelação com Revisão 9215374-75.2007.8.26.0000, Relator Cesar Ciampolini).
+
+A ação é procedente. 
+A demandante teve um perfil seu criado mediante falsidade perpetrada por terceiros, que passaram a usá-lo indevidamente, com inserção de conteúdos ofensivos à pessoa do autor perante a comunidade a qual pertence, o que lhe trouxe significativos aborrecimentos e ofensa a sua honra e imagem. 
+O Facebook é um provedor de serviço de hospedagem de páginas pessoais ou criadas pelos usuários. Não há qualquer controle preventivo sobre os conteúdos disponibilizados. 
+Não obstante, o réu exerce controle repressivo por meio de ferramenta de denúncia de conteúdo abusivo. 
+Verifica-se que, em meados de setembro de 2012, houve uma comunicação por parte do autor ao réu para que fossem excluídas a página ofensiva, a fls. 44/47. Não obteve a demandante bom êxito. O perfil só foi excluído após o ajuizamento da ação, por meio de antecipação dos efeitos da tutela. 
+A supressão tardia ou posterior do perfil falso, com conteúdos ofensivos aos direitos de personalidade do autora, enseja a responsabilidade solidária do hospedeiro da plataforma de relacionamento, por conduta omissiva apta a prolongar a exposição vexatória e constrangedora da vítima. Nesse sentido, entendimento do Superior Tribunal de Justiça: 
+
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. PROVEDOR. MENSAGEM DE CONTEÚDO OFENSIVO. REGISTRO DE NÚMERO DO IP. DANO MORAL. NÃO RETIRADA EM TEMPO RAZOÁVEL. 1.- Na linha dos precedentes desta Corte, o provedor de conteúdo de internet não responde objetivamente pelo conteúdo inserido pelo usuário em sítio eletrônico, por não se tratar de risco inerente à sua atividade. Está obrigado, no entanto, a retirar imediatamente o conteúdo moralmente ofensivo, sob pena de responder solidariamente com o autor direto do dano. Precedentes. 2.- No caso dos autos o Tribunal de origem entendeu que não houve a imediata exclusão do perfil fraudulento, porque a Recorrida, por mais de uma vez, denunciou a ilegalidade perpetrada mediante os meios eletrônicos disponibilizados para esse fim pelo próprio provedor, sem obter qualquer resultado. 3.- Agravo Regimental a que se nega provimento (AgRg no REsp 1.309.891/MG, 3ª Turma, Rel. Min. Sidnei Beneti, j. 26/06/2012). 
+
+Assim, a requerida se negou a exibir os documentos, explicando que só poderia fazê-lo mediante ordem judicial, sob pena de praticar ato ilícito violando o sigilo de seus usuários, frente a esta situação bastante elucidativa a jurisprudência do STJ no caso:
+
+?Ao ser comunicado de que determinado texto ou imagem possui conteúdo ilícito, deve o provedor agir de forma enérgica, retirando o material do ar imediatamente, sob pena de responder solidariamente com o autor direto do dano, em virtude da omissão praticada.
+Ao oferecer um serviço por meio do qual se possibilita que os usuários externem livremente sua opinião, deve o provedor de conteúdo ter o cuidado de propiciar meios para que se possa identificar cada um desses usuários, coibindo o anonimato e atribuindo a cada manifestação uma autoria certa e determinada. Sob a ótica da diligência média que se espera do provedor, deve este adotar as providências que, conforme as circunstâncias específicas de cada caso, estiverem ao seu alcance para a individualização dos usuários do site, sob pena de responsabilização subjetiva por ?culpa in omittendo?.
+Ainda que não exija os dados pessoais dos seus usuários, o provedor de conteúdo, que registra o número de protocolo na internet (IP) dos computadores utilizados para o cadastramento de cada conta, mantém um meio razoavelmente eficiente de rastreamento dos seus usuários, medida de segurança que corresponde à diligência média esperada dessa modalidade de provedor de serviço de internet. (REsp 1193764, NANCY ANDRIGHI).
+
+Outrossim, o Egrégio Tribunal de Justiça acabou por equalizar a questão quanto à proibição total de veiculação do nome da autora, pois isto violaria a própria liberdade de atividade da ré, não tendo o pedido da autora sustentação jurídica neste parte. 
+No mais, a requerente precisava dos dados que acabaram sendo fornecidos no curso do feito pela requerida. Sem eles não teria condição de chegar à pessoa que teria praticado o ato ilícito, consistente na criação de um falso perfil no sítio de relacionamento conhecido como Facebook, assim como as notícias em nome da autora. 
+Ao que parece, os documentos acostados no processo e a manifestação de fls. 272/276 demonstram que as informações das quais o requerente precisava para identificar o suposto autor do ato ilícito foram satisfeitas.
+Por isso, a incidência da multa diária não comporta deferimento, ao que necessária, ao menos sentença de procedência, aliada a execução provisória da mesma, com seus consectários, apoiada em novo descumprimento da ordem. 
+ANTE O EXPOSTO, julgo procedente o pedido, a fim de determinar que a ré seja obrigada a de remoção dos perfis "Spc Brasil-www.facebook.Com/#!/spcbrasil, e www.Facebook.Com/#!/SPCBRASILPERNAN, além de obtenção e fornecimento à autora dos endereços de Internet Protocol (IP), para que a requerente consiga encontrar o(s) criador(es) do perfil e utilizadores do e-mail ofensivo, confirmando a liminar outrora concedida e declarando findo este processo cautelar.
+Diante da sucumbência, condeno as rés ao pagamento das custas e despesas processuais, bem como de honorários advocatícios, que arbitro, por equidade, em R$ 2.000,00, nos termos do artigo 20, § 4º, do Código de Processo Civil.
+
+P.R.I.
+
+São Paulo, 07 de outubro de 2013.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

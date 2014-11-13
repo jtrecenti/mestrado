@@ -1,0 +1,68 @@
+
+
+SENTENÇA
+
+Processo nº:0020281-45.2012.8.26.0005
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Material
+Requerente:Anderson Teixeira Lopes
+Requerido:Banco Finasa S/A
+
+
+
+
+
+CONCLUSÃO :
+Aos        4.7.13                     , promovo a conclusão destes autos ao Dr. FÁBIO HENRIQUE FALCONE GARCIA, MM. Juiz de Direito Titular da 3ª Vara Cível deste Foro Regional de São Miguel Paulista, Comarca de São Paulo. _____________.
+
+ANDERSON TEIXEIRA LOPES, qualificado nos autos, ajuizou ordinária em face de BANCO FINASA S/A, alegando, em síntese, que o contrato de financiamento contém cláusulas abusivas. Afirma a ilegalidade da cobrança de tarifa de abertura de crédito. Ademais, o cálculo das prestações, pela calculadora do cidadão, teria resultado valor inferior ao cobrado, gerando uma diferença de R$ 122,40, que pretende seja extornada em dobro. Impugna a capitalização mensal e a utilização da Tabela Price. Requer a revisão do contrato, com expurgo das cláusulas impugnadas, adoção de juros simples e devolução em dobro do valor cobrado indevidamente.
+A liminar foi indeferida.
+Citado, o requerido apresentou contestação, sustentando a improcedência, ao argumento de que o contrato foi livremente pactuado e não tem vícios que justifiquem sua revisão. 
+Houve réplica.
+Não houve requerimento de provas.
+É o relatório.
+A pretensão é parcialmente procedente.
+Primeiramente, consigne-se que a relação discutida é de consumo, aplicando-se à hipótese a lei 8.078/90, conforme dispõe a súmula 297 do C. STJ. 
+Ainda assim não fosse, o contrato bancário, quando estabelecido por adesão, conforma-se dentro dos princípios do CDC, especificamente quanto à disciplina contratual, por força da norma de extensão do artigo 29 do mesmo diploma. 
+Em outras palavras, embora não haja consumidor em um dos pólos da relação, as práticas contratuais devem observar as regras constantes do capítulo V da lei 8.078/90, em razão do artigo retro citado.
+Três são os fundamentos da inicial: primeiramente, insurge-se o consumidor contra exação da tarifa TAC, que não teria lastro no serviço prestado e que importariam acréscimo indevido ao custo do contrato, para o consumidor. Depois, pretende afastar a forma de cálculo das prestações, alegando ilegalidade do uso da Tabela Price e sustentando a necessidade de cômputo dos juros de forma simples, sem capitalização. Finalmente, impugna o próprio cálculo da prestação, ainda que conforme o contrato.
+Desde logo afasto a pretensão de exclusão da Tabela Price que, por si só, não pode ser considerada ilegal.
+Com efeito, já se decidiu:
+2.1.A chamada Tabela Price é metodologia usualmente empregada para amortização do capital mutuado, em prestações fixas e com imputação do pagamento nos juros, o que não é proibido e tampouco desconhecido de nosso ordenamento (CC, art. 993), nem configura, malgrado a utilização de juros compostos, prática usurária de exploração do devedor. Segundo José Dutra Vieira Sobrinho, criada pelo matemático, filósofo e teólogo inglês Richard Price, desenvolvida e aperfeiçoada em França, tal sistema ?consiste em um plano de amortização de uma dívida em prestações periódicas, iguais e sucessivas, dentro do conceito de termos vencidos, em que o valor de cada prestação, ou pagamento, é composto por parcelas distintas: uma de juros e outra de capital (chamada amortização?).
+A demonstrar a impertinência do argumento crítico dos apelantes sobre o tema, basta considerar que quaisquer dos sistemas empregados para amortização dos financiamentos imobiliários instituídos pelo extinto BNH ? tanto o  SAC (sistema de amortização constante) como o SAM (sistema de amortização misto) ? utilizam, como anota Arnaldo Rizzardo, a capitalização de juros. Ademais, como é óbvio, em condições idênticas de periodicidade e juros, os três sistemas chegam, evidentemente, ao mesmo valor: o pagamento da dívida contraída. 
+O que os diferencia, e tal distinção é pedagogicamente ilustrada por José Dutra Vieira Sobrinho, são, em primeiro lugar, a fixidez das prestações, presente na Tabela Price e ausente nos demais sistemas, e a forma de imputação do pagamento: naquele, primeiro os juros e depois o capital; no segundo, abatimento constante de um e de outro e, no último, forma mista dos dois primeiros, ?composto por prestações cujos valores são resultantes da média aritmética dos valores das prestações dos planos SAC e Price, correspondentes aos respectivos prazos; os valores das parcelas de amortização e juros resultam da mesma regra?.
+Firmada nesse entendimento, a E. Décima Segunda Câmara deste Tribunal, em acórdão relatado pelo em. juiz Campos Mello, com declaração de voto vencedor do ilustre juiz José Araldo da Costa Telles (EI 975.042-7/1), assim se expressou:
+?Em realidade, a adoção da Tabela Price não configura por si mesma anatocismo. Trata-se de sistema em que os juros devidos são distribuídos pelas prestações a serem saldadas, o que aliás encontra guarida no art. 993 do Código Civil. Nos contratos de financiamento habitacional é prevista a dedução mensal de parcela de amortização e juros, a partir do fracionamento mensal da taxa convencionada. Isso significa que o que ocorre é amortização total dos juros pactuados sobre o saldo devedor a cada parcela, o que é perfeitamente possível. Se a parcela vencida é paga regularmente, isso significa que o saldo devedor não será acrescido dos juros que haviam sido a ela incorporados e tampouco ocorrerá a cobrança de novos juros, visto que na parcela posterior o que estará sendo cobrado a título de juros é significativo daquilo que fora anteriormente pactuado, ou seja, apenas a parcela seguinte dos juros efetivos contratados. No caso em tela, por exemplo, o que foi pactuado foram juros nominais de 10% ao ano e efetivos de 10,471% ao ano e não há nenhuma evidência de que esteja sendo cobrado percentual superior a 10,47% ao ano?.
+Ora, se é assim e assim é por precisão matemática, não é a Tabela Price que agrava a situação do mutuário, mas a sua desfiguração, resultante, de um lado, da defasagem entre a correção monetária do saldo devedor e as prestações mensais, em razão do notório achatamento salarial imposto por Políticas Públicas voltadas para outros fins, e, de outro, pela alteração do Fundo de Compensação das Variações Salariais, introduzida com o DL 2.349/87.
+A partir de então e nos financiamentos não cobertos por tal fundo, perdeu-se a lógica da Tabela Price, porque a fixidez das prestações já não levaria à amortização final da dívida. Esclareça-se que não se está a dizer que o sistema seja incompatível com a atualização monetária da dívida, mas que a eqüipolência dos fatores exigiria que o saldo devedor e as prestações fossem corrigidos por um e único índice, o que, no entanto, sabidamente não sucede, tanto que, comparando os cálculos dos autores (fls. 63/86) com o do réu (fls. 511/517), nota-se que, a despeito do tempo de execução do contrato, o principal não só não foi amortizado como, ainda, continua a crescer, o que afronta as projeções do sistema de amortização da Tabela Price, evidenciadas por José Dutra Vieira Sobrinho (obra citada, págs. 251/257).(...)
+(...)3.Estabelecidas essas premissas, conclui-se que: a) o uso da Tabela Price, na sua pureza conceitual, não configura, por si mesma, anatocismo e nem forma abusiva de amortização de dívida de longo prazo, inclusive e especificadamente, para utilização em financiamento sujeito ao Sistema Financeiro de Habitação(...) (9ª Câmara, APEL n.° 1.026.038-5, São Paulo, Rel. João Carlos Garcia, parcial provimento,  v. u., j. em 17.09.2002)   
+A ilegalidade reside, portanto, na exação de valores de tal forma que importem cobrança superior aos juros contratados. Não é o caso, em que o contrato prevê claramente a taxa anual de juros à razão de 24,79%, já computada a capitalização mensal (fl. 24).
+Importa consignar que a capitalização mensal, por si só, não representa ilegalidade em prejuízo ao consumidor, desde que o valor dos juros anuais não supere a taxa contratada. É preciso, também, que esse dado fique claro ao consumidor. Esse era meu entendimento, antes mesmo do advento da Medida Provisória nº 2.170/01. E nada se alterou com o advento da referida MP, pois se a capitalização aplicada importar juros superiores ao contratado, o consumidor terá direito à revisão; do contrário, não haverá esse direito.
+Na hipótese vertente, contudo, não é a adoção da Tabela Price que importa incidência de juros superiores aos declarados. Ao contrário, o Custo Efetivo Total atinge patamar de 29,43% ao ano a partir da cobrança das tarifas extras, que não referentes ao ressarcimento do mútuo. Duas taxas são previstas no contrato: uma, para o financiamento em si; outra, indicativa do custo total, que inclui financiamento de tarifas questionadas nestes autos.
+Sobre essa questão, o autor tem parcela de razão.
+Discute-se sobre a validade de cobrança de tarifa de de cadastro.
+O consumidor tem o direito de saber, de antemão, as condições de seu empréstimo, ex vi do disposto no artigo 52, verbis:
+?No fornecimento de produtos ou serviços que envolva outorga de crédito ou concessão de financiamento ao consumidor, o fornecedor deverá, entre outros requisitos, informá-lo prévia e adequadamente sobre:
+I - preço do produto ou serviço em moeda corrente nacional;
+II - Montante dos juros de mora e da taxa efetiva anual de juros(...)?
+Ora, evidente que as tarifas se referem ao preço do serviço. E, ausente necessidade de contratação de terceiros para realização dos serviços ali descritos, não haveria causa para majoração subliminar do preço, a representar forma de escamoteamento do real valor do custo do crédito. 
+A tarifa de abertura de crédito representa expediente que serve para ressarcir serviços utilizados unicamente no interesse da financeira: autorizar essa cobrança seria o mesmo do que, conforme um texto que vem circulando pela Internet, viabilizar a cobrança, pelo padeiro, de uma taxa de acesso ao pãozinho. Nada mais absurdo.
+Segue-se que a ré não comprovou os gastos com esses serviços, o que deveria ter feito, para justificar a correção da exação.
+Argumenta-se em favor da cobrança com o fato de haver autorização regulamentar (que não autoriza ofensa à lei nem ao dever de transparência por ela imposto) e custos para a financeira. Mas esses custos são internos e, portanto, compõem o preço do serviço que é remunerado pelos juros remuneratórios, nada mais. 
+Aplica-se a esse raciocínio o mesmo previsto para a cobrança pela emissão de boletos bancários, que, concessa venia, não tem amparo legal, nem se fosse previsto em lei. Deveras, dispõe o artigo 51, XII, do Código de Defesa do Consumidor, aplicável ao caso vertente:
+
+Art. 51. São nulas de pleno direito, entre outras, as cláusulas contratuais relativas ao fornecimento de produtos e serviços que:
+...
+XII - obriguem o consumidor a ressarcir os custos de cobrança de sua obrigação, sem que igual direito lhe seja conferido contra o fornecedor;
+Ora, nada há a indicar previsão de igual direito ao consumidor, de modo que a exação se mostra, prima facie, ilegal. 
+Em outras palavras, o produto principal do contrato é o financiamento, a ser pago mediante parcelas, cuja exação faz parte da natureza do contrato e que, portanto, deve compor o preço do produto. Entendimento diverso ofenderia o disposto no artigo 52, I, do CDC, por permitir surpresa indevida quanto à composição do preço, em detrimento do consumidor. A existência de autorização do Banco Central para cobrança de tarifas bancárias não permite exação de tarifas ilegais, como é o caso dos autos. 
+Nesse sentido, decidiu o E. Tribunal de Justiça de São Paulo:
+DECLARATÓRIA - COBRANÇA - CONTRATO DE FINANCIAMENTO - Quitação antecipada - Abatimento menor do que o devido - Necessidade de repetição de indébito - Taxa de abertura de crédito (TAC) e tarifa de emissão de carne (TEC) - Ilegalidade da cobrança - Aplicação do artigo 42, parágrafo único, do CDC - Recurso provido. (TJSP, 21ª Câmara de Direito Privado, Apelação N° 990.09.298060-2, Rel. Des. Silveira Paulilo, j. 9.12.2009)
+
+No caso vertente, não há prova do pagamento desses valores a justificar devolução em dobro. Com efeito, o valor indevido integrou o custo efetivo total, sendo diluído entre parcelas. A imputação do pagamento, presume-se, deve ser feita de acordo com o preceito legal do artigo 355 do Código Civil, que estabelece a imputação, em primeiro lugar, da dívida mais onerosa. Em outras palavras, os pagamentos iniciais incidem sobre a composição mais onerosa do débito total ? financiamento do veículo, em si, e não "penduricalhos" indevidos. A conseqüência é que o valor indevido deverá ser abatido.
+A ré não questionou o erro de cálculo declarado na inicial, a demonstrar que, mesmo com a inclusão dos encargos indevidos, o valor total deveria ser inferior àquele constante no contrato. Essa diferença, de R$ 122,40, é incontroversa e deve ser igualmente abatida do crédito da requerida.
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a pretensão do autor, para determinar o expurgo de R$ 372,40, a serem abatidos do saldo devedor, recalculando-se as prestações. Assim, resolvo o processo nos termos do artigo 269, I, do Código de Processo Civil. Tendo em vista a sucumbência recíproca, autor e réu devem arcar com 50% das despesas processuais, custas e com os honorários advocatícios de seus respectivos advogados. 
+P. R. I. C. 
+São Paulo, 11 de julho de 2013
+
+FÁBIO HENRIQUE FALCONE GARCIA
+Juiz de Direito

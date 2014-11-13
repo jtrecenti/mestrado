@@ -1,0 +1,89 @@
+
+
+SENTENÇA
+
+Processo Físico nº:0088253-41.2012.8.26.0002
+Classe - AssuntoProcedimento Sumário - Obrigação de Fazer / Não Fazer
+Requerente:Weymar Mavignier Filho
+Requerido:Net Serviços de Comunicação S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Viviane Nóbrega Maldonado
+
+Vistos.
+
+
+
+Trata-se de AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM PRECEITO COMINATÓRIO que WEYMAR MAVIGNIER FILHO promove em face de NET SERVIÇOS DE COMUNICAÇÃO S/A.
+ 
+Aduz o Autor, em síntese, que tomou conhecimento acerca do envio de mensagem eletrônica com conteúdo ofensivo à sua honra.
+
+Diz, ademais, que à Ré é possível o fornecimento das informações relativas ao usuário.
+
+Requer, assim, a procedência da demanda para os fins de fls. 10/11 dos autos.
+
+Junta documentos.
+
+Citada a Ré, apresentou resposta sob a forma de Contestação.
+
+Diz, em apertada síntese, que administrativamente não poderia fornecer os dados à Autora, na medida em que se acham protegidos por sigilo legal.
+
+De outro lado, aduz que não logrou obter as informações solicitadas e que não possui qualquer obrigação quanto a seu armazenamento.
+
+Impugnando, por fim, as demais pretensões postas pela parte Autora, requer a improcedência da demanda.
+
+Foi apresentada réplica.
+
+Não foram produzidas outras provas.
+
+ 
+É o relatório. 
+
+Decido.
+
+
+
+Prescindindo o feito de outras provas que não as já carreadas aos autos, procedo, desde logo, ao julgamento.
+
+As informações postuladas pela parte Autora efetivamente são sigilosas, de modo que era absolutamente imprescindível o ajuizamento da demanda para o fim de obtê-las.
+
+Entretanto, para os fins desta demanda, é de se ver que tal alegação posta em contestação não se acha guarnecida de qualquer utilidade, na medida em que, nem mesmo com a propositura da demanda, foram elas disponibilizadas à parte Autora.
+
+Com efeito, esta específica assertiva somente seria de valia na hipótese de que a pretensão viesse a ser satisfeita como decorrência do ajuizamento da demanda e notadamente para fins de atribuição do ônus sucumbencial.
+
+Pois bem. Diz a Ré que não localizou as informações solicitadas e que não possui obrigação legal quanto ao armazenamento de dados.
+
+Sem razão, contudo. Malgrado a matéria não se encontre inteiramente regulamentada por legislação federal, o fato é que, por meio do Decreto n. 4.829/03, criou-se o Comitê Gestor da Internet do Brasil que, dentre suas várias atribuições possui a de: IV-promover estudos e recomendar procedimentos, normas e padrões técnicos e operacionais, para a segurança das redes e serviços de Internet, bem assim para a sua crescente e adequada utilização pela sociedade (art. 1º.).
+
+Por seu turno, este Comitê editou rol de recomendações, dentre as quais está a atinente à Manutenção de Dados de Conexão e que se acha assim redigida: Recomendação: Os provedores de acesso devem passar a manter, por um prazo mínimo de três anos, os dados de conexão e comunicação realizadas por seus equipamentos (identificação do endereço IP, data e hora de início e término da conexão e origem da chamada.
+
+A Ré menciona, a fls. 210, que presta serviço de acesso à Internet. Nesta conformidade, muito embora parte de suas atividades possa ser regulada pela Agência Nacional de Telecomunicações, o fato é que, quanto a este específico serviço, enquadra-se na Regulamentação em questão.
+
+E, por corolário lógico, se desatendeu a ela, deixando de armazenar os dados logo após exíguo período, é evidente que faltou com o zelo que se impunha à espécie, ora respondendo por eventuais danos ocasionados, pelo próprio risco do negócio.
+
+No sentido deste entendimento, menciona-se a seguinte Decisão, proferida em demanda proposta em face da ora Ré:
+
+?AGRAVO DE INSTRUMENTO. Tutela de urgência ordenando o fornecimento de dados cadastrais dos usuários dos endereços IP's apontados. - Necessidade de identificação dos clientes da agravante, em razão operações bancárias ilícitas, via internet. Obrigação legal e possibilidade técnica bem demonstradas na contraminuta (Agravo de Instrumento n° 994.09.300190-7; Rel. José Joaquim dos Santos; 25/03/10).
+
+Na petição inicial, a Autora, bem antevendo a possibilidade de descumprimento da obrigação, formulou pedido alternativo de perdas e danos. São estes, pois, prontamente reconhecidos pelo Juízo, sendo que, ante a ausência de formulação específica, ficam arbitrados em R$20.000,00 (vinte mil reais).
+
+Tal valor certamente presta-se a satisfazer os eventuais prejuízos causados.
+ 
+Esta, assim, a solução do feito.
+
+Ante o exposto e tudo o mais que dos autos consta com fundamento no art. 269, inciso I, do Código de Processo Civil, JULGO PROCEDENTE o pedido alternativo para, prejudicada a obrigação de fazer, converter a ação em perdas e danos e condenar a Ré ao pagamento da importância de R$20.000,00 (vinte mil reais), atualizada desde a data da prolação desta sentença e com o cômputo de juros legais, estes contados desde a citação.
+
+Pela sucumbência, arcará a Ré com as despesas processuais e honorários advocatícios, que fixo em 10% (dez por cento) sobre o valor da condenação.
+
+Custas "ex lege".
+
+P.R.I.C. 
+
+
+
+São Paulo, 24 de abril de 2014.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

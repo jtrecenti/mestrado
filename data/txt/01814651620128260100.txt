@@ -1,0 +1,67 @@
+
+
+SENTENÇA
+
+Processo nº:0181465-16.2012.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Defeito, nulidade ou anulação
+Requerente:Andre Dorea de Souza e outro
+Requerido:Banco Bradesco S.a
+
+
+
+
+Juiz(a) de Direito: Dr(a). Cesar Augusto Vieira Macedo
+
+
+Trata-se de demanda revisional de cláusulas e condições contratuais proposta por Andre Dorea de Souza e Keise Abate Dalla Rosa Dorea em face de Banco Bradesco S/A. Aduziram que: firmaram contrato de financiamento de imóvel com o réu e requerem sua revisão ante a presença de cláusulas nulas, prevendo venda casada por meio de 'taxa de administração', seguro mensal morte/invalidez permanente e seguro mensal danos físicos imóvel, além do sistema SAC como incidente para cálculo do saldo devedor.
+Apresentada contestação e réplica.
+É o relatório.
+Decido.
+O feito comporta julgamento antecipado, por se tratar de matéria de direito e de fato que independe da produção de provas em audiência (art. 330, I, do Código de Processo Civil).
+Apesar da argumentação tecida na exordial, como não há relação de consumo de produtos ou serviços, inviável a aplicação do Código de Defesa do Consumidor.
+A lei n.º 8.078/90 não se aplica às operações de empréstimo e outras análogas, realizadas pelos bancos, pois o dinheiro e o crédito não se consubstanciam em produtos adquiridos ou usados pelo destinatário final.
+Como são meios de pagamento, que circulam na sociedade e não há destinatário final, constata-se que não há propriamente consumo.
+A questão da aplicação do CDC aos contratos bancários foi decidida pelo C. STF nos seguintes termos:
+?EMENTA: CÓDIGO DE DEFESA DO CONSUMIDOR. ART. 5o, XXXII, DA CB/88. ART. 170, V, DA CB/88. INSTITUIÇÕES FINANCEIRAS. SUJEIÇÃO DELAS AO CÓDIGO DE DEFESA DO CONSUMIDOR, EXCLUÍDAS DE SUA ABRANGÊNCIA A DEFINIÇÃO DO CUSTO DAS OPERAÇÕES ATIVAS E A REMUNERAÇÃO DAS OPERAÇÕES PASSIVAS PRATICADAS NA EXPLORAÇÃO DA INTERMEDIAÇÃO DE DINHEIRO NA ECONOMIA [ART. 3º, § 2º, DO CDC]. MOEDA E TAXA DE JUROS. DEVER-PODER DO BANCO CENTRAL DO BRASIL. SUJEIÇÃO AO CÓDIGO CIVIL. 1. As instituições financeiras estão, todas elas, alcançadas pela incidência das normas veiculadas pelo Código de Defesa do Consumidor. 2. "Consumidor", para os efeitos do Código de Defesa do Consumidor, é toda pessoa física ou jurídica que utiliza, como destinatário final, atividade bancária, financeira e de crédito. 3. O preceito veiculado pelo art. 3º, § 2º, do Código de Defesa do Consumidor deve ser interpretado em coerência com a Constituição, o que importa em que o custo das operações ativas e a remuneração das operações passivas praticadas por instituições financeiras na exploração da intermediação de dinheiro na economia estejam excluídas da sua abrangência. 4. Ao Conselho Monetário Nacional incumbe a fixação, desde a perspectiva macroeconômica, da taxa base de juros praticável no mercado financeiro. 5. O Banco Central do Brasil está vinculado pelo dever-poder de fiscalizar as instituições financeiras, em especial na estipulação contratual das taxas de juros por elas praticadas no desempenho da intermediação de dinheiro na economia. 6. Ação direta julgada improcedente, afastando-se a exegese que submete às normas do Código de Defesa do Consumidor [Lei n. 8.078/90] a definição do custo das operações ativas e da remuneração das operações passivas praticadas por instituições financeiras no desempenho da intermediação de dinheiro na economia, sem prejuízo do controle, pelo Banco Central do Brasil, e do controle e revisão, pelo Poder Judiciário, nos termos do disposto no Código Civil, em cada caso, de eventual abusividade, onerosidade excessiva ou outras distorções na composição contratual da taxa de juros. ART. 192, DA CB/88. NORMA-OBJETIVO. EXIGÊNCIA DE LEI COMPLEMENTAR EXCLUSIVAMENTE PARA A REGULAMENTAÇÃO DO SISTEMA FINANCEIRO. 7. O preceito veiculado pelo art. 192 da Constituição do Brasil consubstancia norma-objetivo que estabelece os fins a serem perseguidos pelo sistema financeiro nacional, a promoção do desenvolvimento equilibrado do País e a realização dos interesses da coletividade. 8. A exigência de lei complementar veiculada pelo art. 192 da Constituição abrange exclusivamente a regulamentação da estrutura do sistema financeiro. CONSELHO MONETÁRIO NACIONAL. ART. 4º, VIII, DA LEI N. 4.595/64. CAPACIDADE NORMATIVA ATINENTE À CONSTITUIÇÃO, FUNCIONAMENTO E FISCALIZAÇÃO DAS INSTITUIÇÕES FINANCEIRAS. ILEGALIDADE DE RESOLUÇÕES QUE EXCEDEM ESSA MATÉRIA. 9. O Conselho Monetário Nacional é titular de capacidade normativa --- a chamada capacidade normativa de conjuntura --- no exercício da qual lhe incumbe regular, além da constituição e fiscalização, o funcionamento das instituições financeiras, isto é, o desempenho de suas atividades no plano do sistema financeiro. 10. Tudo o quanto exceda esse desempenho não pode ser objeto de regulação por ato normativo produzido pelo Conselho Monetário Nacional. 11. A produção de atos normativos pelo Conselho Monetário Nacional, quando não respeitem ao funcionamento das instituições financeiras, é abusiva, consubstanciando afronta à legalidade.?  - ADI n. 2591-DF
+
+Percebe-se, assim, que se exclui a exegese que submete às normas do CDC a definição do custo das operações ativas e da remuneração das operações passivas praticadas no desempenho da intermediação de dinheiro na economia, o que se encaixa na questão em comento.
+Nestas condições, o contrato em discussão deve ser analisado exclusivamente pelas normas atinentes ao sistema financeiro.
+Anote-se que se fosse atendida a pretensão do autor ? afastando-se juros, taxas e despesas previstos no contrato, haveria total insegurança jurídica nos negócios jurídicos. Com efeito, se fosse utilizada a sistemática pretendida pelo autor, alguém após adquirir uma mercadoria por um preço "x" e ter fechado o negócio com base em tal preço poderia após receber a mercadoria e dela fazer uso, ingressar com ação para sustentar que o preço deveria ser: "x - y".
+Assim, deve prevalecer o pactuado no contrato firmado pelo autor que não é inválido.
+Em relação à cobrança de juros superiores à taxa de 12% ao ano, observo que, como já assentado pelo Supremo Tribunal Federal em sua Súmula 596, são inaplicáveis às instituições bancárias as disposições do Dec. Lei no 22.626/33, pois se regem elas pelos ditames da Lei 4.595/64, que por sua vez as submete às diretrizes traçadas pelas autoridades governamentais no âmbito do Sistema Financeiro Nacional.
+Nada impede que as instituições financeiras promovam a capitalização dos juros cobrados nos empréstimos que concedem, uma vez que também os pagam desta forma aos investidores quando vão buscar no mercado os recursos necessários para tanto. 
+Além disso, às instituições financeiras não se aplicam os ditames da Lei de Usura, que veda tal capitalização, como pacificado pelo E. STF em sua Súmula 596, de se ver que não é ela conflitante com a Súmula 121 daquela Excelsa Corte por ter sido esta última editada antes da vigência da Lei 4.595/64 que regula o Sistema Financeiro Nacional.
+Não bastasse isso, pelo menos desde 26/8/2000, há lei em vigor expressamente prevendo a possibilidade de capitalização de juros pelas instituições financeiras, a MP 1963, editada naquela data, atualmente com o número 2170-36, com última reedição em 23/8/2001, cujo art. 5.º, de vigência perenizada pelo disposto no art. 2º da EC nº 32, de 12/9/2001, assim  dispõe:
+
+Art. 5.º. Nas operações realizadas pelas instituições integrantes do Sistema Financeiro Nacional, é admissível a capitalização de juros com periodicidade inferior a um ano.
+
+O dispositivo legal acima indicado (inserido na medida provisória n. 1963-17 e outras que a reeditaram) não distingue as operações financeiras passíveis de capitalização de juros, estendendo a legalidade dessa forma de cálculo dos encargos a todo e qualquer contrato ou operação celebrada com as instituições integrantes do sistema financeiro nacional. 
+Em princípio, o cômputo mensal de juros pelo réu constituiria, segundo o autor, anatocismo, e mereceria ser revisto. 
+A incidência mensal dos juros pactuados, antes de ferir o ordenamento jurídico (em especial o art. 4º, do Decreto 22.626/33 e a Súmula 121 do STF) nela encontra agasalho, haja vista o disposto no artigo 354 do Código Civil de 2002.
+Nos contratos de empréstimo a evolução das relações de conteúdo econômico-financeira necessita de apreciação consentânea com a realidade atual. Os investidores, via de regra, recebem a capitalização mensal, quer nas cadernetas de poupança como nos fundos de aplicação. Portanto, não seria de se estranhar que isto viesse a ser admitido no âmbito contratual.
+E, apenas para argumentar, mesmo que se entenda que o banco réu pratica capitalização de juros mensal, esta acaba podendo ser realizada, pois deve estar consentânea com a realidade, em especial no que toca aos investidores, quer nas cadernetas de poupança como nos fundos de aplicação. 
+Desta forma, a cobrança de juros superiores a 12% ao ano não é inconstitucional ou ilegal, enquanto a alegada capitalização dos juros não fere a legislação em vigor, como já visto.
+O autor tinha conhecimento do valor dos créditos que lhe foram concedidos em virtude do contrato que firmou, as datas de vencimentos, os encargos pactuados até o vencimento, e por isto poderia, por simples operação aritmética, elaborar o cálculo do débito e verificar se exigido pelo banco réu qualquer acréscimo em valor indevido. 
+Poderia o autor ter contratado com qualquer outra instituição bancária que oferecesse melhores condições, mas livremente optou por contratar com o banco réu, sendo de se presumir que se o fez foi porque as condições oferecidas pelo réu não eram excessivas em relação às postas no mercado pelas demais instituições que nele atuam.
+Condição abusiva, iníqua, excessiva, é aquela que no contrato bilateral e oneroso acarreta para uma das partes vantagem muito desproporcional em relação ao proveito almejado ou obtido pela outra.
+O banco, que objetiva evidentemente o lucro, faz da intermediação sua atividade. E ao repassar dinheiro ao mutuário deve extrair do custo sua comissão. Inexiste qualquer prática abusiva ou ilegal que pudesse ser declarada nula, já que o autor tinha plena consciência dos valores que seriam cobrados.
+Por derradeiro, observo que não cabe ao juiz desbordar da legalidade em nome de uma convicção de ordem puramente política, por mais relevantes que sejam os argumentos em favor desta última. Fazer isso é violar seu juramento de respeito à Constituição e à lei. É contribuir para a insegurança jurídica, para o caos econômico. Leis existem para ser cumpridas. Contratos, para serem respeitados. É lícito corrigir-se eventuais inconstitucionalidades existentes nas primeiras e abusos que se verifiquem nestes últimos, mas não é permitido simplesmente ignorá-los em nome de um entendimento de cunho meramente sócio-econômico. Nesse sentido, veja-se a lição do Professor JOSÉ EDUARDO FARIA:
+
+Como o papel do sistema judicial é apenas aplicar o direito, ele somente está preparado para decidir entre o legal e o ilegal, entre o constitucional e o inconstitucional. Evidentemente, o sistema judicial não pode ser insensível ao que ocorre no sistema econômico. Mas só pode traduzir esta sensibilidade nos limites de sua capacidade operativa. Quando acionado, o máximo que pode fazer é julgar se decisões econômicas são legalmente válidas. Se for, além disso, o Judiciário exorbitará, justificando retaliações políticas que ameaçam sua autonomia funcional e sua independência institucional. Como os juízes poderão preservá-la, se abandonarem os limites da ordem jurídica em seus julgamentos? Por isso, quando os Tribunais incorporam elementos estranhos ao direito, rompem sua lógica operativa e comprometem os marcos legais para o funcionamento da própria economia.
+(...)
+
+Ademais, existem precedentes no sentido de que o método SAC não implica anatocismo. Ver, por todos, o seguinte:
+
+AGRAVO DE INSTRUMENTO - Ação revisional - Agravante pretende a utilização do método Gauss para atualização do débito - Perícia - Utilização do método SAC - Admissibilidade - A utilização do Sistema de Amortização Constante (SAC) não implica anatocismo. Honorários Advocatfcios - Incidência ? Execução impugnada, justificando-se o pagamento do causídico - Redução - Possibilidade - Art. 20, §4°, do CPC ? Causa de menor complexidade - Recurso parcialmente provido - Decisão parcialmente reformada apenas para reduzir a verba honorária. ? AI 0089299-71.2009.8.26.0000 ? TJ/SP
+
+Curioso que em demandas como a presente sempre se alega que o método escolhido implica ilegalidade, seja ele qual for, Tabela Price, Gauss, SAC etc. o que demonstra a falta de seriedade de tais alegações. Nunca o método escolhido é lícito. Método este com o qual o contratante concordou.
+A par disso, os serviços que teriam sido vendidos de maneira casada são necessários à manutenção da integridade do imóvel, garantia da dívida.
+Pelo exposto, julgo improcedente a demanda, resolvendo quanto ao mérito, nos termos do art. 269, I do CPC. Condeno os autores nas custas e honorários, que fixo em R$2.000,00.
+PRI.
+
+
+São Paulo, 15 de abril de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

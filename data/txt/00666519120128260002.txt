@@ -1,0 +1,48 @@
+
+
+SENTENÇA
+
+Processo nº:0066651-91.2012.8.26.0002
+Classe - AssuntoProcedimento Ordinário - Pagamento Indevido
+Requerente:Sociedade Campineira de Educação e Instrução
+Requerido:Enigma Software e Serviços Ltda-ME
+
+
+
+
+Juiz(a) de Direito: Dr(a). Claudio Salvetti D?Angelo
+
+Vistos.
+
+Trata-se de Ação de Restituição de Valores promovida por Sociedade Campineira de Educação e Instrução em face de Enigma Software e Serviços Ltda-ME. Alega que adquiriu quatro licenças de software no valor total de R$ 4.800,00, cuja utilização exige uma chave de acesso. Constatando o autor que a chave fornecida não era válida, entrou em contato com o requerido, que não forneceu uma outra chave de acesso válida. Ante a não solução do problema, não restou alternativa ao autor senão adquirir novo software, no valor de R$ 6.360,00.
+Requer a condenação da requerida à restituição do valor de R$ 4.800,00, relativo aos softwares descritos na inicial, além de R$ 1.560,00, relativo à diferença de valor entre o aludido software e o outro, adquirido posteriormente.
+Regularmente citada, a requerida quedou-se inerte. 
+Conclusos os autos.
+É o relatório.
+D E C I D O.
+Conheço do pedido nesta fase. Faço-o com supedâneo no artigo 330, inciso II, do Código de Processo Civil. A matéria ventilada é unicamente de direito.
+Os pedidos são parcialmente procedentes.
+Ainda que o requerido não tenha oferecido defesa, a sua revelia faz presumirem-se verdadeiros somente os fatos alegados na inicial, mas não o direito nela pleiteado. 
+Ao que consta dos autos, o autor comprou da requerida quatro softwares descritos na inicial, tendo ele juntado ordem de compra, nota fiscal e comprovante de pagamento dos mesmos. Também juntou correspondência enviada à demandada requerendo o providenciamento da chave de acesso necessária à utilização do produto, havendo resposta da Enigma neste sentido.
+Contudo, alegou o autor que não lhe foi fornecida chave válida, o que inviabilizou o uso do produto. Tal fato tornou-se incontroverso, ante a revelia do requerido. 
+O fornecedor do produto ou do serviço somente se exonera da responsabilidade pelos prejuízos causados ao consumidor, se provar que, fornecendo o produto, o defeito inexistia ou a culpa foi exclusiva do consumidor ou de terceiro. Nesse sentido, é o entendimento pacífico da doutrina. Confira-se o ensinamento de Tupinambá Miguel Castro do Nascimento, em "COMENTÁRIOS AO CÓDIGO DO CONSUMIDOR", Editora Aide, com grifos do original: "O Código de Defesa do Consumidor facilitou, consideravelmente, a defesa dos seus direitos. Adotou a figura da possibilidade de inversão do ônus probatório. Quando os fatos alegados pelo consumidor forem verossímeis ou quando o consumidor for hipossuficiente, o ônus da prova passa a ser do fornecedor-réu, que terá que provar que a alegação do consumidor não é verdadeira. (...) A verossimilhança deve estar envolvida pela 'praesumptio hominis'. Esta é alcançada pelas experiências anteriores de vida que, se acumulando, levam a certas conclusões. WASHINGTON DE BARROS MONTEIRO (Curso de Direito Civil, Parte Geral, p. 271, Saraiva, 5° edição, 1966) diz que 'a presunção hominis, ou presunção comum, não resulta da lei, fundando-se, porém, na experiência da vida, que permite ao juiz formar a própria convicção. Por exemplo, não é de se presumir que alguém, podendo evitá-lo, aceite prejuízo'. É isto que diz a lei de proteção ao consumidor. Se o alegado por este está apoiado nas experiências de vida acumuladas, a alegação é verossímil e o juiz deve determinar a inversão da prova em favor do consumidor."
+Com a inversão do ônus da prova, incumbia a requerida, em primeiro lugar, a produção de prova sobre a regularidade do produto e ausência do defeito sustentado pelo autor. No caso presente, como já visto, não há prova neste sentido.
+
+
+Dispõe o artigo 18 do Código de Defesa do Consumidor:
+Art. 18. Os fornecedores de produtos de consumo duráveis ou não duráveis respondem solidariamente pelos vícios de qualidade ou quantidade que os tornem impróprios ou inadequados ao consumo a que se destinam ou lhes diminuam o valor, assim como por aqueles decorrentes da disparidade, com a indicações constantes do recipiente, da embalagem, rotulagem ou mensagem publicitária, respeitadas as variações decorrentes de sua natureza, podendo o consumidor exigir a substituição das partes viciadas.
+§ 1° Não sendo o vício sanado no prazo máximo de trinta dias, pode o consumidor exigir, alternativamente e à sua escolha:
+(...)
+II - a restituição imediata da quantia paga, monetariamente atualizada, sem prejuízo de eventuais perdas e danos;
+(...)
+
+
+No caso em tela, verifica-se que o produto fornecido pela requerida possuía vício que o tornou impróprio ao consumo, cabendo ao autor a restituição integral do valor por ele pago, qual seja, R$ 4.800.
+Todavia, não se pode imputar à requerida a obrigação de custear o outro produto, ou parte dele, adquirido pela autora em substituição ao descrito na inicial, sob pena de enriquecimento ilícito do demandante. 
+Ante o exposto, julgo PARCIALMENTE PROCEDENTES os pedidos iniciais, para condenar a requerida a devolver ao autor a quantia de R$ 4.800,00 referente aos quatro softwares descritos na inicial. Julgo IMPROCEDENTE o pedido de condenação da requerida ao pagamento de R$ 1.560,00.
+Sem condenação em honorários advocatícios e custas processuais, já que aparte contrária sequer compareceu aos autos. 
+R.P.I.C.
+
+São Paulo, 31 de outubro de 2013.
+CLAUDIO SALVETTI D´ANGELO
+Juiz de Direito

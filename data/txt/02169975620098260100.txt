@@ -1,0 +1,76 @@
+
+
+SENTENÇA
+
+Processo nº:0216997-56.2009.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Material
+Requerente:Fabio Moreno Glória
+Requerido:Unilever Brasil Ltda
+
+
+Justiça Gratuita
+
+Juiz(a) de Direito: Dr(a). Rogério Marrone de Castro Sampaio
+
+
+
+Vistos.
+
+
+Trata-se de ação de indenização movida por FÁBIO MORENO GLÓRIA contra UNILEVER BRASIL LTDA. Segundo a petição inicial, o autor participou da promoção realizada pela ré denominada ?Rexona Men Tunning Race?, pela qual, juntamente com outros concorrentes, atuava em jogo virtual consistente em dirigir veículo em determinado percurso. Ao vencedor a ré oferecia viagem à Itália com despesas pagas. No último dia do certame, afirma que estava em primeiro lugar no ranking, sendo que o sistema se encontrava off line. Surpreendentemente, meia hora antes do término, foi registrado tempo melhor que o seu, de autoria de Paulo Demétrio, a quem ao final foi adjudicado o prêmio. Ao argumento central de vício no certame, pede a condenação da ré ao pagamento de indenização por danos materiais, equivalente aos gastos com a viagem à Itália e por danos morais, no valor estimado de cinquenta salários mínimos. 
+
+Com a inicial juntou documentos (fls. 11/72). 
+
+Indeferido o pedido de antecipação de tutela, foi determinada a citação da ré (fls. 73).
+
+A ré, citada, ofereceu contestação (fls. 77/111). Centrou sua resistência na absoluta regularidade de todo o concurso recreativo por ela promovido e intitulado ?Rexona Men Tuning Race?. Todos os participantes tiveram plenas condições de registrar seus tempos, seja em corrida virtual contra outros, seja contra o computador, conforme previsto nas condições do concurso. Também não se verificou qualquer problema técnico nos últimos dias do certame. Insurgiu-se, ainda, contra a pretensão indenizatória. 
+
+Réplica às fls. 586/591.
+
+Em audiência, o processo foi saneado, foram fixados os pontos controvertidos e deferida a produção de prova pericial (fls. 680/681).
+
+Realizada a prova pericial, veio aos autos o respectivo laudo (fls. 740/838), complementado posteriormente (fls. 919/928) e acompanhado de manifestação das partes. 
+
+Indeferida a produção de prova oral, foi encerrada a instrução (fls. 948). 
+
+Apresentaram as partes alegações finais.
+
+É o relatório.
+
+Decido.
+
+Não havendo questões preliminares a serem apreciadas, resta o exame do mérito da pretensão deduzida em juízo. 
+
+A controvérsia estabelecida entre as partes tem por gênese a aferição da regularidade do concurso recreativo intitulado ?Rexona Men Tuning Race? promovido pela ré que prometeu ao vencedor viagem com acompanhante à Itália, com despesas todas pagas. Defende o autor a tese de que, por irregularidade do certame, foi prejudicado ao final. Na realidade, intitula-se vencedor. 
+
+Como premissa, ressalta-se a presença de relação de consumo travada entre as partes, assumindo a ré, porque prestadora de serviços, a posição de fornecedora e o autor, destinatário final deles, a de consumidor. Isso, por consequência, faz militar em favor deste último todos os princípios norteadores do Código de Proteção ao Consumidor. Com o mesmo fundamento legal, define-se a responsabilidade objetiva da ré pelos vícios de qualidade dos serviços prestados, bem como pelos defeitos por eles apresentados, nos exatos termos dos artigos 14 e 20 da citada legislação especial.
+
+Mesmo em tal contexto, não se detectou qualquer falha operacional na execução do concurso recreativo realizado pela ré, afastando, com isso, vício ou defeito na prestação dos serviços ofertados ao público. 
+
+Inegável, para o deslinde desta questão fática, o valor da prova pericial técnica realizada. Depois de minudente trabalho promovido pelo perito, com profundo exame de todo o sistema operacional desenvolvido para a realização do concurso recreativo, não se constatou qualquer problema técnico durante o certame que pudesse gerar prejuízo ao autor, um dos participantes. Em suma, não se apontaram indícios seja de problemas técnicos da base de dados do concurso, seja na manipulação de registros históricos da participação dos concorrentes. 
+
+Quanto a esse aspecto, vale transcrever a seguinte passagem do laudo (fls. 814):
+
+?(...)Conclui este perito que:
+
+Não foi possível identificar qualquer problema técnico na base de dados do concurso, cujo jogo (game), é objeto da lide, que pudesse ter paralisado ou reduzido substancialmente a capacidade de acesso, pelos competidores na data do encerramento do referido concurso recreativo;
+Igualmente não foram encontrados indícios de manipulação nos registros históricos da base de dados preservada do referido game;
+
+Que todos os procedimentos realizados pela Requerida, visando a segurança e integridade de dados, encontram-se dentro de melhores práticas atuais de tratamento de informações e de seu armazenamento;
+
+Que para se acessar qualquer informação armazenada no Banco de Dados (SGBD) a Requerida utilizou-se das melhores práticas de mercado para dificultar, elevar o grau de complexidade e alertar possíveis tentativas de invasão na base de dados que armazenava as informações da competição, como fartamente demonstrado nos itens anteriores deste laudo pericial.
+
+Portanto, partindo de todas as informações, conhecimentos, dados adicionais solicitados e fornecidos pelas partes, e mediante os fatos descritos e análise neste laudo pericial com apresentados nos itens que o compõem, este Perito não pode encontrar e infere que não foi possível identificar falhas na possível prestação de serviços da Requerida durante a promoção denominada Rexona Tunning. (...)?
+
+Inviável, portanto, a pretensão indenizatória. 
+
+Ante o exposto e de tudo mais que dos autos consta, JULGO IMPROCEDENTE a ação.
+
+Em razão da sucumbência, arcará o autor com as custas judiciais e despesas processuais, incluídos os honorários periciais, bem como com os honorários advocatícios que, nos termos do artigo 20, §4º, do CPC, arbitro em 20% do valor atribuído à causa, devidamente atualizado.   Isento-o, contudo, do pagamento de tais verbas, por ser beneficiário da assistência judiciária gratuita, nos termos do artigo 12, da Lei 1.060/50. 
+
+P.R.I.C.
+
+
+São Paulo, 22 de julho de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

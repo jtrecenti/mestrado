@@ -1,0 +1,63 @@
+
+
+SENTENÇA
+
+Processo nº:0049094-62.2010.8.26.0002 - Busca e Apreensão
+Requerente:Adobe Systems Incorporated e outro
+Requerido:Latina Projetos Civis e Associados Ltda
+
+
+
+Juiz(a) de Direito: Dr(a). Edson Luiz de Queiróz
+
+
+
+
+
+
+
+VISTOS.
+
+
+ADOBE SYSTEMS INCORPORATE e AUTODESK INC movem ação cautelar de vistoria, busca e apreensão, em face de LATINA PROJETOLS CIVIS E ASSOCIADOS LTDA, alegando que são detentores de direitos de patente e exclusividade de software de programas de computadores elencados na inicial. Há suspeita fundada acerca da utilização desses programas, sem o necessário licenciamento, violando disposições legais de ambos os países, notadamente "Copyright Act", Title 17, §104, "b" e Lei 9.609/98. 
+
+Pedem liminar, visando vistoria para confirmação da ocorrência de violação de direito autoral e, uma vez comprovada sua ocorrência, a apreensão dos programas de computador reproduzidos indevidamente. Informam a propositura no prazo legal de ação principal, visando ressarcimento de perdas e danos decorrente de violação autoral. 
+
+A liminar foi deferida e cumprida. O laudo pericial foi juntado aos autos. 
+
+Regularmente citada, a ré ofereceu defesa, alegando, preliminarmente, irregularidade na representação processual das autoras. No mérito, alega erro grosseiro das autoras, vez que não houve constatação de cópias irregulares de programas nos computadores da ré, caracterizando litigância de má-fé. Pede improcedência. Houve réplica e não houve propositura da ação principal. 
+
+É o relatório do essencial.
+Fundamento e decido. 
+
+Estão presentes os pressupostos processuais e as condições da ação. Não se vislumbra irregularidades na representação processual das autoras. Não se questiona que os procuradores que subscreveram a petição inicial realmente representam as autoras. 
+
+ A questão posta nos autos se resolve pela aplicação da regra do artigo 333, inciso I, do Código de Processo Civil. O legislador estabeleceu certas e determinadas regras de julgamento, visando evitar que a distribuição do ônus da prova ficasse a exclusivo arbítrio do julgador. Nessas condições, ?as regras sobre ônus da prova implicam verdadeira ?distribuição de riscos? entre os litigantes, quanto ?mau êxito da prova?, constituindo sua aplicação, ?em certo sentido, como elemento de motivação, um sucedâneo da prova faltante? (José Carlos Barbosa Moreira, ?Julgamento e ônus da Prova?, págs. 75 e 81). 
+
+Estabeleceu o legislador que incumbe ao autor os fatos constitutivos de seu direito e ao réu, a prova ?quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor?. No presente feito, para dirimir as questões controvertidas, foi realizada prova pericial, sendo que o perito judicial apresentou as seguintes conclusões: 
+
+"Na diligência realizada no dia 13 de outubro de 2010, foram vistoriados um (1) Servidor Windows 2003 Server STD e quatorze (14) microcomputadores em operação pertencentes à Latina Projetos Civis e Associados Ltda, com software de propriedade das Requerentes Adove Incorporated e AutoDesk Incorporated, conforme análise do item 5.2 do laudo, sendo que para todos microcomputadores instalados e vistoriados a requerida possui as devidas licenças de uso.
+Os software da Requerente Adove Incorporated instalados nos computadores da Requerida são freeware, ou seja, não necessitam de licenciamento, pois são de livre aquisição".
+
+Por todos esses motivos, estão ausentes os requisitos do ?periculum in mora? e do "fumus boni iuris", fato suficiente para o decreto de improcedência da medida cautelar.
+
+Por outro lado, a ré alega ocorrência de litigância de má-fé. A questão é analisada neste momento processual. A ré alega ocorrência de "falha e erro grosseiro dos controles das autoras". Realmente, na petição inicial, a autora afirma, textualmente, que "...as autoras, através de procedimentos internos de controle, tem ciência que a ré, certamente por não atentar para a gravidade da questão relacionada à reprodução ilegal de programas de computador, possui um menor número de licenças de uso dos programas que estão efetivamente instalados nos seus computadores. Tal fato acarreta a existência de grande quantidade de cópias ilegais, cuja reprodução ocorreu sem a autorização das autoras". Os fatos alegados na petição inicial não foram devidamente provados. Ao contrário, comprovou-se a efetiva regularidade do sistema de informática da autora.
+
+O artigo 811, do Código de Processo Civil estipula que "o requerente do procedimento cautelar responde ao requerido pelo prejuízo que lhe causar a execução da medida (...) se a sentença no processo principal lhe for desfavorável". 
+
+A responsabilidade é objetiva, no caso de improcedência da pretensão deduzida nos autos, sendo irrelevante que esse reconhecimento se dê nos autos principais ou na própria cautelar. Os prejuízos sofridos pelo demandado devem ser suportados por quem deu causa à lide. A indenização pode ser fixada por arbitramento, vez que foi dado valor irrisório à causa, inviabilizando sua utilização como parâmetro para a fixação da indenização. Nessas condições, com a utilização do poder geral de cautela do juiz, fixo a indenização devida pelas autoras ao réu, no montante de R$ 20.000,00, pelos prejuízos causados injustificadamente.
+
+As demais questões arguidas pelas partes ficam prejudicadas.
+
+
+Pelo exposto, JULGO IMPROCEDENTE o pedido inicial, revogando a liminar deferida. Condeno as autoras no pagamento de indenização à ré, com base no disposto no artigo 811, inciso I, do Código de Processo Civil, no montante de R$ 20.000,00, corrigido a partir da presente data e com juros moratórios de 1% ao mês, a partir da citação.
+
+Condeno as rés no pagamento das custas, despesas processuais e honorários advocatícios fixados por equidade, nos termos do artigo 20, §4º, primeira figura, do Código de Processo Civil, em R$ 5.000,00, corrigido a partir da presente data, nos termos da Lei 6899/81. Após o trânsito em julgado desta decisão, nada sendo requerido, os autos serão arquivados independentemente de nova intimação.
+
+P.R.I.C.
+
+São Paulo, 22 de março de 2011.
+
+
+EDSON LUIZ DE QUEIROZ
+     Juiz de Direito

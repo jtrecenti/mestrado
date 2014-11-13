@@ -1,0 +1,59 @@
+
+
+SENTENÇA
+
+Processo nº:0002153-22.2013.8.26.0011
+Classe - AssuntoProcedimento Ordinário - Planos de Saúde
+Requerente:Implant Art Odontologia Integrada Ltda e outro
+Requerido:Sul América Seguro Saúde S.A.
+
+
+Juiz(a) de Direito: Dr(a). Eduardo Tobias de Aguiar Moeller
+
+Vistos.
+
+Implant Art Odontologia Integrada Ltda e Renato Rebouças Branco ajuizaram ação de obrigação de fazer cumulada com pedido de indenização por danos morais em face de Sul América Seguro Saúde S.A. 
+Alega a empresa co-autora que firmou contrato de plano de saúde com a ré e que o co-autor Renato é beneficiário do plano. Relata que este foi diagnosticado com lesão na coluna cervical e conforme prescrição médica deveria ser submetido a tratamento cirúrgico, o qual possui previsão contratual. Relata também que até a data da propositura da ação, injustificadamente, não houve resposta por parte da ré quanto à autorização dos procedimentos, sofrendo o autor com dores por conta da demora. Requereu a concessão de tutela antecipada para sujeitar a ré a custear a cirurgia e demais procedimentos necessários e, ao final, a procedência da ação para confirmar os efeitos da tutela e condenar a ré ao pagamento quantia relativa a danos morais, a ser arbitrada pelo Juízo. 
+Instruiu a inicial com atos societários (fls. 24/41), contrato de plano de saúde (fls. 48/71), autorizações de atendimentos médicos perante o Hospital São Luiz (fls. 72/74), solicitação do médico para avaliação cardiológica (fls. 75).
+A tutela antecipada foi inicialmente indeferida (fl. 84). Foi determinada emenda à inicial para esclarecimento do objeto do litígio, especialmente quanto ao procedimento cirúrgico e materiais necessários.
+Os co-autores aditaram a inicial (fls. 86/89), prestando esclarecimentos e requerendo a reconsideração da decisão que indeferiu a tutela antecipada. Juntaram relatório médico (fls. 92), exames de ressonância magnética e raio-x (fls. 93/94), guia de solicitação de internação (fls. 96), ficha para atendimento cirúrgico (fls. 97) e documentos que atestam a recusa da ré em fornecer alguns dos materiais indicados pelo médico (fls. 98/99).
+A tutela antecipada foi então deferida (fls. 100) para determinar à ré que fornecesse cobertura integral à cirurgia de hérnia de disco na coluna cervical do co-autor Renato, imediatamente, bem como cobertura aos demais materiais e procedimentos necessários, sob pena de multa diária de R$ 1.000,00.
+A ré contestou o feito (fls. 106/124). Alegou que não houve recusa para o procedimento cirúrgico, mas sim recusa de cobertura para alguns dos materiais solicitados. Alegou que a recusa se deu pelo fato de os materiais serem off-label, ou seja, segundo a ré não têm bula (rotulagem) registrada na ANVISA e sua utilização não foi aprovada para o uso pretendido; também alegou que são materiais importados. Alegou que por serem off-label o uso dos remédios/materiais não é recomendado, ante a falta de evidências científicas sobre sua eficácia,  risco à saúde do paciente e desperdício econômico. Alegou, por fim, que sua conduta encontra amparo no artigo 10, I, da lei 9656/98, e que, não havendo ato ilícito de sua parte ou comprovação dos danos experimentados, não deve haver condenação em danos morais. Requereu, ao fim, o julgamento da ação como totalmente improcedente. Instruiu a contestação com atos societários (fls. 125/132) e guia de autorização para o procedimento cirúrgico (fls. 133).
+Houve réplica (fls. 141/147).
+É o relatório.
+
+DECIDO.
+
+A análise do mérito prescinde de outras provas, de forma que passo ao julgamento do feito, com base no artigo 330, I, do CPC.
+Conforme já sedimentado entendimento jurisprudencial e a recém editada Súmula 100 do TJSP, incontroverso o fato de que os contratos de seguro saúde ou plano de saúde são regidos pelo Código de Defesa do consumidor. Assim, é certo que o ônus probatório no presente caso cabia à ré.
+Para justificar sua recusa em fornecer os medicamentos/materiais necessários ao procedimento cirúrgico (o qual, segundo restou incontroverso nesta lide, tem cobertura fornecida), a ré alega que há insegurança para o consumidor, falta de evidências quanto à eficácia e desperdício econômico. Nenhuma destas alegações, no entanto, é comprovada pela ré de qualquer forma. A ré limitou-se a juntar apenas contrato social e autorização por ela mesma expedida.
+O autor, por sua vez, juntou exames que comprovam sua condição pessoal: o relatório médico de fls. 92 expressamente prescreve o tratamento cirúrgico e o documento de fls. 98 que comprova a recusa dos materiais solicitados para realização da cirurgia. 
+Ora, sendo os materiais de fls. 98 os elencados pelo médico como necessários para a realização da cirurgia e havendo cobertura para o tratamento cirúrgico, não cabe ao plano intervir no método ou técnica escolhida pelos médicos.
+Veja-se julgado do TJSP:
+
+Plano de saúde Paciente diagnosticada com câncer - Recusa de cobertura de medicamento para tratamento quimioterápico sob a justificativa de expressa exclusão contratual de prescrição de medicamento experimental e "off label" Não cabe ao plano de saúde decidir o tratamento adequado à moléstia, mas sim à equipe médica que acompanha o caso Negativa de custeio de remédio para doenças contratualmente cobertas Negativa abusiva e ilegal Aplicação das Súmulas 95 e 102 deste E. Tribunal de Justiça - Recurso não provido. (Apelação nº 0048008-80.2010.8.26.0576, Relator(a): Silvia Sterman, Comarca: São José do Rio Preto Órgão julgador: 9ª Câmara de Direito Privado, Data do julgamento: 16/04/2013)
+
+Também não prospera o argumento da ré de que se trata de tratamento experimental. Curioso observar que a própria ré traz a informação de que países desenvolvidos como Estados Unidos e Austrália fazem uso comum de medicamentos off label, este último com taxa de utilização de 60% em crianças. Contraditória assim a alegação de que se trata de tratamento "experimental" e que pode "expor os pacientes a sérios riscos". 
+É importante transcrever o conteúdo da Súmula 102 do TJSP:
+
+"Havendo expressa indicação médica, é abusiva a negativa de cobertura de custeio de tratamento sob o argumento da sua natureza experimental ou por não estar previsto no rol de procedimentos da ANS."
+
+Conclui-se por incabíveis, portanto, as alegações da ré de que se trata de hipótese do artigo 10, I, da lei 9656/98. 
+Cumpre ressaltar que o contrato de seguro saúde firmado entre as partes deve ser classificado como contrato de trato sucessivo, de maneira que as obrigações e seu cumprimento se prorrogam no tempo. Não pode, desta forma, o contrato ser "engessado" a critérios externos, alheios aos avanços da medicina, sob pena de se abalar a própria finalidade do contrário que é a preservação da vida do consumidor. Necessária é a interpretação das cláusulas do contrato em conformidade o Código de Defesa do Consumidor (lei federal nº 8.078/90), dando aplicação ao art. 5º, inc. XXXII, da Constituição Federal, norma esta de eficácia plena e imediata.
+Com relação ao dano moral, entendo há dever de indenizar por parte da ré. 
+Isto porque, muito embora a ré alegue ausência de ato ilícito, nexo causal e  comprovação do dano, o constante nos autos diz o contrário.
+Os autores relatam que no próprio dia do diagnóstico da lesão na coluna cervical (12 de dezembro de 2012) o co-autor Renato entrou em contato com a ré para pleitear autorização aos procedimentos necessários. Indicaram na petição incial, inclusive, o número de protocolo fornecido em ligação telefônica (fls. 05). Estes fatos não foram impugnados em contestação.
+A ré, em sua manifestação, argumenta que não houve recusa para o procedimento, "vez que o plano do autor cobre", mas sim recusa para alguns dos materiais.   Tal alegação é inaceitável porque a recusa de alguns materiais inviabiliza todo o procedimento.  
+A recusa da ré, portanto, caracterizou ato ilícito.
+O TJSP já decidiu reiteradamente sobre o tema. Veja-se julgado:
+
+Plano de saúde. Demora injustificada na liberação de procedimento cirúrgico. Realização mediante decisão judicial concessiva de antecipação de tutela. Espera de quase um mês pelo paciente. Problema de deformidade na planta do pé, a exigir pronta intervenção. Autor com dores intensas. Abuso configurado por parte da operadora. Dano moral caracterizado. Indenização devida. Montante, arbitrado em Primeiro Grau, adequado às circunstâncias. Impugnação meramente genérica na apelação. Sentença integralmente mantida. Apelação da ré desprovida. (Apelação 0017971-43.2010.8.26.0003, Relator(a): Fabio Tabosa,  Julgamento: 24/04/2012, Órgão Julgador: 2ª Câmara de Direito Privado, Publicação:25/04/2012)
+
+Nada há de corriqueiro ou de mero aborrecimento em "pendência de autorização" para procedimento cirúrgico na coluna cervical por mais de dois meses quando há incontroversa previsão contratual para a doença e pacificado entendimento jurisprudencial a respeito, algo que é de vasto conhecimento dos planos de saúde. Não é possível acreditar tratar-se, no caso, de mera discordância contratual.
+O relatório médico de fls. 92 é claro ao trazer a informação de que o autor já havia sido internado anteriormente por causa de dores. A atitude da ré certamente ultrapassou muito os limites do razoável ao negar o fornecimento de materiais requeridos pelo médico para realização da cirurgia, o que sujeitou o autor a dores durante o período de espera, cessando esta apenas com a concessão da tutela antecipada.
+Reputo a quantia de R$ 20.000,00 ? a metade sugerida pelos autores - como suficiente para repelir novos abusos por parte da ré, sendo compatível com seu porte econômico e capaz de reparar os danos experimentados pelo co-autor Renato sem causar enriquecimento injustificado.
+Por estas razões, JULGO PARCIALMENTE PROCEDENTE esta ação que Implant Art Odontologia Integrada Ltda e Renato Rebouças Branco ajuizaram contra SUL AMÉRICA SEGURO SAÚDE S/A e TORNO DEFINITIVA a liminar de fls. 100 e CONDENO a ré a custear integralmente o procedimento cirúrgico de hernia de disco na coluna cervical, inclusive com todos os materiais, medicamentos e honorários médicos necessários para o procedimento sob pena de multa diária de R$ 1.000,00.
+Ainda, CONDENO a ré a pagar ao co-autor Renato Rebouças Branco indenização por danos morais no valor de R$ 20.000,00.  O valor deverá ser corrigido monetariamente e acrescido de juros de mora de 1% ao mês a partir desta sentença.
+Por fim, ante a sucumbência mínima dos autores, CONDENO a ré a pagar integralmente as custas processuais e honorários advocatícios que fixo em 10% (dez por cento) sobre o valor atualizado da condenação.
+P.R.I.
+São Paulo, 29 de abril de 2013.

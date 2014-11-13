@@ -1,0 +1,70 @@
+
+
+SENTENÇA
+
+Processo nº:0066074-79.2013.8.26.0002 - Procedimento Ordinário
+Requerente:Associação de Amigos e Moradores do Bairro Vila do Sol - AAMBVS
+Requerido:Porto Seguro Companhia de Seguros Gerais
+
+
+
+Juiz(a) de Direito: Dr(a). Paulo André Bueno de Camargo
+
+
+Vistos.
+
+
+
+Trata-se de ação de cobrança de indenização de seguro empresarial contra subtração de bens proposta pela Associação de Amigos e Moradores do Bairro Vila do Sol  AAMBVS em face de Porto Seguro  Companhia de Seguros Gerais, na qual a autora aduz, em síntese, que matinha apólice de seguro junto à ré, que cobria o risco de subtração de bens. Ocorre que houve um furto nas dependências da autora, no período de vigência da apólice de seguro, em que o agente utilizou-se de cópia da chave para ingressar no local, praticando, em seguida, a subtração de diversos bens relacionados no boletim de ocorrência lavrado. Comunicado o sinistro à ré, houve recusa por parte desta no pagamento da indenização prevista na apólice, sob a alegação de que o risco não estaria coberto. Pugna a autora pela condenação da ré ao pagamento da indenização contratada na apólice, referente ao valor dos bens subtraídos, cuja apuração deve ser objeto de liquidação.
+
+Citada, a ré apresentou contestação (fls. 72/89), aduzindo, preliminarmente, inépcia da petição inicial. No mérito, sustenta o descabimento da indenização pleiteada, porquanto a apólice não cobria o risco de furto com uso de cópia da chave verdadeira, mas somente com a utilização de chave falsa ou por meio de ação (rompimento de obstáculo/arrombamento) que deixa vestígios apurados em inquérito policial.
+
+Houve réplica.
+
+Determinada a especificação de provas, as partes requereram a produção de prova oral.
+
+É o relatório.
+
+DECIDO.
+
+O caso comporta julgamento antecipado da lide, nos termos do art. 330, inc. I, do Código de Processo Civil, uma vez que os documentos apresentados são suficientes para compreensão da matéria de fato debatida, prescindindo-se de dilação probatória. É fato incontroverso que o furto ocorreu mediante a utilização de cópia da chave original, inclusive que foi deixada no local e apreendida, conforme narrado no boletim de ocorrência de fls. 67. Assim, desnecessária a produção de prova oral, ex vi do art. 334, inc. III, do Código de Processo Civil.
+
+Rejeita-se a preliminar de inépcia da petição inicial, que preenche os requisitos do art. 282 do CPC, não havendo irregularidade no pedido na forma em que formulado, postergando a análise do valor dos objetos subtraídos e, por consequência, da indenização à fase de liquidação.
+
+No mérito, o pedido inicial é procedente.
+
+A apólice de seguro em discussão cobria o seguinte risco, para a hipótese de subtração de mercadorias:
+
+8.5. SUBTRAÇÃO DE BENS E MERCADORIAS
+Garante, até o Limite Máximo de indenização contratado, as perdas e danos ao conteúdo existente no interior do Estabelecimento Segurado, em decorrência dos seguintes riscos:
+a)Subtração cometida mediante ameaça direta ou emprego de violência contra os sócios, diretores e/ou empregados;
+b)Subtração cometida mediante arrombamento do local ou utilização de chaves falsas ou semelhantes, desde que em qualquer situação, tenham deixado vestígios materiais evidentes, ou tenham sido constatados por inquérito policial;
+c)Danificações causadas ao Estabelecimento Segurado durante a prática ou tentativa dos riscos acima.
+
+A questão a ser decidida por este Juízo é se cópia da chave verdadeira pode ser enquadrada, para os fins de caracterização de risco coberto pelo seguro pela cláusula supratranscrita, como chave falsa ou não.
+
+E a resposta é positiva.
+
+Toda chave, que não seja a verdadeira em poder do dono ou possuidor legítimo do imóvel ou veículo, obtida por meios ilegais ou clandestinos, deve ser considerada falsa para todos os efeitos de direito. Hipótese diversa é a prática do furto de um imóvel por meio da prévia subtração da chave verdadeira do próprio dono ou possuidor legítimo do imóvel, o que não se verifica no caso presente pela narrativa no boletim de ocorrência, porquanto, neste último caso, não se há de falar em furto mediante emprego de chave falsa, já que utilizada a chave verdadeira para a prática da subtração.
+
+Assim vem decidindo o Tribunal de Justiça de São Paulo na seara criminal, para o fim de enquadrar a cópia de chave original obtida por meio inidôneo como chave falsa a qualificar o delito de furto:
+
+ Apelação - Furto duplamente qualificado (emprego de chave falsa e concurso de agentes) - Materialidade delitiva e autoria demonstradas. Absolvição - Insuficiência de provas - Inadmissibilidade - A confissão da co-ré Márcia e a prova testemunhai apontam a apelante como uma das autoras do crime de furto Afastamento das qualificadoras do emprego de chave falsa e concurso de agentes - Inadmissibilidade - A co-ré Márcia afirmou que fez cópia da chave original da loja da vítima e utilizou a chave falsa para adentrar no referido estabelecimento - O concurso de agentes também restou caracterizado, pois, a co-ré Márcia informou que praticou o delito de furto na companhia de Selene e Aureni, fato este confirmado pela prova testemunhal (Apelação Criminal nº  0003581-83.2003.8.26.0627, Rel. Des. Salles Abreu, 4ª Câm. de Dir. Criminal, j. 31.03.2009).
+
+Como se não bastasse isso, o art. 423 do Código Civil dispõe que quando houver no contrato de adesão cláusulas ambíguas ou contraditórias, dever-se-á adotar a interpretação mais favorável ao aderentes, hipótese que se encaixa perfeitamente ao caso em exame, no qual a cópia ilegal ou obtida de forma inidônea da chave original deve ser tida ? numa interpretação mais favorável ao aderente ? como chave falsa ou semelhantes de que trata a cláusula 8.5.b das condições gerais (fl. 136), mormente porque, conforme precedente jurisprudencial supracitado, há plausibilidade jurídica nesta interpretação.
+
+Posto isso, JULGO PROCEDENTE o pedido inicial para o fim de condenar a ré a pagar à autora indenização nos termos da apólice do seguro, até o limite máximo contratado, correspondente ao valor dos bens objetos da subtração narrada na inicial e no boletim de ocorrência, que será apurada em fase de liquidação. Sobre o valor apurado incidirão juros de mora de 1% ao mês a contar da citação.
+
+Condeno a ré ao pagamento das custas e despesas do processo, bem como honorários advocatícios que fixo em 10% sobre o valor atualizado da condenação.
+
+Para interposição de eventual recurso, o valor do preparo deverá corresponder a 2% (dois por cento) sobre o valor da condenação, se houver ou da causa (do principal) atualizado, e deverá ser recolhido à título de porte de remessa e retorno dos autos o valor de R$ 29,50 por volume, observando-se o disposto na Lei 11.608/03.
+
+Transitada em julgado, certifique-se. Nada requerido, arquivem-se.
+
+P. R. I.
+                
+São Paulo, 01 de julho de 2014.
+
+
+PAULO ANDRÉ BUENO DE CAMARGO
+                JUIZ DE DIREITO

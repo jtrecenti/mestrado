@@ -1,0 +1,91 @@
+
+
+SENTENÇA
+
+Processo nº:0170180-60.2011.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Espécies de Contratos
+Requerente:Gogeek Representação Comercial de Equipamentos de Informatica e Escritorio Ltda
+Requerido:Msbs Business Solutions Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Renan Paes Felix
+
+
+    Vistos.
+
+GOGEEK REPRESENTAÇÃO COMERCIAL DE EQUIPAMENTOS DE INFORMÁTICA E ESCRITÓRIO LTDA ajuizou ação de resolução de contrato c/c devolução de valores pagos c/c indenização por perdas e danos com pedido de antecipação de tutela contra MSBS BUSINESS SOLUTIONS LTDA., objetivando a resolução de contrato e o reembolso de valores pagos, bem como o pagamento de danos emergentes e lucros cessantes, em razão do inadimplemento do contrato objeto da presente ação.
+
+Segundo a inicial (fls. 02/14), a autora é empresa que tem por objeto social o comércio virtual de mercadorias, por intermédio do website www.gogeek.com.br. Para implantação do referido sítio eletrônico e início das atividades, contratou a empresa ré, que se comprometeu a instalar o Sistema de Gestão Empresarial denominado ?Microsoft Dynamics AX 2009?. A autora aceitou a Proposta Técnica Comercial apresentada pela ré em 02/10/2009 e assinou o contrato em 09/12/2009. Relata que a empresa ré estabeleceu a data de 31/01/2010 para a entrega do produto objeto do contrato. Porém o projeto do site não foi entregue na data estipulada. Posteriormente, foram estipuladas outras datas para entrega do site em funcionamento: 01/03/2010; 02/04/2010; 30/04/2010. Em nenhuma delas houve a entrega do produto.
+
+Afirma a autora que os testes realizados não trouxeram resultados satisfatórios e a melhor solução encontrada em reunião entre as partes foi encerrar definitivamente o Projeto e proceder à devolução dos valores pagos (R$ 29.825,53). No entanto, relata que a empresa ré não cumpriu o acordo. Requer, além da devolução dos valores pagos pelo projeto que não se concretizou, o pagamento de indenização por perdas e danos, pois houve um atraso de vários meses para o início do funcionamento do site (de 17 de janeiro de 2010 até 22 de junho de 2010). Requer ainda a concessão de tutela antecipada para determinar o imediato reembolso dos valores pagos pelo contrato que não foi cumprido. Juntou documentos (fls. 15/93).
+
+A ré foi citada (fls. 104) e ofertou contestação (fls. 106/120), acompanhada de documentos (fls. 121/156), em que sustentou, em suma: a) que a empresa ré tem especialização na área de tecnologia da informação, sendo a maior parceira da Microsoft na competência ?Dynamics AX? para a América Latina; b) que a ré cumpriu as obrigações contratuais até onde lhe foi possível; c) que não ocorreu atraso na entrega do projeto; d) que inexistiu qualquer ação ou omissão da ré que tenha dado causa aos alegados danos; e) que não houve comprovação de perdas e danos por parte da autora; f) que a autora não produziu prova de suas alegações. Requer, ao final, a total improcedência dos pedidos deduzidos na petição inicial.
+
+Houve réplica (fls. 163/170).
+
+Intimados a especificar provas (fls. 171), a autora requereu o julgamento antecipado de lida e a ré nada requereu.
+
+Houve audiência de tentativa de conciliação, que restou infrutífera (fls. 176).
+
+É a síntese do necessário.
+
+DECIDO.
+
+Pode-se conhecer diretamente do pedido, com o julgamento antecipado da lide, nos termos do artigo 330, inciso I, do Código de Processo Civil, pois embora haja matéria de fato e de direito, existem provas e elementos suficientes nos autos para o adequado exame da lide, como se verá linhas a seguir.
+
+Insurge-se a autora contra a empresa ré em razão do alegado descumprimento do contrato, sob o argumento de que embora tenha pago os valores solicitados, não houve a entrega do produto objeto do contrato. Pede a resolução do contrato, a devolução dos valores pagos e o pagamento de indenização por perdas e danos. 
+
+A ação é procedente.
+
+É fato incontroverso na ação em apreço que houve a celebração de um contrato de prestação de serviços tendo como objeto a cessão de Licenças de Uso e Serviços Profissionais de Consultoria de Implantação do Microsoft Dynamics AX 2009 (fls. 36/42). Na minuta do contrato, observa-se a cláusula sexta (6.1.5), que diz respeito à responsabilidade da contratada, a empresa ré:
+
+?6.1.5. A CONTRATADA não se responsabiliza por eventuais danos ocasionados pela má execução ou retardamento no fornecimento da tecnologia da informação, quando a falha ou o retardamento se der por culpa da CONTRATANTE, principalmente se o problema for em virtude de erros ocasionados pela CONTRATANTE e/ou seus prepostos, na elaboração do Levantamento e Mapeamento Detalhado da Situação Atual.?
+
+Depreende-se dos termos do contrato firmado entre as partes que a responsabilidade da empresa ré será afastada no caso de o retardamento no cumprimento do contrato decorrer de culpa da contratante. A contrario sensu, se o inadimplemento do contrato decorre de falha ou retardamento da contratada, a responsabilidade recai sobre a empresa ré.
+
+Há nos autos ata de reunião entre as partes (fls. 49/51), ocorrida em 25/02/2012, onde ficou registrado o que se segue, in verbis:
+
+?Como o foco principal da atividade da GoGeek é a venda através do site, nossa equipe de desenvolvimento quando do desenho da solução concentrou-se no desempenho e na performance de atuação/interação dos eventos entre o Site/AX/Fornecedor/Operador Logístico consumindo um tempo maior do que o previsto, o que acabou culminando em atraso e da não entrega do Projeto na data esperada (01/03/2010).?
+
+Além disso, na mesma ata está registrada a insatisfação do representante legal da autora pelo atraso na execução do projeto. Há, portanto, prova nos autos de que o contrato não foi executado a contento pela empresa ré. E referido documento confere verossimilhança à alegação de que o atraso na prestação dos serviços culminou na rescisão contratual. A troca de e-mails contida nos autos também demonstra que ambas as partes estavam cientes da rescisão do contrato em decorrência do atraso na entrega do projeto (fls. 52/68).
+
+Reconheço, pois, a responsabilidade da empresa ré pelo inadimplemento do Contrato de Prestação de Serviços n° 54/2009-B604/009-V0 (fls. 36/42), o que confere à parte autora o direito de rescindir a avença, nos termos do cláusula décima do contrato (fls. 41): ?Os descumprimentos, pelas partes contratantes, das obrigações que lhe são impostas por este contrato, facultarão à outra parte o direito de rescindir o presente instrumento particular.?
+
+Assim, de rigor a rescisão contratual e devolução dos valores pagos pela autora à empresa ré, com juros de mora de 1% ao mês a partir da citação e correção monetária a partir de cada desembolso, nos termos da Tabela Prática do Tribunal de Justiça do Estado de São Paulo. Os valores despendidos foram devidamente comprovados (fls. 43/48) e totalizam R$ 29.825,53 (vinte e nove mil, oitocentos e vinte e cinco reais e cinquenta e três centavos).
+
+Nesse sentido é a jurisprudência do Egrégio Tribunal de Justiça do Estado de São Paulo:
+
+?CONTRATO - Concessão de uso e implantação de software - Restituição de parcelas pagas, cumulada com indenização por danos materiais e morais ? Deserção ? Inocorrência - Taxa de remessa e retorno devidamente recolhida, conforme certificado pela serventia - Descumprimento do contrato pela demandada, que não conseguiu finalizar a implantação do software e migração do banco de dados - Situação bem evidenciada na avaliação realizada por consultoria contratada pela própria apelante - Necessidade de devolução dos valores pagos - Danos materiais e morais afastados Autora que deixou de comprovar a contratação de gerente para acompanhamento da implantação do projeto, bem como aquisição de equipamentos e pagamento de horas extras aos funcionários, em razão do novo sistema - Danos morais que não decorrem do simples descumprimento do contrato - Encargos da sucumbência consequentemente rateados - Recurso da ré acolhido em parte e desprovido o da autora.? (grifei)
+(TJ-SP. 9ª Câmara de Direito Privado. Apelação n. 9176092-93.2008.8.26.0000. Rel. Des. Galdino Toledo Júnior. J. em 05.06.2012)
+
+De mais a mais, o Código Civil dispõe em seu art. 389, que: ?Não cumprida a obrigação, responde o devedor por perdas e danos, mais juros e atualização monetária segundo índices oficiais regularmente estabelecidos, e honorários de advogado.?
+
+Portanto, entendo que também devem ser ressarcidos à autora os valores relativos às perdas e danos. Nos termos do art. 402 do Código Civil, as perdas e danos abrangem aquilo que o credor deixou razoavelmente de lucrar (lucros cessantes).
+
+Os lucros cessantes devem ser definidos com base em critérios razoáveis e objetivos, a fim de ressarcir o credor e não dar azo a enriquecimento sem causa. Desse modo, utilizo como parâmetro para definição dos lucros cessantes os valores, constantes nos autos (fls. 69/87), que demonstram o faturamento da empresa autora após o início do seu funcionamento, de 22/06/2010 até 31/10/2010 (131 dias), totalizando R$ 222.996,22 (duzentos e vinte e dois mil reais, novecentos e noventa e seis reais e vinte e dois centavos), o que gera uma média diária de faturamento de R$ 1.702,03 (mil, setecentos e dois reais e três centavos).
+
+Arbitro como termo inicial dos lucros cessantes a data de 01/03/2010, pois esta é a data em que o produto deveria ter sido entregue, com comprovação nos autos (fls. 50). As datas anteriores citadas na petição inicial são meras alegações sem comprovação documental. O termo final é o dia anterior ao início das operações da empresa, ou seja, 21/06/2010. Desse modo, houve um atraso de 113 dias no início das operações da empresa autora por culpa da empresa ré, devendo a autora ser ressarcida quanto aos lucros cessantes. Presume-se, pois, que o faturamento que a autora deixou de auferir em razão do atraso foi no patamar de R$ 192.329,39 (cento e noventa e dois mil reais, trezentos e vinte e nove reais e trinta e nove centavos). Esse valor é alcançado mediante a multiplicação da média diária de faturamento pelos dias de atraso. Como não há nos autos comprovação do lucro líquido da empresa, arbitro este lucro em 10% do faturamento e defino as perdas e danos (lucros cessantes) em R$ 19.232,94 (dezenove mil, duzentos e trinta e dois reais e noventa e quatro centavos). Sobre tais valores incidem juros de mora de 1% ao mês a partir da citação e correção monetária a partir do ajuizamento da ação, nos termos da Tabela Prática do Tribunal de Justiça do Estado de São Paulo.
+ 
+Entendo presentes os requisitos legais para a antecipação parcial dos efeitos da tutela jurisdicional (art. 273, Código de Processo Civil), pois há prova inequívoca dos valores pagos pela autora à ré (fls. 43/48) e do inadimplemento contratual (fls. 49/68).  Defiro a antecipação de tutela requerida na petição inicial (fls. 12), para o fim de determinar à ré que proceda ao imediato reembolso dos valores relativos aos pagamentos realizados em razão do contrato inadimplido (R$ 29.825,53), acrescido de juros de mora de 1% a partir da citação e correção monetária a partir de cada desembolso, nos termos da Tabela Prática do TJ/SP.
+
+Ante o exposto, com fundamento no art. 269, inciso I, do Código de Processo Civil, extingo o feito com resolução de mérito e JULGO PROCEDENTES os pedidos deduzidos na inicial, para:
+a) DECLARAR a rescisão do Contrato de Prestação de Serviços n° 54/2009-B604/009-V0 por culpa da empresa ré;
+b) CONDENAR a ré a devolver à autora o valor de R$ 29.825,53 (vinte e nove mil, oitocentos e vinte e cinco reais e cinquenta e três centavos), em razão do inadimplemento contratual, acrescido de juros de mora de 1% a partir da citação e correção monetária a partir de cada desembolso, nos termos da Tabela Prática do TJ/SP;
+c) CONDENAR a ré a indenizar a autor em perdas e danos (lucros cessantes), no patamar de R$ 19.232,94 (dezenove mil, duzentos e trinta e dois reais e noventa e quatro centavos), acrescido de juros de mora de 1% ao mês a partir da citação e correção monetária a partir do ajuizamento da ação, nos termos da Tabela Prática do TJ/SP.
+
+Condeno ainda a ré ao pagamento de custas, despesas processuais e honorários advocatícios, que fixo em 15% sobre o valor da condenação, nos termos do art. 20, § 3°, do Código de Processo Civil.
+
+P.R.I.C.
+
+
+
+São Paulo, 21 de novembro de 2012.
+
+
+RENAN PAES FELIX
+Juiz Substituto
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

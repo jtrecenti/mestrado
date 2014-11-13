@@ -1,0 +1,50 @@
+
+
+SENTENÇA
+
+Processo nº:4002313-09.2013.8.26.0001 - Procedimento Ordinário
+Requerente:Briza Industria e Comércio de Doces Ltda
+Requerido:Totvs S/A.
+
+
+
+Juiz(ª) de Direito Dr.(ª): Enéas Costa Garcia
+
+
+Vistos. 
+
+1. BRIZA INDÚSTRIA E COMÉRCIO DE DOCES LTDA., qualificada nos autos, ingressou com ação de cobrança contra TOTVS S/A, alegando, em síntese, que: a) contratou os serviços de informatização de sistemas da requerida; b) houve erro no sistema informatizado quanto ao registro de valores de notas e comunicações ao Fisco, sofrendo autuação ante a divergência de informações em seus documentos fiscais; c) pagou a multa oriunda da autuação, buscando ressarcimento junto à requerida, sem sucesso. 
+Pretende o acolhimento do pedido para condenação da ré ao pagamento da quantia de R$ 2.787,46, valor atualizado do pagamento realizado ao Fisco. 
+
+2. A ré foi citada (fls. 59) e apresentou contestação (fls. 60/65). Alega em defesa que: a) houve uma série de contatos entre as partes sobre o problema das incorreções apontadas, esclarecendo que não teve responsabilidade na emissão de dados e arquivos incorretos; b) a autora não atualizou a versão do sistema, conforme orientação da ré; c) o erro estava relacionado ao recebimento dos arquivos pelo órgão competente; d) a autora deixou de dar retorno a alguns chamados da ré, sendo por esse motivo, encerrados; e) todas as solicitações feitas pela autora foram prontamente atendidas pela ré; f) não houve culpa da ré pela multa aplicada à autora, inexistindo nexo de causalidade e não foi comprovado  o suposto inadimplemento do contrato. 
+
+3. Veio aos autos a réplica (fls. 161/176).
+É o relatório. 
+
+DECIDO.
+
+4. O feito comporta julgamento antecipado, sendo desnecessária a produção de outras provas, nos termos do art. 330, I do Código de Processo Civil.
+
+5. A ação é PROCEDENTE.
+Constata-se, especialmente pelo documento de fls. 25, que o sistema informatizado não funcionou com a segurança que dele se esperava, gerando documento fiscal incorreto, o que determinou a autuação suportada pela autora. 
+Sem razão a alegação da requerida visando atribuir responsabilidade à autora por falta de upgrade do sistema ou por não conclusão dos contatos. 
+Cabe ressaltar que a documentação juntada pela requerida, como prova de que certos contatos não teriam sido concluídos, é posterior à data do surgimento do problema e consequente autuação fiscal (31/05/2013 ? fls. 37/38), de modo que a falha do sistema já havia ocorrido e a conduta posterior da autora não tem relevância causal. 
+Independentemente de possíveis atualizações, inaceitável que o sistema pudesse emitir relatórios e documentos fiscais em descompasso com o admitido, gerando incorreção nas informações fiscais. 
+Assim, caracterizada a falha do serviço, incidindo a responsabilidade da requerida, que é a responsável pelo referido sistema de informática, causa do dano suportado pela autora. 
+O nexo causal é direto. O prejuízo, representado pelo pagamento da sanção fiscal, decorreu da falha na emissão dos documentos por parte do sistema mantido pela requerida. 
+Trata-se de dano oriundo do cumprimento imperfeito do contrato, verdadeira responsabilidade contratual, incidindo a correção monetária desde a propositura da ação e juros de mora desde a citação.
+
+6. Diante do exposto, JULGO PROCEDENTE o pedido para CONDENAR a requerida ao pagamento da quantia de R$ 2.698,42, com correção monetária desde a propositura da ação e juros de mora desde a citação.
+Condeno a parte requerida ao pagamento de custas, despesas processuais e honorários advocatícios, que arbitro em 10% do valor da condenação.  
+
+P. R. I
+
+
+   São Paulo, 20 de maio de 2014.
+
+
+
+ ENÉAS COSTA GARCIA
+        JUIZ DE DIREITO
+
+         (assinatura digital)

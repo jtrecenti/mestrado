@@ -1,0 +1,86 @@
+
+
+SENTENÇA
+
+Processo nº:0024887-87.2010.8.26.0005
+Classe - AssuntoProcedimento Ordinário - Fornecimento de Energia Elétrica
+Requerente:Eletropaulo Metropolitana
+Requerido:João Benedito de Moraes
+
+
+
+Juiz(a) de Direito: Dr(a). Paulo de Tarsso da Silva Pinto
+
+
+
+
+
+Vistos.
+
+
+
+
+ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S.A. ajuizou a presente ação de cobrança em face de JOÃO BENEDITO DE MORAES, aduzindo, em síntese, que é credora da quantia de R$ 132.037,75, advinda do consumo de energia elétrica. Sustenta que em 21 de junho de 2007 foi constatada a existência de um desvio de energia, por meio de ramal clandestino de uma fase (4º fio), que impedia a passagem de carga pelo medidor, ocasionando registro inferior ao da energia efetivamente consumida. Tal inspeção resultou na lavratura de um termo de ocorrência de irregularidade que retratou os elementos identificados, sendo referido ato acompanhado pelo réu que assinou o documento. Diante destes fatos, em análise do histórico de consumo e dados cadastrais, considerando o período de desvio, 21.12.04 a 21.06.07, apurou-se, mediante cálculo incidente sobre a 'carga derivada' a existência da diferença de 166.146,0 Kwh o que traduz, aplicada multa e correção, a quantia supra referida. Assim, requereu a procedência do pedido para que seja o réu condenado no pagamento do valor, devidamente atualizado, além das verbas da sucumbência. Com a inicial juntou documentos (fls. 16/55).
+O requerido foi devidamente citado e apresentou contestação. Sustenta que a concessionária não providenciou desconto dos valores desembolsados pelo requerido no período. Além disso, o maquinário que estava no local, uma furadeira, duas máquinas de solda e duas lâmpadas não seriam suficientes para justificar a quantia pretendida. Havia uma única tomada alimentada pelo cabo de energia desviado, sendo que o relógio já se encontrava no imóvel quando este foi adquirido pelo réu. Ainda que apurado crédito em favor da Eletropaulo,  não poderia ser no patamar apresentado na inicial. No mais, teceu considerações para postulara a improcedência do pedido. 
+O autor apresentou réplica às fls. (fls. 196/205).
+Saneado o feito foram fixados os pontos controvertidos e deferida a produção de prova documental (fls. 250).
+Às fls. 250,  novamente determinado que a Eletropaulo apresentasse os extratos de consumo consignados na decisão saneadora,  o que não ocorreu.
+As partes se manifestaram em forma de memoriais (fls. 298/299 e 303/311).
+Em apenso o requerido ajuizou ação cautelar incidental em face da Eletropaulo, afirmando, em síntese, que teve o fornecimento de energia elétrica suspenso em razão dos débitos discutidos na presente demanda. Requereu a religação imediata bem como a procedência do pedido. Deferido o pedido liminar (fls. 10 - apenso) a concessionária foi citada e apresentou contestação (fls. 11/15 - apenso). Sustenta a regularidade de sua conduta; e, requereu a improcedência do pedido. Após manifestação do autor, restou determinado que a instrução daqueles autos prosseguissem nos principais (fls. 27). 
+ESTE O RELATÓRIO.
+DECIDO.
+Cuida-se de ação por meio da qual pretende o autor lograr a condenação do requerido em valores apurados na lavratura de TOI, decorrente de constatação de irregularidade em aparelho medidor do requerido.
+De proêmio cumpre considerar a incontrovérsia a respeito do desvio de energia elétrica na unidade consumidora do autor, efetuado por meio de um ramal clandestino aparente que impedia a passagem de energia pelo medidor, ocasionando registro inferior ao efetivamente consumido.
+A controvérsia reside unicamente nos valores apresentados pela Eletropaulo, valores estes impugnados pelo requerido e que merecem redução.
+ Ao realizar inspeção no aparelho de medição do réu, a autora constatou irregularidade típica de procedimento fraudulento e solicitou o levantamento de carga por meio de relação dos aparelhos existentes no imóvel, descritos no extrato de fls. 29:
+- 3 lâmpadas, 250 wats;
+- 4 lâmpadas, 100 wats;
+- 2 serras, 988wats;
+- 1 furadeira, 386 wats;
+- 2 máquinas de solda. 
+.
+
+Frise-se que referida relação foi produzida pelos representantes da Eletropaulo que, no momento da lavratura, ingressaram no imóvel e constataram todos os aparelhos elétricos existentes para apuração de eventual carga desviada. 
+Nesse passo, sem dúvida que os parcos aparelhos encontrados não poderiam consumir a carga apresentada pela concessionária.
+Cumpre notar a parte autora não conseguiu demonstrar, como afirmado na inicial, que a unidade consumia energia nos parâmetros por ela indicados.
+Pese embora conferida oportunidade para a produção de provas, além daquelas trazidas com a inicial, quedou-se inerte neste particular a Eletropaulo, não demonstrando regularidade no procedimento de levantamento de carga adotado.
+Salta aos olhos, neste diapasão, a inequívoca realidade da infração perpetrada, percucientemente aferida, ensejando, como conseqüência, a incidência do procedimento adotado pela autora e gizado pela  Portaria n° 456 da ANAEEL - Agência Nacional de Energia Elétrica.
+Os valores, entretanto, não podem observar o cálculo de fls. 49/50, haja vista que a Resolução 456/00 impõe diversas formas de promoção da revisão do faturamento com base nas diferenças entre os valores efetivamente faturados e os apurados, nos termos do artigo 72, inciso IV:
+
+IV - proceder a revisão do faturamento com base nas diferenças entre os valores efetivamente faturados e os apurados por meio de um dos critérios descritos nas alíneas abaixo, sem prejuízo do disposto nos arts. 73, 74 e 90: 
+a) aplicação do fator de correção determinado a partir da avaliação técnica do erro de medição causado pelo emprego dos procedimentos irregulares apurados; 
+b) na impossibilidade do emprego do critério anterior, identificação do maior valor de consumo de energia elétrica e/ou demanda de potência ativas e reativas excedentes, ocorridos em até 12 (doze) ciclos completos de medição normal imediatamente anteriores ao início da irregularidade; e 
+c) no caso de inviabilidade de utilização de ambos os critérios, determinação dos consumos de energia elétrica e/ou das demandas de potência ativas e reativas excedentes por meio de estimativa, com base na carga instalada no momento da constatação da irregularidade, aplicando fatores de carga e de demanda obtidos a partir de outras unidades consumidoras com atividades similares. 
+§ 1º Se a unidade consumidora tiver característica de consumo sazonal e a irregularidade não distorceu esta característica, a utilização dos critérios de apuração dos valores básicos para efeito de revisão do faturamento deverá levar em consideração os aspectos da sazonalidade. 
+§ 2º Comprovado, pela concessionária ou consumidor, na forma do art. 78 e seus parágrafos, que o início da irregularidade ocorreu em período não atribuível ao atual responsável, a este somente serão faturadas as diferenças apuradas no período sob responsabilidade do mesmo, sem aplicação do disposto nos arts. 73, 74 e 90, exceto nos casos de sucessão comercial. 
+§ 3º Cópia do termo referido no inciso I deverá ser entregue ao consumidor no ato da sua emissão, preferencialmente mediante recibo do mesmo, ou, enviada pelo serviço postal com aviso de recebimento (AR). 
+§ 4º No caso referido no inciso II, quando não for possível a verificação no local da unidade consumidora, a concessionária deverá acondicionar o medidor e/ou demais equipamentos de medição em invólucro específico, a ser lacrado no ato da retirada, e encaminhar ao órgão responsável pela perícia.  
+
+A autora se utilizou do critério mencionado na alínea 'c', entretanto,  inexiste elementos sobre o desenvolvimento da atividade bem como sobre o tempo integral de funcionamento da empresa de modo a justificar a soma dos consumos dos aparelhos pelo prazo referido. Sem dúvida que não ficavam 24 horas por dia ligados. 
+Verificando os  históricos de consumo dos ciclos completos imediatamente anteriores, fls. 293, não se notam medições significativas: nos meses de agosto a novembro de 2004, registraram, respectivamente, 51, 197, 250, 227 kw.
+À Eletropaulo foi determinada na decisão saneadora a juntada de extrato dos 24 meses antecedentes até a presente data. Pese embora a reiteração às fls. 295, citando que a ausência seria interpretada em seu desfavor, manteve a concessionária sua inércia.
+Os documentos juntados pelo réu, fls. 104/109, demonstram a inexistência de elevação significativa de carga, mesmo após a regularização do medidor pela concessionária.
+Daí porque, a solução da controvérsia, mormente em se considerando o conjunto probatório trazido pela concessionária que sequer especificou, pormenorizadamente a forma em que entabulado o cálculo do período que se deu a diferença de consumo, considerada ainda a deficiência do conjunto probatório trazido à colação, passará necessariamente pela regra de juízo preconizada pelo art. 333 do Código de Processo Civil. 
+Com efeito, a produção probatória, no tempo e na forma prescrita em lei, é ônus da condição de parte. E a palavra ônus, derivada do latim onus, significa precisamente carga, fardo, gravame, traduzindo-se, no aspecto processual, pela circunstância de se tratar da prática de um ato que reverterá, via de regra, em benefício exclusivo daquele que o pratica, ou, eventualmente, e quase sempre, em prejuízo daquele que não o praticou ou o tenha praticado mal (cf. Arruda Alvim, 'Manual de Direito Processual Civil', RT, 6ª ed., pag. 327).
+Nesse passo, entendo que o valor da energia consumida no período apurado como de desvio deverá observar os parâmetros do parecer providenciado pela parte ré, às fls. 89/94, que bem evidencia a provável carga utilizada.
+Frise-se que, pese embora unilateral a produção, referido parecer bem especificou a potência dos aparelhos encontrados no local, fator de utilização e dias de trabalho, para concluir o consumo médio mensal.
+Todos estes elementos foram dispensados pela concessionária que se contentou com a simples menção da Resolução 456/2000 com o valor total apurado: R$ 70.406,27 (fls. 50). 
+Deste modo, não  logrou desincumbir-se a autora, adequadamente, de seu ônus probatório, sendo que deverá suportar as conseqüências negativas da deficiente formação do convencimento deste Juízo.
+Deste modo, entendo que a estimativa de consumo mensal de 1023,48 kwh se mostra razoável, devendo a diferença entre referido valor e o efetivamente quitado ser ressarcida pelo réu. 
+Com base na legislação de regência, por conseguinte, não há como afastar a multa guerreada, da ordem de 30%, o que se manifesta absolutamente razoável à vista da gravidade da infração, procedendo, igualmente, o que se revela de todo coerente, a cobrança pela energia havida e não paga, retroagindo aos meses da apuração da infração, a fim de constatar a integralidade do consumo, produto do qual subtraído o faturamento já levado a efeito.
+Como se vê, longe de se revelar de qualquer sorte abusiva ou ilegal, a conduta da autora, no que diz respeito à multa, encontra-se nitidamente balizada pelos preceitos legais pertinentes à espécie, descartando-se as críticas levadas a efeito na contestação, porquanto de todo desprovidas de qualquer embasamento técnico ou mesmo jurídico, apenas revelando o inconformismo do réu, surpreendido em sua conduta fraudulenta.
+  A média para cálculo da cobrança deverá utilizar o patamar referido, 1.023,48 kwh, para  todos os meses do período. O mesmo em relação às multas e encargos cobrados, repita-se, autorizados pela legislação vigente.
+Por fim, em relação à cautelar em apenso, como mencionada na decisão de fls. 10, cabalmente demonstrado o perigo de danos irreparáveis na suspensão do fornecimento de energia elétrica ao requerido, colocando em risco sua atividade, bem como a saúde e bem estar de seus familiares, haja vista que atualmente também reside no local. 
+Em relação à multa diária imposta, nos termos consignados no v. Acórdão de fls. 282/289, entendo ser caso de redução, de modo que passará ao montante consignado naquela r. decisão, R$ 200,00 ao dia e limitada a R$ 10.000,00.
+
+Por tudo o quanto exposto, JULGO PARCIALMENTE PROCEDENTE o pedido principal e PROCEDENTE o pedido cautelar para condenar o réu no pagamento da quantia a ser apurada em execução, referente ao consumo de energia elétrica do medidor citado na inicial, diferença que será apurada tendo como base o consumo mensal de 1.023,48 kwh, para o período de dezembro de 2004 a junho de 2007, acrescidos da multa e encargos mencionados nesta decisão, valor este corrigido e acrescido de juros legais a partir da citação, tornando definitiva a liminar concedida às fls. 10 dos autos em apenso, reduzida, entretanto, a cominação para R$ 200,00 por dia, limitada a R$ 10.000,00.
+
+Como decorrência da sucumbência, recíproca, as custas serão rateadas em partes iguais, sendo os honorários suportados pelos respectivos patronos, já considerada a ação cautelar em apenso. 
+
+O valor do preparo, na hipótese de recurso, terá como base de cálculo o montante de 30% do valor da causa.
+
+
+P.R.I.C.
+
+
+São Paulo, 10 de janeiro de 2012.

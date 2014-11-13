@@ -1,0 +1,67 @@
+
+
+SENTENÇA
+
+Processo nº:0107052-56.2008.8.26.0008 - Procedimento Ordinário
+Requerente:Consistec Controles e Sistemas de Automação Ltda
+Requerido:Tec- Tecnologia Em Calor Ltda
+
+Trata-se de ação ordinária entre as partes supra referidas, onde se alega e requer, no necessário, que: a ré comprou da autora produtos fabricados sob encomenda (termopares e cabos) no valor de R$ 96.950,00; 12 dos 18 itens adquiridos foram recebidos sem ressalva; a ré então solicitou, a pedido de cliente dela, a recalibração dos termopares, que deveriam ser enviados com certificado; a autora informou que a recalibração não estava prevista no contrato e importaria custo adicional; após a apresentação do orçamento, a ré cancelou o pedido, mas os produtos já haviam sido produzidos e não podiam ser aproveitados para outras finalidades, por serem específicos; a ré causou à autora dano material. Requer o pagamento do valor referente às mercadorias não recebidas (R$ 30.450,00).
+CONTESTAÇÃO a fls. 52/66, nos termos seguintes: foram recebidos 650 termopares e 2.700 cabos; quanto aos 300 termopares e 1200 cabos restantes, foi solicitada a alteração do cronograma de entrega, com anuência da autora;  a autora forneceu à cliente Sadia queimadores que fabricou com os produtos que adquiriu da autora, e a Sadia pediu esclarecimentos acerca da qualidade dos termopares, esclarecendo a ré que eram de boa procedência; foi exigido da ré documento comprobatório, e a autora exigiu pagamento pelo "certificado de calibração"; o preço exigido era excessivo (quase o valor do contrato); a autora se negou a atestar expressamente que os termopares fornecidos funcionam na faixa de temperatura indicada (não consta da nota fiscal); não se pode confundir calibração com aferição de calibração; os termopares adquiridos são do tipo "convencional" e não são especiais; não houve o prejuízo alegado; a autora pede ressarcimento até de ICMS e IPI que não recolheu; os produtos em questão não foram fabricados. Pede a improcedência da ação.
+RÉPLICA a fls. 110/114.
+Houve manifestação sobre provas.
+Juntadas fotografias dos produtos fabricados (fls. 110/120, a ré alegou serem de todo diversas daquelas referentes aos produtos já entregues, a indiciar a má-fé da autora (fls. 123/125).
+SANEADOR a fls. 126.
+Em AUDIÊNCIA (fls. 151/152), infrutífera a conciliação, foi determinada a realização de prova pericial.
+Noticiada a interposição de AGRAVO DE INSTRUMENTO pela parte autora (fls. 178 e s.), ao qual foi negado provimento (fls. 336/344).
+LAUDO PERICIAL a fls. 198 e s., com ESCLARECIMENTOS a fls. 362 e s. e fls. 456 e s. 
+Houve nova AUDIÊNCIA (fls. 498/500), onde foram ouvidos: o representante da autora (fls. 501/503); as testemunhas da autora ALEXANDRO (fls. 504/508) e PABLO (fls. 509/512); e as testemunhas da ré CARLOS ALBERTO (fls. 513/515) e  MARCIANO (fls. 516/518).
+Foram apresentados memoriais.
+É o relatório.
+FUNDAMENTO E DECIDO.
+
+Não há controvérsia acerca da existência de negócio entre as partes (compra e venda de termopares e cabos).
+Não se discute, igualmente, que após o recebimento de grande parcela do pedido feito (que foi paga regularmente), a ré se recusou ao recebimento e pagamento da parte remanescente do pedido (300 termopares e 1200 cabos).
+Resta saber se a recusa em questão foi justificada, e se causou à parte autora os prejuízos cuja reparação pretende.
+A ré afirma que a recusa e consequente desfazimento do negócio se deram por culpa da autora, que teria se recusado a fornecer documento em que constasse a faixa de operação dos termopares, o que teria sido exigido por cliente da ré, que dela iria adquirir produtos fabricados com os termopares em questão.
+A autora, por sua vez, afirma que jamais se recusou a fornecer qualquer documento. A ré teria solicitado documento específico (certificado de calibração), e esse serviço de calibração seria um serviço não incluído no pedido, de custo expressivo que a ré se recusou a pagar. A ré não pediu outro documento, que poderia ser fornecido gratuitamente, mas sim o certificado de calibração.
+Ora, parte ré também concorda que o "certificado de calibração" não constou do pedido original, foi feito posteriormente em razão de exigência de cliente da ré. É o que se verifica dos depoimentos das testemunhas da ré CARLOS ALBERTO e MARCIANO (fls. 513/515 e 516/518).
+Mais ainda, o documento de fls. 30 (mensagem eletrônica enviada pela ré) faz referência exclusivamente ao "certificado de calibração", e a testemunha da ré MARCIANO (fls. 516/518) admite tê-lo enviado. O mesmo termo é empregado pela ré nos documentos de fls. 29 e 23.
+Não há indício contundente de que a ré tenha pedido (ou a autora negado) documento outro, gratuito, que não o "certificado de calibração" (v. depoimento pessoal de fls. 501/503), o qual, como visto, não estava incluído no pedido original. E em se tratando de serviço de certificação à parte, não estava a autora obrigada de forma alguma a fornecê-lo graciosamente.
+Anoto, ainda no sentido de que o "certificado de calibração" foi o documento especificamente solicitado à autora, que a própria ré confessa em contestação que era também o "certificado de calibração", e não outro, o documento fornecido pela empresa contratada para fornecimento dos produtos após o desentendimento narrado (Ecil).
+Se o custo dos produtos ou certificação da Ecil (ou de outros fabricantes) era ou não menor do que o custo dos produtos ou certificação da autora não tem qualquer relevância (liberdade de contratação e fixação de preços), senão para indiciar que a causa real para a ruptura do contrato, por parte da ré, não foi qualquer negativa de fornecimento de documentos pela autora, mas sim o desejo da ré de adquirir os produtos de outro fornecedor, por preço mais barato. Até a testemunha da ré MARCIANO (fls. 516/518) depôs no sentido de que custo da certificação tornou o negócio inviável. 
+É de se mencionar, por oportuno, que se não foi avençado o fornecimento de "certificados de calibração" no pedido original, a afirmação de que a autora estaria a impor venda casada perde qualquer sentido. Não houve, pela autora, a imposição da contração de qualquer serviço/produto adicional com a venda dos termopares/cabos. A ré é que, apenas posteriormente, veio a solicitar os certificados em questão, que não foram negados. O que ocorreu é que a ré não concordou com o preço proposto (e a autora não estava obrigada a reduzi-lo, e menos ainda a trabalhar gratuitamente).
+Note-se que a ré admite em contestação que os produtos da autora são de boa qualidade, o que é atestado por sua testemunha CARLOS ALBERTO (fls. 513/515), que afirmou que a autora era antiga fornecedora da ré.
+O que se vê, portanto, é que a ré deu causa ao rompimento injustificado do contrato, valendo apontar que as exigências supostamente feitas por cliente da ré a ela (certificado de calibração) em nada influenciam o negócio discutido nos autos, que é exclusivamente entre a autora e a ré, irrelevantes para a primeira as tratativas da segunda com seus clientes.
+Estabelecido que a ré, exclusiva e unilateralmente, deu ensejo ao rompimento do contrato, sem causa justa, resta estabelecer ser a ré sofreu os DANOS ALEGADOS e se é cabida a INDENIZAÇÃO PERSEGUIDA.
+De plano, tem-se que não há qualquer indício de que a mercadoria não tenha sido fabricada, a implicar ausência de prejuízo da autora.
+O documento de fls. 89, que acompanhou a contestação, dá conta de que apenas em 27/12/2007 foi requerida a suspensão das entregas (e não da fabricação) das peças, e a resposta, já em 02/01/2008, é no sentido de que as peças já haviam sido fabricadas.
+O documento de fls. 31, ao contrário do pretendido, não inquina esta conclusão. Ali a autora informa, em resposta ao pedido de cancelamento feito pela ré, que duas das três entregas remanescentes estariam prontas e embaladas, e apenas uma última entrega estaria semi-pronta (e portanto em algum estágio de montagem).
+Isso em nada contradiz o documento de fls. 89, já que, haja vista tratar-se de produto feito sob encomenda, é razoável supor que mesmo que em etapa de pré-finalização (semi-pronta), como a última entrega remanescente, os componentes já estivessem montados de maneira que os tornasse impróprios a outro uso, ou já muito próximos da forma final. Daí, no entender do Juízo, é que decorre o uso do termo "fabricadas" empregado no documento de fls. 89.
+Anote-se, ainda, que o fato de ter sido prorrogado o prazo para entrega (a pedido da própria ré ? fls. 88) não significa que as peças não estivessem prontas. Significa apenas que seriam entregues posteriormente. E a pedido da própria ré.
+Também no sentido da efetiva fabricação do lote não recebido as oitivas de fls. 501/503 (depoimento pessoal do representante da autora), 504/508 (informante ALEXANDRO) e 509/512 (testemunha da autora PABLO).
+Não bastasse, o perito judicial afirmou que os equipamentos em questão foram produzidos e encontrados (fls. 206), fugindo de qualquer critério de razoabilidade supor que a autora os tivesse fabricado apenas para enganar o Juízo e seu perito, considerando até que o que se pretende na ação é apenas o recebimento valor pactuado para a venda das mercadorias. 
+Tem-se, portanto, que os produtos que a ré se recusou a receber foram mesmo fabricados.
+Superada a questão, temos que a alegação de que não houve prejuízo, pois a mercadoria é genérica e poderia ser revendida a terceiros não comporta acolhida.
+As conclusões periciais são no sentido de que as peças não são genéricas, mas sim foram produzidas tendo em vista as especificações da ré, sendo imprestáveis para revenda direta a terceiros. 
+Por outro lado, o perito afirma que o reaproveitamento dos componentes dos termopares, embora tecnicamente possível, é financeiramente inviável (fls. 217 e esclarecimentos periciais posteriores).
+As conclusões periciais hão de ser acatadas, ante sua consistência, ainda que pesem os esforços do assistente técnico da ré para sua reiterada impugnação.
+A par disso, há de se considerar que não se poderia, de qualquer forma, admitir o repasse à autora do custo do inadimplimento contratual injustificado da ré.
+É absurdo e beira a imoralidade pretender que a autora, tendo cumprido rigorosamente suas obrigações contratuais (fornecendo os cabos/termopares na forma contratada), e confrontada com o descumprimento, por parte da ré, das obrigações assumidas (mormente o pagamento), tenha ainda que empregar tempo e recursos seus seja na revenda, seja no reaproveitamento dos materiais fabricados, ainda que fossem possíveis ou factíveis. À ré é que incumbe a obrigação de pagar o que foi combinado, e não à autora o ônus de mitigar o prejuízo claramente sofrido.
+Se a revenda/reaproveitamento dos produtos encomendados e não pagos é tão simples como alega, poderá a própria ré, querendo, diligenciar o necessário nesse sentido, após o pagamento do preço e a retirada das mercadorias.
+As alegações da ré nesse sentido tem cunho praticamente reconvencional, na medida em que, sob o intuito de impugnar o prejuízo alegado, pretende afastar tal prejuízo impondo obrigações à própria autora (revenda, reaproveitamento), de resultado futuro e incerto.
+Tal não se admite, e o que releva é tão-somente isso: as mercadorias foram fabricadas, e a recusa da ré quanto ao recebimento e pagamento pactuado foi injustificada. As mercadorias estão em posse da autora, que não as vendeu ou reaproveitou, e mesmo por isso teve prejuízo de valor equivalente à venda não concretizada.
+E quem causa prejuízo deve indenizá-lo (CC ? arts. 186 e 927), de forma que a pretensão autoral merece guarida.
+O valor devido, que é aquele das mercadorias nem recebidas nem pagas (R$ 30.450,00), será acrescido de correção monetária desde a data do cancelamento do pedido (24/01/2008 ? fls. 30), e de juros de mora desde a citação.
+Para que não se cogite de enriquecimento sem causa da autora, a ré deverá retirar os produtos discutidos nos autos em até trinta dias após o pagamento, ficando a autora como depositária dos bens até então. O decurso do prazo ora estipulado sem a retirada dos produtos será interpretado como desinteresse da ré neles (sem que isso a exonere do pagamento), ficando deferido o descarte correspondente pela autora.
+Daí decorre também que a alegação de que a inclusão do IPI e do ICMS no valor pretendido é ilícita também não procede, haja vista que, para todos os efeitos, ter-se-á por concretizada a compra e venda pela tradição, e a indenização perseguida nada é senão o pagamento do preço inicialmente avençado, devidamente corrigido.
+Mais não há a decidir.
+Por força do exposto, JULGO PROCEDENTE a ação, para CONDENAR a ré ao PAGAMENTO de R$ 30.450,00, devendo a forma de retirada da mercadoria fabricada e a metodologia para cômputo de juros e correção monetária seguir a forma supra estabelecida.
+Por força da sucumbência, condeno a ré ao pagamento das custas e despesas processuais, além de honorários advocatícios que fixo em 20% do valor atualizado da condenação.
+Determino que materiais que eventualmente estejam ainda depositados no Cartório desta Vara para a realização da perícia sejam retirados pela parte depositante, no prazo de quinze dias.
+P.R.I.
+São Paulo, 7 de maio de 2013.
+
+
+Fábio Rogério Bojo Pellegrino
+              Juiz de Direito

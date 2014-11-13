@@ -1,0 +1,77 @@
+
+
+SENTENÇA
+
+Processo nº:1001717-39.2014.8.26.0002 - Procedimento Ordinário
+Requerente:ANTONIO FERREIRA
+Requerido:Telefonica do Brasil S/A / Vivo
+
+
+
+Juiz(a) de Direito: Dr(a). Paulo André Bueno de Camargo
+
+
+
+Vistos.
+
+
+ ANTONIO FERREIRA move ação cominatória de obrigação de fazer c.c danos morais em face de TELEFONICA DO BRASIL SA/VIVO, aduzindo que é titular da linha fixa (015) 3383-7231, senso o autor pessoa idosa (74 anos) e com saúde debilitada decorrente de mal de Parkinson, hipertensão arterial dentre outros males, além de residir distantes dos filhos, o que torna imprescindível o serviço telefônico. Ocorre que, em meados de 2011, a aludida linha passou a apresentar problema com o sinal, ficando inoperante boa parte do tempo, inclusive na vizinhança do autor. Diante da dificuldade de comunicação, passou a utilizar linha móvel para contatar seus familiares, valendo-se de ligações interurbanas, onerando seus rendimentos da aposentadoria percebida em pouco mais de um salário mínimo. Assim, em 2013, sob a orientação da própria requerida, solicitou o cancelamento da referida linha fixa e solicitou uma nova, esperando a solução do problema, todavia, o pedido não foi atendido, não havendo a instalação de nova linha fixa, mesmo após diversos pedidos feito por vizinhos e familiares. Em outubro/2013, o autor recebeu uma carta da ré informando da impossibilidade de instalação de uma linha da residência do mesmo, em razão da inexistência de cobertura para o serviço de telefonia fixa no local e que para a execução e instalação da linha em até 120 dias, foi elaborado um orçamento de R$ 24.319,26 a ser pago em parcela única. Por fim, em dezembro/2013 o  autor recebeu uma carta da requerida parabenizando-o pela aquisição de uma linha telefônica (15 ? 3283.1973) em 30/11/2013 e junto a carta uma fatura de R$ 114,46 (vencimento em 23/12/2013) da instalação, contudo não foi instalada a referida linha. Pretende com esta demanda, liminarmente, a devida instalação de linha fixa, valendo-se da portabilidade do seu número antigo, em razão do longo tempo com tal número. Pleiteia pagamento de indenização por danos morais (R$ 13.560,00), bem como com despesas advocatícias (R$ 1.000,00), sem prejuízo de condenação em 20% de custas e honorários advocatícios.
+
+Indeferido o pedido liminar em sua plenitude, pois envolve o julgamento do mérito, entretanto, foi determinado que a requerida designasse um técnico para a residência do autor, e que este informasse sobre a real possibilidade de instalação de uma linha telefônica fixa em sua residência e, da possibilidade de portabilidade do seu número antigo (15) 3383-7231, no prazo de 30 dias, sob pena de multa diária (fl.71).
+
+Concedido os benefícios de gratuidade e prioridade processual (fl.72).
+ 
+Citada, a requerida contestou o pedido (fls. 87/106) e pugnou pela sua improcedência. Preambularmente, esclarece que a empresa Ré fornecia ao autor os serviços de Telefonia fixa Comutada sem fio, por meio da Tecnologia denominada  WLL(Wireless Local Loop) ou acesso remoto sem fio, no qual um equipamento de rádio é ligado ao aparelho telefônico do assinante. Neste caso especifico a empresa Ré utiliza-se das faixas de radiofrequência contidas na resolução 453/2006 da Anatel. Tal normativa previu a extinção da concessão dos recursos utilizados para a prestação do serviço em questão para o dia 31 de Dezembro de 2011. Diante da complexidade envolvida e visando minimizar os impactos causados aos assinantes que utilizam tal tecnologia, a empresa Ré, conseguiu junto a ANATEL a prorrogação da utilização das faixas de radiofrequência até o final da concessão para 31 de Dezembro de 2013. Assim, a empresa Ré, gradativamente, vem alterando a Tecnologia de fornecimento dos serviços aos clientes que ainda se utilizam do  ? WLL? , uma vez que será necessário cumprir o prazo previsto no o oficio 224/2011. Desta forma, a ré está impossibilitada de continuar a fornecer seus serviços por meio da tecnologia  WLL, e para continuação dos serviços aos clientes, está migrando os terminais que utilizam tais serviços para uma nova tecnologia denominada FWT/GSM (Global System for Mobile).  Especificamente no caso em questão, por tratar de terminal instalado fora da área de tarifação básica, necessário a avaliação técnica a fim de determinar se com a nova tecnologia utilizada será possível fornecer os serviços ao cliente sem que haja os custos inicialmente evitados.  Ainda, caso seja possível fornecer os serviços, em razão da necessária alteração de tecnologia é impossível proceder a instalação da nova linha telefônica mantendo o mesmo código de acesso (número) anteriormente utilizado, porém poderá o cliente, por meio de portabilidade solicitar que seu antigo número seja transferido ao seu novo terminal após a instalação. No mérito, ressalta que possui equipes técnicas altamente especializadas e por minuciosas verificações detectam eventuais fraudes ou falhas no sistema. Assim, após reclamações do autor, não foi constatada nenhuma irregularidade na prestação do serviço, razão pela qual os débitos foram regularmente mantidos. Ademais, assevera que o novo terminal foi cancelado por falta de pagamento. Refuta os pleitos de indenização por gastos com advogado, em razão da sucumbência, bem como por danos morais, posto que o autor passou por aborrecimentos que não autorizam a indenização neste sentido. 
+
+Réplica (fls. 134/155).
+
+Determinada a especificação de provas (fl.157), pugnaram as partes pelo julgamento antecipado do feito (fls. 159/169).
+
+Vieram documentos.
+
+É o relatório.
+
+D E C I D O.
+
+O caso comporta julgamento antecipado da lide, nos termos do art. 330, inc. I, do Código de Processo Civil, uma vez que os documentos apresentados são suficientes para compreensão da matéria de fato debatida, prescindindo-se de dilação probatória.
+
+Alega o autor que seu telefone fixo passou a apresentar problema de sinal desde o ano de 2011, persistindo a problemática até o ano de 2013, mesmo seguindo a orientação da ré de cancelamento da antiga linha e aquisição de outra, tendo que recorrer a linha móvel. 
+
+A requerida sustenta que houve entraves técnicos para o regular fornecimento do serviço, em razão da necessária alteração de tecnologia, inclusive da impossibilidade de proceder a instalação da nova linha telefônica mantendo o mesmo código de acesso (número) anteriormente utilizado, mas que, após a instalação do novo terminal, poderá ser feita a portabilidade. Ressalta que não foi verificada qualquer irregularidade na prestação dos serviços e que os débitos constantes em nome do autor são devidos. 
+
+Em que pese a explicação técnica no preâmbulo da contestação, da mudança de tecnologia necessária para a manutenção do serviço e o consequente custo, não prosperam tais argumentos. A contestação da ré pautou-se por sustentações genéricas de que procede ao efetivo atendimento das solicitações dos consumidores e que não verificou problemas na aludida linha telefônica, contudo não aportou qualquer documento que ratifique tal assertiva.
+
+Com efeito, não pode o autor suportar prejuízos de ficar sem a regular prestação de serviço essencial ou arcar onerosamente com custas decorrentes de obrigações pertinentes a operadora de telefonia, seja qual for a motivação. 
+
+Desta forma, causa estranheza que, sob alegação de entraves técnicos, o problema se arrastou pelo considerável período de 2011 a 2013, sem qualquer perspectiva de solução, sendo que, após intervenção judicial, a requerida instalou a linha nova e procedeu a portabilidade mantendo o mesmo código de acesso (número anteriormente utilizado). 
+
+À evidência que o autor sofreu prejuízos decorrentes da falha na prestação do serviço, durante considerável período, tendo que recorrer a medida judicial, quando o fato do restabelecimento do serviço não despendia de dificuldades técnicas relevantes frente a uma empresa do porte técnico da ré que se mostrou deficitário na solução do problema. 
+
+Quanto ao valor de indenização pelo dano moral decorrente da má prestação do serviço, para atender às suas finalidades compensatória e pedagógica, e para não configurar sanção excessiva ou enriquecimento injustificado, tem-se o precedente do Superior Tribunal de Justiça:
+
+
+?O dano moral deve ser indenizado mediante a consideração das condições pessoais do ofendido e do ofensor, da intensidade do dolo ou grau de culpa e da gravidade dos efeitos a fim de que o resultado não seja insignificante, a estimular a prática do ato ilícito, nem o enriquecimento indevido da vítima? (STJ, 4ª Turma, Rel. Ministro Ruy Rosado Aguiar, Resp. n° 207.926/PR, DJ 08/03/2000).
+
+
+Assim, levando em conta as circunstâncias do caso concreto fixo em R$ 10.000,00, que se mostra proporcional ao evento danoso.
+
+Observo que, o autor alega ter adquirido a linha telefônica em 2007, tendo os problemas iniciado a partir de 2011, contudo não especificou o mês que ocorreu total suspensão do serviço. Tão somente afirmou genericamente, que no inicio de 2013 (fl.04) e no decorrer do referido ano, solicitou, sem êxito, a instalação de nova linha. Desta forma, a contagem para incidência de juros de mora de 1% ao mês a partir do evento danoso será fixada a partir de janeiro/2013.
+
+Não merece acolhimento, todavia, o pleito do autor de perdas e danos pela contratação de advogado, visto que a legislação já prevê a condenação do vencido na ação ao pagamento de honorários advocatícios (art. 20 do CPC), daí porque essa condenação configuraria um bis in idem.
+
+
+Posto isso, JULGO PARCIALMENTE PROCEDENTE o pedido (CPC, art. 269, I) condenar a ré ao pagamento da quantia de R$ 10.000,00 (três mil reais), a título de danos morais, atualizados a partir da publicação desta sentença, observando-se a Tabela Prática do Tribunal de Justiça de São Paulo. Incidirão juros de mora de 1% ao mês a partir do evento danoso (janeiro/2013).
+
+A ré arcará com as despesas processuais, incluídos honorários advocatícios que fixo em 10% sobre o valor da condenação atualizado.
+
+Para interposição de eventual recurso, o valor deverá corresponder a 2% (dois por cento) sobre o valor da condenação, se houver ou da causa (do principal) atualizado, e deverá ser recolhido à título de porte de remessa e retorno dos autos o valor de R$ 29,50 por volume, observando-se o disposto na Lei 11.608/03.
+
+Transitada em julgado, certifique-se. Nada sendo requerido nos termos do art. 475-B do CPC, arquivem-se. 
+
+P.R.I
+               
+São Paulo, 28 de abril de 2014.
+
+
+PAULO ANDRÉ BUENO DE CAMARGO
+       JUZ DE DIREITO

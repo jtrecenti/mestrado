@@ -1,0 +1,51 @@
+
+
+SENTENÇA
+
+Processo nº:0109669-64.2009.8.26.0004
+Classe - AssuntoProcedimento Ordinário - Obrigações
+Requerente:Itaú Xl Seguros Corporativos S/A
+Requerido:Johnson Controls Company
+
+Juiz(a) de Direito: Dr(a). Renato Guanaes Simões Thomsen
+Vistos.
+Itaú Xl Seguros Corporativos S/A ajuizou a presente ação indenizatória em face de Johnson Controls Company.
+Alega, em suma que, a ré firmou contrato de prestação de serviços com a sua segurada consistente na manutenção preventiva no sistema de ar condicionado. Porém, por falta de acompanhamento adequado dos equipamentos, os sistemas elétricos e hidráulicos foram comprometidos por uma infiltração de água, gerando danos ao equipamento, os quais foram indenizados pela autora,  em razão do seguro, no valor de R$151.346,40. 
+Subrogando-se nos direitos da segurada, requer a condenação da ré no pagamento do valor correspondente à indenização do seguro. Juntou documentos (fls. 10/100).
+Citada, a ré ofereceu contestação (fls. 110/123) alegando, em suma que: (i) de fato mantinha contrato de prestação de serviços com a segurada da autora. No entanto, ele não compreendia todo o sistema de ar condicionado central, mas certos componentes do equipamento, e previa apenas a manutenção mensal; (ii) a manutenção do aparelho de ar condicionado foi prestada de forma adequada, como se extrai do relatório de serviços assinado pelo responsável pela administração do condomínio, dois dias antes do sinistro (fls. 97/98); (iii) o sinistro foi ocasionado por uma falha de software do equipamento do "Chiller", que não desligou o equipamento e não disparou o alarme quando seria esperado. A empresa responsável pela verificação diária do equipamento é "Álamo Engenharia" e a ré havia realizado verificação no sistema de acordo com a periodicidade convencionada no contrato; (iv) a ré não desamparou a autora em nenhum momento e, por isso, não pode ser responsabilizada como pretende a inicial, pois não houve contratação de serviço contínuo de monitoramento, mas apenas mensal. Ademais, quem deve responder pelo dano é o fabricante do software. Ao final, requer a exibição do contrato firmado entre a segurada e a empresa "Álamo" e a improcedência da demanda. Juntou documentos e pugnou pela improcedência (fls. 124/159).
+Sobreveio réplica (fls. 164/167).
+As partes foram instadas a especificar provas (fls. 168), mas apenas a ré manifestou interesse na produção de prova pericial e testemunhal (fls. 173/175).
+Frustrada a conciliação em audiência (fls. 182), o feito foi saneado (fls. 186).
+No curso da instrução foi realizada prova pericial, após apresentação de quesitos e nomeação de assistentes técnicos (fls. 199/200, 202/205,  220/221 e 239/240).
+O laudo pericial foi juntado a fls. 243/367. 
+As partes se manifestaram em seguida (fls. 377/406 e 408/414).
+O perito apresentou reposta a quesitos suplementares e manifestação sobre os pareceres técnicos juntados (fls. 422/434) e as partes novamente se manifestaram (fls. 444//445 e 447/453).
+É o relatório. Decido.
+Colhida a prova pericial determinada pela decisão saneadora e sendo desnecessária a colheita de outras provas, a lide passa a ser julgada neste momento.
+Por isso, fica indeferida a solicitação de exibição de documento (instrumento do contrato mencionado no item 4 de fls. 444, em reiteração a pedidos anteriores), diante do disposto no artigo 130 do CPC, para que assim se consiga velar, o quanto possível, pela rápida solução do litígio (artigo 125, II, do CPC).
+Em razão da garantia constitucional da razoável duração do processo e da celeridade de sua tramitação (artigo 5º, LXXVIII da CF/88), e também considerando o grande volume de feitos em andamento neste juízo, que também requerem a observância do mesmo princípio, a controvérsia será decidida de maneira sucinta, expondo-se fundamentos jurídicos aplicáveis ao caso, que prevalecerão ? expressa ou implicitamente ? às teses contrárias expostas pelas partes em suas manifestações. 
+?É entendimento assente de nossa jurisprudência que o órgão judicial, para expressar a sua convicção, não precisa aduzir comentários sobre todos os argumentos levantados pelas partes. Sua fundamentação pode ser sucinta, pronunciando-se acerca do motivo que, por si só, achou suficiente para a composição do litígio? (STJ-1ª Turma, AI 169.073-SP, AgRg., rel. Min. José Delgado, j. 4.6.98,  negaram provimento, v.u., DJU 17.8.98, p. 44 ? precedente citado por Theotônio Negrão e José Roberto F Gouvea em Código de Processo Civil e Legislação Processual Civil em vigor, Saraiva, 30ª Ed., p. 566).
+Sem preliminares, passa-se à análise do mérito.
+O pedido inicial improcede, pelos fundamentos que seguem.
+Tome-se como premissa que o contrato celebrado entre a ré e a segurada da autora não previa manutenção presencial e diuturna do equipamento, mas sim, a manutenção mensal, a ser cumprida em horário comercial de dias úteis, por meio de técnicos especializados em serviços de inspeção e manutenção dos sistemas de refrigeração e ar condicionado central (fls. 71/ 72, item 4.1), além do atendimento de chamadas de emergências (fls. 77).
+Isso foi constatado pelo perito em suas primeiras conclusões, após análise detida a aprofundada do caso (fls. 309).
+Como se percebe do contrato, não havia previsão contratual para a designação de operador de plantão e permanente, com a atribuição específica de monitorar o funcionamento do sistema e, no caso de defeito, realizar o respectivo conserto de forma imediata.
+Isso confirma a informação, apurada pelo perito, de que o operador que permanecia, 24 horas por dia, na sala de operação do sistema supervisório, tinha outras funções, que não a manutenção preventiva nos equipamentos.
+Portanto, não se pode afirmar falha do serviço em razão de negligência ou desatenção do funcionário que permanecia na citada sala, pois não havia obrigação contratual de que ele prestasse manutenção permanente no sistema.
+Além do mais, o perito também destacou que a ré encaminhou técnicos ao local quando comunicada do sinistro (fls. 309, item 1), cumprindo, assim, uma das prestações a que se obrigou pelo contrato.
+Disso é possível concluir que, se o funcionário que permanecia na sala do sistema supervisório, tivesse a função e a  incumbência de realizar a manutenção permanente, seria ele o técnico chamado para verificar o ocorrido.
+Seja como for, a despeito da observação feita pelo perito ao final do quesito nº 3 de fls. 310, do contrato não é possível extrair obrigação, a cargo da ré, de realizar monitoramento permanente e diuturno, durante 24 horas por dia, e mediante a designação de funcionário exclusivo para esse fim..
+Sendo assim, não houve falha do serviço sob o prisma ora analisado, pois, repita-se, não havia obrigação, imputável à ré, de monitorar o sistema da sala de computador. Por isso, a resposta ao quesito nº 5 de fls. 316 não caracteriza falha do serviço.
+Por outro lado, como apurou a perícia, o Chiller não apresentava defeito de fabricação, pois funcionava desde o ano 2.000, mas o sinistro ocorreu mais ou menos sete anos depois, em razão de "problema relacionado a falhas inerentes da obsolescência de seus componentes" (fls. 322/323), no caso, o microprocessador e o software internos (fls. 324).
+Em razão da própria natureza do defeito, não é possível considerar que a última visita de manutenção mensal tenha sido defeituosa, por absoluta falta de nexo de causa.
+É possível concluir, então, que o componente apresentou defeito em função do tempo de uso ininterrupto e porque não teria duração eterna.
+ Aliás, no curso da demanda sequer se cogita de duração ilimitada das peças que apresentaram defeito e isso sequer poderia ser afirmado, em função da observação das regras de experiência.
+Ademais, como se disse, não havia obrigação contratual, a cargo da ré, de prestar monitoramento e assistência sob o regime de plantão, 24 horas por dia, para o equipamento em questão, diante do que consta do instrumento do "Contrato de Prestação de Serviços de Manutenção Preventiva e Preditiva" celebrado entre a ré e o segurado da autora, Condomínio World Trade Center de São Paulo, (fls. 69/78), o qual torna desnecessária a exibição de documento requerida pela autora (fls. 444).
+Aliás, o próprio assistente técnico da autora manifestou que "não houve problema de manutenção preventiva" e,  no pressuposto de haver obrigação de monitoramento permanente, concluir por falha nesse aspecto (fls. 409, penúltimo parágrafo).
+No entanto, o contrato não previa esse tipo de serviço, o que afasta a responsabilidade civil da ré, por força do artigo 14, §3º, I, do CDC.
+Isto posto, JULGO IMPROCEDENTE o pedido inicial.
+Sucumbente, arcará a autora com o pagamento das custas e despesas processuais, além de honorários periciais e honorários advocatícios, estes arbitrados em 10% do valor atualizado da causa (artigo 20, §4º, do CPC).
+Com a publicação da presente, ficam as partes cientes de que o prazo a que alude o artigo 475-J, caput, do CPC passará a fluir automaticamente a partir do trânsito em julgado desta sentença, independentemente de nova intimação.
+Caso esse prazo decorra in albis, para promover a execução deverá a credora apresentar cálculo atualizado do débito e indicar bens penhoráveis, em quinze dias, independentemente de nova intimação. No silêncio, cumpra-se o disposto no artigo 475-J, §5º do CPC, aguardando-se provocação no arquivo.
+P.R.I.
+São Paulo, 07 de fevereiro de 2013.

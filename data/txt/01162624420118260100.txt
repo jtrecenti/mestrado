@@ -1,0 +1,89 @@
+
+
+SENTENÇA
+
+Processo nº:0116262-44.2011.8.26.0100
+Classe ? Assunto:Procedimento Ordinário - Fornecimento de Energia Elétrica 
+Requerente:Maritima Seguros S/A
+Requerido:Aes Eletropaulo-metropolitana Eletricidade de São Paulo S/A
+
+
+Juiz(a) de Direito: Dr(a). Maria Fernanda Belli
+
+
+
+
+
+
+
+
+VISTOS.
+
+
+
+
+MARITIMA SEGUROS S/A, pessoa jurídica qualificada nos autos, ajuizou ação sob o rito ordinário contra ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S/A, pessoa jurídica qualificada, visando o ressarcimento da indenização paga por força do contrato de seguro celebrado com Condomínio Edifício Villa de Espanha, apólice n.º 10.056460. Aduz que, em 10 de novembro de 2009, por volta das 22hs, cerca de dezoito estados brasileiros foram surpreendidos com blecaute de energia, por interrupção no fornecimento do serviço prestado pela ré, cujo restabelecimento, ocorrido cerca de seis horas depois, resultou em forte sobrecarga elétrica e, consequentemente, danificou equipamentos elétricos do condomínio segurado., descritos na inicial. Afirma que a ré negou o ressarcimento dos danos ao segurado, razão pela qual este providenciou o conserto dos equipamentos. Assim, pretende reaver a indenização paga ao segurado, já descontado o valor da franquia, em face da responsabilidade objetiva da requerida.
+A petição inicial veio instruída com procuração e documentos (fls. 09/74). 
+
+Citada (fls. 87), a requerida ofereceu contestação a fls. 84/110, alegando, preliminarmente, carência de ação, por ilegitimidade passiva. No mérito, sustentou, em resumo, a ausência de responsabilidade civil da concessionária, pela caracterização da excludente de culpa exclusiva de terceiro. Discorreu também sobre caso fortuito e força maior e afirmou que não há prova dos danos materiais efetivamente suportados. 
+
+Réplica a fls. 115/124. 
+
+Decisão saneadora a fls. 126/127. 
+
+A ré noticiou a interposição de agravo de instrumento a fls. 133/160. 
+
+Laudo pericial a fls. 178/206, sobre o qual as partes se pronunciaram a fls. 213/218 e 219. 
+
+A ré interpôs agravo de instrumento contra a decisão que arbitrou os honorários periciais definitivos, ao qual foi dado provimento. 
+
+Esclarecimentos periciais a fls. 268/271. 
+
+
+É o relatório.
+DECIDO. 
+
+
+Sem matéria preliminar a apreciar, à luz da decisão que saneou o feito, passo ao exame do mérito. 
+
+O pedido é procedente. O artigo 37, § 6o, da Carta Magna transformou em objetiva a responsabilidade civil do Estado, fundada no risco administrativo, estendendo-a às pessoas jurídicas de direito privado prestadoras de serviços públicos.
+
+Cumpre ressaltar que, segundo definição de Hely Lopes Meirelles, serviço público é todo aquele prestado pela administração ou por seus delegados, sob normas e controles estatais, para satisfazer necessidades essenciais ou secundárias da coletividade ou simples conveniências do Estado.
+
+Por sua vez, na classificação dos serviços públicos, emergem aqueles serviços ditos impróprios do Estado, que, conforme o jurista acima citado, são os que não afetam substancialmente as necessidades da comunidade, mas satisfazem interesses comuns de seus membros, e, por isso, a administração os presta, remuneradamente, por seus órgãos ou entidades descentralizadas (autarquias, empresas públicas, sociedades de economia mista, fundações governamentais), ou delega sua prestação a concessionários, permissionários ou autorizatários.
+
+Dessa forma, a ré, pessoa jurídica de direito privado, prestadora de serviço público, mediante concessão da Administração, deve responder pelos danos causados a terceiros, incidindo, na hipótese, a denominada responsabilidade objetiva.
+
+Com efeito, não se pode olvidar que a Constituição Federal, ao estatuir no artigo 37, § 6º, a responsabilidade objetiva da pessoa jurídica de direito privado, prestadora de serviços públicos, buscou definir, de maneira ampla, o dever de não causar ou evitar o dano a terceiros.  Assim, apenas a demonstração do nexo de causalidade entre o descumprimento do dever jurídico e o dano ocorrido, sem se indagar sobre o elemento culpa, em sentido lato, determina a obrigação de reparar.
+
+Nesse sentido, no escólio de RUI STOCO, ?a concessionária dos serviços públicos de geração ou distribuição de energia elétrica responde, objetivamente, sem indagação de culpa ou sua mera presunção, nos limites da teoria do risco administrativo? (Responsabilidade Civil, 4a. ed., pg. 611). Igualmente, anota YUSSEF CAHALI, ?a responsabilidade objetiva das empresas concessionárias de energia elétrica em face da regra constitucional do art. 37, § 6º? (Responsabilidade Civil do Estado, 2a ed., pg. 153).
+
+Portanto, a responsabilidade objetiva, in casu, assenta-se na inobservância de um dever jurídico imposto em função da atividade desenvolvida, excludentes de sua ocorrência somente o caso fortuito e a força maior, quando cabalmente demonstrados.
+
+Por conseguinte, a concessionária dos serviços públicos de geração e distribuição de energia elétrica, que se descurou de bem fiscalizar e manter sua rede de transmissão, responde pelos danos daí decorrentes, ainda mais como na hipótese em que, de forma cabal e inequívoca, o consumidor do serviço não deu causa ao acidente.
+
+A natureza e a extensão dos danos suportados pelo segurado da autora ficaram demonstradas pelo laudo pericial. De fato, não resta dúvida de que os componentes elétricos dos elevadores dos segurados forma afetados por descarga elétrica, como mencionado na decisão saneadora. 
+
+Como ressaltou o expert, a simples interrupção no fornecimento de energia elétrica não é suficiente para ocasionar os danos aos equipamentos; contudo, no caso vertente, apurou o perito que os danos ocorreram em virtude de picos de tensão, quando do restabelecimento do serviço, ou seja, pelo aumento instantâneo da tensão pelo retorno da energia. Conforme atestou o perito, ?o aumento de corrente provocado pelo pico de energia, quando do retorno da energia, gera, no circuito elétrico, um superaquecimento, com a consequente queima de seus componentes, quando neste circuito não são instalados equipamentos de proteção? (resposta ao quesito 4.16 da ré, fls. 185). 
+
+Houve, portanto, comprovação do nexo de causalidade entre o abrupto restabelecimento do serviço e os danos apresentados pelos equipamentos. Não obstante, quando o fornecimento de energia é restaurado pela concessionária, a sobrecarga que atinge os eletrodomésticos e eletrônicos e os danifica não pode ser considerada causada por força maior, caso fortuito, culpa da vítima ou de terceiros, ao contrário, trata-se de evento previsível. 
+
+Sobre o tema, confira-se:
+
+?Ação de indenização. Preliminar de cerceamento de defesa rejeitada. Danos materiais decorrentes de descarga atmosférica (queda de raio). Relação de consumo. Responsabilidade objetiva da empresa prestadora dos serviços de energia. Não configuração de caso fortuito. Falha na prestação de serviço. Indenização devida. Recurso parcialmente provido? (TJ/SP - Ap. s/ Rev. nº 0076673-30.2006.8.26.0000 - 28ª Câm. Dir. Privado - Rel. Des. Mello Pinto - J. 09.08.2011, v.u.).
+
+?Prestação de serviços - Energia elétrica Ação de reparação de danos - Oscilação de voltagem gerada por apagão elétrico ocorrido em novembro de 2009 - Danos e nexo causal demonstrados. Responsabilidade objetiva da concessionária. Excludentes da relação de causalidade inexistentes. Dever de indenizar reconhecido. As concessionárias de serviço público respondem objetivamente pelos danos causados aos seus usuários, independentemente de culpa, bastando para a sua configuração a comprovação do dano e do nexo de causalidade, a teor do artigo 37, parágrafo 6º, da Constituição Federal, assim como do artigo 14 do Código de Defesa do Consumidor - Para se eximir da obrigação de indenizar, a prestadora de serviços deveria ter demonstrado a ocorrência de alguma das excludentes da relação de causalidade, como a culpa exclusiva dos consumidores ou a configuração de caso fortuito ou força maior no infortúnio havido, mas nenhum desses elementos restou comprovado nos autos, donde exsurge o dever reparatório da requerida. Danos materiais bem fixados - Sentença mantida - Recurso desprovido? (TJSP, Apelação n.º 9001847-69.2010.8.26.0506, 28ª Câmara de Direito Privado, rel. Cesar Lacerda, data do julgamento 18.09.2012). 
+
+Impõe-se, por outro lado, o acolhimento do valor pleiteado na inicial, correspondente à indenização paga pela autora ao condomínio segurado, tratando-se de ação de regresso, como demonstrado a fls. 58/59, ou seja, R$ 90.194,34 (noventa mil, cento e noventa e quatro reais e trinta e quatro centavos). 
+
+Pelo exposto, JULGO PROCEDENTE O PEDIDO, declaro extinto o processo com resolução de mérito, com fulcro no artigo 269, inciso I, do CPC, e condeno a ré a pagar à autora a importância de R$ 90.194,34 (noventa mil, cento e noventa e quatro reais e trinta e quatro centavos), quantia que será corrigida monetariamente desde o ajuizamento pela tabela prática do Tribunal de Justiça, com incidência de juros de mora, de 1% ao mês, a partir da citação.
+
+Sucumbente, arcará a ré com o pagamento das custas e despesas processuais, bem como com os honorários advocatícios da parte contrária, que arbitro em 10% sobre o valor da condenação.
+
+P.R.I.
+
+
+São Paulo, 09 de janeiro de 2013. 
+
+MARIA FERNANDA BELLI
+     Juíza de Direito

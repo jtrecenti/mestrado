@@ -1,0 +1,107 @@
+
+
+SENTENÇA
+
+Processo nº:4000356-70.2013.8.26.0001 - Procedimento Ordinário
+Requerente:Walter Veríssimo Teixeira e outro
+Requerido:Incorporadora e Construtora Terral Atlântica SP Ltda.
+
+
+Juiz(ª) de Direito Dr.(ª): Enéas Costa Garcia
+
+Vistos. 
+
+1. WALTER VERÍSSIMO TEIXEIRA e MARIA DO ROSÁRIO CASTANHEIRA, qualificados nos autos, ingressaram com ação contra INCORPORADORA E CONSTRUTORA TERRAL ATLÂNTICA SP LTDA., alegando, em síntese que: a) em abril/2010 firmaram com a requerida contrato de promessa de compra e venda de um apartamento, com duas garagens e depósito privativo, pelo preço de R$ 200.000,00; b) ficou ajustada entrega do imóvel em novembro/2012; b) em novembro/2012 quitaram o débito, contudo até a presente data não foi entregue o imóvel; c) apesar da cláusula que prevê 180 dias de tolerância, já decorreram dez meses de atraso; d) foram obrigados ao pagamento de suposta assessoria técnico imobiliária (SATI) pelo valor de R$ 1.600,00, como condição prévia para assinatura do contrato, bem como despesas de corretagem, verbas que não seriam devidas. 
+Pretendem o acolhimento do pedido para declaração de nulidade da cláusula de tolerância de 180 dias, indenização por danos morais e materiais, lucros cessantes e devolução em dobro da taxa SAT e comissão de corretagem pagas indevidamente. 
+
+2. A ré foi citada (fls.69) e apresentou contestação (fls.70/84). 
+Alega em defesa: a) inexistência de responsabilidade de indenizar, pois caracterizada culpa de terceiro, pois precisa de autorização da Prefeitura de São Paulo para construir, quando a obra for maior que os limites permitidos na região, de modo que solicitou a outorga onerosa, contudo, em razão de descoberta de fraudes em outorgas onerosas a obra teve que ser paralisada; b) não exigiu a quitação do preço, de forma que os autores realizaram-no de forma espontânea; c) a cláusula de dilação do prazo é válida e inserida no contrato justamente em casos de fatos alheios à vontade da ré; d) o valor da corretagem já está incluído no preço total da aquisição; e) a ré não pode ser responsabilizada pela cobrança da taxa SATI, negociada com a imobiliária; f) inexistência de ato ilícito e excludente de ilicitude; g) ausência de dano moral e material. 
+
+3. Veio aos autos a réplica (fls.104/130).
+É o relatório. 
+
+DECIDO.
+
+4. O feito comporta julgamento antecipado, sendo dispensável produção de prova oral, nos termos do art. 330, I do Código de Processo Civil.
+
+5. A ação é PARCIALMENTE PROCEDENTE. 
+
+5.1 - Não procede o pedido de declaração de nulidade da cláusula que estabelece prazo máximo de prorrogação na conclusão da obra, como consta no caso sub judice (fls. 43). 
+Trata-se de cláusula de estilo nos contratos de construção imobiliária e representa, na verdade, estipulação de prazo suplementar para cumprimento da obrigação. 
+A cláusula foi lançada de forma clara, sendo cumprido o dever de informação, não se vislumbrando, per se, lesão aos direitos do consumidor. 
+Nesse sentido já decidiu o Tribunal de Justiça de São Paulo, admitindo a cláusula de tolerância:
+
+(...) Nem se diga, no mais, que o prazo de tolerância se cuida de medida abusiva. Esta Câmara já se pronunicou sobre a questão e afastou qualquer abusividade relacionada à estipulação da tolerância, a qual serve exatamente para a solução de imprevistos inerentes à atividade. Além do mais, a referida previsão era de plena ciência do adquirente, que não se insurgiu na data da contratação, cuidando-se, ademais, de tolerância que não extrapola o razoável. Em caso parelha decidiu este Tribunal: ?Alegação de atraso da requerida na entrega da obra. Descabimento. Cláusula prevendo o prazo de tolerância de 120 dias úteis que não se mostra abusiva, mesmo em se tratando de contrato de adesão. Dilação por tempo razoável para acobertar fatores extras que podem demandar maior tempo para a construção do empreendimento? (Apelação Cível n. 9131878-17.2008.8.26.0000, Des. Salles Rossi).?
+(TJSP - 3ª Câm. - Ap. nº 0058297-74.2012.8.26.0100 - Rel. Donegá Morandini ? j. 03/12/2013).
+
+5.2 ? Admitida a validade da cláusula de tolerância, mesmo assim houve inadimplemento por parte da requerida, pois o termo prometido era novembro/2012, com tolerância de 180 dias, de modo que mais tardar no final de maio/2013 deveria ter sido entregue o empreendimento. 
+Assim, a partir de junho/2013 ficou caracterizado o inadimplemento da requerida. 
+Improcede a alegação de fato de terceiro, o que não se caracteriza em razão do risco inerente à atividade desenvolvida pela parte. 
+Como menciona a doutrina francesa de responsabilidade civil, o fato de terceiro deve se revestir da condição de causa estranha à atividade do agente, não caracterizando a excludente aquelas circunstâncias que são inerentes à atividade desenvolvida pelo réu. 
+Na doutrina de AGOSTINHO ALVIM, trata-se de fortuito interno, que não exonera o devedor, especialmente neste tipo de responsabilidade, de cunho objetivo, fundada no Código de Defesa do Consumidor. 
+Ademais, se a construtora dependia de autorização expressa para construir acima do gabarito geral, por força da outorga onerosa, deveria tê-la providenciado antes do início das obras.
+Aliás, neste sentido é a legislação municipal (art. 2º, §1º do Decreto nº 44.703, de 4/05/2004), que veda a possibilidade de início de obras sem obtenção da outorga onerosa, excepcionando o Código de Obras:
+
+DECRETO Nº 44.703, DE 4 DE MAIO DE 2004 
+Regulamenta a outorga onerosa de potencial construtivo adicional, nos termos dos artigos 209 a 216 da Lei nº 13.430, de 13 de setembro de 2002, que aprovou o Plano Diretor Estratégico do Município de São Paulo.
+Art. 2º. A outorga onerosa de potencial construtivo adicional será requerida simultaneamente com o pedido de Alvará de Aprovação ou Alvará de Aprovação e Execução de Edificação perante a Secretaria da Habitação e Desenvolvimento Urbano - SEHAB ou a Subprefeitura, de acordo com as respectivas competências. 
+§ 1º. Não se aplica aos casos de solicitação de potencial construtivo adicional mediante outorga onerosa a possibilidade de início de execução de obra ou edificação antes de sua aprovação, com base no disposto no item 4.2.3. da Seção 4.2. do Capítulo 4 do Anexo I da Lei nº 11.228, de 25 de junho de 1992 - Código de Obras e Edificações - COE. 
+§ 2º. Após a emissão do Alvará de Aprovação, o proprietário só poderá dar início à obra se obtiver Alvará de Execução, mediante pedido em procedimento administrativo, nos termos da legislação pertinente, obrigatoriamente acompanhado do comprovante do pagamento integral da contrapartida financeira. 
+
+Iniciando as obras sem possuir todas as autorizações necessárias a requerida correu o risco de não as obter a tempo, o que é risco inerente ao seu negócio e não caracteriza fato de terceiro. 
+
+5.3 ? O atraso na entrega da obra acarreta dever de indenizar, que constitui pagamento do valor locativo que o bem alcançaria. 
+A consideração do critério de 1% como rendimento normal de locação mostra-se razoável, critério adotado usualmente em perícias relativas a locação de bens de raiz. 
+O valor do imóvel deve ser atualizado, pelos índices dos débitos judiciais, até a data do inadimplemento (junho/2013), apurando-se sobre este valor o aluguel de 1%. 
+Será pago o aluguel mensalmente desde junho/2013 até a entrega do bem, considerando-se o vencimento em 1/06/2013 e a cada dia primeiro dos meses seguintes. 
+O aluguel sofrerá reajuste a cada 12 meses, pelo índice aplicável às locações. 
+Juros de mora incidem desde junho/2013, em relação à primeira parcela, e na data de vencimento de cada parcela posterior.
+
+5.4 ? Improcede o pedido de restituição dos valores pagos a título de corretagem. 
+Nada obsta que a corretagem contratada pelo vendedor seja incorporada ao preço, determinando o valor final de venda. 
+Ademais, a manutenção de estandes de venda e atendimento aos potenciais clientes é tarefa do corretor, de modo que não procede a afirmação dos autores de que não haveria prestação do serviço. 
+
+5.5 ? No que concerne à cobrança de SATI assiste razão aos autores. 
+Inicialmente é preciso ressaltar que também a ré é responsável pela cobrança, tratando-se de contrato coligado realizado juntamente com a imobiliária, havendo solidariedade perante o consumidor. 
+A referida cobrança não se mostra admissível, não se constatando efetiva prestação de serviço de assessoria, tratando-se de espécie de venda casada. 
+Neste sentido tem se manifestado o Tribunal de Justiça de São Paulo:
+
+?(...) COMISSÃO DE CORRETAGEM. Comissão de corretagem regularmente contratada entre as partes. Contrato que desloca ao promitente comprador o pagamento direto das despesas de corretagem, ao invés de fazê-lo de modo indireto embutindo o valor no preço final do imóvel. Motivos de ordem fiscal. Indiferença para o promitente comprador. Ocorrência de aproximação útil. TAXA DE SERVIÇO DE ASSESSORIA TÉCNICO-IMOBILIÁRIA (SATI). Promitente comprador que pleiteia a restituição de valores pagos a título de comissão de serviços de assessoria técnico-imobiliária (SATI). Cláusula contratual que prevê a responsabilidade do promissário comprador pelo pagamento de serviços de intermediação e de assessoria. Abusividade. Venda casada. Vedação pelo Código de Defesa do Consumidor. Dever da ré de restituir o valor pago a este título? (TJSP - 6ª Câm. - Ap. nº 0018667-84.2012.8.26.0011- Rel. Francisco Loureiro ? j. 05/12/2013).
+  
+Não há lugar para devolução em dobro, tratando-se de cobrança fundada em contrato, que somente em juízo foi infirmado.
+O Superior Tribunal de Justiça já se manifestou neste sentido em caso no qual a cobrança indevida somente foi reconhecida a partir da decisão judicial:
+
+DIREITO CIVIL. PLANO DE SAÚDE. REAJUSTE POR MUDANÇA DE FAIXA ETÁRIA.
+RESTITUIÇÃO EM DOBRO COM BASE NO CDC. IMPOSSIBILIDADE.
+I - A jurisprudência das Turmas que compõem a Segunda Seção do STJ é firme no sentido de que a repetição em dobro do indébito, prevista no art. 42, parágrafo único, do CDC, pressupõe tanto a existência de pagamento indevido quanto a má-fé do credor.
+II - No caso, a iniciativa da empresa ré de reajustar as prestações do seguro saúde, com base na alteração da faixa etária, encontra-se amparada em cláusula contratual - presumidamente aceita pelas partes -, que até ser declarada nula, gozava de presunção de legalidade, não havendo razão, portanto, para se concluir que a conduta da administradora do plano de saúde foi motivada por má-fé.
+Recurso Especial provido.
+(STJ - REsp 871.825/RJ, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 12/08/2010, DJe 23/08/2010).
+
+5.6 ? Improcede o pedido de indenização de dano moral. 
+Trata-se de mera questão contratual, de cunho comercial, não havendo lesão aos direitos de personalidade, nem situações excepcionais que justificassem o reconhecimento do dano moral indenizável. 
+Neste sentido, bastante elucidativo julgado do Tribunal de Justiça de São Paulo:
+
+?(...) 6. Quanto ao dano moral, o autor não aponta em nenhum momento algum fato específico que lhe tenha causado um sofrimento intenso, em patamar mínimo indenizável.
+A mora contratual da ré, por si só, não é suficiente para sua caracterização. 
+É claro que todo e qualquer inadimplemento contratual seja relativo (mora) ou absoluto - gera ao credor decepção e aborrecimento, pela quebra das expectativas da perfeição do serviço colocado no mercado de consumo. Salvo, porém, situações excepcionais e bem demarcadas, não é a simples frustração decorrente do inadimplemento que se indeniza, mas sim a ofensa a direitos da personalidade, ou sofrimento intenso e profundo, a ser demonstrado caso a caso (Maria Celina Bodin de Moraes, Danos à Pessoa Humana, Renovar, p. 64; REsp 202.564, Rel. Min Sálvio de Figueiredo Teixeira).
+Em termos diversos, entende-se que o atentado ao bem-estar psicofísico do indivíduo deve apresentar uma certa magnitude para ser reconhecido como dano moral. Não basta um mal-estar trivial, próprio do risco cotidiano da convivência em sociedade, para a sua configuração. Isso quer dizer que há um ?piso? de incômodos a partir dos quais o prejuízo afigura juridicamente relevante e dá margem a indenização (cfr. Gabriel Stiglitz e Carlos Echevesti, Responsabilidad Civil, p. 243).
+Nos autos, inexiste prova de sofrimento com magnitude considerável. Sentimentos negativos, para mereceram indenização, devem ser descritos com detalhes e objetividade, permitindo ao julgador identificar a intensidade do sofrimento do ofendido, o que não ocorre nos autos.(...)? 
+(TJSP - 6ª Câm. - Ap. nº 0018667-84.2012.8.26.0011- Rel. Francisco Loureiro ? j. 05/12/2013)
+
+6. Diante do exposto, JULGO PARCIALMENTE PROCEDENTE o pedido para:
+a) declarar a ocorrência do inadimplemento por parte da requerida desde junho/2013;
+b) condenar a requerida ao pagamento de indenização, correspondente ao pagamento de aluguel mensalmente desde junho/2013 até a entrega do bem, no montante e com a atualização indicados supra (item 5.3);
+c) condenar a requerida à restituição do valor pago a título de SATI (R$ 1.600,00), com correção monetária desde o pagamento e juros de mora desde a citação. 
+Tendo em vista a sucumbência recíproca, cada parte arcará com as respectivas custas e despesas processuais, compensando-se os honorários advocatícios.
+
+P. R. I
+
+
+   São Paulo, 12 de dezembro de 2013.
+
+
+ ENÉAS COSTA GARCIA
+        JUIZ DE DIREITO
+
+         (assinatura digital)

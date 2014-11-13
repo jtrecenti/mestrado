@@ -1,0 +1,70 @@
+
+
+SENTENÇA
+
+Processo nº:003.09.125982-0
+Classe - AssuntoProcedimento do Juizado Especial Cível - Perdas e Danos
+Requerente:Waltamir Aparecido Niero
+Requerido:Brasil Telecom S/A
+
+
+
+Juiz(a) de Direito: Dr(a). Marcos Alexandre Santos Ambrogi
+
+
+Vistos.
+
+Dispensado o relatório, passo ao julgamento no estado em que se encontra o processo, pois desnecessária a produção de provas em audiência, em vista dos documentos que instruem os autos e da controvérsia acerca do Direito aplicável à espécie.
+
+A Brasil Telecom S/A, na qualidade de concessionária de serviço público, responde objetivamente pelos danos causados em razão dessa atividade - é o que estatui a Constituição Federal, no parágrafo sexto do artigo 37 - assegurado o direito de regresso contra os causadores diretos do dano.
+
+Ainda que se queira dizer que entre as partes não houve relação jurídica (à exceção da relação derivada da responsabilidade civil que ora se analisa), e, em princípio, tanto menos haveria relação jurídica de consumo a ensejar a aplicação das normas de proteção ao consumidor registradas na Lei nº 8.078/90, não se pode negar que a Embratel é, antes de tudo, prestadora de serviços. Nessa qualidade, está sujeita, quando da prestação, às normas de respeito ao consumidor, conforme artigo 3º, parágrafo segundo, da Lei nº 8.078/90.
+
+Ao regulamentar a responsabilidade do prestador de serviços, o diploma assim estatui que o fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos (CDC, art. 14).
+
+Por outro lado, determina a aplicação dessa norma mesmo em relação aos não-consumidores:
+
+"Art. 17. Para os efeitos desta Seção, equiparam-se aos consumidores todas as vítimas do evento".
+
+A própria ré não nega que os valores sejam indevidos (CPC, art. 302) ou que as ligações possam decorrer de fraude.
+
+Neste ponto, é certo que a obtenção de linhas telefônicas mediante simples ligação a centrais de atendimento é forma de agilizar tanto o processo de cadastramento quanto a consecução das metas exigidas pela Anatel. Mas essa agilização traz, juntamente com os aspectos positivos, o risco derivado da simplicidade de contratação - em que não se exige a demonstração da veracidade dos dados indicados, das qualificações e mesmo identificação pessoal. E mais: identifica uma tentativa de aumento de lucro (pela rapidez da contratação e simplicidade - estratégias favoráveis ao aumento das assinaturas) e redução de despesas - com a desnecessidade de deslocamento de funcionários até o endereço do futuro assinante. O que se tem nos autos, é certo, é uma relação que, embora destoe um pouco dessa situação, derivou de um contrato firmado "virtualmente" - nos moldes antes indicado.
+
+A Brasil Telecom S/A, com base em dados enviados pela Telefonica, prestou serviços e efetuou cobrança e negativação do nome do autor. Sendo notória a facilidade de obtenção de linhas telefônicas - e, em decorrência, a facilidade do cometimento de fraudes para essa obtenção -, cabia, sim, à ré certificar-se da veracidade dos dados a ela repassados, de forma a evitar a ocorrência da situação em análise.
+
+Mesmo existindo a norma que estabelece a adesão imediata ao serviço da prestadora de longa distância, não há regra legal transferindo a responsabilidade pela verificação da idoneidade das informações à prestadora de telefonia local. A Resolução da Anatel - que se limita a determinar a adesão automática, sem, no entanto, transferir a responsabilidade por eventuais danos causados - não pode se sobrepor à Constituição Federal e às normas do Código de Defesa do Consumidor.
+
+A Embratel, portanto, deve responder pelos danos causados, cabendo-lhe buscar perante a outra prestadora, a quem imputa a origem do dano, o reembolso.
+
+Logo, a circunstância de ter sido a operadora local a responsável pelo envio da informação sobre a inadimplência da autora não elide a responsabilidade da ré de agir diligente e cuidadosamente ao enviar o nome de eventuais clientes a banco de dados restritivos do crédito. Este agir diligente engloba, a título exemplificativo, a certificação por parte da requerida sobre a regularidade dos dados que lhes são repassados, o que não foi realizado no caso concreto.
+
+Ainda que assim não fosse, a exclusão do nexo de causalidade e, por via de conseqüência, da responsabilidade civil, mediante fato de terceiro, só ocorre quando o fato se revestir das características de imprevisibilidade e inevitabilidade, equiparando-se ao caso fortuito. A propósito, vem o escólio de Wilson de Melo da Silva, segundo o qual: "Se o fato de terceiro, referentemente ao que ocasiona um dano, envolve uma clara imprevisibilidade, necessidade e, sobretudo, marcada inevitabilidade sem que, para tanto, intervenha a menor parcela de culpa por parte de quem sofre o impacto consubstanciado pelo fato de terceiro, óbvio é que nenhum motivo haveria para que não se equipara ele ao fortuito. Fora daí, não. Só pela circunstância de se tratar de um fato de terceiro, não se tornaria eqüipolente ao casus ou à vis major." 
+No caso, nem de longe o envio de informações cadastrais por parte da Telefonica ostenta as características necessárias do fato de terceiro tendente a excluir o nexo de causalidade. Ao revés, trata-se de procedimento previamente ajustado entre as empresas, não se revestindo da externalidade característica do caso fortuito.
+
+Ainda a corroborar o entendimento, o artigo 14, parágrafo terceiro, inc. II, do CDC menciona "culpa exclusiva de terceiro". Isto significa que predomina o princípio da obrigatoriedade do causador direto do dano em repará-lo, é dizer, a culpa de terceiro não exonera o autor direto do dano do dever jurídico de indenizar.
+ 
+Não há, finalizando, como excluir a responsabilidade das prestadoras, solidária que são (CDC, arts. 7º, parágrafo único; CC, art. 942), as quais não negam ter enviado o nome do autor a órgãos de restrição ao crédito.
+E tal fato causa dano moral.
+
+Espécie de dano, o moral se caracteriza por ofensa injusta a qualquer atributo da pessoa física como indivíduo integrado à sociedade ou que cerceie sua liberdade, ferindo sua imagem ou sua intimidade. De fato, qualquer violação aos direitos da personalidade vem justificar a existência de dano moral reparável.
+
+Conforme a lição do ilustre Professor Carlos Alberto Bittar: Qualificam-se como morais os danos em razão da esfera da subjetividade, ou do plano valorativo da pessoa na sociedade, em que repercute o fato violador, havendo-se, portanto, como tais aqueles que atingem os aspectos mais íntimos da personalidade humana (o da intimidade e da consideração pessoal) ou o da própria valoração da pessoa no meio em que vive e atua (o da reputação ou da consideração social) (Reparação Civil por Danos Morais, Revista dos Tribunais, 1.993, p. 41).
+
+Assim sendo, nos termos do que dispõe o art. 186 do Código Civil (art. 159 CC/16), aquele que, por ação ou omissão voluntária, negligência, ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito.
+
+A sensação de desgosto, insegurança e angústia causada ao autor, por ver seu nome, indevidamente, em órgão de restrição ao crédito já se mostra suficiente para a indenização, sendo desnecessária a prova em concreto da dor da alma. Trata-se de presunção legitima, baseada no quod plerunque fit. E tal sensação de desgosto, insegurança e angústia decorrente de tal violação (e não mero aborrecimento) é prejudicial à auto-estima do cidadão e implica diminuição de seu estado anímico.
+ 
+Entretanto, o dano à moral não causou maiores conseqüências além da redução de sua auto-estima e impossibilidade de aquisição de bens.
+
+No caso, à vista da intensidade e duração da angústia, do desgosto e da insegurança provocados pelos acontecimentos no espírito do autor, fixo a indenização no valor de R$3.500,00.
+
+Diante do exposto, JULGO PROCEDENTE o pedido para condenar o réu na reparação pelos danos morais no valor de R$3.500,00, valor este corrigido monetariamente desde a publicação da sentença (STJ, Súmula 362), além de juros de mora de 1% ao mês, desde a citação. Ponho fim ao processo, com resolução do mérito, nos termos do art. 269, I, do Código de Processo Civil. Sem condenação no ônus da sucumbência nesta fase do procedimento. 
+
+P.R.I.
+
+São Paulo, 27 de abril de 2010.
+
+Marcos Alexandre Santos Ambrogi
+Juiz de Direito
+
+São Paulo, 27 de abril de 2010.

@@ -1,0 +1,63 @@
+
+
+CONCLUSÃO
+
+Em 06 de junho de 2011, faço estes autos conclusos ao MM Juiz de Direito, Dr. Marcos Pimentel Tamassia. Eu,      , escrevente, subscrevi.
+
+SENTENÇA 
+
+Processo nº:0023359-68.2010.8.26.0053 - Procedimento Ordinário
+Requerente:Papirus Indústria de Papel S/A
+Requerido:Fazenda Pública do Estado de São Paulo
+
+
+
+Juiz(a) de Direito: Dr(a). Marcos Pimentel Tamassia
+
+
+Vistos.
+
+A autora alega ter sido autuada por deixar de fornecer à Secretaria da Fazenda informações em meio magnético, contendo as operações de entrada e saída do período de janeiro a dezembro de 2002, capitulada a conduta nos artigos 250, § 1º, art. 494, do RICMS c.C. Art. 30 da Portaria CAT 32/96, incidindo a multa no artigo 527, inc. VIII, alínea x c.c. § 10 do RICMS de 2000. Aduz que não cumpriu a notificação porque o banco de dados da empresa foi danificado por vírus e ela não dispõe de "back-up". A força maior exclui a infração e o fornecimento do arquivo magnético foi suprido pela disponibilização dos documentos necessários para a fiscalização apurar a regularidade das operações. Aduz que o artigo 250, § 1º do RICMS encerra uma mera faculdade e não uma obrigação e foi acrescentada pelo Decreto 48.475/2004, com efeitos a partir de 29.01.204, de modo que em 20.02.2003 não existia essa obrigação do meio magnético. A autora passou a ser elencada como de uso obrigatório da Escrituração Fiscal Digital  EFD somente a partir de 01.01.2009. O art. 30 da Portaria CAT 32/96 também contém uma mera obrigação e não se aplica às empresas sujeitas à EFD. A autora não ofereceu qualquer embaraço à fiscalização, de modo que não pode ser enquadrada no artigo 494 do RICMS. O art. 251 do RICMS prevê a possibilidade de envio de documento fiscal por outro meio, nos casos de força maior. A multa do artigo 527 do RICMS não pode prevalecer, em obediência ao princípio da legalidade. No TIT, o relator, vencido, opinou pela redução da multa, em razão de sua boa-fé. Aduz não ser reincidente tributária, de modo que a penalidade pode ser relevada. A autora cumpriu a obrigação principal, recolhendo os impostos, conforme GIAS apresentadas. A multa não pode ter caráter confiscatório, como no caso, em que foi imposta no valor de quatro milhões de reais, superior até ao montante de ICMS recolhido no período. Requereu a tutela antecipada para a suspensão do débito e a procedência da ação, para a anulação do AIIM 3.034.500-5 ou, alternativamente, a redução da multa.
+A tutela antecipada foi indeferida.
+
+Na contestação de fls. 156 e seguintes, o Estado de São Paulo protestou pela manutenção integral do AIIM, que encontra amparo nos dispositivos nele mencionados, vigentes tanto à época das notificações como dos fatos geradores, impondo a obrigatoriedade dos contribuintes fornecerem informações por meio magnético à Secretaria da Fazenda. A mera alegação de que o sistema informatizado tinha sido atacado por vírus e de que ela não possuía back-up é insuficiente, já que a autora não tomou as medidas necessárias de comunicar o Fisco. A obrigação acessória tem importante e autônomo papel. A multa tem fundamento legal e não pode ser reduzida, já que a autora é reincidente e incidiu na alínea x do inc. VIII do artigo 527 (§ 3º do art. 527-A do RICMS), não sendo necessário para a configuração da reincidência que o seja na mesma infração. Assim, requereu a improcedência da ação.
+
+Na réplica de fls. 182, a autora reiterou os termos da inicial.
+
+É o relatório.
+DECIDO.
+
+A ação pode ser julgada no estado em que se encontra, visto não haver fatos controvertidos que devam ser objeto de prova.
+
+Não pode ser erigido a motivo de força maior ou caso fortuito a alegação de que um vírus danificou os registros de informática da autora, que não dispunha de "back up".
+
+Conforme bem decidiu o juiz do Tribunal de Impostos e Taxas, "sendo [a autora] uma das maiores empresas do ramo, não se pode aceitar a justificativa que apresentou como motivo pela ausência de entrega dos documentos. É seu dever, pelo seu porte, ser diligente no trato dos equipamentos necessários ao cumprimento de seus deveres instrumentais. É aceitável que uma microempresa seja afetada por um vírus de computador. Não é aceitável que uma sociedade anônima deixe de cumprir suas obrigações instrumentais por força de ataques cibernéticos que todos que se utilizam da informática estão sujeitos. Dito de outro modo, sofrer com investidas virtuais é previsível, por isso, é dever da recorrente prevenir-se contra esses ataques. É proporcional e razoável que seja penalizada na intensidade da lei pela sua desídia." (fls. 198)
+
+Com efeito, tratando-se os ataques cibernéticos de um perigo comum e previsível, perde o caráter de força maior o suposto dano sofrido pela autora em seu sistema de informática. Obrigatório que tivesse feito um back-up ou tomado qualquer outra providência visando a evitar a perda dos dados nos meios magnéticos.
+O uso de meios eletrônicos era um faculdade conferida à autora. Mas, uma vez que a autora dispunha de sistema eletrônico de processamento de danos na escrituração fiscal, obrigatória era a sua exibição quando notificada, não podendo se eximir pela alegação de que tal providência era faculdade sua ou que os dados foram danificados pelo computador ou que a obrigatoriedade está contida em legislação posterior ao fato.
+
+A obrigação acessória que deixou de ser cumprida subsume-se ao artigo 494 do RICMS e está sujeita a multa punitiva, que tem fundamento e pode ser imposta.
+
+Nesse sentido o seguinte julgado do TJSP:
+
+"APELAÇÃO CÍVEL - ANULAÇÃO DE DÉBITO FISCAL - ICMS -  DESCABIMENTO - NÃO COMPROVAÇÃO DOS FATOS ALEGADOS - REGULARIDADE E LEGALIDADE DA AUTUAÇÃO. 1. Pretensão à desconstituição de auto de infração e imposição de multa por descumprimento de diversas obrigações tributárias - Descabimento - As infrações capituladas em todos os itens do AIIM restaram comprovadas, inclusive por laudo elaborado por perito judicial. 2. MULTA - Violação ao princípio da razoabilidade e caráter confiscatório - Inocorrência - Percentual previsto em lei - Caráter eminentemente punitivo - Competência do legislador para sancionar com mais severidade condutas que deseja desestimular - A alegação de ausência de prejuízo ao fisco não tem o condão de afastar a incidência da multa - Aplicação do art. 527-A do RICMS/00 - Inadmissibilidade - Autuação anterior à vigência do citado dispositivo - Além disso, boa-fé não comprovada. ... 4. Manutenção da sentença - Recurso não provido. "Ap  Cív  0187169-58.2008.8.26.0000, Rel. Osvaldo de Oliveira.
+
+Também:
+
+"Realmente, a estimativa da multa no importe de 100% possui expressa previsão legal, à vista do art. 592, II, "h", do RICMS e tem por objetivo único desestimular e/ou proibir condutas que sejam refratárias à legislação tributária. Deste modo, não ostenta caráter confiscatório. Confira-se, a respeito do tema, dentre tantos, o  seguinte  precedente deste Tribunal: Embargos à execução. ICMS. Correção monetária dos créditos escriturais excedentes. Inadmissibilidade. Ausência de previsão legal. Legalidade da multa por prática de infração (art. 592, II, "h", do RICMS). Regularidade na aplicação da taxa SELIC. Precedentes. Sentença de procedência afastada. Reexame necessário e recurso da Fazenda Estadual providos (TJSP, 10a Câm. Dir. Púb., Ap. 435.049-5/9-00, j . 2.6.2008, v.u., rel. Des. Antônio Celso Aguilar Cortez). " Ap Cív 761 427 5/7-00, Rel. Ronaldo Frigini.
+
+Em outras palavras, a multa punitiva não deve observar a proibição do não-confisco, contrariamente ao que ocorre com a multa moratória. Por outro lado, o confisco deve ser comprovado comparativamente à capacidade contributiva do autuado, não havendo evidência,  neste caso, de exacerbação.
+Descabe a redução da multa por conta da reincidência da autora, que não precisa ser específica na infração.
+
+O alegado pagamento dos impostos não faz desaparecer a obrigação acessória, que é autônoma e subsiste independentemente do adimplemento da obrigação principal.
+
+Isto posto e pelo mais que dos autos consta, JULGO IMPROCEDENTE a presente ação, condenando a autora no pagamento de honorários advocatícios que, atento à importância da causa,  fixo em R$50.000,00 e nas custas, na forma da lei.
+
+
+
+P.R.I.
+
+São Paulo, 14 de junho de 2011.
+
+MARCOS PIMENTEL TAMASSIA
+      Juiz de Direito

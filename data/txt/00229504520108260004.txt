@@ -1,0 +1,62 @@
+
+
+SENTENÇA
+
+Processo nº:0022950-45.2010.8.26.0004
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Material
+Requerente:Royal PPG Informações Comerciais Ltda. ME
+Requerido:Connect Use Brazil Com. e Serviços de Informatica Ltda. ME.
+
+
+
+Juiz(a) de Direito: Dr(a). Julio Cesar Silva de Mendonça Franco
+
+
+
+
+
+
+
+
+V I S T O S, etc.
+
+
+
+
+
+I. ROYAL PPG INFORMAÇÕES COMERCIAIS LTDA. moveu a presente ação de obrigação de fazer c.c. indenização por danos materiais e morais ? rito ordinário contra CONNECT USE BRAZIL COM. E SERVIÇOS DE INFORMÁTICA LTDA. ME., alegando, em resumo, que adquiriu computadores ?notebooks? e ?netbooks? fornecidos pela requerida, na data de 23/09/2009, pagando pelos mesmos o preço total de R$ 53.650. Disse que tais computadores foram adquiridos mediante a oferta de uma configuração básica que previa a instalação do sistema ?Microsoft Windows XP? nos computadores. Afirma que a ré entregou os computadores com os sistemas já instalados, mas sem as licenças de uso correspondentes, e, apesar de ter sido cobrada a respeito, negou-se a fornecê-las. Entende que a ré tem obrigação contratual de fornecer as sobreditas licenças, porque a autora pode vir a ser acionada pelo proprietário dos direitos autorais. Sustenta que sofreu danos morais (nervosismo e medo da perda de clientes) em razão da atitude ilícita da ré. Pediu a tutela antecipada para obrigar a ré a fornecer-lhe as licenças de ?software? dos computadores, e a condenação da Acionada ao pagamento de danos materiais no importe de R$ 18.407,00 (valor dos equipamentos comprados ou da compra das licenças), e de danos morais, em valor a ser arbitrado pelo Juízo. 
+A tutela antecipada foi deferida (fls. 40) e cumprida (fls. 71).
+Devidamente citada (fls. 44), a Ré ofereceu contestação (fls. 46/60), alegando, em preliminar, carência da ação ? porque as licenças de ?software? pleiteadas pela autora não teriam sido objeto de compra e venda ? e decadência ? porque o prazo para reclamação teria se esgotado, nos termos do artigo 26 do Código de Defesa do Consumidor. No mérito, disse que a autora comprou apenas os computadores e não as licenças de uso de ?software?. Disse que vendeu as licenças à empresa ?Boucinhas & Campos?, que é pessoa jurídica diversa da requerente. Afirma que as licenças não fizeram parte da negociação e não estão inclusas no valor dos equipamentos. Sustentou a inexistência de danos materiais e morais. 
+Houve réplica (fls. 76/80) e juntada de documentos (fls. 81/90), sobre os quais a ré, embora intimada, não se manifestou (fls. 92).
+Determinada a especificação de provas (fls. 93), as partes se manifestaram a fls. 96 (ré) e 97 (autora). 
+A audiência de tentativa de conciliação designada resultou infrutífera (fls. 101).
+É o breve relatório.
+
+D E C I D O.
+
+II. A ação é parcialmente procedente.
+Antes de qualquer coisa, cumpre denotar que a matéria controvertida está a dispensar a ampliação do leque instrutório, motivo pelo qual se faz viável o julgamento antecipado da contenda. 
+As preliminares arguidas pela ré no bojo da resposta não merecem acolhimento. Com efeito, inexiste decadência do direito da autora. É que o Código de Defesa do Consumidor não se aplica à espécie dos autos, porque a autora não aparece na relação negocial como destinatária final dos produtos adquiridos junto à Ré, de modo que não pode ser considerada consumidora para os fins legais.
+É certo que a autora tem por objeto a locação de equipamentos de informática (fls. 03), e ela mesma admitiu que os produtos adquiridos eram destinados à locação para terceiros (fls. 10, ?in fine?), seus clientes, os quais, aliás, estariam ?copiosamente? cobrando as licenças de software (fls. 11, ?in fine?).
+Logo, à hipótese dos autos aplicam-se as disposições comuns do Código Civil, as quais não impedem o pleito da autora.
+Também inexiste carência da ação. Se houve ou não alienação das licenças, isto é matéria de mérito, o qual será oportunamente examinado.
+Portanto, rejeito as preliminares e passo à análise do ?meritum causae?.
+A Autora afirma que sofreu prejuízos de ordem material e moral, porque, apesar de haver pago os computadores que adquiriu junto à ré, não teria recebido as licenças de uso do sistema operacional ?Microsoft Windows XP? instalado nas máquinas. 
+Sobre o assunto, a Ré não negou a falta da entrega das licenças dos ?softwares? instalados nas máquinas alienadas à autora, mas justificou-se, alegando que tais licenças não foram objeto da compra, nem integraram o preço final dos produtos vendidos.
+Assim, a ré reconheceu a sua culpa (embora sustente o contrário), porque vendeu uma mercadoria que não podia ser vendida sem a correspondente licença de uso, frustrando a autora em sua expectativa de receber a mercadoria pela qual pagou e utilizá-la de forma lícita.
+Como é cediço, a utilização de programas de computador sem a respectiva licença de uso do fabricante pode configurar crime contra direitos autorais, razão pela qual não se admite a comercialização desses produtos sem a licença correspondente. 
+Conforme se vê nos documentos de fls. 32/35 (?e-mails?, cujo teor não foi impugnado pela ré), os computadores foram ofertados à venda pela requerida com uma configuração básica, a qual, dentre outros itens, previu o sistema operacional ?Windows XP? (fls. 33/34), com o preço fechado em cima dessa configuração. Ora, se as máquinas foram ofertadas com essa configuração, e com o preço acertado sobre o produto por inteiro, não subsiste a alegação da ré de que as licenças não integraram o preço.
+Além disso, os computadores foram efetivamente entregues com o sistema operacional mencionado em seu interior, sem nenhuma ressalva na nota fiscal de fls. 30. Logo, não há dúvidas de que as licenças deveriam ter acompanhado os produtos (sistemas operacionais), já que a ré não poderia vendê-los sem elas, porque isto significaria infração a direitos autorais.
+Diversa seria a situação, se a ré tivesse vendido os computadores sem o sistema operacional, porque, neste caso, não teria o dever de entregar as licenças correspondentes. Porém, como os computadores foram comprados e entregues com o ?software? referido, as licenças correspondentes também deviam ser entregues, presumindo-se que elas integraram o preço final da compra. 
+Em face do princípio da vinculação, a oferta do produto tornou-se obrigatória imediatamente após a autora aceitar a aquisição. Assim, não tem nenhum cabimento a ré dizer que não estava obrigada a entregar as licenças de uso. Tendo a autora se desincumbido de sua obrigação (pagar o preço), cabia à Acionada se desdobrar para entregar as licenças, ou cancelar de imediato a compra, indenizando a autora.
+No entanto, a autora alega que sofreu ?danos patrimoniais indiretos, futuros, presumidos e eventuais? (fls. 10). Justamente por isso, inexistem danos indenizáveis. Ora, é cediço que, para serem ressarcidos, os danos precisam ser certos e atuais (emergentes). Ademais, a autora não logrou comprar documentalmente nenhum indício de que tenha despendido valores para cobrir eventuais danos materiais. Note-se, por outro lado, que a ré cumpriu a ordem judicial ?in limine? e entregou as licenças de uso pleiteadas.
+Destaque-se que a prova é documental e deveria ser apresentada obrigatoriamente na peça inaugural pela autora (art. 396 do Código de Processo Civil). Portanto, improcede o pedido de indenização por dano material.
+Também reputo inexistentes os danos morais.
+Destaque-se que a pessoa jurídica não possui honra subjetiva, embora detenha o atributo da honra objetiva (a imagem que os outros têm da pessoa; a exteriorização da imagem), de modo que o ?bom nome? na praça é bem jurídico a ser preservado, no que tange às pessoas jurídicas.
+Entretanto, no caso ?sub judice?, não foi essa a alegação da autora, a qual se limitou a descrever ?sentimentos? de ?nervosismo? e ?medo? de perder clientes (fls. 10/12). Ocorre que o ?nervosismo? e o ?medo? de perder clientes podem ser atribuídos aos sócios da autora, mas nunca à pessoa jurídica, incapaz de exprimir sentimentos humanos. Não se pode confundir o dano à honra objetiva da pessoa jurídica com os eventuais transtornos causados à pessoa dos seus sócios, os quais, se o caso, devem buscar a satisfação judicial pela via própria. 
+Assim, chegamos à ilação segura de que a Acionante não foi efetivamente ferida em sua honra objetiva, a saber, sua credibilidade comercial, razão pela qual improcede o pedido de indenização por dano moral.
+
+III. Isto posto, JULGO PROCEDENTE, EM PARTE, a presente ação de obrigação de fazer c.c. indenização por danos materiais e morais movimentada ROYAL PPG INFORMAÇÕES COMERCIAIS LTDA. em face de CONNECT USE BRAZIL COM. E SERVIÇOS DE INFORMÁTICA LTDA. ME., para o fim de condenar a Ré à entrega imediata das licenças de uso do sistema operacional ?Microsoft Windows XP? fornecido junto aos computadores ?notebook? e ?netbook? adquiridos pela autora (fls. 30). Em consequência, torno definitiva a tutela antecipada concedida a fls. 40.
+Em face da sucumbência recíproca, cada parte arcará com o pagamento de metade das custas, dos emolumentos e das despesas processuais, e com os honorários advocatícios dos seus próprios patronos. 
+ P. R. I.
+São Paulo, 14 de dezembro de 2011.

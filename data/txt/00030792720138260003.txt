@@ -1,0 +1,58 @@
+
+
+SENTENÇA
+
+Processo nº:0003079-27.2013.8.26.0003
+Classe - AssuntoProcedimento Ordinário - Transporte Aéreo
+Requerente:Generali  Brasil Seguros S/A
+Requerido:Aerosoft Cargas Aéreas Ltda
+
+
+
+
+
+
+Vistos.
+Trata-se de ação regressiva de ressarcimento movida por GENERALI BRASIL SEGUROS S.A. em face de AEROSOFT CARGAS AÉREAS LTDA. tendo por base o contrato de seguro celebrado entre IBM BRASIL INDÚSTRIA DE MÁQUINAS E SERVIÇOS LTDA. e a autora.
+Alega a autora ter sub-rogado nos direitos de sua segurada IBM Brasil Indústria de Máquinas e Serviços Ltda., através do contrato de seguro representado pela apólice nº33211000111 (fls. 31/40). Em síntese, a segurada da autora contratou a ré para transportar 05 servidores/CPU, modelo 7979-PGH, série 82073LB, identificados pelo documento fiscal de fls. 42, de Hortolândia/SP para Fortaleza/CE. A carga, constituída de servidores de informática, requer extremo cuidado no manuseio, sendo sensível a choque mecânico. Afirma que, entregou para a transportadora ré a carga em perfeito estado e devidamente acondicionada. Ocorre que, ao chegar ao destino, em 07/10/2009, a CPU de um dos servidores foi entregue com o chassi amassado e diversas avarias em razão de choque mecânico conforme termo de vistoria de fls. 44/50. Em virtude dos danos físicos e avarias na estrutura principal, o servidor foi considerado inapto para uso razão pela qual a autora, honrado o contrato de seguro, indenizou a segurada no valor de R$18.006,99; sub-rogando-se em todos os seus direitos (fls. 54/55). Houve inadimplemento contratual da ré que se mostrou imperita na tradição dos equipamentos. Na qualidade de sub-rogada, restaram infrutíferas todas as tentativas de composição entre a autora e a ré. Esclarece que, com objetivo de garantir o exercício do direito, ingressou com protesto interruptivo da prescrição (fls. 60/110). Requer a procedência da ação para condenar a ré ao pagamento de R$18.066,99; devidamente corrigidos, custas e honorários advocatícios. 
+Com a inicial (02/20), juntou documentos (fls. 21/112).
+Citada (fl. 122), a ré apresentou contestação (fls. 132/148). Preliminarmente, suscita a ocorrência da prescrição com fulcro no artigo 206, §3º, V, do Código Civil uma vez que o sinistro ocorreu em 07/10/2009 e a presente ação foi ajuizada em 08/02/2013. No mérito, afirma que, em verdade, o transporte da mercadoria foi na forma rodoviário e aéreo tendo como origem a cidade de Hortolândia/SP e destino final a cidade de Fortaleza/CE. A ré realizou o transporte rodoviário de Hortolândia/SP até o aeroporto de internacional de Guarulhos/SP, onde subcontratou a empresa aérea GOLLOG/VRG LINHAS AÉREAS S/A para realizar o trajeto aéreo até Fortaleza/CE. Pleiteia o chamamento ao processo da GOLLOG/VRG Linhas Aéreas S/A por tratar-se de contrato cumulativo no qual a transportadora deve responder solidariamente pela execução do contrato. Afirma ainda que a responsabilidade é subjetiva. Houve, neste caso, a presença da excludente de nexo de causalidade uma vez que as embalagens de caixa de papelão nas quais foram acondicionadas os servidores/CPUs eram impróprias para o transporte contratado. Impugna os documentos juntados na exordial e pede esclarecimento acerca do destino dado ao servidor avariado. Requer o acolhimento da preliminar, o chamamento ao processo da transportadora aérea e a improcedência da ação. 
+Réplica às fls. 150/164.
+É o relatório.
+Fundamento e decido.
+O feito comporta julgamento antecipado da lide, nos termos do artigo 330, I, do CPC. Trata-se de matéria de direito e de fato, sem que exista a necessidade de produção de outras provas além daquelas que constam dos autos.
+De início, anoto que a presente ação é de ressarcimento, portanto, a regra a ser observada é a prevista no artigo 206, §3º, V, do Código Civil, que estabelece o prazo prescricional de 3 (três) anos, que teve início em 31/3/2010, quando a a autora efetuou o pagamento do sinistro ao segurado.
+Desta feita, como a demanda foi ajuizada em 08/2/2013, conclui-se que não houve prescrição.
+Afasto também o pedido de chamamento ao processo formulado na contestação, eis que não se trata de nenhuma das hipóteses previstas no art. 77 do CPC.
+No mérito, o pedido é procedente.
+No caso, em razão dos danos físicos e avarias na estrutura principal do servidor, este foi considerado inapto para uso e funcionamento pela própria fabricante IBM Brasil Indústria de Máquinas e Serviços Ltda. pois impossível a substituição da estrutura danificada, culminando na perda total do bem.
+Assim, restou incontroversa a ocorrência do sinistro, que ensejou o pagamento de indenização por parte da autora, fazendo jus ao respectivo ressarcimento devidamente corrigido.
+A ré, por sua vez, pugna pelo reconhecimento de culpa exclusiva da segurada da autora (IBM) alegando que as embalagens de papelão eram inadequadas para transportar objetos frágeis como os servidores em questão. Pugna também pelas informações acerca do destino dado ao servidor avariado, denominado de "salvados". 
+Contudo, as alegações não merecem acolhida pois, além de não se desincumbir do ônus estabelecido no artigo 333, II, do Código de Processo Civil. Não há qualquer elemento nos autos que comprove que as embalagens que protegiam a carga não eram aptas a suportar os riscos normais do transporte. 
+De igual modo, não há que falar em "salvados" pois conforme cláusula contratual prevista na apólice de seguros entre a autora e a segurada (IBM), a autora abre mão do respectivo objeto em favor da segurada para que melhor destino lhe seja dado. Certamente visando a proteção comercial e imagem da segurada, caso eventual objeto fosse comercializado com defeito. 
+Ademais, o pedido formulado nestes autos é de ressarcimento em regresso do montante indenizado ao segurado, sendo descabido qualquer abatimento.
+Nesse caso, o segurador tem o direito de reaver do responsável o que efetivamente pagou pelo ressarcimento do dano ao segurado, competindo-lhe, apenas, provar o desembolso.
+Na espécie, os documentos de fls. 44/52, demonstram que houve avarias na CPU atestando por sua imprestabilidade após o dano, bem como o montante efetivamente desembolsado pela autora em razão do incidente.
+Este é o entendimento pacífico no Egrégio Tribunal de Justiça de São Paulo acerca da responsabilidade objetiva nas relações de transporte aéreo e quanto ao pagamento da indenização de forma ampla e integral. Veja-se:
+Ementa: APELAÇÃO ? AÇÃO REGRESSIVA SEGURADORA EM FACE DA TRANSPORTADORA TRANSPORTE AÉREO DE MERCADORIAS INDENIZAÇÃO TARIFADA 1 Inaplicabilidade da Convenção de Varsóvia, datada de 1929. Por mais que tal convenção tenha sido ratificada pelo Brasil, é assente na jurisprudência pátria, inclusive no STJ, que não deve ser aplicada, diante da reparação integral prevista não apenas no Código de Defesa do Consumidor, mas também no próprio Código Civil em vigor. Afinal, a indenização se mede pela extensão do dano e não pelos parâmetros fornecidos por um tabelamento de mais de cem anos atrás, que em nada se coaduna com os princípios de direito interno. Após o advento do Código de Defesa do Consumidor, a responsabilidade civil do transportador aéreo pelo extravio de mercadoria subordina-se ao princípio da ampla reparação; 2 A transportadora assume uma obrigação de resultado, qual seja, de entregar a mercadoria incólume ao seu destinatário. Assim, ela responde por qualquer extravio ou dano sofrido pelo produto durante o transporte. Comprovando a seguradora o valor das mercadorias transportadas e o fato de que foram extraviadas ou avariadas, demonstrando-se, ainda, a quitação da indenização junto ao segurado, é possível e razoável o ajuizamento de ação regressiva contra a transportadora, causadora do dano. RECURSO NÃO PROVIDO
+(Apelação nº0189294-28.2010.8.26.0000 - Relator(a): Maria Lúcia Pizzotti - Comarca: São Paulo - Órgão julgador: 20ª Câmara de Direito Privado - Data do julgamento: 27/05/2013)
+
+Ementa: RESPONSABILIDADE CIVIL ? Transporte Aéreo - Código Brasileiro de Aeronáutica - Regressiva de ressarcimento de indenização decorrente de falta e/ou avaria de mercadorias - Procedência parcial da demanda - Irrazoabilidade - Direito ao regresso, por parte da seguradora, ao valor correspondente ao que foi desembolsado a título de indenização - Reforma da sentença, para julgar procedente a demanda, condenando a ré-apelada no reembolso do valor efetivamente pago pela autora-apelante aos segurados, devidamente corrigido pela Tabela Prática do Tribunal, a partir do desembolso. Recurso provido.
+(Apelação nº0086836-64.2009.8.26.0000 - Relator(a): William Marinho - Comarca: São Paulo - Órgão julgador: 18ª Câmara de Direito Privado - Data do julgamento: 03/04/2013)
+
+Ementa: RESPONSABILIDADE CIVIL ? Transporte aéreo doméstico - Extravio e avaria de mercadorias - Ação regressiva ajuizada por seguradora dos lesados contra a transportadora - Não se aplica a limitação indenizatória (tarifamento) prevista no Código Brasileiro de Aeronáutica às situações diversas daquelas decorrentes do chamado "risco de voo" - Vige, em nosso sistema, o principio da reparação integral do dano (art. 944., Código Civil) - Precedentes - O contrato de transporte cristaliza obrigação de resultado, mediante o qual o transportador se obriga a entregar incólume a mercadoria em seu destino, em estado idêntico ao em que a recebeu - Estando incontroversos o sinistro e os valores despendidos pela autora em decorrência deles, configurado está o dever da transportadora de indenizar a seguradora em regresso - Pretensão procedente - Recurso não provido.
+(Apelação nº9267569-03.2008.8.26.0000 - Relator(a): Fernandes Lobo - Órgão julgador: 22ª Câmara de Direito Privado - Data do julgamento: 06/12/2012)
+Deve a ré, portanto, ressarcir a autora do valor integral da indenização paga ao segurado.
+Ante o exposto, JULGO PROCEDENTE o pedido para condenar a ré a pagar à autora a quantia de R$18.006,99, com correção monetária a partir do desembolso (31/03/2010) e acréscimo de juros de mora de 1% ao mês a partir da citação.
+Diante da sucumbência, condeno a ré ao pagamento das custas e despesas processuais, bem como dos honorários advocatícios, que arbitro em 15% do valor da condenação atualizado. 
+P. R. I.
+Alessandra Laperuta Nascimento Alves de Moura
+Juíza de Direito
+
+
+
+São Paulo, 13 de junho de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

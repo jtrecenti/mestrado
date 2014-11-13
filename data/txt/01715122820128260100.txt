@@ -1,0 +1,61 @@
+
+
+SENTENÇA
+
+Processo nº:0171512-28.2012.8.26.0100
+Classe - AssuntoProcedimento Sumário - Defeito, nulidade ou anulação
+Requerente:Libania de Carvalho Ignacio
+Requerido:Hsbc Bank Brasil S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Arnaldo Luiz Zasso Valderrama
+
+
+
+
+
+
+
+Vistos.
+
+Libania de Carvalho Ignácio ajuizou ação declaratória de inexigibilidade de débito c.c indenização por danos morais e materiais contra HSBC Bank Brasil S/A, ambos qualificados nos autos. Em síntese, alegou que houve crédito de procedência desconhecida em sua conta corrente no valor de R$ 12.398,94; foram realizados diversos saques e pagamentos via cartão, no total de R$ 16.942,68; a maioria dos saques e pagamentos foram realizados fora do Estado de São Paulo; devido à falta de fundos teve cheques devolvidos e seu nome negativado junto aos órgãos de proteção ao crédito. Pediu a antecipação da tutela, a declaração de inexigibilidade do débito de R$ 16.942,68 e a condenação do réu ao pagamento de indenização por danos morais em valor a ser fixado por este Juízo. Juntou documentos.
+Foi deferida a antecipação da tutela (fl.19).
+Citado, o réu apresentou contestação (fls.33/46), na qual alegou que: o empréstimo foi solicitado pela requerente; as transações foram realizadas mediante o uso de cartão com chip e qualquer delas só poderia ser feita com uso de senha pessoal; não há que se falar em cartão clonado; é responsabilidade do cliente o zelo por sua senha pessoal; qualquer fraude se deu por descuido da requerente com seus documentos; há excludente de responsabilidade pelo fato de terceiro; não há comprovação dos danos morais; estão inexistentes os pressupostos para inversão do ônus da prova. Alternativamente, pediu que eventual indenização seja arbitrada em R$ 700,00. 
+A autora ofereceu sua réplica (fls.59/64).
+O réu pediu o julgamento antecipado da lide (fl.72).
+A autora informou o descumprimento da antecipação da tutela (fl.77).
+É o relatório.
+Fundamento e decido.
+
+O feito comporta julgamento antecipado da lide, na forma do art. 330, inc. I, do Código de Processo Civil, pois as partes não apresentaram nenhuma alegação que demande a colheita de prova oral. Utilizo-me do poder de velar pela rápida solução do litígio, impedindo que ?as partes exerçam a atividade probatória inutilmente ou com intenções protelatórias" (Vicente Greco Filho, in Direito Processual Civil Brasileiro, 14ª Ed., 1999, p 228).
+É permitido ao julgador apreciar as provas livremente, seguindo impressões pessoais e utilizando-se de sua capacidade intelectual, em conformidade com o princípio do livre convencimento motivado/persuasão racional. Neste caso, temos em conta que: 1) os elementos de convicção são suficientes ao deslinde da causa e hábeis a sustentar a linha decisória; 2) quaisquer provas adicionais careceriam de aptidão para modificar o dispositivo; 3) as alegações de ambas as partes fazem concluir pelo julgamento no estado em que se encontra o processo; 4) o próprio requerido informou que não tinha outras provas a produzir (fl.72). 
+Presentes as condições da ação e os pressupostos processuais, passo ao julgamento do mérito. A pretensão veiculada nesta ação é procedente.
+É incontroversa a relação jurídica contratual existente entre as partes, sendo certo que deverá pautar-se nas regras do Código de Defesa do Consumidor (artigo 3º, parágrafo 2º, da Lei n.º 8.078/90 e Súmula n.º 297 do C. Superior Tribunal de Justiça) e nas condições e cláusulas avençadas, desde que sejam compatíveis com o ordenamento jurídico vigente.
+A controvérsia consiste em aferir a exigibilidade dos débitos lançados na conta da requente, se ocorreram danos morais em razão da inclusão de seu nome nos cadastros de proteção ao crédito, a responsabilidade do banco pelo ocorrido e o valor de eventual reparação.
+A autora questionou saques, transferências e compras feitas com o cartão, relacionadas a fl.10, no total de R$ 16.942,08. Competia ao banco provar que as retiradas e os débitos foram efetuados pela requerente ou por pessoas próximas a ela, até porque já dispõe de longa data, de sistema de monitoramento por câmeras em suas agências podendo registrar eventuais fraudes sem muito esforço. Poderia ter apresentado transcrição das filmagens ou mostrado que seus sistemas de segurança são eficientes a ponto de impossibilitar o uso de cartões por terceiros, mas não se desincumbiu do ônus de fazer prova contrária ao direito da autora.
+A possibilidade de as operações terem sido feitos por estelionatários existe e a requerente é uma pessoa hipossuficiente, cenário que justifica a inversão do ônus da prova, tal como previsto no art. 6º, VIII do CDC. Aliás, não era exigível da requerente a prova de que não foi ela quem efetuou o saque, haja vista que se trata fato negativo. Nesse mesmo sentido, confiram-se os seguintes precedentes do E. Tribunal de Justiça do Estado de São Paulo:
+
+"CONTRATO - Conta corrente bancária - Caderneta de poupança Saques indevidos em caixa eletrônico - Alegação de que teriam sido feitos por culpa exclusiva da correntista com senha e chave que estava sob sua guarda não demonstrada pelo banco - Aplicação do disposto no inciso II do art. 333 do CPC e no inciso VIII do art. 6o do CDC, tanto mais em se tratando, da parte da consumidora, de prova negativa - Caso típico de inversão do ônus da prova - Banco que não se preocupou em produzir nenhuma outra prova, nem mesmo relatório escrito de "diligência" que alegou ter feito, embora para tanto tivesse tido oportunidade - Prevalência da boa-fé da autora" (TJSP, Apelação n° 0002777-38.2009.8.26.0035, 14ª Câmara de Direito Privado, Rel. Des. José Tarciso Beraldo, j. 26/01/2011, destaquei).
+
+"RESPONSABILIDADE CIVIL - Dano material e moral - Prestação de serviços bancários - Saques e empréstimo desconhecidos pelo cliente - Valores cobrados indevidamente - Ausência de prova quanto a realização das operações Condenação em danos materiais confirmada - Risco da atividade - Dano moral caracterizado Cliente que teve prejudicada a movimentação normal da conta corrente - Arbitramento em R$ 8.000,00 - Proporcionalidade e razoabilidade Sucumbência do réu Recurso do réu não provido e recurso do autor provido? (Apelação 991.04.058307-0, Rel. Des. Antonio Ribeiro, j. 08/02/11, destaquei).
+
+"1) Cartão magnético - uso negado pela correntista - ônus da prova que recai sobre os ombros do banco - inteligência do artigo 14 do CDC - desconstituição de débitos objetos de fraude - 2) responsabilidade civil - danos morais - caracterização - indenização devida - arbitramento - recurso parcialmente provido" (Apelação 991.09.072999-5, Rel. Des. Waldir de Souza José, j. 15/12/09, destaquei).
+
+Ressalte-se, ainda, que o sistema informatizado (ou eletrônico) que permite a movimentação de contas bancárias mediante a utilização de cartões magnéticos e senhas não é infalível. Ao contrário, referido sistema está sujeito a falhas, tema que foi muito bem abordado pelo C. Superior Tribunal de Justiça, no julgamento do Recurso Especial nº 557.030-RJ.
+Mesmo que o negócio jurídico tenha sido, eventualmente, feito por fraude de terceiro não enseja a incidência da excludente de responsabilidade por culpa exclusiva deste, visto que a responsabilidade civil do prestador de serviços é objetiva, pelo CDC. O banco tem a obrigação de garantir a segurança dos seus clientes nas operações realizadas por meios eletrônicos ou materiais, não permitindo a livre ação de fraudadores, como se presume que ocorreu no caso.
+A negligência do réu é evidente e deve ser condenada ao ressarcimento dos prejuízos materiais causados à cliente. Levando-se em conta que a autora afirmou desconhecer a origem do crédito de R$ 12.398,94 e o réu anotou que se trata de empréstimo, tal situação indica que a operação também foi feita à revelia da consumidora pelos fraudadores. Para evitar enriquecimento sem causa em detrimento do Banco, permito a compensação dos débitos indevidos lançados na conta com o referido crédito, ficando a autora com a diferença e o débito extinto.
+Por sua vez, o dano moral decorre de violação aos direitos da personalidade, caracterizados como aqueles valores inerentes à pessoa, essenciais ao seu desenvolvimento e preservação de sua dignidade. Sua qualificação se pauta na esfera da subjetividade do ofendido ou no plano valorativo da pessoa perante a sociedade, observando valores como a consideração pessoal ou a reputação que goza no meio em que vive e atua.
+No caso concreto resultou demonstrado que ocorreram devoluções de cheque na conta da autora porque os valores lá depositados foram sacados indevidamente. Ou seja, se o sistema de segurança do réu não falhasse a cliente não passaria por este constrangimento. Também há prova de que o réu incluiu o nome da parte no SPC pelo débito de R$ 7.740,95 (fl.71).
+Quanto ao valor da reparação, o C. Superior Tribunal de Justiça entende que o valor da indenização por dano moral ?deve ser fixada em termos razoáveis, não se justificando que a reparação venha a constituir-se em enriquecimento indevido, com manifestos abusos e exageros, devendo o arbitramento operar com moderação, proporcionalmente ao grau de culpa e ao porte econômico das partes, orientando-se o juiz pelos critérios sugeridos pela doutrina e pela jurisprudência, com razoabilidade, valendo-se de sua experiência e do bom senso, atento à realidade da vida e às peculiaridades do caso. Deve procurar desestimular o ofensor a repetir o ato? (REsp 245.727, 4ª Turma, rel. Min. Sálvio de Figueiredo Teixeira, DJ 5.6.00).
+Ou seja, o arbitramento da condenação a título de dano moral deve operar-se com moderação, proporcionalmente ao grau de culpa, às condições das partes, suas atividades, orientando-se o juiz pelos critérios sugeridos pela doutrina e jurisprudência, valendo-se da experiência e do bom senso, atento à realidade da vida, notadamente, à situação econômica atual e às peculiaridades do caso concreto. A importância arbitrada deve, ao mesmo tempo, atender a finalidade de compensar e dar satisfação ao lesado, assim como desestimular a reincidência.
+No caso sob exame, considerando os critérios acima descritos, mostra-se proporcional a fixação do quantum, a título de ressarcimento por danos morais, R$ 5.000,00, pois ressarce devidamente a autora sem importar enriquecimento sem causa e serve de fator inibitório ao réu, de sorte que, no futuro, deverá providenciar para que novos fatos como este não ocorram.
+
+ Ante o exposto, JULGO PROCEDENTE pretensão contida na petição inicial e extinto o feito com resolução do mérito, com base no art. 269, I, do Código de Processo Civil, para o fim de: a) CONDENAR o réu a ressarcir à autora os valores descontados na conta-corrente dela no total de R$ 16.942,08 (dezesseis mil e novecentos e quarenta e dois reais e oito centavos), com correção monetária pela Tabela Prática do E. TJSP a partir de cada operação indevida e juros moratórios de 1% ao mês, a partir da citação. Permito a compensação dos débitos indevidos lançados na conta com o referido crédito, ficando a autora com a diferença e a dívida do empréstimo extinta; b) DETERMINAR a retirada do nome da autora dos cadastros de proteção ao crédito, conformando a antecipação de tutela; c) CONDENAR o réu a pagar à autora a quantia de R$ 5000,00 (cinco mil reais) a título de indenização pelos danos morais, com a incidência de juros de 1% ao mês e correção monetária, ambas desde a publicação desta sentença (STJ, REsp 2004/0057774-0, 1ª Turma, Min. Teori Albino Zavascki, DJ 11.10.04, p.242); d) CONDENAR o réu ao pagamento das custas, despesas processuais e honorários advocatícios, os quais arbitro em 10% da condenação, nos termos do art. 20, § 3º, do CPC.
+Publique-se. Registre-se. Intimem-se.
+Após o trânsito em julgado, certifique-se e intimem-se as partes. Nada sendo requerido, arquivem-se os autos com as baixas e anotações necessárias.
+
+São Paulo, 06 de dezembro de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

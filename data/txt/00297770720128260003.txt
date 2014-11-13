@@ -1,0 +1,58 @@
+
+
+SENTENÇA
+
+Processo nº:0029777-07.2012.8.26.0003
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Material
+Requerente:HB Store Tecnologia Ltda - ME
+Requerido:Redecard S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Fábio Fresca
+
+
+Vistos.
+
+HB STORE TECNOLOGIA LTDA. - ME ajuizou a presente ação indenizatória em face de REDECARD S/A alegando que, em 20/04/2012, recebeu uma ligação telefônica de uma senhora indagando acerca de uma transação desconhecida realizada perante o estabelecimento comercial do autor. Após proceder às pesquisas devidas, pode constatar a fraude praticada por um terceiro desconhecido, que efetuou compras pela internet, todas com acesso e autorização prévia da ré, totalizando à autora um prejuízo de R$ 53.738,58, por estornos realizados à sua conta corrente. Requer a condenação do réu ao valor mencionado e a declaração de abusividade de algumas das cláusulas contratuais firmadas entre as partes. Com a inicial vieram documentos (fls. 35/275). 
+Citada (fls. 284), a ré apresentou contestação (fls. 286/317), alegando que as fraudes poderiam ter sido facilmente identificadas pela autora, em decorrência do aumento repentino no faturamento desta. Ademais, alega que a autora não observou às instalações necessárias para evitar fraudes virtuais. Com a contestação vieram documentos (fls. 318/392).
+Houve réplica (fls. 399/412).
+É o relatório.
+DECIDO.
+Não havendo necessidade de produção de prova em audiência, por se tratar de matéria de direito, e, de fato, provada por documentos, passo à decisão (artigo 330, inc. I do Cód. Proc. Civil).
+É incontroverso que as partes firmaram ?Contrato de Credenciamento e Adesão de Estabelecimentos ao Sistema Redecard?, como fazem prova os documentos de fls. 49/105 e 322/371. 
+O ponto controvertido reside no dever da requerida de indenizar os prejuízos causados à autora em decorrência de fraudes virtuais contra esta praticadas. 
+Nesse sentido, é importante lembrar que a responsabilidade da ré decorre do risco do negócio e, portanto, possui natureza objetiva. Assim, autorizado o pagamento pela requerida, o autor poderá realizar a venda, sem que à ele incorram futuros prejuízos por desídia da primeira. Se posteriormente o portador do cartão questiona o lançamento que foi feito em sua fatura e a impugnação é aceita, quem arca com o prejuízo é a requerida, e não o vendedor.
+Se eram suspeitas as transações arguidas, em curto espaço de tempo, os sistemas de segurança da requerida tinham que bloquear o cartão. Mais ainda, não podiam ser emitidas autorizações para que os negócios fossem realizados. O estorno ou o não pagamento da venda ao vendedor a só poderia se dar se a venda fosse feita sem solicitação de autorização. Na hipótese, se o negócio fosse questionado pelo portador do cartão e a insurgência aceita, quem arcaria com o prejuízo seria realmente o autor. O negócio se daria por conta e risco dele e a invocada cláusula permitiria que o estorno do valor repassado fosse feito. No entanto, autorizada a venda, o vendedor faz jus ao recebimento do valor que lhe é devido.
+Como já mencionado, a responsabilidade da ré decorre de ?fortuito interno? e, portanto, objetiva nos termos do artigo 927 do Código Civil. O Tribunal de Justiça de São Paulo já teve a oportunidade de se pronunciar nesse sentido, até mesmo em casos envolvendo a mesma requerida. São exemplos os seguintes julgados:
+?RESPONSABILIDADE CIVIL. INDENIZATÓRIA. Cerceamento de defesa não configurado - Danos morais e materiais - Movimentações fraudulentas efetuadas em conta corrente do autor, à sua revelia, mediante operações por cartão magnético - Provável "clonagem" do cartão da vítima, desprovido de tecnologias que propiciam maior segurança - Responsabilidade objetiva pelo fato do serviço só ilidível feita prova, pelos demandados, de que os lançamentos suspeitos decorreram de culpa exclusiva da vitima ou de terceiro (ou prova  conclusiva de que as transações eletrônicas foram efetivadas pelo autor) - Prova que não é impossível - No caso concreto, ao contrário, os réus alçaram os fatos à categoria de incontroversos, diante da revelia do Banco Nossa Caixa, e diante da não impugnação especifica da narrativa autoral pela Redecard - Inteligência do CDC, art. 14, §3°; CC, art. 642, do CC/02 - Ambos os fornecedores detêm legitimidade passiva à causa e respondem solidariamente pelo ilícito - Eventual fraude cometida por falsário ignorado não é genuíno fato de terceiro, porque não elide o nexo causai (já que há obrigação contratual de zelar pela segurança das operações); é, quando muito, "fortuito interno" à organização da atividade bancária ? Súmula 479/STJ - Danos materiais e morais configurados ? Quantum compensatório moral arbitrado com proporcionalidade e moderação, observados os vetores que orientam a matéria, em R$ 7.000,00, afora juros e atualização monetária? (Apel. n.° 0019278-29.2006/TJSP)
+?RESPONSABILIDADE CIVIL. CARTÃO DE CRÉDITO. EMPRESA ASSOCIADA À ADMINISTRADORA. aceitação do cartão como meio de pagamento estorno de valores pela administradora, pertinente a compras realizadas e posteriormente contestadas pelo portador do cartão impossibilidade valor referente às vendas questionadas que deve ser arcado pela administradora danos materiais existentes recurso desprovido.? (Apel. nº 0216139-25.2009/TJSP)
+?Compra e venda mercantil - Pagamento com cartão de crédito - Autorização da administradora - Apuração posterior de falsidade dos cartões apresentados - Estabelecimento que tomou todas as cautelas na conferência da regularidade dos cartões responsabilidade da administradora, que deve arcar com os riscos inerentes de sua atividade -Decisão mantida - Recurso improvido? (Apel. 991.99.067119-5/TJSP)
+?Ação de cobrança. Vendas pela internet por meio de cartão de crédito. Administradora que autoriza a concretização dos negócios. Cláusulas que estabelecem hipóteses específicas de retenção dos respectivos valores, ou de estorno, se já repassados. Ausência, porém, de comprovação de sua ocorrência. Retenção dos valores indevida. Clonagem e demais fraudes abrangidas pelo risco inerente à atividade exercida pela administradora. Sentença mantida. Recurso improvido? (Apel. 0155118-82.2008/TJSP)
+O fato de que o autor ter optado pelo Sistema de Comercialização Direta, em que são autorizadas transações virtuais em vez de o comparecimento presencial do comprador, não afasta a responsabilidade da ré pelos prejuízos causados, já que a autorização por esta concedida deve, sim, assegurar a certeza de recebimento dos créditos advindos das vendas. 
+Não fosse o caso, estaríamos a admitir um ônus muito grande ao autor, o qual teria de arcar com quaisquer fraudes motivadas pela autorização da ré, mesmo quando estas tivessem sido feitas sem a atenção e o cuidados necessários. 
+Também nesse sentido podemos concluir pela abusividade da Cláusula que afasta da requerida o dever de pagamento quando o titular do cartão não reconhecer a transação. Trata-se de dispositivo que revela posição de extrema vantagem à requerida, a qual transfere ao autor o ônus de provar a regularidade de todas as vendas efetuadas nessas condições, o que não se coaduna com a boa fé contratual esperada de ambos os contratantes. 
+A jurisprudência, sobre o tema:
+?Ação de cobrança. Contrato de adesão de estabelecimento comercial ao sistema Redecard. Compra autorizada pela administradora de cartões de crédito e posteriormente contestada pelo titular do cartão. Recusa da administradora em realizar o pagamento dos valores. Previsão contratual que atribui a responsabilidade ao aderente do Sistema Redecard. Cláusula abusiva. Vantagem exagerada manifesta. Risco da atividade negocial que deve ser suportado pela administradora de cartões. Ausência de comprovação de negligência do estabelecimento comercial no ato da venda. Visibilidade dos fatos da vida que enseja exegese que não lance uma parte a serviço da outra. Dever de ressarcimento. Recurso provido para julgar procedente a ação.? (Apel. nº 9154177-85.2008/TJSP)
+?Prestação de serviços. Cobrança. Empresa apelante afiliada do sistema Redecard para a aceitação de compras com cartões de crédito. Operações autorizadas pela administradora do cartão e que posteriormente deixaram de ser pagas à empresa autora, sob alegação de fraude, posto que as compras não teriam sido reconhecidas pelos titulares do cartão. Ação julgada improcedente. Apelação. Alegação de que as questões relativas à segurança da venda são de responsabilidade da administradora de cartões. Vendas devidamente autorizadas pela administradora. Não comprovação pela ré de que a autora agira fraudulentamente na venda. Fraude (clonagem de cartões) que não afasta o risco da exploração dos serviços pela administradora. Sentença reformada. Recurso provido.? (Apel. 9154586-32.2006/TJSP).
+Por fim, o dispositivo que prevê a rescisão unilateral, com a consequente quitação de quaisquer indenizações pendentes até o momento (Cláusula 39, fls. 64), também se mostra abusiva em favor da empresa ré, já que tal liberação afastaria valores como os da presente demanda, decorrentes de culpa da própria requerida. 
+Sendo assim, embora seja lícito às partes rescindir o Contrato nos termos estabelecidos, abusividade há na previsão de liberação dos valores indenizatórios, já que comprovada a responsabilidade da ré pelos prejuízos ocasionados na presente demanda. 
+Ante o exposto, com resolução de mérito (art. 269, inc. I do Cód. de Proc. Civil), JULGO PROCEDENTE a ação para CONDENAR a ré ao pagamento do valor de R$ 53.738,58 (cinquenta e três mil, setecentos e trinta e oito reais e cinquenta e oito centavos ? fls. 258/270) a título de danos materiais, devidamente corrigido de acordo com os índices de atualização do Tribunal de Justiça e acrescidos de juros de 1% ao mês, contados da citação, e para DECLARAR abusivas as cláusulas mencionadas na inicial. Por força da sucumbência condeno a requerida ao pagamento das custas processuais e honorários advocatícios que fixo em 10% sobre o valor da condenação (art. 20 § 3º Cód Proc. Civil).
+ PRI
+São Paulo, 03 de maio de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA
+
+C E R T I D Ã O
+Certifico que nesta data fiz o registro da r. sentença retro dos presentes autos no Sistema SAJ/PG5 e baixo-os em Cartório. São Paulo, 6 de maio de 2013. Eu,..............., Escrevente, subscrevi.
+
+D A T A
+Em São Paulo, 6 de maio de 2013, recebi estes autos em Cartório.Eu,...............Escrevente, subscrevi.
+C E R T I D Ã O
+Certifico e dou fé, em cumprimento à Lei 11.608 de 29.12.2003, que o valor do preparo, para o caso de recurso, é de R$ ..................... (valor singelo) e R$ .......................... (valor corrigido) - Cód. 230- Guia GARE e o valor do porte de remessa e retorno dos autos conforme Prov. 833/2004 é de R$ ........................  (0.... Volume(s ))- Cód. 110-4- FEDTJ. São Paulo, 6 de maio de 2013.
+______________________________________________
+p/Escrivã(ão).
+
+R E M E S S A
+Certifico e dou fé haver remetido à imprensa oficial a sentença/certidão de fls. retro e supra. São Paulo, 6 de maio de 2013. Eu, .............., Escrevente, subscrevi.

@@ -1,0 +1,52 @@
+
+
+SENTENÇA
+
+Processo nº:0010608-34.2012.8.26.0003
+Classe ? Assunto:Procedimento do Juizado Especial Cível - Perdas e Danos
+Requerente:Dirceu de Souza
+Requerido:Itaú Unibanco S/A.
+
+
+
+
+Juiz(a) de Direito: Dr(a). Samira de Castro Lorena
+
+
+Vistos.
+
+Dispensado o relatório (artigo 38 da Lei nº 9.099/95), passo a decidir.
+No caso concreto, temos que o réu, apesar de intimado (fls. 25), não compareceu à audiência de instrução e julgamento, de modo que deve ser considerado revel (artigo 20 da Lei nº 9.099/95), reputando verdadeiros os fatos aventados na inicial, o que, entretanto, não importa obrigatoriamente no acolhimento do pleito diante da livre valoração pelo juiz do conjunto probatório.
+Nesse diapasão, verifica-se que o pleito do autor merece parcial acolhida.
+Com efeito, a jurisprudência fixou entendimento de que a antecipação do VRG não desnatura o contrato de leasing (Súmula nº 293 do STJ - ?A cobrança antecipada do valor residual garantido (VRG) não descaracteriza o contrato de arrendamento mercantil?). 
+A par disso, a frustração do contrato em virtude do inadimplemento, com retomada do bem, autoriza o arrendatário a pleitear devolução do valor pago antecipadamente, pois inviabilizada a opção de aquisição do bem.
+Nesse sentido, conforme orientação da jurisprudência, uma vez rescindido o contrato é cabível a restituição do VRG:
+
+?AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL. ARRENDAMENTO MERCANTIL. CONTRATO RESCINDIDO ANTECIPADAMENTE. REINTEGRAÇÃO DA POSSE DO BEM. DEVOLUÇÃO DO VALOR RESIDUAL GARANTIDO (VRG). POSSIBILIDADE.
+1. Esta Corte Superior de Justiça tem entendimento pacificado no sentido de considerar que o arrendatário tem direito, após a restituição do bem na posse do arrendante, à devolução dos valores pagos antecipadamente a título de valor residual de garantia.
+2. AGRAVO DE INSTRUMENTO DESPROVIDO.? (STJ Ag. nº 1356195 - Rel. Min. PAULO DE TARSO SANSEVERINO j. 03/10/2011);
+
+?PROCESSO CIVIL - AGRAVO DE INSTRUMENTO - NEGATIVA DE PROVIMENTO - AGRAVO REGIMENTAL - CONTRATO DE ARRENDAMENTO MERCANTIL - LEASING - CÓDIGO DE DEFESA DO CONSUMIDOR - APLICABILIDADE - VRG - DEVOLUÇÃO DOS VALORES PAGOS - POSSIBILIDADE - SÚMULA 83/STJ - DESPROVIMENTO.
+1 - É pacífico nesta Corte o entendimento de que o Código de Defesa do Consumidor é aplicável aos contratos de arrendamento mercantil. Precedente (Ag 664.325/RJ, entre outros).
+2 - Igualmente, é firme o posicionamento deste Superior Tribunal de Justiça no sentido da possibilidade da devolução dos valores pagos a título de VRG, quando da rescisão dos contratos de leasing. Precedentes (REsp nºs 738.245/PR e 636.598/MG e AgRg Ag 549.567/SP). Aplicação da Súmula 83/STJ. 
+3 - Agravo regimental desprovido.? (STJ - AgRg no Ag 672.445/PR, Rel. Ministro JORGE SCARTEZZINI, QUARTA TURMA, julgado em 04/08/2005, DJ 22/08/2005, p. 297);
+
+?AGRAVO REGIMENTAL NO RECURSO ESPECIAL - CONTRATO DE ARRENDAMENTO MERCANTIL - LEASING ? INADIMPLEMENTO CONTRATUAL - VALOR RESIDUAL GARANTIDO (VRG) - DEVOLUÇÃO - POSSIBILIDADE - AGRAVO IMPROVIDO.? (STJ - AgRg no REsp 1115788/SP, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 25/05/2010, DJe 25/06/2010);
+ 
+?RECURSO ESPECIAL ARRENDAMENTO MERCANTIL RESOLUÇÃO POR INADIMPLEMENTO - AÇÃO DE REINTEGRAÇÃO DE POSSE ? VALOR RESIDUAL GARANTIDO PAGO ANTECIPADAMENTE DEVOLUÇÃO E COMPENSAÇÃO - POSSIBILIDADE.
+Diante da resolução do contrato de arrendamento mercantil por inadimplemento do arrendatário, é devida a devolução do chamado VRG, pago antecipadamente, à conta de ser uma conseqüência da reintegração do bem, assim como a compensação deste com eventual crédito existente em favor da empresa arrendante. Recurso especial conhecido e parcialmente provido.? (STJ - REsp 373674/PR, Rel. Ministro CASTRO FILHO, TERCEIRA TURMA, julgado em 29/06/2004, DJ 16/11/2004, p. 272);
+
+?RECURSO ESPECIAL. AGRAVO REGIMENTAL. AÇÃO DE RESCISÃO DE CONTRATO DE ARRENDAMENTO MERCANTIL. JULGAMENTO EXTRA PETITA. AUSÊNCIA DE PREQUESTIONAMENTO. 
+I. - É inadmissível o recurso especial quanto à questão que não foi apreciada pelo Tribunal de origem.
+II. -Diante da resolução do contrato de arrendamento mercantil por inadimplemento do arrendatário, retomada a posse direta do bem pelo arrendante, extinguiu-se a possibilidade de o arrendatário adquirir o bem. Por conseguinte, deve ser devolvido o valor residual pago antecipadamente. Agravo Regimental improvido.? (STJ - AgRg no REsp 1243889/SC, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 17/05/2011, DJe 27/05/2011).
+Esse também é o entendimento do Tribunal de Justiça de São Paulo:
+?Arrendamento mercantil de bens móveis - Ação de restituição de valores - Prescrição - Prazo de vinte anos (art. 177 do Código Civil de 1916) - Redução para dez anos (art. 205 do vigente Código Civil) - Prescrição afastada. Não transcorrido o prazo previsto em lei, não há como admitir-se configurada a prescrição. Arrendamento mercantil de bens móveis - Resolução contratual - Valor residual garantido - Pretendida devolução - Admissibilidade. Diante da resolução do contrato de arrendamento mercantil em razão de inadimplemento do arrendatário, é devida a devolução do chamado valor residual garantido, pago antecipadamente, à conta de ser uma consequência da devolução do bem. Recurso provido em parte.? (TJSP 30ª Câm. - Ap. nº 0156381-81.2010.8.26.0100 - Rel. Orlando Pistoresi j. 19/10/2011).
+Desta feita, os valores pagos a título de VRG devem ser devolvidos ao autor corrigidos monetariamente a partir de cada desembolso, incidindo juros moratórios de 1% ao mês a partir da citação. Referidos valores devem ser compensados com aqueles referentes às prestações em atraso do financiamento até a retomada do bem, com os encargos contratuais devidos pela mora, de modo que a efetiva restituição ao autor somente ocorrerá se houver, após as deduções, diferença em seu favor, observando sobre isso que o saldo remanescente do leasing foi liquidado conforme documento de fls. 18.
+A par disso, não há o que se falar em exclusão de débito junto ao BACEN e reparação de danos morais na medida em que, conforme já observado pela decisão de fls. 20, inexiste prova de pendência financeira referente ao leasing objeto do feito, bem assim porque o autor conta com restrição efetuada por outra financeira - OMNI (fls. 16).
+Diante do exposto, JULGO PROCEDENTE EM PARTE o pedido para condenar o réu à restituição do valor pago a título de VRG, com correção monetária desde o desembolso e juros de mora, de 1% ao mês desde a citação, com compensação dos valores devidos pelo autor (arrendatário) até a retomada do bem, a ser apurado na fase executiva. Julgo, pois, extinto o feito com resolução do mérito. Sem custas e honorários advocatícios (artigo 55, da Lei 9.099/95). Em caso de recurso inominado, o preparo recursal deverá ser recolhido nos termos da Lei estadual nº 11.608/03, artigo 4º, incisos I e II, e calculado em duas etapas. A primeira, calcular 1% sobre o valor da causa (dispensado quando da propositura da ação nos termos do artigo 54 da Lei nº 9.099/95, mas agora obrigatório seu recolhimento), sendo no mínimo 5 Ufesps, isto é, R$92,20 (resultado da primeira etapa). Na segunda etapa, calcular 2% sobre o valor da condenação (também no mínimo 5 Ufesps), somando-se com o valor encontrado da primeira etapa, resultando sempre um recolhimento mínimo de 10 Ufesps, isto é, R$184,40, (podendo ser maior dependendo do valor da causa ou da condenação), devendo o advogado ficar atento que em casos de improcedência do pedido, os 2% devem ser calculados com base no valor dado à causa. Deverá ainda ser recolhido o porte de remessa e retorno dos autos ao Colégio Recursal, no valor de R$ 25,00 (por volume), a ser recolhido em guia do fundo de despesas do Tribunal de Justiça (cód. 110-4), nos termos do Provimento nº 833/04 do Conselho Superior da Magistratura.
+P.R.I.
+São Paulo, 17 de outubro de 2012.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

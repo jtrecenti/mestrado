@@ -1,0 +1,54 @@
+
+
+SENTENÇA
+
+Processo nº:0013956-79.2011.8.26.0008 - Procedimento Ordinário
+Requerente:Gerson Gonçalves Amador
+Requerido:Microsoft Informatica Ltda
+
+
+CONCLUSÃO
+Em 27 de setembro de 2012, faço estes autos conclusos à MMª. Juíza de Direito, Dra. Ana Carolina Vaz Pacheco de Castro da  5ª Vara Cível do Foro Regional Tatuapé. Eu, ______ Katia Lopes Gonçalves, Escrevente, digitei.
+
+
+VISTOS.
+
+
+Trata-se de ação de obrigação de fazer proposta por GERSON GONÇALVES AMADOR em face de MICROSOFT INFORMÁTICA LTDA., visando a obtenção do endereço IP (?Internet Protocol?) de quem teria criado a conta MSN GERSON-GONÇALVES1@HOTMAIL.COM e acessado a conta LUMAZZINHA@HOTMAIL.COM nos dias 28 e 29 de julho de 2011, bem como do número ISP (?Internet Service Provider?), com identificação do provedor de acesso, de onde partidas mensagens, em seu nome, contemplativas de ofensa a Luciana Mazza de Almeida, pessoa de seu relacionamento. Houve pedido de tutela antecipada.
+A tutela antecipada foi deferida para os fins pretendidos.
+Citada, a ré ofereceu resposta, oportunidade em que alegou, preliminarmente, a carência de ação por sua ilegitimidade passiva, pois não é responsável, não administra e não tem qualquer relação com o serviço de correio eletrônico referido nos autos, sendo responsável pelo Hotmail a Microsoft Corporation; bem como a impossibilidade de realização da obrigação imposta, por não ter acesso aos servidores internacionais da Microsoft Corporation. No mérito, sustentou a improcedência da ação, argumentando a existência de conflito de leis no tempo como óbice à apresentação dos dados; a proteção constitucional ao sigilo dos dados e comunicações de quem se vale de seus serviços de provedor; e que a quebra de sigilo importa violação do direito de intimidade. Ao final, acrescentou que para a obtenção das informações pretendidas, suficiente, apenas, a expedição de ofício endereçado à Microsoft Corporation.
+Registre-se réplica.
+É o relatório.
+
+F U N D A M E N T O   E  D E C I D O.
+
+O feito comporta julgamento no estado em que se encontra, por dispensar a produção de outras provas e versar apenas matéria de direito, nos termos do artigo 330, inciso I do Código de Processo Civil.
+De proêmio, afasto as preliminares invocadas pela ré em sua defesa, por entender irrelevante que a empresa ré e a Microsoft Corporation possuam personalidades jurídicas e objetos sociais distintos, porquanto fazem parte do mesmo grupo econômico, sendo que ambas se valem do nome ?Microsoft? para o sucesso de seus negócios, o qual goza de extrema credibilidade perante os consumidores e é do resultado final de sua comercialização a fonte inequívoca dos ganhos empresariais.
+Assim, tratando-se de relação de consumo, não há como subtrair a responsabilidade da ré, sob a fundamentação de que esta seria imputada exclusivamente à empresa incumbida da administração do correio eletrônico.
+Aliás, ?Basta uma simples ?navegada? pela Internet para se constatar que o serviço Windows Live Hotmail, por meio do qual se tem acesso aos e-mails com a extensão de domínio @hotmail.com (MSN Hotmail) e MSN Messenger é de propriedade da mundialmente conhecida Microsoft, disponibilizado no Brasil, em português, por meio do site www.hotmail.com. Conforme se verifica no documento de fls. 25, a Microsoft Corporation é a sócia majoritária da agravante que tem por objeto social, entre outras, a ?prestação de serviços de veiculação e divulgação de textos e anúncios pela Internet? (TJSP, AI 57 5.52 5-4/0-00, rel. Álvaro Passos, J. 08.10.2008).
+Portanto, dada a comunhão de interesses comerciais entre as duas empresas e na ausência de representante legal, conhecido, para responder pelos atos da Microsoft Corporation no Brasil, a substituição de uma pela outra se impõe, fundado na teoria da aparência. 
+Em casos análogos, já decidiu o Tribunal de Justiça de São Paulo:
+?Obrigação de fazer - Preliminares afastadas - Mesmo grupo econômico - Ambas se valem do nome ?Microsoft? para o sucesso de seus negócios - Relação de consumo - Não há como subtrair a responsabilidade da agravante - Mérito - Agravada vítima de fraude, mediante o uso da internet - Ao se conectar à rede, o usuário recebe número de IP, o qual pode apontar a identidade do usuário - Agravo interno não provido? (Agravo Regimental nº 0116255-27.2012.8.26.0000/50000, 8ª Câmara de Direito Privado, J. 08/08/2012, Rel. Des. Helio Faria)
+
+ ?AGRAVO DE INSTRUMENTO - Obrigação de fazer - Decisão que deferiu a liminar para que a Microsoft Informática Ltda. forneça o IP do computador e os dados cadastrais de determinado endereço eletrônico do Hotmail e informe o número do IP Possibilidade - Legitimidade passiva - Comunhão de interesses comerciais - Violação do sigilo não configurada Precedentes - Recurso não provido?. (Agravo de Instrumento 0010386-75.2012.8.26.0000, 2ª Câmara de Direito Privado, J. 08/05/2012, Rel. Des. Luís Francisco Aguilar Cortez.).
+
+?AGRAVO DE INSTRUMENTO - Medida cautelar - Site de relacionamento e e-mail - Decisão que deferiu a antecipação da tutela para que a agravada retire os perfis mencionados do seu site de relacionamento, bloqueie o e-mail descrito e forneça os dados necessários para a identificação do responsável - Inconformismo ? Inadmissibilidade - Legitimidade passiva ad causam da agravada, integrante do mesmo grupo econômico da Microsoft Corporation ? Teoria da aparência Dano à imagem da agravada não negado pela agravante - Presença dos requisitos do art. 273 do Código de Processo Civil - Decisão mantida - Recurso desprovido? (AI 0255703-49.2011.8.26.0000, Rel. J. L. Mônaco da Silva, J. 21.03.2012)
+
+?COMINATÓRIA - Hipótese de violação de e-mail - Antecipação de tutela deferida para bloquear o acesso e o funcionamento da conta invadida, MSN inclusive - Existência de grupo econômico que não pode prejudicar o consumidor - Teoria da aparência - Precedentes desta Corte - No Brasil, a Microsoft Informática (filial) é a Microsoft Corporation (controladora) - Recurso desprovido?. (Agravo de Instrumento nº 0033785-36.2012.8.26.0000, 7ª Câmara de Direito Privado, J. 20/06/2012, Rel. Ferreira da Cruz)
+Por derradeiro, conforme se extrai do Agravo de Instrumento nº 0151685-74.2011.8.26.0000, do Egrégio Tribunal de Justiça de São Paulo, relatado pelo Desembargador Maurício Ferreira Leite, julgado em 10.08.2011, ?(...) o Colendo STJ já pacificou entendimento de que uma empresa tem legitimidade para responder pelas obrigações de outra, componente do mesmo grupo econômico, fundando-se tal posicionamento, especialmente, na teoria da aparência. Nesse sentido, assim decidiu o Ministro Aldir Passarinho, no Resp. nº 63981/SP, se ?empresas nacionais se beneficiam de marcas mundialmente conhecidas, incumbe-lhes responder também pelas deficiências dos produtos que anunciam e comercializam, não sendo razoável destinar-se ao consumidor as conseqüências negativas dos negócios envolvendo objetos defeituosos. (...)? (Resp. 63981/SP, 4ª Turma do STJ, Rel. Min. Aldir Passarinho Júnior, p. 20.11.2000).
+No mérito, melhor sorte não foi reservada à ré. Vejamos.
+Não se nega que os dados que a ré detenha dos usuários, seus clientes, estejam cobertos pelo direito constitucional à privacidade. Com efeito, e como corolário deste direito fundamental, garante a Constituição Federal a inviolabilidade da correspondência e das comunicações telegráficas, de dados e de comunicações telefônicas, salvo por ordem judicial, e nem só na última destas hipóteses, em interpretação, do art. 5o, inciso XII, conforme a constatação de que nenhuma das liberdades essenciais é absoluta e ilimitada, se, afinal, convivem com outros bens fundamentais de igual hierarquia (v.g. Alexandre de Moras, Direito Constitucional, Atlas, 9a ed., p. 78).
+Aliás, neste mesmo sentido, e tratando especificamente da privacidade na rede de computadores, acentua Roberto Senise Lisboa que a violação lícita pode se dar, sempre excepcionalmente, mas quando seja de se ponderarem direitos outros, alheios, de igual dignidade, bem a denotar que, antes de absoluto, aquele direito conforma-se à exigência de proporcionalidade quando em conflito com interesses igualmente dignos de tutela  (A Inviolabilidade de Correspondência na Internet. In: Direito e Internet ? Aspectos jurídicos relevantes. Coord. Newton de Lucca e Adalberto Simão Filho. EDIPRO. p. 485).
+Posto isto, como se sabe, ao se conectar à rede, o internauta recebe um número de IP (?Internet Protocol?), o qual detecta o computador ou outro meio idôneo utilizado para acessar o serviço, o que , por sua vez, pode apontar a identidade do usuário.
+Na espécie, tudo está a indicar que o autor foi vítima de fraude, mediante o uso da internet. Assim, ante a existência ato ilícito, pode-se afirmar que ?o direito ao sigilo e à privacidade assegurado na Constituição Federal não pode ser sobreposto à pretensão de se apurar suposta fraude cometida via internet, sob risco de se acobertar os ilícitos praticados e, inclusive, incentivar a ocorrência de tais fatos" (TJSP, Agravo de Instrumento 0043318-24.2009.8.26.0000, Rel. Roberto Mac Cracken, 5ª Câmara de Direito Privado, J. 27/05/2009).
+Assim, incumbe à ré o fornecimento dos dados solicitados na inicial, não cabendo a este Juízo a expedição de ofício para esse fim a empresa que não faz parte do processo.
+Ante o exposto, JULGO PROCEDENTE o pedido para determinar à ré, no prazo de 10 dias, que forneça o IP do computador e os dados cadastrais do endereço eletrônico do Hotmail especificado na inicial, com identificação do número ISP e do provedor de acesso, sob pena de multa diária já majorada de R$ 1.000,00, preservando-se seu sigilo neste feito.
+Em razão da sucumbência, condeno a ré a pagar as custas, despesas processuais e honorários advocatícios da parte contrária, ora arbitrados em R$ 500,00.
+P.R.I.
+
+São Paulo, 05 de outubro de 2012.
+
+
+
+Ana Carolina Vaz Pacheco de Castro
+                  Juíza de Direito

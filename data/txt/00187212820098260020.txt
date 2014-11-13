@@ -1,0 +1,38 @@
+
+
+SENTENÇA
+
+Processo nº:020.09.018721-0
+Classe - AssuntoProcedimento Ordinário - Prestação de Serviços
+Requerente:Qualitá Granitos e Mármores Ltda.
+Requerido:Serasa SA
+
+
+Proc. nº 2009.018721-0 (2010/0933)  declaratória
+Proc. nº 2010.004226-0 (2010/0934) ? sustação de protesto
+
+Vistos. etc.
+
+QUALITÁ GRANITOS E MÁRMORES LTDA move AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE TÍTULO, C.C. DANOS MORAIS e MEDIDA CAUTELAR INOMINADA em face a SERASA S.A., alegando, em síntese, ter firmado contrato com a ré para consulta via Internet de seus bancos de dados e informações gerenciais, sendo que em 05/2008 ela enviou a NFe número 00293139 no valor de R$ 7.305,43, e como o valor é superior à média dos meses anteriores reclamou e a vista dos demonstrativos analíticos constatou acessos indevidos ocorridos nos dias 04, 22 e 26/04/2008, evidenciando invasão de hackers, sendo a cobrança suspensa, mas reativada em 07/2008 com negativação em 25/08/2009, depois suspensa em 30/07, comunicando a ré em 08/10/2009 rescisão do contrato e bloqueio de acessos, vindo a desbloquear em 02/11/2009 e novamente bloquear em 07/11/2009, depois enviado NFe no valor de R$ 1.434,67 de 11/2009 a despeito dos bloqueios, motivos pelos quais e com fundamento no CC e CDC requereu rescisão do contrato; declaração de inexigibilidade das faturas 00293139 e 0699069, e de outros que forem emitidas; e, indenização por danos morais.
+Na contestação (fls.197/211) a ré alegou, em síntese, que os acessos a seus sistemas via Internet são efetuados mediante contas-logons e senhas de conhecimento e guarda exclusivos da autora conforme cláusulas 13ª e 14ª do contrato, além de não ter conhecimento desses elementos de acesso, e consoante cláusulas 15ª, 16ª e 22ª procede a bloqueios de acesso quando atingido nível de 50% da média, sendo este o motivo de bloqueios havidos, bem como que emitiu cobrança de valor mínimo; sustentou a regularidade da negativação em face a falta de pagamento; negou culpa e obrigação de indenizar; impugnou os danos alegados; e, requereu a improcedência. 
+Em réplica (fls.285/287) a defesa foi refutada e ratificados os fundamentos e pedido.
+É o relatório. DECIDO.
+Julgo antecipadamente por prescindir da dilação probatória a vista das teses das partes e dos documentos juntados aos autos (CPC, art. 330, inc. I).
+Assim que a autora recebeu a cobrança de R$ 7.305,43 expediu carta a SERASA impugnando os acessos contados para a enfocada cobrança, conforme prova o respectivo documento de 30/07/08 (fls.30), novamente o fazendo aos 30/07/2009 (fls.32).
+E do exame dos demonstrativos analíticos dos acessos em 04/2008 vê-se que a autora tem razão na sua impugnação, pois condizente sua afirmação de que expressivo número de acessos o foi nos dias 04, 22 e 26/04/2008 e em períodos determinados desses dias, bem como com mínima variação temporal nos acessos, a grandíssima maioria de segundos, impondo concluir ter havido efetivamente falha nos sistemas da SERASA, pouco importando definir se causada por hackers ou não, ou ainda se via computador da autora ou não, já que nem a própria ré detectou acessos superiores à média anterior da autora e bloqueou os acessos como assim é sua ferramenta de segurança.
+De tal modo, detendo a SERASA os controles e ferramentas do sistema, sua é a obrigação de velar pela segurança exigida na prestação dos respectivos serviços de fornecimento de dados e informações, no que se insere os acessos de seus clientes, no caso descurando sem que se possa alçar à fato de terceiro o resultado advindo à autora, arredando em decorrência excludente de responsabilidade civil ou consumerista.
+É, todavia, parcialmente indevido o valor de R$ 7.305,43 da NFe 00293139, pois o sistema esteve à disposição da autora que efetuou também  acessos normais a exigir regular contraprestação financeira, cujo valor arbitro em R$ 1.412,11, o mesmo cobrado em 04/2008, este que reputo como parâmetro adequado por condizente com o equilíbrio contratual.
+Rejeito o pedido de inexigibilidade em relação a NFe 0699069, no valor de R$ 1.434,67, vencimento para 15/12/2009, pois apesar dos últimos bloqueios e desbloqueios o sistema esteve à disposição da autora e foi-lhe cobrado valor igualmente condizente com o equilíbrio contratual, além de previsto valor de consumo mínimo, até porque não cuidou a autora de denunciar o contrato com antecedência de 30 dias, conforme pactuado.
+Acolho, entrementes, o pedido de rescisão contratual, mas com termo final na data do aforamento da presente ação -18/12/2009 (fls.02)-, haja vista os efeitos do CPC, art. 219, repetido que até então a autora não havia manifestado perante a SERASA intenção de rescindir o contrato. Em decorrência são inexigíveis as faturas emitidas após a data da rescisão contratual ora fixada.
+Rejeito, outrossim, o pedido de indenização por dano moral, pois conquanto pessoa jurídica possa suportá-los, exige-se prova inconteste de reflexo concreto nas relações negociais, ônus que a autora não se desincumbiu à míngua da apresentação de qualquer documento na petição inicial ou réplica, até porque devido era algum valor à ocasião das cobranças e atitude alguma tomou para coartar mora, só ulteriormente o fazendo.
+Diante da parcial procedência reputo adequada a compensação das verbas de sucumbência.
+
+Isto posto e considerando o mais que dos autos consta, JULGO PROCEDENTE EM PARTE as ações e declaro resolvido o contrato entre as partes desde 18/12/2009; declaro inexigíveis as faturas de 18/12/2009 em diante; declaro exigível a NFe 00293139 pelo valor de R$ 1.412,11; rejeito a inexigibilidade da NFe 0699069, no valor de R$ 1.434,67; rejeito o pedido de indenização por dano moral; e, compenso as verbas de sucumbência.
+P.R.I.
+São Paulo, 25 de agosto de 2010
+
+
+
+
+JOSÉ WAGNER DE OLIVEIRA MELATTO PEIXOTO
+                         JUIZ DE DIREITO

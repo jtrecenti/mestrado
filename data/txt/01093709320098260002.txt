@@ -1,0 +1,48 @@
+
+
+SENTENÇA
+
+Processo nº:0109370-93.2009.8.26.0002 - Procedimento Ordinário
+Requerente:Eletroseg Comércio e Instalação de Equip. Eletrônicos e de Segurança Eletrônica Ltda - Epp
+Requerido:T.m. Data Brasil Ltda
+
+
+Juiz(a) de Direito: Dr(a). Edson Luiz de Queiróz
+
+
+
+
+
+VISTOS.
+
+
+Eletroseg Comércio e Instalação de Equip. Eletrônicos e de Segurança Eletrônica Ltda - Epp move ação de cobrança, em face de T.M. Data Brasil Ltda, alegando que firmou contrato de prestação de serviços com a ré, mas, que esta cobra valores indevidos, acima dos fixados em contrato. Informa que as mensalidades são fixadas de acordo com o tráfego de informações, as quais não atingem o limite contratado. Em razão desses fatos, alegado ocorrência de prejuízos morais. Pede a anulação das cobranças indevidas, reajustamento ao contratado, rescisão contratual e indenização por danos morais. 
+
+Regularmente citada, a ré ofereceu defesa, alegando regularidade das cobranças, visto que os serviços excedentes foram prestados, estão comprovados e são devidos. Pede improcedência. Houve réplica e foi determinada a realização de prova pericial. O laudo foi apresentado, a instrução foi encerrada e as partes apresentaram alegações finais por memoriais.
+
+É o relatório do essencial.
+Fundamento e decido. 
+
+Estão presentes os pressupostos processuais e as condições da ação. É dos autos que as partes firmaram contrato de "Prestação de Serviços  Comercial", visando operação de conectividade e serviço de entrega de informações. Segundo consta do contrato, a remuneração será calculada nos termos do quadro resumo, ou seja, "taxa de ativação por unidade: R$ 30,00; (...) taxa mensal por unidade: R$ 18,00 com 1 MB por unidade (...) taxa de Mb excedente: R$ 6,00 por MB excedente a 1 MB por unidade". 
+
+A questão posta nos autos se resolve pela aplicação da regra do artigo 333, inciso I, do Código de Processo Civil. O legislador estabeleceu certas e determinadas regras de julgamento, visando evitar que a distribuição do ônus da prova ficasse a exclusivo arbítrio do julgador. Nessas condições, ?as regras sobre ônus da prova implicam verdadeira ?distribuição de riscos? entre os litigantes, quanto ?mau êxito da prova?, constituindo sua aplicação, ?em certo sentido, como elemento de motivação, um sucedâneo da prova faltante? (José Carlos Barbosa Moreira, ?Julgamento e ônus da Prova?, págs. 75 e 81). Estabeleceu o legislador que incumbe ao autor os fatos constitutivos de seu direito e ao réu, a prova ?quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor?. 
+
+Para a solução do litígio foi deferida tão somente a produção de prova pericial. O perito judicial apresentou as seguintes conclusões, sendo transcritas apenas as mais relevantes para a solução do litígio:
+
+"Nos testes realizados no equipamento utilizado pela Requerente se verificou que em condições normais, o mesmo gera um tráfego estimado mensal de 0,98 Mbytes (conforme afirmado pela Requerente). Contudo, existem variáveis que podem influenciar bastante o volume de tráfego gerado pelo equipamento, podendo multiplicar o tráfego por várias vezes;
+Analisando-se as faturas emitidas pelas operadoras Claro e Tim à Requerida neste período, esta perícia constatou que algumas linhas telefônicas utilizadas pela Requerente geraram um tráfego mensal superior a 20 Mbytes. Com isto, este Perito  pode comprovar que o excedente de tráfego cobrado pela Requerida da Requerente foi efetivamente gerado, tarifado e cobrado pela operadora de telefonia celular à Requerida;
+(...)
+Portanto, esta perícia pode comprovar que o tráfego excedente contido nas faturas contestadas pela Requerente foi gerado pelos seus equipamentos e foram tarifados e cobrados pela operadora da Requerida". 
+
+Não foram produzidas quaisquer outras provas no sentido de corroborar as alegações trazidas pela autora. Em conseqüência, os pedidos formulados na petição inicial não podem ser acolhidos. As demais questões argüidas pelas partes ficam prejudicadas.
+
+
+Pelo exposto, JULGO IMPROCEDENTE o pedido inicial. Condeno a autora no pagamento das custas, despesas processuais e honorários advocatícios fixados em 15% (quinze por cento) sobre o valor da condenação, corrigido nos termos da Lei 6899/81. Após o trânsito em julgado desta decisão, nada sendo requerido, os autos serão arquivados independentemente de nova intimação.
+
+P.R.I.C.
+
+São Paulo, 21 de março de 2011.
+
+
+EDSON LUIZ DE QUEIROZ
+     Juiz de Direito

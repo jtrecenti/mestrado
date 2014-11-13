@@ -1,0 +1,58 @@
+
+
+SENTENÇA
+
+Processo Digital nº:1000860-84.2014.8.26.0004
+Classe - AssuntoProcedimento do Juizado Especial Cível - Indenização por Dano Material
+Requerente:Daniela  Gabriel de Oliveira e outros
+Requerido:Perboni e Perbonie Ltda e outro
+
+
+
+
+Juiz(a) de Direito: Dr(a). Fernando Salles Amaral
+
+Vistos.
+
+Relatório dispensado, nos termos do artigo 38 da Lei 9.099/95.
+
+Passo a analisar a preliminar de ilegitimidade passiva sustentada pela seguradora sob fundamento de que não tem vínculo jurídico com a parte autora, não podendo ser diretamente responsabilizada em juízo.
+
+O Egrégio Superior Tribunal de Justiça tem jurisprudência conhecida e consolidada no sentido de que a execução judicial pode ser direcionada à seguradora litisdenunciada quando o segurado litisdenunciante não paga a dívida.
+
+O mesmo tribunal, em recente julgamento de recursos repetitivos passou a admitir não só o direcionamento da execução contra a seguradora, mas sua condenação solidária juntamente com o litisdenunciante, in verbis:
+
+PROCESSUAL CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. SEGURADORA LITISDENUNCIADA EM AÇÃO DE REPARAÇÃO DE DANOS MOVIDA EM FACE DO SEGURADO. CONDENAÇÃO DIRETA E SOLIDÁRIA.POSSIBILIDADE.
+1. Para fins do art. 543-C do CPC: Em ação de reparação de danos movida em face do segurado, a Seguradora denunciada pode ser condenada direta e solidariamente junto com este a pagar a indenização devida à vítima, nos limites contratados na apólice.
+2. Recurso especial não provido.(REsp 925.130/SP, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 08/02/2012, DJe 20/04/2012)
+
+No caso dos autos, não se trata propriamente de requerimento de condenação solidária do litisdenunciado. Trata-se de seguradora que foi incluída no pólo da ação diretamente pela parte autora. Acolher a alegação de ilegitimidade passiva, sob fundamento de inexistência de relação jurídica de direito material entre as partes, certamente está em conflito com o avanço que a jurisprudência do STJ representou sobre o tema. Se o contrato de seguro não é negado pela seguradora, não faz o menor sentido que se afaste a iniciativa do próprio lesado, aguardando-se a iniciativa do segurado para incluir a seguradora na lide, ainda mais em sede de Juizado Especial Cível, em que a intervenção de terceiros é proibida.
+
+O jurista Humberto Teodoro Júnior, citado no julgamento do STJ acima, abordou sob a luz do Novo Código Civil a questão da suposta inexistência de relação jurídica entre o lesado e a seguradora, e opinou no seguinte sentido.
+
+"d) Outra grande inovação de direito material se deu em relação ao contrato de seguro de responsabilidade civil, que o CC não trata como fonte de obrigação de reembolso de indenização paga pelo segurado à vítima do dano, e sim como garantia de tal pagamento, a ser efetuado diretamente pela seguradora (CC, art. 787).
+e) Dessa remodelação do seguro decorre, em primeiro lugar, a ação direta do ofendido contra a seguradora, para haver a indenização a que esta se obrigou; e, em conseqüência desse vínculo estabelecido imediatamente entre a vítima do dano e a seguradora, não há mais lugar para falar-se em direito regressivo , nos moldes tradicionais, quando o segurado vem a ser demandado pela citada indenização. O que o CC implantou foi, na realidade, uma coobrigação do segurado e da seguradora perante a vítima do dano. 
+f) Não havendo direito de regresso, o caso do seguro de responsabilidade civil, quando a vítima do dano aciona o segurado, não mais se acomoda no regime da denunciação da lide, já que esta figura interventiva se acha estruturada especificamente para veicular ação regressiva (CPC, art. 70, III). g) Transformando o contrato de seguro de responsabilidade civil em instrumento de garantia, dele decorre uma coobrigação em prol da vítima do dano, de modo que esta pode demandar a indenização tanto do causador do prejuízo como de sua seguradora. Se assim é, a figura de intervenção de terceiro de que o segurado terá de se valer, quando acionado pelo ofendido, será o chamamento ao processo. É esse o remédio interventivo, e não a denunciação da lide, o próprio para inserir outros coobrigados no processo pendente instaurado apenas contra um deles (CPC, art. 77) (THEODORO JUNIOR, Humberto. Novidades no campo da intervenção de terceiros no processo civil: a denunciação da lide per saltum (ação direta) e o chamamento ao processo da seguradora na ação de responsabilidade civil. in. Revista Magister de Direito Civil e Processual Civil, vol. 1 (jul./ago. 2004). Porto Alegre: Magister, 2004, p. 37)."
+
+Em suma, com base nos argumentos apresentados, afasto a alegação de ilegitimidade passiva.
+
+No mérito, incontroversa a culpa do réu segurado, diante de sua revelia, e diante da ausência de impugnação específica sobre a questão pela seguradora. Ademais, a culpa foi confessada pelo condutor no Boletim de Ocorrência a fls.25. Resta assim apurar a responsabilidade dos réus, especialmente da seguradora nos limites do contrato de seguro.
+
+Diz a seguradora que somente pode ressarcir danos comprovados, mas o veículo não foi levado à oficina para averiguação. Contudo, a autora afirmou na inicial que levou o veículo em oficinas indicadas segundo orientação da própria seguradora, a qual não comparecia aos locais indicados para fazer vistoria, razão pela qual a oficina sempre solicitava a retirada do veículo diante da inércia da seguradora.
+
+Sobre tais alegações, a ré não se manifestou de maneira convincente, apenas alegando genericamente que não foi feita a vistoria para a constatação dos danos. Pelo que está estampado nos autos, diante da ausência de manifestação específica a respeito, a vistoria não foi feita pela seguradora simplesmente porque ela própria não cumpriu os agendamentos feitos pela autora, seguindo orientação da seguradora.
+
+Não obstante, nessas mesmas oficinas indicadas pela seguradora foram feitos os orçamentos de reparo trazidos pelos autores aos autos, os quais são perfeitamente válidos a comprovar os danos sofridos, até porque são oficinas indicadas pela ré.
+
+Também afasto a alegação de que deve ser decretada a perda total do veículo, com sua transferência de propriedade à seguradora e o pagamento de indenização pelo valor de mercado do veículo. O valor do reparo, é certo, atingiu 75% do valor de mercado do bem. Contudo, os danos ao veículo, embora extensos, apenas atingiu a lataria, sem prejudicar o funcionamento da parte mecânica. Não se trata, portanto, de danos que importam em verdadeira recuperação do veículo para que este volte ao mercado. Apenas são necessários serviços de funilaria, pintura e troca de peças.
+
+Os lucros cessantes, todavia, não foram devidamente comprovados nos autos. Não há prova no sentido de que os autores Felipe e Vanessa deixaram de auferir renda em razão dos danos causados ao veículo de Daniela. Dizem os autores que o veículo era usado por Vanessa, sob condução de seu esposo, que não pode mais levar os instrumento de seu trabalho ao Ceasa, onde vendia café, com o veículo. É preciso reconhecer que a alegação não tem prova suficiente nos autos. Inicialmente, sequer há prova de impossibilidade de uso do carro, mesmo com os danos sofridos. Também não há prova dos rendimentos auferidos, da impossibilidade de manter-se o trabalho exercido e do nexo causal entre os danos do veículo e a perda da remuneração. Enfim, nada neste sentido foi comprovado de maneira minimamente convincente.
+
+Em relação aos danos morais, há amparo nos autos para seu reconhecimento. A autora proprietária do veículo foi instruída a levar o veículo para diversas oficinas para a constatação dos danos, sem que a seguradora ré ao menos se prontificasse a comparecer nessas oficinas para fazer a avaliação. Em razão disso, o veículo ficou parado inutilmente nessas oficinas por vários dias. É óbvio que tal situação gera transtornos e é óbvio que se trata de descaso com as pessoas, que devem ser ressarcidas. Com base nessas considerações, fixo indenização por danos morais em R$ 6.000,00, para todos os autores. Porém, não considero comprovada a alegação de que houve perda da licença de venda de café em razão dos fatos alegados, o que não foi considerado para avaliar o dano moral.
+
+Ante o exposto, JULGO PARCIALMENTE procedente o pedido de indenização por danos materiais para o fim de condenar os requeridos, solidariamente, a pagar aos autores a importância de R$ 5.307,00, com juros de 1% ao mês e correção monetária pela  tabela do Tribunal de Justiça a partir de 28/09/2013, e para o fim de condenar os requeridos, solidariamente, a pagar aos autores a importância global de R$ 6.000,00, com juros de 1% ao mês e correção monetária pela  tabela do Tribunal de Justiça a partir da prolação da sentença. Por consequência, resolvo o mérito, com fundamento no artigo 269, I, do Código de Processo Civil. Sem custas nesta fase processual.
+
+PRI
+São Paulo, 07 de maio de 2014.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

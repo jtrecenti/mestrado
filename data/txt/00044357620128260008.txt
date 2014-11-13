@@ -1,0 +1,63 @@
+
+
+SENTENÇA
+
+       CONCLUSÃO
+Em 11 de outubro de 2012,
+Faço estes autos conclusos ao(à)
+MM.(ª) Juiz(íza) de Direito, 
+Dr. Luciane Cristina da Silva 
+Eu,          , Luciane Cristina da Silva, digitei e subscrevi.
+
+
+Processo nº:0004435-76.2012.8.26.0008 - Procedimento do Juizado Especial Cível
+Requerente:Antonio Carlos Rocha Souza
+Requerido:Itau Unibanco S/A
+
+
+
+Juiz(a) de Direito: Dr(a). Luciane Cristina da Silva
+
+
+
+Controle nº 553/12
+Vistos.
+
+Trata-se de ação declaratória c/c indenizatória.
+Dispensado o relatório nos termos do artigo 38 da Lei 9099/95.
+O autor afirma que não realizou as transações bancárias (saques em caixas eletrônicos e empréstimos bancários) mencionadas na inicial. Requer a restituição dos valores debitados de sua conta corrente, a declaração de inexigibilidade do débito referente aos empréstimos e a condenação do réu ao pagamento de indenização por danos morais.
+O réu alega que todas as operações foram realizadas com o uso de cartão magnético com chip e senha de conhecimento exclusivo do autor. Afirma que as transações foram realizadas ao longo de um mês, sempre no limite diário de saque, em caixas próximos à residência do autor, o que não é característico de prática de fraude. Afirma que houve culpa exclusiva da vítima ao guardar seu cartão e senha. Nega a caracterização dos danos morais alegados. 
+O pedido é parcialmente procedente.
+Por mais modernas que sejam as formas de contratação atuais (caixas eletrônicos, via internet, ligações telefônicas, entre outras), essencialmente, qualquer negócio ou ato jurídico "consiste na manifestação de vontade que procura produzir determinado efeito jurídico". No caso em tela, o saque e os empréstimos eram negócios jurídicos que visavam à obtenção de numerário em espécie, sendo o primeiro apenas a retirada de quantia já existente em conta corrente e o segundo a captação de quantia do banco, para pagamento a posteriori, com juros. Para a questão posta, importa destacar que o banco oferece aos seus clientes meios eletrônicos para a celebração de tais negócios jurídicos, nos quais a vontade do contratante é manifestada mediante a digitação de uma senha numérica.
+O banco alega, em síntese, que a digitação desta senha numérica é condição única e suficiente para a demonstração da vontade da parte de contratar e que o mau uso desta senha é imputável à própria parte (culpa exclusiva da vítima que elide a responsabilidade do fornecedor). 
+Em que pesem os argumentos do réu, entendo que esta interpretação é excessivamente simplista e desconsidera alguns aspectos da realidade cotidiana.
+A obtenção de uma senha numérica por terceiros mal intencionados é relativamente simples, especialmente quando o usuário anota sua senha em algum papel. O banco não demonstra que informa seus clientes, de forma específica, para não anotarem a senha de qualquer forma. Ademais, há que se questionar a viabilidade absoluta de tal orientação, pois, com a crescente utilização de serviços bancários por pessoas sem nenhuma familiaridade com meios eletrônicos, não seria razoável exigir que todos os clientes memorizem senhas de seis dígitos. 
+Este é um importante aspecto a ser considerado no caso em tela. Com efeito, o depoimento pessoal do autor e a assinatura deste (fls. 23) demonstram, de forma inequívoca, que o requerente é uma pessoa simples, de pouca escolaridade e, consequentemente, com dificuldade de lidar com meios eletrônicos de contratação. Não é por outra razão que o autor afirmou que nunca usa terminais eletrônicos e nem faz compras utilizando cartão de débito. O autor, como tantos outros de sua mesma faixa etária e grau de instrução, saca todo seu benefício previdenciário diretamente no caixa. 
+O extrato juntado as fls. 47 confirma sua alegação. Observo que nos meses de setembro e outubro de 2011 o autor sacou R$1.200,00 e R$824,00, exatamente no dia do recebimento de seu benefício previdenciário. Estes valores representam quase a totalidade da aposentadoria do autor e não foram sacados em terminais eletrônicos, mas sim em caixas de atendimento, com o uso do cartão magnético. 
+Assim, considerando-se este perfil de uso da conta-corrente do autor, verossímil sua alegação de que os saques ocorridos quase que diariamente no período compreendido entre 26.09 a 17.10.2011, bem como os empréstimos celebrados no mesmo espaço de tempo, não foram por ele realizados. 
+Há ainda que se destacar que o autor percebe benefício previdenciário de aproximadamente R$875,00. Impossível deixar de observar que com tão parca renda ainda foi possível a celebração de quatro empréstimos, entre os dias 26.09 e 07.10.2011, com a liberação em conta-corrente do autor valor total de R$8.960,00. 
+Todos estes fatores permitem aferir que, na hipótese dos autos, a simples digitação de uma senha numérica não pode ser considerada como a manifestação da vontade do autor. Com efeito, todas as transações contestadas divergem, radicalmente, do perfil de consumo do requerente e mostram-se excessivas em comparação com seus rendimentos. Ressalte-se que tais divergências são perfeitamente aferíveis pela instituição financeira que poderia, de plano, bloquear as transações. 
+Na realidade, é justamente porque a senha numérica não é suficientemente segura para aferir a vontade de contratar que as instituições financeiras estão investindo em mecanismos de identificação do cliente mais sofisticados como a biometria e a leitura da íris. Veja-se que os meios eletrônicos de contratação, muito mais do que uma facilidade para o consumidor, representam uma diminuição significativa de custos para a instituição financeira. Logo, é ônus desta o desenvolvimento de mecanismos que garantam a total segurança de tais contratações, com fundamento no artigo 927, § único do Código Civil. 
+Desta feita, considerando-se que não há prova da manifestação da vontade do autor para a realização das operações mencionadas na inicial e que houve falha da instituição financeira ao liberar as referidas transações em total desacordo com o perfil de uso do requerente, procedente o pedido atinente à declaração de nulidade dos empréstimos e à devolução das quantias subtraídas da conta corrente. Há, no entanto, que se observar que a maior parte dos saques foram absorvidos pelos valores dos empréstimos e que, com a declaração de inexigibilidade destes, apenas as prestações atinentes a estes contratos devem ser objeto de devolução, além de eventuais quantias que superaram o numerário liberado em favor do autor (que, conforme a própria contestação, é de R$1380,00). 
+O pedido referente à indenização por dano moral é improcedente. O autor descreve como causa de pedir deste pleito o fato de o réu ter-lhe atribuído a "pecha de cuidar mal de seu cartão". Esta conduta, por si só, não causou lesão à honra, à dignidade ou a qualquer outro bem jurídico imaterial do autor.       
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE O PEDIDO.
+Declaro nulos os contratos de empréstimos celebrados entre as partes entre os dias 26.09 a 07.10.2011. Condeno o banco à devolução das quantias descontadas da conta-corrente do autor ou de seu benefício previdenciário referente a tais contratos, atualizadas pela Tabela Prática do Tribunal de Justiça desde a data dos efetivos descontos, acrescidas de juros legais de 1% ao mês desde a citação. Condeno ainda o banco ao pagamento de R$1380,00, devidamente atualizado desde outubro de 2011, com juros legais de 1% ao mês desde a citação.
+Torno definitiva a antecipação da tutela. Eventual execução de multa pelo descumprimento da medida caberá ao autor, em autos apensos. 
+Deixo de condenar a vencida nas verbas da sucumbência nos termos do artigo 55 da Lei 9.099/95. a) O prazo para interposição de recurso é de 10 (dez) dias, contado da intimação; b) na hipótese de não haver recurso, após o trânsito em julgado, terá prazo de 10 (dez) dias para retirada de documentos que instruíram o processo, sob pena de inutilização; c) efetuado o pagamento voluntário, fica desde já deferida a expedição de guia de levantamento em favor do credor, devendo ser intimado para retirada, no prazo de 10 dias, sob pena de cancelamento. Com o trânsito em julgado, comunique-se ao Distribuidor e após 180 dias, desmontem-se os autos. Registre-se. 
+Em caso de recurso: Valor do preparo = R$ 436,80 (Guia GARE-DR, Código 230-6). Despesas de porte de remessa e retorno por volume de autos = R$ 25,00 (Guia FEDTJ, código 110-4).
+P.R.I.C..  
+São Paulo, 11 de outubro de 2012.
+
+
+
+Luciane Cristina da Silva
+         Juiz(íza) de Direito
+
+
+
+
+      RECEBIMENTO
+Em
+Recebi os autos em Cartório com 
+a sentença supra, que torno pública.
+Eu,                       , escrevente, subscrevi.

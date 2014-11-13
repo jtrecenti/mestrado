@@ -1,0 +1,58 @@
+
+
+SENTENÇA
+
+Processo nº:0047532-21.2010.8.26.0001
+Classe - AssuntoProcedimento Ordinário - Liminar
+Requerente:Oswaldo Machado de Oliveira Junior
+Requerido:Amil Assitência Médica Internacional
+
+
+
+
+Juiz(a) de Direito: Dr(a). Priscila Devechi Ferraz Maia
+
+
+Vistos.
+
+OSWALDO MACHADO DE OLIVEIRA JUNIOR  ajuizou a presente ação cominatória, com pedido de tutela antecipada, em face de AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL, alegando, em síntese, que após exames, foi constatado que possui enfisema pulmonar e um nódulo não calcificado, já diagnosticado como câncer. Esclarece que em consulta com médico indicado pelo plano, este teria indicado a realização de cirurgia de resseção pulmonar, bem como a realização e exames pré-operatórios, sendo um deles o exame de petscan integrado, necessário para diagnosticar se o nódulo existente no pulmão é oriundo de outros órgãos, qual o tipo deste nódulo, bem como se o autor possui outros nódulos em seu organismo. Informa que a requerida se negou a  autorizar a realização o exame indicado pelo médico.  Pede a condenação da requerida na obrigação de autorizar a realização do exame de petscan integrado (fls. 02/16).
+A tutela foi deferida a fls. 72/76.
+Após a concessão da tutela antecipada, o autor juntou petição, na qual requereu o aditamento da inicial, informando que por conta da urgência da cirurgia, não pôde esperar a intimação da requerida quanto ao deferimento da tutela antecipada, razão pela qual acabou por arcar com os custos do exame pré-operatório, no valor de R$ 3.336,00. Pede, assim, a condenação da requerida na obrigação de restitui o valor por ele despendido, bem como no pagamento de indenização por danos morais (fls. 100/121).
+Recebido o aditamento (fls. 128), a requerida foi citada e ofereceu contestação (fls. 149/165), na qual sustenta que o exame não estaria previsto no rol expedido pela ANS e, portanto, não estaria coberto pelo plano do autor. Argumenta que em razão da ausência de cobertura, não teria a obrigação de reembolsar os valores despendidos pelo autor com a realização do exame. Por fim, impugna os danos morais pleiteados.
+Réplica a fls. 190/223.
+
+É o relatório.
+DECIDO.
+
+O processo comporta julgamento antecipado, com fundamento no artigo 330, inciso I, do Código de Processo Civil, uma vez que a matéria fática só admite prova documental que se encontra ou deveria estar presente nos autos.
+Primeiramente, deve ficar consignado que na hipótese dos autos há a aplicação do Código de Defesa do Consumidor uma vez que o autor se enquadra na definição de destinatária final do art. 2º do CDC e a ré na hipótese de fornecedora do art. 3º do mesmo diploma legal, já que disponibiliza serviços de saúde de forma habitual e contínua e de maneira a intervir no mercado.
+A ação é procedente.
+Consta da inicial que, a empresa-ré se negou a cobrir as despesas para a realização do exame denominado petscan. A ré fundamenta sua recusa basicamente na alegação de que o exame de petscan integrado não estaria coberto pelo plano contratado pelo autor, uma vez que tal exame não consta do rol editado pela ANS, todavia, em nenhum momento menciona a cláusula contratual restritiva, nem mesmo junta cópia do contrato, a fim de justificar a negativa em questão, o que era essencial para demonstrar que existe um lastro para a sua recusa e que o autor foi devidamente informado de seu teor. 
+A simplista alegação de que tal exame estaria descoberto, posto que não constante do rol de procedimentos editado pela ANS, não prospera, posto que os documentos de fls. 19/21, não impugnados pela requerida, evidenciam exatamente o contrário, ou seja, demonstram que a o exame de petscan em caso de câncer pulmonar estaria entre os procedimentos de cobertura assistencial mínima dos planos privados. Todavia, ainda que não constasse, outra não seria a solução, pois o fato de não existir menção expressa do procedimento em rol de Resolução da ANS não implica dizer que a cobertura está realmente afastada, até porque é fato que se o consumidor não é esclarecido a respeito, ele não pode ter negada a cobertura. 
+Conclusão em contrário causa evidente ônus desproporcional ao consumidor, que, no momento da adesão, não pode perquirir qual a exata extensão da cláusula restritiva de direito. 
+Atualmente, as empresas prestadoras de serviços médico-hospitalares, com amparo em cláusulas genéricas, pretendem, de forma abusiva, restringir o alcance dos contratos de saúde. Tal constatação, por si só, demonstra desrespeito ao Código de Defesa do Consumidor, que estabelece, como regra, a interpretação contratual mais favorável ao consumidor hipossuficiente. 
+Pois bem, competia à requerida demonstrar suas alegações, dentre as quais de que o procedimento solicitado nesses autos estaria excluído da cobertura, apontando, assim, a cláusula do contrato que excluía o exame de petscan da cobertura, ônus do qual não se desincumbiu, o que, por si só, já acarretaria no seu dever de custear o exame de petscan.
+Mas não é só.
+Ainda que a requerida tivesse demonstrado a existência de cláusula limitativa especifica, outra não seria a solução, isso porque, uma vez não impugnada a cobertura da doença de base, qual seja, o câncer no pulmão, os demais procedimentos adotados a partir daí (v.g., realização de exame de petscan) no mínimo representam procedimentos de consequência e devem ser suportados pela operadora de saúde, até porque prescritos por médico (fls. 38), único titular da opção terapêutica orientada a recuperar a paciente.
+O entendimento que prevalece, portanto, é que o plano de saúde pode estabelecer quais doenças estão sendo cobertas, mas não que tipo de tratamento está alcançado para a respectiva cura. Assim, seria abusiva a cláusula que exclui o fornecimento de tratamento necessário para a cura ou alívio do paciente decorrente de doença coberta.
+Sobre o assunto já se manifestou a Terceira Turma do Superior Tribunal de Justiça, no Recurso Especial n° 668216-SP, que destacou que " se o plano está destinado a cobrir despesas relativas ao tratamento, o que o contrato pode dispor é sobre as patologias cobertas, não sobre o tipo de tratamento para cada patologia alcançada pelo contrato. Na verdade, se não fosse assim, estar-se-ia autorizando que a empresa se substituísse aos médicos na escolha da terapia adequada de acordo com o plano de cobertura do paciente. E isso, pelo menos na minha avaliação, é incongruente com o sistema de assistência á saúde, porquanto quem é senhor do tratamento é o especialista, ou seja, o médico que não pode ser impedido de escolher a alternativa que melhor convém à cura do paciente" (rel Min. Carlos Alberto Menezes Direito, j 15/03/2007, p 02/04/2007).  
+A meu ver, se a requerida propõe cobertura a tratamento das enfermidades diagnosticadas e, em contraprestação, o autor compromete-se ao pagamento mensal de parcelas que variam quanto ao valor cobrado, não poderia agora a requerida querer se eximir da responsabilidade de arcar com procedimento indicado pelo médico, pois do contrário, estaria ficando descoberta a própria doença em si.
+ Assim, a recusa da requerida em autorizar o exame de Petscan, necessário para o tratamento de doença coberta pelo plano do autor, deve ser tida por ilegal, o que impõe à requerida o dever de ressarcir o valor pago pelo autor com o exame. 
+Quanto aos danos morais, estes também são devidos.
+Aquele que se dispõe a trabalhar com sistemas de saúde não pode falhar, de forma grave, em situação tão aflitiva como a vivida pelo requerente. 
+Chega a ser tão evidente a dor moral provocada por quem já se encontra em situação deveras angustiante, convivendo com o medo e a esperança e ainda tem de suportar recusas indevidas, retardo no tratamento de sua doença gravíssima, tudo por conta do interesse meramente econômico da ré. 
+Se a atividade da requerida é lucrativa disso não há dúvida, também é certo que aquele que se dispõe a lucrar com serviço público assume responsabilidades que não podem ser olvidadas. 
+Ademais, cabível a reprimenda pela falta de respeito ao consumidor, circunstância, sem dúvida, a demandar indenização por dano moral, até porque a questão posta em juízo não se trata de mera interpretação contratual, mas de recusa indevida a tratamento a que o autor fazia jus, em situação de premência, uma vez que diversamente do que fora alegado, o exame de Petscan em caso de câncer pulmonar, situação do autor, encontra-se no rol de procedimentos editado pela ANS, conforme documentos de fls. 19/21. 
+Bem assim, configurados os danos morais, para a fixação do quantum a ser indenizado há de se socorrer às regras contidas no Código Civil, considerando-se o mal causado ao ofendido, bem como alguns princípios, tais como: intensidade do sofrimento e do dolo; gravidade da ofensa e sua repercussão; situação econômica do ofensor e a intimidação deste, para desestimular a prática reiterada de ato ilícito, além do caráter pedagógico a ser observado nesse tipo de condenação (repressivo e reparatório). (Código Civil, artigos 159, 1.059, 1.547 e 1.553 e Lei n° 8.078, de 11/9/90, artigos 14 e 17).
+A partir disso, cotejando-se os elementos acima referidos, arbitro os dano moral em R$ 6.222,00 (seis mil duzentos e vinte e dois reais), valor este correspondente a 10 (dez) vezes o atual salário mínimo, a contar da data da sentença, quantia suficiente para indenizar o autor e, ao mesmo tempo, coibir a requerida de atitudes semelhantes.
+Sobre o valor da indenização, a contar da data da sentença, ou seja, do arbitramento, consoante Súmula nº 362 do STJ, incidirá correção monetária, em conformidade com a Tabela Prática do Judiciário, e juros de mora, de 1% ao mês, a contar da citação.
+
+Ante o exposto e o mais que dos autos consta, JULGO PROCEDENTES os pedidos, para o fim de CONDENAR a ré a pagar ao autor, a título de danos materiais, o valor de R$ 3.336,00 (três mil e trezentos e trinta e seis reais), devidamente corrigidos desde a data do desembolso e acrescidos de juros de 1% ao mês, a partir da citação, bem como a pagar ao autor indenização por danos morais no valor de R$ 6.220,00 (seis mil, duzentos e vinte reais), devidamente corrigido, a partir desta data, e acrescido de juros legais, no percentual de 1% ao mês, a partir da citação. Em consequência, JULGO EXTINTO o processo, com julgamento do mérito, nos termos do artigo 269, inciso I, do Código de Processo Civil.
+Arcará a requerida com o pagamento das custas e despesas processuais, assim como honorários advocatícios da parte adversa, estes ora fixados em 20% do valor atualizado da condenação. 
+P.R.I.C.
+
+São Paulo, 28 de novembro de 2012.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

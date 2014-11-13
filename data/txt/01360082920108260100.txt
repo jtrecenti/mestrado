@@ -1,0 +1,63 @@
+
+
+SENTENÇA
+
+Processo nº:0136008-29.2010.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Assunto Principal do Processo >
+Requerente:Amauri Tadeu Xavier
+Requerido:Santander Leasing S/A Arrendamento Mercantil
+
+
+
+
+Juiz(a) de Direito: Dr(a). Alberto Alonso Muñoz
+
+
+
+Vistos. 
+
+Amaury Tadeu Xavier ajuizou ação de indenização por perdas e danos em face de Real Leasing S/A Arrendamento Mercantil, ambos qualificados nos autos. Em síntese, alegou que firmou contrato com o requerido para financiar o veículo Toyota Hilux, em 20.12.09 antecipou o pagamento das três últimas prestações para poder vender o veículo e usar o recurso para pagar outros débitos; a ré só entregou o documento em 30.03.10; a recusa ao fornecimento do serviço contraria o art. 39, II e IX, do CDC; a ré deve juros pelo inadimplemento da obrigação entre 30.12.09 e 30.03.10, no mesmo patamar caso a inadimplência fosse do autor; sofreu danos morais por pagar um valor substancial e deixar de receber o documento. Pugnou pela condenação do réu ao pagamento de indenização pelos danos materiais correspondentes aos juros que pagaria e pelo dano moral, no valor de R$ 10.000,00. Juntou documentos.
+O autor apresentou emenda à petição inicial (fls.72/73).
+Citado, o réu apresentou contestação (fls.83/90), na qual alegou que a anotação perante o Detran possui fim administrativo e não serve para provar o domínio; o autor não provou fatos constitutivos do seu direito; é impossível inverter o ônus da prova; não há prova dos danos materiais; não ocorreram danos morais; a restrição ao crédito se deu por golpe e a responsabilidade é de terceiro; houve culpa exclusiva ou concorrente; o valor pedido é excessivo.
+Foi oferecida impugnação (fls.97/101).
+O autor pediu o depoimento pessoal do réu, a oitiva de testemunhas, a juntada de documentos, a realização de perícia contábil e audiência de conciliação (fls.105/106).
+O réu negou interesse na realização de audiência de conciliação (fl.108).
+A tentativa de conciliação resultou prejudicada (fl.114).
+É o relatório.
+Fundamento e decido.
+
+O feito comporta julgamento antecipado da lide, na forma do art. 330, I, do Código de Processo Civil, pois as partes não apresentaram nenhuma alegação que demande a colheita de prova oral. Utilizo-me do poder de velar pela rápida solução do litígio, impedindo que ?as partes exerçam a atividade probatória inutilmente ou com intenções protelatórias" (Vicente Greco Filho, in Direito Processual Civil Brasileiro, 14ª Ed., 1999, p 228).
+É permitido ao julgador apreciar as provas livremente, seguindo impressões pessoais e utilizando-se de sua capacidade intelectual, em conformidade com o princípio do livre convencimento motivado/persuasão racional. Neste caso, temos em conta que: 1) os elementos de convicção são suficientes ao deslinde da causa e hábeis a sustentar a linha decisória; 2) quaisquer provas adicionais careceriam de aptidão para modificar o dispositivo; 3) as alegações de ambas as partes fazem concluir pelo julgamento no estado em que se encontra o processo. 
+Além disso, já foi muito bem decidido pelo Colendo Superior Tribunal de Justiça que ?o magistrado tem o poder-dever de julgar antecipadamente a lide. desprezando a realização de audiência para a produção de prova testemunhal, ao constatar que o acervo documental acostado aos autos possui suficiente força probante para nortear e instruir seu entendimento" (Recurso Especial n° 102303/PE, Rei. Min. Vicente Leal, DJ de 17/05/99).
+Presentes os pressupostos processuais e as condições da ação, passo ao julgamento do mérito. A pretensão veiculada nesta ação é parcialmente procedente.
+Resultou incontroverso nos autos, ante o teor da contestação, que as partes celebraram contrato de arrendamento mercantil envolvendo o veículo Toyota Hillux e o autor pagou antecipadamente as últimas três parcelas, mas a ré demorou três meses para entregar o documento. A controvérsia consiste em aferir ocorreram danos morais e materiais.
+Tratando-se de arrendamento mercantil, a instituição financeira obriga-se a assinar o DUT ? Documento Único de Transferência do automóvel após a quitação do débito, permitindo que o consumidor registre o veículo em seu nome ou em nome de terceiro. 
+Aliás, no carnê do arrendamento há informação de que se o arrendatário não enviar o termo de opção de compra até 45 dias antes do término do contrato será considerado o comprador do bem arrendado (fl.48). No termo de opção de compra consta que os documentos estarão disponíveis a partir do 15º dia útil após o pagamento da última contraprestação (fl.52). 
+Assim, levando-se em conta que a última contraprestação foi integralmente quitada pelo requerente em 15 de dezembro de 2009, deveria ter recebido o DUT assinado pelo réu até o mês de janeiro e não no final de março, como ocorreu.
+Passo a analisar se ocorreram danos materiais. A configuração do dever de indenizar pela responsabilidade civil demanda a conduta comissiva ou omissiva voluntária, relação de causalidade entre o dano sofrido pela vítima e a conduta do agente, dano e culpa.
+Apesar de o autor e sua empresa terem pagado juros bancários elevados até o mês de março, entendo que não está caracterizado o nexo causal com o ato do réu. A doutrina explica tal fenômeno através da teoria da equivalência dos antecedentes e da teoria da causalidade adequada. A doutrina ainda não apresentou solução segura, afastando, em verdade, primeira delas, face o risco que ela apresenta de remeter a conclusões injustas.
+A teoria mais aceita pela jurisprudência é a da causalidade adequada, que sugere considerar como causa do resultado somente a mais apropriada a gerá-lo, embora, também, não esteja imune a críticas. Sobre a questão, leciona Rui Stoco:
+A teoria da equivalência das condições ou da conditio sine qua non, idealizada por Von Buri e abraçada no Código Penal de 1940 (ainda em vigor), mesmo depois da reforma da Parte Geral em 1984 - que não distingue causa, condição ou ocasião, de modo que tudo o que concorrer para o resultado é causa dele -, vem em socorro da vítima, tentando resolver, na prática, o problema da relação causal, e tem o mérito da simplicidade. Contudo, foi afastada por inadequada. (...). Desse modo, para determinar se uma condição constitui 'causa' do evento ou resultado procede-se eliminando in mente essa condição. Se, ainda assim, o resultado persistir, essa condição não será a causa. Mas, se eliminada hipoteticamente essa condição o resultado não se verificar, então a condição em apreço é causa que poderia fazer eclodir o evento. (...). O grande inconveniente dessa teoria é que se poderá considerar como causador do resultado quem quer que se tenha inserido na linha causal, permitindo-se uma regressão quase infinita. Teoria da Causalidade Adequada: Segundo registros históricos, essa teoria teria surgido no século XIX, por inspiração do alemão Von Kries, encontrando desenvolvimento na França sob a denominação 'causalidade adequada', e foi também, vigorosamente criticada, embora preferida pelos doutrinadores e até mesmo prevalecente. (...). Segundo essa teoria, 'causa' será o antecedente não só necessário, mas, ainda, adequado à produção do resultado. Assim, ao contrário da 'teoria da equivalência', nem todas as condições serão consideradas causa, mas tão-somente aquela que for a mais apropriada a produzir o resultado, ou seja, aquela que, de acordo com a experiência comum, for a mais idônea à realização do evento danoso. (...). Enfim, independente da teoria que se adote, como a questão só se apresenta ao juiz, caberá a este, na análise do caso concreto, sopesar as provas, interpretá-las como conjunto e estabelecer se houve violação do direito alheio, cujo resultado seja danoso, e se existe um nexo causal entre esse comportamento do agente e o dano verificado. Dessa verificação poderá concluir se a responsabilidade é de apenas um ou também de co-autores, do responsável solidário ou, ainda, do ofensor e da vítima, na hipótese de concorrência de culpas (in Tratado de Responsabilidade Civil, São Paulo, Ed. RT, 2004, p. 282/283, destaquei).
+
+Portanto, não é simplesmente pela eliminação hipotética do ato que supõe lesivo que se permitirá conhecer a causa do evento, mas a análise das circunstâncias de cada caso. Se após a análise de certo fato for possível concluir que era provável a ocorrência do evento, deve-se reconhecer a relação de causa e efeito entre eles.
+No caso vertente não é possível apontar o nexo causal da conduta omissiva do réu com o dano sofrido pelo requerente. O réu não causou as dificuldades financeiras vividas pelo autor. A realização da transferência do veículo dentro do prazo razoável não garantiria que a parte conseguiria vendê-lo para quitar as dívidas. Tampouco há previsão contratual de pagamento de juros em caso de inadimplência do banco. 
+No que tange aos danos morais, estes decorrem de violação aos direitos da personalidade, caracterizados como aqueles valores inerentes à pessoa, essenciais ao seu desenvolvimento e preservação de sua dignidade. Sua qualificação se pauta na esfera da subjetividade do ofendido ou no plano valorativo da pessoa perante a sociedade, observando valores como a consideração pessoal ou a reputação que goza no meio em que vive e atua. 
+O consumidor que quita integralmente o débito decorrente de contrato de arrendamento mercantil de veículo gera para a instituição financeira a obrigação de emitir os documentos que permitam a transferência do bem ao autor e a alienação a terceiros. A demora injustificada evidencia o desleixo da instituição financeira com o direito do consumidor. A inércia do banco mostrou-se além do razoável. Tal situação é suficiente para gerar a ocorrência de danos morais, conforme reiterada jurisprudência do E. Tribunal de Justiça do Estado de São Paulo.
+Quanto ao valor da reparação, o C. Superior Tribunal de Justiça entende que o valor da indenização ?deve ser fixada em termos razoáveis, não se justificando que a reparação venha a constituir-se em enriquecimento indevido, com manifestos abusos e exageros, devendo o arbitramento operar com moderação, proporcionalmente ao grau de culpa e ao porte econômico das partes, orientando-se o juiz pelos critérios sugeridos pela doutrina e pela jurisprudência, com razoabilidade, valendo-se de sua experiência e do bom senso, atento à realidade da vida e às peculiaridades do caso. Deve procurar desestimular o ofensor a repetir o ato? (REsp 245.727, 4ª Turma, rel. Min. Sálvio de Figueiredo Teixeira, DJ 5.6.00).
+Ou seja, o arbitramento da condenação a título de dano moral deve operar-se com moderação, proporcionalmente ao grau de culpa, às condições das partes, suas atividades, orientando-se o juiz pelos critérios sugeridos pela doutrina e jurisprudência, valendo-se da experiência e do bom senso, atento à realidade da vida, notadamente, à situação econômica atual e às peculiaridades do caso concreto. A importância arbitrada deve, ao mesmo tempo, atender a finalidade de compensar e dar satisfação ao lesado, assim como desestimular a reincidência.
+No caso sob exame, considerando os critérios acima descritos, o tempo até a solução do problema e que a parte não ficou privada do uso do bem, mostra-se proporcional a fixação do quantum, a título de ressarcimento por danos morais, R$ 3.000,00, pois ressarce o autor sem importar enriquecimento sem causa e serve de fator inibitório ao réu, de sorte que, no futuro, deverá providenciar toda a diligência possível para novos fatos como este não ocorram.
+
+Ante o exposto JULGO PARCIAMENTE PROCEDENTE pretensão contida na petição inicial e extinto o feito com resolução do mérito, com amparo no art. 269, I, do Código de Processo Civil, para o fim de CONDENAR o réu a pagar ao autor a importância de R$ 3.000,00 (três mil reais) a título de danos morais, com a incidência de juros de 1% ao mês e correção monetária pela Tabela Prática do TJSP, ambas desde a publicação desta sentença (STJ, REsp 2004/0057774-0, 1ª Turma, Min. Teori Albino Zavascki, DJ 11.10.04, p.242).
+Ante a sucumbência recíproca, as despesas processuais deverão ser rateadas entre as partes, devendo cada parte arcar com os honorários de seu patrono.
+Publique-se. Registre-se. Intimem-se.
+Após o trânsito em julgado, certifique-se e intime-se a autora para se manifestar sobre o prosseguimento. Nada sendo requerido, arquivem-se os autos.
+
+De Diadema para São Paulo, 26 de abril de 2013.
+
+Arnaldo Luiz Zasso Valderrama
+Juiz de Direito Auxiliar
+
+
+São Paulo, 20 de junho de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

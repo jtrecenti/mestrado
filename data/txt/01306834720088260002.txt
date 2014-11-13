@@ -1,0 +1,62 @@
+
+
+CONCLUSÃO 
+Em 01/10/2009, faço estes autos conclusos à(o) Dr(a). Flávio Fenoglio Guimarães, MM(a). Juíz(a) de Direito da 4ª Vara Cível do Foro Regional de Santo Amaro. Eu __, (Flavio Celso Y. Moraes), escrev. subscr.
+
+SENTENÇA
+
+Processo nº:002.08.130683-1 - Procedimento Ordinário
+Requerente:Zurich Brasil Seguros S/A
+Requerido:Eagle Global Logistics Brasil Ltda
+
+
+
+Juiz(a) de Direito: Dr(a). Flávio Fenoglio Guimarães
+
+
+Vistos.
+
+A Seguradora propôs a presente ação regressiva porque foi contratada pela empresa Solectron para cobrir os riscos do transporte de mercadorias provenientes da China para a cidade de Jaguariúna, mas que chegaram danificadas ao seu destino; que a ré foi contratada para fazer o transporte e por isso é responsável pelos danos.
+A petição inicial foi aditada a fls. 56, tendo a ré apresentado contestação a fls. 135, ocasião em que esclareceu que sua nova razão social é Ceva Freight Management do Brasil Ltda. e entende ser parte ilegítima porque não é transportadora, mas apenas agente de cargas, de modo que não lhe cabe qualquer responsabilidade porque não manuseou a carga, que tanto pode ter sido danificada no transporte aéreo quanto no transporte terrestre; que não se aplica o Código de Defesa do Consumidor; que o valor postulado é exagerado porque não declarado.
+A réplica está a fls. 145.
+É o relatório.
+Decido.
+O documento de fls. 36 mostra que a empresa segurada contratou a empresa Eagle Global Logistics China Ltd. para o transporte de equipamentos de informática (discos rígidos de memória).
+A ré alegou candidamente que não tem qualquer relação com a empresa de transporte contratada na China (fls. 136).
+Porém, essa defesa é inaceitável, pois é impossível desvincular empresas que têm praticamente o mesmo nome. A empresa estrangeira é a Eagle Global Logistics China Ltd. e a empresa nacional é a Eagle Global Logistics Brasil Ltda.
+Qualquer pessoa vê que houve a contratação de uma empresa de transporte, que evidentemente está sediada em vários países, como é necessário para lidar com a logística de importação e exportação. A empresa da China não seria contratada se ela não conseguisse fazer a mercadoria chegar em Jaguariúna e para isso, além do transporte aéreo ou marítimo, precisaria de um transportador terrestre aqui no Brasil.
+A nova razão social da ré, que foi alterada de Eagle Global Logistics Brasil Ltda. para Ceva Freight Management do Brasil Ltda. em nada altera a realidade acima descrita.
+Não pode a ré dizer que não é parte legítima, até porque esses mesmos argumentos seus já foram utilizados em outra demanda, tendo sido rejeitados.
+Com efeito, no julgamento do agravo de instrumento 7320860-5, da Comarca de São Paulo, da 11ª Câmara de Direito Privado, Relator o Desembargador Gil Coelho, disponível no site do TJSP, de onde se extrai o seguinte trecho:
+Em contestação, a ré, ora agravante, alegou ser agente de cargas e não transportadora, acrescentando ter a United Airlines sido contratada para realizar o transporte aéreo da mercadoria envolvida no noticiado sinistro, razão pela qual requereu o chamamento ao processo ou a denunciação da lide da mencionada transportadora, o que foi indeferido pela r.decisão, que merece ser mantida, na medida em que o esclarecimento definitivo acerca da referida questão virá ao término da instrução processual, momento em que será possível se aferir com certeza a existência ou não de vínculo entre a alegada empresa de transporte aéreo e a ré e a relação desta com o suposto sinistro, daí não haver que se falar, por ora, em admissão das modalidades de intervenção de terceiro suscitadas na peça defensiva, inclusive por não se vislumbrar, da análise dos elementos trazidos a este recurso, a presença de qualquer das hipóteses legais que as autorizariam.
+É importante notar que se trata de ação sobre responsabilidade civil. Mesmo que se pense na responsabilidade objetiva, de mister que fique evidenciado o nexo causal entre o fato e a ré, ora agravante. Se ficar certo o dever de indenizar, por parte da ré, ora agravante, a esta caberá postular eventual direito de regresso, sem haver necessidade da denunciação da lide ou do chamamento ao processo.
+Em suma, merece ser mantida a r.decisão agravada.
+Ante o exposto, meu voto é pelo não provimento ao recurso.
+
+Como se vê, não é a primeira vez que a ré procura fugir de sua responsabilidade e transferi-la para outras pessoas, o que não pode ser admitido, como já afirmou o julgado apontado. Em último caso, se a culpa se deu por parte de outra empresa envolvida na cadeia de transporte, contra tal empresa deverá a ré mover a competente ação regressiva.
+O que não tem sentido é a seguradora, que aqui atua como sub-rogada nos direitos da empresa importadora, ter que descobrir em qual momento teriam ocorrido os danos, para então ajuizar a demanda contra qual dos transportadores envolvidos foi o real causador do sinistro.
+A empresa contratada na China se comprometeu a entregar incólume a mercadoria em Jaguariúna e a ré, verdadeira subsidiária local da Eagle China, atuou aqui no Brasil na realização do transporte, seja pessoalmente, seja por meio de outras empresas, não podendo se eximir do dever de indenizar.
+A vistoria comprovou documentalmente que a mercadoria chegou danificada ao seu destino, tendo sido recebida em perfeito estado pela Eagle da China, que a partir de então passou a ser responsável pelo transporte.
+O Código de Defesa do Consumidor é aplicável ao caso presente, pois o transporte é um serviço e a segurada era o destinatário final. Não haveria incidência do Código do Consumidor, se o que estivesse em discussão fosse a própria mercadoria, que evidentemente era insumo para a produção de outros bens.
+Porém, o objeto do contrato não era a compra da mercadoria, mas sim o seu transporte, tendo a empresa Solectron a evidente condição de consumidora e destinatária final dos serviços de transporte, pouco importando o que ela iria fazer com os bens transportados.
+Art. 2º - Consumidor é toda pessoa física ou jurídica que adquire ou utiliza produtos ou serviço como destinatário final.
+E o Código de Defesa do Consumidor diz que o fornecedor responde independente de culpa.
+Art. 3º - Fornecedor é toda pessoa física ou jurídica, pública ou privada, nacional ou estrangeira, bem como os entes despersonalizados, que desenvolvem atividades de produção, montagem, criação, construção, transformação, importação, exportação, distribuição ou comercialização de produtos ou prestação de serviços.
+Quando são dois ou mais os responsáveis pelo serviço e no caso pelos danos, há solidariedade, perante o consumidor, podendo depois entre eles ser movida a competente ação regressiva.
+Art. 25 - É vedada a estipulação contratual de cláusula que impossibilite, exonere ou atenue a obrigação de indenizar prevista nesta e nas Seções anteriores.
+§ 1º - Havendo mais de um responsável pela causação do dano, todos responderão solidariamente pela reparação prevista nesta e nas Seções anteriores.
+Não bastasse a incidência do Código de Defesa do Consumidor, o risco de haver dano no transporte feito pela própria ré ou por pessoa escolhida por ela está previsto também no Código Civil, no art. 927, parágrafo único, pois se trata de algo inerente à própria atividade.
+Art. 927. Aquele que, por ato ilícito (arts. 186 e 187), causar dano a outrem, fica obrigado a repará-lo.
+Parágrafo único - Haverá obrigação de reparar o dano, independentemente de culpa, nos casos especificados em lei, ou quando a atividade normalmente desenvolvida pelo autor do dano implicar, por sua natureza, risco para os direitos de outrem.
+Toda vez que uma coisa é transportada é claro que ela está exposta a riscos. O próprio contrato de seguro nasceu para cobrir os riscos do transporte por navegação.
+É fato incontroverso que os danos constatados na vistoria foram ocasionados durante o transporte, de modo que devem ser suportados pela requerida, que prestou um serviço defeituoso.
+O valor é mesmo o que foi pedido na inicial, já que o prejuízo foi orçado em US$ 11.313,71 (fls. 51), que corresponderam a R$ 19.781,11 (fls. 52), que atualizados na data da propositura da ação chegaram aos R$ 22.220,98 pedidos. De fato, o pagamento feito pela seguradora à segurada em outubro de 2005 em junho de 2008, daí a atualização.
+Não se vê qualquer exagero no pedido, pois no transporte foram danificados nada menos que 44 discos rígidos para armazenamento de dados nos computadores. Os discos podem hoje ser baratos, mas na época, faz 4 anos, certamente eram caros e por isso se justifica o custo unitário em torno de R$ 500,00, que não tem qualquer exagero. 
+O transporte internacional é quase sempre multimodal, ou seja, envolve vários meios de transporte, de modo que a responsabilidade de todos os envolvidos deve ser uma só, solidária. O que se tem é uma cadeia de serviços ligada de forma inseparável.
+O trecho abaixo extraído do recurso de apelação 1.060.216-7, da 15ª Câmara de Direito Privado, Relator o Desembargador Antonio Ribeiro, também assim entendeu em caso análogo:
+E a responsabilidade do transportador não pode ser afastada, porque assume a obrigação pelo transporte até o destino e, no caso das contratações por mar, obriga-se também pela descarga, porque somente com o bem em terra é que cessa seu dever, cumprindo o pactuado. Não há como exonerar-se do dever, porque ainda que tenha atracado no porto convencionado como o de destino, enquanto estiver com os bens transportados, por ele responde, inclusive quanto à descarga, sendo certo que se trata de empresas parceiras e, pela relação estabelecida, devem responder solidariamente, como ficou reconhecido. 
+Ante o exposto, ressalvado o direito de regresso, julgo procedente o pedido para condenar a ré a pagar em favor do autor a quantia de R$ 22.220,98, corrigida desde a propositura da ação, pela tabela prática do TJSP, mais juros de 1% ao mês, estes contados da citação. A ré arcará com as custas do processo em reembolso e os honorário do advogado da parte contrária, ora arbitrados em 10% sobre o valor atualizado da condenação.
+P.R.I.
+São Paulo, 05 de outubro de 2009.
+Flávio Fenoglio Guimarães
+     Juiz de Direito

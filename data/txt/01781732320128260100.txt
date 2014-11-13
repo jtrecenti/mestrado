@@ -1,0 +1,67 @@
+
+
+SENTENÇA
+
+Processo nº:0178173-23.2012.8.26.0100
+Classe - AssuntoProcedimento Sumário - Indenização por Dano Moral
+Requerente:Carlos da Rocha Rolla
+Requerido:Claro S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Fernanda Galizia Noriega
+
+
+Vistos.
+
+CARLOS DA ROCHA ROLLA, ajuizou ação declaratória de inexistência de débitos c/c indenização por danos morais em face de CLARO S/A, aduzindo ser cliente da ré, possuindo a linha nº (011) ? 9200-2049. Alega que, em 07/11/2011, contratou pacote de internet que lhe daria direito ao uso de 10 megabytes. Tal contratação se deu quando o autor estava em uma viagem de três dias ao Chile, ocasião em que ele não fez nenhuma ligação com o seu celular, utilizando apenas o pacote de dados.
+Afirma que quando voltou ao Brasil foi surpreendido com o bloqueio de sua linha de telefone móvel. Ao entrar em contato com a ré foi informado que para o desbloqueio de sua linha seria necessário pagamento mínimo de R$ 5.000,00, devidos em razão de ter o autor ultrapassado o limite previsto em seu pacote de dados.
+Sustenta o autor que, em 20/12/2011, recebeu por correio a fatura de telefone, a qual indicava ser devido o valor de R$ 12.338,80, originado da utilização do pacote de dados acima do limite de bytes contratados.
+Alega que deveria a ré ter informado ao autor quando o pacote de dados contratado tivesse se esgotado, nos termos do art. 39 do CDC, uma vez que não é o autor expert na área de informática e transmissão de dados. Afirma que, se a autora tivesse cumprido tal obrigação, teria evitado os prejuízos suportados pelo autor.
+Aduz o autor que a ré, ao condicionar o desbloqueio da conta ao pagamento antecipado da quantia de R$ 5.000,00, o expôs ao ridículo, praticando conduta vedada pelo art. 42 do mesmo código.
+Requer a procedência da demanda para declarar a inexigibilidade do débito cobrado e para condenar a ré ao pagamento de indenização por danos morais estimada em R$ 13.006,54.
+Acompanharam a inicial os documentos de fls. 12/30.
+Foi deferido o pedido de antecipação dos efeitos da tutela, sendo determinada a exclusão do nome do autor do rol dos maus pagadores (fls. 31).
+Regularmente citada (fls. 39/40) apresentou a ré contestação (fls. 42/66), aduzindo que o autor possui débito no valor de R$ 13.145,38, decorrente do fato de ter o autor ativado o sistema de internet e deixado seu celular conectado o tempo todo, acarretando um consumo da ordem de 370.116 megabytes, superando em muito o limite contratado que era de apenas 10 megabytes. Afirma que é cobrada a quantia de R$ 36,00 por megabyte excedente, razão pela qual alcançou a conta do autor o valor cobrado.
+Sustenta que o autor contratou pacote de internet nacional, mas utilizou o serviço no exterior, razão pela qual todo o volume de dados consumido na viagem foi cobrado como excedente à franquia nacional.
+Alega a ré que não há qualquer irregularidade nas cobranças do serviço ativado, uma vez que o próprio autor confessou a utilização do serviço de internet no exterior, de modo que não teria havido tarifação caso o autor não tivesse habilitado o serviço no exterior.
+Aduz que o consumo de dados se originou da utilização constante da internet para atualização de aplicativos ligados à redes sociais, como o facebook, correio eletrônico, entre outros.
+Sustenta, assim, que a cobrança é regular, uma vez que confessado o consumo pelo autor e, sendo legítima a cobrança, indevida qualquer indenização. Pela eventualidade, pugna pela redução do valor da indenização, em caso de procedência.
+Acompanharam a contestação os documentos de fls. 67/89.
+Réplica a fls. 93/97.
+Não foi realizada audiência de conciliação ante o desinteresse manifestado pela ré, a qual requereu o julgamento antecipado da lide (fls. 99/100).
+É o relatório.
+
+FUNDAMENTO E DECIDO.
+
+O feito comporta julgamento antecipado, nos termos do art. 330, inciso I, do Código de Processo Civil, uma vez que as provas produzidas são suficientes para o deslinde do feito.
+A demanda é improcedente.
+Em que pesem as asserções do autor, não se verifica, no caso em tela, o alegado descumprimento do dever de informação.
+O direito à informação, previsto no art. 6º, inciso III, do CDC prevê que terá o consumidor direito à "informação adequada e clara sobre os diferentes produtos e serviços, com especificação correta de quantidade , características, composição, qualidade e preço, bem como os riscos que apresentem".
+Ora, não há registro de descumprimento das obrigações previstas no referido dispositivo legal, uma vez que, ao que tudo indica, foram informados ao consumidor a quantidade de megabytes a que teria direito e o valor da franquia a ser paga.
+Tampouco foi demonstrado ter havido violação ao princípio da boa-fé objetiva, na medida em que não restou demonstrado que a ré teria se furtado maliciosamente a prestar as informações necessárias ao bom uso dos serviços contratados.
+Na verdade, não questiona o autor o acesso à informação, mas à maneira como ela foi disponibilizada. Em que pese ser possível acessar as informações relativas ao contrato por outras fontes, pretende ele imputar à ré obrigação adicional consistente em enviar uma mensagem de texto informando o momento em que fosse atingido o limite de dados contratado, o que não se admite por não haver previsão contratual nesse sentido.
+Assim, ao disponibilizar as informações necessárias ao bom uso dos serviços, em especial aquelas que dizem respeito ao consumo de dados, cumpriu a ré os deveres impostos pela lei e pelo contrato, de modo que cabia ao autor fazer uso das informações transmitidas para controlar os gastos com o uso dos serviços de internet em seu celular.
+Nesse sentido:
+
+Anulatória cumulada com indenização por danos morais. Serviço de telefonia celular. Acesso à ?Internet?. ?Roaming? internacional. Sentença que determina a revisão das faturas, aplicando-se as tarifas nacionais relativas à DDD's interestaduais. Impossibilidade. Dever de informação. Descumprimento não configurado. Operadora que disponibiliza meios ao consumidor para que se informe, previamente, dos valores praticados a título de ?roaming? internacional. Hipótese, ademais, em que restou incontroversa a utilização do serviço de tráfego de dados. Faturas corretas. Improcedência do pedido inicial. Recurso provido. (TJSP ? Apelação nº 0035902-62.2010.8.26.0002 ? Relator Exmo. Des. MAURO CONTI MACHADO - Data do julgamento: 12/11/2012).
+
+Por tais razões, não merece acolhida o pedido de declaração de inexigibilidade do débito.
+Melhor sorte não assiste ao autor no que tange à alegação de violação ao art. 42 do CDC.
+O ato de condicionar ao pagamento do débito o encerramento da suspensão da linha não configura exposição do consumidor ao ridículo ou implica em constrangimento ou ameaça ilegal, tratando-se, na verdade, de mero exercício regular de direito.
+Sendo de trato sucessivo o contrato firmado entre as partes, é natural que a continuidade da prestação dos serviços esteja atrelada ao adimplemento das prestações anteriores, podendo o fornecedor interromper a prestação enquanto perdurar a situação de inadimplência. 
+Nesse sentido: 
+
+PRESTAÇÃO DE SERVIÇOS. TELEFONIA MÓVEL. INTERRUPÇÃO DO FORNECIMENTO. EXERCÍCIO REGULAR DE DIREITO. INDENIZAÇÃO. NÃO RECONHECIMENTO. Havendo a interrupção do serviço de telefonia móvel pelo descumprimento das cláusulas contratuais pelo usuário, é indevida indenização por dano moral porque o ato praticado foi no exercício regular de direito. Inteligência do inc. I do art. 188 do CC. Recurso desprovido. (TJSP ? Apelação nº 0033200-23.2008.8.26.0000 ? Relator Exmo. Des. GILBERTO LEME ? Data do julgamento: 10/04/2012).
+
+Por fim,  por não haver qualquer ato ilícito praticado pela ré a fazer surgir para ela o dever de indenizar, não prospera o pedido de indenização por danos morais, que igualmente fica indeferido.
+Ante o exposto e considerando o mais que dos autos consta JULGO IMPROCEDENTE a ação e revogo a antecipação dos efeitos da tutela anteriormente concedida. Oficie-se. 
+Vencido arcará o autor com o pagamento das custas, despesas processuais e honorários advocatícios, que arbitro em 10% do valor da causa.
+
+P.R.I.
+
+São Paulo, 26 de fevereiro de 2013.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

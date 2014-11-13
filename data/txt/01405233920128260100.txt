@@ -1,0 +1,66 @@
+
+
+C O N C L U S Ã O
+
+Em 15 de abril de 2013, faço estes autos conclusos à MM. Juíza de Direito da 15ª Vara Cível, Dra. CELINA DIETRICH E TRIGUEIROS TEIXEIRA PINTO. Eu, Thelma Cury, Escrevente Técnico Judiciário, subscrevi.
+
+SENTENÇA
+
+Processo nº:0140523-39.2012.8.26.0100
+Classe - AssuntoAlienação Judicial de Bens 
+Requerente:Nelly Vieira Ishimura
+Requerido:Banco Bradesco S/A e outro
+
+
+
+Juíza de Direito: Dra. Celina Dietrich  e Trigueiros Teixeira Pinto
+
+
+NELLY VIEIRA ISHIMURA  move ?ação declaratória  de cancelamento de registro? contra BANCO BRADESCO S/A e 7º. TABELIÃO DE TÍTULOS E PROTESTO DE SÃO PAULO, alegando, em síntese, que tinha conta no banco réu e teve um cheque devolvido por falta de fundos. Ocorre que o cheque estava prescrito, portanto a comunicação de devolução foi indevida, assim como o protesto efetuado pelo segundo réu. Sofreu dano moral e pretende ser indenizada.
+Pelo que expôs, requereu antecipação da tutela para retirada de seu nome do cadastro do Banco Central e a final procedência da ação, declarando-se a inexistência do débito e condenando-se os réus ao pagamento de indenização por dano moral. 
+A liminar foi deferida a fls.24.
+O réu 7º. Tabelião contestou a fls.39, suscitando preliminar de ilegitimidade passiva, pois sua obrigação se restringiria ao exame da regularidade formal do título.  
+O banco réu contestou a fls.64, também suscitando preliminar d ilegitimidade passiva pois a responsabilidade no seu entender caberia somente ao corréu, que efetuou o protesto do título.
+É o relatório. Decido.
+ -I-
+Trata-se de ação visando ao cancelamento de protesto de título prescrito, e indenização de dano moral. 
+Relata a inicial que a autora teve devolvido pelo banco réu um cheque prescrito, que foi protestado pelo corréu, Tabelião. 
+Rejeito inicialmente a preliminar de ilegitimidade passiva do réu Tabelião, tendo em vista que foi ele quem providenciou o protesto do título, ato que motivou o ajuizamento da ação. Assim, está bem colocado em seu pólo passivo.
+Todavia, como ressaltou a contestação, de fato de acordo com o artigo 9., caput,  da Lei 9492/97, ao  tabelião cabe apenas examinar os títulos protocolados em seus caracteres formais, não lhe incumbindo a análise de eventual prescrição ou caducidade: confira-se:
+ ?Todos os títulos e documentos de dívida protocolados serão examinados em seus caracteres formais e terão curso se não apresentarem vícios., não cabendo ao tabelião de protesto investigar a ocorrência  de prescrição ou caducidade.?
+Desta forma, estando o cheque formalmente em ordem e tendo havido inclusive regular notificação do autor no endereço fornecido pelo credor, não houve ilícito praticado pelo tabelião.
+Daí porque improcede o pedido de indenização de dano moral, formulado contra o 7º. Tabelião.
+Não fosse o bastante, o pedido de cancelamento do protesto também não tem cabimento. Isto porque, a despeito da perda de sua executoriedade, o título ainda conservava a propriedade de documento representativo de dívida, e o credor ainda dispunha de outros meios para sua cobrança, posto que o cheque fora emitido em 18/1/2008 e protestado em janeiro/2012(fls23), tendo sido a ação proposta em abril/2012,  quando ainda não decorrido o prazo quinquenal referido no artigo 205§5º.I, do Código Civil atual.  
+Ademais, não há proibição de protesto de cheque prescrito, pela lei n.9492/97, ou pela Lei do Cheque, cujo artigo 48, caput,  refere-se apenas ao protesto necessário contra os coobrigados para o exercício do direito de regresso, mas sem estabelecer vedação ao protesto seródio, que atende à finalidade de comprovar a inadimplência do devedor.  
+A propósito, em hipótese semelhante, assim se decidiu:
+?Cambial. Cheques prescritos. Ação declaratória de nulidade de protesto, cumulada com cancelamento e indenização de danos morais. Sentença de improcedência. Admissibilidade. Títulos que conservam a propriedade de documentos representativos de dívida, ainda que prescrita a ação de execução.Art.48 da Lei do cheque que não veda o protesto tardio. Ré no exercício regular de um direito, com a finalidade de comprovar a inadimplência. Protesto permitido pela lei 9492/97. Recurso desprovido.Voto vencido.?(AP.n.1277.837-1.12ª.Câm .Dir.Priv.TJSP.Rel. Des.Cerqueira Leite.j.25.1.2009.)
+Nesse sentido, também, a súmula n.17, do Tribunal de Justiça do Estado de São Paulo:
+?A prescrição ou perda de eficácia executiva do título não impede sua remessa a protesto, enquanto disponível a cobrança por outros meios.?
+Desta forma, o cancelamento do protesto lavrado no caso dos autos, antes de esgotados todos os meios de cobrança de que dispõe o credor, revela-se inviável.
+Quanto ao banco, contudo, a situação é outra.
+Inicialmente, deve ser rejeitada a preliminar de ilegitimidade passiva, posto que, tendo devolvido o título, ele situa-se corretamente no polo passivo da ação. 
+E no mérito, a devolução do título, por insuficiência de fundos, estando prescrita a ação executiva,  fato não negado em sua contestação,  constitui ato ilícito e causa dano moral ao emitente, daí a existência do dever de indenizar. A propósito, veja-se a jurisprudência do STJ: 
+DIREITO CIVIL E PROCESSUAL CIVIL. TÍTULOS DE CRÉDITO. CHEQUE. PRAZO DE APRESENTAÇÃO. DEVOLUÇÃO DE CHEQUE PRESCRITO POR FALTA DE FUNDOS.MOTIVO INDEVIDO. INSCRIÇÃO EM CADASTRO DE INADIMPLENTES. DANO MORAL CONFIGURADO.
+1.- O prazo estabelecido para a apresentação do cheque (30 dias, quando emitido no lugar onde houver de ser pago e de 60 dias, quando emitido em outra praça) serve, entre outras coisas, como limite temporal da obrigação que o emitente tem de manter provisão de fundos em conta bancária, suficiente para a compensação do título.
+2.- Ultrapassado o prazo de apresentação, não se justifica a devolução do cheque pelos "motivos 11 e 12" do Manual Operacional da COMPE. Isso depõe contra a honra do sacador, na medida em que ele passa por inadimplente quando, na realidade, não já que não tinha mais a obrigação de manter saldo em conta.
+3.- Tal conclusão ainda mais se reforça quando, além do prazo de apresentação, também transcorreu o prazo de prescrição, hipótese em que o próprio Manual determinada a devolução por motivo diverso ("motivo 44").
+4.- No caso concreto, a devolução por motivo indevido ganhou publicidade com a inclusão do nome do consumidor no Cadastro de Emitentes de Cheques sem Fundo - CCF, gerando direito à indenização por danos morais.
+5.- Recurso Especial provido.
+(REsp 1297353/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 16/10/2012, DJe 19/10/2012)
+
+DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. COMPENSAÇÃO INDEVIDA DE CHEQUES PRESCRITOS. DANOS MATERIAIS. DANOS MORAIS.RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA. VIOLAÇÃO AOS ARTIGOS 535, II, 458, III, DO CPC. INOCORRÊNCIA. CONTRARIEDADE AO ART.159 DO CÓDIGO CIVIL. INOCORRÊNCIA.
+1. Inexiste a alegada infringência aos artigos 535, II, 458, III, do CPC. As questões suscitadas pelo recorrente, relativas às preliminares de suposta ilegitimidade passiva ad causam da instituição bancária e de denunciação da lide, foram examinadas fundamentadamente pelo Tribunal de origem, tanto em sede recursal quanto em sede de embargos declaratórios. Com efeito, restou demonstrado nos autos - e reconhecido no acórdão recorrido - que a indevida compensação de cheques prescritos, por parte do recorrente, acarretou o desequilíbrio financeiro na conta-corrente do recorrido, gerando a devolução de cheques e o pagamento em atraso de dívidas, com a conseqüência cobrança de juros. Não há, portanto, falar na ocorrência de omissão e ofensa às normas processuais invocadas, não se prestando os embargos declaratórios ao reexame de matéria discutida no v. aresto embargado. Precedente.
+2. Inocorrência da suposta contrariedade ao artigo 159 do Código Civil. Como ressalta o v. acórdão, lastreado no conjunto probatório dos autos, é evidente a ilegalidade do ato de compensação indevida de cheques prescritos - reconhecida, inclusive, pelo próprio Banco-recorrente, que ressarciu os valores dos cheques indevidamente debitados na conta do correntista.
+3. Recurso não conhecido.
+(REsp 702.207/CE, Rel. Ministro JORGE SCARTEZZINI, QUARTA TURMA, julgado em 17/03/2005, DJ 18/04/2005, p. 350)
+
+Dito isso, quanto ao banco, procede o pedido indenizatório de dano moral, cujo valor, considerando a ausência de prova de maior gravidade do fato, e a função punitiva  e pedagógica da verba, fixo em R$ 5.000,00.
+-II-
+Ante o exposto, JULGO IMPROCEDENTE a presente ação quando ao 7º. Tabelião de Protestos da Capital e condeno o autor ao pagamento das custas processuais e honorários advocatícios e 10% do valor da causa. Outrossim, quanto ao banco réu, JULGO PROCEDENTE a presente ação, para condená-lo ao pagamento de indenização de dano moral no valor de R$ 5.000,00, com correção monetária a partir da sentença e juros de mora desde a citação, julgando extinto o processo na fase de conhecimento com fundamento no artigo 269, I do CPC. O preparo recursal é de R$ 107,22 e o porte de remessa de R$ 25,00.
+P.R.I. 
+
+São Paulo, 15 de abril de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

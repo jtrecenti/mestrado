@@ -1,0 +1,73 @@
+
+
+SENTENÇA
+
+Processo nº:0170909-86.2011.8.26.0100
+Classe ? Assunto:Procedimento Ordinário - Assunto Principal do Processo > 
+Requerente:Francisco Merlo
+Requerido:Porto Seguro Cia de Seguros Gerais
+
+
+
+
+Juiz(a) de Direito: Dr(a). Alberto Alonso Muñoz
+
+
+Vistos.
+
+Francisco Merlo, qualificado(s) na inicial, ajuizou(aram) ação de Procedimento Ordinário em face de Porto Seguro Cia de Seguros Gerais.
+
+I. Relatório
+
+Cuida-se de ação de obrigação de fazer cumulada com cobrança Consta do pedido inicial, em resumo, que, em razão de acidente de trânsito, MARIA HELENA STEIN MERLO faleceu. Todavia, a parte ré não pagou o valor da indenização do seguro obrigatório. Por fim, deduziu-se o pedido de condenação da parte ré em pagar seguro DPVAT no valor da diferença para 40 (quarenta) vezes o salário mínimo, acrescido de juros e correção monetária.
+A parte ré ofertou contestação. Em apertado resumo, como matéria preliminar levantou a regularização do polo passivo e a falta de pressuposto processual. No mérito, a ré destacou a novel legislação sobre o tema e frisou que havia necessidade de solicitação administrativa. Por último, impugnou o montante da indenização, os juros de mora e correção monetária pretendidos.
+É o relatório. DECIDO.
+
+II. Fundamentação
+
+O processo comporta julgamento antecipado do mérito, na forma do art. 330, I do Código de Processo Civil, não se caracterizando cerceamento de defesa se não eram necessárias outras provas. Ao contrário, nas hipóteses em que se impõe, o julgamento antecipado do mérito não é faculdade do julgador, mas dever legalmente imposto até mesmo pela Constituição Federal quando o feito se encontra em condições de ser sentenciado, sendo corolário do princípio da economia processual (que decorre daquele do devido processo legal: art. 5.º, LIV da CF/88) e da razoável duração do processo (art. 5.º, LXXVIII).
+Rejeito a matéria preliminar suscitada na contestação.
+Cuidando-se de consórcio de seguradoras que administram o seguro DPVAT, desnecessário a intimação da seguradora Líder para integrar o pólo passivo. A parte ré é legítima para figurar no pólo passivo, sendo entendimento pacífico no STJ e na Corte Paulista que qualquer seguradora que pertença ao consórcio pode ser demandada quando se cuida de seguro DPVAT. Não bastasse, o autor não concordou com essa medida e, como já dito, a ré tem legitimidade para responder sua pretensão. 
+Nesse sentido:
+
+Recurso especial. Ação de cobrança. Seguro obrigatório. DPVAT.
+Veículo causador do acidente identificado.
+1. "Qualquer seguradora responde pelo pagamento da indenização em virtude do seguro obrigatório, pouco importando que o veículo esteja a descoberto, eis que a responsabilidade em tal caso decorre do próprio sistema legal de proteção, ainda que esteja o veículo identificado, tanto que a lei comanda que a seguradora que comprovar o pagamento da indenização pode haver do responsável o que efetivamente pagou" (REsp nº 68.146/SP, 3ª Turma, da minha relatoria, DJ de 17/08/98).
+2. Recurso especial conhecido e provido.
+(REsp 325.300/ES, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro CARLOS ALBERTO MENEZES DIREITO, TERCEIRA TURMA, julgado em 12/03/2002, DJ 01/07/2002, p. 336)
+
+Quanto à alegação de falta de documento essencial, não prospera. Se é documento imprescindível para o pagamento do prêmio, não o é para a propositura da ação de cobrança. É o entendimento do Egrégio Tribunal de Justiça de São Paulo:
+
+Ementa: INDENIZAÇÃO - SEGURO OBRIGATÓRIO - DPVAT BOLETIM DE OCORRÊNCIA DOCUMENTO DISPENSÁVEL PARA A PROPOSITURA DA AÇÃO NEXO CAUSAL PROVA QUALQUER MEIO IDÔNEO. A teor da alínea "b" do §1º, do art. 5º, da Lei 6.194/74, a apresentação do boletim de ocorrência é documento imprescindível para fins de pagamento administrativo, mas não é indispensável à propositura da ação de cobrança (CPC, art. 283), vez que o acidente automobilístico pode ser comprovado em juízo por qualquer outro meio de prova idôneo (CPC, art. 332). INCAPACIDADE - PERMANENTE E PARCIAL VALORAÇÃO LEI 11.482/2007. A indenização do seguro obrigatório DPVAT decorrente de incapacidade parcial e permanente deve observar a graduação estabelecida na tabela da SUSEP e/ou em exame médico-pericial. PROVA PERICIAL NECESSIDADE. A incapacidade laborativa decorrente de lesões corporais de vítima de acidente de trânsito deve ser aferida em exame pericial, não havendo documento comprobatório para atender ao dispositivo da Lei especial. (0212625-30.2010.8.26.0100 ? Apelação - Relator(a): Clóvis Castelo - Comarca: São Paulo - Órgão julgador: 35.ª Câmara de Direito Privado - Data do julgamento: 30/07/2012 - Data de registro: 30/07/2012 - Outros números: 2126253020108260100).
+
+A quitação do pagamento, na esfera administrativa, diz respeito apenas ao valor efetivamente pago e não a todo o valor devido. 
+ 
+Apelação 238862220108260602 - Sorocaba - 28ª Câmara de Direito Privado - Relator Júlio dos Santos Vidal Júnior - 25/02/2013 - Votação: Unânime - Voto nº: 20487 - Ementa: SEGURO - Obrigatório (DPVAT) - Cobrança de diferença - Recibo de quitação - Irrelevância - Ausência de impedimento ao dever de eventual complementação de pagamento - Quitação limitada à quantia efetivamente recebida - Possibilidade do recebimento da diferença, corrigida monetariamente a partir do pagamento parcial - Entendimento pacificado pelo Superior Tribunal de Justiça - Recurso provido em parte.
+Passo a apreciar o mérito.
+A parte autora fez prova satisfatória do falecimento de MARIA HELENA STEIN MERLO num acidente de trânsito. Há nos autos certidão de óbito (fls. 26/27).E a parte autora não se negou ao pagamento administrativo, admitindo, assim, que a morte teria ocorrido em razão de acidente de trânsito. Isto é, tem ela sim o direito a receber indenização correspondente a 40 (quarenta) salários mínimos, como consta do pedido inicial, na forma de Lei n. 6.194/74 com suas modificações posteriores. Não pode haver aplicação de lei posterior à época dos fatos.
+No mais, observo que o E. Superior Tribunal de Justiça já fixou entendimento de que a indenização do seguro obrigatório pode ter como parâmetro o salário mínimo, na forma do artigo 3o. da Lei no. 6.194/74 sem qualquer inconstitucionalidade: REsp. 95589/MG, 4a. T., rel. Min. César Asfor Rocha, DJ 07.4.97, j. 10.12.96, REsp. 98691/MG, 3a. T., rel. Min. Carlos Alberto Menezes Direito, DJ 02.02.98, j. 14.10.97; REsp. 129182/SP, 3a. T., rel. Min. Waldemar Zveiter, DJ 30.3.98, j. 15.12.97; REsp. 152866/SP, 4a. T., rel. Min. Ruy Rosado de Aguiar, DJ 29.6.98, j. 25.3.98, REsp. 52158/RS, 4a. T., rel. Min. Bueno de Souza, DJ 14.6.99, j. 06.4.99; REsp. 161185, 4a. T., rel. Min. Salvio de Figueiredo Teixeira, DJ 21.6.99, j. 20.4.99 e RJSTJ-LEX 108/217 e 118/274 (REsp. 180.648-SP, 4a. T., rel. Min. Ruy Rosado de Aguiar, j. 13.10.98).
+A posição foi acolhida no E. Primeiro Tribunal de Alçada Civil pela edição da súmula 37:
+
+?Na indenização decorrente do seguro obrigatório, o artigo 3o. da Lei no. 6.194, de 1.974 não foi revogado pelas Leis ns. 6.205, de 1.975 e 6.423, de 1.977 (revogada a Súmula n. 15)?.
+
+No mesmo diapasão: JTACSP-LEX 155/180, 156/196, 182/240, 182/242, 188/308.
+O E. Superior Tribunal de Justiça também assumiu idêntica posição: RJSTJ-LEX 118/274 (REsp. 180.648-SP, 4a. T., rel. Min. Ruy Rosado de Aguiar, j. 13.10.98).
+No REsp. 129182/SP, 3a. T., rel. Min. Waldemar Zveiter, DJ 30.3.98, j. 15.12.97, colhe-se a seguinte ementa:
+
+?Seguro Obrigatório de danos Pessoais - Indenização por morte - Fixação em salários mínimos - Lei 6.194, art. 3o. - Recibo de quitação - Recebimento em valor inferior ao legalmente estipulado - Direito a complementação.
+?I - Pacífica a jurisprudência desta corte no sentido de que o art. 3., da Lei 6.194/1974, não fora revogado pelas Leis 6.205/1975 e 6.423/1977, porquanto, ao adotar o salário mínimo como padrão para fixar a indenização devida, não o tem como fator de correção monetária, que estas leis buscam afastar.
+?II -....
+?III - Recurso Especial conhecido pela divergência e provido.?
+
+Numa interpretação da lei, não se consegue extrair a posição defendida pela ré, sendo ilegal qualquer resolução ou ato administrativo que busque restringir o direito ao recebimento da indenização securitária.
+Por fim, em relação ao valor pleiteado, uma observação merece ser feita. O valor da indenização será identificado da seguinte forma: o valor devido (40 salários mínimos) na época do acidente. A correção monetária deve incidir a partir da mesma época (data do acidente), utilizando-se dos índices autorizados pela tabela do Tribunal de Justiça de São Paulo. Os juros de mora de 12% (doze por cento) ao ano devem incidir, a partir da citação, na forma do artigo 219 do CPC), porquanto ali se caracterizou a mora.
+O pedido, portanto, há de ser acolhido.
+
+III. Dispositivo
+
+Ante o exposto, JULGO PROCEDENTE o pedido da parte autora e EXTINGO o processo, COM RESOLUÇÃO DE MÉRITO, na forma do art. 269, I, do Código de Processo Civil para o fim de CONDENAR a parte ré ao pagamento da quantia - em reais correspondente à diferença identificada da seguinte forma: o valor devido (40 salários mínimos) na época do acidente. A correção monetária deve incidir a partir da mesma época (data do acidente), utilizando-se dos índices autorizados pela tabela do Tribunal de Justiça de São Paulo. Os juros de mora de 12% (doze por cento) ao ano devem incidir, a partir da citação, na forma do artigo 219 do CPC), porquanto ali se caracterizou a mora. O valor será identificado por cálculos. Considerando a sucumbência da parte ré, arcará ela com o total das custas judiciais (atualizadas) e dos honorários advocatícios, estes fixados em 15% (quinze por cento) do valor integral da condenação. Os honorários são estipulados para a fase de conhecimento. Se não houver cumprimento voluntário da sentença, honorários adicionais serão fixados na fase de execução.
+Fica a parte ré intimada a cumprir a obrigação de pagamento, no prazo de 15 (quinze) dias, contados da data em que a decisão se tornar exigível, em primeiro ou segundo grau de jurisdição, independente de nova intimação ou providência, sob pena de incidência de multa de 10% (dez por cento), na forma do artigo 475-J do Código de Processo Civil.
+A base de cálculo para recolhimento da taxa judiciária incidente na apelação será o valor da causa (principal sem acréscimos de juros e correção).
+Publique-se. Registre-se. Intimem-se.
+
+São Paulo, 17 de maio de 2013.

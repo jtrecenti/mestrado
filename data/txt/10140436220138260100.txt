@@ -1,0 +1,33 @@
+
+
+SENTENÇA
+
+Processo nº:1014043-62.2013.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Obrigação de Fazer / Não Fazer
+Requerente:FENACON - Federação Nacional  Empr  Serv Contábeis Empr de Assess, Perícias, Informações e Pesquisas
+Requerido:Google Brasil Internet Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Paulo César Batista dos Santos
+
+
+FENACON-FEDERAÇÃO NACIONAL DAS EMPRESAS DE SERVIÇOS CONTÁBEIS E DAS EMPRESAS DE ASSESSORAMENTO, PERÍCIAS, INFORMAÇÕES E PESQUISAS propôs ação cominatória contra o GOOGLE BRASIL INTERNET LTDA, requerendo fosse a ré condenada ao fornecimento de dados cadastrais de contas de e-mail´s indicadas.
+Indeferida a antecipação de tutela, a ré foi citada e apresentou contestação, ocasião em que impugnou as alegações iniciais, dizendo ter agido de acordo com disposição legal, que somente permite a disponibilização desses dados por ordem judicial.
+Facultada a réplica.
+É o necessário.
+DECIDO.
+A prova é suficiente para análise do pedido inicial, sendo desnecessária a realização de audiência de instrução e julgamento. Sendo assim, converto o feito em julgamento antecipado da lide, como manda o art. 330, inciso I, do CPC.
+O pedido procede.
+Cabível a exibição de dados cadastrais de contas de e-mail aviado por quem possui relação de direito material a ser travada com o usuário, ou se acha lesado em seu direito, traduzindo legítima pretensão da parte autora.
+Munida com essas informações, será possível instrumentalizar ações que lhe afigurem adequadas para resguardar os seus eventuais e supostos direitos de que se julga detentora.
+Trata-se de jurisdição obrigatória, já que se mostra indispensável a determinação judicial para o acesso às informações sigilosas de usuário de serviços eletrônicos, inclusive do IP da máquina de origem das mensagens sob suspeita.
+Presentes o risco de dano de difícil reparação, além de forte verossimilhança, é de se antecipar a tutela na sentença.
+Ante o exposto, JULGO PROCEDENTE o pedido inicial e DEFIRO a antecipação de tutela, para que a ré, no prazo de até 5 dias, contados da intimação dessa sentença, disponibilize os dados cadastrais que tenha disponíveis dos usuários castroa147@gmail.com e silvaseverino23@gmail.com, que se apresentam como Anderson Castro e Severino Silva, além de todos os endereços IP que eles tenham utilizado para acesso ao Gmail, com horários de acesso, bem como os endereços IP, data e horários utilizados pelos usuários castroa147@gmail.com e silvaseverino23@gmail.com para remeter as mensagens anexas à inicial, com Message-ID, Assunto, data e horários fornecidos às fl. 140/141.
+DECRETO a extinção do feito com resolução do mérito (art. 269, I, do Código de Processo Civil).
+Cada parte suportará suas custas e despesas, sem sucumbência, por se tratar de jurisdição necessária a qual a ré não resistiu.
+P.R.I.
+São Paulo, 28 de maio de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

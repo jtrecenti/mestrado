@@ -1,0 +1,65 @@
+
+
+SENTENÇA
+
+Processo nº:0047469-97.2011.8.26.0053
+Classe - AssuntoProcedimento Ordinário - Anulação de Débito Fiscal
+Requerente:BANCO SANTANDER (BRASIL) S/A
+Requerido:Município de São Paulo
+
+
+
+
+Juiz(a) de Direito: Dr(a). Luis Fernando Camargo de Barros Vidal
+
+
+Vistos.
+
+Trata-se de ação ordinária na qual o autor BANCO SANTANDER (BRASIL) S/A, objetiva provimento que garanta a inexigibilidade de recolhimento de ISSQN sobre as operações de prestação de aval, fiança e outras garantias para o que argumenta que há ilegalidade e inconstitucionalidade na incidência do imposto sobre essas operações. Sustenta também que as obrigações assumidas consubstanciam prestação de dar, e não de fazer. Veio acompanhada de documentos.
+
+O MUNICÍPIO DE SÃO PAULO ofertou contestação na qual afirma que a atividade econômica de prestação de garantia não implica apenas numa obrigação de dar, mas também numa obrigação de fazer. Cita o Incidente de Inconstitucionalidade n.º 994.05.027265-7 do Tribunal de Justiça de São Paulo e o papel atribuído ao Município, referente à fiscalização das instituições financeiras, como justificativas à legalidade dos atos administrativos e da existência de tal tributo.
+
+Houve réplica.
+
+É o relatório. Decido.
+
+Assim decidiu este juízo o pedido de liminar:
+
+Vistos.
+O autor objetiva provimento antecipado e  final que o garanta contra a exigência do recolhimento de ISSQN sobre as operações de prestação de aval, fiança e outras garantias, para o que argumenta que as obrigações assumidas consubstanciam prestação de dar, e não de fazer. Ofertou documentos.
+É o relatório. Decido o pedido de tutela antecipada não apreciado anteriormente.
+Assim foi decidido pelo juízo nos autos do processo n.º  053.05.024463-1, que trata de hipótese semelhante:
+Não obstante os ponderáveis expostos pelo autor na sua inicial, tenho que não é possível deixar de reconhecer que a prestação de garantia na modalidade fiança constitua prestação de serviços.
+As obrigações assumidas por força de contratos ou são de dar, ou de fazer, inexistindo na lei civil uma terceira modalidade.
+Logo, é da natureza do contrato de fiança que uma das partes presta o serviço de colocar à disposição da outra parte o seu bom nome e patrimônio em garantia face a terceiros, o que constitui um fazer. O dar, consistente em pagar a dívida ao terceiro, é elemento incerto e dependente do inadimplemento, sob cuja condição a execução do ajuste se torna complexa, com a prestação de obrigações múltiplas, e autoriza a incidência do IOF sobre o valor efetivamente pago.
+A propósito assim estão descritos os serviços na lista da Lei Complementar n.º 116/2003, com vigência em 31/07/2003, que não rege a hipótese, mas confirma no plano normativo o raciocínio:
+15 ? Serviços relacionados ao setor bancário ou financeiro, inclusive aqueles prestados por instituições financeiras autorizadas a funcionar pela União ou por quem de direito.
+.............................................................................................................
+15.08 ? Emissão, reemissão, alteração, cessão, substituição, cancelamento e registro de contrato de crédito; estudo, análise e avaliação de operações de crédito; emissão, concessão, alteração ou contratação de aval, fiança, anuência e congêneres; serviços relativos a abertura de crédito, para quaisquer fins.
+Portanto, não merecem acolhimento os argumentos contidos na inicial sobre a natureza da obrigação e sobre a incidência do IOF.
+Deste modo, indefiro a tutela antecipada requerida e determino o prosseguimento dos autos, citando-se.
+
+
+Em sede de Agravo de Instrumento assim decidiu o Egrégio Tribunal de Justiça de São Paulo:
+
+Agravo de Instrumento n. 0010725-34.2012.8.26.0000
+Voto n. 909
+Comarca: São Paulo
+Agravante: Banco Santander (Brasil) S/A
+Agravada: Prefeitura Municipal de São Paulo
+Tributário e processual. Ação declaratória de inexistência de relação jurídico-tributária. ISS sobre prestação de fiança e aval. Antecipação de tutela indeferida pelo MM. Juízo a quo. Ausência, em cognição sumária, de fundamentação relevante e de periculum in mora. Recurso não provido.
+I Relatório.
+Banco Santander (Brasil) S/A, nos autos da ação declaratória de inexistência de relação jurídico-tributária que move contra a Prefeitura Municipal de São Paulo, interpôs agravo de instrumento em face da decisão copiada a fls. 111/112, que indeferiu pedido de antecipação de tutela para fim de suspensão da exigibilidade de ISS incidente sobre receitas oriundas de operações de aval e fiança e outras garantias, reputando não satisfeito o requisito da relevância da fundamentação. Sustenta o agravante que se cuida de operações que caracterizam obrigação de dar e, portanto, afastadas da incidência do ISS, que pressupõe a prestação de serviços (obrigação de fazer). Foi indeferido o pedido de antecipação dos efeitos da tutela recursal. Sem contraminuta, por se tratar de decisão proferida inaudita altera pars. 
+II Fundamentação. 
+O recurso não merece ser provido. A concessão da medida de antecipação de tutela pressupõe a satisfação de dois requisitos: (i) fundamentação relevante e (ii) risco de dano irreparável ou de difícil reparação. No caso ora tratado, e em cognição sumária única viável neste incipiente estágio processual , não se vislumbra estarem satisfeitos ambos esses requisitos. Quanto à ausência de fundamentação relevante, impende considerar a hipótese de incidência expressamente prevista no item 15.8 da lista anexa à Lei Complementar n. 116/2003:, in verbis: ?emissão, reemissão, alteração, cessão, substituição, cancelamento e registro de contrato de crédito; estudo, análise e avaliação de operações de crédito; emissão, concessão, alteração ou contratação de aval, fiança, anuência e congêneres; serviços relativos a abertura de crédito, para quaisquer fins?, repetido pela Lei Municipal n. 13.701, de 24 de dezembro de 2003, cuja constitucionalidade foi afirmada pelo C. Órgão Especial deste Tribunal de Justiça, nos autos de Arguição de Inconstitucionalidade n. 994.05.027265-7: ?Incidente de inconstitucionalidade de Lei Municipal. A fiança e o aval prestados por administradora de cartão de crédito de sua emissão em favor de terceiro está sujeita à incidência do ISS municipal. A natureza do contrato, tendo como pressuposto a prestação de garantia subsidiária à liberação do crédito, configura prestação de serviços e não operação financeira. A atividade explicitada no item 15.8 da Lista de Serviços anexa à Lei Complementar n° 116/03 e de igual modo na Lei Municipal n° 13.701/03, não afronta a preceito expresso da Constituição Federal de 1988. Mero enquadramento de uma atividade na submissão da lei incidência tributária, não leva, em caso negativo, o reconhecimento de inconstitucionalidade. Argüição improcedente.? (Arguição de Inconstitucionalidade n. 994.05.027265-7, São Paulo, Órgão Especial, Rel. Des. RIBEIRO DOS SANTOS, j. 01/09/2010). Sob outro enfoque, nada autoriza, in casu, a concessão da medida de urgência reclamada, menos ainda com sacrifício ao contraditório efetivo, bastando para tanto considerar que o autor, ora agravante, não indica nenhum crédito específico que concretamente lhe esteja sendo exigido pela ré, de modo que não se entrevê o indispensável periculum in mora. Com efeito, no caso sob análise, o agravante faz pedido genérico, tendente a suspender a exigibilidade de ISS incidente sobre as receitas originadas das operações de fiança, aval e outras garantias, sem alegar e sem demonstrar eventual prejuízo que esteja na iminência de sofrer. Sobre as características do risco de dano que autoriza a concessão da antecipação da tutela, que por analogia se estende ao risco de lesão necessário para o deferimento do efeito suspensivo (art. 558, caput, CPC), o doutrinador Teori Albino Zavascki esclarece: O risco de dano irreparável ou de difícil reparação e que enseja antecipação assecuratória é o risco concreto (e não o hipotético ou eventual), atual (ou seja, o que se apresenta iminente no curso do processo) e grave (vale dizer, o potencialmente apto a fazer perecer ou a prejudicar o direito afirmado pela parte). Se o risco, mesmo grave, não é iminente, não se justifica a antecipação da tutela. É consequência lógica do princípio da necessidade, antes mencionado. (Antecipação da tutela. São Paulo: Saraiva, 2005, p. 78). Sobre o assunto Fredie Didier Jr. ensina: A 'lesão grave ou de difícil reparação' constitui um conceito vago ou indeterminado, devendo ser definido pelas peculiaridades do caso concreto. A referência a lesão grave ou de difícil reparação conduz à idéia de urgência, de sorte que as decisões que concedem ou neguem pedido de liminar ou tutela antecipada encartam-se perfeitamente na hipótese legal. (Curso de direito processual civil. 3ª ed., Salvador: Edições JusPodivm, 2007, v. 3, p. 127). Portanto, o dano previsto na norma tem de ser concreto, iminente e grave, do que o agravante não cogita.
+III. Conclusão. Diante do exposto, nega-se provimento ao recurso. MOURÃO NETO Relator
+
+
+Nada mais tendo a acrescentar, tendo em vista que a fase inicial esgotou o tema controvertido, do que resulta que a prestação de fiança é serviço que autoriza a incidência do ISSQN, é de se julgar improcedente a ação.
+
+ Julgo improcedente a ação e condeno o autor ao pagamento de custas e honorários que fixo nos termos do art. 20, § 4º, do CPC, em R$ 10.000,00.
+
+P.R.I.
+São Paulo, 04 de março de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

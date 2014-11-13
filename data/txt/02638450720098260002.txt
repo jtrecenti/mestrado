@@ -1,0 +1,43 @@
+
+
+SENTENÇA
+
+Processo nº:002.09.263845-9
+Classe - AssuntoProcedimento do Juizado Especial Cível - Perdas e Danos
+Requerente:Deilda Góis de Oliveira
+Requerido:Banco Itau S/A
+
+
+
+Juiz(a) de Direito: Dr(a). Debora Romano Menezes
+
+
+Vistos.
+
+
+Dispensado o relatório nos termos do art. 38, caput, da Lei 9099/95. 
+Decido. 
+Alega a autora, em síntese, que teve seu cartão de débito furtado e foram realizados saques indevidos. Requer a restituição dos valores retirados de sua conta, bem como indenização por danos morais pelos aborrecimentos sofridos.  
+A ré, por seu turno, sustenta que as transações efetuadas foram efetuadas de posse de cartão eletrônico e por meio de senha pessoal. Nega a existência de ato ilícito e a obrigação de indenizar. 
+Dada a verossimilhança das alegações da autora e considerando a sua hipossuficiência segundo as regras ordinárias de experiência, impõe-se a inversão do ônus da prova, nos termos do art. 6º, VIII, do CDC, de modo que competia ao réu, detentor de tecnologia e dos meios de informática, provar  de forma inegável que foi a autora que efetuou os débitos por meio de seu cartão magnético. 
+Com efeito, em que pese entendimentos em sentido contrário, o banco, em caso como tais, deve ser responsabilizado, aplicando-se o art. 927, § único, do C.C., que assim dispõe: Haverá obrigação de reparar o dano, independentemente de culpa nos casos especificados em lei, ou quando a atividade normalmente desenvolvida pelo autor do dano implicar, por sua natureza, risco para os direitos de outrem. 
+A norma em questão trata de responsabilidade objetiva decorrente do risco da atividade. 
+Outro não é o entendimento do I. Relator, Dr. Alcides Leopoldo e Silva Júnior, nos autos do julgamento do recurso 11647 do Primeiro Colégio Recursal da Capital, J, em 04 de junho de 2008: 
+É o entendimento do Superior Tribunal de Justiça de que é: Correta a inversão do ônus da prova determinada pelo tribunal a quo porque o sistema de segurança do cartão magnético é vulnerável a fraudes (AgRg no Resp 724.954?RJ, Rel. Ministro ARI PARGENDLER TERCEIRA TURMA, julgado em 13.09.2005, DJ 17.10.2005 p. 293), bem como que : Reconhecida a possibilidade de violação do sistema eletrônico e tratando-se de sistema próprio das instituições financeiras, ocorrendo retirada de numerário da conta corrente do cliente, não reconhecida por este, impõe-se o reconhecimento da responsabilidade objetiva do fornecedor do serviço somente passível de ser ilidida nas hipóteses do ?§ 3º do art 14 do Código de Defesa do Consumidor (RESp 557.030/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16.12.2004, DJ 01.02.2005, p. 542), e ainda que A administradora de cartões de crédito responde pela falta de segurança dos serviços que presta (AGrg no Ag 277.191/RJ, Rel. Ministro ARI PARGENDLER, TERCEIRA TURMA, julgado em 15.05.2000, DJ 01.08.2000, p. 278). 
+É certo, portanto, que a ré deve responder pela falta de segurança dos serviços que presta, somente podendo se eximir de responsabilidade se comprovar culpa exclusiva do consumidor, o que, todavia, não ficou comprovado nos autos, ônus que cabia, repita-se, à ré. 
+De outro lado, frise-se ser inverídica a assertiva da ré no sentido de que apenas a autora conhece sua senha, pois, como se sabe, esta é produzida pelo sistema de tecnologia do banco e de seu parceiro e, portanto, alguém diferente do consumidor usuário pode obtê-la. 
+Ademais, não é porque até o momento a clonagem não foi comprovada que o sistema operacional de leitura do cartão seja, de fato, imune à ação de marginais. Ademais, também não comprovou o réu que os dados criptografados e armazenados no "chip" não podem ser lidos por meio de equipa? mentos externos.
+Oportuno observar, outrossim, que o laudo apresentado pela ré foi produzido sem a participação da autora, de modo que, por si só, não é suficiente para afastar a responsabilidade da parte requerida.
+Em suma, adotada a teoria do risco, torna-se inafastável o dever do banco em indenizar a autora pelos saques indevidos em sua conta corrente, por meio de cartão de débito magnético. 
+Nesse sentido, confira-se o seguinte precedente jurisprudencial : REsp 727843 / SP ; RECURSO ESPECIAL2005/0031192-7 Relator(a)Ministra NANCY ANDRIGHI (1118) Órgão Julgador T3 - TERCEIRA TURMA Data do Julgamento 15/12/2005 Data da Publicação/Fonte DJ 01.02.2006 p. 553RDDP vol. 40 p. 145  Direito processual civil. Ação de indenização. Saques sucessivos em conta corrente. Negativa de autoria do correntista. Inversão do ônus da prova.- É plenamente viável a inversão do ônus da prova (art. 333, II do CPC) na ocorrência de saques indevidos de contas-correntes,competindo ao banco (réu da ação de indenização) o ônus de provar os fatos impeditivos, modificativos ou extintivos do direito do autor.- Incumbe ao banco demonstrar, por meios idôneos, a inexistência ou impossibilidade de fraude, tendo em vista a notoriedade do reconhecimento da possibilidade de violação do sistema eletrônico de saque por meio de cartão bancário e/ou senha.- Se foi o cliente que retirou o dinheiro, compete ao banco estar munido de instrumentos tecnológicos seguros para provar de forma inegável tal ocorrência.Recurso especial parcialmente conhecido, mas não provido.
+Com relação aos danos morais, entretanto, a ação é improcedente. 
+Não há qualquer prova de que o dano tenha ultrapassado a esfera meramente patrimonial da autora, atingindo sua esfera jurídica subjetiva.
+Desta forma, ainda que tenha havido aborrecimentos, a ausência de maiores repercussões, impede sua configuração como danos morais.
+Isto posto, JULGO PARCIALMENTE PROCEDENTE a ação condenando o réu ao ressarcimento da quantia de R$ 3.500,00, devidamente atualizada pela tabela prática do Tribunal de Justiça desde a data da propositura da ação e acrescida de juros de mora de 1% ao mês a contar da data da citação. Não incidem custas ou honorários advocatícios, na forma do art. 55 da Lei n.º 9.099/95, uma vez que não demonstrada a má-fé de qualquer das partes. O prazo para interposição é de 10 dias. O valor do preparo deverá ser recolhido de acordo com o disposto no art. 4º, da Lei Estadual nº 11.608/03, observado o valor de R$ 164,20. Na hipótese de recurso, deverá ser recolhido, ainda, o valor do porte de remessa e retorno, que é R$ 25,00 por volume de autos, nos termos do Provimento 833/2004. do CSM (guia do fundo de despesa ? código da receita 110-4).  Por fim, em razão do art. 52, III, da Lei nº 9099/95, c.c. art. 475-J, caput, do Código de Processo Civil, fica o vencido advertido de que o prazo de quinze dias a que alude a segunda norma passará a fluir automaticamente a partir do trânsito em julgado desta sentença, independentemente de nova intimação.
+P.R.I.C.
+São Paulo, 31 de agosto de 2010.
+
+
+
+Débora Romano Menezes
+Juíza de Direito

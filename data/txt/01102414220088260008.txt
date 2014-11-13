@@ -1,0 +1,91 @@
+
+
+SENTENÇA
+
+Processo nº:0110241-42.2008.8.26.0008
+Classe - AssuntoProcedimento Ordinário - Prestação de Serviços
+Requerente:Agostinho Alves de Freitas e outro
+Requerido:Eletropaulo Metropolitana Eletricidade de São Paulo Sp
+
+Justiça Gratuita
+C O N C L U S Ã O
+
+Em 14 de outubro de 2010,
+faço estes autos conclusos ao MM. Juiz de Direito,
+Dr.Mauro Civolani Forlin
+
+
+
+
+VISTOS.
+
+
+
+AGOSTINHO ALVES DE FREITAS e EDINETE BATISTA DE LUCENA ajuizaram ação de indenização por danos materiais e morais em face de ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S/A alegando, em síntese, que residiam de aluguel no imóvel localizado na Rua Vacanga, nº 560, casa 1, e que, ao retornarem para casa no dia 10/09/07, foram surpreendidos por um corte indevido no fornecimento de energia elétrica da residência. Afirmaram que a requerida reconheceu ter efetuado o corte por engano e enviou funcionários para restabelecerem o fornecimento da energia elétrica ao imóvel em questão mas que os responsáveis por esse serviço, por equívoco, ligaram a energia em voltagem errada, o que acarretou na inutilização de diversos aparelhos eletroeletrônicos. Informaram, ainda, que em razão do ocorrido foram obrigados a sair do imóvel em questão, uma vez que a fiação também havia sido deteriorada e que, por questões de necessidade, acabaram tendo que alugar uma casa com o valor do aluguel superior ao do antigo imóvel, por ser a única disponível naquele momento. Por essas razões, requereram a condenação da requerida ao pagamento de R$ 6.173,00 a título de indenização por danos materiais (referente aos aparelhos eletroeletrônicos queimados e a diferença do aluguel) e 25 (vinte e cinco) salários mínimos a título de indenização por danos morais. À inicial foram acostados os documentos de fls. 09/34.
+Citada, a requerida apresentou contestação na qual bateu-se pela aplicação da Resolução Normativa nº 61/2004 da ANEEL, que prevê a isenção de sua responsabilidade em razão dos requerentes terem prejudicado a prova técnica nos termos do art. 10º, parágrafo único, II. Afirmou que as instalações elétricas do antigo imóvel dos requerentes estavam irregulares e que não houve sobrecarga de energia elétrica no imóvel em questão, mas sim que houve uma falha interna no sistema de aterramento da residência, de forma que não possui responsabilidade sobre o prejuízo sofrido pelos requerentes. No mais, aduziu que não há que se falar em indenização por danos morais uma vez que estes não foram comprovados. Com a contestação vieram os documentos de fls. 78/89.
+Réplica a fls. 106/115.
+Deferido o benefício da assistência judiciária gratuita aos requerentes (fls. 120).
+Instadas as partes a especificar as provas que pretendiam produzir, a requerida solicitou a produção de prova pericial, enquanto os requerentes bateram-se pela produção de prova pericial e oral (depoimento pessoal e oitiva das partes).
+Saneado o feito, foram deferidas a produção da prova pericial técnica e oral (fls. 129/130).
+Manifestação da requerida indicando seu assistente técnico e formulando quesitos suplementares ao perito (fls. 133/135). Os requerentes apresentaram seus quesitos suplementares a fls. 136.
+Laudo pericial a fls. 152/220 e parecer técnico divergente a fls. 235/243.
+Manifestação dos requerentes acerca do laudo pericial a fls. 244/251.
+Realizada audiência de instrução e julgamento na qual foi colhida a prova oral (fls. 261/267).
+Encerrada a instrução, as partes apresentaram alegações finais a fls. 272 e 273/279.
+
+É o relatório.
+DECIDO.
+
+O pedido é parcialmente procedente.
+De início, saliente-se que, conforme se sabe, três são os elementos necessários para o dever de indenizar: ação ou omissão dolosa ou culposa, dano e nexo de causalidade entre os dois elementos. E no caso em testilha a indenização é devida porquanto estão presentes todos esses requisitos.
+Conforme já havia sido sinalizado no despacho saneador, tornaram-se incontroversas, eis que não foram objeto de impugnação específica, as afirmações de que a requerida interrompeu o fornecimento de energia elétrica no imóvel dos requerentes por equívoco e que alterou a voltagem de 110v para 220v ao restabelecer o respectivo fornecimento.
+Ainda que assim não fosse, a prova produzida nos autos confirmou o ato ilícito praticado pela requerida.
+Com efeito, conforme se verifica do laudo pericial de fls. 152/220, ficou comprovado que efetivamente a Concessionária realizou uma ligação equivocada no ramal de ligação do imóvel em lide e, devido a isso, a alimentação de energia ao imóvel passou a ser somente na tensão 220v (fls. 179).
+Desta forma, inegável que se verificou o primeiro elemento do dever de indenizar, qual seja, a conduta ilícita culposa por parte da requerida.
+Afinal, como se não bastasse ter efetuado o corte indevido da energia elétrica no imóvel dos requerentes, os funcionários da mesma restabeleceram o seu fornecimento na voltagem errada, o que representa ato ilícito.
+Passo, então, a analisar se dessa conduta ilícita decorreram os danos mencionados pelos autores na inicial.
+A esse respeito os requerentes postularam a condenação da requerida ao pagamento de indenização por danos materiais (R$ 1.773,00 pelos prejuízos com os aparelhos e R$ 4.440,00 pela diferença do aluguel em virtude da necessidade de desocupação do imóvel) e morais.
+O pedido relativo aos prejuízos provocados nos aparelhos deve ser acolhido. 
+Os documentos de fls. 28/31 demonstram os valores necessários para o conserto dos equipamentos indicados na inicial (geladeira, computador e forno de microondas).
+Demais disso, a prova pericial assegurou que tais danos foram provocados pela elevação indevida da tensão elétrica na casa dos autores:
+
+Quesito 3
+Se os problemas nos aparelhos indicados na inicial resultaram do recebimento de carga superior à devida?
+Resp. Os problemas nos aparelhos indicados na inicial resultaram basicamente do fornecimento pela requerida unicamente da tensão de 220V no condutor neutro, por um determinado período, que atingiu todos os circuitos internos do imóvel em lide. (fls. 179/180)
+
+
+Daí porque, evidenciado o prejuízo e o nexo de causalidade entre ele e a conduta ilícita da requerida, ela deve ser condenada a indenizar os autores no valor pretendido.
+Saliente-se, ainda, que o valor da condenação pretendida deve ser acolhido. A uma porque ele foi comprovado pelos documentos de fls. 28/31 e pelo laudo pericial (fls. 178). A duas porque a ré não o impugnou especificamente, o que o torna incontroverso.
+Nem se argumente que a Resolução Normativa nº 61/2004 da ANEEL eximiria a requerida do dever de ressarcir os prejuízos causados em razão da isenção prevista em seu art. 10, parágrafo único, II.
+Ora, não é razoável exigir que os requerentes permanecessem com todos os seus aparelhos queimados, a mercê da requerida para realização da suposta inspeção.
+Observa-se, ainda, que o equipamento consertado pelos requerentes (geladeira) constitui bem de primeira necessidade, o qual impõe o conserto com urgência, de forma que não se aplica o disposto no art. 10, parágrafo único, II, da Resolução Normativa nº 61/2004 da ANEEL.
+Embora o referido ato normativo não albergue tal exceção, os princípios inerentes às relações de consumo e o próprio bom senso assim o recomendam, mormente porque as únicas exceções previstas no art. 10, parágrafo único, II, da Resolução Normativa nº 61/2004 da ANEEL (decurso do prazo para inspeção e prévia autorização da concessionária) são potestativas, porquanto submetem ao livre arbítrio da requerida a possibilidade de o consumidor providenciar o conserto do equipamento danificado.
+Deste modo, está claro que o conserto do equipamento pelo consumidor não pode ser sempre considerado causa de isenção de responsabilidade da requerida, mormente nos casos de urgente e necessária reparação em se tratando de eletrodoméstico de primeira necessidade.
+Nesse sentido:
+
+"Responsabilidade civil - Descarga elétrica - Queima de aparelhos da residência do usuário ? Responsabilidade objetiva da empresa de fornecimento de energia - Consumidor que providencia o conserto do equipamento antes da vistoria pela Concessionária - Não aplicação do disposto no art. 10, par. único, II, da Resolução Normativa n. 61 de 29.4.2004 da ANEEL, por se tratar de equipamento de primeira necessidade (máquina de lavar roupas) que impõe o conserto com urgência - Necessidade, porém, de prova pericial para verificação do nexo causal, inviável no âmbito dos Juizados Especiais - Extinção do processo sem resolução de mérito - Sentença reformada - Recurso provido." (Recurso Inominado nº 31112. TJ/SP, 1ª Turma Cível do Colégio Recursal Dos Juizados Especiais Cíveis e Criminais do Estado de São Paulo. Relator: Jorge Tosta. Julgado em 15/01/2008 e registrado em 30/04/2008).
+
+Por outro lado, não há que se falar na condenação da ré à restituição da diferença do valor dos alugueres dos imóveis em questão (R$ 4.400,00) ante a inexistência de nexo de causalidade entre essas despesas e o ato ilícito praticado pela ré.
+Com efeito, não se mostra razoável que haja a necessidade de desocupar uma residência pelo fato de que foi enviada em determinado período uma tensão superior àquela adequada.
+Nem mesmo a necessidade de substituição da fiação justifica a saída do imóvel. Tanto isso é verdade que o laudo pericial atestou que, muito embora a rede de distribuição interna do antigo imóvel necessitasse de uma reforma, não se mostrava necessária a troca da fiação da residência em virtude da elevação da tensão no condutor neutro (fls. 176), de forma que o imóvel não estava impróprio para ocupação sendo despicienda a saída e o aluguel de outro imóvel.
+Se assim é, de fato não há nexo de causalidade entre a elevação da tensão elétrica (ato ilícito perpetrado pela requerida) e os gastos com o aluguel mais caro que teve de ser suportado pelos autores, o que impede o acolhimento desse pedido.
+Por fim, igualmente o pedido de indenização por danos morais merece guarida.
+É de se ressaltar o total descaso da requerida em face dos requerentes a qual, além de interromper indevidamente o fornecimento de energia na residência dos mesmos, o que já ensejaria, por si, o pedido de indenização por danos morais, escorando-se em uma Resolução Normativa da ANEEL, negou-se a lhes ressarcir os prejuízos decorrentes do restabelecimento inadequado do fornecimento da energia, obrigando o consumidor a buscar em Juízo sua pretensão.
+Lícito conclui, pois, que os fatos narrados na inicial ultrapassaram o mero dissabor, de forma que é necessária a reparação dos danos morais.
+Como se sabe, no que tange à constatação do dano moral, emerge a responsabilização do agente causador pela simples violação "ex facto", tornando-se, portanto, despicienda a prova de reflexo patrimonial no âmbito do lesado. Estará configurado o dano diante da consciência que se tem de que certos fatos atingem a esfera da moralidade individual ou coletiva, lesionando-a. Não se cogita, pois, da prova de prejuízo moral.
+Desta maneira, apurada a existência do dano moral, impõe-se sua quantificação, a qual terá por parâmetros a extensão do dano, as condições econômicas das partes, a intensidade da culpa e o caráter sancionador dessa indenização. 
+Deve também o juiz pautar-se pela eqüidade, agindo com equilíbrio, pois a indenização não tem o objetivo de enriquecer a vítima, mas não deve ser irrisória para o responsável pelo dano. 
+Desta maneira, razoável a sua fixação no montante de R$ 10.000,00, o equivalente a 20 salários mínimos desta data.
+
+A indenização por dano moral é arbitrável, mediante estimativa prudencial que leve em conta a necessidade de, com a quantia, satisfazer a dor da vítima e dissuadir, de igual e novo atentado, o autor da ofensa (TJSP, 2ª C., ApCiv n. 198.945-1, rel. Des. Cezar Peluso, j. 21.12.93, in JTJ Lex 156/95).
+
+
+Em suma, verificados os elementos caracterizadores do dever de indenizar, a procedência da ação é de rigor.
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a ação ajuizada por AGOSTINHO ALVES DE FREITAS e EDINETE BATISTA DE LUCENA em face de ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S/A para condenar a requerida a pagar aos requerentes a quantia de R$ 1.733,00, a título de indenização por danos materiais, com correção monetária a contar do ajuizamento da ação e e juros de mora de 1% ao mês a partir da citação. Condeno a ré, ainda, ao pagamento de R$ 10.000,00, a título de indenização por danos morais, atualizada a partir da data desta sentença pela Tabela Prática do Tribunal de Justiça, e acrescida de juros de mora de 1% ao mês a partir da citação.
+Por força do princípio da causalidade, condeno a requerida ao pagamento das despesas processuais e dos honorários advocatícios, estes arbitrados em 15% do valor da condenação, considerando a necessidade de dilação probatória.
+P.R.I. 
+São Paulo, 15 de outubro de 2010.
+
+                                                                             - assinatura digital ao lado -
+   Mauro Civolani Forlin
+         Juiz de Direito

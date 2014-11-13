@@ -1,0 +1,82 @@
+
+
+SENTENÇA
+
+Processo nº:0009523-13.2012.8.26.0003
+Classe - AssuntoEmbargos À Execução - Efeito Suspensivo / Impugnação / Embargos à Execução
+Embargante:MTM Produções e Eventos Ltda e outro
+Embargado:Banco do Brasil S/A
+
+
+Juiz(a) de Direito: Dr(a). Alexandre Batista Alves
+
+
+Vistos.
+
+
+
+MTM PRODUÇÕES E EVENTOS LTDA e SOLANGE WATANABE MOROHASHI ofereceram embargos à execução que lhes move BANCO DO BRASIL S/A. Suscitaram preliminar de inépcia da inicial e, no mérito, sustentaram basicamente que não é admissível cobrança cumulada de comissão de permanência com outros encargos.
+
+O embargado apresentou impugnação aos embargos, na qual sustentou a legalidade das cláusulas contratuais.
+
+É o relatório.
+Fundamento e Decido.
+
+A matéria debatida nos autos é somente de direito e de fato comprovável por meio de prova documental, prescindindo-se da realização de outras provas, razão pela qual é de rigor o julgamento antecipado da lide.
+
+Trata-se de execução fundada em Contrato de Abertura de Crédito Fixo e aditivos, o último no valor de R$34.482.96.
+
+O contrato em tela não se confunde com o contrato de abertura de crédito, de modo que não tem incidência a Súmula 233 do STJ. Nesse sentido:
+
+?O contrato de abertura de crédito fixo, que possui valor certo e determinado, liberado de uma só vez e reconhecido pelo devedor, é título executivo extrajudicial, não se confundindo com o contrato de abertura de crédito em conta-corrente, cujo valor depende da efetiva utilização do crédito posto à disposição do correntista, a ser apurado por lançamentos unilaterais do credor? (STJ- 4ª Turma, REsp 331.558-SC- Agrg, rel. Ministro Sálvio de Figueiredo).
+
+Tendo a execução se lastreado em título executivo extrajudicial, nos termos do art. 585, I e II, do CPC (documento particular assinado pelo devedor e por duas testemunhas), não há que se falar em inépcia da inicial.
+
+De outra parte, a inicial da execução veio acompanhada de demonstrativo de débito (fls. 27 e verso), de modo que não houve ofensa ao disposto no art. 614, II, do CPC.
+
+Afastadas essas questões, conquanto os embargantes não tenham declinado o valor do débito que reputam correto, é certo que impugnaram a incidência de comissão de permanência cumulativamente com outros encargos, questão que deve ser apreciada e afasta a incidência ado art. 739 A do CPC.
+
+No que se refere à comissão de permanência, cuja cobrança é instituída cumulativamente com juros moratórios e multa de 2% (cláusula oitiva do contrato de abertura de crédito fixo), cabem algumas ponderações.
+
+A Resolução n. 1.129/86 do BACEN faculta aos bancos e outras instituições a cobrança de seus devedores por dia de atraso no pagamento ou na liquidação de seus débitos, além de juros de mora na legislação em vigor, comissão de permanência, a ser calculada às mesmas taxas pactuadas no contrato original ou à taxa de mercado do dia do pagamento.
+
+Consta ainda da referida Resolução que, além desses encargos, nenhuma outra quantia compensatória pelo atraso poderia ser cobrada.
+
+Contudo, o Superior Tribunal de Justiça, em vários julgados, distinguindo a natureza jurídica desses institutos, tem assentado a impossibilidade, após o inadimplemento, da cobrança de comissão de permanência com correção monetária (Súmula 30) e outros encargos (juros moratórios ou remuneratórios e multa).
+
+A propósito, confira-se:
+
+?Agravo regimental. Recurso Especial. Ação de cobrança. Contrato de abertura de crédito em conta-corrente. Cumulação da comissão de permanência com juros moratórios e multa contratual. Precedentes da Corte.
+1. Confirma-se a jurisprudência da Corte que veda a cobrança de comissão de permanência com os juros moratórios e com a multa contratual, ademais de vedada a sua cumulação com a correção monetária e com os juros remuneratórios, a teor das Súmulas n° 30, n° 294 e n° 296 da Corte.
+2. Agravo regimental desprovido? (AgRg no Recurso Especial N° 712.801-RS (2004/0183802-4), rel. Ministro Carlos Aberto Menezes Direito).
+
+No mesmo sentido:
+
+?Contratos bancários. Comissão de permanência. Cumulação com os juros de mora e multa contratual. Vedação. Procedentes.
+I-  A recente orientação da Segunda Seção, contudo, é no sentido de não permitir a cumulação da comissão de permanência com correção monetária, juros remuneratórios ou de mora, multa com qualquer outro encargo moratório.
+II- Recurso especial parcialmente provido? (Resp 660684/RS; Recurso Especial 2004/0071117-0, Ministro Antônio de Pádua Ribeiro, 3a Turma, j. 24.05.2005, DJ 20.06.2005 p. 282).
+
+Ao estipular a taxa de comissão de permanência, o BACEN estima e prefixa os prejuízos decorrentes do inadimplemento dos débitos e insere na taxa as perdas e danos resultantes do não pagamento das dívidas no seu vencimento. Em outras palavras, a comissão de permanência, por si só, compensa o banco pelos prejuízos advindos da inadimplência, já que tem em sua taxa embutidos índices que permitem ao mesmo tempo a remuneração do capital mutuado e atualização do valor de compra da moeda.
+
+Nesse contexto, tem-se entendido que a cobrança cumulada da comissão de permanência com outros encargos configura bis in idem, pois estar-se-ia pagando por encargos contratuais que possuem a mesma natureza jurídica e desempenham a mesma função no contrato.
+
+Vale a pena reproduzir os fundamentos extraídos do Agravo Regimental no Resp n° 451.233/RS, Terceira Turma, da relatoria da Ministra Nancy Andrighi, DJ 29.09.03, com o seguinte teor:
+
+?Porquanto o cálculo da taxa de comissão de permanência se faz em consideração ao índice de inadimplência existente no mercado, com prefixação das perdas e danos sofridos pelas instituições financeiras em razão do inadimplemento das obrigações assumidas por seus devedores, com soa ocorrer com multa contratual, conclui-se que esses encargos desempenham a mesma função.
+Por essa razão não se justifica a cobrança cumulada da comissão de permanência com a multa contratual, sob ocorrência de dupla incidência de um mesmo encargo, como ocorre com os juros remuneratórios, a correção monetária e os juros moratórios?.
+
+A doutrina não destoa desse entendimento: ?Sendo a cláusula penal uma prefixação aos prejuízos do credor, tornou-se inaplicável pelas instituições financeiras, no momento em que ser permitiu, justamente cobrir os seus prejuízos a cobrança da comissão de permanência; o mesmo devendo ser dito dos juros de mora, pois aquela cobre a correção monetária e os juros de mercado? (Waldírio Bulgarelli, ?A mora e Resolução 1129 do Banco Central, in RDM 67/79).
+
+Assim sendo, a despeito de não ser potestativa a cláusula que prevê a comissão de permanência, calculada pela taxa média de mercado apurada pelo Banco Central do Brasil, limitada à taxa do contrato (Súmula 294 do STJ), não pode ser cumulada com correção monetária, nem com juros de mora ou remuneratórios e multa.
+
+Deve, assim, ser declarada ilegal referida cláusula, admitindo-se apenas, no caso de mora, a incidência de comissão de permanência.
+
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTES os pedidos para reconhecer a impossibilidade de cobrança de comissão de permanência cumulativamente com juros de mora e outros encargos, nos moldes acima explicitados, cabendo ao embargado apresentar novo demonstrativo de débito.
+
+Certifique-se o desfecho nos autos principais, lá prosseguindo-se.
+
+Tendo em vista a sucumbência recíproca, as custas serão rateadas igualmente entre as partes e cada qual arcará com a verba honorária de seu patrono, já operada a compensação.
+
+P.R.I.
+
+São Paulo, 25 de junho de 2012.

@@ -1,0 +1,99 @@
+
+
+CONCLUSÃO
+Em 19 de março de 2012, faço estes autos conclusos ao MM. Juiz de Direito, Excelentíssimo Senhor Doutor KENICHI KOYAMA. Eu, __________, escrevente, subscrevo e assino.
+SENTENÇA
+
+Processo nº:0018284-48.2010.8.26.0053
+Classe - AssuntoProcedimento Ordinário - Repetição de indébito
+Requerente:CONDOMINIO ORDINÁRIO DO  AUTO SHOPPING SÃO PAULO
+Requerido:FAZENDA PÚBLICA DO ESTADO DE SÃO PAULO
+
+
+
+Juiz(a) de Direito: Dr(a). Kenichi Koyama
+
+VISTOS.
+
+Cuida-se de Procedimento Ordinário movido por CONDOMINIO ORDINÁRIO DO  AUTO SHOPPING SÃO PAULO em face do FAZENDA PÚBLICA DO ESTADO DE SÃO PAULO em razão de cobrança de ICMS sobre tarifa de reserva de potência de energia elétrica contratada mas não-consumida.
+
+A liminar foi deferida.
+
+FAZENDA PÚBLICA DO ESTADO DE SÃO PAULO prestou resposta. Em preliminar de mérito defende a ilegitimidade ativa, porque  CONDOMINIO ORDINÁRIO DO  AUTO SHOPPING SÃO PAULO não é contribuinte de direito do ICMS incidente sobre energia elétrica, mas consumidor final. Fala-se ainda em inépcia da peça inicial. No mérito, aponta-se prescrição e decadência, traça os conceitos técnicos de consumo de energia e demanda de potência elétrica, argumentando sobre a formação do preço da mercadoria não se basta no consumo, mas releva a potência, tudo inserto em contrato único, por cláusula expressa, sem que isso constitua avença autônoma.
+
+Houve réplica.
+
+RELATADOS, FUNDAMENTO e DECIDO.
+
+DAS PRELIMINARES DE MÉRITO.
+NÃO ACOLHIMENTO.
+
+Primeiro carência de ação.
+
+?As ?condições da ação?, como visto, são requisitos exigidos para que o processo possa levar a um provimento final, de mérito. A ausência de qualquer delas leva à prolação de sentença terminativa, ou seja, de sentença que não contém resolução do mérito da causa, o que acarreta a chamada ?extinção anômala do processo?.
+
+(...) Assim é que, ao menos em termos de direito positivo, são três os requisitos do provimento final: legitimidade das partes, interesse de agir e possibilidade jurídica do pedido* (ou, como se verá adiante, possibilidade jurídica da demanda). Presentes os três requisitos, o processo poderá se desenvolver em direção de um provimento final, de mérito. A ausência de qualquer das ?condições:, no fenômeno tradicionalmente designado por ?carência de ação?, levará ? como já afirmado ? à extinção anômala do processo, ou seja, à prolação de sentença terminativa, que extingue o processo sem resolução do mérito?. (CÂMARA, Alexandre Freitas. Lições de Direito Processual Civil, vol. I, 16ª Ed. Lúmen Júris Editora, f. 128/129).
+
+Sustenta-se a tese da carência de ação por ausência de legitimidade de parte, um dos requisitos da tríade comumente eleita pela doutrina.
+
+?Esta ? a legitimidade de parte ? pode ser definida como a ?pertinência subjetiva da ação?. Em outros termos, podemos afirmar que têm legitimidade para a causa os titulares da relação jurídica deduzida, pelo demandante, no processo. (...) Ao afirmar em juízo a existência de uma relação jurídica, o autor deverá, obviamente indicar os sujeitos da mesma? (CÂMARA, Alexandre Freitas. Op Cit. f. 129).
+
+Além dessa situação que doutrinariamente se chama de ?legitimidade ordinária?, ainda é possível que se depare com legitimidade diversa:
+
+?(...) poderá a norma jurídica autorizar que alguém vá a juízo, em nome própria, na defesa de interesse alheio, o que significa afirmar que em algumas situações, expressamente previstas em lei, terá legitimidade de parte alguém que não é apresentado em juízo como titular da relação jurídica deduzida no processo. Fala-se, nessa hipótese, em legitimidade extraordinária? (CÂMARA, Alexandre Freitas. Op Cit. f. 130).
+
+Em que pese a situação ativa e passiva, não há como acolher a suposta ilegitimidade de parte. A análise da carência por ausência de interesse, consoante teoria da asserção, se opera em plano objetivo e abstrato dentro dos lindes adstritos da causa de pedir e do pedido, cingida a análise original da petição inicial e resistência. Sob essas linhas, à luz do caso concreto, constata-se que a narração dos autos dá conta sobre a relação tributária entre substituto e substituído dentro de corte das relações da cadeia de produção, onde prestador e consumidor de energia não consumidor final, discutem sobre o recolhimento de ICMS. Segundo a melhor jurisprudência, o ônus tributário, em tese, no regime de substituição tributária, é mesmo suportado pelo substituído, que tem, portanto, legitimidade para discutir a legalidade da prática.
+
+ICMS - Ação declaratória c/c repetição de indébito - Juízo de retratação - art 543-c, § 7°, do CPC - Energia elétrica -Legitimidade ad causam do comsumidor final - Contrato de demanda reservada de potência - Incidência sobre tarifa calculada com base na demanda de potência elétrica efetivamente utilizada - Súmula 391 do STJ - Incidência da taxa SELIC desde o recolhimento indevido, não podendo haver cumulação com qualquer outro índice de atualização monetária - Precedentes do E. Superior Tribunal de Justiça - Reexame necessário parcialmente provido, improvidos os recursos voluntários. (TJSP. Apelação Cível 9026365700 Relator(a): Pires de Araújo Comarca: São Paulo Órgão julgador: 11ª Câmara de Direito Público Data do julgamento: 30/11/2009 Data de registro: 29/12/2009).
+
+
+Segundo, a inépcia da peça incial A questão da prova sobre os valores pagos a maior é questão subalterna ao próprio reconhecimento do suposto direito descrito em causa de pedir e pedido, de sorte que não exige prova imediata. Ademais, somente terá lugar dada sua subsidiariedade, se acolhida a tese, oportunidade em que se poderá, se o caso, liquidar a sentença favorável, e então determinar qual o valor de créditos indevidamente recolhidos. No mais perfeitamente razoável os fatos deduzidos e a interpretação do direito, motivando o pedido. Não vislumbro qualquer incongruência que impeça a cognição de fundo.
+
+Passo finalmente ao mérito.
+
+DO ICMS SOBRE ENERGIA ELÉTRICA.
+PREVISÃO CONSTITUCIONAL E LEGAL.
+
+O ICMS é tributo previsto no artigo 155, inciso II, da Constituição Federal, que reserva aos Estados e ao Distrito Federal a exação das operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação, ainda que as operações e as prestações se iniciem no exterior. Segundo o inciso I e III do § 2º, do mesmo artigo, terá natureza será não-cumulativa, compensando-se o que for devido em cada operação relativa à circulação de mercadorias ou prestação de serviços com o montante cobrado nas anteriores pelo mesmo ou outro Estado ou pelo Distrito Federal, tanto quanto será seletivo, em função da essencialidade das mercadorias e dos serviços.
+
+É certo que o ICMS, consoante disposição do artigo 155, § 2º, inciso X, alínea ?b?, da Constituição Federal não incidirá sobre operações que destinem a outros Estados petróleo, inclusive lubrificantes, combustíveis líquidos e gasosos dele derivados, e energia elétrica. No entanto, a tributação de energia elétrica poderá ser tributada diante do que previu o artigo 155, § 2º, inciso XII, alínea ?h?, incluído pela Emenda Constitucional 33/2001, no sentido de caber a Lei Complementar definir os combustíveis e lubrificantes sobre os quais o imposto incidirá uma única vez, qualquer que seja a sua finalidade, hipótese em que não se aplicará o disposto no inciso X, ?b?.
+
+A Lei Complementar foi editada. Entre nós é a Lei Complementar Federal 87, de 13 de setembro de 1996 que detalhou a questão. O artigo 2° da referida lei complementar, além de destacar a incidência sobre operações relativas à circulação de mercadorias, inclusive o fornecimento de alimentação e bebidas em bares, restaurantes e estabelecimentos similares; prestações de serviços de transporte interestadual e intermunicipal, por qualquer via, de pessoas, bens, mercadorias ou valores; prestações onerosas de serviços de comunicação, por qualquer meio, inclusive a geração, a emissão, a recepção, a transmissão, a retransmissão, a repetição e a ampliação de comunicação de qualquer natureza; fornecimento de mercadorias com prestação de serviços não compreendidos na competência tributária dos Municípios; fornecimento de mercadorias com prestação de serviços sujeitos ao imposto sobre serviços, de competência dos Municípios, quando a lei complementar aplicável expressamente o sujeitar à incidência do imposto estadual, também determinou a incidência do ICMS sobre a entrada, no território do Estado destinatário, de petróleo, inclusive lubrificantes e combustíveis líquidos e gasosos dele derivados, e de energia elétrica, quando não destinados à comercialização ou à industrialização, decorrentes de operações interestaduais, cabendo o imposto ao Estado onde estiver localizado o adquirente. 
+
+DA HIPÓTESE DE INCIDÊNCIA.
+DA DEMANDA DE POTÊNCIA.
+
+Tecidas as linhas iniciais a atenção se volta sobre o cavalo de batalha travado nos autos, referente a abrangência da tributação por ICMS sobre energia elétrica, mais especificamente em relação à hipótese de incidência e a base de cálculo. Os autores defendem que a hipótese de incidência do tributo deve ser limitada à energia elétrica consumida, subtraindo da base de cálculo, por conseqüência, valores referentes à contratação de demanda de potência de energia não-consumida. A autoridade coatora, assistida pela FAZENDA DO ESTADO, a seu turno vislumbra que a discussão é típica de base de cálculo tributária, porque em sua visa, a hipótese de incidência garantiria tributação sobre a demanda de potência não-consumida, enquanto simples cláusula contratual de prestação de serviços de energia elétrica.
+
+A questão não é nova, e já mereceu suficiente apreciação do Poder Judiciário. Com efeito, a hipótese de incidência do ICMS, de acordo com o artigo 155, inciso II, combinado com o artigo 155, § 2º, inciso X, alínea ?b?, inciso XIII, alíneas ?h? e ?i?, sob prisma do artigo 2º, § 1º, inciso III, da LCF 87/1996 remete ao fornecimento de energia elétrica. A tributação se dá sob a ótica do fornecimento da mercadoria energia elétrica, independentemente do que expresso nas cláusulas contratuais. Parece de rigor destacar que os contratos de prestação de energia elétrica não podem em si serem alargados para contemplar base de cálculo não prevista na Constituição Federal e em Lei Complementar.
+
+A propósito, a interpretação jurisprudencial mais sedimentada tem reiteradamente afirmado que o ICMS não é imposto incidente sobre tráfico jurídico, não sendo cobrado, por não haver incidência, pelo fato de celebração de contratos, razão pela qual, no que se refere à contratação de demanda de potência elétrica, a só formalização desse tipo de contrato de compra ou fornecimento futuro de energia elétrica, não caracteriza circulação de mercadoria, ao menos não para fins de tributação por ICMS. Afirma-se, assim, que o ICMS deve incidir sobre o valor da energia elétrica efetivamente consumida, isto é, a que for entregue ao consumidor, a que tenha saído da linha de transmissão e entrado no estabelecimento da sociedade empresária.
+
+TRIBUTÁRIO. ICMS. ENERGIA ELÉTRICA. DEMANDA DE POTÊNCIA. NÃO INCIDÊNCIA SOBRE TARIFA CALCULADA COM BASE EM DEMANDA CONTRATADA E NÃO UTILIZADA. INCIDÊNCIA SOBRE TARIFA CALCULADA COM BASE NA DEMANDA DE POTÊNCIA ELÉTRICA EFETIVAMENTE UTILIZADA. MATÉRIA DECIDIDA PELA 1ª SEÇÃO, NO RESP 960.476?SC, EM 11.03.2009, JULGADO SOB O REGIME DO ART. 543-C DO CPC. ESPECIAL EFICÁCIA VINCULATIVA DESSE PRECEDENTE (CPC, ART. 543-C, § 7º), QUE IMPÕE SUA ADOÇÃO EM CASOS ANÁLOGOS. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+
+Assim, para efeito de base de cálculo de ICMS (tributo cujo fato gerador supõe o efetivo consumo de energia), o valor da tarifa a ser levado em conta é o correspondente à demanda de potência efetivamente utilizada no período de faturamento, como tal considerada a demanda medida, segundo os métodos de medição a que se refere o art. 2º, XII, da Resolução ANEEL 456?2000, independentemente de ser ela menor, igual ou maior que a demanda contratada. No mesmo sentido, ilustrando idêntico entendimento, conferir: embargos de declaração no recurso especial n. 1.051.265-RN, Rel. Min. Castro Meira, DJ 25.5.2009, agravo regimental no recurso especial nº 544.967 ? DF, Rel. Min. Humberto Martins, DJ 23.6.2009, Agravo regimental no recurso especial 1067290, Rel. Min. Castro Meira, DJ 23.6.2009, embargos de declaração no agravo regimental no agravo 913974, Rel. Min. Mauro Campbell, agravo regimental no recurso especial 910723, Rel. Min. Eliana Calmon, DJ. 25.6.2009.
+
+ICMS. Energia elétrica. Demanda reservada de potência. Mercadoria colocada à disposição do consumidor, em razão de contrato firmado com a concessionária, sem que seja efetivamente utilizada. Pretensão do fisco de incluir a parcela na base de cálculo do tributo. INADMISSIBILIDADE. Exação sem ocorrência de fato gerador (saída da linha de transmissão e entrada no estabelecimento do contribuinte). Recurso provido para conceder a segurança. (TJSP. Apelação Com Revisão 5720925400 Relator(a): Oliveira Santos Comarca: Araraquara Órgão julgador: 6ª Câmara de Direito Público Data do julgamento: 18/08/2008 Data de registro: 02/09/2008).
+
+ICMS - INCLUSÃO DA DEMANDA CONTRATADA NA CONTA DE ENERGIA - PREVISÃO LEGAL DE FATO GERADOR - BASE DE CÁLCULO - CONSUMO APURADO - EXCLUSÃO DA DEMANDA DE POTÊNCIA RESERVADA. RESTITUIÇÃO DA DIFERENÇA. CABIMENTO. EXCLUSÃO DA EMPRESA FORNECEDORA. PRESCRIÇÃO QÜINQÜENAL. Reconhecimento da ilegitimidade passiva para ocupar o pólo passivo da empresa fornecedora, que é mera receptora do tributo, mantida no pólo passivo o ente fiscal ao qual se destina o tributo. A prescrição decenal não encontra respaldo legal, estando tal instituto amparado no Decreto-lei federal n. 20.910/32. A respeito da incidência fiscal, é reconhecido que a garantia de potência e de demanda de energia elétrica não constitui fato gerador do ICMS, admitindo a jurisprudência a incidência do tributo na base de cálculo que constitui o efetivo consumo apurado. Juros cabíveis na restituição são os aplicados pelo CTN, bem como a correção monetária deve refletir o correspondente ao exigido pelo fisco na cobrança dos seus créditos. Recursos negados. (TJSP. Apelação Com Revisão 7326305600 Relator(a): Danilo Panizza Comarca: São Paulo Órgão julgador: 1ª Câmara de Direito Público Data do julgamento: 10/11/2009 Data de registro: 03/12/2009).
+
+Ação declaratória - Demanda reservada - Cobrança de tributo sem a realização do fato gerador - Impossibilidade - Não incide ICMS se a energia elétrica é simplesmente disponibilizada pela concessionária ao consumidor - Recurso provido. (TJSP. Apelação Com Revisão 9139145100 Relator(a): José Habice Comarca: Ribeirão Preto Órgão julgador: 6ª Câmara de Direito Público Data do julgamento: 16/11/2009 Data de registro: 01/12/2009).
+
+MANDADO DE SEGURANÇA - Liminar. 1. Para concessão de liminar em mandado de segurança é necessária a concorrência dos requisitos da relevância da fundamentação e da irreparabilidade do dano (art. 7°, III, da Lei n° 12.016/09). 2. ICMS sobre demanda contratada de energia elétrica. Súmula 391 STJ. Concorrência dos requisitos legais. Indeferimento de liminar. Inadmissibilidade. Decisão reformada. Recurso provido. (TJSP. Agravo de Instrumento 9717365300 Relator(a): Décio Notarangeli Comarca: São Paulo Órgão julgador: 9ª Câmara de Direito Público Data do julgamento: 11/11/2009 Data de registro: 25/11/2009).
+
+Contudo, a procedência não é integral. Isso porque não é possível simplesmente determinar a transferência dos créditos tributários pagos a maior para terceiros, da forma como se propõe. Poderia, se o caso, ter se pretendido a restituição dos valores pagos a maior, mas não simples transferência. Afinal dentro do princípio da não cumulatividade o que se tem é transferência de créditos devidos nas fases anteriores, enquanto aqui, é exigência de tributo indevido. Tratam-se de origens diversas e não podem ser simplesmente repassadas como créditos que não são.
+
+Isso posto, julgo o pedido PROCEDENTE EM PARTE, na forma do artigo 269, inciso I, do Código de Processo Civil, para afastar a incidência do ICMS sobre a parcela não correspondente à utilização de energia elétrica, determinando o recolhimento do imposto sobre a base de cálculo relativa à parcela de energia efetivamente consumida. 
+
+Custas e despesas ex lege.
+
+Honorários por cada parte.
+
+P.R.I.C.
+
+São Paulo, 19 de março de 2012.
+
+
+Kenichi Koyama
+Juiz(a) de Direito
+Documento Assinado Digitalmente

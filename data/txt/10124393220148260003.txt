@@ -1,0 +1,94 @@
+
+
+SENTENÇA
+
+Processo nº:1012439-32.2014.8.26.0003
+Classe - AssuntoProcedimento Ordinário - Interpretação / Revisão de Contrato
+Requerente:GIRLENE MARIA MONTEIRO DOS SANTOS
+Requerido:Banco Volkswagen S/A
+
+
+
+
+
+Vistos, etc.
+GIRLENE MARIA MONTEIRO DOS SANTOS move AÇÃO REVISIONAL DE CLÁUSULAS DE CONTRATO DE FINANCIAMENTO C.C. PEDIDO DE TUTELA ANTECIPADA C.C. REPETIÇÃO DE INDÉBITO em face de BANCO VOLKSWAGEN S/A, alegando, em síntese, ilegalidade das cláusulas da ?cédula de crédito bancário? garantida por alienação fiduciária de veículo, acostada às fls.25/30, que estipulou juros remuneratórios acima do percentual admitido pelo BACEN E de forma capitalizada; abusividade da utilização da ?Tabela Price? para amortização da dívida por acarretar anatocismo, sendo cabível o ?Método de Gauss?; ilegalidade da cobrança das tarifas de cadastro, despesas com registro, de avaliação de bens e das quantias referentes ao IOF e ao seguro; e, requereu declaração de nulidades e ilegalidades, revisão, repetição dobrada dos valores pagos a maior, além de tutela antecipada para abstenção de negativação do seu nome e para manutenção na posse do veículo.
+É o relatório. DECIDO.
+Julgo nos termos do CPC, artigo 285-A.
+O referido dispositivo legal estabelece: ?quando a matéria controvertida for unicamente de direito e no juízo já houver sido proferida sentença de total improcedência em outros casos idênticos, poderá ser dispensada a citação e proferida sentença, reproduzindo-se o teor da anteriormente prolatada?.
+Conforme preleciona Humberto Theodoro Júnior, ?esse julgamento liminar é medida excepcional e se condiciona aos seguintes requisitos: a) preexistência no juízo de causas idênticas, com improcedência já pronunciada em sentença; b) a matéria controvertida deve ser unicamente de direito; c) deve ser possível solucionar a causa superveniente com a reprodução do teor da sentença prolatada na causa anterior.? (Curso de Direito Processual Civil, vol. I, Rio de Janeiro, Forense, 2008, pág. 359/360 - grifamos).
+É certo que a matéria ventilada em ação revisional de contrato bancário é unicamente de direito, razão pela qual o pedido inicial pode ser julgado de imediato.
+Sobre o tema, o Egrégio Tribunal de Justiça de São Paulo entende que: ?CONTRATO BANCÁRIO - Financiamento para aquisição de veículo ? Pretensão do autor ao afastamento de ilegalidades e abusividades na evolução de seu débito - Julgamento de plano, nos termos do art. 285-A do CPC, não ofende o contraditório nem a ampla defesa ? Desnecessidade de dilação probatória tendo em vista que as questões discutidas são todas de direito ? Cerceamento de defesa não caracterizado.? (16ª Câmara de Direito Privado, Ap. 0006769-74.2012.8.26.0011, Rel. Des. JOVINO DE SYLOS, j. 28.05.2013 - grifamos. No mesmo sentido: 24ª Câmara de Direito Privado, Ap. 0034298-95.2012.8.26.0002, Rel. Des. SALLES VIEIRA, j. 13.06.2013; 13ª Câmara de Direito Privado, Ap. 0035148-63.2012.8.26.0451, Rel. Des. FRANCISCO GIAQUINTO, j. 14.10.2013).
+As questões alegadas nesta ação já foram objeto da ação revisional nº 1031394-48.2013, cuja sentença de improcedência foi proferida por este Juízo em 27/05/2014, e ação revisional nº 0004831-25.2013, cuja sentença de improcedência foi proferida por este Juízo em 28/02/2014, conforme seguem reproduzidas:
+?Proc. nº 1031394-48.2013
+Vistos, etc.
+FRANCISCO WAGNER SILVA BEZERRA move AÇÃO DE REVISIONAL DE CONTRATO DE FINANCIAMENTO C.C. CONSIGNAÇÃO EM PAGAMENTO C.C. PEDIDO DE TUTELA ANTECIPADA em face de BANCO VOLKSWAGEN S/A, alegando, em síntese, ilegalidade das cláusulas da ?cédula de crédito bancário? garantida por alienação fiduciária de veículo, juntada às fls.188/190, que estipulou juros remuneratórios acima do percentual admitido pelo BACEN E de forma capitalizada; abusividade da utilização da ?Tabela Price? para amortização de dívidas, sendo cabível o ?Método de Gauss?; necessidade de limitação da comissão de permanência ao índice de correção monetária do INPC e impossibilidade de sua cumulação com outros encargos de mora; abusividade do percentual da multa moratória; ausência de mora, pois o contrato prevê cobranças abusivas; e, requereu exibição do contrato, declaração de nulidades e ilegalidades, revisão, compensação, repetição dobrada, consignação em pagamento das prestações no valor que entende devido, além de tutela antecipada para  que o réu se abstenha de inscrever seu nome junto aos cadastros dos órgãos de proteção ao crédito e de protestar títulos, bem como para suspensão dos descontos em sua conta bancária.
+O réu contestou (fls.135/164) alegando, em síntese, legalidade da incidência de juros em percentual superior a 12% a.m., pois inaplicável a limitação às instituições financeiras; possibilidade de capitalização dos juros na ?cédula de crédito bancário?, nos termos do artigo 28, § 1º, da Lei número 10.931/04; possibilidade da utilização da ?Tabela Price? como método de amortização de dívidas; descabimento dos pedidos de compensação e repetição em dobro de quaisquer valores; ausência de provas do alegado dano sofrido pelo autor, motivo pelo qual é descabido o pedido de indenização; e, requereu extinção ou improcedência. 
+É o relatório. DECIDO.
+Julgo nos termos do CPC, artigo 330, I.
+JUROS
+O percentual de juros remuneratórios superiores a 1% a.m. ou 12% a.a. não é ilegal, pois a limitação prevista no Decreto Lei nº 22.626/33 não se aplica às instituições financeiras por força da Lei de Reforma Bancária (Lei número 4.595/64), recepcionada na CF/88 ao remeter regulamentação à lei complementar, e ao Conselho Monetário Nacional, do que continua prevalecendo interpretação do C. STF exarada no verbete da Súmula 596 de que ?As disposições do decreto 22.626/1933 não se aplicam às taxas de juros e aos outros encargos cobrados nas operações realizadas por instituições públicas ou privadas, que integram o sistema financeiro nacional?.
+Além disso, o artigo 192, §3º, CF, que previa a necessidade de lei complementar a fim de regular a limitação da taxa de juros em 12% ao ano, foi expressamente revogado pela EC 40/2003. Por tal razão, o Supremo Tribunal Federal editou a Súmula Vinculante 7, que dispõe: ?A norma do §3º do artigo 192 da Constituição, revogada pela Emenda Constitucional nº 40/2003, que limitava a taxa de juros reais a 12% ao ano, tinha sua aplicação condicionada à edição de lei complementar?.
+Rejeito, portanto, a alegação de ilegalidade e abusividade do percentual dos juros remuneratórios.
+CAPITALIZAÇÃO/TABELA PRICE/GAUSS
+No que diz respeito à alegada prática de anatocismo pela ré, a Súmula 121, STF estabelece que ?é vedada a capitalização dos juros, ainda que expressamente convencionada?.
+Entretanto, por se tratar de ?CCB?, o artigo 28, § 1º, I, da Lei nº 10.931/04 admite a estipulação dos juros de forma capitalizada, desde que expressamente pactuada pelas partes.
+No caso, a capitalização mensal dos juros está prevista no quadro III da ?CCB? juntada às fls.188/190.
+Além disso, tal prática é admitida pelo artigo 5º, Medida Provisória 2.170/01, que dispõe: ?Nas operações realizadas pelas instituições integrantes do Sistema Financeiro Nacional, é admissível a capitalização de juros com periodicidade inferior a um ano? (grifamos).
+De acordo com o referido dispositivo legal, para os contratos firmados a partir de 31 de março de 2000 com as instituições financeiras, ficou estabelecida a possibilidade de capitalização dos juros para períodos inferiores a 1 ano.
+A constitucionalidade da supracitada Medida Provisória é objeto da Ação Direta de Inconstitucionalidade nº 2.316, pendente de julgamento perante o Supremo Tribunal Federal.
+Entretanto, o E. Tribunal de Justiça de São Paulo vem entendendo que ?não se cogita da inconstitucionalidade da MP nº 1.963-17/00, reeditada sob o nº 2.170-36/01, pois até o final julgamento da ADI nº 2.316/DF pelo STF, fica presumida sua constitucionalidade.? (14º Câmara de Direito Privado, Ap. 0219050-73.2010.8.26.0100, Rel. Des. Carlos Abrão, j. 14.08.2013 - grifamos).
+E o Superior Tribunal de Justiça firmou posicionamento no sentido de que ?deve prevalecer a presunção de constitucionalidade do art. 5º da MP nº 1.963-17/00, reeditada sob o nº 2.170-36/01, que admite a capitalização mensal de juros nas operações realizadas por instituições financeiras. O princípio da imperatividade assegura a auto-executoriedade das normas jurídicas, dispensando prévia declaração de constitucionalidade pelo Poder Judiciário. Ainda que esta presunção seja iuris tantum, a norma só é extirpada do ordenamento com o reconhecimento de sua inconstitucionalidade. E essa questão, na hipótese específica do art. 5º da MP nº 1.963-17/00, ainda não foi resolvida pelo STF, nem mesmo em sede liminar.? (2ª Seção, REsp 1.061.530, Rel. Min. Nancy Andrighi, j. 22.10.2008 ?g.).
+Rejeito a alegação de abusividade da cláusula de capitalização mensal dos juros.
+Ademais, a aplicação da ?Tabela Price? não se confunde com atualização monetária, porque é a decomposição de um valor principal ao longo do prazo contratual e com a incidência da taxa de juros pactuada, também decomposta ao longo do prazo contratual. 
+Segundo preleciona Arnaldo Rizzardo, ?pelo sistema da ?Tabela Price?, também conhecido como Sistema Francês de Amortização, as prestações mantêm um valor uniforme desde o início até o final do contrato. As prestações são constantes, em termos reais, para todos os meses do financiamento.? (Contratos de Crédito Bancário, 9ª ed., São Paulo, RT, 2010, pág. 143 ? grifamos).
+Tal método é, enfim, a amortização do principal e juros, tendo por finalidade a eliminação ao término do contrato de qualquer valor a título de resíduo, observada ainda nos cálculos a atualização monetária.
+Rejeito, portanto, a alegação de ilegalidade da utilização da ?Tabela Price?.
+(...)
+CONTRATO/CUMPRIMENTO
+A instituição financeira cumpriu as suas obrigações decorrentes da relação creditícia, mediante a disponibilização do crédito contratado, razão que o autor não pode se furtar ao cumprimento das cláusulas livremente acordadas, a pretexto de serem abusivas. 
+O contrato deve ser cumprido como pactuado pelas partes, em respeito ao princípio do pacta sunt servanda, eis que inexistente qualquer vício da vontade. 
+Rejeito a alegação do autor de ausência de mora, pois o contrato não estabelece qualquer cobrança abusiva, prevalecendo os encargos moratórios no caso de atraso no pagamento das parcelas.
+Diante da legalidade das cláusulas da ?CCB?, é descabido o pedido de compensação ou repetição em dobro de quaisquer valores e de indenização por perdas e danos, além de também descabido o pedido consignatório, pois referente a valores inferiores aos pactuados pelas partes.
+Prejudicado o pedido de tutela antecipada diante da improcedência resulta ausente verossimilhança exigida no CPC, artigo 273.
+
+Ante o exposto, JULGO IMPROCEDENTE a AÇÃO e CONDENO o autor nas custas, despesas processuais, e honorários advocatícios de 15% sobre o valor da causa atualizado do ajuizamento (STJ, Súmula 14).
+P.R.I.
+São Paulo, 27 de maio de 2014?
+
+?Proc. nº 0004831-25.2013
+Vistos, etc.
+LIDIA ROSARIO RAMOS CORTEZ move AÇÃO REVISIONAL DE CLÁUSULA CONTRATUAL DE AMORTIZAÇÃO DO DÉBITO (ANATOCISMO) C.C. TUTELA ANTECIPADA em face de BANCO ITAÚ S/A, alegando, em síntese, ilegalidade das cláusulas do ?contrato de financiamento? garantido por alienação fiduciária do veículo, acostado às fls. 19/22, por cobrar juros remuneratórios em percentual diverso do pactuado; abusividade da utilização da ?Tabela Price? para amortização da dívida por acarretar anatocismo, sendo cabível o ?Método de Gauss?; ilegalidade da cobrança das tarifas de abertura de cadastro, de registro de contrato, de avaliação de bens e das quantias referentes ao IOF, seguro de proteção financeira e serviços de terceiros; e, requereu declaração de nulidades e ilegalidades, revisão, repetição dobrada dos valores pagos a maior, e tutela antecipada para consignação em pagamento das prestações no valor que entende devido e para abstenção da negativação de seu nome.
+O réu contestou (fls.74/81) arguindo preliminar de inépcia da inicial, em razão do descumprimento da exigência do CPC, artigo 285-B; e, no mérito, alegando, em síntese, legalidade na cobrança de juros remuneratórios acima do percentual de 12% ao ano; a capitalização dos juros foi expressamente pactuada pelas partes; legalidade das tarifas cobradas; e, requereu extinção ou improcedência.
+É o relatório. DECIDO.
+Julgo nos termos do CPC, artigo 330, I.
+(...)
+A cobrança da tarifa de abertura de cadastro é expressamente autorizada pelo artigo 3º, I, da Resolução 3.919 do BACEN.
+Sobre o tema, o C. Superior Tribunal de Justiça assentou no julgamento do Recurso Especial nº 1.251.331 (repetitivo) que ?permanece legítima a estipulação da Tarifa de Cadastro, a qual remunera o serviço de 'realização de pesquisa em serviços de proteção ao crédito, base de dados e informações cadastrais, e tratamento de dados e informações necessários ao inicio de relacionamento decorrente da abertura de conta de depósito à vista ou de poupança ou contratação de operação de crédito ou de arrendamento mercantil, não podendo ser cobrada cumulativamente' (Tabela anexa à vigente Resolução CMN 3.919/2010, com a redação dada pela Resolução 4.021/2011).? (2ª Seção, REsp 1.251.331, Rel. Min. Maria Isabel Gallotti, j. 28.08.2013).
+Dessa forma, rejeito o pedido de invalidade da cobrança da tarifa de abertura de cadastro, pois foi cobrada corretamente no início da relação contratual, no valor de R$ 598,00 (fls.19).
+A cobrança do IOF é devida, pois a autora é contribuinte do imposto, na qualidade de tomador de crédito, nos termos do artigo 3º, I, da Lei nº 8.894/94, razão pela qual reputo que não apresenta qualquer ilegalidade.
+Quanto ao seguro de proteção financeira, a contratação não é abusiva, uma vez que referido seguro visa proteger o devedor contra a ocorrência de eventuais sinistros que o impossibilite de arcar com o adimplemento das suas obrigações contratuais, e houve adesão.
+Nesse sentido, o Egrégio Tribunal de Justiça de São Paulo firmou entendimento de que ?diferentemente do ocorre com a maioria dos encargos administrativos cobrados pelas instituições financeiras, que as beneficiam, o 'seguro' tem como finalidade proteger o próprio devedor, o qual inclusive usufrui da cobertura que poderia ter sido, ou não, efetivamente utilizada, logo, válida sua cobrança.? (37ª Câmara de Direito Privado, Ap. 0017148-75.2012.8.26.0625, Rel. Des. Sérgio Gomes, j. 20.08.2013 ? grifamos). 
+Acerca dos valores a título de tarifa de registro de contrato (cláusula 3.15.2), (...) e de avaliação de bens (cláusula 3.15.4), não há qualquer ilegalidade na cobrança desses encargos, pois foram expressamente pactuados pelas partes.
+Aliás, conforme dispõe o artigo 1º, da Resolução 3.919 do BACEN: ?A cobrança de remuneração pela prestação de serviços por parte das instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil, conceituada como tarifa para fins desta resolução, deve estar prevista no contrato firmado entre a instituição e o cliente ou ter sido o respectivo serviço previamente autorizado ou solicitado pelo cliente ou pelo usuário? (g.).
+CONTRATO/CUMPRIMENTO
+A instituição financeira cumpriu as suas obrigações decorrentes da relação creditícia, mediante a disponibilização do crédito contratado, motivo pelo qual a autora não pode se furtar ao cumprimento das cláusulas livremente acordadas, a pretexto de serem abusivas. 
+O contrato deve ser cumprido como pactuado pelas partes, em respeito ao princípio do pacta sunt servanda, eis que inexistente qualquer vício da vontade. 
+REPETIÇÃO
+Diante da legalidade das cláusulas contratuais, rejeito o pedido de repetição em dobro de quaisquer quantias.
+(...)
+Ante o exposto, JULGO IMPROCEDENTE a AÇÃO e CONDENO o autor nas custas, despesas processuais, e honorários advocatícios de 15% sobre o valor da causa atualizado do ajuizamento (STJ, Súmula 14), observada a Justiça Gratuita (Lei número 1.060/50, artigos 11 e 12.
+P.R.I.
+São Paulo, 28 de fevereiro de 2014?
+Esses os paradigmas.
+No caso, a capitalização mensal dos juros foi expressamente pactuada na cláusula III, quadro I (fls.25) e a tarifa de abertura de cadastro foi cobrada corretamente no início da relação contratual, no valor de R$ 495,00 (fls.25).
+Prejudicado, por fim, o pedido de tutela antecipada, pois diante da improcedência resulta ausente verossimilhança exigida no CPC, artigo 273.
+Ante o exposto, com fundamento no CPC, artigo 285-A, JULGO IMPROCEDENTE a AÇÃO e CONDENO a autora nas custas e despesas processuais.
+P.R.I.
+São Paulo, 30 de julho de 2014
+
+
+JOSÉ WAGNER DE OLIVEIRA MELATTO PEIXOTO
+              JUIZ DE DIREITO
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

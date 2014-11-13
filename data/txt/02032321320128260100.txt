@@ -1,0 +1,72 @@
+
+
+SENTENÇA
+
+Processo nº:0203232-13.2012.8.26.0100
+Classe - AssuntoCautelar Inominada - Liminar
+Requerente:Titan Pneus do Brasil Ltda
+Requerido:Net Serviços de Comunicações S/A
+
+
+Juiz(a) de Direito: Dr(a). Cláudia Maria Pereira Ravacci
+
+Vistos 
+
+
+
+
+
+TITAN PNEUS DO BRASIL LTDA. requereu, em caráter liminar e cautelar, a condenação de NET SERVIÇOS DE COMUNICAÇÃO S/A, ao fornecimento das informações dos dados cadastrais do usuário que utilizou o IP 201.83.96.10 no dia 30/07/2012. 
+
+ Narra a inicial que no dia 30/07/2012, a autora nasceu de uma cisão da empresa Goodyear do Brasil Produtos de Borracha Ltda. e foi vítima de um ataque na sua rede, que cortou a integralidade de suas comunicações interna e externa, com a exclusão de todas as contas de e-mails dos seus colaboradores. O impacto da prejudicialidade foi o fato de ter o ?autor? do ataque escolhido para implementá-lo justamente no dia de fechamento mensal financeiro e de planejamento anual da empresa autora. A incomunicabilidade afetou, sobremaneira, o cumprimento das obrigações gerenciais e financeiras da empresa.
+
+Esclarece que a extensão do dano foi tão grande, que durante aproximadamente 15 dias, foi necessário alocar uma equipe técnica exclusiva de cinco profissionais altamente capacitados para restabelecimento da comunicação e resgate das contas de e-mails deletadas. 
+
+Acionou a Microsoft, empresa que presta o serviço de e-mail, para apuração e identificação do ataque e identificou alguns eventos, dentre os quais, que o não se tratava de um ?ataque? implementado por um ?hacker? alheio à companhia, e sim, de um funcionário interno da autora ou da sua prestadora de serviços de tecnologia, que como tal, fez uso de acesso seguro para praticar o ilícito. Tais credenciais levaram a identificação do usuário utilizado, Thiago de Souza Nascimento, ex-funcionário da empresa terceirizada Stefanini It Solutions e ao número de IP do ponto inicial do ataque: 201.83.96.10. 
+
+Porém, o ex-funcionário já havia sido desligado da empresa há quase um mês quando do ataque ocorrido em 30/07/2012, pelo que não poderia, nessa condição, ter conectado internamente a rede da Goodyear para, posteriormente, utilizar um ponte externa. O que leva a conclusão de que alguém usou as credencias do Sr. Thiago para acessar a rede e promover o ataque em comento.
+
+Daí a pretensão inicial e liminar em identificar o verdadeiro usuário, até para se evitar um novo ataque.
+
+Foi-lhe deferida a liminar pela decisão de fls. 02, impugnada por agravo de instrumento pela ré, v. fls. 139/160, não provido, cf. V. Acórdão de fls. 230/235, não transitado em julgado, cf. extrato de fls. 236/237.
+
+Na contestação a fls. 65 e segs., a ré requereu a improcedência do pedido sob os argumentos de que se encontra numa situação sem solução jurídica aparente: ou presta informações sigilosas e sofrer consequências como uma uma condenação penal ou cível por uso indevido de dados ou não presta informações sem ordem judicial e é condenada aos ônus da sucumbência, por ser obrigada a só prestar informações em juízo. Requereu a revogação da liminar.
+
+Réplica a fls. 161 e segs.
+
+A decisão de fls. 174 determinou que a ré justificasse a alegada impossibilidade de fornecimento dos dados referidos na inicial, bem como as partes especificassem provas.
+
+A autora requereu a aplicação de multa coercitiva, que foi indeferida pela decisão de fls. 177 e impugnada por agravo de instrumento, v. fls. 185 e segs., em que foi concedido efeito ativo pelo N. Relator, cf. decisão de fls. 200, para impor multa de R$10.000,00 à ré, em caso de não cumprimento da liminar, no prazo de 48 horas. O recurso foi provido, cf. V. Acórdão copiado a fls. 239/242, também não transitado em julgado, cf. extrato de fls. 243/244.
+
+A ré apresentou os dados a fls. 210 e segs.
+
+
+É o Relatório. 
+Decido. 
+
+
+Conheço diretamente do pedido, cf. art. 330, I, do CPC. 
+
+A pretensão inicial merece acolhimento. 
+
+Inequívoco que o provedor de acesso é a pessoa jurídica que possibilita, ao usuário que contrata os seus serviços, o acesso à rede, por meio de contrato em que conste, dentre outros, dados de nome, endereço, CPF, RG, etc. 
+
+A ré efetivamente presta serviços como provedor de acesso à rede mundial de computadores, mas não demonstrou suas alegações de existência de problemas técnicos a impossibilitar o fornecimento do IP solicitado, uma vez que dos dados da inicial constam todos os elementos para tanto, inclusive a hora da eliminação das contas, a nova conta de e-mail criada e o IP do ponto inicial do ataque.
+
+Outrossim, nem se invoque questão atrelada ao sigilo das informações. Não prospera o argumento de impossibilidade de fornecimento dos respectivos do IP sob pena de afronta ao direito à privacidade garantido constitucionalmente (CF, art. 5º, inc. X e XII). Nos termos do melhor entendimento jurisprudencial, o direito constitucional não é absoluto, devendo ser mitigado por intermédio de ordem judicial, muito especialmente quando haja fundada suspeita de prática de ato ilícito, como no caso dos autos e tão bem explicitou o I. Relator do Agravo de Instrumento.
+
+Apesar de afirmar com todas as letras a impossibilidade de fornecer os dados solicitados, restou por apresentá-las a fls. 210//216, obviamente por determinação do N. Relator do segundo Agravo de Instrumento que impôs multa pelo descumprimento.
+
+De todo modo, restou satisfeito o pedido da autora, a par da resistência da ré ao cumprimento da liminar; que por conta disso deverá arcar com os ônus da sucumbência. 
+
+Pelo exposto, JULGO PROCEDENTE o pedido. Torno definitiva a liminar. Em razão da nítida resistência ao cumprimento da ordem judicial, condeno a ré ao pagamento das custas processuais e honorários advocatícios arbitrados em R$2.000,00 (dois mil Reais).
+Comuniquem o N. Relator dos Agravos, v. fls. 230/237 e 239/244.
+
+P.R.I.
+
+  São Paulo, 02 de outubro de 2013.
+
+
+
+CLAUDIA MARIA PEREIRA RAVACCI
+                         Juíza de Direito

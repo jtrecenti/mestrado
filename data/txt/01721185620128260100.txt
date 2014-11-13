@@ -1,0 +1,80 @@
+
+
+SENTENÇA
+
+Processo nº:0172118-56.2012.8.26.0100
+Classe - AssuntoProcedimento Sumário - Indenização por Dano Material
+Requerente:Casa de Carnes Solimoes Ltda
+Requerido:Eletropaulo Metropolitana Eletricidade de Sao Paulo -aes Eletropaulo
+
+
+
+
+Juiz(a) de Direito: Dr(a). Maria Rita Rebello Pinho Dias
+
+Vistos.
+
+I.CASA DE CARNE SOLIMÕES LTDA. ajuizou Ação de Indenização por Danos Materiais em face de ELETROPAULO METROPOLITANA ELETRICIDADE SÃO PAULO S/A - AES ELETROPAULO. Alega que em 10/09/11 ocorreu queda de energia elétrica na região, tendo diversos equipamentos - balanças - queimados e danificados. Disse que necessita de tais equipamentos para a venda de suas mercadorias, motivo pelo qual teve que efetuar imediato reparo, no valor total de R$ 4.860,00. Afirma que a ré recusou indenização administrativamente, motivo pelo qual requer a condenação da ré ao pagamento de tal valor. Junta documentos (fls. 7/440).
+
+Regularmente citada, a ré apresentou contestação (fls. 48/58). Nega ter ocorrido qualquer registro de oscilações ou variações da rede nas proximidades do circuito que alimenta a instalação. Disse que não houve comprovação do nexo de causalidade pois a autora reparou os equipamentos antes do término do prazo da inspeção, conforme autorizado na Resolução Normativa nº 414 da ANEEL. Entende que apenas pode ser responsabilizada por danos provocados por anomalia de rede de distribuição de energia elétrica. Afirma que não houve prova do dano. Disse que não pode ser responsabilizada por caso fortuito ou força maior, visto que a situação narrada na inicial decorreu de queda de galho de árvores. Junta documentos (fls. 59/71).
+
+A ré solicitou o julgamento antecipado do feito (fls. 74/75).
+
+Audiência de conciliação infrutífera (fl. 79).
+
+Réplica (fls. 87/90).
+
+É o relatório.
+
+II.FUNDAMENTO
+
+Entendo que as questões controvertidas são todas de direito ou já estão satisfatoriamente comprovadas, não havendo necessidade de produção de prova oral em audiência, nos termos do art. 130 do CPC. Por este motivo, passo ao julgamento antecipado da lide, nos termos do artigo 330, I, do CPC.
+
+No mérito, ação é PROCEDENTE.
+
+A ré em sua contestação afirma que a situação narrada na inicial não decorreu de oscilações de padrões de renda. Ao contrário, defende-se dizendo que: "Isto porque, não há que se falar em responsabilidade da Concessionária Ré pelos danos causados pelas QUEDAS DE GALHOS DE ÁRVORES, considerando a existência de força maior, nos termos do art. 393, caput, do Código Civil, que é excludente de responsabilidade. (...) Conforme esclarecido, as quedas de energia mencionadas pela Autora ocorreram em razão de fenômenos naturais, razão pela qual não se pode aqui falar em responsabilidade civil, tendo em vista que a Concessionária/Ré não concorreu para a existência de dano (...)" (fl. 53).
+
+Sem razão, contudo, a ré. 
+
+A queda de galhos de árvores na fiação elétrica não consiste, ao contrário do que defende a ré, em caso fortuito/força maior.
+
+Deve-se diferenciar, para solução do caso, o conceito de fortuito interno do de fortuito externo. Denomina-se, no primeiro caso, aqueles eventos que, muito embora praticados por um evento externo à conduta do agente, relaciona-se imediatamente à sua atividade, sendo possível evitá-los caso se adote medidas de segurança. Nesse sentido, também a doutrina: Conduto, existem situações em que a lesão aos bens do depositante é praticada por um evento externo à conduta do agente, mas que se relacionada imediatamente à atividade do depositário. Seria o caso do tão popular furto de veículos. Quem realiza o depósito de tais bens já conta com a previsibilidade de tais riscos, sendo possível evitá-los com algumas medidas de segurança. Caso fique provado que o depositário não adotou as medidas mínimas de cautela, será responsabilizado, eis que a força maior era agora um fortuito interno, relacionado às atividades ordinárias de diligência do depositário. Certamente haverá necessidade de aplicar o princípio da proporcionalidade ? a diretriz da concretude de Miguel Reale - , para apanhar cada situação em seu contexto e verificar os riscos inseridos pela própria atividade empresarial e aqueles a ela excedentes, que não podem ser imputados ao depositário( Código Civil Comentado ? Doutrina e Jurisprudência, Manole, Coord, Min. Cezar Peluso, fl. 504).
+
+Deveria a ré provar que tomou todas as medidas possíveis para afastar a ocorrência da fraude. Não há tal prova nos autos. 
+
+A queda de galhos de árvores na fiação elétrica consiste em fato previsível diretamente relacionado com o exercício da atividade empresarial da ré. Logo, evitar a sua ocorrência não apenas consiste em fato previsível, como também a sua prevenção consiste em dever da ré, como medida indispensável para assegurar que preste corretamente os serviços contratados pela autora.
+
+Evitar a queda de energia elétrica fornecida é dever inerente à ré, visto que está intrinsecamente relacionado à correta prestação dos serviços contratados. Assegurar a contínua prestação de serviços de fornecimento de energia elétrica, a despeito da ocorrência de intemperes esperadas e corriqueiras, como é o caso da queda de um galho de uma árvore na fiação elétrica, não apenas trata-se de situação que não exime a responsabilidade da ré, visto que não se trata de caso fortuito, como, ainda, indica clara violação de seus deveres contratuais, visto que indica que a ré foi negligente e que não adotou condutas necessárias para afastar da rede elétrica o risco inerente ao desempenho de sua atividade empresarial, a saber, queda de galhos de árvores em rede elétrica. A situação analisada consiste, portanto, em fortuito interno, o qual não é apto a afastar a responsabilidade da ré.
+
+Ao contrário do que a ré alega, os danos sofridos pela autora foram corretamente comprovados. Os documentos de fls. 20/23 indicam que a autora gastou em 12/09/11 o valor de R$ 4.860,00 para efetuar o reparo de 03 placas fontes de balanças platinas nºs 24130, 24129 e 24128, cada uma no valor de R$ 520,00, bem como as respectivas 03 fontes wifi, cada uma no valor de R$ 1.110,00.
+
+Em sua defesa, a ré limita-se a afirmar que o reparo efetuado antes que pudesse realizar vistoria, prevista na Resolução ANEEL nº 414, prejudicou o direito da autora de comprovar nexo de causalidade. Sem razão, contudo.
+
+Lembro que a Constituição Federal admite qualquer espécie de prova para comprovar teses sustentadas no âmbito processual. Logo, a auotra poderia se valer de qualquer prova para comprovar seus direitos.
+
+Os documentos comprobatórios dos danos, acima indicados, permitem concluir que 03 balanças da autora foram danificadas em razão da queda de energia informada em sua inicial. Ora, o fato de 3 balanças terem sido danificadas na mesma oportunidade, logo após a queda de energia - não questionada pela ré - consiste em forte indício, coerente e consistente com a tese sustentada pela autora de que sofreu dano em razão de brusca queda de energia.
+
+A ré, por outro lado, a da prova produzida pela autora, afirma que os documentos de fls. 20/23 são insuficientes para comprovar o nexo causal. É importante destacar, contudo, que não nega que a autora tenha, efetivamente, realizado os reparos informados as fls. 20/23. Logo, competiria à ré demonstrar que os reparos informados as fls. 20/23 não guardam qualquer relação com danos provocados por quedas bruscas de energia. Não há, todavia, qualquer solicitação de provas nesse sentido. Também competiria à ré comprovar que o valor pago pela autora é incompatível com conserto da mesma natureza, visto que se trata de fato modificativo do direito alegado pela autora em sua inicial, nos termos do art. 333 do CPC..  
+
+A alegação da ré de que norma da ANEEL a exime de responsabilidade no caso de conserto do dano sem prévia vistoria não pode ser aceita
+
+A ANEEL claramente excedeu sua competência regulamentar, uma vez que, com a norma por ela editada, pretendeu criar norma de isenção de responsabilidade não prevista em lei ? seja no Código Civil, seja no Código de Defesa do Consumidor.
+
+As únicas hipóteses em que se admite a isenção de responsabilidade são aquelas expressamente previstas em lei. No caso dos autos, por se aplicar o CDC, apenas em caso de culpa exclusiva da vítima ou de terceiro ou se o defeito não existe (art. 14, §3º do CDC), ou aquelas estipuladas no Código Civil - nenhuma delas admitida no caso em análise, conforme já visto acima.
+
+A norma regulamentar não pode revogar texto de lei.
+
+Desse modo, ocorrido vício na prestação de serviços e, ainda, não havendo qualquer uma das hipóteses do art. 14, §3º do CDC ou do Código Civil, patente a responsabilidade civil da ré. Destaco que foram satisfatoriamente comprovados, no caso dos autos, a culpa da ré, os danos da autora, assim como o nexo causal entre estes e a conduta da ré.
+
+No mais, a autora comprovou que gastou R$ 4.860,00, em 12/09/11. A correção monetária e os juros moratórios devem ocorrer desde a data do dano, ou seja, 10/09/11.
+
+III.DECIDO.
+
+Diante do exposto, JULGO PROCEDENTE o pedido formulado por CASA DE CARNE SOLIMÕES LTDA. em face de ELETROPAULO METROPOLITANA ELETRICIDADE SÃO PAULO S/A - AES ELETROPAULO, com fundamento no artigo 269, I, do CPC, para condenar a ré a pagar a autora o valor de R$ 4.860,00, devidamente corrigido pela tabela prática do E. TJ/SP desde a 10/09/2011, com incidência de juros moratórios de 1% ao mês desde a mesma data. Em vista da sucumbência, CONDENO a ré ao pagamento das custas e despesas processuais, além da verba honorária que arbitro em 15% (quinze por cento) do valor da condenação atualizado.
+
+P. R. I.C.
+
+
+São Paulo, 08 de janeiro de 2014.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

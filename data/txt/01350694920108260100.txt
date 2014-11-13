@@ -1,0 +1,66 @@
+
+
+SENTENÇA
+
+Processo nº:0135069-49.2010.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Protesto Indevido de Título
+Requerente:Irga Lupércio Torres S/A
+Requerido:Makro Service Locação de Máquinas e Equipamentos Ltda.
+
+
+
+
+Juiz(a) de Direito: Dr(a). Paulo César Batista dos Santos
+
+
+IRGA LUPÉRCIO TORRES S/A aparelhou ação de conhecimento contra a MAKRO SERVICE LOCAÇÃO DE MÁQUINAS E EQUIPAMENTOS LTDA., com pedido declaratório e condenatório.
+Alega a autora ter firmado contrato de locação de um guindaste com a ré, em junho de 2008, sendo protestada injustamente uma duplicata, no valor de R$ 156.000,00, já que o equipamento locado não foi entregue e o título foi sacado em razão de contrato de locação, não de compra e venda mercantil.
+Juntou documentos.
+Citada, a ré apresentou contestação às fl. 199/218, aduzindo que a proposta de locação do equipamento foi aceita sem reservas, confessando que, de fato, não entregou o equipamento no prazo, mas que tal fato teria sido tolerado pela autora, até que o equipamento fosse, de fato, entregue.
+Defendeu a legalidade da lavratura do protesto e da cobrança do valor constante no título, juntando cópia de e-mails trocados com a autora.
+Requereu, assim, a total improcedência dos pedidos iniciais.
+Houve réplica às fl. 259/271.
+Em apenso, ação cautelar de sustação de protesto.
+É o relatório.
+ DECIDO.
+Julgo conjuntamente a ação principal e a cautelar de sustação de protesto.
+A prova é suficiente para análise do pedido inicial, sendo desnecessária a realização de audiência de instrução e julgamento.
+A questão controvertida diz respeito à regularidade de duplicata emitida pela ré (prova absolutamente documental), razão pela qual converto o feito em julgamento antecipado da lide, como manda o art. 330, inciso I, do CPC.
+O pedido é procedente em parte.
+A duplicata protestada está à fl. 64 (juntada pela autora), tratando-se de protesto por indicação e endossada com natureza de mandato.
+A Nota Fiscal-Fatura que ensejou a duplicata está na fl. 256/257 (juntada pela ré).
+Pois bem.
+A primeira causa de pedir da autora não vinga, já que, conforme é consabido, a emissão de duplicata pressupõe a existência de relação jurídica de compra e venda mercantil ou prestação de serviços, fato que dá causalidade ao título, sendo defesa a sua emissão para estampar qualquer outra espécie de relação creditícia.
+Tratando-se de contrato de locação de equipamento mercantil (prestação de serviço), perfeitamente possível o saque da duplicata.
+A solução da questão é outra, portanto.
+É reconhecida, nas operações empresariais, a praxe da remessa de duplicatas ao banco para que esse, na qualidade de endossatário-mandatário, efetue o protesto e a cobrança dos títulos, em nome do credor.
+De fato, observa-se que a duplicata emitida se encontra sem o aceite da autora, o que enseja a necessidade de seu protesto, nos termos do art. 13 da Lei 5.474/68:
+art. 13. A duplicata é protestável por falta de aceite, de devolução ou de pagamento.. 
+Contudo, para que seja exequível, além do protesto, é preciso que o título seja apresentado ao tabelião (princípio da cartularidade), não podendo ser protestada lastreada somente por ordem de protesto bancária.
+Assim, a ausência de extração e envio de duplicatas à autora demonstra a irregularidade dos protestos lavrados por indicação. Essa é a jurisprudência de nossos tribunais.
+Trago aresto do E. STJ:
+DIREITO COMERCIAL. DUPLICATA MERCANTIL. PROTESTO POR INDICAÇÃO DE BOLETOS BANCÁRIOS. INADMISSIBILIDADE. I - A retenção da duplicata remetida para aceite é conditio sine qua non exigida pelo art. 13, § 1º da Lei nº 5.474/68 a fim de que haja protesto por indicação, não sendo admissível protesto por indicação de boletos bancários (REsp 827.856/SC).
+Não bastasse isso, mesmo para os que defendem a executividade da denominada duplicata virtual ou escritural, seria necessária a prova do recebimento das mercadorias.
+Na hipótese vertente, verifica-se que não consta documento hábil a comprovar o inequívoco recebimento do equipamento locado, já que a contestação da ré veio acompanhada apenas de e-mails e da Nota Fiscal-Fatura, documentos esses sem a assinatura de representantes da autora.
+No tocante ao protesto e execução de duplicatas não-aceitas e/ou não-devolvidas, situação dos autos, de acordo com o inciso II e § 2º do artigo 15 da Lei nº 5.474/68, é necessária a observância dos seguintes requisitos:
+?art. 15 A cobrança judicial de duplicata ou triplicata será efetuada de conformidade com o processo aplicável aos títulos executivos extrajudiciais, de que cogita o Livro II do Código de Processo Civil, quando se tratar: II ? de duplicata ou triplicata não-aceita, conquanto que, cumulativamente: a)haja sido protestada; b) esteja acompanhada de documento hábil comprobatório da entrega e recebimento da mercadoria; c) o sacado não tenha, comprovadamente, recusado o aceite, no prazo, nas condições e pelos motivos previstos nos artigos 7º e 8º desta Lei.(...)
+§ 2º Processar-se-á também da mesma maneira a execução da duplicata ou triplicata não-aceita e não-devolvida, desde que haja sido protestada mediante indicação do credor ou do apresentante do título, nos termos do artigo 14, preenchidas as condições do inciso II desta artigo.?
+Dessa forma, além de estar desacompanhada dos títulos, nota-se, ao compulsar os autos, que a ré não instruiu os autos com os documentos comprobatórios da entrega e recebimento do guindaste. 
+Ademais, por ser clara a lei ao referir-se a documento, não deixando margens a qualquer outra interpretação nesse particular, igualmente, não sendo aceita a troca de e-mails, oitiva de testemunhas etc.
+Isso significa que não há documento idôneo de entrega do equipamento para reverter de certeza o título protestado
+Não preenchidas, portanto, as condições legitimadoras, inviável se mostra o protesto, sendo a procedência medida que se impõe.
+Quanto ao dano mora, contudo, entendo não ser cabível.
+Não é o mero dissabor, aborrecimento, ou contrariedade, a gênese da obrigação de indenizar moralmente. 
+Impõe-se trazer a cotejo o critério objetivo do homem médio, afastando-se daqueles de sensibilidades extremas, assim como daqueles insensíveis, ou com sensibilidades ínfimas.
+Destarte, o fato se insere na normalidade social diária da atividade empresarial, quando nem sempre os contratos são concluídos da forma que se espera, fazendo, portanto, parte do aceitável do cotidiano que se compõe tanto de alegrias, como de tristezas, não restando caracterizada ofensa moral.
+Ante o exposto, JULGO PROCEDENTE EM PARTE o PEDIDO PRINCIPAL e a AÇÃO CAUTELAR EM APENSO, para DECLARAR inexigível a duplicata protestada (fl. 64), oficiando-se ao tabelionato de protesto para que cancele definitivamente o protesto lavrado.
+Decreto a extinção do feito principal e da cautelar, com resolução do mérito (art. 269, I, do Código de Processo Civil). 
+Condeno a ré com custas e despesas do processo, bem como honorários advocatícios, que fixo em R$ 2.000,00 (art. 20 § 4°, do CPC).
+Traslade-se cópia para a ação cautelar em apenso.
+P.R.I.
+
+São Paulo, 13 de dezembro de 2012.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

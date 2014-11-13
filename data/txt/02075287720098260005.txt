@@ -1,0 +1,64 @@
+
+
+SENTENÇA
+
+Processo nº:005.09.207528-7
+Classe  Assunto:Procedimento do Juizado Especial Cível - Perdas e Danos
+Requerente:Jason Francisco Monteiro
+Requerido:HSBC  Bank Brasil S/A Banco Múltiplo
+
+
+
+
+Juiz(a) de Direito: Dr(a). Rogerio Leitão Torezan
+
+
+
+
+
+Vistos.
+
+
+
+
+
+
+Dispensado o relatório. 
+Fundamento e decido.
+Presentes os pressupostos processuais e as condições da ação, passo ao exame direto do mérito, uma vez desnecessária a dilação probatória (art. 330, inc. I, do Código de Processo Civil).
+As preliminares argüidas pela ré não merecem acolhimento, sendo que as demais pertencem ao mérito e como tal serão julgadas.
+O requerido tem legitimidade para figurar do pólo passivo da ação, vez que instituição bancária era o banco depositário com a qual a parte autora mantinha relação jurídica consistente em contrato de caderneta de poupança.
+Neste sentido, a jurisprudência:
+CADERNETA DE POUPANÇA. REMUNERAÇÃO NOS MESES DE JUNHO/1987, DE JANEIRO/1989, DE MARÇO/1990 E DE FEVEREIRO/1991. "PLANO VERÃO" E "PLANO COLLOR". PRESCRIÇÃO. LEGITIMIDADE PASSIVA DA INSTITUIÇÃO FINANCEIRA. INDICE DE 42,72%. PRECEDENTES DA CORTE. (RESP 153070-SP, Relator Min. CARLOS ALBERTO MENEZES DIREITO, julgado em 17/2/1998).
+Deve ser anotado, por oportuno, que não há elementos de convicção nos autos no sentido de que as diferenças requeridas na inicial refiram-se a valores transferidos ao BACEN, o que deveria ser demonstrado pela requerida. Portanto, há legitimidade passiva do banco depositário, mormente quanto ao que não excedeu o valor da transferência compulsória ao BACEN. Não há por conseguinte razão para deferimento da denunciação à lide, aliás, incabível no sistema do Juizado.
+O pedido de indenização ora formulado é juridicamente possível, não havendo se falar em quitação tácita pela simples movimentação de valores pela parte autora. Ademais, o sistema jurídico exige requisitos específicos para se provar a quitação, os quais não foram comprovadamente preenchidos no caso em apreço (art. 940, do Código Civil de 916 e art. 320, do Código Civil de 2002).
+Não houve prescrição da pretensão.
+É remansoso o entendimento que o prazo prescricional de valores referentes a correção monetária e juros capitalizados é vintenário (art. 177, do Código Civil de 1916), não se aplicado o disposto no art. 178, § 10, III, do Código Civil de 1916, de forma que não há se falar em reconhecimento da prescrição. 
+De todo oportuno consignar que não ocorreu a prescrição dos juros remuneratórios, diante da relação de depositante e depositário entre as partes, pois em conformidade com o art. 168 do Código Civil de 1916, não corre a prescrição ... em favor do credor pignoratício, do mandatário, e, em geral, das pessoas que lhes são equiparadas, contra o depositante, o devedor, o mandante e as pessoas representadas, ou seus herdeiros, quanto ao direito e obrigações relativas aos bens confiados à sua guarda.
+Neste sentido: Ap. 619.343-1/SP - 1º TACivSP - Ap. Cív. nº 650.808-3 - São Paulo - Rel. Juiz Roberto Bedaque - J. 08.02.96).
+Anote-se que, em razão do disposto na norma de transição (art. 2.028, do Código Civil de 2002), prevalece a conclusão acima lançada, aplicando-se o lapso previsto na Lei anterior.
+Os juros moratórios também não estão prescritos, e seu cálculo deve ser feito da forma seguinte.
+A Súmula nº 163 do Supremo Tribunal Federal estabeleceu a incidência de juros moratórios a partir da citação.
+Com o novo Código Civil (art. 406) positivou-se que os juros moratórios, quando não convencionados, corresponderão à taxa em vigor para a mora de impostos devidos à Fazenda Nacional (atualmente 1% ao mês, nos termos do art. 161, § 1º, do Código Tributário Nacional, consoante entendimento do Enunciado nº 20, aprovado na Jornada de Direito Civil promovida pelo Centro de Estudos Judiciários do Conselho da Justiça Federal).
+Desse modo, além de não estarem prescritos, os juros moratórios terão índice de 1% mensal e deverão ser computados a partir da citação.
+Em relação à correção monetária, outro não poderia ser o entendimento, na medida em que não constitui qualquer acréscimo ao capital, mas mera recomposição do valor da moeda diante da natural desvalorização decorrente do decurso do tempo e do processo inflacionário.
+Com relação ao cerne da questão, qual seja, o valor dos índices aplicáveis aos períodos consignados na inicial, deve vigorar o princípio tempus regit actum, ou seja, os contratos referentes a caderneta de poupança que já estavam com o período aquisitivo em andamento não podem ser afetados pelas novas normas.
+Neste sentido, decidiu o Egrégio Supremo Tribunal Federal:
+DIREITO CONSTITUCIONAL. CADERNETA DE POUPANÇA. MEDIDA PROVISÓRIA Nº 32, DE 15.01.89, CONVERTIDA NA LEI Nº 7.730, DE 31.01.89. ATO JURÍDICO PERFEITO (ARTIGO 5º, XXXVI, DA CONSTITUIÇÃO FEDERAL). Em situação análoga, assentou a 1ª Turma do S. T. F., no julgamento do R. E. nº 200.514, de que foi Relator o Ministro MOREIRA ALVES: "Esta Corte já firmou o entendimento (assim, entre outros precedentes, na ADI nº 493-0) de que o princípio constitucional segundo o qual a lei nova não prejudicará o ato jurídico perfeito (artigo 5º, XXXVI, da Carta Magna) se aplica, também, às leis infraconstitucionais de ordem pública. O contrato de depósito em caderneta de poupança é contrato de adesão que, como bem acentua o acórdão recorrido, "... tem como prazo, para os rendimentos da aplicação, o período de 30 (trinta) dias. Feito o depósito, se aperfeiçoa o contrato de investimento que irá produzir efeitos jurídicos no término de 30 (trinta) dias. E esses efeitos jurídicos não podem ser modificados por regras editadas no curso do período de 30 (trinta) dias, sob pena de violar-se o ato jurídico perfeito, o que é inconstitucional". Portanto, nos casos de caderneta de poupança cuja contratação ou sua renovação tenha ocorrido antes da entrada em vigor da Medida Provisória nº 32, de 15.01.89, convertida na Lei nº 7.730, de 31.01.89, a elas não se aplicam, em virtude do disposto no artigo 5º, XXXVI, da Constituição Federal, as normas dessa legislação infraconstitucional, ainda que os rendimentos venham a ser creditados em data posterior. Recurso extraordinário não conhecido".  (RE nº 202982, Relator  Min. SYDNEY SANCHES).
+Trata-se, de fato, de autêntica expressão da intangibilidade do direito adquirido, garantia constitucionalmente albergada no artigo 5º, inciso XXXVI da Constituição Federal.
+Neste contexto, é cediço já estar consolidada a jurisprudência quanto aos índices aplicáveis a cada um dos planos econômicos, dentre os quais estão os ora em discussão.
+No tocante ao chamado Plano Collor I (Lei Federal nº 8.024/90), assentou-se entendimento de que as cadernetas de poupança devem ser corrigidas monetariamente conforme os seguintes percentuais: 84,32% em março de 1990 e de 44,80% em abril, 7,87% em maio e 12,92% em junho todos do mesmo ano (EDREsp nº 37.225/94; REsp 68.993/95; REsp 68.006/95; REsp 69.290/95; REsp 73.754/95).
+Importante observar, por fim, que, por força da Medida Provisória n° 168/90, convertida na Lei 8.024/90 (Plano Collor I), apenas os valores transferidos para uma conta individualizada junto ao BACEN passaram a ser atualizados de acordo o BTNF, de maneira que os valores mantidos em conta-poupança junto à instituição financeira continuaram a ser atualizáveis pelo IPC, de acordo com a Lei 7.730/89.
+Dessa forma, há de ser feita a correção, conforme os índices acima consignados, de todos os fundos existentes na poupança mantida junto ao banco depositário referente ao mês de março de 1990 e dos valores que permaneceram no banco depositário nos meses de abril, maio e junho de 1990, assim entendido como o valor disponível na poupança após o repasse do valor excedente a Cr$50.000,00 ao Banco Central. Neste sentido: RESP 44626/SP (199400057580).
+Deve o requerido pagar as diferenças entre o índice de 44,80% em abril e o índices efetivamente aplicado a título de correção monetária, para a remuneração referente aos meses de abril de 1990, todos incidentes somente sobre os fundos existentes em caderneta de poupança junto ao banco depositário (excluídos, portanto os fundos transferidos ao Banco Central), reitere-se, no que se refere aos percentuais que não foram transferidos, e permaneceram, assim, com o banco depositário.
+Finalmente, com relação ao Plano Collor II (Lei Federal nº 8.177/91), o entendimento é o de que as cadernetas de poupança devem ser corrigidas monetariamente em fevereiro de 1991 com o percentual de 21,87%, no que se refere aos valores que não foram transferidos, e permaneceram, assim, com o banco depositário.
+Deve o requerido pagar as diferenças entre o índice de 21,87% e o índice efetivamente aplicado a título de correção monetária, para a remuneração referente ao mês de fevereiro de 1991. 
+Em todos estes casos, as diferenças serão corrigidas desde quando deveriam ter sido creditadas, pelos mesmos índices da poupança, acrescendo-se os juros remuneratórios de 0,5% ao mês até o efetivo cumprimento da obrigação, os quais devem ser capitalizados, pois assim seriam creditados se aplicado o índice corretamente à época, na forma da Lei. Incidirão juros moratórios.
+Para todos os planos econômicos acima mencionados, após a citação, além dos juros remuneratórios e da correção monetária pelos mesmos índices da poupança, incidirão juros da mora de 1% ao mês até o efetivo cumprimento da obrigação.
+A requerida sequer apresentou cálculo contrariando àquele fornecido pelo autor, motivo pelo qual este é acolhido.
+Posto isto, julgo procedente o pedido de modo a condenar o réu, quanto à conta poupança indicada em petição inicial, a pagar R$2.404,32 corrigidas monetariamente pelos mesmos índices da poupança, acrescidos juros remuneratórios contratuais de 0,5% capitalizados mensalmente, ambos desde 08/2008 (fls. 08/09), até o efetivo pagamento, mais juros de mora a partir da citação (REsp nº 766.643/SP) de 12% (doze por cento) ao ano, conforme art. 406 do Código Civil combinado com o art. 161, § 1º, do Código Tributário Nacional, e entendimento do Enunciado nº 20, aprovado na Jornada de Direito Civil promovida pelo Centro de Estudos Judiciários do Conselho da Justiça Federal.
+Sem custas e honorários.
+Nos termos do item 72 do Provimento nº. 1.670/2009 do CSM do E. TJSP o preparo, sob pena de deserção, será efetuado, independentemente de intimação, nas 48 (quarenta e oito) horas seguintes à interposição do recurso e deverá corresponder à soma das seguintes parcelas: a) 1% sobre o valor da causa, observado que o valor mínimo desta parcela a corresponde a 05 UFESPs; b) 2% sobre o valor da causa, caso não haja condenação, observado o valor mínimo correspondente a 05 UFESPs; c) 2% sobre o valor da condenação, observado que o valor mínimo desta parcela corresponde a 05 UFESPs; d) porte de remessa e retorno calculado com base no Provimento CSM 833/04, devido quando houver despesas de combustível para tanto.
+Libere-se a pauta de audiências.
+PRI
+São Paulo, 10 de fevereiro de 2010.

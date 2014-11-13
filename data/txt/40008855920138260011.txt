@@ -1,0 +1,77 @@
+
+
+SENTENÇA
+
+CONCLUSÃO
+
+Em 03 de maio de 2014 faço estes autos conclusos ao(à) Juiz(a) de Direito Dr(a) Eduardo Tobias de Aguiar Moeller.  Eu, escrev, subscrevi.
+
+Processo nº:4000885-59.2013.8.26.0011
+Requerente:Maria Alves de Oliveira Rodrigues
+Requerido:Banco Citicard S/A
+
+Juiz(a) de Direito: Dr(a). Eduardo Tobias de Aguiar Moeller
+
+Vistos.
+
+Trata-se de ação declaratória de inexigibilidade de débito cumulada com pedido de indenização.
+MARIA ALVES DE OLIVEIRA RODRIGUES ajuizou esta ação contra BANCO CITICARD S/A.  Alegou que é titular de cartão de crédito administrado pelo réu e que sempre honrou os pagamentos das faturas.  Afirmou que em janeiro de 2013 pagou o valor total da fatura de R$ 3.112,25, tendo o réu, na fatura seguinte, mencionado o valor deste pagamento.  O réu, porém, teria estornado o valor e efetuado a cobrança da mesma dívida na fatura com vencimento em junho de 2013.  Desde tal cobrança indevida teria a autora tido dificuldades para solucionar o impasse, tendo recebido cobranças de juros e encargos e, ainda, tendo tido seu nome negativado pelo réu.  Pleiteou a autora a baixa do débito de R$ 3.112,25 e dos encargos correspondentes, o cancelamento da negativação e indenização por danos morais de R$ 30.000,00.
+A inicial de fls. 1/7 veio instruída com faturas (fls. 9/15), negativação (fls. 16/18 e fls. 22).
+Deferiu-se liminar (fls. 27) de suspensão das negativações.
+Após a regularização do pólo passivo (fls. 70), o réu contestou às fls. 83/93.
+Alegou o réu que seria parte passiva ilegítima.  Alegou também que a instituição bancária é que não teria efetuado o repasse do pagamento da fatura do cartão de crédito, não tendo o réu praticado falha na prestação de serviço e não podendo ser responsabilizado.  Impugnou o pedido indenizatório.
+Réplica às fls. 109/113.
+A autora (fls. 117) e o réu (fls. 116) requereram o julgamento antecipado.
+Não houve acordo em audiência de conciliação (fls. 122).
+
+É o relatório.
+D E C I D O .
+
+Na forma do art. 330, inc. I, do Código de Processo Civil, julgo antecipadamente esta lide.  As próprias partes assim o requereram (fls. 117 e 116).
+A preliminar de ilegitimidade passiva ad causam arguida pelo réu em sua contestação (fls. 84) deve ser rejeitada.  Os documentos de fls. 9/15 (faturas do cartão de crédito) comprovam que é o réu quem administra o cartão de crédito discutido nesta ação e os documentos de fls. 16/18 e fls. 22 comprovam que foi o réu quem negativou o nome da autora.  Logo, é o réu quem deve figurar no pólo passivo para a discussão do débito e da negativação.
+No mérito, entendo tenha a autora razão.
+O documento de fls. 9 comprova que a autora efetuou o pagamento em 24.1.2013 da fatura do cartão de crédito no valor de R$ 3.112,25, a qual vencera em 20.1.2013.
+Nas faturas seguintes do cartão de crédito (fls. 10/13), o réu sempre mencionou aquele pagamento de R$ 3.112,25, embora de forma confusa pois ao mesmo tempo em que o registrava também inseria o réu lançamento de "estorno".
+Ocorre que na fatura com vencimento em junho de 2013 (fls. 15) o réu apenas lançou o "estorno" mas não registrou o pagamento de R$ 3.112,25, de forma que, na prática, o réu acabou por cobrar novamente este débito de R$ 3.112,25.  Por este motivo a fatura alcançou o valor de R$ 3.743,67.
+Não prospera o argumento do réu de que tenha havido falha do estabelecimento bancário ao não efetuar o repasse do valor, motivo pelo qual haveria excludente de responsabilidade (culpa exclusiva de terceiro).  
+Conforme jurisprudência consolidada, o réu, como prestador de serviços, responde de forma objetiva nos termos do art. 14 do CDC.  Eventual falha do estabelecimento bancário não caracteriza culpa exclusiva de terceiro já que o réu concorreu, no mínimo, de forma negligente ao não considerar as reclamações da autora (consumidora) e o comprovante de pagamento de fls. 9.
+Veja-se recente julgado neste sentido:
+
+RESPONSABILIDADE CIVIL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C.C. INDENIZAÇÃO POR DANOS MORAIS.
+PAGAMENTO DA FATURA DO CARTÃO DE CRÉDITO REALIZADO PELO AUTOR DE MANEIRA TEMPESTIVA. NEGATIVAÇÃO INDEVIDA. FALHA NO SISTEMA DE REPASSE QUE NÃO IDENTIFICA O PAGAMENTO. RESPONSABILIDADE OBJETIVA DO PRESTADOR DE SERVIÇOS. DICÇÃO DO ARTIGO 14 DO CDC.
+DEVER DE REPARAÇÃO DO DANO MORAL PRESUMIDO (IN RE IPSA). ARBITRAMENTO DA INDENIZAÇÃO DE MANEIRA ADEQUADA, ATENTANDO-SE ÀS CIRCUNSTÂNCIAS DO CASO CONCRETO. QUANTUM INDENIZATÓRIO MANTIDO. APELAÇÃO DO AUTOR NÃO PROVIDA. APELAÇÃO DO BANCO RÉU PARCIALMENTE PROVIDA, DE MODO A AJUSTAR-SE O TERMO INICIAL DOS JUROS DE MORA, QUE DEVEM SER CONTADOS A PARTIR DE CITAÇÃO.
+(TJSP Tribunal de Justiça de São Paulo, Apelação nº 0000243-31.2012.8.26.0322, 16ª Câmara de Direito Privado, Relator Des. Alexandre Bucci, j. em 25.3.2014, v.u.)
+
+Entendo, portanto, tenha a autora direito a que seja dada baixa no débito de R$ 3.112,25, bem como de seus encargos e juros.
+O pedido de indenização por danos morais também deve ser acolhido tendo em vista que o nome da autora foi injustamente negativado, conforme documento de fls. 16/18 e 22.
+A jurisprudência do Superior Tribunal de Justiça e do Tribunal de Justiça de São Paulo há muito decidem que o dano moral prescinde de prova nesta hipótese por tratar-se de dano in re ipsa.  Neste sentido:
+
+DANOS MORAIS. AÇÃO DE INDENIZAÇÃO.
+1-Negativação indevida. Fato que, per si, implica em lesão moral indenizável. Aplicação do Enunciado 24 desta Câmara. Condenação ao pagamento de danos morais mantida.
+2.- Valor da indenização (fls. R$-10.181,40). Adequação, na espécie. Pretensão de elevação/redução afastada. 
+3.- Verba honorária. Fixação em 20% do valor dacondenação. Patamar, na espécie, que remunera o trabalho da Advogada da autora, notadamente diante do tempo de duração da demanda. Redução descabida.
+SENTENÇA MANTIDA. RECURSOS IMPROVIDOS.
+(TJSP Tribunal de Justiça de São Paulo, Apelação nº 9188101-87.2008.8.26.0000,, 3ª Câmara de Direito Privado, Relator Des. João Pazine Neto, j. em 31.7.2012, v.u.)
+
+RESPONSABILIDADE CIVIL Banco Inexistência de relação jurídica entre autora e réu Contrato de financiamento de veículo Inclusão da autora em cadastros de devedores Ação declaratória de inexistência de negócio jurídico cumulada com pedido de indenização por danos morais Contestação intempestiva Revelia Sentença de procedência Dano caracterizado (in re ipsa) Indenização devida Valor arbitrado em observância ao disposto no artigo 944 do Código Civil Apelação desprovida
+(TJSP Tribunal de Justiça de São Paulo, Apelação nº 0148728-91.2011.8.26.0100, 4ª Câmara de Direito Privado, Relator Des. Carlos Henrique Miguel Trevisan, j. em 30.8.2012, v.u.)
+
+Civil e processual civil. Recurso especial. Omissão. Inexistência. Danos morais. Não renovação do cheque especial. Ausência de prova. Protesto indevido. Negativação. Pessoa jurídica. Dano in re ipsa. Presunção. Desnecessidade de prova. Quantum indenizatório. Exagero. Afastamento de um dos motivos de sua fixação. Redução.
+- Para o Tribunal de origem, o envio do título a protesto de forma indevida gerou presunção de dano moral, o que tornou desnecessária a análise dos pontos questionados em embargos declaratórios; - A não renovação do contrato de cheque especial não pode ser imputada ao protesto indevido promovido pela recorrente. Fato não comprovado nos autos;
+- Nos casos de protesto indevido de título ou inscrição irregular em cadastros de inadimplentes, o dano moral se configura in re ipsa, isto é, prescinde de prova, ainda que a prejudicada seja pessoa jurídica. Precedentes;
+- Os valores arbitrados a título de danos morais somente comportam modificação pelo STJ quando fixados de modo irrisório ou exagerado; 
+- Na espécie, o valor mostra-se exagerado, em especial pelo afastamento da indenização pela não renovação do contrato de cheque especial.
+Recurso especial parcialmente conhecido e, nesta parte, parcialmente provido. 
+(STJ Superior Tribunal de Justiça, Recurso Especial nº 1059663 / MS / 2008/0112156-1, Relatora Ministra Nancy Andrighi, 3ª Turma, j. em 2.12.2008, v.u.)
+
+Arbitro o valor da indenização por danos morais em R$ 10.000,00.
+Entendo que o valor acima arbitrado atende à regra do art. 944 do Código Civil, segundo a qual a indenização deve ser proporcional à extensão do dano e à gravidade da culpa.  Além disto, o valor é proporcional à capacidade econômica da parte requerida e também corresponde a parâmetro que estimulará a não repetição da conduta ilícita discutida nesta ação judicial.
+Por estas razões, JULGO PARCIALMENTE PROCEDENTE esta ação que MARIA ALVES DE OLIVEIRA RODRIGUES ajuizou contra BANCO CITICARD S/A e DECLARO a inexigibilidade do débito de R$ 3.112,25 lançado pelo réu na fatura com vencimento em junho de 2013 (fls. 15) bem como a inexigibilidade de todos os encargos, juros e acréscimos correspondentes.
+DETERMINO ao réu que providencie, em 10 (dez) dias, a baixa definitiva destes débitos acima, sob pena de multa diária de R$ 100,00.
+TORNO DEFINITIVA a liminar de fls. 27.
+Ainda, CONDENO o réu ao pagamento de indenização por danos morais de R$ 10.000,00 (dez mil reais).  O valor deverá ser corrigido monetariamente conforme Tabela Prática do TJSP desde esta data (maio/2014) e acrescido de juros moratórios de 1% ao mês desde esta data (maio/2014).
+CONDENO a parte requerida, ainda, ao pagamento das custas processuais e honorários advocatícios que arbitro em 10% (dez por cento) sobre o valor atualizado da condenação.
+P. R. I. 
+São Paulo, 03 de maio de 2014.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

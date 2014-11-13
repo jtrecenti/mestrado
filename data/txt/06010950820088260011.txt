@@ -1,0 +1,72 @@
+
+
+SENTENÇA
+
+Processo nº:011.08.601095-7
+Classe  Assunto:Procedimento Sumário 
+Requerente:Cibernet Multimedia Ltda.
+Requerido:Saúde Assistência Médica Internacional Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Claudio Luiz Bueno de Godoy
+
+
+
+
+Vistos.
+
+
+
+CIBERNET MULTIMEDIA LTDA. ajuizou ação de resolução contratual, cumulada com perdas e danos, processada pelo rito ordinário, contra SAÚDE ASSISTÊNCIA MÉDICA INTERNACIONAL LTDA., por quem diz haver sido contratada para implantação de sistema informatizado tendente a gerenciar os serviços da contratante, envolvendo o controle e cadastro dos clientes usuários, além dos prestadores de serviço, com suporte e assistência permanente, mediante o pagamento de parcelas mensais que, porém, assegura inadimplidas desde outubro de 2007, já não fosse outro período de inadimplência anterior, de novembro de 2006 e março de 2007, mesmo que o serviço contratado tivesse sido completamente prestado, naquilo que não dependente de providências que à ré incumbia tomar. Pretende, então, a resolução do contrato, com condenação no pagamento das mensalidades sem aberto e cláusula penal (fls. 2/14). Instruíram a inicial os documentos de fls. 22/163.
+
+Indeferida antecipação de tutela que se havia pleiteado (fls. 171), a ré foi citada e ofertou contestação, asseverando que, em outubro de 2007, a autora suspendeu os serviços que vinha prestando, e de modo incompleto, causa inclusive da suspensão de pagamento em período anterior, tendo havido real e extenso atraso na implantação de todo o sistema, portanto funcionando de modo não integral até a suspensão de sua prestação (fls. 186/192). Anexos os documentos de fls. 193/203.
+
+Em réplica, reportou-se a autora aos argumentos expendidos na vestibular (fls. 207/213).
+
+Prejudicada a tentativa conciliatória, o feito foi saneado (fls. 229), designando-se audiência de instrução que se realizou com a oitiva de três testemunhas (fls. 243/245).
+
+As partes apresentaram memoriais, reiterando as razões já deduzidas no curso do feito, cada qual entendendo a si favorável o conjunto probatório formado (fls. 251/260 e 265/268), a autora juntando, ainda, documentos, cujo desentranhamento se determinou a fls. 271/273.
+
+É o relatório.
+
+DECIDO.
+
+Induvidosa a contratação havida entre as partes, e mesmo seu conteúdo, retratado nas cláusulas 1ª e 2ª, ademais da confirmação pela prova oral colhida.
+
+Com efeito, incumbiu-se a autora de implantar um sistema gerencial informatizado das atividades da ré, envolvendo o cadastramento dos usuários e dos pagamentos respectivos, bem assim dos conveniados, incluindo não só pagamentos como, também, a emissão de guias.
+
+Mais, a autora ficou encarregada, ainda, de prestar suporte, mediante o pagamento de mensalidade equivalente a R$ 4.700,00 (cláusula 5.2), além das parcelas mensais de aquisição do programa (cláusula 5.1).
+
+Não se controverte nos autos, do mesmo modo, que o sistema tenha sido implantado e colocado em funcionamento. O que sustenta a ré é que isto não se deu por completo, até ser, inclusive,  interrompido, segundo afirmou em outubro de 2007 (v. fls. 187, último parágrafo).
+
+Pois já aí um primeiro problema da tese defensiva. Conforme dão conta os documentos de fls. 33/46, ao menos de janeiro de 2007 em diante houve inúmeras trocas de mensagens indicando que o sistema continuava sendo operado. Da mesma forma o que se encontra a fls. 87. Mesmo a testemunha Nélson, que à época trabalhava na empresa ré, atestou que de abril a junho de 2007 não houve qualquer solução de continuidade dos serviços prestados pela autora (fls. 243). Por fim, mesmo as testemunhas arroladas pela ré esclareceram que o programa continuou sendo utilizado (fls. 244/245), note-se, sem qualquer interrupção.
+
+O que as testemunhas, as da ré, objetaram, é que, dos vários módulos em que se dividiam os serviços contratados, um só, o financeiro, não foi implantado. Disseram, mais, que alguns problemas foram verificados nos módulos de transmissão de dados e de cadastramento.
+
+Sucede que, de um lado, não consta qualquer especial reclamo que, em tempo anterior à demanda, tenha sido feito, particularmente, no que concerne ao chamado módulo financeiro. Ao revés, as mensalidades foram sendo normalmente pagas até novembro de 2006 e, depois, de abril de 2006 até setembro de 2007. Isto vem ao encontro da afirmação do memorial da autora, de que este módulo foi instalado.
+
+De outra parte, já desde a contratação ficou constando, como está na cláusula 2.1, que a implantação do sistema, em todas as suas virtualidades, dependia também de algumas providências a cargo da ré, dentre as quais a adequação de máquinas e a disponibilização de software específico (Oracle), com configuração também individualizada. Ocorre que, como se pode ver dos documentos de fls. 79, 85 e 89, já muito tempo passado desde a contratação a autora seguia reclamando as providências que a ré deveria tomar para complementação do trabalho contratado.
+
+E, de todo modo, sem que nada disso tenha impedido a ré de se utilizar do programa, seja dado reiterar, sem qualquer reclamo formal, pelo contrário, persistindo no normal pagamento das prestações, em sua totalidade, o que decerto não faria se os problemas alegados fossem reais, em toda a sua extensão, e de responsabilidade da autora.
+
+Aí a questão do inadimplemento havido no período de novembro de 2006 a março de 2007. Diz a ré que isto se deveu, justamente, à falta de complementação da instalação do sistema. Mas, já não fosse a ausência de qualquer formal cientificação da causa da suspensão dos pagamentos, o fato é que eles voltaram a ser feitos em abril. Portanto, o que, admitida, por hipótese, a causa alegada para a suspensão, implica em admitir que os problemas, então, foram sanados.
+
+De igual maneira, reconhecido que as prestações a partir de outubro de 2007 deixaram de ser pagas, também nada autoriza a conclusão de que justificado este não pagamento. Atribuído à interrupção dos trabalhos da ré, já se viu que isto não ocorreu.
+
+Mesmo o suporte técnico se viu prestado. Quem o fazia era funcionário de nome Luís, veja-se, o subscritor habitual de todas as mensagens eletrônicas trocadas entre as partes e quando provenientes da autora. Aliás, sintomaticamente alguém que, conforme se hauriu da prova oral, que confirma o suporte, a ré, depois, veio a contratar, de resto ao arrepio da cláusula 7.4, o que, se não integra a causa de pedir, ao menos serve a demonstrar, de um lado, que o serviço de suporte era prestado a contento e, mais, que o programa não era inoperante ou falho, a ponto de se ter contratado quem o conhecia mais de perto.
+
+Por último, igualmente não se há cogitar da falta de treinamento de funcionários. De novo a par do que constou dos depoimentos tomados, o fato é que os documentos de fls. 143/157 denotam o treinamento para operar o sistema.
+
+Enfim, o quadro probatório indica, a uma, que o serviço contratado foi prestado; a duas, que suas prestações respectivas não forma honradas, de 11/06 a 03/07 e a partir de outubro de 2007, malgrado o sistema continuasse a ser utilizado, com o devido suporte; a três, que ausente qualquer causa justificativa convenientemente demonstrada para o inadimplemento aludido. Daí porque, por conseguinte, a pretensão resolutória procede.
+
+As prestações relativas ao período do inadimplemento são devidas desde que, repita-se, o serviço a que se referiam, mesmo de suporte, foi prestado. Do ponto de vista numérico, não houve qualquer impugnação à planilha de fls. 159/163. A cláusula penal, de outro tanto, veio explicitada na cláusula 7.5 do contrato. E, de natureza compensatória, se faz devida pela resolução causada pela ré, abreviando o ajuste e privando a autora das mensalidades futuras, portanto a despeito e sem prejuízo das prestações devidas pelo uso passado, sem pagamento, do programa instalado e suporte dado.
+
+Destarte, deve a ré pagar as prestações identificadas na planilha citada, corrigidas desde cada qual de seus vencimentos, tratando-se de mora ex re também desde quando deverão incidir juros de 1% ao mês, além da multa.
+
+Ante o exposto, e pelo mais que dos autos consta, JULGO PROCEDENTE a presente ação para o fim de dar por resolvido o contrato entre as partes e para condenar a ré no pagamento da quantia acima estabelecida, num montante de R$ 107.278,18, desde novembro de 2008 corrigido, mais custas processuais e honorários advocatícios de 10% do total da condenação.
+
+P.R.I.
+
+São Paulo, 23 de fevereiro de 2010.

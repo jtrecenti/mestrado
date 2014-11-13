@@ -1,0 +1,86 @@
+
+
+SENTENÇA
+
+Processo Físico nº:0016221-04.2013.8.26.0002
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Moral
+Requerente:João Carlos Sobreira
+Requerido:Nextel Telecomunicações LTDA
+
+
+Juiz(a) de Direito: Dr(a). Carlos Eduardo Prataviera
+
+
+Vistos.
+JOÃO CARLOS SOBREIRA ajuizou esta ação em face de NEXTEL TELECOMUNICAÇÕES LTDA aduzindo, em apertada síntese, que é cliente dos serviços prestados pela ré, possuindo quatro linhas de telefone da operadora. Narra que em 30/10/2012 duas de suas linhas foram desligadas imotivadamente e, na mesma data, recebeu ligação da ré pretendendo confirmar a aquisição de dois aparelhos telefônicos, o que de pronto foi negado pelo autor, já que não havia autorizado ninguém a fazê-lo em seu nome. Afirma que se dirigiu a uma filial da ré para comunicar o fato, obtendo a informação de que uma pessoa que lhe é desconhecida adquirira os dois aparelhos na cidade de Campinas-SP e que os encargos da compra deveriam ser custeados pelo autor. Apesar de ter reclamado inúmeras vezes, o problema não foi resolvido, persistindo as cobranças indevidas, as quais pagou para evitar que seu nome fosse negativado. Pede a declaração da nulidade da compra, indenização por danos morais por conta dos transtornos sofridos, bem como por danos materiais, referente aos gastos com a contratação de advogado.
+
+Regularmente citada, a ré contestou a ação alegando, em resumo, que a aquisição dos aparelhos foi realizada com a utilização da senha master, que se trata de assinatura eletrônica de uso pessoal e intransferível do cliente. O autor responde exclusivamente pela divulgação da senha a terceiros ou desídia na sua guarda. A cobrança é devida porque a contratação se deu de forma regular. Não ocorreram danos morais e é descabida a pretensão de ressarcimento dos honorários advocatícios contratuais. Requer a improcedência.
+
+Houve réplica e, em audiência de tentativa de conciliação, o objetivo se frustrou.
+
+R  E  L  A  T  A  D  O  S.
+D  E  C  I  D  O.
+
+Trata-se de questão unicamente de direito, que dispensa a produção de outras provas além das que instruem os autos, motivo autorizante de se dar o julgamento no estado do processo, modalidade julgamento antecipado da lide.
+
+O caso deve ser analisado à luz do Código de Defesa do Consumidor, porque o autor é o destinatário final dos serviços prestados pela ré e ofertados ao mercado de consumo. Assim, impõe-se a inversão do ônus da prova (CDC, art. 6º, VIII), ante o reconhecimento de sua hipossuficiência frente à, aliada à verossimilhança de suas alegações.
+
+Ademais, a inversão do ônus da prova também se impõe porque o que o autor alega é um fato negativo ? inexistência de contratação da aquisição do aparelhos ? e a ré alega exatamente o contrário, um fato positivo ? a efetiva contratação. Trata-se de odiosa probandi, situação na qual, necessariamente, se inverte o ônus da prova, para que a parte que alega o fato positivo - contratação ? faça prova dele, pois de muito tranqüila demonstração, já que necessariamente o fato deve estar documentado, já que para a parte que alega fato negativo a prova é impossível, pois inexistente no mundo jurídico.
+
+Trata-se de imposição de indestrutível princípio da lógica. Não há como se demonstrar aquilo que não aconteceu.
+
+No caso dos autos, a ré limitou-se a alegar que a contratação se deu mediante a utilização de senha pessoal e intransferível, sem fazer qualquer prova quanto à segurança do sistema utilizado e à impossibilidade de ocorrência da clonagem alegada na inicial, tampouco demonstrou que o autor tenha fornecido a senha a terceiros.
+
+Não bastasse isso, restou evidente a desídia empregada pela operadora na contratação, uma vez que ela própria admite que a ?senha master? deveria ser utilizada exclusivamente pelo cliente. Contudo, restou incontroverso nos autos que a compra foi realizada por terceira pessoa estranha à contratação e que o autor não reconheceu a sua legitimidade ao ser questionado por telefone. Se de fato essa terceira pessoa estava de posse da senha pessoal do autor, ainda assim houve negligência da ré em permitir a contratação à revelia do cliente.
+
+Desta feita, não tendo a ré se desincumbido do ônus da prova quanto à regularidade da contratação, a outra conclusão não se chega senão à de que, de fato e de direito, a aquisição dos aparelhos em nome do autor se deu de forma fraudulenta, a ensejar o reconhecimento da nulidade do contrato.
+
+No que tange ao pleito reparatório, contudo, sem razão o autor.
+
+O dever de indenizar por quem causou dano a outrem é princípio geral de direito encontrado em todo ordenamento jurídico dos povos civilizados, como pressuposto de vida em sociedade.
+
+Maria Helena Diniz afirma que ...poder-se-á definir a responsabilidade civil como a aplicação de medidas que obriguem alguém a reparar dano moral ou patrimonial causado a terceiros em razão de ato do próprio imputado, de pessoa por quem ele responde, ou de fato de coisa ou animal sob sua guarda (responsabilidade subjetiva), ou, ainda, de simples imposição legal (responsabilidade objetiva). Definição esta que guarda, em sua estrutura, a idéia da culpa quando se cogita da existência de ilícito e a do risco, ou seja, da responsabilidade sem culpa.
+
+Continuando em seu magistério, a mestra ensina que a responsabilidade civil requer a coexistência de três requisitos, sem os quais estará afastado o dever de reparar o mal causado: 
+
+a) Existência de uma ação, comissiva ou omissiva, qualificada juridicamente, isto é, que se apresenta como um ato ilícito ou lícito, pois ao lado da culpa, como fundamento da responsabilidade, temos o risco...
+b) Ocorrência de um dano moral ou patrimonial causado à vítima por ato comissivo ou omissivo do agente ou de terceiro por quem o imputado responde...
+
+c) Nexo de causalidade entre o dano e a ação (fato gerador da responsabilidade)...
+
+A responsabilização por dano moral, assim como por qualquer dano, não escapa às regras e conceitos da responsabilidade civil, que jamais existirá sem que haja uma relação de causalidade entre o dano e a ação que o provocou (RT 224:155, 466:68, 477:247, 463:244; RLTJSP, 28:103).
+
+O dito vínculo entre o prejuízo e a ação - nexo de causalidade - deve se fazer presente de tal forma que o fato lesivo deve ter origem na ação, diretamente ou como sua conseqüência previsível. 
+
+Sem a presença destes três elementos essenciais não há obrigação de indenizar, como se vê no art. 186 do Código Civil. Sobre o tema fala com maestria Caio Mário da Silva Pereira: "Não basta que o agente haja procedido contra direito, isto é, não se define a responsabilidade pelo fato de cometer um "erro de conduta"; não basta que a vítima sofra um "dano", que é o elemento objetivo do dever de indenizar, pois se não houver um prejuízo a conduta antijurídica não gera obrigação ressarcitória. É necessário se estabeleça uma relação de  causalidade entre a injuricidade da ação e o mal causado, ou, na feliz expressão de Demogue, "é preciso esteja certo que, sem este fato, o dano não teria acontecido. Assim, não basta que uma pessoa tenha contravindo a certas regras; é preciso que sem esta contravenção, o dano não ocorreria" (Traité des Obligations en Genéral, vol. IV, nº 366).
+
+O caso em questão trata, contudo, de responsabilidade objetiva, na qual não se perquire sobre ocorrência de ato ilícito decorrente de culpa, ou seja, da reprovabilidade da conduta do agente. Basta a ocorrência de resultado danoso, decorrente da conduta do agente. Trata-se da responsabilidade pelo risco, imposta aos prestadores de serviço ofertado indistintamente aos consumidores em potencial.
+
+ Embora reprovável a falha da ré, a situação tratada nesta ação foi insuficiente, por si só, para causar repercussão nos direitos da personalidade. Não se nega que a cobrança indevida e as infrutíferas tentativas de solução da questão administrativamente possam ter causado transtornos e dissabores, porém não são aptos a gerar reflexos com a intensidade com que sustenta o autor.
+
+O dano moral somente se caracteriza quando há humilhação, vergonha, ofensa ou desrespeito à dignidade da pessoa, sofrimento ou dor exacerbados. Distancia-se e muito esse dano moral daquela irritação, contrariedade e aborrecimentos comuns à vida cotidiana, como se deu no caso em tela, em que não chegou a haver negativação do nome do autor, mas simples cobrança de faturas, ainda que indevidas.
+
+Não se tratanto de cobrança vexatória ou humilhante, os possíveis aborrecimentos experimentados pelo autor não tem o condão de causar maiores reflexos em sua dignidade, afronta à honra ou abalo psíquico suficientes para fazer nascer o dever de indenizar.
+
+Em caso semelhante, este E. Tribunal já decidiu o seguinte:
+
+INDENIZAÇÃO. Danos morais. Sentença que julgou procedente o pedido. Documentos juntados aos autos demonstram mera cobrança sem a inscrição. Inocorrência de dano a ser indenizado. Multa diária que deve ser reduzida a R$ 300,00. Honorários de R$ 2.000,00. Recurso provido.
+(Apelação 0003100-28.2011.8.26.0664, Relator(a): Teixeira Leite, Comarca: Votuporanga, Órgão julgador: 4ª Câmara de Direito Privado, Data do julgamento: 25/07/2013)
+
+A mera cobrança administrativa de concessionária de telefonia, mesmo com ameaça de inscrição em cadastro restritivo de crédito, que não se efetivou, não lesa direito da personalidade e, portanto, não configura dano moral. Por isso, mantém-se a rejeição à pretendida indenização moral.
+(Apelação 0013598-04.2011.8.26.0562, Relator(a): Celso Pimentel, Comarca: Santos, Órgão julgador: 28ª Câmara de Direito Privado, Data do julgamento: 26/07/2013)
+
+Tampouco comporta acolhimento o pedido de indenização por danos materiais, correspondentes aos honorários advocatícios contratuais, que foram pactuados exclusivamente entre o autor e seu advogado, sem qualquer participação da ré, e por isso não vinculam a ela. Anote-se, outrossim, não haver prova de efetivo desembolso de qualquer valor a esse título.
+
+Ausentes aqueles três requisitos inicialmente comentados - conduta, dano e nexo causal entre um e outro -, de rigor a improcedência da pretensão indenizatória.
+
+Isto posto, JULGO PARCIALMENTE PROCEDENTE o pedido para declarar a nulidade da compra de aparelhos realizada em nome do autor no dia 30/10/2012 (fls. 19) e, por conseguinte, a inexigibilidade de quaisquer débitos relacionados a essa aquisição. JULGO EXTINTO o processo nos termos do art. 269, inciso I, do Código de Processo Civil.
+
+Sendo a sucumbência recíproca, cada parte arcará com suas custas e despesas do processo, bem como honorários de seus respectivos advogados.
+
+P.R.I.
+
+São Paulo, 09 de maio de 2014.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

@@ -1,0 +1,121 @@
+
+
+SENTENÇA 
+
+Processo:0052091-47.2012.8.26.0002 - Procedimento Ordinário
+Requerente:Simone de Mattos
+Requerido:Terra Networks Brasil S/A
+Juiz de Direito: Dr. Alexandre David Malfatti
+
+
+
+
+
+Vistos.
+
+
+
+Constou da petição inicial, em resumo, que, recentemente, a autora havia descoberto a invasão de sua caixa postal por terceiros não autorizados, mas não logrou obter as informações dos IP (?Internet Protocol?), horários e datas, utilizados para o referido acesso indevido. Ao final, deduziu pedido para imposição à ré da obrigação de informar os dados aludidos. 
+
+
+Houve concessão da tutela pretendida (fls. 18/25). 
+
+
+Na contestação (fls. 35/44), em síntese, a ré afirmou que não havia obrigação legal de armazenamento das informações. Não havia adequação na transformação da cautelar de exibição em obrigação de fazer. Porém, a ré terminou por especificar os acessos ocorridos na conta de e-mail da autora, no período solicitado. E, em pesquisa realizada, verificou que os IPs mencionados eram de propriedade da empresa NET e não da ré. 
+
+
+É O BREVE RELATO.
+
+FUNDAMENTO E DECIDO.
+
+
+O processo comporta imediato julgamento, dispensando-se a produção de outras provas, nos termos do artigo 330, inciso I do Código de Processo Civil. 
+
+
+
+
+Entendo que os motivos que deram ensejo à concessão da liminar subsistem (fls. 18/25), destacando-se:
+
+
+"A autora trouxe prova inequívoca dos fatos: a existência de suspeita de acessos ilícitos pelo uso da Internet, tornando-se necessária a obtenção de dados do IP (fls. 14/17). Ao que consta, houve a negativa da ré na disponibilização dos aludidos dados.
+
+"A verossimilhança do direito alegado pelo autor faz-se presente. 
+
+"Observo que a finalidade da ação se esgota na obtenção de dados  - listagem de IP que tiveram acesso à caixa postal da autora. A ação não versa sobre a responsabilidade da ré pelos fatos lesivos praticados no aludido acesso, mas tão somente à sua obrigação de fornecer dados de uma pessoa que fez uso do referido serviço de acesso à Internet.
+
+"Recentemente, o aparecimento de litígios judiciais envolvendo a Internet, de uma forma mais ampla, o mundo digital tem causado perplexidade no mundo jurídico. No Brasil, a ausência de legislação específica, as poucas manifestações da doutrina e os raros precedentes dos tribunais dificultam a compreensão pelos profissionais do direito de como analisar os fatos e suas conseqüências jurídicas. 
+
+"Como bem observou Marco Aurélio Greco (in ?Internet e Direito?, Dialética, 2.000, p. 27-28), no avanço da informática destaca-se a separação entre a mensagem e o meio faz a primeira ter ?vida própria?, havendo dificuldade de verificação da autenticidade (do documento, da mensagem e do próprio agente). 
+
+"A tutela jurídica também pode suscitar diversos questionamentos. Dependendo da origem da mensagem ou do serviço (alguns casos se qualificam como ?utilidades? ou ?bens imateriais?), pode haver dúvida sobre a legislação aplicável, a autoridade judiciária competente, a medida jurisdicional adequada, etc.
+
+
+"No caso em tela, a solução do litígio pode superar ? nesta primeira análise ? aquelas dificuldades comuns nos conflitos da nova era da sociedade de informação. 
+"Primeiro, sobre a legislação aplicável. A Constituição Federal de 1.988 consagra como fundamentos a soberania da República Federativa do Brasil (art. 1º, inciso I) e a dignidade da pessoa humana (art. 1º, inciso III). O mesmo texto constitucional garante a construção de uma sociedade justa e solidária (art. 3o, inciso I) e os direitos de reparação por dano à imagem (art. 5o, inciso V), de liberdade de expressão (art. 5o, inciso IX), de preservação da intimidade, vida privada, honra e imagem (art. 5o, inciso X), de inviolabilidade das comunicações (art. 5o, inciso XII), de proteção ao nome e marca (art. 5o, inciso XXIX), de proteção ao consumidor (art. 5o, inciso XXXII) e de acesso à Justiça (art. 5o, inciso XXXV).
+
+"De um lado, pode-se vislumbrar em favor do colégio autor a proteção constitucional de sua imagem (inclusive porque afetado diretamente por ofensas à dignidade, à honra, à intimidade e à vida privada de pessoas ligadas a ele). Não se descarta até mesmo a qualificação das lesões que fazem uso de SITE ou ?e-mail? como acidentes de consumo, em que as pessoas atingidas pelas mensagens ou fraudes sejam equiparadas a consumidores, na forma do artigo 17 da Lei n. 8.078/90, advindo todas as conseqüências da aplicação do Código de Defesa do Consumidor.
+
+"É verdade que, de outro lado, pode-se argumentar que está em jogo também o sigilo da comunicação (e dos dados) e a liberdade de expressão, ambos garantidos pela Constituição Federal.
+
+"Tenho defendido, numa perspectiva sistêmica do ordenamento jurídico, que a Constituição Federal, o Código Civil e as demais leis esparsas devem se conformar com o princípio supremo da dignidade da pessoa humana e com os demais direitos fundamentais (individuais, coletivos e sociais). Aqui, com todo o respeito ao jurista Ingo Wolfgang Sarlet (in ?A Eficácia dos Direitos Fundamentais?, Livraria do Advogado Editora, 1.998, passim), parece-me inadequada a conclusão de que os direitos fundamentais não incidiriam de forma "absoluta" sobre as relações entre particulares. A incidência imediata implica uma eficácia absoluta, como defendido por NIPERPERDEY, citado por Robert Alexy (in "Teoria de los Derechos Fundamentales", p. 512-513). 
+
+"A conclusão de incidência imediata dos direitos fundamentais nas relações da esfera privada pode ensejar uma colisão (ou tensão) de direitos (princípios) fundamentais, como apontado, dentre outros, por Ingo Wolfgang Sarlet (ob. cit.) e Canotilho (in "Direito Constitucional e Teoria da Constituição", p. 1.205-1.214). 
+
+"Na hipótese de conflito ou tensão de direitos fundamentais - normas-objetivo e que estampam, usualmente, princípios - deve-se recorrer à acomodação possível dos mesmos, prevalecendo como ensina Alexy (ob. cit., p. 506-524) aquele que se revelar mais essencial (relevante) no caso concreto. Há precedente do E. Supremo Tribunal Federal neste diapasão: Ação Direta de Inconstitucionalidade 2.054 - Medida Cautelar, relator o Ministro Ilmar Galvão, j. 17.11.99 (RTJ 173/85-90), fazendo expressa referência ao magistério de Alexy, entende que, entre o direito fundamental da liberdade de associação e o direito fundamental do autor, o segundo merece maior peso e importância.
+
+"Na hipótese vertente, o suposto sigilo de dados deve ceder diante dos princípios e direitos fundamentais da dignidade da pessoa humana e da proteção à propriedade. A manutenção do sigilo dos dados de titulares de SITE ou ?e-mail? implicaria a subsistência da lesão àqueles princípios e direitos fundamentais sem a apuração de responsabilidade civil e criminal. 
+
+"Ou seja, a Constituição Federal de 1.988 dá respaldo ao pedido formulado pelo autor devendo ser considerada a lei aplicável em fatos que tenham repercussão no território nacional e venham a atingir pessoas que aqui tenham domicílio.
+
+"Segundo ponto: a autoridade judiciária competente. Pelos mesmos motivos, não se tem dúvida sobre a competência da autoridade judiciária brasileira. Ainda que o administrador do serviço de acesso à Internet ? não é o caso dos autos ? estivesse localizado no exterior, havendo possibilidade de concretização da lesão em território nacional, torna-se possível o acesso à Justiça brasileira na forma do artigo 5º, inciso XXXV da Constituição Federal. 
+
+"A hipótese sob análise cuida da identificação do titular ou responsável dos IP que serviram para a conexão à Internet, pessoa que supostamente praticou atos no Brasil ? buscou movimentar conta-corrente alheia no território nacional ? e pode ser responsabilizado (ao menos no âmbito civil) pelos mesmos. 
+
+"Estudando a competência para processamento e julgamento de conflitos judiciais envolvendo atos ilícitos nos meios eletrônicos, Paulo Henrique dos Santos Lucon (?Competência no Comércio e no Ato Ilícito Eletrônico?, artigo inserido na obra coletiva ?Direito e Internet?, Edipro, 2.000, p. 363-367) defende o reconhecimento da competência do ?forum delicti comissi?, citando os exemplos da Lei de Ação Civil Pública e do Código de Defesa do Consumidor que consagram a possibilidade de ajuizamento da ação no local de produção do resultado da lesão (inclusive facilitando a produção de provas) ou ? de forma concorrente ? com o domicílio da vítima (muitas vezes coincidente com o primeiro). 
+
+"E, como terceiro ponto a ser enfrentado, surge a adequação da prestação jurisdicional solicitada. As dificuldades neste passo foram destacadas por Fábio Henrique Podestá (?Direito à Intimidade em Ambiente da Internet?, artigo inserido na obra coletiva ?Direito e Internet?, Edipro, 2.000, p. 172-175), fazendo menção à possibilidade de uso da tutela inibitória. Penso que o juiz deve concretizar o princípio constitucional de acesso efetivo à Justiça (art. 5o, inciso XXXV da CF), apegando-se menos à forma e utilizando-se do processo como verdadeiro instrumento da realização dos direitos reconhecimentos no ordenamento jurídico. Se o caso, deve o magistrado instar o autor da ação a emendar a petição inicial de forma a tornar adequado o instrumento processual (ação, rito, pedido, etc.) escolhido.
+
+
+"Na hipótese sob julgamento, a imposição de obrigação de fazer em ação de processo de conhecimento (rito ordinário) afigura-se adequada em relação aos fatos narrados pela autora. A necessidade da tutela jurisdicional revela-se indiscutível. Enfim, afiguram-se presentes todas as condições da ação. 
+
+
+"Importante salientar que em outros processos, os provedores de acesso à Internet têm reconhecido a viabilidade do fornecimento dos dados, embora condicionado à existência de ordem judicial."
+
+(negrito e grifo do texto).
+
+
+
+Por último, considero satisfeita a obrigação de fazer. A ré trouxe em sua defesa os dados do IP que fez acessos à caixa postal da autora e até identificou a empresa titular dos mesmos  a quem a autora deverá dirigir pedido de identificação do usuário. 
+
+
+
+DISPOSITIVO. 
+
+
+Ante o exposto, JULGO  PROCEDENTE  a ação promovida por SIMONE DE MATTOS em face de TERRA NETWORKS BRASIL S/A, para condenar a ré TERRA NETWORKS BRASIL LTDA a cumprir, no prazo de 15 (quinze) dias, obrigação de fazer consistente no fornecimento de relatórios dos IP que acessaram a caixa postal da autora ("mattos.simone@terra.com.nr", contrato CRS AO 0676753), desde 07.7.2012 até 16.7.2012, incluindo-se o número telefônico de origem das conexões e seus dados cadastrais.  Considero a obrigação satisfeita na defesa apresentada pela ré. 
+
+
+Em razão da sucumbência, condeno a ré ao pagamento das custas judiciais e dos honorários advocatícios, estes fixados  moderadamente em função da simplicidade da causa  em R$ 200,00 (duzentos reais) acrescidos de correção monetária, a partir da presente data. 
+
+
+A base de cálculo da taxa judiciária na fase recursal: valor da causa, respeitada a taxa mínima.
+
+P.R.I.
+
+São Paulo, 16 de dezembro de 2012.
+
+ALEXANDRE DAVID MALFATTI
+             Juiz de Direito
+           (assinatura digital)
+
+
+
+CERTIDÃO ? PUBLICAÇÃO
+
+            Certifico e dou fé que a  sentença supra foi enviado ao D.J.E. Disponibilização_em _____/____/2012. Considera-se data da publicação o primeiro dia útil subseqüente à data acima mencionado.
+Eu, .............................. escr. , digitei e subscrevo.
+  
+São Paulo,16 de dezembro de 2012.
+
+
+     Alexandre David Malfatti

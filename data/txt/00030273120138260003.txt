@@ -1,0 +1,52 @@
+
+
+SENTENÇA
+
+Processo nº:0003027-31.2013.8.26.0003
+Classe - AssuntoProcedimento Ordinário - Interpretação / Revisão de Contrato
+Requerente:Adilson Alves Chagas
+Requerido:BANCO SANTANDER (BRASIL) S/A
+
+
+
+
+
+Vistos, etc.
+
+
+ADILSON ALVES CHAGAS move AÇÃO REVISIONAL DE CONTRATO DE EMPRÉSTIMO C.C PERDAS E DANOS em face de BANCO SANTANDER (BRASIL) S/A, alegando, em síntese, abusividade da cláusula do contrato de abertura de crédito que estipulou juros remuneratórios acima do percentual admitido pelo BACEN e de forma capitalizada; ilegalidade da utilização da ?Tabela Price? para amortização de dívidas, e da cobrança de tarifa de adiantamentos a depositantes, requerendo revisão e repetição em dobro dos valores pagos indevidamente.
+O réu contestou (fls. 61/93) alegando, em preliminar, a inépcia da inicial, em razão de o autor ter formulado pedido genérico e indeterminado, e por ter cumulado pedidos incompatíveis entre si; carência da ação por ausência de provas do fato constitutivo do direito do autor e por impossibilidade jurídica do pedido, em virtude do contrato ter sido consumado; e, no mérito, sustentou a legalidade das cláusulas contratuais, de forma que o contrato deve ser cumprido como pactuado pelas partes. Requereu extinção ou improcedência da ação.
+Réplica a fls. 122/131.
+É o relatório. DECIDO.
+Julgo nos termos do CPC, artigo 330, I. 
+Rejeito a preliminar de inépcia da inicial, pois o autor formulou pedido certo e determinado, em conformidade com a exigência do CPC, artigo 286. 
+Além disso, os pedidos cumulados não são incompatíveis entre si, pois é admissível o pedido incidental de exibição de documentos na ação revisional de contrato.
+Sobre o tema, o Egrégio Tribunal de Justiça de São Paulo decide que ?revisional de contrato por suposta abusividade, ilegalidade e onerosidade excessiva de cláusulas convencionando os encargos cumulada com exibição de documentos ? Petição inicial não instruída com o contrato bancário (...) ? Possibilidade da cumulação de pedido incidental, art. 355 do Código  de Processo Civil, em face da adoção do rito ordinário.? (38ª Câmara de Direito Privado, AI 0112626-11.2013.8.26.0000, rel. César Peixoto, j. 31.07.2013 ? grifamos).
+A preliminar de carência da ação por ausência de provas não prospera, pois o autor acostou aos autos os extratos de sua conta-corrente, referentes ao período de maio/2008 a julho/2011 (fls. 17/37), pelos quais se constata os encargos questionados na inicial. 
+O instrumento firmado pelas partes não foi juntado aos autos por culpa do Banco, que não o localizou em seus arquivos, conforme informado às fls. 118. No entanto, é possível o julgamento da ação revisional mesmo na hipótese de o contrato não ter sido juntado aos autos, pois o autor formulou pedido de exibição pelo réu do referido instrumento.
+Conforme decide o Superior Tribunal de Justiça, ?numa perspectiva dinâmica do processo, é possível ao juiz admitir a propositura da ação principal sem esses documentos, se formulado pedido incidental para sua exibição. (...) Se o documento não puder ser exibido, por sua inexistência ou extravio, competirá ao juiz decidir por: (i) impor ao autor o ônus da prova quanto à sua existência; (ii) aplicar a inversão determinada no art. 6º, VIII, do CDC, se entender aplicável; (iii) distribuir, ainda que não se aplique o CDC, de forma dinâmica o ônus da prova, com base no risco, assumido pelo réu,  pela impossibilidade de apresentação do documento.? (3ª Turma, REsp 896.435, rel. Nancy Andrighi, j. 27.10.20009 ? grifamos).
+Rejeito, também, a preliminar de impossibilidade jurídica do pedido, pois o ordenamento jurídico em vigor permite a propositura de ações para o fim de rever cláusulas abusivas inseridas em contratos firmados entre fornecedores e consumidores, principalmente quando a obrigação se torna excessivamente onerosa para uma das partes, por força do CDC, artigo 6º, V. Nesse sentido, preleciona a doutrina que ?em relação à proteção contratual do consumidor, o magistrado tanto pode invalidar a cláusula abusiva como realizar a modificação do seu conteúdo.? (BENJAMIN, Antônio Herman et. al., Manual de Direito do Consumidor, São Paulo : RT, 2012, pág. 357 ? grifamos).
+Quanto ao mérito, a instituição financeira cumpriu as suas obrigações decorrentes da relação creditícia, mediante a disponibilização do crédito contratado, motivo pelo qual o autor não pode se furtar ao cumprimento das cláusulas livremente acordadas, a pretexto de serem abusivas. 
+Ressalte-se que o contrato deve ser cumprido da forma como pactuado pelas partes, em respeito ao princípio do pacta sunt servanda, eis que inexistente qualquer vício da vontade. 
+O percentual dos juros remuneratórios, fixado em 8,38% ao mês, como se observa dos extratos acostados às fls. 17/37, não é ilegal, pois a limitação prevista no Dec. Lei nº 22.626/33 não se aplica às instituições financeiras, por força da Súmula 596, STF que prevê: ?As disposições do decreto 22.626/1933 não se aplicam às taxas de juros e aos outros encargos cobrados nas operações realizadas por instituições públicas ou privadas, que integram o sistema financeiro nacional?.
+Além disso, o artigo 192, §3º, CF, que previa a necessidade de lei complementar a fim de regular a limitação da taxa de juros em 12% ao ano, foi expressamente revogado pela EC 40/03. Por tal razão, o Supremo Tribunal Federal editou a Súmula Vinculante 7, que dispõe: ?A norma do §3º do artigo 192 da Constituição, revogada pela Emenda Constitucional nº 40/2003, que limitava a taxa de juros reais a 12% ao ano, tinha sua aplicação condicionada à edição de lei complementar?.
+Portanto, rejeito a alegação de abusividade do percentual dos juros.
+No que diz respeito à alegada prática de anatocismo pelo réu, a Súmula 121, STF estabelece que ?é vedada a capitalização dos juros, ainda que expressamente convencionada?.
+Porém, no caso presente não ocorre anatocismo, porque em contratos de crédito rotativo em conta corrente ou cheque especial ou de limite em conta corrente, a cobrança dos juros é mensal e o inadimplemento gera juros vencidos, cujo valor passa a integrar o saldo devedor quando não pago, sabido ainda que capitalização dá-se somente com juros vincendos.
+Sobre o tema, o Egrégio Tribunal de Justiça de São Paulo firmou entendimento de que ?no supracitado contrato não há sobreposição dos juros, mas o refinanciamento mensal do valor devido, isto é, ao final do mês, quando o correntista não quita o débito, celebra novo mútuo para pagá-lo de modo que os juros incidem sobre essa nova dívida?. (18ª Câmara de Direito Privado, Ap. 8548-71.2008.8.26.0000, rel. Carlos Alberto Lopes, j. 19.12.2012 ? grifamos).
+Segundo preleciona Arnaldo Rizzardo, ?a técnica de cálculo da capitalização é a mesma que incide para as cadernetas de poupança. A cada período de juros (normalmente indicado ao mês), existe um efetivo recebimento do produto do juro, ou então, tal produto é agregado ao saldo anterior. Da mesma forma nas captações diversas das cadernetas de poupança. Nos empréstimos, o rendimento mensal também é acrescido do saldo anterior. No mês seguinte, o cálculo envolverá o capital e o acréscimo. A cada período de um mês, o produto do juro adere ao capital anterior e passa a render novos juros, como efetivamente acontece nas remunerações financeiras.? (Contratos de Crédito Bancário, 9ª ed., São Paulo, RT, 2010, pág. 387 ? grifamos).
+Desse modo, rejeito a alegação do autor acerca da ocorrência do anatocismo.
+Quanto à aplicação da ?Tabela Price? para amortização da dívida, não há qualquer referência à utilização de tal método nos extratos de fls. 17/37, de forma que o autor não se desincumbiu do ônus da prova, nos termos do CPC, artigo 333, I. 
+Quanto à tarifa de adiantamentos a depositante refere-se ela aos valores cobrados na hipótese de o cliente exceder o limite de crédito previamente concedido, de modo que o Banco concede um limite adicional temporário para a cobertura do montante que não poderia ser quitado pelo correntista naquele momento. 
+A cobrança da mencionada tarifa estava autorizada no item 4.1, da tabela I, anexa à Circular nº 3.371, de 2007, do BACEN, revogada em 03/2011 pela Circular 3.512, mas permaneceu admitida pela Resolução 3.919, de novembro 2010, do BACEN, razão que rejeito a alegação do autor de ilegalidade da cobrança de tal tarifa.
+Indefiro a tutela antecipada, pois ausentes os requisitos do CPC, artigo 273 que autorizam a medida, de modo que o Banco, na posição de credor, exerce regular direito (CC, artigo 188, I) de comunicar débitos a órgãos de proteção ao crédito em face da autorização do CDC, artigo 42, § 2º.
+
+Ante o exposto, JULGO IMPROCEDENTE a AÇÃO e CONDENO o autor nas custas, despesas processuais, e honorários advocatícios de 15% sobre o valor da causa atualizado do ajuizamento (STJ, Súmula 14).
+Transitando em julgado e decorrendo o prazo de 15 dias para pagamento voluntário da condenação, observe o credor o disposto no CPC, art. 475-J, acrescido pela Lei 11.232, de 22/12/2005; nada sendo requerido em 06 meses arquive-se nos termos do artigo 475-J, § 5º.
+P.R.I.
+São Paulo, 05 de setembro de 2013
+
+
+JOSÉ WAGNER DE OLIVEIRA MELATTO PEIXOTO
+              JUIZ DE DIREITO
+     (assinatura eletrônica)

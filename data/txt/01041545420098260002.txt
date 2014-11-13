@@ -1,0 +1,95 @@
+
+
+SENTENÇA 
+
+Processo nº 0104154-54.2009.8.26.0002
+
+Juiz(a) de Direito: Dr. Cássio Pereira Brisola
+
+Vistos.
+
+BRAZIL MARKET IMPORTADORA, EXPORTADORA, COMÉRCIO LTDA ajuizou ação de rescisão de contrato, cumulada com pedido de indenização por danos material e moral contra  MATRIX INTERNET S/A, alegando, em síntese, ter contratado os serviços da requerida para instalação de equipamento e acesso à internet via rádio, modalidade dedicada, com velocidade de 512 Kbps, devidamente descritos na inicial. Acrescenta que a requerida não cumpriu com sua obrigação contratual, uma vez que a velocidade de conexão à internet era inferior à contratada. Requer a rescisão do contrato com a devolução dos valores pagos, além de indenização pelo dano material, a ser apurado em liquidação por artigos, e dano moral. Juntou documentos.
+
+Regularmente citada, a requerida apresentou contestação, alegando, preliminarmente, ausência da devida representação processual da autora, requerendo a extinção do feito por falta de interesse de agir; no mérito, alega que não houve falha na prestação do serviço, tendo oferecido à autora conexão à internet com velocidade de 512 Kbps, esclarecendo a diferença entre bit (b) e byte (B), bem como inexistir danos material e moral. Juntou documentos.
+
+A requerida apresentou reconvenção, postulando, em síntese, a condenação da autora no pagamento das 1ª e 2 ª mensalidades do contrato, ante o inadimplemento, além do pagamento da multa contratual de 40%, bem como da multa que teve que arcar junto à terceira empresa contratada para dar suporte ao serviço. Juntou documentos.
+
+Houve réplica, com juntada do contrato social da autora, fls. 205/212.
+
+A requerente/reconvinda apresentou contestação à reconvenção, alegando que o inadimplemento decorreu da falha na prestação do serviço (fls.241/249).
+
+O feito foi saneado à fl. 341, com a designação de prova pericial.
+
+As partes apresentaram quesitos e indicaram assistentes técnicos, fls. 345/347 e 349/350.
+
+Laudo pericial juntado às fls. 397/424.
+
+As partes se manifestaram sobre o laudo pericial.
+
+Foi encerrada a instrução com a apresentação de memoriais pelas partes.
+
+É o relatório.
+
+Fundamento e decido.
+
+A ação é parcialmente procedente.
+
+A controvérsia dos autos gira em torno da velocidade de transmissão de dados pela internet contratada entre as partes.
+
+A autora, em réplica, esclareceu que pretendia a velocidade de 512 KBps (kilobytes por segundo), enquanto que a requerida, com base no contrato, defende 512 Kbps (kilobit por segundo).
+
+Inicialmente, afasto a aplicação do Código de Defesa do Consumidor, uma vez que, como diz a própria autora seus negócios são feitos através da rede mundial de computadores, devendo ser reconhecido o serviço de transferência de dados como insumo da sua cadeia produtiva.
+
+Ademais, não restou configurada a situação de vulnerabilidade da autora, ?empresa que atua no segmento de informática e tecnologia?, conforme relata a inicial (fl. 02), não sendo crível desconhecer a diferença de bit e byte.
+
+O contrato firmado entre as partes tem natureza empresarial, afastando-se a aplicação do Código de Defesa do Consumidor.
+
+Nesse sentido a lição do festejado José Geraldo Brito Filomeno, ao definir o consumidor.
+
+?Consumidor seria apenas aquele que adquire o bem para utilizá-lo em proveito próprio, satisfazendo uma necessidade pessoal e não para revenda ou então para acrescentá-lo em sua atividade produtiva?. (in, Código Brasileiro de Defesa do Consumidor, Comentado pelos Autores do Anteprojeto, Editora Forense Universitária, 7ª Edição, 2001, pág 30). 
+
+A jurisprudência já se manifestou no mesmo sentido ao apreciar fato semelhante:
+
+Contrato de financiamento ? Pessoa jurídica ? Financiamento destinado ao incremento das atividades da empresa ? Inexistência de prova da vulnerabilidade e do desequilíbrio contratual ? Relação de consumo não caracterizada ? Inaplicabilidade de legislação consumerista. A pessoa jurídica que tome recursos no mercado financeiro para incrementar atividade econômica não caracteriza destinatário final, que o CDC quer proteger, qual seja  o efetivo destinatário final, ou seja, o destinatário econômico, não mais do serviço bancário, mas do produto ou serviço cujo fomento se deu pelo aporte de recursos tomados junto às instituições financeiras. Tratando-se pessoa jurídica, cabe-lhe o ônus de provar sua vulnerabilidade perante o banco agravado, demonstrando, assim, o desequilíbrio contratual entre as partes, situação que depende da instauração da relação processual, afastando a aplicação, de ofício, das normas do Código de Defesa do Consumidor (TAMG, Ag. In. 0276419-8 ? rel. Juiz Edilson Fernandes ? j. 28.04.1999).
+
+Quanto ao mérito da demanda, a autora não fez prova de que pretendia velocidade de conexão de 512 KBps (Kilobytes por segundo), restando apenas sua alegação em réplica, valendo ressaltar que os documentos por ela juntados (fls. 326/335) não há indicação da velocidade de conexão.
+
+Porém, diante do princípio da boa-fé objetiva, que norteia os contratos (artigo 422 do Código Civil), as partes contratantes devem observar o dever de lealdade, portanto, no caso em tela, seria indispensável que a requerida apurasse qual a velocidade de conexão à internet que a autora necessitava, indicando aquela que mais atendesse à sua demanda, o que não foi feito.
+
+Cumpre ressaltar que a contratação deve ter sido precedida de diversas conversas, inclusive para indicar altura da torre de radio, as obras necessárias para instalá-la, bem como se a região onde a sede da autora está localizada viabilizaria a transmissão do sinal de rádio, proporcionando a correta prestação do serviço e o cumprimento do contrato.
+
+Clovis Couto e Silva ao comentar a boa-fé e interpretação dos contratos ensina que:
+
+?Nesse processo hermenêutico, cuida-se em conferir justa medida à vontade que se interpreta ? pois que o contrato não se constitui de duas volições, ou de uma oferta e uma aceitação, isoladamente, mas da fusão desses dois elementos ? e de evitar-se o subjetivismo e o psicologismo a que esse chegaria sem dificuldade, caso o interesse de ambas as partes não fosse devidamente considerado. Por meio da interpretação da vontade, é possível integrar o conteúdo do negócio jurídico com outros deveres que não emergem diretamente da declaração? (in, A obrigação como processo, Editora FGV, 4ª reimpressão, 2010, pág. 35/36).
+
+Nessa quadra de ideias, forçoso se faz reconhecer a culpa recíproca das partes na contratação, por parte da autora, por não deixar claro qual a velocidade de conexão que pretendia, enquanto que a requerida não verificou qual era a velocidade de conexão à internet que a autora necessitava para desempenhar suas atividades.
+
+Assim sendo, cada uma das partes deve arcar com seus prejuízos, a autora com as despesas assumidas com a instalação do sistema de rádio, bem como dos lucros cessantes que eventualmente experimentou, enquanto que a requerida não deve receber o valor das mensalidades, nem da multa pelo rompimento do contrato.
+
+Quanto ao pedido da autora de indenização por dano moral, o caso em tela traduz mero inadimplemento contratual, inexistindo repercussão na esfera moral, devendo tal pleito ser julgado improcedente.
+
+Outrossim, o pedido da requerida em reconvenção de receber a multa pelo rompimento do contrato firmado com terceira empresa não deve ser acolhido, uma vez que a multa prevista no contrato firmado com a autora visa cobrir as perdas e danos que ela suportará pelo distrato, impondo-se sua improcedência.
+
+Sobre a função da cláusula penal, vale citar a lição do festejado Silvio de Salvo Venosa:
+
+?Assim, as funções destacadas da cláusula penal são estimular o devedor a cumprir a obrigação e prefixar as perdas e danos em razão do inadimplemento parcial ou total? (in, Código Civil Interpretado, Editora Atlas, 2010, pág. 413), destaquei.
+
+Hamid Charaf Bdine Jr. afirma que:
+
+?As funções da cláusula penal são estimular o devedor a cumprir a obrigação e prefixar o valor das perdas e danos decorrentes do inadimplemento ou da mora? (in, Código Civil Comentado, Coordenador Min. Cezar Peluso, Editora Manole, 1ª edição, 2007, pág. 301).
+
+
+Desta feita, ante o reconhecimento de culpa recíproca das partes, não devendo nenhuma delas se beneficiar pelos descuidos e omissões ocorridos na fase pré-contratual, a ação deve ser julgada parcialmente procedente, apenas para se declarar a rescisão do contrato, enquanto que a reconvenção dever ser julgada improcedente, suportando elas os prejuízos da contratação.
+
+Posto isso, julgo PARCIALMENTE PROCEDENTE, com resolução de mérito, a ação movida por BRAZIL MARKET IMPORTADORA, EXPORTADORA, COMÉRCIO LTDA contra MATRIX INTERNET S/A, para declarar rescindido o contrato firmado entre as partes, bem como julgo IMPROCEDENTE, a reconvenção movida por esta contra aquela, extinguindo, ambas, nos termos do artigo 269, I do Código de Processo Civil.
+
+Diante da sucumbência em parte mínima, condeno a requerida no pagamento de honorários advocatícios fixados em 10% do valor atribuído à causa, além das custas processuais.
+
+Por fim, a medida cautela em apenso, deve ser julgada procedente, ante o reconhecimento da culpa recíproca, bem como da inexigibilidade das mensalidades, confirmando-se os efeitos da liminar, extinguindo o processo nos termos do artigo 269, I do Código de Processo Civil.
+
+Como não houve citação da requerida, inexiste condenação em honorários.
+Custas na forma da lei.
+
+P.R.I.C.
+
+De São Roque para São Paulo, 26 de novembro de 2012.

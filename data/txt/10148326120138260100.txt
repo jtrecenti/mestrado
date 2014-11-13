@@ -1,0 +1,76 @@
+
+
+CONCLUSÃO
+
+Em 02 de dezembro de 2013 faço estes autos conclusos ao MM. Juiz de Direito Dr. RODRIGO CÉSAR FERNANDES MARINHO. Eu, _________ (Carla Regina Hanssen), Escr., subscrevi.
+
+SENTENÇA
+
+Processo nº:1014832-61.2013.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Corretagem
+Requerente:GWI Leverage Fundo de Investimento em Ações
+Requerido:Socopa - Sociedade Corretora Paulista S/A
+
+
+
+
+
+
+Vistos.
+
+
+
+GWI LEVERAGE FUNDO DE INVESTIMENTO EM AÇÕES ajuizou a presente ação contra SOCIEDADE CORRETORA PAULISTA S.A., alegando, em resumo, constituir fundo de investimentos que tem por objetivo aplicar recursos em carteiras de ações e nos mercados derivativos, operando, em caráter complementar, em mercados de renda fixa. Aduz que em 12 de junho de 1999, firmou com a ré um contrato para a realização de operações nos Mercados administrados pela Bolsa de Valores e/ou Entidade do Mercado de Balcão Organizado. Salienta que o referido contrato tinha por finalidade regular a intermediação de operações do autor na bolsa, que envolviam a venda a vista de ações MARFRIG; a compra de uma opção de compra (call) e a venda de uma opção de venda (put), que consistiam na compra da ação a termo, com pagamento no futuro de um preço fixo de exercício pelo Fundo autor. Narra que no mês de agosto de 2011, o índice Ibovespa sofreu forte queda e que, em decorrência da perda de valor das ações MAFRIG, a CBLC solicitou ao autor a complementação das garantias, o que não foi possível atender. Salienta que diante de tal situação, a ré passou a vender no mercado a vista, a partir de 8 de agosto de 2011, todas as ações MARFRIG de titularidade  do autor, bem  como realizou a liquidação das posições por reversão, o que agravou de forma significativa o seu prejuízo. Sustenta que houve infração aos deveres de diligência e lealdade, especialmente pela ausência de adoção de procedimentos que pudessem neutralizar o impacto, tais como o leilão e sistema de algoritmos. Defende a aplicação da teoria da perda da chance, bem como a existência de nexo causal entre a conduta lesiva da ré e o dano sofrido.
+
+Por tais razões, requer a procedência do pedido para que seja declarada a atuação da ré em desconformidade com seus deveres legais e regulamentares, condenando-a ao pagamento do dano sofrido, a ser apurado em liquidação de sentença. A petição inicial veio instruída com documentos (fls. 24/114).
+
+Citada, a ré ofertou contestação (fls. 133/157), alegando basicamente que o autor deixou de depositar os recursos necessários às chamadas de margem e/ou liquidação de operações da Bolsa, o que obrigou a requerida, conforme autorizado na cláusula 4.8 do contrato de intermediação, a liquidar antecipadamente operações pendentes e alienar valores mobiliários dados em garantia das posições a descoberto. Sustenta a regularidade de sua conduta, bem como a ausência de boa-fé do autor. Requer a improcedência da pretensão. A contestação veio acompanhada de documentos (fls. 158/348).
+
+Houve réplica (fls. 354/367).
+
+É o relatório.
+Fundamento e Decido.
+
+A matéria debatida nos autos é de direito e de fato documentalmente comprovável, autorizando o julgamento antecipado da lide, nos termos do artigo 330, inciso I, do Código de Processo Civil.
+
+O pedido é improcedente.
+
+Considerando os termos da inicial e da contestação e a prova documental produzida, conclui-se que a ré não violou qualquer obrigação legal, contratual ou regulamentar e, por corolário, não praticou ato ilícito.
+
+Com efeito, a sociedade corretora realiza, dentre outras atividades, a intermediação de oferta pública e a distribuição de títulos e valores mobiliários no mercado e a administração de carteiras e custódia de títulos e valores mobiliários (artigo 2º da Resolução n° 1.655/89, do BACEN).
+
+No caso em análise, o contrato firmado entre as partes para ?Realização de Operações nos Mercados Administrados por Bolsa de Valores e/ou por Entidade do Mercado de Balcão Organizado?, estabelece expressamente, em sua na cláusula 4.1, a obrigação do Fundo de efetuar o depósito das garantias junto à Corretora, de acordo com os regulamentos e procedimentos operacionais da CBLC.
+
+O autor reconhece na petição inicial que a CBLC exigiu a complementação das garantias em decorrência da perda de valor das ações da MARFRIG, exigência esta que o requerente não conseguiu atender. 
+
+Diante de tal situação, não sendo realizado o depósito de recursos necessários às chamadas de margem, não havia outra alternativa à requerida que não fosse a liquidação antecipada das operações pendentes e a alienação de valores mobiliários dados em garantia das posições assumidas.
+
+Assim é porque a Sociedade Corretora é responsável, nas operações realizadas em bolsas de valores, pela liquidação das obrigações não satisfeitas por seus comitentes, nos termos do artigo 11 , I, da Resolução nº 1.655/89.
+
+Conforme se pode observar, não se verifica nas operações realizadas a ausência de diligência ou lealdade da ré, mas sim negligência do Fundo autor, que confessamente deixou de cobrir as despesas de suas operações e chamadas de margem.
+
+Ora, sendo necessária a liquidação do ativo, não se pode exigir da corretora nada mais do que a obtenção do preço adequado às circunstâncias do mercado. E o autor não apresentou qualquer prova documental de que as ações tenham sido alienadas a preços inferiores às cotações da época, especialmente as ações MARFRIG.
+
+A situação existente autorizava, portanto, a liquidação imediata dos ativos, ao passo que a necessidade de sua realização impedia a adoção dos procedimentos indicados pelo autor com o objetivo de reduzir o seu prejuízo, especialmente a utilização de algoritmos.
+
+Enfim, a hipótese narrada nos autos não permite afirmar que a ré agiu com culpa, ou seja, que a requerida, por ação ou omissão, tenha causado prejuízos ao autor. A corroborar tal assertiva está o fato de que foi o autor quem violou o princípio da boa-fé objetiva ao assumir a obrigação de prestar as garantias necessárias e deixar de fazê-lo quando instado a tanto.
+
+É fato notório e independente de prova que o investimento em bolsa de valores é negócio de alto risco, sujeito a inúmeras variáveis e fortemente afetado por crises econômicas ou políticas muitas vezes inesperadas. 
+
+Além disso, o risco assumido pelo Fundo autor é acentuado, na medida em que, conforme se depreende de seu regulamento, é destinado a investidores que entendem os riscos envolvidos nas operações com alavancagem; existindo possibilidade de participação em operações nos mercados derivativos e de liquidação futura de até duas vezes o seu patrimônio líquido e significativa concentração em poucos emissores (artigos 8º, §3º e 11).
+
+Destarte, diante de todos os riscos assumidos pelo Fundo, inviável imputar-se qualquer responsabilidade à ré com base na aplicação da teoria da perda de uma chance.
+
+Ante o exposto, JULGO IMPROCEDENTE o pedido da presente ação ajuizada por GWI LEVERAGE FUNDO DE INVESTIMENTO EM AÇÕES contra SOCIEDADE CORRETORA PAULISTA S.A., com fundamento no artigo 269, I, do Código de Processo Civil.
+
+Pelo princípio da causalidade, condeno o autor ao pagamento das custas e despesas processuais, além dos honorários advocatícios do patrono da ré, que ora arbitro, com fulcro no artigo 20, parágrafo 4.º, do Código de Processo Civil, em R$ 1.500,00.
+
+P.R.I.
+
+São Paulo, 02 de dezembro de 2013.
+
+
+RODRIGO CÉSAR FERNANDES MARINHO
+Juiz de Direito
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

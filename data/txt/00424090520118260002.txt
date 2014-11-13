@@ -1,0 +1,252 @@
+
+
+SENTENÇA
+
+Processo nº:0042409-05.2011.8.26.0002
+Classe - AssuntoProcedimento Ordinário - Fornecimento de Energia Elétrica
+Requerente:Ana Paula Silva de Farias
+Requerido:ELETROPAULO METROPOLITANA ELETRICIDADE DE SAO PAULO S/A
+
+
+Juiz(a) de Direito: Dr(a). Alexandre David Malfatti
+
+
+Vistos.
+
+Constou da petição inicial, em resumo, que a autora era usuária (consumidora) do serviço público de fornecimento de energia elétrica para sua residência e se encontrava em dia com o pagamento das contas de luz até janeiro de 2011. Porém, no final do mês de março de 2011, pelo fato de haver recebido duas contas de energia elétrica (consumos dos meses de janeiro e fevereiro de 2011), a autora ligou para a ré, sendo orientada a formular um pedido de visita ? a ausência de remessa das contas possivelmente estava ligada a problemas no relógio medidor. O pedido efetivou-se pelo protocolo nº 305659510. A visita técnica ocorreu e o relógio medidor foi retirado da sua casa, havendo desligamento da energia elétrica. Posteriormente, conseguiu obter informações pela Internet de que não havia débito em aberto, o que tornava o corte de energia ainda mais irregular. Além disso, seu nome foi incluído no banco de dados de proteção ao crédito. Ao final, invocando o Código de Defesa do Consumidor, a autora deduziu os seguintes pedidos: a) declarada a inexistência de irregularidades no consumo de energia elétrica pela autora, b) indenização por danos morais, c) imposição de obrigação de retomada do serviço de fornecimento de energia elétrica e d) exclusão do nome da autora dos bancos de dados de proteção ao crédito. 
+
+
+A ré ofertou contestação (fls. 62/86). Em apertado resumo, a empresa ré combateu o pedido inicial e sublinhou que não havia ordem de serviço cadastrada em março de 2011 ? para verificação ou troca do medidor. Houve suspensão do fornecimento de energia elétrica em 07.5.2010 decorrente do não pagamento da conta de abril de 2010.  Não houve pedido de religação, subsistindo aquela suspensão. Como a autora continuou a consumir a energia elétrica, ficou caracterizada a "autorreligação", além do que ficou ela a dever duas contas (janeiro e fevereiro de 2011). Em 14.4.2011, novamente foi suspenso o fornecimento de energia elétrica. No mais, a ré impugnou os pedidos de retomada do serviço e de indenização. 
+
+
+Houve réplica.
+
+É O RELATÓRIO.
+
+FUNDAMENTO E DECIDO. 
+
+
+O processo comporta imediato julgamento, dispensando-se a produção de outras provas, nos termos do artigo 330, inciso I do Código de Processo Civil. 
+
+
+A lide cinge-se à validade da dívida cobrada pela ré e da suspensão do fornecimento de energia à residência da autora. 
+
+
+Entendo que o procedimento adotado pela ré foi ilegal. 
+
+
+Primeiro, ainda que houvesse débito em abril de 2010 (ver fls. 64 ? contestação), caberia a ela (ré) notificar a autora sobre a adoção daquela medida extrema de corte do fornecimento de energia elétrica.
+
+
+Isto é, admitida a versão trazida pela ré em sua contestação, ficou evidente que o corte de energia elétrica deveria respeitar o disposto no artigo 91 da Resolução nº  456/2000 da ANEEL. 
+
+"Art. 91. A concessionária poderá suspender o fornecimento, após prévia comunicação formal ao consumidor, nas seguintes situações:
+
+I - atraso no pagamento da fatura relativa a prestação do serviço público de energia elétrica;
+
+?§ 1º A comunicação deverá ser por escrito, específica e com entrega comprovada de forma individual ou impressa em destaque na própria fatura, observados os prazos mínimos de antecedência a seguir fixados.?
+
+"a) 15 (quinze) dias para os casos previstos nos incisos I, II, III, IV e V;"
+
+(negrito nosso). 
+
+
+Observo que, no mesmo sentido, foi editada a Resolução nº 414/2010 da ANEEL, destacando-se os artigos 172 e 173:
+
+" Art. 172. A suspensão por inadimplemento, precedida da notificação prevista no art. 173, ocorre pelo:
+
+"I ? não pagamento da fatura relativa à prestação do serviço público de distribuição de energia elétrica;
+
+"II ? não pagamento de serviços cobráveis, previstos no art. 102;
+
+"III ? descumprimento das obrigações constantes do art. 127; ou
+
+?IV ? inadimplemento que determine o desligamento do consumidor livre ou especial da Câmara de Comercialização de Energia Elétrica ? CCEE, conforme regulamentação específica.
+
+"V - não pagamento de prejuízos causados nas instalações da distribuidora, cuja responsabilidade tenha sido imputada ao consumidor, desde que vinculados à prestação do serviço público de energia elétrica;?
+
+"§ 1o Na hipótese dos incisos I a IV, a apresentação da quitação do débito à equipe responsável, no momento precedente à suspensão do fornecimento, obsta sua efetivação, ainda que se trate de quitação intempestiva, ressalvada, nesta hipótese, a cobrança do consumidor pelo serviço correspondente à visita técnica.
+
+"§ 2o É vedada a suspensão do fornecimento após o decurso do prazo de 90 (noventa) dias, contado da data da fatura vencida e não paga, salvo comprovado impedimento da sua execução por determinação judicial ou outro motivo justificável, ficando suspensa a contagem pelo período do impedimento. 
+
+"§ 3o Para as unidades consumidoras classificadas nas Subclasses Residencial Baixa Renda deve ocorrer com intervalo mínimo de 30 (trinta) dias entre a data de vencimento da fatura e a data da suspensão do fornecimento.
+
+?§ 4o A distribuidora deve emitir nova notificação de que trata a alínea ?b? inciso I do art. 173, caso não efetue a suspensão do fornecimento no prazo máximo de 10 (dez) dias úteis, observado o disposto no § 2o.?
+
+"§ 5o A distribuidora deve adotar o horário comercial para a execução da suspensão do fornecimento da unidade consumidora.
+
+"Art. 173. Para a notificação de suspensão do fornecimento à unidade consumidora, prevista na seção III deste Capítulo, a distribuidora deve observar as seguintes condições:
+
+"I ? a notificação seja escrita, específica e com entrega comprovada ou, alternativamente, impressa em destaque na própria fatura, com antecedência mínima de:
+
+"a) 3 (três) dias, por razões de ordem técnica ou de segurança; ou
+
+"b) 15 (quinze) dias, nos casos de inadimplemento."
+
+
+A finalidade da comunicação prévia era viabilizar a purgação de mora do consumidor. Reconhecido o caráter essencial do serviço de fornecimento de energia elétrica, não poderia ocorrer a suspensão sem aquela prévia comunicação. 
+
+
+E reconhecida a ilegalidade desta primeira interrupção, mesmo que ocorresse por parte da consumidora a iniciativa de "autorreligação" da energia, seria ela legítima. Em outros termos, admite-se como legal a conduta da ré para neutralização do efeito da ilegalidade perpetrada pela ELETROPAULO.
+
+
+E segundo, ainda que houvesse uma "autorreligação" promovida pela autora, caberia a ela (ré) fazer um Termo de Ocorrência de Irregularidade (TOI) com a faculdade de realização de uma parecer técnico.
+
+Ou seja, também admitida a versão trazida pela ré na sua defesa, ficou evidente que o "novo" corte de energia em maio de 2011 igualmente violou disposição do artigo 129 da Resolução nº  414, de 09 de setembro de 2010 da ANEEL (mais aperfeiçoada que os artigos 72 e 90 da primitiva resolução 456/2000 da ANEEL), destacando-se:
+
+
+"Art. 129. Na ocorrência de indício de procedimento irregular, a distribuidora deve adotar as providências necessárias para sua fiel caracterização e apuração do consumo não faturado ou faturado a menor.
+
+"§ 1o A distribuidora deve compor conjunto de evidências para a caracterização de eventual irregularidade por meio dos seguintes procedimentos:
+
+"I ? emitir o Termo de Ocorrência e Inspeção ? TOI, em formulário próprio, elaborado conforme Anexo V desta Resolução;
+
+"II ? solicitar perícia técnica, a seu critério, ou quando requerida pelo consumidor ou por seu representante legal;
+
+"III ? elaborar relatório de avaliação técnica, quando constatada a violação do medidor ou demais equipamentos de medição;
+
+"IV ? efetuar a avaliação do histórico de consumo e grandezas elétricas; e 
+
+"V ? implementar, quando julgar necessário, os seguintes procedimentos:
+
+"a) medição fiscalizadora, com registros de fornecimento em memória de massa de, no mínimo, 15 (quinze) dias consecutivos; e
+
+"b) recursos visuais, tais como fotografias e vídeos. 
+
+"§ 2o Uma cópia do TOI deve ser entregue ao consumidor ou àquele que acompanhar a inspeção, no ato da sua emissão, mediante recibo.
+
+"§ 3o Quando da recusa do consumidor em receber a cópia do TOI, esta deve ser enviada  em até 15 (quinze) dias por qualquer modalidade que permita a comprovação do recebimento.
+
+"§ 4o O consumidor tem 15 (quinze) dias, a partir do recebimento do TOI, para informar à distribuidora a opção pela perícia técnica no medidor e demais equipamentos, quando for o caso, desde que não se tenha manifestado expressamente no ato de sua emissão.
+
+"§ 5o Nos casos em que houver a necessidade de retirada do medidor ou demais equipamentos de medição, a distribuidora deve acondicioná-los em invólucro específico, a ser lacrado no ato da retirada, mediante entrega de comprovante desse procedimento ao consumidor ou  àquele que acompanhar a inspeção, e encaminhá-los por meio de transporte adequado para realização da avaliação técnica.
+
+"§ 6o O relatório de avaliação técnica dos equipamentos de medição pode ser elaborado pelo laboratório da distribuidora ou de terceiro, desde que certificados como posto de ensaio autorizado pelo órgão metrológico ou entidade por ele delegada, preservado o direito de o consumidor requerer a perícia técnica de que trata o inciso II do § 1o.
+
+"§ 7o Na hipótese do § 6o, a distribuidora deve comunicar ao consumidor, por escrito, mediante comprovação, com pelo menos 10 (dez) dias de antecedência, o local, data e hora da realização da avaliação técnica, para que ele possa, caso deseje, acompanhá-la pessoalmente ou por meio de representante nomeado. 
+
+"§ 8o O consumidor pode solicitar, antes da data previamente informada pela distribuidora, uma única vez, novo agendamento para realização da avaliação técnica do equipamento.
+
+"§ 9o Caso o consumidor não compareça à data previamente informada, faculta-se à distribuidora seguir cronograma próprio para realização da avaliação técnica do equipamento, desde que observado o disposto no § 7o.
+
+"§ 10. Comprovada a irregularidade nos equipamentos de medição, o consumidor será responsável pelos custos de frete e da perícia técnica, caso tenha optado por ela, devendo a distribuidora informá-lo previamente destes custos, vedada a cobrança de demais custos."
+
+
+
+Entendo, por isso, que a falta de um Termo de Ocorrência de Irregularidade (TOI)  regularmente lavrado tornou ilegal também esta segunda interrupção do fornecimento de energia elétrica. 
+
+
+A ré não permitiu à autora que se explicasse sobre a suposta religação. Não analisou todas as circunstâncias ? inclusive a fragilidade da acusação de falta de pagamento das faturas de 2010.
+
+
+A propósito, confira-se precedente do E. Tribunal de Justiça, Apelação nº  918021- 0/5, 34ª Câmara de Direito Privado, relator o Desembargador  NESTOR DUARTE, julgado em 03.10.2007, que analisou situação semelhante em que, embora lavrado o TOI, concluiu pela conduta insuficiente e ilegal da ELETROPAULO, destacando-se:
+
+"Acha-se, portanto, a apelante sujeita às normas expedidas pela agência reguladora (ANEEL), que editou a Resolução n" 456, de 19/11/2000, autorizando a suspensão do fornecimento de energia elétrica, quando verificadas irregularidades que especifica, "in verbis":
+
+"Art. 90. A concessionária poderá suspender o
+fornecimento, de imediato, quando verificar a ocorrência de qualquer das seguintes situações:
+
+"I - utilização de procedimentos irregulares referidos no art. 72."
+
+"A leitura isolada dessa regra leva ao entendimento de que a suspensão prescinde de qualquer formalidade, contudo, as normas legais, como as regulamentares, devem ser interpretadas umas pelas outras, não se presumindo contradições. Disto vai que a regra do artigo 90, I, não elimina as providências estatuídas no artigo 72 a que, aliás, expressamente se reporta, a saber:"
+
+(negrito nosso). 
+
+
+Ademais, observo que não pode haver corte no fornecimento de energia. Tenho defendido, com insistência, que o fornecimento de energia elétrica configura serviço essencial e sujeito à continuidade, na forma do artigo 22 da Lei n. 8.078/90. Entendo que às pessoas físicas deve ser garantido, como forma de preservação da dignidade humana (art. 1º. III da CF) da vida e da saúde (art. 5º. da CF), o fornecimento daquele serviço independente de pagamento, reservando à concessionária a possibilidade de cobrança pelas vias ordinárias ao alcance de qualquer credor. Não se compreende como uma sociedade que ambiciona ser justa e solidária com redução das desigualdades pode conviver com a privação para famílias ? mormente as mais humildes que não pagam porque não podem e não porque não querem ? de serviços como água e energia. 
+
+
+Trata-se de uma questão decidida não somente à luz da legislação federal (artigo 22 do CDC), mas principalmente por argumentos de ordem constitucional, a partir diretamente de direitos fundamentais: vida e saúde! Nesta linha, com as vênias devidas, não consigo me curvar a entendimento formado pelo Superior Tribunal de Justiça, até porque inexistente sobre o tema qualquer súmula vinculante. Naquele prestigiado tribunal são conhecidas as posições pessoais dos ilustres Ministros FRANCISCO PEÇANHA MARTINS e LUIZ FUX sobre a ilegalidade dos cortes de energia para as pessoas físicas ? principalmente em situação de miserabilidade. No E. Tribunal de Justiça de São Paulo, confira-se o seguinte precedente: Apelação nº 1125668-0/3, 36º Câmara de Direito Privado, relator o Desembargador ROMEU RICÚPERO, julgado em 08.11.2007.  Espera-se que o assunto seja revisto, ou naquele sodalício ou no próprio Supremo Tribunal Federal.
+
+
+Concluindo-se, entendo que deve ser declarada ilegal a conduta da ré consistente na interrupção do fornecimento de energia elétrica. Fica acolhido o pedido de imposição de obrigação de fazer consistente no restabelecimento do serviço de energia elétrica, no prazo de 48 horas, contados da publicação da presente sentença, sob pena de multa diária equivalente a R$ 1.000,00 (mil reais). É concedida a TUTELA ANTECIPADA no corpo da sentença. 
+
+
+Também acolho a pretensão de indenização dos danos morais. 
+
+Oportuno o magistério de José de Aguiar Dias sobre o dano moral (in ?Da Responsabilidade Civil?, Forense, Tomo II, 4a. ed., 1960, pág. 775):
+
+"Ora, o dano moral é o efeito não patrimonial da lesão do direito e não a própria lesão, abstratamente considerada. O conceito de dano é único, e corresponde a lesão de direito. Os efeitos da injúria podem ser patrimoniais ou não, e acarretam, assim, a divisão dos danos em patrimoniais e não patrimoniais. Os efeitos não patrimoniais da injúria constituem os danos não materiais."
+
+No mesmo sentindo, sobressai a lição do professor Carlos Alberto Bittar (in ?Reparação Civil por Danos Morais?, RT, 1993, págs. 41 e 202) sobre a extensão jurídica dos danos morais:
+
+"Qualificam-se como morais os danos em razão da esfera da subjetividade, ou do plano valorativo da pessoa na sociedade, em que repercute o fato violador, havendo-se, portanto, como tais aqueles que atingem os aspectos mais íntimos da personalidade humana (o da intimidade e da consideração pessoal), ou o da própria valoração da pessoa no meio em que vive e atua (o da reputação ou da consideração social).
+
+"...
+
+?Na concepção moderna da teoria da reparação de danos morais prevalece, de início, a orientação de que a responsabilidade do agente se opera por força do simples fato da violação. Com isso, verificado o evento danoso, surge, ipso facto, a necessidade da reparação, uma vez presentes os pressupostos de direito. Dessa ponderação, emergem duas conseqüências práticas de extraordinária repercussão em favor do lesado: uma, é a dispensa de análise da subjetividade do agente; outra, a desnecessidade de prova do prejuízo em concreto.? (negrito nosso).
+
+
+As lições dos ilustres juristas servem de ponderação no caso presente. Em alguns acontecimentos, provado o fato danoso, surge como conclusão inafastável e independente de outras provas a obrigação de reparação dos danos morais. É o que ocorre, por exemplo, com a perda de um ente querido. 
+
+Do mesmo modo, entendo que se pode  concluir que, uma vez provada a violação de direitos do consumidor, surgirá em seu benefício,  ipso facto, o reconhecimento da indenização dos danos morais independente da análise subjetiva do sentimento do ofendido ou da produção de outras provas. Ademais, numa sociedade de massa em que se privilegia o consumo e o crédito ao consumidor, torna-se fato notório a importância dada à existência de eventos danosos aos consumidor. 
+
+
+Preocupa-me a tese esposada por alguns intérpretes do Direito, diferenciando o dano moral dos transtornos causados pelo cotidiano, que não seriam indenizáveis. A Constituição Federal concebeu a indenização dos danos morais sem qualquer restrição, não cabendo ao Estado (legislador ordinário ou juiz) diminuir o alcance de tão importante direito fundamental. 
+
+
+Por isso, como regra ampla e geral, onde existir o desconforto, o transtorno, o incômodo, etc. haverá lugar para a indenização por dano moral. Logicamente, como exceção, os abusos (a patologia) deverão ser extirpados e combatidos, sem preconceitos e sem a preocupação com uma ?indústria do dano moral?, pensamento, ?data venia?, sem qualquer fundamento jurídico. 
+
+
+Sobre esta parte, colhe-se a magnífica manifestação do Min. FRANCISCO REZEK (participando do julgamento do recurso extraordinário já citado, RT 740/205), que vê na tímida atuação do foro cível - ao lado do foro criminal - uma das causas da sensação de impunidade do país: 
+
+
+?Volto agora ao que nos interessa: receio que seja também ideológica a leniência do foro cível - que responde, tanto quanto o foro criminal, pela imagem do ?país da impunidade? - no domínio das relações do cidadão, visto na sua qualidade de consumidor, com todas as forças estabelecidas no plano econômico: o comerciante, o industrial, o prestador de serviços, o banqueiro, o próprio Estado-empresário. A tendência do Poder Público diante dos reclamos do consumidor sempre foi - neste país mais do que nos outros - a de reagir com surpresa. O que é isso ? Que história é esta ? Não é caso de indenização; não é caso da pessoa sentir-se tão lesada; não é caso de pedir em juízo reparação alguma. Parece-me que essa forma de leniência no foro cível deveria finalmente, à luz da CF/88, encontrar seu paradeiro, produzindo uma situação nova, condizente com os termos da Carta.? 
+
+(negrito nosso).
+
+
+Na verdade, o que se depreende dos autos é a falta de controle da ré sobre o procedimento de cumprimento da obrigação contratual e de aplicação das normas da ANEEL. Um completo e absurdo descaso!
+
+
+A função da indenização oriunda do dano moral tem dividido as opiniões dos autores. Clayton Reis (in ?Dano Moral?, Forense, 2a. ed., 1.992, págs. 78/82) afirma que ?todos os doutrinadores são uniformes em defender a tese de que a função da reparação de danos morais é meramente compensatória?, porém também diz que ?a compensação da vítima tem um sentido punitivo para o lesionador, que encara a pena pecuniária como uma diminuição do seu patrimônio material em decorrência do seu ato lesivo?. Augusto Zenun (in ?Dano Moral?, Forense, 6a. ed., 1.997., págs. 109/139) reserva à reparação dos danos morais a finalidade compensatória pelos ?derivativos?, sugerindo ?o arbitramento de derivativos suficientes e capazes de minorar a dor, ou por melhor explicar, as seqüelas que a dor moral causa (sentimentos, depressão, desvios da normalidade de vida, alheiamento parcial ou total)?. Pela tese do mencionada autora, os derivativos serviriam para compensar e consolar o ofendido.  O professor Caio Mário da Silva Pereira (in ?Responsabilidade Civil?, Forense, 3a. ed., 1.992, págs.  56/62) mostra-se amplamente favorável à indenização por dano moral,  sublinhando que ?a par do caráter punitivo imposto ao agente, tem de assumir sentido compensatório?.
+
+
+Na jurisprudência, colhe-se o brilhante voto do Desembargador Walter Moraes (RT 650/63) que destaca a finalidade compensatória da reparação do dano moral, negando sua função punitiva mas admitindo que deva ter o condão de inibir o ofensor:
+
+"O dano moral não se avalia mediante cálculo matemático-econômico das repercussões patrimoniais negativas da violação - como se tem feito às vezes - porque tal cálculo já seria a busca exatamente do minus ou do detrimento patrimonial, ainda que aproximativa estimação. E tudo isso já esta previsto na esfera obrigacional da indenização por dano propriamente dito (CC, art. 1553). A reparação pecuniáriapelo dano moral, descartada já a impossibilidade da eqüiponderância de valores, tem outro sentido, como anota Windscheid acatando opinião de Wichter: compensar a sensação de dor da vítima com uma sensação agradável em contrário (nota 31 ao parágrafo 455 das Pandette, trad. Fadda e Bensa). Assim, tal paga em dinheiro deve representar para a vítima uma satisfação, igualmente moral, ou, que seja, psicológica, capaz de neutralizar ou anestesiar em alguma parte o sofrimento impingido; como diz Roberto Brebbia (El Daño Moral, p. 28), "uma soma de dinheiro ao danificado para que este possa proporcionar-se uma satisfação equivalente ao desassossego sofrido", pois "o dano moral (diz noutro ponto) compreende a estimação dos padecimentos, o temor das conseqüências definitivas ou transitórias do dano emergente" (p. 154). A eficáciada contrapartida pecuniárianão esta na aptidão para proporcionar a satisfação em justa medida, de modo que tão pouco signifique um enriquecimento sem causa da vítima, mas esta em produzir no causador do mal, impacto bastante para dissuadi-lo de igual ou novo atentado. Trata-se, então, de uma estimação prudência, que não dispensa sensibilidade para as coisas da dor e da alegria, para os estados d'alma humana, e que deve ser feita pelo mesmo juiz ou, quando muito, por outro jurista; inútil sempre por em ação a calculadora do economista ou do técnico em contas. É nesse sentido que o citado Brebbia, na sua excelente monografia sobre o dano moral, assinala alguns elementos que se devem levar em conta na fixação do reparo: a gravidade objetiva do dano, a personalidade da vítima (situação familiar e social, reputação), a gravidade da falta  (conquanto não se trate de pena, a culpa da ação implica na gravidade da lesão), a personalidade (as condições) da autora do ilícito (p. 119)". (negrito nosso).
+
+
+
+Concluindo,  também entendo que a finalidade principal da reparação centra-se na compensação destinada à vítima, como forma de aliviar (se não for possível eliminar) a lesão experimentada. Todavia, em determinados casos, também a função inibitória (uma idéia aproximada à da sanção civil) assume relevante papel, a fim de que o ofensor seja punido de tal forma a não praticar atos similares. 
+
+
+Nas ofensas cometidas contra os consumidores, a função inibitória assume destacada importância, sendo imprescindível que a indenização possa persuadir - desestimular - o fornecedor (ofensor); afinal, para grandes empresas uma condenação em valores ínfimos poderá representar um risco assumido na adoção de posturas ilegais contra os consumidores (todos sabem que nem todos os ofendidos ingressam em Juízo na defesa dos seus direitos e interesses).
+
+
+Por fim acolhe-se o pedido de indenização por danos morais.  Tem-se que o corte do fornecimento traduz atitude ilegal e condenável praticada pela ré. A autora ficou mais de um ano sem energia elétrica. Entendo razoável a fixação da indenização em R$ 20.000,00 (vinte mil reais). O valor será acrescido de juros de mora de 1% ao mês (capitalizados anualmente, a partir da citação) e de correção monetária (calculada pelos índices adotados pelo TJSP, a partir da presente data). 
+
+
+DISPOSITIVO. 
+
+
+Ante o exposto, JULGO  PROCEDENTE os pedidos formulados por ANA PAULA SILVA DE FARIAS contra a ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO, nos seguintes termos:
+a)declarar ilegal a conduta da ré consistente na interrupção do fornecimento de energia elétrica. 
+b)Declaro ainda inexigível o valor de R$ 179,68, excluindo-se a anotação nos bancos de dados de proteção ao crédito (SERASA e SPC). FICA CONCEDIDA A TUTELA ANTECIPADA, na sentença. Expeçam-se ofícios, imediatamente. 
+c)Fica acolhido o pedido de imposição de obrigação de fazer consistente no restabelecimento do serviço de energia elétrica, no prazo de 48 horas, contados da publicação da presente sentença, sob pena de multa diária equivalente a R$ 1.000,00 (mil reais). É concedida a TUTELA ANTECIPADA no corpo da sentença. 
+d)condenar a ré ao pagamento de indenização por danos morais no valor de R$ 20.000,00 (vinte mil reais). O valor será acrescido de juros de mora de 1% ao mês (capitalizados anualmente, a partir da citação) e de correção monetária (calculada pelos índices adotados pelo TJSP, a partir da presente data). 
+
+
+Considerando-se a sucumbência, o réu ainda arcará com o pagamento das custas judiciais, despesas processuais e dos honorários advocatícios, estes fixados, para a fase de conhecimento, em 10% (dez por cento) do valor integral do débito (indenização por danos morais com juros e correção). Se não houver cumprimento voluntário da sentença, na fase de execução os honorários serão elevados para 20% (vinte por cento) ? para abranger as duas fases, numa única incidência.
+
+
+Fica a parte ré intimada a cumprir a obrigação de pagamento, no prazo de 15 (quinze) dias, contados da data em que a condenação se tornar exigível, em primeiro ou segundo grau, sob pena de incidência da multa processual de 10% (dez por cento), na forma do artigo 475-J do Código de Processo Civil. O prazo não abrange as obrigações de fazer alcançadas pela tutela antecipada concedida na sentença ? cujos efeitos serão imediatos.
+
+A base de cálculo da taxa judiciária na fase recursal: R$ 32.700,00 ? sem acréscimos. 
+
+
+P.R.I.
+
+São Paulo, 02 de outubro de 2011.
+
+ALEXANDRE DAVID MALFATTI
+             Juiz de Direito
+           (assinatura digital)
+
+CERTIDÃO ? PUBLICAÇÃO
+
+Certifico e dou fé que a  decisão ou sentença anterior foi enviada ao D.J.E. Disponibilização em  _____ / _____ / 2011. Considera-se data da publicação o primeiro dia útil subseqüente à data acima mencionado. 
+Custas de preparo: R$ ________________.
+Taxa de porte e remessa: R$ _____________.
+
+Eu, .............................. escr. , digitei e subscrevo.

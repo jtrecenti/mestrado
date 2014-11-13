@@ -1,0 +1,42 @@
+
+
+SENTENÇA
+
+Processo nº:0052058-57.2012.8.26.0002 - Procedimento Ordinário
+Requerente:Sodexo Pass do Brasil Serviços e Comércio S/A
+Requerido:Universo Online S/A e outro
+
+
+
+
+
+Vistos.
+
+SODEXO PASS DO BRASIL SERVIÇOS E COMÉRCIO S/A move a presente ação de obrigação de fazer em face de TERRA NETWORKS BRASIL S/A e UNIVERSO ONLINE S/A - UOL, sustentando, em resumo, que é empresa atuante no ramo de "soluções para melhoria de qualidade de vida", com reputação ilibada, e tomou conhecimento do envio de e-mail phishing para um número indeterminado de pessoas com vistas à captura ilícita de informações de potenciais vítimas de fraude na Internet. Após apurar o ocorrido, descobriu que a página falsa para a qual as vítimas estavam sendo direcionadas estava hospedada no serviço de cloud computing da UOL, o que a levou a notificar essa empresa para fornecer os registros eletrônicos que possibilitariam a identificação do responsável pela fraude. A UOL recusou-se a fornecer tais dados alegando sigilo de dados telemáticos. Assim, e com vistas a obter a identificação real do usuário que está perpetrando tais atos, cujo endereço eletrônico é filipe.brito@terra.com.br", pede a autora, ao final, diversas informações cadastrais das empresas rés que permitam identificar tal pessoa.
+Foi deferida a antecipação de tutela (fls. 65).
+Citada, a ré UOL ofereceu contestação (fls. 76/86), na qual forneceu os dados que possui em seu banco de dados e que possibilitam a identificação do usuário que se utilizou do seu serviço de hospedagem, a fim de que a autora possa identificar os provedores de acesso e obter outros dados acerca do responsável pela criação do site falso. Alegando que não poderia ter prestado tais informações fora do processo judicial, eis que estão protegidas pela inviolabilidade dos dados cadastrais (sigilo de dados), requer seja afastada sua condenação nos ônus da sucumbência. 
+Citada, a ré Terra ofereceu contestação (fls. 152/161), na qual alega que a omissão da autora em fornecer o header da mensagem eletrônica fraudulenta obsta a devida averiguação do remetente dos e-mails, podendo comprometer e causar transtornos a terceiro de boa-fé. Insurge-se contra a fixação de astreintes. Forneceu os dados da conta em que foi criado o e-mail mencionado pela autora e esclareceu acerca da impossibilidade de informar os logs de acesso às caixas postais e os IPs de conexão, criação e modificação de contas, dado o enorme volume de acesso aos seus servidores de e-mail. Também pediu que fosse afastada sua condenação nos ônus da sucumbência. 
+Réplica a fls. 184/199.
+É o relatório.
+Decido.
+O feito comporta julgamento antecipado, nos termos do art. 330, I, do CPC.
+Não se trata aqui de quebrar o sigilo das comunicações e ter acesso ao seu conteúdo, mas apenas identificar os usuários que acessaram as contas de clientes da autora e nelas efetuaram interferências indevidas, com vistas a obtenção de dados que possibilitem o cometimento de crimes. 
+Isso é plenamente possível de ser feito no juízo cível, mediante ordem judicial. 
+Nesse sentido, aliás, já decidiu o Superior Tribunal de Justiça: ?AÇÃO CAUTELAR DE EXIBIÇÃO. FORNECIMENTO DE ELEMENTOS IDENTIFICADORES DO USUÁRIO DE COMPUTADOR. UTILIZAÇÃO INTERNET. DANOS. NULIDADE DA CITAÇÃO. INCOMPETÊNCIA DO JUÍZO CÍVEL. IMPOSSIBILIDADE JURÍDICA DO PEDIDO. NÃO OCORRÊNCIA. VIOLAÇÃO A DISPOSITIVOS LEGAIS, FALTA PREQUESTIONAMENTO. RECURSO ESPECIAL IMPROVIDO. (...) 4.) É competente o Juízo Cível para o processamento e julgamento de ação cautelar que pede informação a respeito do nome do responsável pelo envio de e-mail difamatório, que pode ser obtida por meio do IP (Internet Protocol) do computador do usuário, uma vez que não se caracteriza quebra de sigilo por meio de interceptação telefônica, não se enquadrando, pois, na Lei 9.296/96. 5.) É juridicamente possível o pedido à empresa de telefonia de exibição do nome do usuário de seus serviços que, utiliza-se da internet para causar danos a outrem, até por ser o único modo de o autor ter conhecimento acerca daqueles que entende ter ferido a sua reputação. Recurso Especial improvido? (REsp. nº 879.181-MA, 3ª Turma rel. Min. Sidnei Beneti, j. 08/06/2010, dJe 01/07/2010). 
+Tratando-se, porém, de informações pessoais abrangidas pelo sigilo (a própria autora pede que o processo tramite em segredo de justiça), não se mostra indevida a recusa das rés em prestar as informações que possuem sem determinação judicial nesse sentido.
+Além disso, é entendimento sedimentado na jurisprudência que o provedor de acesso à Internet deve possuir meios que permitam a identificação de cada um de seus usuários, seja através dos dados pessoais destes, impostados quando do cadastramento da conta, seja pelo registro do número IP (Internet Protocol) do computador utilizado para tanto, sob pena de responsabilização civil subjetiva por culpa in omittendo. 
+Isto significa, em princípio, que o pedido da autora é legítimo.
+Por outro lado, não há como negar que a quantidade absurda de acessos ocorridos diariamente não possibilitam o arquivo de todos os dados dos logs e dos chamados IPs dinâmicos existentes. Existe um obstáculo fático e evidente ao registro de informações de todos os acessos possibilitados pelo provedor. 
+Dessa forma, respeitado entendimento em diverso sentido, concluo que as informações disponíveis que as rés possuíam foram efetivamente prestadas nestes autos.
+
+Posto isso e considerando o mais que dos autos consta, JULGO PROCEDENTE esta ação para tornar definitiva a liminar antecipatória, ao mesmo tempo declarando desde logo o cumprimento da obrigação de fazer imputada às requeridas, de acordo com a sua viabilidade técnica. Inexistindo pretensão injustificadamente resistida, deixo de condenar as rés nos ônus da sucumbência, respondendo cada qual pelas custas a que deu causa e honorários dos respectivos patronos.
+P. R. I. 
+
+
+São Paulo, 19 de setembro de 2013.
+
+
+
+
+Ana Paula Teixeira Mafra
+               Juiz(a) de Direito

@@ -1,0 +1,88 @@
+
+
+SENTENÇA
+
+Processo nº:1052371-61.2013.8.26.0100
+Classe ? Assunto:Procedimento Ordinário - Telefonia 
+Requerente:G&S TECNOLOGIA E CONECTIVIDADE LTDA.
+Requerido:TELEFÔNICA BRASIL SA
+
+
+
+
+Juiz(a) de Direito: Dr(a). Luiz Gustavo Esteves
+
+
+Vistos.
+
+G&S TECNOLOGIA E CONECTIVIDADE LTDA., qualificado(s) na inicial, ajuizou(aram) ação de Procedimento Ordinário em face de TELEFÔNICA BRASIL SA, visando ver reconhecida a inexigibilidade de débito, bem como condenar a requerida no pagamento dos supostos danos materiais e morais causados.
+
+Tutela antecipada parcialmente deferida a fls. 72. Contra tal decisão foi interposto recurso de agravo de instrumento, o qual foi dado provimento, conforme v. acórdão de fls. 253/256.
+
+Citada, a requerida ofertou resposta na forma de contestação, fls. 97/114, informando que constatou fraude nas ligações internacionais dos terminais da autora, razão pela qual emitiu novas faturas com a exclusão das referidas ligações. Por fim, rebateu a ocorrência de danos materiais e morais.
+
+Nova manifestação da requerida a fls. 216/223.
+
+Em respeito ao princípio do contraditório, a autora manifestou em réplica a fls. 227/232.
+
+Instadas as partes acerca das provas que pretendiam produzir, fls. 241, ambas permaneceram silentes.
+
+É o relato do necessário. Fundamento e DECIDO.
+
+Conheço diretamente do pedido, na forma do artigo 330, inciso I, do CPC, pois a questão de fato já se encontra devidamente instruída, bem como ante o desinteresse das partes em produzir outras provas.
+
+Inicialmente, cumpre aclarar que, no meu sentir, não há que se falar na aplicação do Código de Defesa do Consumidor no presente caso, pois a parte autora não pode ser tida como destinatária final do produto/serviço, afinal, o serviço contratado (telefonia empresarial) compõe a cadeia produtiva da empresa  telecomunicações (cláusula terceira, fls. 18) - sendo essencial à consecução do seu serviço.
+
+Nesse sentido, confira-se elucidativo aresto do C. STJ:
+
+CONSUMIDOR. DEFINIÇÃO. ALCANCE. TEORIA FINALISTA. REGRA. MITIGAÇÃO. FINALISMO APROFUNDADO. CONSUMIDOR POR EQUIPARAÇÃO. VULNERABILIDADE.
+1. A jurisprudência do STJ se encontra consolidada no sentido de que a determinação da qualidade de consumidor deve, em regra, ser feita mediante aplicação da teoria finalista, que, numa exegese restritiva do art. 2º do CDC, considera destinatário final tão somente o destinatário fático e econômico do bem ou serviço, seja ele pessoa física ou jurídica.
+2. Pela teoria finalista, fica excluído da proteção do CDC o consumo intermediário, assim entendido como aquele cujo produto retorna para as cadeias de produção e distribuição, compondo o custo (e, portanto, o preço final) de um novo bem ou serviço. Vale dizer, só pode ser considerado consumidor, para fins de tutela pela Lei nº 8.078/90, aquele que exaure a função econômica do bem ou serviço, excluindo-o de forma definitiva do mercado de consumo.
+3. A jurisprudência do STJ, tomando por base o conceito de consumidor por equiparação previsto no art. 29 do CDC, tem evoluído para uma aplicação temperada da teoria finalista frente às pessoas jurídicas, num processo que a doutrina vem denominando finalismo aprofundado, consistente em se admitir que, em determinadas hipóteses, a pessoa jurídica adquirente de um produto ou serviço pode ser equiparada à condição de consumidora, por apresentar frente ao fornecedor alguma vulnerabilidade, que constitui o princípio-motor da política nacional das relações de consumo, premissa expressamente fixada no art. 4º, I, do CDC, que legitima toda a proteção conferida ao consumidor.
+4. A doutrina tradicionalmente aponta a existência de três modalidades de vulnerabilidade: técnica (ausência de conhecimento específico acerca do produto ou serviço objeto de consumo), jurídica (falta de conhecimento jurídico, contábil ou econômico e de seus reflexos na relação de consumo) e fática (situações em que a insuficiência econômica, física ou até mesmo psicológica do consumidor o coloca em pé de desigualdade frente ao fornecedor).
+Mais recentemente, tem se incluído também a vulnerabilidade informacional (dados insuficientes sobre o produto ou serviço capazes de influenciar no processo decisório de compra).
+5. A despeito da identificação in abstracto dessas espécies de vulnerabilidade, a casuística poderá apresentar novas formas de vulnerabilidade aptas a atrair a incidência do CDC à relação de consumo. Numa relação interempresarial, para além das hipóteses de vulnerabilidade já consagradas pela doutrina e pela jurisprudência, a relação de dependência de uma das partes frente à outra pode, conforme o caso, caracterizar uma vulnerabilidade legitimadora da aplicação da Lei nº 8.078/90, mitigando os rigores da teoria finalista e autorizando a equiparação da pessoa jurídica compradora à condição de consumidora.
+6. Hipótese em que revendedora de veículos reclama indenização por danos materiais derivados de defeito em suas linhas telefônicas, tornando inócuo o investimento em anúncios publicitários, dada a impossibilidade de atender ligações de potenciais clientes. A contratação do serviço de telefonia não caracteriza relação de consumo tutelável pelo CDC, pois o referido serviço compõe a cadeia produtiva da empresa, sendo essencial à consecução do seu negócio. G.n.
+Também não se verifica nenhuma vulnerabilidade apta a equipar a empresa à condição de consumidora frente à prestadora do serviço de telefonia. Ainda assim, mediante aplicação do direito à espécie, nos termos do art. 257 do RISTJ, fica mantida a condenação imposta a título de danos materiais, à luz dos arts. 186 e 927 do CC/02 e tendo em vista a conclusão das instâncias ordinárias quanto à existência de culpa da fornecedora pelo defeito apresentado nas linhas telefônicas e a relação direta deste defeito com os prejuízos suportados pela revendedora de veículos. G.n.
+7. Recurso especial a que se nega provimento.
+(REsp 1195642/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/11/2012, DJe 21/11/2012)
+
+No mérito, o pedido é parcialmente procedente.
+
+Restou incontroverso nos autos, nos termos do artigo 334, do CPC, porque confessado pela parte contrária, que as ligações telefônicas internacionais oriundas dos terminais da parte autora decorreram de fraude. Assim, indevidas suas cobranças.
+
+De outro norte, no que tange ao pedido de condenação por danos materiais  contratação de serviços de advocacia  entendo que o pedido é improcedente, afinal, se admitido, imporá ao requerido o dever de indenizar por dívida não contraída, sem se ter a certeza quanto aos valores demandados, ficando estes, ao livre arbítrio da parte credora.
+
+Ademais, o CPC já cuidou de remunerar o patrono da parte vencedora, nos termos do artigo 20, do CPC.
+
+Por fim, no que tange aos danos morais, o pedido é improcedente.
+
+Na espécie, não vislumbro qualquer ataque à dignidade da empresa, pois os contratempos por ela arcados estão dentro daqueles do limite do esperado por todos que convivem em sociedade. No mesmo sentido é o preconizado pela doutrina do professor SÉRGIO CAVALIERI FILHO: "Nessa linha de princípio, só deve ser reputado como dano moral a dor, vexame, sofrimento ou humilhação que, fugindo à normalidade, interfira intensamente no comportamento psicológico do indivíduo, causando-lhe aflições, angústia e desequilíbrio em seu bem-estar. Mero dissabor, aborrecimento, mágoa, irritação ou sensibilidade exacerbada estão fora da órbita do dano moral, porquanto, além de fazerem parte da normalidade do nosso dia-a-dia, no trabalho, no trânsito, entre os amigos e até no ambiente familiar, tais situações não são intensas e duradouras, a ponto de romper o equilíbrio psicológico do indivíduo. Se assim não se entender, acabaremos por banalizar o dano moral, ensejando ações judiciais em busca de indenizações pelos mais triviais aborrecimentos." (p. 83/84).
+
+Com base nessas premissas, tenho que o fato trazido pela autora não teve o condão de atingir-lhe da dignidade de forma tão evidente a gerar a compensação pelo dano moral, consoante, ainda, o firma, pelo C. SUPERIOR TRIBUNAL DE JUSTIÇA:
+
+CIVIL E PROCESSUAL CIVIL. DIREITO DE AUTOR. DESCUMPRIMENTO CONTRATUAL. DANO MORAL. INOCORRÊNCIA EM REGRA. SITUAÇÃO EXCEPCIONAL NÃO CARACTERIZADA. PRESCRIÇÃO. TERMO INICIAL. CAUTELAR DE ANTECIPAÇÃO DE PROVA. EFEITO INTERRUPTIVO. MEDIDA PREPARATÓRIA DE AÇÃO INDENIZATÓRIA. CPC, ARTS. 219 E 846. RECURSO PARCIALMENTE PROVIDO. I - O inadimplemento do contrato, por si só, pode acarretar danos materiais e indenização por perdas e danos, mas, em regra, não dá margem ao dano moral, que pressupõe ofensa anormal à personalidade. Embora a inobservância das cláusulas contratuais por uma das partes possa trazer desconforto ao outro contratante - e normalmente o traz - trata-se, em princípio, do desconforto a que todos podem estar sujeitos, pela própria vida em sociedade. Com efeito, a dificuldade financeira, ou a quebra da expectativa de receber valores contratados, não tomam a dimensão de constranger a honra ou a intimidade, ressalvadas situações excepcionais. II - Na sistemática do Código de Processo Civil de 1973, a cautelar de antecipação de prova interrompe a prescrição quando se tratar de medida preparatória de outra ação, tornando inaplicável, nesses casos, o verbete sumular nº 154/STF, editado sob a égide do CPC/1939.
+(STJ; 4ª Turma; REsp 202.564; rel. Min. Sálvio de Figueiredo Teixeira; Julg. 02.08.2001; DJ 01.10.2001, p. 220).
+
+Ademais, convém registrar, por oportuno, que (a) não há provas de que houve inscrição do nome da empresa nos órgãos de proteção ao crédito  apesar da alegação da própria requerida, fls. 217, não há documento que comprove a inscrição (ônus que competiria ao autor, nos termos do artigo 333, inciso I, do CPC), bem como, (b) não foi feita nenhuma prova por parte da autora dos supostos danos morais causados, ônus que também lhe competia. Nesse sentido, destaco recente precedente do C. STJ:
+
+PROCESSO CIVIL. RESPONSABILIDADE CIVIL. DANO MORAL REFLEXO. PESSOA JURÍDICA. SÓCIO-GERENTE COM NOME INDEVIDAMENTE INSCRITO NO CADASTRO DE INADIMPLENTES. NEGATIVA DE EMPRÉSTIMO À SOCIEDADE. LEGITIMIDADE ATIVA AD CAUSAM DA PESSOA JURÍDICA. ABALO DE CRÉDITO. NÃO OCORRÊNCIA DE DANO IN RE IPSA. NECESSIDADE DE COMPROVAÇÃO DA OFENSA À HONRA OBJETIVA.
+1. O dano moral reflexo, indireto ou por ricochete é aquele que, originado necessariamente do ato causador de prejuízo a uma pessoa, venha a atingir, de forma mediata, o direito personalíssimo de terceiro que mantenha com o lesado um vínculo direto. Precedentes.
+2. A Súmula 227 do STJ preconiza que a pessoa jurídica reúne potencialidade para experimentar dano moral, podendo, assim, pleitear a devida compensação quando for atingida em sua honra objetiva.
+3. No caso concreto, é incontroversa a inscrição indevida do nome do sócio-gerente da recorrente no cadastro de inadimplentes, acarretando a esta a negativa de empréstimo junto à Caixa Econômica Federal. Assim, ainda que a conduta indevida da recorrida tenha atingido diretamente a pessoa do sócio, é plausível a hipótese de ocorrência de prejuízo reflexo à pessoa jurídica, em decorrência de ter tido seu crédito negado, considerando a repercussão dos efeitos desse mesmo ato ilícito. Dessarte, ostenta o autor pretensão subjetivamente razoável, uma vez que a legitimidade ativa ad causam se faz presente quando o direito afirmado pertence a quem propõe a demanda e possa ser exigido daquele em face de quem a demanda é proposta.
+4. O abalo de crédito desponta como afronta a direito personalíssimo - a honradez e o prestígio moral e social da pessoa em determinado meio - transcendendo, portanto, o mero conceito econômico de crédito.
+5. A jurisprudência desta Corte já se posicionou no sentido de que o dano moral direto decorrente do protesto indevido de título de crédito ou de inscrição indevida nos cadastros de maus pagadores prescinde de prova efetiva do prejuízo econômico, uma vez que implica "efetiva diminuição do conceito ou da reputação da empresa cujo título foi protestado", porquanto, "a partir de um juízo da experiência, [...] qualquer um sabe os efeitos danosos que daí decorrem" (REsp 487.979/RJ, Rel. Min. RUY ROSADO DE AGUIAR, DJ 08.09.2003).
+7. Não obstante, no que tange ao dano moral indireto, tal presunção não é aplicável, uma vez que o evento danoso direcionou-se a outrem, causando a este um prejuízo direto e presumível. A pessoa jurídica foi alcançada acidentalmente, de modo que é mister a prova do prejuízo à sua honra objetiva, o que não ocorreu no caso em julgamento, conforme consignado no acórdão recorrido, mormente porque a ciência acerca da negação do empréstimo ficou adstrita aos funcionários do banco. G.n.
+8. Recurso especial não provido.
+(REsp 1022522/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/06/2013, DJe 01/08/2013)
+
+Pelo exposto, JULGO PARCIALMENTE PROCEDENTE o pedido, com resolução do mérito, nos termos do artigo 269, inciso I, do CPC, para DECLARAR inexigíveis os débitos constantes nas faturas dos terminais telefônicos da parte autora, a saber, (a) 11-3675-6076, (b) 11-3675-6039, (c) 11-3675-5938 e (d) 11-3675-6265, decorrentes de ligações internacionais, com vencimento em junho/13.
+
+Em razão da sucumbência recíproca, cada parte arcará com as custas, despesas processuais e honorários advocatícios de seus respectivos patronos.
+
+Com o trânsito, autorizo o requerido a levantar a quantia depositada nos autos.
+
+PRIC.
+
+
+São Paulo, 07 de novembro de 2013.

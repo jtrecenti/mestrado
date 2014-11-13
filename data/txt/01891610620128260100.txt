@@ -1,0 +1,98 @@
+
+
+SENTENÇA
+
+Processo nº:0189161-06.2012.8.26.0100
+Classe - AssuntoProcedimento Sumário - Obrigações
+Requerente:Luciana Aparecida Nascimento
+Requerido:Banco Itaúleasing S/A
+
+
+
+Juiz(a) de Direito: Dr(a). Cláudia Maria Pereira Ravacci
+
+
+
+Vistos.
+
+
+LUCIANA APARECIDA NASCIMENTO propôs ação contra BANCO ITAÚLEASING S/A e requereu a devolução dos valores pagos a título de VRG ? valor residual garantido.
+
+Narra a inicial (02/36) que a autora firmou com a ré contrato de arrendamento mercantil (leasing) de um veículo em 22/07/2009. Induzida a erro, teria pago o importe de R$ 12.000,00 a título de valor residual garantido. Ainda, efetuou o pagamento de 18 parcelas ? no valor de R$1.131,84 ? das quais a quantia de R$580,00 seria referente ao valor residual garantido (VRG), que, somados ao pagamento inicial totalizam R$35.003,21. Manteve-se inadimplente a partir de 22/01/2011, devolvendo o bem objeto da ação ao arrematante em 05/09/2012, o que teria gerado ao requerido o crédito de 12.720,90. Requer o ressarcimento no importe de R$22.282,22, a título de VRG.
+
+Foi-lhe deferida a gratuidade pela decisão de fls. 37.
+
+Na contestação a fls. 39/55, a ré requereu a improcedência do pedido com argumentos em torno do ?pacta sunt servanda?, bem como afirmou que o veículo, após ser devolvido, fora a leilão e o valor auferido com sua venda restou insuficiente para quitar o débito da autora, motivo pelo qual esta deveria arcar com o pagamento do saldo remanescente da dívida.
+
+Réplica a fls. 60/68.
+ 
+
+É O RELATÓRIO. 
+DECIDO. 
+
+
+Conheço diretamente do pedido, nos termos do art. 330 do CPC.
+
+A pretensão inicial merece parcial acolhimento. 
+
+A autora invoca o Código de Defesa do Consumidor e defende o cabimento da devolução do ?valor residual garantido? pago antecipadamente no caso de rescisão do contrato, com juros e correção monetária. Conforme argumenta, permitir sua manutenção nas mãos da arrendadora configuraria enriquecimento ilícito.
+
+Inicialmente, convém anotar a aplicação do CDC ? conforme orienta o Superior Tribunal de Justiça ? aos contratos de leasing, estendendo portanto a incidência da Súmula 297. Neste sentido:
+
+
+?RECURSO ESPECIAL. AÇÃO COLETIVA. ARRENDAMENTO MERCANTIL (LEASING). APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. ASSOCIAÇÃO DE DEFESA DO CONSUMIDOR. ILEGITIMIDADE ATIVA E INTERESSE PROCESSUAL. FUNDAMENTO INATACADO (SÚMULA 283/STF). PRECLUSÃO. CERCEAMENTO DO DIREITO DE DEFESA. NÃO OCORRÊNCIA. REAJUSTE DAS PRESTAÇÕES PELA VARIAÇÃO CAMBIAL. DÓLAR ESTADUNIDENSE. JANEIRO DE 1999. ONEROSIDADE EXCESSIVA. REVISÃO. DIVISÃO EQUITATIVA. COMPROVAÇÃO DE CAPTAÇÃO DE RECURSOS NO EXTERIOR PARA A OPERAÇÃO ESPECÍFICA. DESNECESSIDADE. EXTENSÃO DA DECISÃO AOS DEMAIS LITISCONSORTES. IMPOSSIBILIDADE. LITISCONSÓRCIO SIMPLES. ALCANCE SUBJETIVO DA SENTENÇA. CONSUMIDORES HABILITADOS NOS AUTOS. AUSÊNCIA DE INSURGÊNCIA. PROIBIÇÃO DA REFORMATIO IN PEJUS. ÔNUS DA SUCUMBÊNCIA. AUSÊNCIA DE MÁ-FÉ. APLICAÇÃO DO ART. 18 DA LEI 7.347/85.
+(...)
+2. O Superior Tribunal de Justiça tem entendimento sumulado de que o Código de Defesa do Consumidor é aplicável às instituições financeiras (Súmula nº 297/STJ), inclusive nas relações jurídicas oriundas de contrato de arrendamento mercantil.
+(...)
+REsp 609329/PR, rel. Min. RAUL ARAÚJO, j. 18.12.2012, DJe 7.2.2013, v.u.)
+
+
+Entretanto, a mera aplicação desse diploma legal não garante à requerente a procedência da ação, devendo, ainda que beneficiado com a inversão do ônus da prova, comprovar o fato constitutivo do seu direito (Código de Processo Civil, artigo 333, inciso I c.c. inciso VIII do artigo 6.º do Código de Defesa do Consumidor).
+
+Não há que se falar em devolução total dos valores pagos a título de VGR, vez que o bem foi utilizado entre os anos de 2009 e 2012, o que certamente gerou desvalorização.
+
+Vejamos a lição do Desembargador e Professor Arnaldo Rizzardo, ao comentar o art. 5º da Resolução 2.309 do BACEN, que regulamenta o leasing financeiro:
+
+
+O locador e promitente vendedor, em virtude dos múltiplos itens que compõem o preço dos aluguéis - desgaste pelo uso, locação propriamente dita, adimplência de parte do valor - estabelece uma prestação geralmente mais onerosa que a fixada em outros contratos semelhantes. Apropriadas, no caso, as palavras de Arnoldo Wald: 'Na realidade, os aluguéis são mais altos que os existentes na locação comum, pois visam a garantir em prazo contratual determinado, a amortização do preço do equipamento acrescido dos custos administrativos e financeiros e do lucro da companhia de leasing.
+
+
+A conjugação dos pagamentos ? contraprestação e VRG ? é da essência do contrato e, portanto, a exigência de adimplemento completo é inafastável. Dessa forma, incabível pedido para que seja aceito tão só o pagamento das contraprestações, uma vez que no caso foi estabelecido um contrato com o pagamento de contraprestações e do valor residual garantido, este de forma antecipada, como expressamente constou do contrato firmado. Deve então ser estabelecida compensação para a hipótese de não corporificação da opção de compra.
+
+Importante anotar também que a prática de cobrança antecipada do VGR em contratos de leasing não descaracteriza a natureza jurídica do contrato, conforme entendimento sumulado do E. STJ:
+
+
+?Súmula 293 ? A cobrança antecipada do valor residual garantido (VGR) não descaracteriza o contrato de arrendamento mercantil? 
+
+
+Por tudo, determinar que a financeira devolva o valor total é acarretar enriquecimento sem causa do consumidor. Não permitir a compensação desse valor na liquidação do contrato, é favorecer indevidamente o banco.
+
+Portanto, a devolução dos valores pagos de forma adiantada deve observar a desvalorização, ocorrendo tão somente após a venda. Isso porque é incabível a rescisão do contrato e devolução de valores sem que antes se verifique em que valores.
+
+Confira-se a jurisprudência que vem se firmando a esse respeito em nossos Tribunais:
+
+APELAÇÃO CÍVEL Interposição contra sentença que julgou improcedente ação de nulidade de cláusula contratual c.c. restituição de valores pagos. Contrato de arrendamento mercantil. Reintegração de posse. Rescisão contratual. Devolução dos valores pagos a título de antecipação do valor residual. Hipótese condicionada à existência de saldo excedente em favor do arrendatário após a apuração de valores. Sentença parcialmente reformada. Apelação parcialmente provida. (Apelação Cível c/ revisão nº 0038911-25.2010.8.26.0554. 24/10/2011. Relator: Mario A. Silveira)
+
+RECURSO - APELAÇÃO ? ARRENDAMENTO MERCANTIL - AÇÃO DE RESCISÃO CONTRATUAL COM PEDIDO DE RESTITUIÇÃO DO VALOR RESIDUAL GARANTIDO. A devolução da quantia paga antecipadamente a título de valor residual garantido depende do valor obtido com a venda do bem. Ausência de prova neste sentido. Impossibilidade, desta forma, de se determinar que a recorrida devolva quantia que nem ao menos se sabe devida. Sentença reformada parcialmente reformada, apenas para determinar a necessidade de apuração, em final liquidação, do valor do saldo existente, mediante simples cálculo aritmético entre a diferença entre a venda do bem arrendado e do valor do VRG efetivamente pago. Recurso provido em parte para esse fim. (Apelação com revisão nº 0127925-53.2012.8.26.0100, 25ª Vara Cível., Rel. Des. MARCONDES D'ANGELO)
+
+ARRENDAMENTO MERCANTIL AÇÃO ANULATÓRIA DE CLÁUSULAS CONTRATUAIS C/C RESTITUIÇÃO DE VALORES CABIMENTO POSSIBILIDADE DE COMPENSAÇÃO COM OS VALORES DEVIDOS RECURSO DO RÉU PARCIALMENTE PROVIDO. Rescindido o contrato de arrendamento mercantil ante a inadimplência do arrendatário, a arrendadora tem o direito à restituição do capital investido na aquisição do bem pretendido por aquela, somado ao custo de captação e dos lucros inerentes à qualquer atividade comercial. Assim, uma vez reintegrada na posse do bem, há que aliená-lo e, do valor obtido, somado àquele depositado nas mãos da arrendadora a título de VRG pago antecipadamente, deduzir as suas perdas e danos, restituindo ao arrendatário o saldo remanescente, acaso existente. (Apelação com Revisão Nº 0028380-40.2011.8.26.0554, Rel. PAULO AYROSA,  31ª Câmara de Direito Privado)
+
+
+Para efeitos do cálculo, conta a data exata em que o veiculo é entregue em mãos da arrendante. Para tanto, deve ser considerada a data informada pela autora a fls. 05 e confirmada pela ré a fls. 39, qual seja 05/09/2012.
+
+Apesar de argumentar que procedeu à venda do bem e que desta resultou ainda débito à autora, o banco não trouxe aos autos documento apto a comprovar a venda e o valor arrecadado com esta (nota de venda em leilão). Tal documento deve vir aos autos em fase de liquidação para composição do cálculo, caso contrário será computado o valor de mercado do bem na data apontada como de sua venda.
+
+Pelo exposto, JULGO PARCIALMENTE PROCEDENTE o pedido. Determino a devolução do VRG pago, deduzidas as contraprestações vencidas até a data da retomada do bem, acrescidas dos encargos decorrentes do inadimplemento, o que será apurado em fase de liquidação. Em razão da sucumbência recíproca, cada parte deverá arcar com as custas processuais despendidas e com os honorários de seus patronos.
+
+
+P. R. I. 
+
+
+
+São Paulo, 16 de outubro de 2013.
+
+
+
+
+CLÁUDIA MARIA PEREIRA RAVACCI
+Juíza de Direito

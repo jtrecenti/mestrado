@@ -1,0 +1,92 @@
+
+
+SENTENÇA
+
+Processo nº:0127651-26.2011.8.26.0100
+Classe ? Assunto:Procedimento Ordinário - Contratos Bancários 
+Requerente:Bicicletaria Nakashima Ltda Me.
+Requerido:Companhia Brasileira de Meios de Pagamento
+
+
+
+
+Juiz(a) de Direito: Dr(a). Maria Fernanda Belli
+
+
+
+
+
+
+VISTOS.
+
+
+
+
+
+
+
+
+
+BICICLETARIA NAKASHIMA LTDA.-ME, pessoa jurídica qualificada nos autos, ajuizou a presente ação de indenização por danos materiais e morais contra CIELO S/A (atual denominação de COMPANHIA BRASILEIRA DE MEIOS DE PAGAMENTO ? VISANET), pessoa jurídica também qualificada, argumentando, em síntese, celebrou com a ré contrato de afiliação, para viabilizar a aquisição de produtos em sua loja virtual, e foi surpreendida com notificação emitida pela ré, informando o débito em sua conta corrente de transações não reconhecidas por alguns titulares de cartões de crédito, conduta que repudia, atribuindo responsabilidade à ré pela fraude. Sustenta que todas as transações realizadas pelo sistema de verificação dos cartões de créditos foram autorizadas pela administradora e, em razão disso, pretende a reparação dos danos materiais suportados, no valor de R$ 1.249,40 (um mil, duzentos e quarenta e nove reais e quarenta centavos) e dos danos morais, no valor de dez salários mínimos. 
+
+A petição inicial veio instruída com procuração e documentos (fls. 11/75) e foi emendada a fls. 77. 
+
+Citada, a ré compareceu à audiência de tentativa de conciliação, que restou infrutífera (fls. 142/143). Na oportunidade, apresentou contestação e exceção de incompetência. Em sua defesa, discorreu sobre o contrato e a responsabilidade do autor, postulou a improcedência dos pedidos e juntou documentos (fls. 144/198).
+
+Réplica a fls. 182/189. 
+
+Decisão saneadora a fls. 191/192. 
+
+Inicialmente, a ação foi distribuída perante a 1ª Vara Cível da Comarca de Mogi das Cruzes, SP, que acolheu a exceção de incompetência. 
+
+Ofício do Banco Bradesco S/A a fls. 233. 
+
+
+É O BREVE RELATÓRIO. 
+DECIDO.
+
+
+JULGO ANTECIPADAMENTE O PEDIDO, com fundamento no artigo 330, inciso I, do CPC, dispensando o feito a produção de outras provas, além daquelas já amealhadas. Neste sentido, confira-se: ?Em matéria de julgamento antecipado da lide, predomina a prudente discrição do magistrado, no exame da necessidade ou não da realização de prova em audiência, ante as circunstâncias de cada caso concreto e a necessidade de não ofender o princípio basilar do pleno contraditório? (STJ-4ª Turma, REsp 3.047-ES, rel. Min. Athos Carneiro). 
+
+Sem matéria preliminar a apreciar, passo ao exame do mérito. 
+
+Os pedidos são procedentes em parte. De início, assinalo que não está caracterizada a relação de consumo entre as partes. Isto porque os serviços prestados pela ré se destinam ao incremento da atividade empresarial da parte adversa, à luz do artigo 2º da Lei n.º 8.078/90. A propósito, ensina Cláudia Lima Marques que ?destinatário final é aquele destinatário fático e econômico do bem ou serviço, seja ele pessoa jurídica ou física. O destinatário final é o consumidor final, o que retira o bem do mercado ao adquiri-lo ou simplesmente utilizá-lo (destinatário final fático), aquele que coloca um fim na cadeia de produção (destinatário final econômico), e não aquele que utiliza o bem para continuar a produzir, pois ele não é o consumidor final, ele está transformando o bem, utilizando o bem, incluindo o serviço contratado no seu, para oferecê-lo por sua vez ao seu cliente, ao seu consumidor, utilizando-o no seu serviço de construção, nos seus cálculos de preço, como insumo da sua produção? (?Comentários ao Código de Defesa do Consumidor?, Ed. RT, 2003, pp. 71-72).
+
+Por outro lado, a ré invoca incidência da cláusula 16ª, que dispõe sobre a responsabilidade do autor sobre toda e qualquer controvérsia sobre bens e serviços fornecidos, ?incluindo casos de defeito ou devolução, problemas na entrega? e, evidentemente, as compras não reconhecidas por titulares de cartões de crédito, em decorrência de fraude, para excluir sua responsabilidade; menciona também a cláusula 22ª, ou seja, ?ainda que a TRANSAÇÃO tenha recebido um CÓDIGO DE AUTORIZAÇÃO, o seu valor não será repassado ou, se já tiver sido repassado, ficará sujeito a estorno? (hipótese da alínea ?ii?). 
+
+Contudo, para aplicação de tais cláusulas, é preciso reconhecer o descumprimento das normas contratuais pelo autor, o que não visualizo. Ao revés, o autor demonstrou a efetivação das compras, precedidas de autorização dada pela requerida. Ora, a ré tem como objeto social a prestação de serviços de credenciamento de estabelecimentos comerciais e de estabelecimentos prestadores de serviços para a aceitação de cartões de crédito e de débito, bem como outros meios de pagamento; o aluguel e a prestação de serviços de instalação e manutenção de terminais eletrônicos para a captura de dados e o processamento de transações com cartões de crédito e de débito, bem como com outros meios de pagamento; a obtenção de informações transacionais referentes aos hábitos de consumo de clientes criando e mantendo inteligência de gestão de banco de dados, de modo a contribuir com os sócios e empresas associadas na melhoria de seus negócios, como se extrai de fls. 168. Trata-se, por outro lado, de atividade de risco, que não pode ser transferido à parte autora. 
+
+Note-se que houve prévia autorização da ré para as compras, o que, aliás, é inerente à sua atividade, considerado seu objeto social (fls. 46, 53 e 60). Vale dizer, o autor atuou de acordo com o que lhe era exigido contratualmente já que obteve autorização para concluir as compras. A esse respeito, já se decidiu:
+?RESPONSABILIDADE CIVIL Empresa associada à administradora de cartão de crédito Inaplicabilidade do CDC Precedentes do E. STJ. Indenização por danos materiais decorrentes de estornos de valores relativos a vendas realizadas pela internet que foram objeto de discordância do titular do cartão Inadmissibilidade Empresa autora que agiu com cautela na realização das vendas que efetuou Checagens de utilização de cartão clonado que cabe à administradora, assim como o controle e bloqueio do meio de pagamento se houver suspeita de fraude Lojista que recebeu autorização da prestadora dos serviços para finalizar as operações Prejuízos decorrentes do risco do negócio que cabe à administradora dos cartões Ônus de sua atividade Banco associado que responde solidariamente por ser parceiro da ré no negócio Danos morais Inocorrência Registro de débito nos órgãos de proteção ao crédito decorrentes da disponibilização de linha de crédito à empresa autora Legitimidade da inscrição em razão da inadimplência decorrente de empréstimo bancário Sentença parcialmente reformada Condenação das rés ao pagamento de indenização por danos materiais Sentença parcialmente reformada Recurso parcialmente provido? (TJSP, Apelação n.º 9210831-58.2009.8.26.0000, 12ª Câmara de Direito Privado, Rel. Jacob Valente, data do julgamento 13.06.2012). 
+
+?Prestação de serviços. Empresa afiliada ao sistema Visanet. Prestadora do serviço que se nega ao pagamento de compra efetuada com cartão de crédito, por meio de internet, após constatar fraude em sua utilização. Operação realizada por empresa afiliada do sistema operacional dentro das cautelas normais e após o recebimento de autorização da prestadora do serviço. Risco inerente à atividade, que deve ser carreado à prestadora do serviço. Sentença mantida. Recurso não provido? (TJSP, Apelação n.º 0193188-71.2008.8.26.0100, 34ª Câmara de Direito Privado, rel. Rosa Maria de Andrade Nery, data do julgamento 20.08.2012). 
+
+Neste passo, entendo que o autor faz jus à reparação dos danos materiais, consistente no estorno dos valores relativos às compras fraudulentas. 
+
+Por outro lado, não vislumbro os prejuízos morais. O pedido de indenização por danos morais é possível, pois a pessoa jurídica pode ser atacada em sua honra objetiva, isto é, ?goza ela de uma reputação junto a terceiros, passível de ficar abalada por atos que afetam o seu bom nome no mundo civil ou comercial onde atua? (TJSP, Apelação Cível n.º 9.117-4, 3ª Câmara de Direito Privado, rel. Toledo César, data do julgamento 09.12.1997); contudo, no caso vertente, não houve afronta à sua credibilidade empresarial, ou seja, sua ?reputação e bom conceito de empresa? (JTJ 238/117, fls. 26). 
+
+
+Relembro que o dano moral não afeta o patrimônio do ofendido, ao contrário, ?não é a dor, a angústia, o desgosto, a aflição espiritual, a humilhação, o complexo de que sofre a vítima do evento danoso, pois esses estados de espírito constituem o conteúdo, ou melhor, a conseqüência do dano? (in ?Responsabilidade Civil?, Carlos Roberto Gonçalves, 8ª edição, 2003). 
+
+
+Convém registrar o magistério de Carlos Alberto Bittar, citado este trecho no v. Acórdão prolatado nos autos da Apelação Cível n.º 258.414-4/1, TJSP, 7ª Câmara de Direito Privado, rel. Des. Leite Cintra: ?São danos morais, pois, as conseqüências negativas de agressões a valores da moralidade individual ou social - conforme se atinja pessoa ou coletividade -, qualificadas como atentados à personalidade humana, que repugnam à ordem jurídica. Daí, a relação que se opera, através da teoria da reparabilidade por danos morais, como resposta contra o agente, para obter-se a respectiva responsabilização jurídica? (in ?Reparação de Danos Morais?, pg. 236, editora Revista dos Tribunais - 1993). 
+
+
+E ainda: ?RESPONSABILIDADE CIVIL. REPARAÇÃO POR DANOS MORAIS E MATERIAIS. FOGÃO COM VAZAMENTO DE GÁS EM ESCOLA PÚBLICA. FORMAÇÃO DE CHAMAS QUE CAUSARAM LEVES QUEIMADURAS NA REQUERENTE. De fato, da prova colacionada resta incontroverso apenas que o fato aconteceu; inexistem indícios de seqüelas físicas ou emocionais. No que atine ao dano moral é de ser reconhecido apenas que o evento foi desagradável e causou dissabores à autora, mas sem a magnitude necessária a caracterizar o dano. Sentença de improcedência confirmada por seus próprios e jurídicos fundamentos. APELAÇÃO DESPROVIDA? (Apelação Cível Nº 70040608721, Décima Câmara Cível, Tribunal de Justiça do RS, Relator: Túlio de Oliveira Martins, Julgado em 24/11/2011). 
+
+
+A lesão a bem personalíssimo, para caracterizar o dano moral, deve revestir-se de gravidade que, segundo Antunes Varela, citado por Sérgio Cavalieri Filho, ?há de medir-se por um padrão objetivo e não à luz de fatores subjetivos?. Assim, para que se configure o dano moral indenizável, a dor, o sofrimento, a tristeza, o vexame, impingidos, devem ser tais que, fugindo à normalidade, interfiram intensamente no comportamento e no bem estar psíquicos do indivíduo, o que não se verifica na hipótese dos autos.
+
+
+Diante do exposto, JULGO PROCEDENTES EM PARTE OS PEDIDOS, declaro extinto o processo com julgamento de mérito, com fundamento no artigo 269, inciso I, do Código de Processo Civil e condeno a ré a restituir ao autor a quantia de R$ 1.249,00 (um mil, duzentos e quarenta e nove reais), quantia que será corrigida monetariamente desde o ajuizamento, com incidência de juros moratórios de 1% desde a citação. Custas, despesas processuais e honorários advocatícios compensados, à luz do artigo 21, caput, do CPC. 
+
+
+
+P.R.I.
+
+
+São Paulo, 01 de novembro de 2012. 
+
+
+MARIA FERNANDA BELLI
+       Juíza de Direito

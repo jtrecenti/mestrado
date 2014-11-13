@@ -1,0 +1,57 @@
+
+
+SENTENÇA
+
+Processo nº:0061336-79.2012.8.26.0100
+Classe - AssuntoProcedimento Sumário - Obrigação de Fazer / Não Fazer
+Requerente:Engesist Engenharia e Comercio Ltda.
+Requerido:TELEFÔNICA BRASIL SA
+
+
+Vistos, etc...
+I - RELATÓRIO
+Engesist Engenharia e Comércio Ltda, qualificada nos autos, por meio de advogado devidamente constituído, ajuizou Ação de Obrigação de Fazer c.c. Indenização por Danos Materiais e Morais contra Telefônica Brasil S/A (VIVO), aduzindo em síntese, que:
+1.Em 27 de fevereiro de 2012 contratou com a ré o serviço denominado ?Acesso Digital Light?, adquirindo 10 linhas telefônicas digitais, para operar por meio de um tronco-chave número5525-0090, com finais 1, 2, 3, 4, 5, 6, 7, 8 e 9;
+2.Repentinamente, em 29.10.2012 as 10 linhas pararam de funcionar, gerando inúmeros transtornos para a autora;
+3.A autora tentou muitas vezes resolver o problema, e diante da dificuldade de comunicação sofreu abalo na sua credibilidade perante fornecedores e clientes;
+4.Alegou que deve ser ressarcida do pagamento das faturas pelo período em que está sem a disponibilidade do serviço, cujo valor mensal é de R$629,91;
+5.Alegou também que sofreu abalo moral e pretende ser ressarcida na quantia de R$20.000,00, a título de indenização por danos morais.
+Pediu a antecipação da tutela para determinar o restabelecimento do serviço sob pena de multa diária e a final, a condenação da ré no restabelecimento do serviço, na indenização por dano material decorrente do pagamento da mensalidade sem a respectiva prestação do serviço e a condenação no pagamento de indenização por dano moral no valor de R$20.000,00. Protestou por provas, valorou a causa e juntou documentos (fls. 11/80).
+Indeferida a antecipação da tutela (fl. 81).
+Contestação (fls. 87/100), onde a ré apresentou sua defesa e alegou: a) o problema já foi resolvido; b) o problema técnico estava no telefone da autora, não sendo questão de responsabildiade da ré; c) os valores cobrados são devidos porque o serviço esteve disponível para a autora; d) não deu causa a abalo moral à autora; e) em caso de condenação o valor da indenização deve ser fixado com moderação. Protestou por provas, valorou a causa e juntou documentos (fls. 101/106).
+Às fls. 107/108 a ré informou que as linhas telefônicas estão funcionando normalmente, e queos serviços de reparos forma concluídos no dia 12.11.2012, oportunidade em que substituiu o modem na central de transmissão e juntou documentos (fls. 109/118).
+Réplica (fls. 121/129).
+II ? FUNDAMENTAÇÃO
+O debate jurídico travado entre as partes já pode ser resolvido de plano, sem necessidade de dilação probatória, e passo a julgar a lide antecipadamente, nos termos do art. 330, inciso I, do Código de Processo Civil.
+Com relação ao pedido de restabelecimento do funcionamento das linhas telefônicas, a autora afirmou que o pedido está prejudicado porque o serviço foi restabelecido e sendo assim, no ponto, dou por prejudicada a pretensão.
+Com relação ao pedido de restituição do valor da prestação mensal proporcionalmente ao período em que as linhas telefônicas ficaram sem funcionar, o autor afirmou que o valor da prestação mensal é de R$629,91, o que é comprovado pelo documento de fl. 20.
+A ré alegou que não houve nenhum problema técnico a justificar a restituição de valores pagos pela autora, todavia, apesar de afirmar na contestação que não houve problema na linha, às fls. 107/108 confessou que a autora formulou a reclamação no dia 29.10.2012 e o problema foi solucionado no dia 12.11.2013, ou seja, a autora ficou sem o serviço à disposição durante 14 dias.
+Considerando que o valor da prestação do plano de telefonia é de R$629,91, deverá a ré indenizar a autora pelos 14 dias que deixou de fornecer o serviço.
+Dividindo-se o valor de R$629,91 por 30 e multiplicando-se por 14, chega-se ao valor de 293,95. Este é o valor da restituição que a ré deverá sujeitar-se, porque causou dano material à autora, na medida em que recebeu pela prestação do serviço e não cumpriu com a sua parte no contrato.
+Portanto, relativamente ao pedido de restituição do valor proporcional da prestação mensal, a pretensão da autora é procedente e rejeito a tese defensiva.
+Relativamente ao pedido de indenização pelo dano moral, a autora alegou que ficou sem a disponibilidade do serviço de telefonia e que isso acarretou-lhe inúmeros problemas, tanto que experimentou abalo de sua credibilidade junto a fornecedores e clientes.
+A ré não negou especificadamente tal alegação e com fundamento no art. 302 do CPC, reconheço que a indisponibilidade do serviço de telefonia acarretou abalo na credibilidade da autora junto a fornecedores e clientes.
+Ademais, se a autora não conseguiu utilizar o serviço de telefonia, é óbvio que teve muitas dificuldades de atuar no mercado, porque atualmente a disponibilidade de linha telefônica para uma empresa é essencial para o exercício da atividade econômica.
+A autora formulou a reclamação no dia 29.10.2012, e somente no dia 12.11.2012 é que a ré restabeleceu o serviço, conforme documento emitido pela própria ré (fl. 112), ou seja, houve o fato (indisponibilidade do serviço de telefonia por 14 dias), e está demonstrado o primeito elemento da responsabilidade civil.
+O fato de ficar 14 dias sem a disponibilidade do serviço de telefonia acarretou abalo na credibilidade da autora, e por isso, houve ofensa à sua honra objetiva, na medida em que o mercado é invisível, mas gera efeitos concretos para os atores sociais que nele operam e a desconfiança acerca da idoneidade de uma empresa acarreta prejuízos irreparáveis, porque os clientes passam a negociar com os concorrentes e os fornecedores passam anegar o fornecimento de produtos e serviços para pagamento a prazo, ou seja, a indisponibilidade do serviço de telefonia para a autora durante 14 dias causou-lhe abalo na honra objetiva, e está configurado o dano moral, enquanto segundo elemento da responsabilidade civil.
+O nexo causal está configurado porque foi por ato da ré, que deixou o serviço de telefonia indisponível por 14 dias, que a autora experimentou abalo na sua credibilidade, e assim, está rpesentes os três elementos da responsabilidade civil e o caso de condenar a ré no pagamento de indenização pelo dano moral.
+A ré alegou que simpels aborrecimentos são i9nsuficientes a ensejar uma condenação pro dano moral, todavia no caso concreto não houve simples aborrecimentos e sim uma lesão concreta na atividade econômica da ré, porque ela teve sua credibildade abalada no mercado, junto a fornecedores e clientes, e pro isso, rejeito a tese defensiva da ré.
+A autora pediu a fixação do dano moral em R$20.000,00 (vinte mil reais), enquanto a ré afirmou que é muito difícil quantificar o valor do abalo moral. 
+Ressalto que o problema causado pela ré atingiu 10 (dez) linhas telefônicas da autora de uma só vez, sujeitando-a a problemas graves no mercado, em razão da impossibilidade de comunicação, e a quantia de R$20.000,00 (vinte mil reais) a título de indenização é razoável, porque a fixação do valor da indneização tem dois objetivos: a) tornar indene o ofendido, no caso, a autora; b) disciplinar a atividade econômica do ofensor, no caso a ré.
+Sendo assim, acolho a pretensão da autora para fixar a condenação no pagamento de R$20.000,00 a título de indenização pelos danos morais.
+III ? DISPOSITIVO
+Ante o exposto, Julgo Procedente a pretensão da autora e extinto o processo com resolução de mérito, com fundamento no art. 269, inciso I, do CPC, nos seguintes termos:
+1.Condeno a ré a restituir à autora a quantia de R$293,95, pela indisponibilidade do serviço de telefonia por 14 dias, corrigido monetariamente de acordo com a tabela do TJSP, incidindo juros moratóriso de 1% ao mês, a partir da data do pagamento;
+2.Condeno a ré no pagamento de indenização por danos morais, no valor de R$20.000,00 (vinte mil reais), já atualizado e de ora em diante o valor será corrigido monetariamente de acordo com a tabela doTJSP, incidindo juros moratórios de 1% ao mês;
+3.Condeno a ré no pagamento das custas e de mais despesas processuais e em honorários de sucumbência, que com fundamento no art. 20, parágrafo 3º, do CPC, fixo em 10% do valor da condenação.
+P.R.I.
+São Paulo, 3 de julho de 2013.
+
+
+
+LUIZ FERNANDO SILVA OLIVEIRA
+Juiz de Direito
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

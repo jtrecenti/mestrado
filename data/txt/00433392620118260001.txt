@@ -1,0 +1,112 @@
+
+
+SENTENÇA
+
+Processo nº:0043339-26.2011.8.26.0001 - Procedimento Ordinário
+Requerente:Marco Antônio de Oliveira e outro
+Requerido:Centro Trasmontano de São Paulo
+
+
+Juiz(ª) de Direito Dr.(ª): Enéas Costa Garcia
+
+
+Vistos. 
+
+1. MARCO ANTONIO DE OLIVEIRA e FANY GERMANO DE OLIVEIRA, qualificados nos autos, ingressaram com ação contra CENTRO TRASMONTANO DE SÃO PAULO, alegando, em síntese, que: a) a autora FANY celebrou contrato de assistência médica com o réu; b) em razão de uma queda a autora foi hospitalizada, com fratura no fêmur, sendo necessária realização de cirurgia para colocação de prótese; c) o réu se recusou a arcar com o pagamento da prótese (R$ 10.235,00); d) a autora obteve alta com recomendação de home care, o qual não foi praticado; e) algum tempo depois a autora passou mal, sendo socorrida no mesmo hospital, constatado que a prótese estava fora do lugar; f) a autora permaneceu internada na UTI, com infecção generalizada, seus pés necrosaram, sendo recomendado exame médico chamado arteriografia arterial dos membros inferiores; g) durante uma semana o hospital e o plano de saúde discutiram sobre quem arcaria com o pagamento das despesas de UTI; h) a autora foi transferida para o Hospital IGESP, contudo, os exames recomendados não foram realizados e nem foram sanados os problemas anteriores; i) apesar do grave estado de saúde, o hospital deu alta à paciente e o réu providenciou sua transferência para o Hospital Personal, sob argumento de que este seria um hospital de retaguarda; j) o hospital não tem os profissionais que a autora necessitava e a UTI estava em péssimo estado de conservação; l) foi proposta medida cautelar para transferência da autora ao hospital onde se encontrava internada anteriormente; m) a paciente foi removida para quarto comum e não para UTI; n) sete dias após a internação a autora faleceu, sendo o requerente seu único herdeiro.   
+Pretendem o acolhimento do pedido para manutenção da decisão cautelar que compeliu o réu a prestar o tratamento médico necessário, bem como a condenação do requerido ao pagamento de indenização de dano moral e das despesas relativas ao tratamento, especialmente a prótese. 
+
+2. O réu foi citado e apresentou contestação (fls. 56/71). Alega em defesa: a) intempestividade da ação principal; b) ilegitimidade ativa; c) inaplicabilidade da Lei nº 9.656/98 aos contratos anteriormente firmados, não tendo a autora migrado seu contrato para a nova legislação; d) que haveria violação do ato jurídico perfeito se a Lei fosse aplicada retroativamente; e) que não há cobertura contratual para despesa com prótese e as demais suportadas pela autora; f) que o tratamento foi adequado; g) inexistência de dano moral a ser indenizado.   
+
+3. Veio aos autos a réplica (fls. 116/128).
+
+4. A ação foi precedida de processo cautelar no qual a autora obteve liminar para ser transferida ao hospital no qual se encontrava anteriormente internada. 
+É o relatório. 
+DECIDO.
+
+5. O feito comporta julgamento antecipado, sendo dispensável a produção de prova oral, nos termos do art. 330, I do Código de Processo Civil.
+
+6. Rejeito a preliminar de intempestividade da ação, a qual foi efetivamente protocolada em 14/10/2011 (fls. 2). 
+O fato de o Distribuidor ter registrado o processo alguns dias depois não é imputável à parte e nem gera intempestividade. 
+
+7. Rejeito a preliminar de ilegitimidade ativa. 
+A ação cautelar foi proposta em vida pela autora e com seu falecimento no curso do processo encontra-se correta a substituição processual. 
+Ademais, a certidão de óbito de fls. 32 indica o autor como único herdeiro e não se mostrava necessário aguardar nomeação de inventariante, pois nos termos do art. 1797, II do Código Civil o requerente atua como administrador provisório da herança até a nomeação de inventariante, representando o espólio. 
+
+8. A ação é PROCEDENTE. 
+
+8.1 - No que concerne à despesa com prótese e outras correlatas ao tratamento, desnecessário invocar a Lei nº 9.656/98, pois o contrato é regido pelo Código de Defesa do Consumidor, celebrado posteriormente ao advento daquele diploma legal (fls. 33).
+E sob a ótica do Código de Defesa do Consumidor mostra-se abusiva a limitação contratual de custeio de prótese que se insere no objeto específico do tratamento, sob pena de inviabilizá-lo. 
+A cláusula de exclusão de cobertura de despesa com prótese não é lícita quando imprescindível à realização de procedimento cirúrgico, o qual é coberto pelo plano.
+Nesse sentido a jurisprudência:
+
+Plano de saúde. Prostatectomia radical. Incontinência urinária.
+Colocação de prótese: esfíncter urinário artificial.
+1. Se a prótese, no caso o esfíncter urinário artificial, decorre de ato cirúrgico coberto pelo plano, sendo conseqüência possível da cirurgia de extirpação radical da próstata, diante de diagnóstico de câncer localizado, não pode valer a cláusula que proíbe a cobertura.
+Como se sabe, a prostatectomia radical em diagnóstico de câncer localizado tem finalidade curativa e o tratamento da incontinência urinária, que dela pode decorrer, inclui-se no tratamento coberto, porque ligado ao ato cirúrgico principal.
+2. Recurso especial conhecido e desprovido.
+(STJ - REsp 519940/SP, Rel. Ministro CARLOS ALBERTO MENEZES DIREITO, TERCEIRA TURMA, julgado em 17/06/2003, DJ 01/09/2003, p. 288)
+
+
+AGRAVO REGIMENTAL. PROCESSUAL CIVIL. PLANO DE SAÚDE. COBERTURA SECURITÁRIA. PRÓTESE NECESSÁRIA AO SUCESSO DA CIRURGIA COBERTA PELO CONTRATO. IMPOSSIBILIDADE DE RECUSA. INCIDÊNCIA CDC. SÚMULA 83/STJ.
+1. A jurisprudência desta Corte é pacífica em repudiar a recusa de fornecimento de instrumental cirúrgico ou fisioterápico, quando este se encontrar proporcionalmente interligado à prestação contratada, como é o caso de próteses essenciais ao sucesso das cirurgias ou tratamento hospitalar decorrente da própria intervenção cirúrgica.
+2. Encontrando-se o acórdão recorrido em harmonia com o entendimento firmado nesta Corte Superior de Justiça, incide à hipótese o enunciado da Súmula 83/STJ, aplicável também ao recurso interposto com fundamento na alínea "a" do permissivo constitucional.3. Não tendo o agravante trazido qualquer razão jurídica capaz de alterar o entendimento sobre a causa, mantenho a decisão agravada pelos seus próprios fundamentos.
+4. Agravo regimental não provido.
+(STJ - AgRg no Ag 1226643/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/04/2011, DJe 12/04/2011).
+
+
+ASSISTÊNCIA MÉDICA E HOSPITALAR. Plano de saúde. Colocação de prótese. Recusa da cobertura. Sentença de procedência. Material que se mostra imprescindível para a recuperação da segurada e deve ser coberto pelo plano de saúde. Recurso desprovido. (TJSP ?  4ª Câm. - Ap. nº 0320309-57.2009.8.26.0000 - Rel. Teixeira Leite ? j. 16/02/2012). 
+
+
+Consumidor - Plano de Saúde - Operadora que exclui o custeio de lente intraocular em cirurgia de catarata - Impossibilidade - Prótese/ órtese imprescindível para o êxito da intervenção médica - Abusividade manifesta da cláusula restritiva de direitos - Jurisprudência dominante do STJ - Sentença mantida - RITJSP, art. 252 - Recurso improvido. (TJSP ? 7ª Câm. - Ap. nº 9095690-25.2008.8.26.0000 - Rel. Luiz Antonio Costa ? j. 15/02/2012).
+
+
+SEGURO SAÚDE Cirurgia de aneurisma de aorta abdominal Prótese Cláusula contratual que exclui a cobertura Alegação de nulidade Sentença de procedência Prótese ligada ao ato cirúrgico Escolha do método do cirúrgico que incumbe ao médico e não ao plano Abusividade manifesta da recusa da seguradora Situação emergencial que também prevê a cobertura obrigatória Apelação desprovida (TJSP ? 4ª Câm. - Ap. nº 0024038-97.2010.8.26.0011 - Rel. Carlos Henrique Miguel Trevisan ? j. 16/02/2012).
+  
+Assim, responde o requerido pela despesa com prótese e também com as demais despesas indicadas na inicial, aplicando-se analogicamente a Súmula 96 do Tribunal de Justiça de São Paulo. 
+
+8.2 ? Reclamam os autores de uma série de imperfeições na prestação do serviço. 
+Basicamente afirmam que a autora não foi tratada com a consideração necessária, havendo recusa de procedimentos, prestação insatisfatória de outros e transferência para hospital sem condições de atender o grave estado da paciente. 
+Em que pese a negativa do réu, o quadro geral descrito na inicial da ação principal e da cautelar justificava o deferimento da liminar, devendo ser acolhido o pedido cautelar e principal. 
+Constata-se que a remoção da paciente não se deu de forma adequada, devendo ser mantido o tratamento no hospital original, que apresentava melhores condições de prestar o serviço. 
+Não basta ao prestador do serviço prestar atendimento, devendo fazê-lo com a qualidade do plano contratado. Assim, não se justificava a transferência da autora para outro hospital, em condições de menor conforto e assistência, colocando em risco o tratamento que era ministrado. 
+
+8.3 ? O pedido de dano moral deve ser acolhido. 
+O ato ilícito ficou caracterizado com a recusa injustificada do tratamento. 
+O dano moral existe in re ipsa.
+Dada a natureza especial do contrato ? que envolve direito personalíssimo da vítima (vida, saúde) ? o inadimplemento acarreta conseqüências ensejadoras de dano moral. 
+Não bastasse o desconforto, a dor e o abalo emocional que a doença naturalmente acarreta, a autora ainda foi submetida a sofrimento adicional por conta da recusa indevida do plano de saúde em custear o tratamento que se mostrava imprescindível para recuperação da sua saúde. 
+Aquele que contrata este tipo de serviço busca justamente resguardar-se do risco de não ter como arcar com os caríssimos custos dos tratamentos médico- hospitalares. 
+Quem está doente, já combalido com seu estado de saúde, não deve ser submetido ao desgaste adicional de ter que litigar com o seu plano de saúde, enfrentando rotinas burocráticas e recusas infundadas, colocando em risco o prosseguimento do tratamento ? e, por conseguinte, a saúde do paciente ? e desgastando ainda mais a vítima, num momento especial em que esta mais precisa de tranqüilidade e cuidado. 
+Perfeitamente identificável a frustração, o abalo emocional, a sensação de impotência e de revolta suportados por aquele que contratou o plano de saúde, cumpriu rigorosamente sua obrigação, vê-se doente e não conta com o respaldo médico a que faria jus. 
+Este dano moral é palpável, dispensa outro tipo de prova, decorre da natureza das coisas  (in re ipsa).
+Aliás, este entendimento foi consagrado pelo Superior Tribunal de Justiça:
+
+CIVIL. INDENIZAÇÃO. PLANO DE SAÚDE. CIRURGIA. AUTORIZAÇÃO. AUSÊNCIA. LEGITIMIDADE. ESPÓLIO. DANOS MORAIS. CONFIGURAÇÃO. QUANTUM. DISSÍDIO. AUSÊNCIA DE DEMONSTRAÇÃO E COMPROVAÇÃO.
+(...) 2. É possível a reparação moral quando, como no caso presente, os danos não decorrem de simples inadimplemento contratual, mas da própria situação de abalo psicológico em que se encontra o doente ao ter negada injustamente a cobertura do plano de saúde que contratou. (STJ - AgRg no Ag 797.325/SC - Rel. Min. Fernando Gonçalves ? j. 04/09/2008).
+
+DIREITO CIVIL E CONSUMIDOR. SEGURO SAÚDE. CONTRATAÇÃO ANTERIOR À VIGÊNCIA DO CDC E À LEI 9.656/98. EXISTÊNCIA DE TRATO SUCESSIVO. INCIDÊNCIA DO CDC, MAS NÃO DA LEI 9.656/98. BOA-FÉ OBJETIVA. PRÓTESE NECESSÁRIA À CIRURGIA DE ANGIOPLASTIA. ILEGALIDADE DA EXCLUSÃO DE STENTS DA COBERTURA SECURITÁRIA. DANO MORAL CONFIGURADO. DEVER DE REPARAR OS DANOS MATERIAIS.
+(...) Conquanto geralmente nos contratos o mero inadimplemento não seja causa para ocorrência de danos morais, a jurisprudência desta Corte vem reconhecendo o direito ao ressarcimento dos danos morais advindos da injusta recusa de cobertura de seguro saúde, pois tal fato agrava a situação de aflição psicológica e de angústia no espírito do segurado, uma vez que, ao pedir a autorização da seguradora, já se encontra em condição de dor, de abalo psicológico e com a saúde debilitada.
+Recurso especial a que se dá parcial provimento. (STJ - REsp 735.168/RJ, Rel. Ministra  NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 11/03/2008, DJe 26/03/2008)
+
+Também caracteriza dano moral, no caso sub judice, a forma como tratada a paciente, removida de hospital, com interrupção do tratamento, havendo necessidade de solicitar auxílio judicial para continuar a receber tratamento no hospital em que se encontrava. 
+Passo a fixar a indenização.
+Considerando as circunstâncias do caso, o grau de culpa, a intensidade da violação e consequências do evento, fixo a indenização em R$ 30.000,00 (trinta mil reais), o que se aproxima de cinquenta salários. 
+Incide correção monetária desde a sentença (Súmula 362 do STJ) e juros de mora, à taxa legal, desde a citação.
+Os juros de mora, à taxa legal, incidem desde a sentença, considerando que nesta data houve liquidação do dano, conforme nova orientação do Superior Tribunal de Justiça (REsp 494.183/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/09/2011; REsp 903.258/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 21/06/2011).
+
+9. Diante do exposto, JULGO PROCEDENTE o pedido principal e o cautelar, tornando definitiva a liminar, para:
+a) declarar a obrigação de o réu arcar com o tratamento no hospital em que se encontrava a autora antes da transferência impugnada no processo cautelar; 
+b) condenar o requerido ao pagamento das despesas com prótese, com correção monetária desde a propositura da ação e juros de mora desde a citação;
+c) condenar o requerido ao pagamento das despesas indicadas na inicial, com correção monetária desde o desembolso e juros de mora desde a citação;
+d) condenar o réu ao pagamento de indenização de dano moral, no montante de R$ 30.000,00 (trinta mil reais), com correção monetária e juros de mora, à taxa legal, desde a sentença.
+Condeno o requerido ao pagamento de custas, despesas processuais e honorários advocatícios, que arbitro em 15% do valor da condenação, verba que engloba ambos os processos.
+P. R. I
+
+
+São Paulo, 27 de fevereiro de 2012.
+
+
+ ENÉAS COSTA GARCIA
+        JUIZ DE DIREITO
+
+         (assinatura digital)

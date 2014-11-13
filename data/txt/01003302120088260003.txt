@@ -1,0 +1,93 @@
+
+
+SENTENÇA
+
+Processo nº:0100330-21.2008.8.26.0003
+Classe - AssuntoProcedimento Sumário - Assunto Principal do Processo >
+Requerente:Instituto de Ortopedia e Traumatologia de Rondônia - Iot-ro
+Requerido:Devpartner Tecnologia da Informação Ltda
+
+
+
+Juiz(a) de Direito: Dr(a). Alexandre Batista Alves
+
+
+
+
+Vistos.
+
+
+
+INSTITUTO DE ORTOPEDIA E TRAUMATOLOGIA DE RONDÔNIA- IOT-RO ajuizou ação declaratória cumulada com pedidos de indenização por danos materiais e morais contra DEVPARTNER TECNOLOGIA DA INFORMAÇÃO LTDA alegando, em resumo, que: a) em 19 de julho de 2006, firmou com a ré Instrumento Particular de Compra e Venda de Serviço, tendo por objeto da aquisição de um software denominado Solução de Gestão de Academia; b) os serviços contratados não funcionaram adequadamente e, a despeito de notificada, a ré não logrou reparar os defeitos; c) deve ser declarada a inexigibilidade dos débitos vencidos após a notificação da ré, ocorrida em 14.09.2007; d) a empresa experimentou danos morais e materiais.
+
+Por essas razões, invocando dispositivos do Código de Defesa do Consumidor, pleiteou a devolução do que pagou em excesso, bem como indenização por danos morais. A petição inicial veio instruída com documentos (fls. 23/107).
+
+Citada, a ré ofertou contestação (fls. 128/144) e sustentou basicamente que: a) o pedido formulado na inicial é aleatório; b) não foi solicitada a rescisão do contrato e, após o cancelamento da hospedagem Site, não foi cobrada mais a parcela mensal de R$180,00; c) a autora teve 60 dias para fazer testes com o programa antes de sua aquisição; d) depois da instalação do produto, a autora solicitou alterações, as quais foram prontamente atendidas; e) houve a utilização do produto por longo período, de modo que não pode ser penalizada por eventual incapacitação dos funcionários da autora; f) foram cadastros mais de 400 clientes pela autora, os quais se utilizaram do sistema, de modo que não há que se falar em vício do produto, nem na devolução dos valores referentes à manutenção mensal; g) é incabível o pedido de indenização por danos morais. Juntou documentos (fls. 145/216).
+
+Sobreveio réplica (fls. 219/226).
+
+Saneado o processo (fl. 229), foi deferida a realização de prova pericial, sobrevindo o laudo (fls. 292/320) e esclarecimentos (fls. 431/432).
+
+Por fim, as partes manifestaram-se em memorais.
+
+É o relatório.
+Fundamento e Decido.
+
+Trata-se de ação de indenização por danos materiais e morais fundada em alegado defeito na execução de serviço de informática, controvérsia que demandou a realização de prova pericial, dada a tecnicidade das questões suscitadas.
+
+Após análise minuciosa dos dados coletados, apurou o perito que a ré tardou na solução dos problemas com o módulo de controle de freqüência de alunos, assim como na indicação de qual seria a melhor opção de hardware/equipamento no controle da portaria da academia autora (fl. 319).
+
+Por outro lado, salientou o perito que a ré não comprovou documentalmente a alegação de que havia constantes problemas com a conexão da rede de internet local em Porto Velho/RO com o servidor do autor (fl. 319).
+
+Consta, ainda, do laudo que a empresa ré não ofereceu à cliente o devido treinamento inicial com o sistema informatizado adquirido, nem tampouco cumpriu o cronograma acordado na proposta comercial sobre o prazo de 60 dias úteis destinado à sua implementação. Além disso, deixou a ré de demonstrar a instalação de todos os módulos e sua cabal operação ininterrupta (fl. 319).
+
+As críticas tecidas ao laudo pericial, não veiculadas por meio de assistente técnico, não têm o condão de abalar a essência do laudo pericial, mormente porque foi elaborado por profissional capacitado e eqüidistante dos interesses das partes.
+
+Nota-se que ao longo da contratação a ré não ofereceu à autora o suporte necessário para o equacionamento dos problemas que surgiram com a implementação do software, o que configura defeito na prestação dos serviços e violação à boa fé objetiva.
+
+Aponta a doutrina basicamente duas funções distintas do princípio da boa-fé, a saber: a) a de norma de criação de deveres jurídicos; b) a de norma de limitação ao exercício de direitos subjetivos. A estas duas funções Judith Martins Costa agrega a função de cânone hermenêutico-integrativo do contrato.
+
+A segunda função do contrato diz respeito aos chamados deveres anexos, ou seja, aqueles que não foram referidos no contrato e que podem ser entendidos como deveres nele implícitos. 
+
+Dito de outro modo, o contrato não gera apenas os efeitos que foram avençados entre as partes, vale dizer, cria deveres que dele decorrem implicitamente.
+
+Como sendo deveres anexos a doutrina exemplifica: a) o dever de informação; b) o dever de manter sigilo acerca de algum fato que o contratante soube da outra parte; c) deveres de cooperação e colaboração, no sentido de que os contratantes deve colaborar entre si etc.
+
+No caso vertente, é possível inferir-se da provas coligidas, notadamente da perícia, que a ré violou os chamados deveres anexos, porquanto não forneceu o treinamento inicial ao cliente, nem cumpriu o cronograma acordado na proposta, tardando na solução dos problemas surgidos ao longo da contratação.
+
+Assim, deve ser resolvido implicitamente o contrato.
+
+Por conseguinte, devera a ré ser condenada à devolução dos valores comprovadamente pagos pela autora, seja pela contratação de serviços, seja pela manutenção mensal.
+
+Não se tratando de cobrança de dívida já paga, é descabida a devolução em dobro (CC, art. 940).
+
+Os danos morais, contudo, são indevidos.
+
+Prevalece hoje na doutrina e jurisprudência orientação segundo a qual é admissível a reparação do dano moral infligido à pessoa jurídica, em especial no caso de danos resultantes do abalo de credibilidade.
+
+Embora não seja titular de honra subjetiva, a pessoa jurídica é detentora de honra objetiva, de sorte que tem direito à indenização por dano moral quando seu bom nome, reputação ou imagem forem atingidos no meio comercial por algum ato ilícito.
+
+Em acórdão da lavra do Des. Sérgio Cavalieri Filho, Ap. 5.943-94- 2ª Câmara do TJ/RJ, assentou-se que:
+
+... registre-se, então, que  a honra tem dois aspectos, o subjetivo (interno) e o objetivo (externo). A honra subjetiva que se caracteriza pela dignidade, decoro e auto-estima, é exclusiva do ser humano, mas a honra objetiva, refletida na reputação, no bom nome e na imagem perante a sociedade, é comum à pessoa natural e jurídica. Quem pode negar que uma notícia difamatória pode abalar o bom nome, o conceito e a reputação, não só do cidadão, pessoa física, no meio social, mas também de uma pessoa jurídica no meio comercial? Indiscutivelmente, toda empresa tem que zelar pelo seu bom nome comercial.
+(...)
+Nessa linha de princípios, a Lei de Imprensa, no seu art. 16, inc. II, considera ilícita publicar ou divulgar notícia falsa que provoquem abalo de crédito de qualquer pessoa, física ou jurídica. E no art. 2º assegura o direito de resposta a toda pessoa natural ou jurídica que for acusada ou ofendida em publicação feita em jornal ou periódico, ou em transmissão de radiodifusão.
+Ademais, após a CF/88, a noção do dano moral não mais se restringe à dor, sofrimento, tristeza, etc., como se depreende do seu art. 5º,  inc. X, ao estender a sua abrangência a qualquer ataque a nome ou imagem da pessoa, física ou jurídica, com vistas a resguardar a sua credibilidade e respeitabilidade. Pode-se dizer que, em sua concepção atual, honra é o conjunto de predicados ou condições de uma pessoa, física ou jurídica, que lhe conferem consideração e credibilidade social; é o valor moral e social da pessoa que a Lei protege ameaçando de sanção penal e civil a quem ofende por palavras ou atos. Fala-se modernamente em honra profissional como uma variante da honra objetiva, entendida como valor social da pessoa perante o meio onde exerce a sua atividade.
+
+O Superior Tribunal de Justiça, em acórdão paradigmático relatado pelo eminente Ministro Ruy Rosado de Aguiar,  também perfilhou a mesma linha de entendimento. Confira-se: 4ª Turma do STJ, 09.08.1995, RSTJ 85/268 e RT 727/123.
+
+Analisando o caso concreto, não há elementos de convicção a demonstrar que o descumprimento contratual por parte da ré abalou a reputação e a imagem da empresa autora no seio do comércio. Mero descumprimento contratual, por si só, não gera indenização por dano moral.
+
+Nesse sentido, confiram-se os seguintes precedentes jurisprudenciais do STJ:
+
+A descrição dos fatos para justificar o pedido de danos morais está no âmbito de dissabores, sem abalo à honra e ausente situação que produza no consumidor humilhação ou sofrimento na esfera de sua dignidade, o dano moral não é pertinente (Resp 554.876-RJ, Rel. Min. Carlos Alberto Menezes Direito, j. em 17.2.2004, v.u).
+
+O inadimplemento do contrato, por si só, pode acarretar danos materiais e indenização por perdas e danos, mas, em regra, não dá margem ao dano moral, que pressupõe ofensa anormal à personalidade. Embora a inobservância das cláusulas contratuais por uma das partes possa trazer desconforto ao outro contratante ? e normalmente o traz ? trata-se, em princípio, do desconforto a que todos podem estar sujeitos, pela própria vida em sociedade. Com efeito, a dificuldade financeira, ou a quebra da expectativa de receber valores contratados, não tomam a dimensão de constranger a honra ou a intimidade, ressalvadas situações excepcionais (STJ ? 4.ª T. ? REsp 202.564 ? Rel. Sálvio de Figueiredo Teixeira ? j. 02.08.2001 ? DJU 01.10.01 e RSTJ 152/392).
+
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTES os pedidos para condenar a ré à devolução dos valores comprovadamente pagos pela autora, quer pela contratação dos serviços, quer pela manutenção mensal cobrada, os quais serão atualizados pela Tabela Prática do Tribunal de Justiça e acrescidos de juros de mora de 1% a contar da citação. O valor será apurado em liquidação de sentença (cálculos aritméticos).
+
+Tendo em vista a sucumbência recíproca, as custas  e despesa processuais serão rateadas igualmente entre as partes e cada qual arcará com a verba honorária de seu patrono, já operada a compensação.
+
+P.R.I.
+
+São Paulo, 02 de dezembro de 2010.

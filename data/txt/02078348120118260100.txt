@@ -1,0 +1,110 @@
+
+
+SENTENÇA
+
+Processo nº:0207834-81.2011.8.26.0100
+Classe ? Assunto:Cautelar Inominada - Liminar 
+Requerente:Manoelina de Souza Ruiz
+Requerido:Associação de Beneficência e Filantropia São Cristovão
+
+
+
+
+Juiz(a) de Direito: Dr(a). Alberto Alonso Muñoz
+
+
+Vistos.
+
+Manoelina de Souza Ruiz, qualificado(s) na inicial, ajuizou(aram) ação de Cautelar Inominada em face de Associação de Beneficência e Filantropia São Cristóvão.
+Alega a parte autora, em síntese, ter firmado contrato de plano de saúde com a ré. Necessitando submeter-se a cirurgia cardíaca, a ré negou-se a cobrir a colocação de marca-passo, invocando cláusula contratual que a afastaria. Aduz que a cláusula é ilegal, pelo que requereu a declaração de nulidade da cláusula 8.15 do contrato e a condenação ao pagamento de dano moral.
+A ré contestou e alegou que o contrato foi firmado anteriormente à vigência da Lei n. 9.656/98, sem que a ela fosse readaptado, pelo que não seria obrigada ao custeio do marca-passo. Impugnou, por fim, a existência do dano moral.
+Houve réplica.
+
+Processo cautelar:
+A parte autora, aos mesmos argumentos, sustentando o periculum in mora em virtude da cirurgia iminente, pediu a cobertura dos custos de materiais especiais descritos na solicitação de cirurgia, a saber, gerador CMS-Boston Altrua DR, 2 Eletrodos CMS-Boston de Fixação Ativa e 2 Introdutores 9 e 7F. 
+A liminar foi deferida.
+A parte ré apresentou, em contestação, essencialmente a mesma defesa apresentada no processo principal.
+Também houve réplica.
+
+Relatei. DECIDO.
+O processo comporta julgamento antecipado do mérito, na forma do art. 330, I do Código de Processo Civil, não se caracterizando cerceamento de defesa se não eram necessárias outras provas. Ao contrário, nas hipóteses em que se impõe, o julgamento antecipado do mérito não é faculdade do julgador, mas dever legalmente imposto até mesmo pela Constituição Federal quando o feito se encontra em condições de ser sentenciado, sendo corolário do princípio da economia processual (que decorre daquele do devido processo legal: art. 5.º, LIV da CF/88) e da razoável duração do processo (art. 5.º, LXXVIII).
+O pedido é procedente. 
+A tese apresentada pela parte ré diz respeito à não-retroatividade dos efeitos da Lei n. 9.656/98. No que a ré está coberta de razão, pois o ato jurídico perfeito tem proteção até mesmo constitucional.
+O que ocorre, aqui, porém, é que o contrato de plano de saúde não é instantâneo, mas de trato sucessivo. É contrato relacional, de longa duração, em que as partes mantêm relação jurídica que se reaviva a cada vez que o consumidor paga a mensalidade e o fornecedor se obriga à prestação de serviços de saúde.
+Anoto a Jurisprudência consolidada do STJ, que este Magistrado acompanha (REsp 735.168/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 11/03/2008, DJe 26/03/2008), cujo trecho do voto destaco abaixo:
+
+Diante do regime específico da Lei 9.656?98 e da clara dicção do referido art. 35, não há que se falar em sua aplicação imediata a contratos celebrados anteriormente a sua vigência. 
+Quanto à aplicação do CDC, o STJ tem posição desde há muito consolidada e ela pode ser desdobrada em duas proposições genéricas:
+ 
+a) O CDC não retroage para alcançar efeitos presentes e futuros de contratos celebrados anteriormente a sua vigência. Confira-se:
+ 
+?AGRAVO REGIMENTAL ? RECURSO ESPECIAL ? CÓDIGO DE DEFESA DO CONSUMIDOR ? IRRETROATIVIDADE ? PRECEDENTES. I - O Código de Defesa do Consumidor é inaplicável aos contratos celebrados anteriormente a sua vigência. Segundo os precedentes desta Corte, o só fato de se constituir lei de ordem pública é insuficiente para se admitir a retroatividade, em razão da própria suspensividade contida na legislação consumerista, que determinou sua entrada em vigor para cento e oitenta dias após a sua edição. II - A Lei n.º 9.298, de 01?08?96, que alterou o artigo 52, § 1º, do Código de Defesa do Consumidor, não se aplica aos contratos celebrados anteriormente a sua vigência, devendo prevalecer a multa contratada, de 10% (dez por cento), nos limites constantes do próprio Código de Defesa do Consumidor, em sua redação original. Agravo improvido? (AgRg no REsp 489.858?SC, Terceira Turma, Rel. Min. Castro Filho, DJ 17.11.2003).
+ 
+b) O CDC regula os efeitos presentes de contratos de trato sucessivo, pois aí não se discutem os efeitos presentes e futuros de negócio jurídico que era perfeito sob a égide da lei revogada, mas, sim, as conseqüências de negócio jurídico renovado sob os auspícios da lei nova. Confira-se:
+ 
+?Contrato de prestação de serviços médicos. Execução continuada. Renovação na vigência do CDC. Aplicabilidade. Princípio da irretroatividade das lei. Violação. Não ocorrência. I - Tendo sido o contrato renovado sob a égide do Código de Defesa do Consumidor, embora o pacto inicial tenha ocorrido em 1985, não há como afastar a incidência das disposições nele previstas. II - Recurso especial não conhecido? (REsp 193.584?RJ, Terceira Turma, Rel. Min. Pádua Ribeiro, DJ 18.04.2005)
+ 
+?Previdência privada. Código de Defesa do Consumidor. Devolução em dobro. Dano moral. 1. Nos contratos de execução continuada aplica-se o Código de Defesa do Consumidor, mas, no caso, tratando-se de pedido de restituição de prestações pagas a entidades de previdência privada, não incide o art. 42, parágrafo único, do referido Código? (REsp 331.860?RJ, Terceira Turma, Rel. Min. Menezes Direito, DJ 05.08.2002) (g.n.).
+
+É, portanto, contrato que se protrai no tempo, de sorte que se os efeitos pretéritos do contrato não são afetados pela novel legislação, os futuros, sim, o são.
+E aqui incide o Código de Defesa do Consumidor, que impõe a nulidade da cláusula excludente de cobertura, por violação a seu art. 51, IV do Código de Defesa do Consumidor. De fato, a cláusula viola 
+
+Quanto à nulidade da cláusula 8.15 do contrato, é evidente a violação do disposto no art. 51, IV do Código de Defesa do Consumidor, ante a afronta à boa-fé objetiva. Ainda o STJ tem entendimento de que a cláusula geral da boa-fé objetiva veda o venire contra factum proprium, a surrectio e a supressio, formas de comportamento das partes que inviabilizam o próprio negócio jurídico. Nesse sentido, destaco trecho do acórdão supracitado:
+
+
+Em diversas situações análogas à presente, o STJ vem considerando ser abusiva a cláusula que viola a boa-fé objetiva. A cláusula geral de boa-fé objetiva, implícita em nosso ordenamento antes da vigência do CDC e do CC?2002, mas explicitada a partir desses marcos legislativos, vem sendo entendida como um dever de conduta que impõe lealdade aos contratantes e também como um limite ao exercício abusivo de direitos. 
+É justamente nessa função limitativa que a cláusula geral tem importância para a presente lide. O direito subjetivo assegurado em contrato não pode ser exercido de forma a subtrair do negócio sua finalidade precípua. 
+Trazendo a regra geral à hipótese controvertida, pode-se perguntar se é legítimo impor ao segurado a realização de determinado procedimento cirúrgico que lhe assegure apenas meia saúde, de forma que ele continue ainda parcialmente convalescente. A resposta é negativa. Limita-se o exercício do inadmissível de posições jurídicas e que, se levadas à cabo, frustrariam a própria finalidade do contrato. 
+Por isso, o STJ decidiu reiteradas vezes que ?o plano de saúde pode estabelecer quais doenças estão sendo cobertas, mas não que tipo de tratamento está alcançado para a respectiva cura (...) A abusividade da cláusula reside exatamente nesse preciso aspecto, qual seja, não pode o paciente, em razão de cláusula limitativa, ser impedido de receber tratamento com o método mais moderno disponível no momento em que instalada a doença coberta? (REsp 668.216?SP, Terceira Turma, Rel. Min. Menezes Direito, DJ 02.04.2007). 
+Em circunstância análoga, também se concluiu que não haveria de prevalecer a exclusão da cobertura quanto à prótese ligada ao ato cirúrgico principal. Confira-se: 
+?Plano de saúde. Prostatectomia radical. Incontinência urinária. Colocação de prótese: esfíncter urinário artificial. 1. Se a prótese, no caso o esfíncter urinário artificial, decorre de ato cirúrgico coberto pelo plano, sendo conseqüência possível da cirurgia de extirpação radical da próstata, diante de diagnóstico de câncer localizado, não pode valer a cláusula que proíbe a cobertura. Como se sabe, a prostatectomia radical em diagnóstico de câncer localizado tem finalidade curativa e o tratamento da incontinência urinária, que dela pode decorrer, inclui-se no tratamento coberto, porque ligado ao ato cirúrgico principal. 2. Recurso especial conhecido e desprovido? (REsp 519.940?SP, Terceira Turma, Rel. Min. Menezes Direito, DJ 01.09.2003)
+ 
+E em caso essencialmente idêntico ao presente, asseverou-se que ?é abusiva a cláusula contratual que exclui de cobertura a colocação de stent, quando este é necessário ao bom êxito do procedimento cirúrgico coberto pelo plano de saúde? (REsp 896247 ? RJ, Terceira Turma, Rel. Min. Humberto Gomes de Barros, DJ 18.12.2006). 
+Vê-se, portanto, que foi ilegal a recusa da recorrida em conferir cobertura securitária ao recorrente.
+
+Dessa forma, a declaração de nulidade é de rigor.
+Não há que se falar em "mero aborrecimento" ou ausência de dano moral indenizável. Efetivamente, ver-se a vésperas de uma cirurgia cardíaca, quase frustrada (só não o foi pela pronta intervenção do Poder Judiciário, através da provocação do advogado da parte) em razão da recusa de cobertura, não é "mero aborrecimento", a não ser que se imagine que qualquer risco dessa espécie seja equiparável aos meros respingos de gotas de garoa num fim de tarde.
+A existência de dano moral indenizável quando de descumprimento de contrato é exceção admitida em vários casos pelo STJ:
+
+
+DIREITO CIVIL E CONSUMIDOR. SEGURO SAÚDE. CONTRATAÇÃO ANTERIOR À VIGÊNCIA DO CDC E À LEI 9.656/98. EXISTÊNCIA DE TRATO SUCESSIVO.
+INCIDÊNCIA DO CDC, MAS NÃO DA LEI 9.656/98. BOA-FÉ OBJETIVA. PRÓTESE NECESSÁRIA À CIRURGIA DE ANGIOPLASTIA. ILEGALIDADE DA EXCLUSÃO DE ?STENTS? DA COBERTURA SECURITÁRIA. DANO MORAL CONFIGURADO. DEVER DE REPARAR OS DANOS MATERIAIS.
+- As disposições da Lei 9.656/98 só se aplicam aos contratos celebrados a partir de sua vigência, bem como para os contratos que, celebrados anteriormente, foram adaptados para seu regime. A Lei 9.656/98 não retroage, entretanto, para atingir o contrato celebrado por segurados que, no exercício de sua liberdade de escolha, mantiveram seus planos antigos sem qualquer adaptação.
+- Embora o CDC não retroaja para alcançar efeitos presentes e futuros de contratos celebrados anteriormente a sua vigência, a legislação consumerista regula os efeitos presentes de contratos de trato sucessivo e que, por isso, foram renovados já no período de sua vigência.
+- Dada a natureza de trato sucessivo do contrato de seguro saúde, o CDC rege as renovações que se deram sob sua vigência, não havendo que se falar aí em retroação da lei nova.
+- A cláusula geral de boa-fé objetiva, implícita em nosso ordenamento antes da vigência do CDC e do CC/2002, mas explicitada a partir desses marcos legislativos, impõe deveres de conduta leal aos contratantes e funciona como um limite ao exercício abusivo de direitos.
+- O direito subjetivo assegurado em contrato não pode ser exercido de forma a subtrair do negócio sua finalidade precípua. Assim, se determinado procedimento cirúrgico está incluído na cobertura securitária, não é legítimo exigir que o segurado se submeta a ele, mas não instale as próteses necessárias para a plena recuperação de sua saúde.
+- É abusiva a cláusula contratual que exclui de cobertura a colocação de ?stent?, quando este é necessário ao bom êxito do procedimento cirúrgico coberto pelo plano de saúde. Precedentes.
+- Conquanto geralmente nos contratos o mero inadimplemento não seja causa para ocorrência de danos morais, a jurisprudência desta Corte vem reconhecendo o direito ao ressarcimento dos danos morais advindos da injusta recusa de cobertura de seguro saúde, pois tal fato agrava a situação de aflição psicológica e de angústia no espírito do segurado, uma vez que, ao pedir a autorização da seguradora, já se encontra em condição de dor, de abalo psicológico e com a saúde debilitada.
+Recurso especial a que se dá parcial provimento.
+(REsp 735.168/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 11/03/2008, DJe 26/03/2008)
+
+Assim, de rigor a condenação ao pagamento de indenização pelo dano moral suportado.
+Quanto ao processo cautelar, o periculum in mora está evidenciado, já que se cuidava de cirurgia cardíaca urgente, quase frustrada ante a recusa de cobertura. De outra banda, as considerações acima suportam o fumus boni juris.
+Por fim, quanto à quantificação do dano moral indenizável.
+Utilizando o critério punitivo-pedagógico, de um lado, e reparador, de outro, e cuidando para que não haja enriquecimento sem causa de uma parte a custas da outra, entendo razoável a condenação das rés ao pagamento de R$ 50.000,00 (cinquenta mil reais) como indenização pelo dano moral.
+Considerei, aqui: a) o porte econômico da ré; b) a condição econômica da parte autora; c) o fato de a autora estar a vésperas de realizar cirurgia cardíaca, sendo negada cobertura; d) a extensão da dor e da lesão corporal, descrita no laudo; e) a gravidade da ofensa; f) a média indenizatória concedida para casos semelhantes (no REsp 735.168/RJ acima, a indenização atingiu esse patamar: R$ 50.000,00 para caso em tudo idêntico).
+Termo inicial dos juros e correção monetária:
+?O termo inicial da correção monetária incidente sobre a indenização por danos morais é a data do seu arbitramento, consoante dispõe o verbete da Súmula n. 362/STJ: 'A correção monetária do valor da indenização do dano moral incide desde a data do arbitramento'. Os juros moratórios, em se tratando de responsabilidade extracontratual, incidem desde a data do evento danoso, na forma da Súmula n. 54/STJ: 'Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual'. Precedente da Segunda Seção do STJ no julgamento do REsp n. 1.132.866/SP, em sessão realizada em 23/11/2011, cujo acórdão encontra-se pendente de publicação.? (REsp 827.010/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/02/2012, DJe 13/03/2012).
+A data do evento danoso é a data dos fatos, ou seja, a data da negativa de cobertura.
+Porcentual dos juros e da correção monetária e seu cálculo: Selic, na forma pacificada no STJ:
+?Os juros moratórios de 6% ao ano são devidos a partir da data do evento danoso, na forma da Súmula 54 do STJ, observando-se o limite disposto nos arts. 1.062 e 1.063 do CC/16, até janeiro de 2003, momento a partir do qual passa a vigorar a disposição contida no art. 406 do CC/02, nos moldes do precedente da Corte Especial, que aplica a taxa SELIC. A correção monetária, também incidente a partir do evento danoso e que deve ser alcançada mediante a aplicação de índice que reflita a variação de preços ao consumidor, terá sua incidência cessada a partir do momento em que iniciada a da taxa SELIC, sob pena de bis in idem. Precedente.? (REsp 1139997/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/02/2011, DJe 23/02/2011).
+O pedido, portanto, há de ser acolhido.
+
+III. Dispositivo
+
+Ante o exposto, JULGO PROCEDENTE o pedido da parte autora e EXTINGO o processo, COM RESOLUÇÃO DE MÉRITO, na forma do art. 269, I, do Código de Processo Civil para o fim de CONDENAR a ré ao pagamento de R$ R$ 50.000,00 (cinquenta mil reais) como indenização pelo dano moral.
+DECLARO A NULIDADE da cláusula 8.15 do contrato.
+JULGO PROCEDENTE o pedido deduzido no processo cautelar e TORNO DEFINITIVA a liminar que havia sido concedida.
+Termo inicial dos juros e correção monetária:
+?O termo inicial da correção monetária incidente sobre a indenização por danos morais é a data do seu arbitramento, consoante dispõe o verbete da Súmula n. 362/STJ: 'A correção monetária do valor da indenização do dano moral incide desde a data do arbitramento'. Os juros moratórios, em se tratando de responsabilidade extracontratual, incidem desde a data do evento danoso, na forma da Súmula n. 54/STJ: 'Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual'. Precedente da Segunda Seção do STJ no julgamento do REsp n. 1.132.866/SP, em sessão realizada em 23/11/2011, cujo acórdão encontra-se pendente de publicação.? (REsp 827.010/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/02/2012, DJe 13/03/2012).
+A data do evento danoso é a data dos fatos, ou seja, a data da negativa de cobertura.
+Porcentual dos juros e da correção monetária e seu cálculo: Selic, na forma pacificada no STJ:
+?Os juros moratórios de 6% ao ano são devidos a partir da data do evento danoso, na forma da Súmula 54 do STJ, observando-se o limite disposto nos arts. 1.062 e 1.063 do CC/16, até janeiro de 2003, momento a partir do qual passa a vigorar a disposição contida no art. 406 do CC/02, nos moldes do precedente da Corte Especial, que aplica a taxa SELIC. A correção monetária, também incidente a partir do evento danoso e que deve ser alcançada mediante a aplicação de índice que reflita a variação de preços ao consumidor, terá sua incidência cessada a partir do momento em que iniciada a da taxa SELIC, sob pena de bis in idem. Precedente.? (REsp 1139997/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/02/2011, DJe 23/02/2011).
+A parte ré deverá proceder ao pagamento integral do valor nestes autos, após o trânsito em julgado, no prazo de quinze dias de sua intimação, sob pena de prosseguir-se na forma do art. 475-J do CPC. Nessa última hipótese, elaborado cálculo do débito pela parte autora e recolhidas as custas correspondentes, fica desde já autorizada a penhora online via sistema Bacenjud.
+Custas pela parte ré. Honorários fixados em 10% sobre o valor da condenação, considerando a complexidade do feito e o número de atos praticados, na forma do art. 20, §§ 3.º e 4.º do CPC. 
+Fica suspensa a exigibilidade das verbas de sucumbência enquanto durar o estado de pobreza.
+Publique-se. Registre-se. Intimem-se.
+
+
+São Paulo, 15 de fevereiro de 2013.

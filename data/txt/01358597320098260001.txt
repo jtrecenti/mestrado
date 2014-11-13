@@ -1,0 +1,65 @@
+
+
+SENTENÇA
+
+Processo nº:0135859-73.2009.8.26.0001 - Procedimento Ordinário
+Requerente:Uniodonto Paulista Federação das Cooperativas Odontologicas do Estado de São Paulo
+Requerido:Totvs S/A
+
+Exmo. Sr. Dr. Juiz Carlos Dias Motta
+
+
+
+
+
+
+
+
+
+
+Vistos.
+
+
+UNIODONTO PAULISTA FEDERAÇÃO DAS COOPERATIVAS ODONTOLÓGICAS DO ESTADO DE SÃO PAULO ajuizou ação de indenização cumulada com obrigação de fazer, sob rito ordinário, em face de TOTVS S/A, alegando que: atua em um sistema complexo de rede de atendimento odontológico, em todo o Estado; contratou os serviços da ré, para a implantação de software de gestão empresarial, em maio de 2006; realizou um alto investimento; após mais de vinte meses da contratação, a ré não cumpriu suas obrigações, pois o sistema jamais funcionou na forma prevista; inúmeras informações sigilosas foram transferidas para a ré; efetuou o pagamento da quantia de R$ 196.928,69; notificou extrajudicialmente a ré, para a rescisão do contrato; entretanto, os valores pagos e os dados sigilosos não foram restituídos; teve ainda outras despesas durante o período em que tentou operar e adequar o sistema; deve ser indenizada. A petição inicial foi emendada (fls. 117/128), em razão da determinação de fls. 113/114.
+Apresentou a ré contestação (fls. 286/312), arguindo, em preliminar, inépcia da petição inicial, por ausência de causa de pedir específica. Alegou que: ofereceu à autora um software ERP, que é um sistema de informações que pode concentrar e integrar todos os dados e processos de uma organização, com a criação de um grande banco de dados; forneceu o sistema Protheus; a autora concordou com as cláusulas propostas; cumpriu adequadamente o contrato; o sistema padrão funcionou adequadamente; havendo necessidade de customização, para atendimento de necessidades específicas do cliente, os serviços devem ser pagos separadamente; entretanto, a autora recusou-se a efetuar os pagamentos adicionais; não existe relação de consumo; jamais se negou a devolver os dados sigilosos; não é devida nenhuma indenização; os danos não foram demonstrados.
+Ofereceu a autora réplica (fls. 441/454).
+Em audiência preliminar (fls. 458/459), foi determinada a produção de prova pericial.
+O perito judicial promoveu a remoção dos dados sigilosos (fls. 494/495) e ofereceu laudo (fls. 498/532). O assistente-técnico da autora ofereceu críticas (fls. 667/675). O perito prestou esclarecimentos (fls. 687/691 e fls. 701/706).
+As partes apresentaram memoriais (fls. 765/775 e 777/783).
+
+É o relatório.
+DECIDO.
+São rejeitadas as preliminares arguidas na contestação. A petição inicial não é inepta, uma vez que não se encontram presentes as hipóteses previstas no art. 295, parágrafo único, do CPC. Na emenda à petição inicial (fls. 117/128), o pedido e a causa de pedir foram apontados. Assim, todas as questões dizem, na verdade, respeito ao mérito, que passa a ser examinado.
+A autora e a ré celebraram contratos para a implantação de software ERP ? Enterprise Resource Planning, consistente em um sistema de informações que concentra e integra todos os dados e processos de uma organização. O sistema permite a criação de um grande banco de dados, com gerenciamento de todas as fases da atividade do usuário, no caso, a autora. 
+Entretanto, após muitos meses da implantação do sistema, a autora notificou extrajudicialmente a ré, dando por rescindido o contrato. Segundo a autora, o sistema jamais funcionou adequadamente, causando-lhe prejuízos. 
+A ré, por sua vez, sustenta, em resumo, que contratou apenas o fornecimento do sistema padrão. Alega que as adaptações para atendimento às necessidades de cada cliente (customização) devem ser contratadas separadamente, com pagamentos adicionais, mas a autora teria se recusado a fazê-los.
+A autora nega que tenha contratado apenas o sistema padrão. Realmente, como demonstrou a fls. 449, consta da proposta da ré que: 
+Durante o mapeamento dos processos foi verificada a necessidade de desenvolvimento específico de uma rotina para cálculo e emissão de relatório de encontro de contas entre as singulares. Nenhuma outra necessidade de desenvolvimento foi encontrada. Havendo novas solicitações de desenvolvimento de rotinas específicas, as mesmas serão mapeadas, orçadas e apresentadas para a aprovação da Uniodonto. (fls. 53)
+Aliás, não seria razoável presumir que a autora contratasse apenas o sistema padrão, pois este não teria mesmo possibilidade de atender às suas necessidades. Isso não afastava a possibilidade, diante de novas necessidades identificadas pela autora, para aperfeiçoamento do sistema, de contratação de serviços adicionais, com novos pagamentos. 
+Mas a prova pericial produzida confirmou que, por algumas razões, o sistema jamais funcionou adequadamente. Em outras palavras, a ré não deu adequado cumprimento ao contrato, não obstante tenha recebido o preço. É o que passa a ser demonstrado.
+O perito judicial apresentou laudo muito bem fundamentado, após diversos dias de trabalho junto aos sistemas e equipamentos da ré, sempre acompanhado por técnicos e representantes das duas partes.
+De início, o equipamento utilizado pelo perito (hardware) é bastante superior ao utilizado pela ré naquela época. O perito identificou que fez uso de equipamento 23 (vinte e três) vezes mais rápido (fls. 511), mas esta diferença foi levada em consideração durante todo o seu trabalho e não alterou as suas conclusões. As necessárias correções foram realizadas, afastando-se, portanto, qualquer distorção nas conclusões.
+A autora, na emenda à petição inicial, relacionou diversas falhas que identificou durante o período em que tentou operar o sistema (fls. 121/122). O perito judicial reorganizou e agrupou os diversos itens (fls. 514/518), analisando-os detidamente. Algumas das falhas apontadas pela autora não foram confirmadas pelo perito. Entretanto, outras falhas foram confirmadas, e são graves o bastante para que fique caracterizado o descumprimento do contrato pela ré.
+O perito confirmou que o sistema apresentava uma demora exagerada (fls. 514/515). Mesmo trabalhando com um equipamento vinte e três vezes mais rápido do que o originalmente utilizado, o perito realizou uma rotina específica para gerar o faturamento do cliente EPOESP, contendo mais de 9.000 vidas. A demora foi de uma hora e meia. A autora afirmou que, com o equipamento original, a demora era de oito horas. Foi ainda identificado problema na apresentação do gráfico ODONTOGRAMA, também decorrente da demora. O sistema também apresentava uma discrepância no número de usuários considerados na fatura (fls. 515, item 3).
+Além disso, o sistema impossibilitava a alteração do valor do pagamento da primeira parcela, caso o usuário quisesse pagar um valor menor (fls. 516, item 5). Havia também limitação no tocante à escolha das datas de pagamentos (fls. 516, item 6).
+Em suas conclusões (fls. 519/520), o perito apontou a falta de diversos ajustes ao sistema padrão, para que pudesse atender às necessidades básicas da autora. Além disso, o perito confirmou que o equipamento originalmente utilizado (processador instalado no computador utilizado pela ré em seu datacenter para a prestação do serviço de hospedagem contratado) era inadequado. Tratava-se de um componente projetado para aplicações gráficas e de multimídia, e não para ser utilizado em servidores de aplicação com transações com banco de dados. Esta era a causa da lentidão do sistema, responsável pela maior parte dos problemas apontados pela autora.
+Em resposta aos quesitos, o perito judicial confirmou que os programas tipo ERP ? Enterprise Resource Planning, dentre os quais o Protheus, devem ser intensamente parametrizados e customizados para que possam ser utilizados. A simples instalação não é suficiente, e a ré efetivamente iniciou os trabalhos de personalização, mas ficaram pendências (fls. 522, item 5). E, ainda, mesmo que tivesse havido uma simples demonstração do produto pela ré, esta não seria suficiente para que autora pudesse ter o seu correto entendimento acerca da adequação  do sistema às suas necessidades de processamento (fls. 523/524, item 4).
+Em razão das críticas do assistente-técnico da autora (fls. 667/675), o perito judicial ratificou seu laudo (fls. 687/691). Confirmou, especificamente, que a ré deveria ter identificado, no início dos trabalhos, as necessidades da autora, para implementação, que seria de baixa complexidade (fls. 704, IX).
+Assim, como já salientado, a ré, na qualidade de prestadora dos serviços, deveria, no mínimo, ter, expressa e especificamente, alertado a autora acerca das necessidades de adaptação do programa, pois o sistema padrão seria mesmo manifestamente insuficiente e inadequado. Deveria também a ré ter destinado equipamento (hardware) compatível com o sistema oferecido e o banco de dados da autora. Com isso, evitaria tanta lentidão do sistema.
+Em nenhum momento a ré demonstrou que a culpa pela inadequação do sistema tenha sido da autora. Como era sua esta alegação, cabia a ela a respectiva prova (art. 333, II, do CPC). E não se trata de inversão do ônus da prova, nem mesmo de aplicação do Código de Defesa do Consumidor, que não incide mesmo, na espécie. A lide é julgada com base na prova pericial produzida, que foi conclusiva.
+A ré deve, portanto, devolver os valores pagos pela autora. 
+Quanto aos demais danos, mencionados também na emenda à petição inicial, as alegações da autora foram por demais genéricas e nenhuma prova foi produzida no sentido de confirmar a sua existência. É verdade que o valor dos danos poderia ser apurado em fase de liquidação, até mesmo por artigos. Deveria, entretanto, haver pelo menos um início de prova dos danos, que não podem ser simplesmente presumidos.
+
+Quanto à remoção dos dados sigilosos da autora do sistema da ré, esta nunca se opôs. A remoção foi acompanhada pelo perito judicial e ocorreu regularmente.
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a ação, condenando a ré ao pagamento da quantia de R$ 196.928,69, com incidência de correção monetária a partir de cada desembolso, além de juros de mora legais (12% ao ano) a contar da citação. Tendo em vista a sucumbência menor da autora, arcará ainda a ré com 80% das despesas do processo e com os honorários advocatícios que arbitro em 8% sobre o valor da condenação. Os honorários periciais já foram arbitrados. Arbitro os honorários do assistente-técnico da autora em R$ 8.000,00, devendo haver ressarcimento de 80% pela ré.
+
+
+P.R.I.
+
+
+São Paulo, 04 de outubro de 2012.
+
+
+
+CARLOS DIAS MOTTA
+               Juiz de Direito

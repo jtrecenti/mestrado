@@ -1,0 +1,135 @@
+
+
+SENTENÇA
+
+Processo nº:0166014-48.2012.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Defeito, nulidade ou anulação
+Requerente:Solange Aparecida dos Passos
+Requerido:Banco do Brasil S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Tiago Ducatti Lino Machado
+
+
+
+
+                          Vistos.
+
+
+SOLANGE APARECIDA DOS PASSOS ajuizou a presente ação de indenização por danos materiais e morais contra BANCO  DO BRASIL S.A., qualificados nos autos, alegando que sua conta corrente ? sem o seu conhecimento ? foi alvo de indevidas movimentações, com saques realizados à sua revelia, que atingiram a cifra de R$ 2.269,76. Sofreu danos. Pede a procedência.
+
+Juntou documentos (fls.15/22).
+
+          Citado, o Banco-réu ofertou defesa na modalidade de contestação (fls.26/45), sem preliminares. 
+
+             No mérito, sustenta que não pode suportar a responsabilidade civil por ato fraudulento praticado por terceiro sendo responsabilidade exclusiva da autora, por expressa cláusula contratual, a responsabilidade pela guarda, zelo, conservação e segredo da senha e o cartão magnético não permite que pessoas, além do usuário, possam movimentar sua conta corrente em razão do chip e senha alfanumérica. Aduz, em linhas gerais, que as operações foram realizadas mediante uso de senha e chave de segurança. Sustenta que ao correntista cabe a inteira responsabilidade pelo uso e conservação da senha. Sustenta a inviabilidade da inversão do ônus da prova. Impugna o dever de indenizar, assim como os danos morais pleiteados. 
+
+             Houve réplica (fls.52/63).
+
+                                 Determinada a especificação de provas (fls.105), manifestou-se apenas a autora
+
+             É a síntese do necessário.
+
+Fundamento e DECIDO.
+
+Antecipo o julgamento, porquanto a solução da matéria independe de dilação probatória (CPC, art. 330, I).
+
+Destaque-se, desde já, que a relação jurídica estabelecida entre as partes é nitidamente de consumo e, por isso, analisada sob a égide do sistema protetivo instituído pela Lei nº 8.078/90.
+
+Fixadas tais premissas, o pedido é parcialmente procedente.
+
+ Com efeito, restando incontroversos os saques na conta da autora, conforme farta documentação acostada à inicial, era ônus exclusivo do banco provar a autoria e/ou a efetiva negligência na guarda do cartão e da senha ou a voluntária e deliberada entrega do cartão e divulgação da senha a terceiros; entretanto, aqui, isso não ocorreu, embora fosse factível.
+
+ Ressalte-se que não trata de inversão do ônus da prova, já que a prova quanto ao fato impeditivo do direito da autora incumbia ao réu. 
+
+ Caberia ao banco demonstrar, outrossim, que os saques relacionados na inicial e apontados como indevidos não afrontavam o padrão de movimentação da conta pela autora.
+
+ Nada disso foi feito. 
+
+  Os saques realizados  evidenciam a irregularidade.
+
+De qualquer forma, impossível, no sistema constitucional vigente, presumir-se situação em prejuízo do consumidor, sobretudo se considerados o equilíbrio e a boa-fé objetiva - vigas mestras das relações de consumo.
+
+Incide, in casu, a teoria do risco integral, fundada na livre iniciativa, que relega ao empreendedor, de modo exclusivo, o ônus da atividade econômica lucrativa explorada no mercado.
+
+Destaque-se, aqui, a lição de Luiz Antonio Rizzatto Nunes:
+
+O que acontece é que o CDC, dando continuidade, de forma coerente, à normatização do princípio da vulnerabilidade do consumidor no mercado de consumo, preferiu que toda a carga econômica advinda do defeito recaísse sobre o prestador do serviço. Se a hipótese é de caso fortuito ou de força maior e em função disso o consumidor sofre acidente de consumo, o mal há de ser remediado pelo prestador do serviço. Na verdade o fundamento dessa ampla responsabilização é, em primeiro lugar, o princípio garantido na Carta Magna da liberdade de empreendimento, que acarreta direito legítimo ao lucro e responsabilidade integral pelo risco assumido. E a Lei nº 8.078, em decorrência desse princípio, estabeleceu o sistema de responsabilidade civil objetiva, conforme já visto. Portanto, trata-se apenas de questão de risco do empreendimento. Aquele que exerce a livre atividade econômica assume esse risco integral. 
+
+Em outras palavras, se os lucros não são divididos com os consumidores, os riscos também não podem ser.
+
+ A dúvida, quando muito, há de ser resolvida em proveito do consumidor, sobretudo quando se verifica que os sucessivos saques afrontam o uso rotineiro que a autora faz de sua conta.
+ Nesse sentido, o banco não trouxe aos autos extratos que pudessem indicar que estas sucessivas atitudes de assunção de obrigações seriam da prática da autora, mediante indicação de outras operações semelhantes, reiteradas e sucessivas, e em valores de grandeza próxima.
+No que tange às cogitações lançadas pelo réu quanto à falta de cuidado da autora na guarda de seu cartão e senha, não se deve olvidar que a clonagem de cartão magnético, infelizmente, é procedimento comum nos dias atuais e, assim, in casu, poderia isso muito bem ter acontecido, até porque o clone se equipara à via válida do cartão, tanto que aciona o sistema bancário e implementa a operação.
+
+CIVIL. CARTÃO DE CRÉDITO. CLONAGEM. A administradora de cartões de crédito responde pela falta de segurança dos serviços que presta. Agravo Regimental não provido. 
+
+Tal qual uma luva cabe à hipótese sub examine a diretriz traçada pela Colenda 3ª Turma do Excelso Superior Tribunal de Justiça, a saber: 
+
+Direito processual civil. Ação de indenização. Saques sucessivos em conta corrente. Negativa de autoria do correntista. Inversão do ônus da prova. 
+? É viável a inversão do ônus da prova (art. 333, II do CPC) na ocorrência de saques indevidos de contas-correntes, competindo ao banco (réu na ação de indenização) o ônus de provar os fatos impeditivos, modificativos ou extintivos do direito do autor. 
+? Incumbe ao banco demonstrar, por meios idôneos, a inexistência ou impossibilidade de fraude, tendo em vista a notoriedade do reconhecimento da possibilidade de violação do sistema eletrônico de saque por meio de cartão bancário e/ou senha. 
+? Se foi o cliente que retirou o dinheiro, compete ao banco estar munido de instrumentos tecnológicos seguros para provar de forma inegável tal ocorrência.
+Recurso especial parcialmente conhecido, mas não provido.
+
+O Egrégio Tribunal de Justiça de São Paulo, analisando hipótese semelhante, agora envolvendo cartão com chip (em tese mais seguro), assentou:
+
+(...) não se desincumbiu de tal ônus, na medida em que deixou de implementar qualquer prova, particularmente recorrendo aos filmes dos atos dos saques, de que dispunha ? ou deveria dispor ? como de ordinariamente acontece nos ambientes bancários em que se localizam os chamados caixas eletrônicos, de modo a que se pudesse apurar quem, efetivamente, levou a cabo as retiradas, em face das negativas do apelado.
+Tem-se, de outra sorte, que deste seria inexequível exigir-se prova negativa e, por outro lado, o apelante, como dito, dispõe ? ou deveria dispor ? de todas as condições para aclaramento da questão, entre elas a filmagem dos atos dos saques, com o que poder-se-ia identificar quem disso tratou.  
+
+Assim, de rigor a restituição do valor sacado indevidamente da conta da autora, devidamente corrigido, porém com a incidência de juros legais.
+
+De outra banda, por todos os ângulos, caracterizado está o fato lesivo autorizador da reparação extrapatrimonial, ainda mais ante a nítida ruptura da confiança depositada pelo consumidor.
+
+Vem a talho de foice, neste passo, a doutrina de Cláudia Lima Marques. Ei-la:
+
+A manifestação de vontade do consumidor é dada almejando alcançar determinados fins, determinados interesses legítimos. A ação dos fornecedores, a publicidade, a oferta, o contrato firmado criam no consumidor expectativas, também, legítimas de poder alcançar estes efeitos contratuais.
+(...)
+No sistema do CDC leis imperativas irão proteger a confiança que   o  consumidor  depositou  no  vínculo  contratual,  mais especificamente na prestação contratual, na sua adequação ao fim que razoavelmente dela se espera, irão proteger também a confiança que o consumidor deposita na segurança do produto ou do serviço colocado no mercado.
+
+
+Observe-se, por oportuno, que o intérprete soberano da legislação federal já avaliou a responsabilidade do fornecedor decorrente da quebra da confiança do consumidor. Anote-se:
+
+O princípio da boa-fé se aplica às relações contratuais regidas pelo CDC, impondo, por conseguinte, a obediência aos deveres anexos ao contrato, que são decorrência lógica deste princípio.
+O dever anexo de cooperação pressupõe ações recíprocas de lealdade dentro da relação contratual.
+A violação a qualquer dos deveres anexos implica o inadimplemento contratual de quem lhe tenha dado causa.
+
+In casu, de modo considerável, a dinâmica dos fatos extrapolou o mero inadimplemento contratual.
+
+Materializada, por todos os ângulos, a violação a direitos básicos do consumidor (confiança e justa expectativa), o que faz exsurgir o dever de indenizar.
+
+O dano, na espécie, é in re ipsa, que dispensa prova de maiores reflexos, patrimoniais ou morais. O dever de indenizar decorre simplesmente da falha do serviço prestado pelo fornecedor (violação do sigilo bancário e lançamentos indevidos) e da quebra da justa expectativa do consumidor.
+
+ Cumpre, agora, definir o quantum debeatur.
+
+Razoável ? considerando a gravidade do fato (quebra do sigilo bancário e movimentação substancial indevida na conta do autor), a demora na solução do problema e o notório poderio econômico do réu ? estimar a indenização extrapatrimonial em R$ 10.000,00; contudo, sem nenhuma relevância no princípio da sucumbência, pois o valor inicialmente proposto apresenta caráter apenas estimatório. 
+
+Prestigia-se, in casu, a função punitiva (intimidativa) da indenização, ou seja, a teoria do desestímulo. Assevera, a propósito, Pedro Frederico Caldas: 
+
+(...) a reparação do dano moral acaba sendo integrada por dois fatores de suma importância, um deles reside no caráter punitivo e o outro, no caráter compensatório. O caráter punitivo visa, acima de tudo, a irrogar ao agente violador uma verdadeira pena, que em última análise serve de fator inibitório a novas práticas.
+
+A correção monetária terá distintos termos iniciais: para o dano material prevalecem os saques sem causa, enquanto o dia de hoje rege o tema afeto aos danos morais.
+
+Já os juros de mora, na forma legal, fluem em ambos os casos da citação.
+
+Ante o exposto, e pelo mais que dos autos consta, com fundamento no artigo 269, inciso I, do Código de Processo Civil, JULGO PARCIALMENTE PROCEDENTE o pedido a fim de CONDENAR o Banco do Brasil S/A ao pagamento de:
+
+a) R$ 2.269,76, atualizados desde os respectivos saques indevidos;
+ b) R$ 10.000,00, corrigidos de hoje.
+
+Para ambas as hipóteses, os juros de mora (1% a.m.) fluem da citação. 
+
+Como a autora decaiu de parte mínima do seu pedido, por inteiro arca o réu com as custas, as despesas processuais e com os honorários advocatícios fixados em 10% sobre o valor total da condenação.
+
+P. R. I.
+
+
+
+
+São Paulo, 09 de abril de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

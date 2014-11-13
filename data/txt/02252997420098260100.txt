@@ -1,0 +1,97 @@
+
+
+SENTENÇA
+
+Processo nº:0225299-74.2009.8.26.0100
+Classe - AssuntoProcedimento Sumário - Espécies de Contratos
+Requerente:João Nelson Cordeiro Alves
+Requerido:Banco do Brasil S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Ricardo Dal Pizzol
+
+
+
+Vistos.
+
+
+
+JOÃO NELSON CORDEIRO ALVES ajuizou "revisão contratual cumulada com repetição de indébito, danos morais, reconhecimento de nulidade de operações" contra BANCO DO BRASIL S/A.
+
+Alega o autor que celebrou diversos contratos com o Banco requerido e que estes apresentam ilegalidades, como capitalização ilegal de juros, cumulação indevida de comissão de permanência com outros encargos moratórios, juros abusivos, venda casada etc.
+
+Tutela antecipada indeferida à fl. 61.
+
+Contestação às fls. 73/123. Alega o requerido que: (i) a inicial não apresenta pedido certo e determinado; (ii) deve ser reconhecida a impossibilidade jurídica do pedido; (iii) não há, igualmente, interesse processual para a propositura da demanda; (iv) por conta do cumprimento voluntário da obrigação na forma contratada, o autor renunciou a qualquer direito de discutir posteriormente as condições contratuais; (v) não há qualquer ilegalidade nos valores cobrados, devendo o contrato ser cumprido, uma vez que faz lei entre as partes.
+
+Réplica às fls. 130/139.
+
+Gratuidade processual revogada à fl. 306.
+
+É o Relatório.
+
+Passo a Fundamentar. 
+
+I  Possível o julgamento da lide no estado em que se encontra, pois não há necessidade de produção de outras provas. 
+
+Em face da decisão de fl. 306, que reitero, bem como de fls. 309/311, declaro preclusa a realização da prova pericial contábil. 
+
+II  Rejeito a preliminar de ausência de pedido certo e determinado, simplesmente porque não condiz com a situação de fls. 22/24. 
+
+III  Rejeito as demais preliminares de impossibilidade jurídica do pedido e falta de interesse de agir, por se confundirem com o mérito da demanda. 
+
+IV  No mérito, a ação deve ser julgada parcialmente procedente. 
+
+Primeiramente, volto a salientar que houve preclusão em relação à prova pericial, em face de fls. 306 e 309/311. 
+
+Passo a analisar cada um dos argumentos do autor em separado. 
+
+(a) Alega o autor que os juros cobrados são abusivos.
+
+Sem razão, nesse ponto.
+
+Primeiramente, deve-se ter em mente que o art. 192, §3º, da CF, foi revogado pela EC 40/2003. Além disso, a jurisprudência é uníssona no sentido de que a norma do art. 192, §3º, da CF, não era auto-aplicável. O STF editou, inclusive, uma súmula vinculante acerca do tema: ?A norma do §3º do artigo 192 da Constituição, revogada pela Emenda Constitucional nº 40/2003, que limitava a taxa de juros reais a 12% ao ano, tinha sua aplicação condicionada à edição de lei complementar (Súmula Vinculante nº 7)?.
+
+A jurisprudência também é pacífica no sentido de que não se aplicam às instituições financeiras os limites da Lei de Usura. Nesse sentido, a Súmula 596 do STF: ?As disposições do Decreto 22.626/33 não se aplicam às taxas de juros e aos encargos cobrados nas operações realizadas por instituições públicas ou privadas que integram o Sistema Financeiro Nacional?. 
+
+Segundo a jurisprudência mais recente do STJ, os juros pactuados em contrato bancário só são considerados abusivos quando excedem a taxa média do mercado para o período. Nesse sentido: ?Embora incidente o diploma consumerista nos contratos bancários, os juros pactuados em limite superior a 12% ao ano não são considerados abusivos, exceto quando comprovado que discrepantes em relação à taxa de mercado, após vencida a obrigação? (AgRG nos EDcl no Resp 604.470/RS, Min. Castro Filho). 
+
+No presente caso, o autor sequer chegou a alegar, quanto menos comprovar, que a taxa pactuada no contrato excedia consideravelmente a taxa praticada no mercado nas mesmas circunstâncias (tipo de contrato; prazo para pagamento; grau de solvência do mutuário; praça de pagamento; etc.). 
+
+
+Vale lembrar, mais uma vez, que houve preclusão para a realização da prova pericial contábil.
+
+(b) Alega o autor, ainda, que há capitalização indevida de juros. 
+
+Sem razão, nesse ponto. 
+
+A jurisprudência do STJ é pacífica no sentido de que é possível a capitalização mensal de juros nos contratos bancários celebrados após a edição da MP 1.963-17/2000. Nesse sentido: 
+?Admite-se a capitalização mensal dos juros nos contratos bancários celebrados após à vigência da Medida Provisória nº 1.963-17/2000 (reeditada sob o nº 2.170/36)?. (AgRg no REsp 861699 / RS, Min. Nancy Andrighi)
+?A capitalização mensal dos juros é vedada em contrato de abertura de crédito, permitida a anual, salvo nos contratos posteriores a 31/3/2000, data da publicação da Medida Provisória nº 1.963-17, revigorada pela de nº 2.170-36 (DJ de 24/8/01), vigente nos termos do art. 2º da Emenda Constitucional nº 32/01 (DJ de 12/9/01)?. (Resp 697379/RS, Min. Carlos A. M. Direito)
+O contrato em questão foi celebrado após a edição da MP 1.963-17/2000. Além disso, o contrato prevê expressamente a possibilidade de capitalização de juros com periodicidade inferior a 01 (um) ano.
+Diante disso, conclui-se que a capitalização mensal de juros não foi indevida.
+(c) Alega o autor, ainda, que a comissão de permanência não pode ser cumulada com outros encargos moratórios. 
+Com razão, nesse ponto. 
+O contrato de conta corrente prevê, em caso de inadimplemento, a incidência cumulada de (i) juros moratórios e (ii) comissão de permanência (vide fl. 164). 
+Tal cumulação é indevida. A solução é manter, no período de inadimplemento, apenas a comissão de permanência, afastando os demais encargos moratórios (juros moratórios, no caso). Nesse sentido, a Súmula 472 do STJ: "A cobrança de comissão de permanência - cujo valor não pode ultrapassar a soma dos encargos remuneratórios e moratórios previstos no contrato ? exclui a exigibilidade dos juros remuneratórios, moratórios e da multa contratual". 
+Nesse sentido, confira-se, ainda:
+
+EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. AGRAVO REGIMENTAL. CONTRATO BANCÁRIO. COMISSÃO DE PERMANÊNCIA POSSIBILIDADE DE COBRANÇA DESDE QUE NÃO CUMULADA COM OS DEMAIS ENCARGOS MORATÓRIOS. - É admitida a cobrança da comissão de permanência em caso de inadimplemento, à taxa de mercado, desde que (i) pactuada, (ii) cobrada de forma exclusiva ? ou seja, não cumulada com outros encargos moratórios, remuneratórios ou correção monetária ? e (iii) que não supere a soma dos seguintes encargos: taxa de juros remuneratórios pactuada para a vigência do contrato; juros de mora; e multa contratual (REsp nº 834.968/RS, Rel. Ministro ARI PARGENDLER, DJ de 7.5.07) Agravo Regimental improvido.
+
+(d) Não produziu o autor, no caso, qualquer prova da venda casada alegada às fls. 16/17. 
+(e) O pedido de indenização por dano moral (fls. 19 e seguintes) é completamente desprovido de fundamento. A hipótese é de mera discussão contratual, sem qualquer violação a direito da personalidade do autor. 
+(f) O pedido de repetição de indébito também deve ser rejeitado. 
+A única ilegalidade constatada, como visto, diz respeito ao período de inadimplemento. 
+Era ônus do autor demonstrar que isso reverteria em crédito a seu favor. Não produziu o autor, contudo, qualquer prova nesse sentido. A perícia contábil, como visto, restou preclusa. 
+(g) Observo que os demais pedidos formulados às fls. 22/24 ou são absolutamente genéricos, ou sequer foram tratados na causa de pedir da petição inicial. Assim, não merecem análise nesta sentença. 
+DECIDO. 
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a ação, para afastar a incidência, após o inadimplemento, no contrato de conta corrente, dos juros moratórios, mantendo apenas a comissão de permanência (vide item 33.2, fl. 164), calculada à taxa média de mercado, não podendo ultrapassar a soma dos encargos remuneratórios e moratórios previstos no contrato (Súmula 472 do STJ). 
+No mais, ficam expressamente rejeitados todos os demais pedidos formulados na inicial. 
+Sem condenação em custas, despesas ou honorários advocatícios, em face da sucumbência recíproca. 
+P.R.I.C.
+
+São Paulo, 12 de novembro de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

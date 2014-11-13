@@ -1,0 +1,33 @@
+
+
+SENTENÇA
+
+Processo nº:0007069-89.2010.8.26.0016
+Classe  Assunto:Procedimento do Juizado Especial Cível - Indenização por Dano Moral
+Requerente:MARCELO ALEXANDRE LISBOA
+Requerido:SERASA - CENTRALIZAÇÃO DE SERVIÇOS DOS BANCOS S/A
+
+
+Juiz(a) de Direito: Dr(a). Henrique Vergueiro Loureiro
+
+Vistos.
+Os pedidos são parcialmente procedentes. 
+Inicialmente, observo que a juntada de extrato pelo Requerente - que abriga informações do próprio Requerente -  é lícita. O sigilo não atinge, obviamente, o próprio titular das informações (no caso, o Requerente). 
+Pois bem. Informações - ainda que negativas - existentes em cadastros de crédito são, em regra, lícitas, amparadas no ordenamento jurídico (art. 43 e ss. da Lei nº. 8.078/90). 
+Disse-se em regra, pois informações negativas referentes a período superior a 5 anos não poderão ser disponibilizadas pelos referidos cadastros (art. 43 §1º da Lei nº. 8.078/90). 
+Discute-se, no caso, o Concentre Scoring Serasa, veiculado pela Requerida. Trata-se de número que expressa probabilidade de adimplemento de obrigação (ou risco de crédito), obtido por meio de cálculo específico.  
+Este Juízo, por meio da decisão de fl. 40, determinou que a Requerida apresentasse a fórmula de cálculo do referido scoring.
+E a Requerida, para manter segredo de negócio, não apresentou a fórmula referida. 
+Pois bem. Sem a fórmula do Concentre Scoring Serasa, não há como o Juízo verificar se abriga informações negativas referentes a período superior a 5 anos. Ou seja, não há como aferir, com segurança, se o scoring é calculado com informação vedada pelo art. 43 §1º da Lei nº. 8.078/90. 
+Diante desse quadro ? e caberia à Requerida provar que não utiliza, para cálculo de seu scoring, dados negativos referentes a período superior a 5 anos; mas não o fez ? reconhecerá, neste caso concreto, a ilegalidade do Concentre Scoring Serasa. 
+Deverá a Requerida, pois, excluir de seu cadastro, o Concentre Scoring Serasa em nome do Requerente, no prazo de até 10 dias, sob pena de multa de R$ 100,00, por dia de descumprimento. 
+Informação de endereço residencial do Requerente, nos cadastros de crédito, não é vedada. Até mesmo para auxiliar o combate a fraudes (criminosos que se fazem passar por consumidor de boa-fé).  
+De outro lado, não vislumbro dano moral. 
+Isso porque a decisão de conceder o crédito não é da Requerida. A Requerida é mero banco de dados. 
+A par do Concentre Socoring Serasa, conceder ou não crédito é decisão exclusiva do prestador de serviço/fornecedor de produto. 
+Ou seja, não há nexo de causalidade entre o comportamento da Requerida e eventual lesão a direito da personalidade da Requerente. Pois, repita-se, eventual negativa de crédito deve ser atribuída ao fornecedor, não ao mantenedor de cadastro de crédito. 
+Assim, e por todo o exposto, julgo parcialmente procedentes os pedidos para condenar a Requerida ao cumprimento de obrigação de fazer, consistente na exclusão do Concentre Scoring Serasa vinculado ao nome do Requerente, no prazo de até 10 dias, sob pena de multa de R$ 100,00, por dia de descumprimento. 
+
+Sem custas e honorários. 
+
+São Paulo, 16 de novembro de 2010.

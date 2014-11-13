@@ -1,0 +1,49 @@
+
+
+CONCLUSÃO
+Aos  25/03/2013, promovo a conclusão destes autos ao Dr(a). Antonio Carlos de Figueiredo Negreiros, MM(ª). Juiz(a) de Direito da 7ª Vara Cível Central. Eu, _________, Escrevente, subscrevi.  
+
+SENTENÇA
+
+Processo nº:0119182-59.2009.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Telefonia
+Requerente:Ndc Tecnologia e Informatica Ltda
+Requerido:Empresa Brasileira de Telecomunicações S/A - Embratel
+
+Juiz(a) de Direito: Dr(a). Antonio Carlos de Figueiredo Negreiros
+
+Vistos,
+NDC TECNOLOGIA E INFORMÁTICA LTDA ajuizou ação DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO cumulada com pedido de OBRIGAÇÃO DE FAZER em face de EMPRESA BRASILEIRA DE TELECOMUNICAÇÕES S/A. Alega, em apertada síntese, que celebrou um contrato com a ré de fornecimento de link Frame Relay entre dois pontos previamente indicados pela autora, para viabilizar a criação de uma rede única de dados; que foi solicitada a instalação da ponta ?A? da rede no local do data center da ré, sito à Rua Dr. Miguel Couto, nº 58; que antes do início do serviço a autora abriu um chamado para solicitar a instalação da ponta ?B? na sede da PRODESP em Taboão da Serra; que o serviço foi ativado somente em 28/06/2008, ou seja, 10 meses após a celebração do contrato; que além de executar o serviço com atraso, a ré não observou o endereço da PRODESP para instalação da ponta ?B?, apesar das insistentes reclamações da autora; que a autora, assim, considerou o serviço não executado e negou pagamento às faturas vencidas a partir de julho/2008, questionando formalmente as cobranças, inclusive com o protocolo de uma reclamação na ANATEL;  que a ré não deu qualquer resposta à reclamação da autora e continuar e emitir faturas. Requereu a concessão de liminar para obstar a cobrança das questionadas faturas, bem como para que a ré seja compelida a promover a instalação da ponta ?B? do link no endereço requerido pela autora, sem prejuízo da condenação da ré ao pagamento de perdas e danos decorrentes da inexecução do contrato e cobrança abusiva por serviços não prestados, a ser fixado por arbitramento pelo Juízo. Juntou os documentos de fls. 15/75.
+A antecipação de tutela foi concedida pela decisão de fl. 76 para determinar que a ré se abstenha de promover atos de cobrança das faturas do contrato em questão, até retificação do endereço da instalação.
+A ré ofereceu a contestação de fls. 142/173. Alega que o contrato celebrado entre as partes não configura uma relação de consumo protegida pelo CDC, notadamente porque o serviço contratado serve de insumo da atividade empresarial da autora; que a instalação das pontas do link observou, criteriosamente, os endereços indicados pela autora no contrato; que a ré nenhuma reclamação ou observação realizou durante a execução dos serviços, o que seria natural, caso não vislumbrasse motivo plausível para a instalação do link em algum dos referidos endereços; que a culpa pelo tardio pedido de transferência do link para outro endereço é exclusiva da autora que, assim, não pode recusar pagamento das faturas vencidas de um serviço que lhe foi disponibilizado; que os ?mails enviados pela autora sem autenticidade de assinatura digital não conferem força de prova aos escritos apresentados. Requereu a revogação da antecipação de tutela e a improcedência do pedido. Juntou os documentos de fls. 174/184.
+Em audiência designada nos moldes do art. 331 do CPC não foi obtida a conciliação das partes (fls. 222/223).
+A autora requereu a produção de prova pericial para comprovar que não existe infraestrutura nos pontos indicados para utilização do serviço contratado.
+Laudo a fls. 309/458.
+É o breve relatório.  
+DECIDO.
+O julgamento no estado se impõe porque a prova  produzida basta para dirimir o conflito de interesses.
+Inicialmente observo que a própria autora manifestou, no curso da ação, desinteresse na manutenção da relação jurídica contratual, motivo porque os pedidos da autora se restringem à declaração de rescisão do contrato, de inexigibilidade das faturas emitidas e de perdas e danos pela inexecução do contrato pela ré.
+O contrato por adesão celebrado pelas partes não possui campo específico para detalhamento dos locais de instalação dos pontos ?A? e ?B? do serviço contratado (fls. 34/40).
+
+O anexo I contém as condições específicas e menciona exclusivamente um dos pontos de instalação do serviço (Rua Dr. Miguel Couto, nº 58).
+Tal omissão teria justificado o envio da mensagem de fl. 27, datada de 28/08/2007, na qual a autora esclareceu que a ponta ?B? deveria ser instalada na Prodesp, em Taboão da Serra, com o telefone de um contato para agendamento da instalação do ponto naquela empresa.
+Segundo informações levantadas pelo perito, o serviço foi contratado especificamente para servir de link de contingência do tráfego contínuo de dados que existia entre a autora e a PRODESP, que até então contava com um único link disponibilizado pela Telesp.
+Logo, não tinha a autora nenhum motivo para estabelecer o link entre o seu Datacenter (R. Miguel Couto) e a endereço de cobrança (Rua Luis Molina).
+Ademais, a inicial menciona a existência de uma série de reclamações sobre o erro na instalação da ponta ?B? (protocolos nº 717909 de 17/07/2008, nº 806154 de 14/08/2008, nº 9117842 de 22/090/2008 e nº 996411 de 23/10/2008) prova essa que a ré não impugnou especificamente.  
+Alega a ré que a autora teria agido, no mínimo, com reserva mental ao permitir a instalação dos pontos em endereços diversos, sem nada questionar.
+No entanto, conforme constatado pelo perito, no endereço da autora não foi realizado qualquer serviço pela autora de instalação do link. Logo, não há como alegar omissão dolosa ou mesmo algum vício de iniciativa da autora para oportuna reclamação de erro na instalação.
+Mais do que isso, não conseguiu o autor obter qualquer registro de alguma utilização do serviço, apesar das diversas faturas emitidas pela ré.
+A ré em março/2009, enfim, acusa o recebimento de uma solicitação da autora para mudança da instalação para o endereço da Prodesp (fl. 182).
+No entanto, apesar de o documento de fl. 183/184 conter a estimativa de que o link, tal como solicitado, estaria ativado em 22/03/2009, o perito não logrou comprovar o efetivo funcionamento do serviço.
+
+Em resumo, a prova produzida indica que o serviço nunca foi corretamente disponibilizado à autora, apesar de inúmeras reclamações e solicitações apresentadas.
+Consequentemente, a rescisão do contrato decorreu de culpa exclusiva da autora e as faturas emitidas são indevidas porque o serviço nunca foi corretamente prestado.
+É presumido o dano à imagem e à qualidade do serviço presado pela autora pelo fato de não dispor de um link de contingência para atender à demanda da PRODESP por fluente fluxo de dados.
+A indenização por perdas e danos fica restrita a 30% da mensalidade ajustada durante o período de duração do contrato, conforme multa compensatória prevista na cláusula 12.1.6 do contrato, acrescido de correção monetária pela Tabela Prática do TJ e de juros legais de mora a contar da citação.
+Ante o exposto, JULGO PROCEDENTE o PEDIDO para DECLARAR RESCINDIDO o CONTRATO pela inexecução dos serviços contratados e, consequentemente, DECLARO a INEXIGIBILIDADE de todas as faturas relacionadas com o contrato em questão, tornando definitiva a antecipação de tutela de fl. 76.
+A título de perdas e danos, CONDENO a ré ao pagamento da multa compensatória prevista na cláusula 12.1.6 do contrato, correspondente a 30% das mensalidades básica previstas para os três anos de contrato.
+A ré, por fim, arcará com o pagamento da integralidade das custas e das despesas processuais e com honorários de sucumbência, que fixo em 10% do total da condenação atualizada.
+P.R.I. 
+São Paulo,  21/5/2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

@@ -1,0 +1,65 @@
+
+
+SENTENÇA
+
+Processo nº:0009455-37.2010.8.26.0002
+Classe  Assunto:Procedimento do Juizado Especial Cível - Responsabilidade Civil
+Requerente:Célia Yoshiko Nakano
+Requerido:MAPFRE  Seguros S.A (" MAPFRE")
+VISTOS ESTES AUTOS.
+Dispensado o relatório.
+D E C I D O.
+Afasto as preliminares argüidas em contestação.
+Este juizado é competente para apreciar a questão, porque não se vê necessidade da produção de prova pericial, conforme fundamentação que abaixo se fará.
+Indefiro a alteração do pólo passivo, porque foi a requerida quem efetuou o pagamento administrativo e a ela, portanto, compete responder por eventual diferença pretendida pela beneficiária.
+No mérito, a ação é parcialmente procedente.
+Ambas as partes concordam que o acidente ocorreu aos 29 de maio de 2.007 e que esta deve ser a data de incidência da norma aplicável, embora a requerida, após fazer tal afirmação, faz colocação no sentido de que a Lei 11.945/2009 teria incidência, porque o pagamento ocorreu em 09 de julho de 2.009.
+No entanto, certo é que a lei aplicável à hipótese é a vigente no tempo do sinistro e, portanto, a Medida Provisória n. 340, de 29 de dezembro de 2.006, convertida posteriormente na Lei 11.482, de 31 de maio de 2.007, que alterou a Lei 6.194/74.
+No que se refere ao seguro obrigatório, apenas o artigo 8º. daquela Medida Provisória tem interesse no caso concreto.
+Transcreve-se-o:
+Os artigos 3º., 4º., 5º. e 11 da Lei 6.194, de 19 de dezembro de 1974, passam a vigorar com as seguintes alterações:
+art. 3º. Os danos pessoais cobertos pelo seguro estabelecido no art. 2º. compreendem as indenizações por morte, invalidez permanente e despesas de assistência médica e suplementares, nos valores que se seguem, por pessoa vitimada:
+I ? R$ 13.500,00 (treze mil e quinhentos) ? no caso de morte;
+II ? até R$ 13.500,00 (treze mil e quinhentos reais) ? no caso de invalidez permanente; e
+III ? até R$ 2.700,00 (dois mil e setecentos reais) ? como reembolso à vítima ? no caso de despesas de assistência médica e suplementares devidamente comprovadas (NR)
+art. 4º. A indenização no caso de morte será paga de acordo com o disposto no art. 792 da Lei n. 10.406, de 10 de janeiro de 2002.
+Parágrafo único. Nos demais casos, o pagamento será feito diretamente à vítima, na forma que dispuser o CNSP (NR)
+Art. 5º...
+A partir daqui a transcrição não mais interessa. 
+Verifica-se, assim, que, pela lei em vigor e aplicável à espécie, havia determinação expressa para que o valor pago, no caso de invalidez permanente, fosse de até R$ 13.500,00, e que, para fixar qual exatamente o valor devido, deveria ser aplicado o parágrafo único, ou seja, na forma disposta pelo CNSP (parágrafo único do artigo 4º. da Lei 6.194/74, com a redação que lhe deu a MP 340/06). 
+Não é certa a colocação feita na inicial, então, de que a requerente tinha o direito certo e inafastável de receber os R$ 13.500,00, porque a situação dela não era a prevista no inciso I (morte), mas a prevista no inciso II (invalidez permanente).
+Cabe, então, procurarmos o que dispunha o CNSP (Conselho Nacional de Seguros Privados) naquela oportunidade.
+Ora, a resolução em vigor era a RESOLUÇÃO CNSP Nº 56, DE 2001, que remetia a RESOLUÇÃO CNSP Nº 56, DE 2001 ? ANEXO - NORMAS DISCIPLINADORAS DO SEGURO OBRIGATÓRIO DE DANOS PESSOAIS CAUSADOS POR VEÍCULOS AUTOMOTORES DE VIA TERRESTRE (SEGURO DPVAT).
+Ao que nos interesse, incidia o disposto nos artigos abaixo transcritos:
+ Art. 13. A sociedade seguradora efetuará o pagamento das indenizações a seguir especificadas, por pessoa vitimada:
+I - em caso de Morte, a importância segurada prevista na norma vigente, na data da liquidação do sinistro;
+II - em caso de Invalidez Permanente, desde que esteja terminado o tratamento e seja definitivo o caráter da invalidez, a quantia que se apurar, tomando-se por base o percentual da incapacidade de que for portadora a vítima, de acordo com a tabela constante das Normas de Acidentes Pessoais, tendo como indenização máxima a importância segurada prevista na norma vigente, na data da liquidação do sinistro;
+III - em caso de DAMS, o valor das respectivas despesas, até o limite definido em tabela de ampla aceitação no mercado, tendo como teto máximo o valor previsto na norma vigente, na data da liquidação do sinistro; 
+IV ? os valores de indenização da tabela mencionada no inciso anterior deverão ter, como limite mínimo, os valores constantes da Tabela do Sistema Único de Saúde (SUS):
+§ 1º As sociedades seguradoras que operem o Seguro DPVAT deverão enviar à SUSEP, mensalmente, a tabela adotada como referência para as indenizações decorrentes da cobertura de DAMS.
+§ 2º A SUSEP fica autorizada a determinar a utilização de tabela específica como referência para as indenizações decorrentes da cobertura de DAMS.
+Art. 14. As indenizações por Morte e Invalidez Permanente não são cumulativas.
+§ 1º No caso de ocorrência da morte da vítima em decorrência do mesmo acidente que já havia propiciado o pagamento de Indenização por Invalidez Permanente, a sociedade seguradora pagará a indenização por Morte, deduzida a importância já paga por Invalidez Permanente.
+§ 2º O reembolso de DAMS não poderá ser descontado de qualquer pagamento por Morte ou Invalidez Permanente.
+Art. 15. Em qualquer caso, a indenização será paga com base nas importâncias seguradas vigentes na data da liquidação do sinistro, independentemente da data de emissão do bilhete, em cheque cruzado com tarja preta, não endossável e nominal aos beneficiários, descontável no dia da liquidação.
+Portanto, aplicável à espécie o disposto no artigo 13 da Resolução CNSP nº 56, que previa a apuração da indenização com base na porcentagem da incapacidade apurada, com base nas Normas de Acidentes Pessoais.
+Ora, a partir do momento em que a Media Provisória fez prever, de forma expressa, que o valor a ser pago estaria relacionado às normas do CNSP e sabendo-se que, na hipótese concreta, a autora mesmo reconhece ser essa Medida Provisória a norma incidente ao caso concreto, não há como se aplicar o pagamento pretendido na inicial.
+Frise-se que, anteriormente, as decisões afastavam a incidência das resoluções e normas inferiores porque a lei previa pagamento de valor certo, correspondente a quarenta salários mínimos.
+A partir do momento em que a lei foi derrogada por Medida Provisória, posteriormente convertida em lei e a partir do momento em que é esta MP que incide no caso concreto, somente é possível entender que a indenização será feita na forma ali prevista, o que, aliás, não nega a requerente na inicial.
+Só que a MP prevê, de forma expressa, que a indenização por invalidez permanente se dará na forma prevista pelo CNSP e este, por sua vez, remete a normas que prevêem pagamento com base em porcentagem da incapacidade da vítima, na forma constante nas Normas de Acidentes Pessoais.
+Portanto, se a tese da requerente é de que o valor a ser pago é o teto de R$ 13.500,00 e se se reconhece nesta oportunidade que isto não ocorre, porque incidia norma que previa pagamento com base em porcentual de incapacidade, desnecessária a realização de prova pericial para que se conclua que a pretensão contida na inicial, referente ao recebimento da diferença entre o valor efetivamente pago e R$ 13.500,00, não pode ser aceita.
+A ação, portanto, não tem procedência quanto a esta pretensão.
+Já no que diz respeito ao valor da indenização de despesas hospitalares, não houve mesmo impugnação e a pretensão contida na inicial é procedente.
+Apenas deve ser feita a seguinte ressalva quanto a este valor. Prevê a MP 340/06, em seu artigo 8º., na parte que se refere ao §1º., do artigo 5º., da Lei 6.194/74, que o pagamento será feito no prazo de trinta dias da entrega dos documentos.
+No entanto, verifica-se que, quando da solicitação administrativa, não incluiu a requerente pedido de pagamento de DAMS (Despesas de Assistência Médica e Suplementares), conforme se verifica do documento por ela juntado (fls. 21).
+E, se não foi apresentado o requerimento administrativo, o prazo para a requerida efetuar o pagamento não correu. E se não correu, não há que se falar em correção do valor da pretensão, senão após a citação para esta ação, quando foi a ré constituída em mora.
+Assim, a correção do valor da condenação se dará a partir deste fato, ou seja, da citação válida, conforme artigo 219 do Código de Processo Civil.
+Diante do exposto, JULGO PARCIALMENTE PROCEDENTE a ação proposta por CÉLIA YOSHIKO NAKANO contra MAPFRE SEGUROS S.A. (MAPFRE) para CONDENAR a ré a pagar à autora R$ 2.212,41, valor que deverá ser corrigido a partir da citação, com incidência de juros de mora de 1% a contar também da citação.
+Sem custas e honorários, nos termos do artigo 55 da Lei 9099/95. 
+O prazo recursal é de 10 (dez) dias, por meio de advogado. O recurso está sujeito ao recolhimento de preparo, cujo valor é de 3% sobre o valor da causa, no mínimo de 10 UFESP, e de porte de remessa e retorno por volume de autos de R$ 25,00, nos termos do artigo 4° da Lei n° 11.608/03, devendo ser comprovado nas 48 horas seguintes à interposição, sob pena de deserção. 
+Indefiro a gratuidade requerida porque a autora é funcionária pública, constituiu advogado para a causa e não demonstrou a insuficiência de recursos, o que era de rigor ante o disposto no inciso LXXIV do artigo 5º., da Constituição Federal.
+Declaro resolvido o mérito, com fulcro no artigo 269, inciso I, do Código de Processo Civil.
+P. R. I.
+São Paulo, 07 de outubro de 2.010.
+MARIA SILVIA GOMES STERMAN
+            Juíza de Direito

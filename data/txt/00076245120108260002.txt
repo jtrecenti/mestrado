@@ -1,0 +1,90 @@
+
+
+SENTENÇA 
+
+CONCLUSÃO
+Em 26 de março de 2013, faço estes autos conclusos ao(à) Dr(a). Alexandre Batista Alves, Mm(a). Juiz(a) de Direito da 8ª Vara Cível do Foro Regional de Santo Amaro. Eu _______________ (ANA PICCINI MALFATTI), escrevente, subscrevi.
+
+
+Juiz(a) de Direito: Dr. Alexandre Batista Alves
+
+
+Processo nº 0007624-51.2010.8.26.0002
+
+
+
+
+Vistos. 
+
+
+
+
+AUTO POSTO PETROPAN LTDA ajuizou ação declaratória de inexistência de débito  com pedido de tutela antecipada contra AES ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S/A.,  alegando, em resumo, que: a) é consumidora de energia elétrica fornecida pela ré; b) no dia 15 de setembro de 2009, foi surpreendida por  equipe de  funcionários da ré que, ao  vistoriar o local, lavrou  termo de ocorrência de irregularidade na unidade medidora de seu estabelecimento, alegando constar violação e divergências técnicas nos lacres e sinais de  manipulação de parafusos do circuito de corrente; c) o termo de ocorrência de irregularidade não foi assinado pelo representante do autor, que não concordou com os procedimentos adotados pela equipe da ré; d) em 22.12.2009 recebeu correspondência da ré detalhando a suposta irregularidade e apresentando uma diferença no consumo de energia de 130.735,1 kwh, totalizando o valor de R$61.928,49 para pagamento; e) nunca alterou a unidade medidora e  sempre manteve uma média regular de consumo de aproximadamente 10.000 kWh, tanto antes quanto após o período da suposta irregularidade. 
+ 
+
+Por essas razões, pleiteou a antecipação de tutela para determinar que a ré se abstenha de suspender o fornecimento de energia elétrica. Requereu, ainda, seja declarada a inexigibilidade do débito. 
+
+A petição inicial veio instruída com documentos (fls. 22/68).
+
+Concedida a antecipação de tutela (fl.70), a ré ofertou contestação (fls. 79/92), na qual sustentou basicamente que:  a) Termo de Ocorrência de Irregularidade (TÓI) é legal; b) não houve suspensão de energia, tendo a concessionária regularizado a instalação no mesmo momento, não ocasionando nenhum dano ao comércio ali existente; c) o valor cobrado ao autor é devido em razão da fraude constatada no consumo de energia elétrica, estando em conformidade com o previsto na Resolução ANEEL 456/00; d) o autor se encontra inadimplente, não s aplicando o Código de Defesa do Consumidor.
+
+A ré apresentou reconvenção (fls. 99/101), na qual requerer a condenação da autora-reconvinda ao pagamento de R$61.928,49, correspondente ao inadimplemento decorrente da existência de fraude no sistema elétrico.
+
+Sobrevieram réplica e a contestação à reconvenção.
+
+Saneado o processo (fl. 151), foi deferida prova pericial, sobrevindo o laudo pericial e parecer técnico parcialmente concordante da ré.
+
+Por fim, em memoriais, as partes reiteraram seus pontos de vista.
+
+É o relatório.
+Fundamento e Decido.
+
+À luz dos elementos de convicção existentes nos autos, procede em parte a pretensão.
+
+Cuida-se de ação declaratória na qual se insurge a autora contra o TOI (termo de ocorrência de irregularidade) lavrado pela ré em 15 de setembro de 2009 (fl. 30), do qual se extrai a existência de suposta fraude no sistema de medição, notadamente divergências técnicas nos lacres e registro inferior do consumo de energia elétrica.
+
+Em defesa, sustenta a ré a regularidade do débito em virtude da constatação de fraude o sistema de medição.
+
+Não se desconhece que o termo de ocorrência de irregularidade, por si só, não é suficiente para comprovação da alegada fraude no medidor. Sucede que, no caso vertente, a irregularidade veio comprovada pela prova pericial, ainda que realizada esta de forma indireta.
+
+Com efeito, colhe-se do laudo pericial, não impugnado por assistente técnico indicado pela autora, que, a despeito de não disponibilizado o relógio medidor para análise, analisadas as médias de consumo de energia elétrica da UC da autora nos períodos anterior e posterior à lavratura do TOI e à regularização do local pela ré em 15.09.2009, foi apurado um degrau de consumo de 30,29%, o que indica irregularidade na medição de consumo do local (fl. 226).
+
+Esclareceu o perito que, com a instalação da UC da autora é trifásica, o não registro de consumo de uma das fases signfica a redução de consumo aproximado de 33% (fl. 226).
+
+Conquanto a autora afirme que em meados de 2008 a redução do consumo de energia se deveu à troca de lâmpadas para o tipo "Vapor Metálico" e instalação de quadro de capacitadores para filtrar e reduzir o consumo, afirmou o perito que esses fatos não justificariam a redução de consumo verificada após 05/2008 e o aumento de consumo constatado após a lavratura do TOI e regularização do sistema de medição pela ré. Aduziu que houve consumo irregular de energia elétrica por parte da autora durante o período de 06/2008 a 09/2009 (fl. 227).
+
+Também não há qualquer abuso em relação à fórmula de cálculo do crédito, uma vez que realizado com base no art. 72, IV, da Resolução 456 da ANEEL, conforme, aliás, apontou o perito (fls. 226/227).
+
+O custo administrativo de 30% é devido, visto que, conquanto não haja provas de que foi a autora que fraudou o sistema de medição, beneficiou-se com o registro a menor do consumo de energia elétrica.
+
+Em suma, configurada a fraude e a regularidade da cobrança, improcede o pedido de declaração de inexigibilidade do débito.
+
+Em caso semelhante, confira-se o seguinte precedente do E. Tribunal de Justiça de São Paulo:
+
+"ENERGIA ELÉTRICA- AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E OBRIGAÇÃO DE NÃO FAZER- FRAUDE NA MEDIÇÃO RECONHECIDA POR PERÍCIA INDIRETA- AUSÊNCIA DE COAÇÃO NA ASSINATURA DO TERMO DE CONFISSÃO DE DÍVIDA- INTERRUPÇÃO DE FORNECIMENTO COMO FORMA DE EXIGIR DÉBITOS PRETÉRITOS- IMPOSSIBILIDADE- AÇÃO PARCIALMENTE PROCEDENTE- RECURSO PARCIALMENTE PROVIDO" (Apelação Cível n. 0033496-41.2005.8.26.0100).
+
+Ressalve-se apenas que, ainda que confirmada a fraude, o Superior Tribunal de Justiça já decidiu que o corte não pode ser efetuado quando a dívida for referente a valores pretéritos, uma vez que tal cobrança resultaria ameaça ao consumidor, violando o art. 42 do Código de Defesa do Consumidor. Nesse sentido, confira-se o AgRg no Agravo de Instrumento n. 633.173-RS, Min. José Delgado, DJ 02.05.2005).
+
+Assim é que se afigura inviável a interrupção do fornecimento de energia elétrica com base no inadimplemento desta dívida pretérita.
+
+Por decorrência lógica do exposto, procede o pedido formulado em reconvenção.
+
+Ante o exposto:
+
+a) JULGO PARCIALMENTE PROCEDENTES os pedidos para impedir a ré de interromper o fornecimento de energia elétrica pela dívida objeto dos autos, confirmando a antecipação de tutela;
+
+b) JULGO PROCEDENTE o pedido formulado em reconvenção para condenar a reconvinda ao pagamento de R$61.928,49, valor que será atualizado desde a lavratura do TOI e acrescido de juros de mora de 1% ao mês desde a intimação desta para contestar a reconvenção.
+
+Vencida a autora, pagará as custas, despesas e honorários advocatícios, arbitrados estes em 10% do valor do débito.
+
+P.R.I.
+
+São Paulo, 26 de março de 2013.
+
+
+
+CERTIDÃO PUBLICAÇÃO
+Certifico e dou fé que a r. sentença foi enviada ao DJE. Disponibilização em 09/08/2013 (publ. 71). Considera-se a data da publicação o primeiro dia útil subseqüente à data da disponibilização no DJE. Eu, G.F.F., Escrevente subsc. 
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

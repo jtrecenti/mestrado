@@ -1,0 +1,43 @@
+
+
+SENTENÇA
+
+Processo nº:003.08.602212-4 - Procedimento Ordinário
+Requerente:Gil Pinto de Almeida e outro
+Requerido:Banco Itaú S/A
+
+
+Em 06.04.2010, faço estes autos conclusos a MM. Juíza de Direito, Dra. MELISSA BERTOLUCCI. Eu, _________ escrev., subscrevi.
+
+Vistos.
+GIL PINTO DE ALMEIDA e ODITTE CAMPOS DE ALMEIDA propôs ação em face de BANCO ITAU S/A, visando à condenação do réu em restituir o valor de R$ 24.731,46, transferido indevidamente de sua conta, por meio dos serviços oferecidos pelo réu, na Rede Mundial de Computadores, sob o fundamento de que houve fraude na utilização de sua senha e cartão de segurança pela internet, fazendo com que tal valor fosse furtado de sua conta. Afirmam que a utilização do Itaú Bankline é feita raramente por eles e, as vezes que assim procederam, o fizeram com a ajuda de seu filho, José Carlos, já que são pessoas idosas. Afirmam que José Carlos recebia semanalmente e-mail do banco que direcionava a um link em que constava o extrato da conta e possibilitava a realização de operação por meio do referido sistema. Afirmam que, em determinada ocasião, seu filho foi direcionado a um link aparentemente do banco, que pedia alguns dados do cartão e a confirmação de outros da conta corrente, o que forneceu. Afirma que, depois desse fato, ocorreram diversas transferências indevidas, no valor acima mencionado, no espaço de seis dias (entre 10 e 16 de junho de 2008), até que o banco automaticamente bloqueou sua senha.
+Citado, o banco requerido apresentou contestação em que alegou, preliminarmente, ilegitimidade passiva. No mérito, em apertada síntese, afirmou que o sistema internet banking disponibilizado pelo banco é seguro e a movimentação da conta dos autores por terceiros se deu por sua culpa exclusiva, pois, foi vítima de um programa espião, que existe no computador do consumidor e não no programa do banco. Ainda, alega que o banco informa devidamente seus clientes sobre como se proteger desses programas e de outros tipos de golpe. Conclui, afirmando, que não há ilícito imputável ao banco requerido, nem nexo de causalidade entre o dano e a sua conduta (fls. 127/148).
+O autor apresentou réplica (fls. 168/173).
+É o relatório. Fundamento e decido.
+Julgo a pretensão dos autores no estado em que se encontra o processo, tendo em vista que os pontos relevantes a tal julgamento não são controvertidos entre as partes.
+Por primeiro, afasto a alegação de ilegitimidade do banco. Os autores lhe imputam responsabilidade objetiva. A existência ou não desta é questão afeta ao mérito.
+O banco réu não nega que a movimentação bancária impugnada pelos autores tenha sido feita por terceiros, limitando-se a dizer que o serviço por ele prestado é seguro e que, se terceiros realizaram as referidas operações, a culpa exclusiva pela captura dos dados necessários à realização destas é do próprio autor.
+O fato de permitirem que seu filho os auxilie, na utilização do acesso pela rede mundial de computadores, nenhuma irregularidade contem, já que prática comum a assistência dos filhos aos pais idosos.
+Impossível aos autores provarem que não fizeram a referida operação.
+A prova negativa é chamada pela doutrina e jurisprudência de diabólica em razão de ser praticamente impossível de ser produzida. Desta feita, sempre que uma das partes alega a inexistência de um fato, automaticamente, o ônus da prova se inverte, sendo atribuída à parte contrária para que prove a existência do referido fato. Nesse sentido:
+Regida a inversão, conseqüentemente, pela hipossuficiência técnica, a doutrina estrangeira tributa o ônus da prova a quem melhor condição ostenta de cumpri-lo, assim muitas vezes na eliminação da "diabólica probatio", exemplificativamente quando ao consumidor se imputa o encargo de demonstrar que um produto não é bom, prova negativa à evidência. É na senda desse entendimento que sistemas jurídicos alienígenas vêm empregando a exceção da inversão aqui cogitada, mais claramente com o judicioso escopo de evitar a prova do não, a prova do nada, a prova do inexistente, v. g. a prova de não ter imóvel para quem alega não tê-lo, imputando a quem alega o contrário a obrigação de fazer prova positiva da existência. O ter é provável, podendo ser documentado e até fotografado. Do não ter ainda não se tem notícia de documento, muito menos de fotografia (trecho do voto proferido pelo Ilmo. Des. Rel. Luiz Sabbato, nos autos da Apelação n.º 7206913-7, TJSP).
+Assim, caberia ao réu demonstrar, ainda que por meio de indícios, que os autores foram os responsáveis pelas operações ora impugnadas.
+O réu poderia, por exemplo, ter trazido informações sobre os destinatários das referidas transferências, a fim de oportunizar a investigação sobre os vínculos existentes entre os autores e o beneficiário das transferências. Todavia, nada fez nesse sentido.
+Assim, diante da ausência de prova de que tenham sido os autores aqueles quem efetuaram as operações ora impugnadas, conclui-se que estas tenham sido feitas por terceiro.
+Nesse ponto, constata-se que a relação jurídica existente entre autores e réu é típica de consumo, sujeitando-se às disposições do Código de Defesa do Consumidor.
+Nessa linha, cumpre observar que a responsabilização do banco requerido por eventuais vícios ou defeitos na prestação de serviço decorre diretamente de lei e tem estrutura bem distinta da responsabilidade aquiliana tradicional, pois, não exige a prática de ato ilícito nem a existência de culpa.
+O banco requerido presta um serviço aos seus clientes e este deve ser livre de defeitos. O serviço é defeituoso quando não fornece a segurança que o consumidor dele pode esperar (artigo 14, parágrafo 1º, do Código de Defesa do Consumidor).
+Ao oportunizar que seus clientes realizem transações bancárias pela rede mundial de computadores, o banco requerido é o responsável pelas eventuais falhas na segurança do serviço prestado, que acabe causando dano ao consumidor.
+Com efeito, a adoção de novas tecnologias para o atendimento aos clientes gera diversas vantagens econômicas aos bancos, especialmente, a possibilidade da diminuição de sua estrutura física e do número de funcionários para atendimento, já que diminui o movimento nas agências bancárias. Em contrapartida, o risco que advém do uso dessas novas tecnologias é do banco, ainda que não tenha praticado ato ilícito e não tenha agido com culpa. Basta a existência de nexo causal entre o serviço prestado e o dano ao consumidor.
+No caso em questão, o banco busca afastar sua responsabilidade, imputando culpa exclusiva ao consumidor pelos danos que sofreu como forma de elidir o nexo causal entre o serviço prestado e os danos sofridos.
+Todavia, não assiste razão ao banco.
+Os autores não agiram em desacordo com as regras de diligência que deveriam ser adotadas pelo homem médio.
+Não há notícia de que o autor se utilize de computador público ou sem anti-vírus para realização das operações via Internet, até porque tais programas são disponibilizados em versões gratuitas pela Internet.
+Não é possível exigir mais do que isso do consumidor. Caso contrário, o serviço não poderia ser usado por praticamente ninguém, já que até os mais modernos anti-vírus não são imunes à contaminação por novos vírus.
+Tais riscos são do banco e não do consumidor.
+Assim, inexistindo culpa do autor no fornecimento de seus dados a terceiro, a responsabilidade pela falta de segurança do serviço oferecido pelo banco requerido é somente deste, de forma que deve responder por eventuais danos que causou ao consumidor.
+Nesse diapasão, deve o réu ressarcir o autor pelos valores subtraídos de sua conta (R$ 24.371,46).
+Diante do exposto e por tudo mais que dos autos consta, JULGO PROCEDENTE a pretensão deduzida pelos autores, para condenar o requerido a ressarcir-lhes o total de R$ 24.371,46, corrigidos monetariamente desde a data de cada desconto e com a incidência de juros de mora de um por cento ao mês, desde a citação. Assim, extingo o processo, com resolução de mérito, nos termos do artigo 269, inciso I, do Código de Processo Civil.
+Em razão da sucumbência, condeno o requerido ao pagamento de custas e despesas judiciais, bem como, de honorários advocatícios que arbitro em dez por cento do valor da condenação.
+P.R.I.
+São Paulo, 08 de abril de 2010.

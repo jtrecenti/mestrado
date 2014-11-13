@@ -1,0 +1,71 @@
+
+
+SENTENÇA
+
+Processo Físico nº:0016878-65.2012.8.26.0006
+Classe - AssuntoEmbargos À Execução - Valor da Execução / Cálculo / Atualização
+Embargante:Jorge S. Kuniyoshi Eletrodomesticos Me. e outro
+Embargado:Itaú Unibanco S/A.
+
+
+
+
+Juiz(a) de Direito: Dr(a). Cristina Aparecida Faceira Medina Mogioni
+
+Vistos.
+
+JORGE S KUNIYOSHI ELETRODOMÉSTICOS ME e JORGE S KUNIYOSHI ofereceu embargos à execução por título extrajudicial que lhes move ITAÚ UNIBANCO S/A, alegando, preliminarmente, falta de interesse de agir sob a assertiva de que a Cédula de Crédito Bancário, objeto da ação de execução, não é um título  executivo extrajudicial porque não atende aos requisitos do artigo 580 do Código de Processo Civil e do artigo 585, inciso II, do mesmo diploma legal, pelo fato de não estar assinado por duas testemunhas. No mérito, alegou excesso de execução e nulidade das cláusulas abusivas, como segue: cláusulas 1.4, 1.5 e 1.9 que estabelecem a cobrança de IOF no importe de R$ 846,88, cobrança de tarifa de contratação no importe de R$ 200,00 e cobrança de custos no valor de R$ 200,00;  cláusulas 1.10, 1.11 e 5ª que estabelecem a capitalização de juros e a utilização da Tabela Price; cláusula 9 que autoriza o vencimento antecipado da dívida; cláusula 10 que prevê a cobrança de taxa de comissão de permanência cumulada com juros moratórios de 12% ao ano e comissão e multa de 2%. A inicial veio instruída com os documentos a fls. 19 a 84.
+Os embargos foram recebidos sem efeito suspensivo (fls. 93).
+O embargado apresentou impugnação a fls. 96/119, defendendo a legalidade da contratação.
+Os embargantes manifestaram-se a fls. 122/130.
+A audiência de tentativa de conciliação restou prejudicada ante a ausência das partes (fls.141), vindo o embargado a informar que não compareceria à audiência de tentativa de conciliação designada por impossibilidade de conciliação entre as partes (fls. 148/151).
+É o relatório.
+Decido.
+                        O feito está em termos para julgamento porque os documentos acostados aos autos são suficientes para a prolação da sentença. 
+Afasto a preliminar arguida pelo embargante, eis que a cédula de crédito bancário é título executivo extrajudicial por força da Lei 10.931/04, que dispõe, no artigo 29, quais são os seus requisitos essenciais, não exigindo, em nenhum momento, a presença de duas testemunhas. Confira-se:
+  Art. 29. A Cédula de Crédito Bancário deve conter os seguintes requisitos essenciais:
+
+        I - a denominação "Cédula de Crédito Bancário";
+
+        II - a promessa do emitente de pagar a dívida em dinheiro, certa, líquida e exigível no seu vencimento ou, no caso de dívida oriunda de contrato de abertura de crédito bancário, a promessa do emitente de pagar a dívida em dinheiro, certa, líquida e exigível, correspondente ao crédito utilizado;
+
+        III - a data e o lugar do pagamento da dívida e, no caso de pagamento parcelado, as datas e os valores de cada prestação, ou os critérios para essa determinação;
+
+        IV - o nome da instituição credora, podendo conter cláusula à ordem;
+
+        V - a data e o lugar de sua emissão; e
+
+        VI - a assinatura do emitente e, se for o caso, do terceiro garantidor da obrigação, ou de seus respectivos mandatários.
+
+
+Quanto ao mérito, o autor alega excesso de execução e nulidade das cláusulas abusivas.
+Relativamente à alegação de excesso de execução, deve ser aplicado o disposto no artigo 739, parágrafo 5º do Código de Processo Civil, que impõe a rejeição liminar dos embargos ou o não conhecimento desse fundamento quando o embargante não declare, na petição inicial, o valor que entende correto. 
+É o que ocorre no presente caso, o embargante alegou excesso de execução, mas não declarou, na petição inicial, o valor que entende correto, razão pela qual não conheço desse fundamento dos embargos.
+No mais, o embargante insurge-se contra várias cláusulas contratuais, imputando-as abusivas. Primeiramente, ataca a cobrança do IOF,  da tarifa de contratação e da cobrança de custo de processamento,  previstas nas cláusulas 1.4,1.5 e 1.9. 
+Analisando-se o contrato, verifico que é lícito às partes convencionarem o pagamento do IOF por meio de financiamento acessório ao mútuo principal, com sujeição aos mesmos encargos contratuais. Não há qualquer irregularidade na previsão de cobrança do tributo IOF, estipulada no instrumento firmado pelas partes como de responsabilidade do consumidor. Ademais, por se tratar de imposto, não se pode isentar o devedor de pagá-lo, estando previamente disposto no título.  
+A previsão contida na cédula de cobrança da ?Tarifa de Contratação?, que é equivalente à tarifa de cadastro ou de abertura de crédito, também  é válida, pois expressamente tipificada em ato normativo padronizador do Banco Central, ressalvada que a sua cobrança somente pode ser realizada no início do relacionamento entre o consumidor e a instituição financeira. 
+Como é cediço, a matéria relativa à cobrança das tarifas bancárias: TAC (tarifa de abertura de crédito), TEC (tarifa de emissão de carnê) e Tarifa de Cadastro, restou consolidada com o julgamento, do REsp 1.251.331-RS, de 28/8/2013, que tramitou por meio do rito dos Recursos Repetitivos e publicado o v. acórdão em 24/10/2013, Relatora Ministra MARIA ISABEL GALLOTTI: ?(...)1ª Tese: Nos contratos bancários celebrados até 30.4.2008 (fim da vigência da Resolução CMN 2.303/96) era válida a pactuação das tarifas de abertura de crédito (TAC) e de emissão de carnê (TEC), ou outra denominação para o mesmo fato gerador, ressalvado o exame de abusividade em cada caso concreto. 2ª Tese: Com a vigência da Resolução CMN 3.518/2007, em 30.4.2008, a cobrança por serviços bancários prioritários para pessoas físicas ficou limitada às hipóteses taxativamente previstas em norma padronizadora expedida pela autoridade monetária. Desde então, não mais tem respaldo legal a contratação da Tarifa de Emissão de Carnê (TEC) e da Tarifa de Abertura de Crédito (TAC), ou outra denominação para o mesmo fato gerador. Permanece válida a Tarifa de Cadastro expressamente tipificada em ato normativo padronizador da autoridade monetária, a qual somente pode ser cobrada no início do relacionamento entre o consumidor e a instituição financeira. 3ª Tese: Podem as partes convencionar o pagamento do Imposto sobre Operações Financeiras e de Crédito (IOF) por meio de financiamento acessório ao mútuo principal, sujeitando-o aos mesmos encargos contratuais. (...)? (STJ, Recurso Repetitivo REsp n. 1.251.331-RS, j. em 28/08/2013, publicado em 24/10/2013, Rel. Min. MARIA ISABEL GALLOTTI).
+A cobrança de tarifa de custo (R$200,00), prevista na cláusula 1.9, nada mais é do que o repasse, ao consumidor, de serviços administrativos inerentes à própria atividade da instituição financeira, sendo, por isso, abusiva, vez que traze fulgente ofensa ao disposto nos art. 46, parte final e 51, inciso IV, do Código de Defesa do Consumidor.
+Neste sentido já foi decidido: ?CONTRATO BANCÁRIO. Revisão Cerceamento de defesa. Inocorrência. Contrato que traz expressos o valor do financiamento, das taxas de juros e de cada prestação. Ausência de vícios do consentimento. Validade do pacto. Cobrança de ?pagamentos de serviços de terceiros? e ?pagamentos de outros serviços?. Abusividade configurada. Análise do Código de Defesa do Consumidor. Restituição em dobro Incabível. Recurso parcialmente provido.? (TJSP, Apel. nº 0001224-24.2010.8.26.0292, 17ª Câmara de Direito Privado, v.u., Rel. Des. SOUZA LOPES - j. 17.8.2011); (grifei)?.
+?Cobrança de tarifa de renovação de contrato e de despesas relativas ao pagamento de serviços de terceiros. Abusividade. Valores que dizem respeito ao custeio dos serviços bancários e que são dispendidos no interesse da Ré, de modo que o repasse ao consumidor coloca-o em desvantagem excessiva em relação à instituição financeira. Necessidade de revisão do contrato nesse aspecto. RECURSO DO AUTOR CONHECIDO EM PARTE, E NA PARTE CONHECIDA, PARCIALMENTE PROVIDO. (TJSP - Apelação n. 0044696-59.2010.8.26.0071 - 27ª Câmara de Direito Privado - Relatora: Berenice Marcondes César - j. 13/03/12).?.
+Neste sentido, é abusiva a cobrança da tarifa de custo, no valor de R$ 200,00.
+Dessa maneira, apesar de expressamente contratada (fls. 44), deve ser expurgada da cobrança, com a devolução de forma simples, ou seja, sem a restituição em dobro, pois o artigo 42 do CDC, conjugado com o disposto no art. 940 do Código Civil, só se aplica em casos de cobrança oriunda de má-fé, o que não é a hipótese dos autos, com atualização monetária a partir de cada desembolso, mais juros moratórios de 1% desde a citação. 
+Com relação à clausula 9, que se refere ao vencimento antecipado da dívida para o caso de inadimplemento de qualquer uma das parcelas, nenhuma abusividade existe, visto que está em consonância com o ordenamento jurídico pátrio e foi pactuada livremente pelos embargantes e pela instituição financeira. 
+Relativamente à capitalização dos juros, a partir de 31 de março de 2000, em face MP 1.963-17/2000, reeditada sob n° 2.170-36/2001, é possível pactuá-la, de sorte que a cobrança de juros capitalizados apenas será indevida se não for pactuada".
+No tocante à comissão de permanência, é lícita a cobrança quando da mora do devedor, desde que não cumulada com juros remuneratórios, correção monetária, multa de mora ou outros encargos decorrentes do inadimplemento, isto porque ela já é composta destes elementos, de modo que a cumulação da comissão com juros moratórios e multa contratual implicaria inadmissível bis in idem.
+Nesse sentido, a Súmula n. 472 do STJ: ?A cobrança de comissão de permanência - cujo valor não pode ultrapassar a soma dos encargos remuneratórios e moratórios previstos no contrato - exclui a exigibilidade dos juros remuneratórios, moratórios e da multa contratual".
+No mesmo sentido: "Agravo Regimental no Agravo em Recurso Especial. Processual Civil. Revisional de Contrato bancário. Necessidade do Reexame. Súmulas 5 e 7/STJ. Consonância do Julgado recorrido com a jurisprudência desta Corte. Comissão de Permanência - Licitude na cobrança, desde que não cumulada com juros remuneratórios, correção monetária ou encargos da mora. Sucumbência recíproca.1.Decisão agravada mantida pelos seus próprios fundamentos.2.Agravo Regimental desprovido. (AgRg no AREsp 104596/RS, Agravo Regimental no Agravo em Recurso Especial 2011/0241887-8, T3-Terceira Turma-Relator Ministro Paulo de Tarso Sanseverino, data de julgamento 06/12/2012)".
+?PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE REVISÃO DE CONTRATO COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. DESCUMPRIMENTO DE CLÁUSULA CONTRATUAL. INVERSÃO DO ÔNUS DA PROVA. COMISSÃO DE PERMANÊNCIA. 1. É admitida a cobrança da comissão de permanência durante o período de inadimplemento contratual, calculada pela taxa média de mercado apurada pelo Banco Central, limitada à taxa do contrato, não podendo ser cumulada com a correção monetária, com os juros remuneratórios e moratórios, nem com a multa contratual. 2. O embargante traz à apreciação desta Corte insurgência desprovida de causa quanto ao tema. Ademais rever o entendimento firmado na origem ensejaria o reexame do conteúdo fático-probatório dos autos, a atrair a incidência das Súmulas 5 e 7 do STJ. 3. Embargos de declaração acolhidos unicamente para sanar omissão em relação à comissão de permanência, sem contudo emprestar-lhes efeitos modificativos( Edcl no AgRg no AREsp 34358/RS, Embargos de Declaração no Agravo regimental no Agravo regimental no Agravo em Recurso Especial 2011/0105198-1, Relator Ministro Luis Felipe Salomão, T4-Quarta Turma, data do julgamento 06/12/2012)."
+Assim, neste particular, a pretensão do autor é procedente, para que fique afastada a cobrança da comissão de permanência cumulativamente com os juros de mora, juros remuneratórios, correção monetária, multa de mora ou outros encargos decorrentes da mora.
+Em suma, com exceção das cláusulas 1.9, que cobra o custo de processamento, e da cláusula que cumula a comissão de permanência com outros encargos moratórios, são todas devidas porque permitidas pela Resolução n. 3.609/09 do Banco Central do Brasil e previstas contratualmente.
+Diante do exposto, JULGO PARCIALMENTE PROCEDENTE a ação de Embargos à Execução, movida por JORGE S KUNIYOSHI ELETRODOMÉSTICOS ME e JORGE S KUNIYOSHI, em face de ITAÚ UNIBANCO S/A nos termos do artigo 269, I, do Código de Processo Civil, tão somente para afastar a cobrança da comissão de permanência, aplicada cumulativamente com multa de mora ou outros encargos decorrentes da mora, bem como para declarar indevida a cobrança relativa ao custo de processamento, no valor de R$ 200,00, cuja devolução se fará de forma simples, com atualização monetária a partir de cada desembolso, mais juros moratórios de 1% desde a citação. A correção monetária será aplicada pelos índices da Tabela de Atualização de Débitos do Egrégio Tribunal de Justiça de São Paulo.  
+Em razão da sucumbência recíproca, as custas serão divididas igualmente entre as partes e cada qual arcará com os honorários de seu patrono.
+Oportunamente, arquivem-se os autos, com as cautelas de estilo. 
+P.R.I.C.
+
+
+
+São Paulo, 24 de março de 2014
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

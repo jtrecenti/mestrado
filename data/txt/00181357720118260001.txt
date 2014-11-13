@@ -1,0 +1,91 @@
+
+
+SENTENÇA
+
+Processo nº:0018135-77.2011.8.26.0001 - Procedimento Ordinário
+Requerente:Angela Patricia da Silva
+Requerido:Eletropaulo Metropolitana Eletricidade de São Paulo S/A
+
+
+Juiz(ª) de Direito Dr.(ª): Enéas Costa Garcia
+
+Vistos. 
+
+1. ANGELA PATRÍCIA DA SILVA, qualificada nos autos, ingressou com ação contra ELETROPAULO METROPOLITNA ELETRICIDADE DE SÃO PAULO, alegando, em síntese, que passou a residir no imóvel indicado na inicial em março/2011, sendo que dois dias depois houve interrupção do serviço em razão de ligação clandestina. 
+Alega que não cometeu tal irregularidade e não poderia sofrer corte no fornecimento do serviço.  
+Pretende o acolhimento do pedido para restabelecimento do serviço, obrigando ainda a requerida a emitir boletos de pagamento do consumo efetivo da autora (fls. 11). 
+
+2. A liminar foi deferida (fls. 23/24).
+
+3. A ré foi citada e apresentou contestação (fls. 36/42). Alega em defesa: a) ilegitimidade ativa, pois o serviço está contratado em nome de terceiro; b) que não houve solicitação de alteração da titularidade do serviço perante a concessionária; c) que o corte ocorreu em razão de autoreligação, estando o imóvel com fornecimento de energia suspenso; d) que não foram observadas as normas administrativas sobre encerramento do contrato.   
+
+4. Veio aos autos a réplica (fls. 55/57). O processo foi saneado (fls. 58) e realizaram-se audiências para inquirição das partes e testemunhas (fls. 65/70 e 82/83).
+É o relatório. 
+DECIDO.
+
+5. Indefiro a realização da perícia requerida (fls. 82), pois desnecessária a prova em consideração ao tema objeto do processo. 
+Não está em discussão eventual irregularidade na cobrança das contas no período em que a requerida ocupa o imóvel. 
+A causa de pedir e o pedido foram limitados à admissibilidade do corte do fornecimento em razão de débito antecedente à ocupação do imóvel pela requerida, sendo inviável alteração no presente momento. 
+
+6. A ação é PROCEDENTE. 
+A prova produzida demonstrou que a autora é a ocupante do imóvel, o que afasta a alegação de ilegitimidade ativa, bem como que o corte de energia ocorreu logo depois de sua mudança para o imóvel, referindo-se a débito pretérito. 
+Nem houve tempo para a requerida tornar-se devedora da quantia que ensejou o corte do fornecimento. 
+A jurisprudência tem reconhecido que não é cabível corte de fornecimento por débito antigo, sendo que neste caso deve a concessionária promover a ação de cobrança respectiva. 
+Nesse sentido:
+
+Processual civil. Agravo regimental. Inexistência de omissão, obscuridade, contradição, dúvida ou falta de fundamentação no acórdão a quo. Corte no fornecimento de energia elétrica. Cabimento no caso do art. 6º, § 3º, II, da Lei nº 8.987/95. Impossibilidade de suspensão do abastecimento na hipótese de exigência de débito pretérito. Caracterização de constrangimento e ameaça ao consumidor. CDC, art. 42. Dissídio pretoriano não-comprovado.
+1. Agravo regimental contra decisão que desproveu agravo de instrumento.
+2. O acórdão a quo entendeu pela proibição do corte no fornecimento de energia elétrica por débitos antigos, em face da essencialidade do serviço, uma vez que é bem indispensável à vida, além do que dispõe a concessionária e fornecedora dos meios judiciais cabíveis para buscar o ressarcimento daqueles.
+(...) 4. Com relação ao fornecimento de energia elétrica, o art. 6º, § 3º, II, da Lei nº 8.987/95 dispõe que não se caracteriza como descontinuidade do serviço a sua interrupção em situação de emergência ou após prévio aviso, quando for por inadimplemento do usuário, considerado o interesse da coletividade. Portanto, havendo o fornecimento de energia elétrica pela concessionária, a obrigação do consumidor será a de cumprir com sua parte, isto é, o pagamento pelo referido fornecimento, sendo possível, verificando-se caso a caso, uma vez não realizada a contraprestação, o corte.
+5. Hipótese dos autos que se caracteriza pela exigência de débito pretérito, não devendo, com isso, ser suspenso o fornecimento, visto que o corte de energia elétrica pressupõe o inadimplemento de conta regular, relativa ao mês do consumo, sendo inviável, pois, a suspensão do abastecimento em razão de débitos antigos, em relação aos quais existe demanda judicial ainda pendente de julgamento, devendo a companhia utilizar-se dos meios ordinários de cobrança, não se admitindo qualquer espécie de constrangimento ou ameaça ao consumidor, nos termos do art. 42 do CDC. (STJ ? AgRg no AG 633173/RS - Rel. Min. JOSÉ DELGADO ? j. 17/03/2005)
+
+ Creio que esta é a exegese que melhor equilibra os interesses em conflito. O corte do fornecimento, como medida extrema e excepcional, deve ficar restrito às hipóteses de inadimplência atual, mediante prévio aviso, garantindo assim o caráter sinalagmático do contrato e preservando a viabilidade econômica da concessão. 
+Mas, em relação aos débitos antigos, inclusive aqueles constatados por força de apuração de irregularidades na medição, o corte não pode persistir como meio indireto de cobrança, sob pena de violação do art. 42 do CDC. 
+É lícito à concessionária interromper o fornecimento para fazer cessar a irregularidade. Contudo, uma vez regularizada a situação, com a troca do medidor ou regularização da instalação, deve o serviço ser restabelecido, respondendo o consumidor, na via judicial, pelo débito relativo à diferença de consumo. 
+No caso sub judice, o corte do fornecimento não pode prevalecer, pois indiretamente atua como forma de cobrança do débito antigo, o que não é admissível.
+Neste sentido, entendendo que incabível o corte em razão de débito antigo apurado pela concessionária:
+
+ADMINISTRATIVO. CORTE NO FORNECIMENTO DE ENERGIA ELÉTRICA. IMPOSSIBILIDADE DE SUSPENSÃO. HIPÓTESE DE EXIGÊNCIA DE DÉBITO DECORRENTE DE RECUPERAÇÃO DE CONSUMO NÃO-FATURADO. ALEGAÇÃO DE FRAUDE NO MEDIDOR. CONSTRANGIMENTO E AMEAÇA AO CONSUMIDOR. CDC, ART. 42.
+1. A concessionária não pode interromper o fornecimento de energia elétrica por dívida relativa à recuperação de consumo não-faturado, apurada a partir da constatação de fraude no medidor, em face da essencialidade do serviço, posto bem indispensável à vida.
+Entendimento assentado pela Primeira Turma, no julgamento do REsp n.º 772.489/RS, bem como no AgRg no AG 633.173/RS.
+2. É que resta cediço que a "suspensão no fornecimento de energia elétrica somente é permitida quando se tratar de inadimplemento de conta regular, relativa ao mês do consumo, restando incabível tal conduta quando for relativa a débitos antigos não-pagos, em que há os meios ordinários de cobrança, sob pena de infringência ao disposto no art. 42 do Código de Defesa do Consumidor. Precedente: AgRg no Ag nº 633.173/RS, Rel. Min. JOSÉ DELGADO, DJ de 02/05/05." (REsp 772.486/RS, Primeira Turma, Rel. Min. Francisco Falcão, DJ de 06.03.2006).
+3. Uma vez contestada em juízo dívida apurada unilateralmente e decorrente de suposta fraude no medidor do consumo de energia elétrica, não há que cogitar em suspensão do fornecimento, em face da essencialidade do serviço, vez que é bem indispensável à vida.
+Máxime quando dispõe a concessionária e fornecedora dos meios judiciais cabíveis para buscar o ressarcimento que entender pertinente, sob pena de infringência ao disposto no art. 42, do Código de Defesa do Consumidor.
+4. In casu, o litígio não gravita em torno de inadimplência do usuário no pagamento da conta de energia elétrica (Lei 8.987/95, art. 6.º, § 3.º, II), em que cabível a interrupção da prestação do serviço, por isso que não há cogitar suspensão do fornecimento de energia elétrica pelo inadimplemento.
+5. Recurso especial a que se nega seguimento (CPC, art. 557, caput). (STJ ? Resp. nº 876.330/RS - Rel. Min. LUIZ FUX ? j. 21/11/06).
+
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. SUSPENSÃO. FORNECIMENTO DE ENERGIA ELÉTRICA. DÉBITOS PRETÉRITOS. IMPOSSIBILIDADE. RECURSO ESPECIAL INTERPOSTO COM FULCRO NO ART. 105, INCISO III, LETRA "C", DA CF/88. DIVERGÊNCIA NÃO CONFIGURADA.
+I - A suspensão no fornecimento de energia elétrica somente é permitida quando se tratar de inadimplemento de conta regular, relativa ao mês do consumo, restando incabível tal conduta quando for relativa a débitos antigos não-pagos, em que há os meios ordinários de cobrança, sob pena de infringência ao disposto no art. 42 do Código de Defesa do Consumidor. Precedente: AgRg no Ag nº 633.173/RS, Rel. Min. JOSÉ DELGADO, DJ de 02/05/05.
+III - Recurso especial improvido.
+(STJ - REsp 772.486/RS, Rel. Min. FRANCISCO FALCÃO ? j. 06.12.2005)
+
+(...)CORTE NO FORNECIMENTO DE ENERGIA ELÉTRICA. CABIMENTO NO CASO DO ART. 6º, § 3º, II, DA LEI Nº 8.987/95. IMPOSSIBILIDADE DE SUSPENSÃO DO ABASTECIMENTO NA HIPÓTESE DE EXIGÊNCIA DE DÉBITO PRETÉRITO. CARACTERIZAÇÃO DE CONSTRANGIMENTO E AMEAÇA AO CONSUMIDOR. CDC, ART. 42. DISSÍDIO PRETORIANO NÃO-COMPROVADO.
+1. Agravo regimental contra decisão que desproveu agravo de instrumento.
+2. O acórdão a quo entendeu pela proibição do corte no fornecimento de energia elétrica por débitos antigos, em face da essencialidade do serviço, uma vez que é bem indispensável à vida, além do que dispõe a concessionária e fornecedora dos meios judiciais cabíveis para buscar o ressarcimento daqueles.
+(...) 4. Com relação ao fornecimento de energia elétrica, o art. 6º, § 3º, II, da Lei nº 8.987/95 dispõe que não se caracteriza como descontinuidade do serviço a sua interrupção em situação de emergência ou após prévio aviso, quando for por inadimplemento do usuário, considerado o interesse da coletividade. Portanto, havendo o fornecimento de energia elétrica pela concessionária, a obrigação do consumidor será a de cumprir com sua parte, isto é, o pagamento pelo referido fornecimento, sendo possível, verificando-se caso a caso, uma vez não realizada a contraprestação, o corte.
+5. Hipótese dos autos que se caracteriza pela exigência de débito pretérito, não devendo, com isso, ser suspenso o fornecimento, visto que o corte de energia elétrica pressupõe o inadimplemento de conta regular, relativa ao mês do consumo, sendo inviável, pois, a suspensão do abastecimento em razão de débitos antigos, em relação aos quais existe demanda judicial ainda pendente de julgamento, devendo a companhia utilizar-se dos meios ordinários de cobrança, não se admitindo qualquer espécie de constrangimento ou ameaça ao consumidor, nos termos do art. 42 do CDC.
+7. Agravo regimental não provido. (STJ - AgRg no Ag 633173/RS - Rel. Min. JOSÉ DELGADO ? j. 17.03.2005)
+
+ADMINISTRATIVO. CORTE NO FORNECIMENTO DE ÁGUA. IMPOSSIBILIDADE DE SUSPENSÃO. HIPÓTESE DE EXIGÊNCIA DE DÉBITO DECORRENTE DE RECUPERAÇÃO DE CONSUMO NÃO-FATURADO. ALEGAÇÃO DE DÉBITO PRETÉRITO. CONSTRANGIMENTO E AMEAÇA AO CONSUMIDOR. CDC, ART. 42.
+1. A concessionária não pode interromper o fornecimento de água/energia elétrica por dívida relativa à recuperação de consumo não-faturado, apurada a partir de débito pretérito, em face da essencialidade do serviço, posto bem indispensável à vida. Entendimento assentado pela Primeira Turma, no julgamento do REsp n.º 772.489/RS, bem como no AgRg no AG 633.173/RS.
+2. É que resta cediço que a "suspensão no fornecimento de energia elétrica somente é permitida quando se tratar de inadimplemento de conta regular, relativa ao mês do consumo, restando incabível tal conduta quando for relativa a débitos antigos não-pagos, em que há os meios ordinários de cobrança, sob pena de infringência ao disposto no art. 42 do Código de Defesa do Consumidor. Precedente: AgRg no Ag nº 633.173/RS, Rel. Min. JOSÉ DELGADO, DJ de 02/05/05." (REsp 772.486/RS, Primeira Turma, Rel. Min. Francisco Falcão, DJ de 06.03.2006).
+3. Uma vez contestada em juízo dívida apurada unilateralmente e decorrente de débito pretérito, não há que cogitar em suspensão do fornecimento, em face da essencialidade do serviço, vez que é bem indispensável à vida. Máxime quando dispõe a concessionária e fornecedora dos meios judiciais cabíveis para buscar o ressarcimento que entender pertinente, sob pena de infringência ao disposto no art. 42, do Código de Defesa do Consumidor.
+4. In casu, o litígio não gravita em torno de inadimplência do usuário no pagamento da conta de água/energia elétrica atual (Lei 8.987/95, art. 6.º, § 3.º, II), em que cabível a interrupção da prestação do serviço, por isso que não há cogitar suspensão do fornecimento de água/energia elétrica pelo inadimplemento.
+5.  Recurso especial a que se nega seguimento (CPC, art. 557, caput). (STJ ? Resp. nº 809.962/RS - Rel. Min. LUIZ FUX ? j. 1/12/06)
+
+
+Assim, no caso sub judice, buscando a concessionária a recuperação de consumo objeto de suposta irregularidade, incabível a suspensão do serviço, devendo a parte realizar a cobrança pela via processual própria. 
+ 
+7. Diante do exposto, JULGO PROCEDENTE o pedido para tornar definitiva a tutela antecipada, impedindo o corte do fornecimento do serviço pelo débito anterior à ocupação do imóvel pela requerida. 
+Condeno a parte requerida ao pagamento de custas, despesas processuais e honorários advocatícios, que arbitro em R$ 1.000,00, considerando os critérios do art. 20, §§ 3º 4e 4º do Código de Processo Civil.
+
+P. R. I
+
+   São Paulo, 02 de julho de 2012.
+
+
+
+ ENÉAS COSTA GARCIA
+        JUIZ DE DIREITO
+
+         (assinatura digital)

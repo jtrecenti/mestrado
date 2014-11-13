@@ -1,0 +1,92 @@
+
+
+SENTENÇA
+
+Processo nº:1022790-98.2013.8.26.0100
+Classe ? Assunto:Procedimento Ordinário - Revisão do Saldo Devedor 
+Requerente:Edson Aparecido da Silva
+Requerido:Banco Santander S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Marcelo Barbosa Sacramone
+
+
+Vistos.
+EDSON APARECIDO DA SILVA, qualificado nos autos, ajuizou a presente AÇÃO REVISIONAL DE CONTRATO contra BANCO SANTANDER S.A, representado nos autos.
+ Alegou, em síntese, que contratou com o requerido Cédula de Crédito Bancário com juros pré-fixados, que seria pago em 60 parcelas. Informou que está em dia com as parcelas.
+Sustentou a existência de irregularidades, pois foram pré-fixados juros de 3,7000% ao mês e uma taxa anual de 54,65. Disse que a taxa anual correta seria de 44,4%, o que eleva o valor total da dívida em 14.722,55.
+ Requereu a procedência da ação para revisão contratual, declaração de nulidade da cláusula que estipula a taxa anual de juros e a condenação do banco réu ao pagamento da diferença apurada com a revisão do contrato a título de indenização, debitando-se do valor ainda devido, além de indenização fixada no valor cobrado a mais. Requereu também que o requerido seja condenado a suportar os ônus da sucumbência.
+Devidamente citado, o réu apresentou contestação (fls. 36/50).
+Preliminarmente, arguiu a preliminar de carência da ação, ante a ausência de indicação, por parte do autor, das cláusulas que pretende a revisão. 
+No mérito, sustentou a impossibilidade de se proceder à revisão contratual. Discorreu sobre os encargos e juros pactuados, bem como sobre as taxas e tarifas estabelecidas, além de fazer menção à repetição de indébito e à inocorrência de danos morais e materiais. 
+Requereu o reconhecimento da carência da ação, ou, alternativamente, a total improcedência da ação.
+Houve réplica (fls. 66/69). 
+
+É o relatório. 
+Fundamento e Decido.
+
+O feito comporta julgamento antecipado, a teor do artigo 330, inciso I, do Código de Processo Civil, pois as questões de fato dispensam dilação probatória.
+
+PRELIMINAR
+Preliminarmente, arguiu a preliminar de carência da ação, ante a ausência de indicação, por parte do autor, das cláusulas que pretende a revisão.
+Repilo a preliminar, pois a inicial não se apresentou genérica, tendo em vista que o autor indicou especificamente em que consiste a ilegalidade praticada pelo Banco. No caso, referente à diferença entre a taxa mensal e a taxa anual de juros.
+
+DESNECESSIDADE DE PERÍCIA
+Inicialmente, anoto que não há necessidade de realização de perícia contábil, pois a discussão está presa à legalidade ou não da taxa de juros, periodicidade de sua capitalização e manutenção de demais encargos contratuais.
+A esse respeito, cita-se o decreto do relator José Marcos Marone, nos autos do agravo de instrumento n.º 833.072-3, 4ª Câmara do 1º TAC de São Paulo, julgado em 12/03/2002:
+
+?Julgamento antecipado da lide ? Cerceamento de Defesa ? Inocorrência ? Hipótese em que o prolator da r. sentença tinha em mãos todos os elementos necessários para apreciar os argumentos desenvolvidos nos embargos ? Prova pericial pretendida que não tinha razão de ser ? Desnecessidade da abertura de dilação probatória ? Embargos do devedor parcialmente procedentes ? Recurso provido em parte? (Ap. Civ. 868.841-7, julg. em 06/10/2004).
+
+APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR
+Não se pode negar que os contratos sub judice submetem-se à disciplina do Código de Defesa do Consumidor, na medida em que as instituições financeiras são consideradas fornecedoras de serviços, nos exatos termos do art. 3º, § 2º, da legislação consumerista, segundo o qual ?Serviço é qualquer atividade fornecida no mercado de consumo, mediante remuneração, inclusive as de natureza bancária, financeira, de crédito e securitária, salvo as decorrentes das relações de caráter trabalhista? (grifo nosso).
+Esse entendimento está sedimentado no âmbito do Colendo Superior Tribunal de Justiça, que, a respeito, editou a Súmula n° 297 de sua jurisprudência, vazada nos seguintes termos:
+
+?O Código de Defesa do Consumidor é aplicável às instituições financeiras?.
+
+Feitas essas considerações, e já adentrando à pretensão revisional, entendo que a ação deve ser julgada improcedente.
+Pretende o autor a revisão do contrato livremente pactuado. Sustentou a existência de irregularidades, pois foram pré-fixados juros de 3,7000% ao mês e uma taxa anual de 54,65. Disse que a taxa anual correta seria de 44,4%, o que eleva o valor total da dívida em 14.722,55.
+
+CAPITALIZAÇÃO DOS JUROS
+A diferença apontada pelo autor quanto à taxa de juros mensal e anual se dá em razão da capitalização dos juros. Contudo, não há qualquer irregularidade no tocante à capitalização dos juros relativamente aos contratos bancários.
+O chamado anatocismo, como se sabe, é a incorporação dos juros ao valor principal da dívida, sobre a qual incidem novos encargos. 
+Na prática usual do mercado financeiro, os juros sobre o capital referentes a um determinado período (mensal, semestral, anual) são incorporados ao respectivo capital, compondo um montante que servirá de base para nova incidência da taxa de juros convencionada. 
+O Código Comercial de 1850 permitia, em seu art. 253, a acumulação de juros vencidos aos saldos liquidados em conta corrente de ano a ano. A propósito confira o teor da disposição mencionada:
+?É proibido contar juros de juros; esta proibição não compreende a acumulação de juros vencidos aos saldos liquidados em conta corrente de ano a ano. Depois que em juízo se intenta a ação contra o devedor, não pode ter lugar a acumulação de capital e juros.?
+O Código Civil de 1916, também previa, em seu art. 1.262 a capitalização de juros, aliás, sem qualquer limite de periodicidade, desde que expressamente convencionada. Tal disposição, contudo, foi parcialmente revogada pelo Decreto nº 22.626/33 (Lei de Usura), que, em seu art. 4º, admitiu a acumulação dos juros vencidos aos saldos líquidos, desde que em periodicidade anual. O mesmo se deu com o novo Código Civil (Lei 10.406/02) que também admitiu em seu art. 591 a capitalização apenas anual dos juros. 
+Verifica-se, pois, que nosso sistema jurídico sempre previu a possibilidade de capitalização dos juros, com variação apenas em relação ao período de incorporação dos juros ao capital. 
+No campo jurisprudencial, o Supremo Tribunal Federal interpretando o art. 4º da Lei de Usura, editou a Súmula nº 121, assentando o entendimento de que é proibida a capitalização de juros em período inferior ao anual, ainda que expressamente convencionada.
+No que tange a operações regidas por leis especiais em que haja expressa autorização legal, o Supremo Tribunal Federal, porém, sempre admitiu a capitalização dos juros de acordo com o pactuado. 
+Em nosso ordenamento jurídico, vários diplomas legais preveem a possibilidade da capitalização dos juros, a saber: o Decreto-lei nº 167, de 1967 (Cédula de Crédito Rural); Dec. Lei nº 413, de 9.1.69 (Cédulas de Crédito Industrial); Lei nº 6.313, de 16.12.75 (Crédito à Exportação); Lei nº 6.840, de 3.11.80 (Cédula de Crédito Comercial e Produto Rural), e por último, a Medida Provisória nº 1.925, de 14.10.99 (Cédula de Crédito Bancário).
+No mesmo sentido o entendimento do Superior Tribunal de Justiça consubstanciado na Súmula nº 93, in verbis:
+
+"A legislação sobre cédulas de crédito rural, comercial e industrial admite o pacto de capitalização de juros".
+
+A Medida Provisória nº 1.963-17, de 30 de março de 2000 (atualmente reeditada sob o nº 2.170-36/2001), a exemplo das leis especiais já existentes, estabeleceu em seu art. 5º, a possibilidade de capitalização dos juros nos contratos de mútuo bancário. Confira a redação da disposição mencionada:
+
+?Nas operações realizadas pelas instituições financeiras integrantes do Sistema Financeiro Nacional é admissível a capitalização de juros com periodicidade inferior a um ano.?
+
+A disposição supra, ao contrário do que muitos pensam, se mostra, ao menos em tese, benéfica aos tomadores de empréstimos. 
+A vedação à capitalização dos juros prejudica a necessária transparência que deve haver nos contratos de mútuo bancário e acaba forçando as instituições a embutir nas taxas nominais um percentual equivalente à capitalização, resultando em taxas de juros mais elevadas.
+A Medida Provisória em questão, segundo esse raciocínio, mostra-se benéfica, por reduzir essa incerteza, possibilitando aos bancos reduzir as taxas nominais de juros. Aliás, essa foi a intenção do governo como pode ser observado da Exposição de Motivos da Medida Provisória nº 1963-17, subscrita pelo Ministro da Fazenda Pedro Malan.
+É de se ressaltar, ainda, que a Medida Provisória tem força de Lei (art. 62 da CF) e deve ser respeitada.
+Contudo, somente deve ser aplicada aos contratos de mútuo bancário pactuados após sua entrada em vigor (31.03.2000), pois, antes, como dito, vigorava a proibição da capitalização dos juros em período inferior a um ano, salvo aqueles casos regidos por leis especiais (Cédula de Crédito Rural, Industrial, Comercial, etc.).
+Esse também o entendimento do Superior Tribunal de Justiça, conforme pode ser observado da ementa abaixo transcrita:
+
+PROCESSO CIVIL - RECURSO ESPECIAL - AGRAVO REGIMENTAL ? CONTRATO BANCÁRIO DE ABERTURA DE CRÉDITO - CELEBRAÇÃO ANTERIOR À EDIÇÃO DA MEDIDA PROVISÓRIA 2.170-36/2001 - CAPITALIZAÇÃO MENSAL DE JUROS - ART 4º DO DECRETO 22.626/33 - LEI 4.595/64 - SÚMULA 596/STF - INAPLICABILIDADE - COMISSÃO DE PERMANÊNCIA E CORREÇÃO MONETÁRIA - CUMULAÇÃO - SÚMULA 30/STJ - IMPOSSIBILIDADE - SÚMULA 83/STJ - DESPROVIMENTO.
+1 - Este Tribunal já proclamou o entendimento de que, nos contratos firmados por instituições integrantes do Sistema Financeiro Nacional, anteriormente à edição da MP 1.963-17/2000, de 31 de março de 2000 (atualmente reeditada sob o nº 2.170-36/2001), ainda que expressamente pactuada, é vedada a capitalização dos juros, somente admitida nos casos previstos em lei, quais sejam, nas cédulas de crédito rural, comercial e industrial, inocorrentes, na presente hipótese (art. 4º do Decreto n. 22.626/33 e Súmula nº 121-STF). In casu, cuida-se de contrato de empréstimo/financiamento de bens e serviços firmado em agosto de 1998, sendo, portanto, inaplicável o disposto na citada medida provisória. Precedentes (REsp nºs 629.487/RS e 525.557/RS, AgRg REsp nºs 494.735/RS e 595.136/RS).
+2 - Esta Corte já pacificou o entendimento no sentido de ser lícita a cobrança da comissão de permanência, desde que não cumulada com correção monetária, nem com juros remuneratórios, nos termos da Súmula 30/STJ. Precedentes (AgRg Ag 580.348/RS, AgRg REsp 601.366/RS e REsp 271.214/RS).
+3 - Aplicável, portanto, à hipótese, o enunciado sumular de n.º 83/STJ.
+4 - Agravo Regimental conhecido, porém, desprovido. (STJ ? AgRg no REsp nº 522783/RS - 4ª Turma ? Rel. Min. Jorge Scartezzini ? DJ 17.12.2004, pág. 556).
+
+No caso sub judice observa-se que o contrato juntado aos autos foi firmado entre as partes após a vigência da primeira edição da Medida Provisória nº 1.963 (31.03.2000), de modo que é permitida a capitalização dos juros, não se verificando, pois, qualquer irregularidade quanto a este aspecto. 
+Logo, o débito não era devido de modo que não há dano a ser ressarcido nem valor cobrado a maior.
+Ante o exposto JULGO IMPROCEDENTE a presente AÇÃO REVISIONAL DE CONTRATO. Consequentemente, JULGO resolvido o mérito deste processo com fundamento no artigo 269, inciso I, segunda parte, do Código de Processo Civil.
+Em razão da sucumbência, condeno a parte autora a arcar com as custas e despesas processuais, bem como com os honorários advocatícios da parte adversa, os quais fixo em 10% do valor da causa.
+Após o trânsito em julgado, ao arquivo.
+
+P. R. I. C.
+
+
+São Paulo, 15 de outubro de 2013.

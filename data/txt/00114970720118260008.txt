@@ -1,0 +1,80 @@
+
+
+SENTENÇA
+
+Processo nº:0011497-07.2011.8.26.0008
+Classe - AssuntoProcedimento Ordinário - Rescisão / Resolução
+Requerente:Pavoni Tratorpeças Indústria e Comércio Ltda.
+Requerido:Vmb Comercio e Serviços de Informatica Ltda - Me
+
+
+
+
+Juiz(a) de Direito: Dr(a). Antonio Manssur Filho
+
+
+Vistos.
+
+Pavoni Tratorpeças Indústria e Comércio Ltda. ajuizou ação com pedidos de rescisão de contrato, devolução de quantias e indenização por perdas e danos, (multa contratual), contra VMB Comércio e Serviços de Informática Ltda. ME., aduzindo, em síntese, que em 24/06/2010 firmou com a ré um contrato de prestação de serviços de desenvolvimento de website, conforme indicado à inicial. Que foi avençado o preço de R$ 4.500,00, já quitado. Que em 02/05/2011, tendo em vista o descumprimento do contrato, a autora notificou a ré. Que a autora terá que contratar outra empresa para retificar, alterar e terminar os serviços. Discorreu sobre a dinâmica fática e direito que entendeu aplicável. Pleiteou a rescisão do contrato, a devolução das quantias pagas e a aplicação, em seu favor, de multa contratual de 10%, (cláusula 8). Juntou documentos, (fls. 02/36).
+
+Citada, a requerida ofertou contestação, sem defesas preliminares. No que toca ao mérito, discorrendo sobre a natureza jurídica da relação material e contexto fático, sustentou a adequação de sua conduta e a correção dos trabalhos realizados, que estariam de acordo com o projeto, obedecendo o cronograma estabelecido. Aduziu que a autora não cumpriu obrigações contratualmente assumidas e que interferiram com o cronograma de desenvolvimento, por exemplo, o fornecimento de textos em inglês e espanhol, informações e outros elementos necessários para o avanço das etapas, pelo que fundou sua tese na exceção de contrato não cumprido. Por fim, impugnou a notificação e as pretensas irregularidades no contrato, (fls. 59/70).
+
+Réplica a fls. 143/145.
+
+Saneador a fls. 146/147, com o enquadramento da natureza da relação material firmada entre as partes, fixação de ponto controvertido e deferimento, unicamente, de prova pericial.
+
+Laudo pericial encartado a fls. 188/375 e complementado a fls. 460/487, submetido a regular contraditório.
+
+Este o relatório do essencial, passo a fundamentar e a decidir.
+
+A ação é procedente.
+
+
+Restou delineado pelos elementos dos autos, com especial atenção ao bem elaborado laudo pericial, que o insucesso dos trabalhos, malgrado já em fase avançada, decorreu de dois elementos, a saber: a complexidade do projeto e a grande dificuldade de comunicação entre as partes.
+
+E com base nestes dois vetores, é de se atribuir a responsabilidade pelo malogro à parte requerida.
+
+Com efeito, o estudo pericial demonstrou que o projeto era de considerável complexidade, o que se observa a partir da detida análise do laudo, desmerecendo maiores considerações. 
+
+ Todavia, pese a inegável complexidade do projeto, a ré, que detém o domínio específico da técnica em questão, não o aferiu adequadamente, em especial no que tange às suas peculiaridades, que, neste particular, interferiam com as necessidades da autora, passando, ato contínuo, a exigir da autora conduta direcionada ao suprimento dos problemas, - que poderia ter solucionado se tivesse aferido a complexidade do projeto de modo diligente -, como, por exemplo, traduções de pequenos textos para o inglês e espanhol e falta de programador em seus quadros com conhecimentos necessários para desenvolvimento de e-commerce, tributação e matemática financeira.
+
+Destarte, evidente que a ré, por responsabilidade que se lhe impõe, aceitou projeto que foi mal aferido no que toca à sua complexidade, sem embargo de que não detinha capacitação técnica suficiente para finalizar os trabalhos de forma exitosa.
+
+Nesta esteira, destaque-se que o estudo pericial, de forma contundente e bem detalhada, demonstrou ao juízo que a requerente deu cumprimento às exigências da ré, fazendo entregar os elementos e dados necessários para a complementação dos trabalhos, não se justificando a alegação trazida pela ré de que óbices técnicos teriam impedido a continuidade do desenvolvimento do projeto.
+
+A este propósito, confira-se a análise pericial detalhada do conteúdo de cada ''ticket'', (títulos com os conteúdos e dados), a indicar o esforço da autora em atender as exigências da ré, concluindo-os e, inclusive, no que toca aos ''tickets'' considerados incompletos, que nada interferiram com a possibilidade de cumprimento da avença pela ré, como bem ressaltado pelo laudo complementar.
+
+Outrossim, sublinhe-se que eventuais atrasos da autora não poderiam ensejar a rescisão do contrato, ao passo que acarretariam meras prorrogações, na forma da cláusula 6.4, da avença, que não foram providenciadas adequadamente pela ré. 
+
+ Destarte, evidente que a justificativa trazida pela ré para suspensão dos trabalhos não convence, não cabendo aplicação a exceção de contrato não cumprido. A uma, porque a autora, conforme bem demonstrado pela perícia, forneceu os dados necessários para a conclusão dos trabalhos, exigências que, ressalte-se, foram exasperadas pela falta de capacitação técnica específica da ré para lidar com a complexidade do projeto e, a duas, porque os pretensos ''tickets'' não concluídos em nada interfeririam com a possibilidade de conclusão dos trabalhos.
+
+
+Não menos importante é o fato de que restou constatado pela perícia que o projeto já se encontrava em estágio avançado, tanto que foi sugerida a mediação para a sua conclusão que, apesar de ter sido iniciada, não foi levada a bom termo, em razão de abrupta cessação de conversações pela ré, demonstrando, sobremaneira, sua falta de interesse na conclusão do projeto.
+
+Não menos importante é o fato de que a dificuldade de comunicação entre as partes foi determinante para o insucesso do negócio.
+
+E também conquanto a este vetor a culpa atribui-se à conduta da ré.
+
+Isto porque a ré, sem qualquer alicerce contratual, que, inclusive, indicava outros meios de comunicação, (cláusulas 4.5 e 4.6), impôs à autora, empresa que não domina a técnica de informática, a utilização compulsória da ferramenta ''MySuite'', ''software'' estranho às atividades e usos da autora, gerando grandes descompassos que poderiam ter sido facilmente superados, o que não ocorreu por pura intransigência da ré.
+
+De rigor, pois, a rescisão do contrato, impondo-se a responsabilidade pelo insucesso à empresa ré.
+
+Da rescisão, para que não ocorra locupletamento indevido, os valores pagos pela autora deverão ser ressarcidos, corrigidos monetariamente desde cada desembolso, com juros legais de 1% ao mês, contados da citação, retornando as partes ao estado anterior à avença.
+
+Tratando-se de relação material bilateral, é de se acolher o pedido de aplicação de multa à parte que deu causa ao descumprimento, no importe de 10% do valor da avença, valendo-se, para tal fim, da cláusula 8, por analogia.
+
+Ante o exposto, julgo procedente a ação, o que faço para:
+
+1-Declarar rescindido o contrato, por culpa da ré;
+
+2-Condenar a ré à restituição dos valores pagos, corrigidos monetariamente desde cada desembolso e com juros legais de 1% ao mês, contados da citação;
+
+3-Condenar a ré, a título de perdas e danos, à cláusula penal, no importe de 10% do valor do contrato, corrigido monetariamente desde o ajuizamento e com juros legais de 1% ao mês, contados da citação;
+
+4-Condenar a ré às custas, despesas processuais e honorários advocatícios, fixados em 15% do valor atualizado da causa.
+
+       PRIC.
+
+São Paulo, 24 de outubro de 2012.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

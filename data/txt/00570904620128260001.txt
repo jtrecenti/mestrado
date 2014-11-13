@@ -1,0 +1,63 @@
+
+
+SENTENÇA
+
+Processo nº:0057090-46.2012.8.26.0001 - Procedimento Ordinário
+Requerente:Eliany Candido Viveiros
+Requerido:Banco Itaucard S.A.
+
+
+
+Juiz(ª) de Direito Dr.(ª): Enéas Costa Garcia
+
+
+
+Vistos. 
+
+
+1. ELIANY CANDIDO VIVEIROS, qualificada nos autos, ingressou com ação contra BANCO ITAUCARD S/A, alegando, em síntese que: a) celebrou junto ao requerido contrato de financiamento para aquisição de veículo; b) em razão de problemas financeiros não conseguiu adimplir uma das parcelas, renegociando o contrato; c) não recebeu os boletos referentes ao refinanciamento do débito; d) tem recebido cobranças do credor; d) o contrato deve ser revisto em razão da onerosidade, adequando-se a taxa de juros. 
+Pretende o acolhimento do pedido para revisão do contrato, redução das parcelas com aplicação da taxa de juros de 12% a.a., repetição de indébito quanto ao pagamento de TAC, "mora abusiva" e cobrança de boleto bancário, bem como condenação do réu ao pagamento de indenização por danos morais e condenação na quitação do contrato, isentando o autor de qualquer ônus doravante e liberação de qualquer gravame. 
+ 
+2. Houve indeferimento da tutela antecipada (fls. 44/45).
+
+3. O réu foi citado (fls.62) e apresentou contestação (fls.64/91). Alega em defesa: a) ausência dos pressupostos para depósito incidental de valores; b) inexistência de onerosidade excessiva; c) ausência de limitação da taxa de juros remuneratórios e moratórios; d) inexistência de danos morais; e) incabível a devolução em dobro.  
+É o relatório. 
+
+DECIDO.
+
+4. O feito comporta julgamento antecipado, sendo dispensável a produção de prova oral, nos termos do art. 330, I do Código de Processo Civil.
+
+5. A ação é IMPROCEDENTE.
+Não se mostra cabível revisão do contrato por onerosidade superveniente, não estando presentes os pressupostos legais. 
+Falta indicação de qual seria o fato superveniente e imprevisível que teria alterado a base do contrato. 
+Improcede, outrossim, a pretensão de limitação dos juros a 12% ao ano. 
+Nos contratos bancários não incide a revogada limitação constitucional de juros (Súmula nº 648 e Súmula Vinculante nº 7 do STF), nem a Lei de Usura (STJ ? REsp. nº 1.061.530/RS, Rel. Min. NANCY ANDRIGHI, j. 22/10/2008 [com incidente de recurso repetitivo]; AgRg no REsp. nº 886.220/RS, Rel. Min. PAULO DE TARSO SANSEVERINO, j. 15/03/2011; AgRg no REsp. nº 1.093.000/MS, Rel. Min. SIDNEI BENETI,  j. 08/02/2011) ou o limite estabelecido no Código Civil/02 (STJ ? REsp. nº 1.061.530/RS, Rel. Min. NANCY ANDRIGHI, j. 22/10/2008 [com incidente de recurso repetitivo]).
+O controle da abusividade das taxas de juros não se dá intrinsicamente no contrato, tampouco com análise do spread bancário (STJ ? REsp. nº 292.893/SE - Rel. Min. CARLOS ALBERTO MENEZES DIREITO ? j. 15/08/02 ? LEX-STJ 163/61). 
+A jurisprudência do Superior Tribunal de Justiça fixou entendimento de que a taxa de juros somente é passível de controle quando discrepa significativamente dos juros praticados no mercado (STJ - AgRg no REsp. nº 1.009.512/MS, Rel. Min. MARIA ISABEL GALLOTTI, j. 15/02/2011; STJ - AgRg no REsp. nº 1.052.866/MS, Rel. Min VASCO DELLA GIUSTINA (DESEMBARGADOR CONVOCADO DO TJ/RS), j. 23/11/2010), o que não se demonstrou no caso sub judice.
+Nos termos da Súmula nº 382 do Superior Tribunal de Justiça: ?A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade?. 
+A própria autora reconhece a existência do débito, tendo pago apenas duas prestações do contrato original, sendo inviável acolher o pedido formulado no que concerne à quitação do contrato. 
+Inexiste ato ilícito a ensejar responsabilidade civil e obrigação de indenizar, especialmente dano moral. 
+Apesar de na inicial haver menção a tratativa de renegociação do débito, tendo a autora solicitado esclarecimentos do credor a respeito em sede de tutela antecipada, nenhum pedido foi formulado a respeito, o que impede o conhecimento do tema. 
+O contrato não prevê cobrança de TAC, mas tarifa de cadastro (fls. 92), a qual é admissível. 
+O Superior Tribunal de Justiça, em julgamento de Recurso Repetitivo, fixou a tese de que admissível a cobrança de IOF, excluindo a cobrança de TEC e TAC, admitindo a cobrança de tarifa de cadastro:
+
+?(...) PARA OS EFEITOS DO ART. 543-C, DO CPC, RESSALVADOS OS POSICIONAMENTOS PESSOAIS DOS SRS. MINISTROS NANCY ANDRIGHI E PAULO DE TARSO SANSEVERINO, QUE ACOMPANHARAM A RELATORA, FORAM FIXADAS AS SEGUINTES TESES: 1. NOS CONTRATOS BANCÁRIOS CELEBRADOS ATÉ 30.4.2008 (FIM DA VIGÊNCIA DA RESOLUÇÃO CMN 2.303/96) ERA VÁLIDA A PACTUAÇÃO DAS TARIFAS DE ABERTURA DE CRÉDITO (TAC) E DE EMISSÃO DE CARNÊ (TEC), OU OUTRA DENOMINAÇÃO PARA O MESMO FATO GERADOR, RESSALVADO O EXAME DE ABUSIVIDADE EM CADA CASO CONCRETO; 
+2. COM A VIGÊNCIA DA RESOLUÇÃO CMN 3.518/2007, EM 30.4.2008, A  COBRANÇA POR SERVIÇOS BANCÁRIOS PRIORITÁRIOS PARA PESSOAS FÍSICAS FICOU LIMITADA ÀS HIPÓTESES TAXATIVAMENTE PREVISTAS EM NORMA PADRONIZADORA EXPEDIDA PELA AUTORIDADE MONETÁRIA. DESDE ENTÃO, NÃO MAIS TEM RESPALDO LEGAL A CONTRATAÇÃO DA TARIFA DE EMISSÃO DE CARNÊ (TEC) E DA TARIFA DE ABERTURA DE CRÉDITO (TAC), OU OUTRA DENOMINAÇÃO PARA O MESMO FATO GERADOR. PERMANECE VÁLIDA A TARIFA DE CADASTRO EXPRESSAMENTE TIPIFICADA EM ATO NORMATIVO PADRONIZADOR DA AUTORIDADE MONETÁRIA, A QUAL SOMENTE PODE SER COBRADA NO INÍCIO DO RELACIONAMENTO ENTRE O CONSUMIDOR E A INSTITUIÇÃO FINANCEIRA; 
+3. PODEM AS PARTES CONVENCIONAR O PAGAMENTO DO IMPOSTO SOBRE OPERAÇÕES FINANCEIRAS E DE CRÉDITO (IOF) POR MEIO DE FINANCIAMENTO ACESSÓRIO AO MÚTUO PRINCIPAL, SUJEITANDO-O AOS MESMOS ENCARGOS CONTRATUAIS.? 
+(STJ ? Resp. nº 1.251.331/RS - Rel. Min. MARIA ISABEL GALLOTTI ? j. 28/08/2013). 
+
+O contrato não contém indicação de cobrança de tarifa de boleto (fls. 92), sendo improcedente o pedido. 
+A parte formulou pedido sobre reconhecimento de ?mora abusiva?, mas não há qualquer indicação a respeito do que considera irregular sob esta rubrica, sendo vedado ao juiz proclamar de ofício nulidade de cláusulas, segundo entendimento consolidado no Superior Tribunal de Justiça, razão pela qual não pode ser conhecida a matéria.
+
+6. Diante do exposto, JULGO IMPROCEDENTE o pedido. Condeno a autora ao pagamento de custas, despesas processuais e honorários advocatícios, que arbitro em R$ 700,00, considerando os critérios do art. 20, §§ 3º e 4º do Código de Processo Civil.
+
+P. R. I
+
+
+   São Paulo, 25 de novembro de 2013.
+
+
+ ENÉAS COSTA GARCIA
+        JUIZ DE DIREITO
+
+         (assinatura digital)

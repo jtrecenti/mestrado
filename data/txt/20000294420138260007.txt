@@ -1,0 +1,52 @@
+
+
+SENTENÇA
+
+Processo nº:2000029-44.2013.8.26.0007
+Classe ? Assunto:Procedimento do Juizado Especial Cível - Indenização por Dano Material
+Requerente:Josuel Lopes da Silva
+Requerido:Pagseguro Internet Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Carla Kaari
+
+
+
+
+Vistos.
+Dispensado o relatório, conforme o art. 38 da Lei nº 9.099/95,
+Fundamento e decido.
+Retifique-se o polo passivo, para constar UNIVERSO ON LINE S.A. ("UOL"), CNPJ 01.109.184/0001-95, com sede na Avenida Brigadeiro Faria Lima, 1384, 6.º andar, São Paulo/SP.
+O pedido inicial é improcedente.
+ O autor afirma que em 2009 começou a vender produtos pela internet, e por cautela optou por contratar empresa intermediária de pagamentos via internet. A garantia do pagamento estaria vinculada à comprovação da entrega do produto transacionado, confirmada virtualmente. Tal procedimento geraria uma taxa de intermediação de 10%. Informa que nas últimas vendas realizadas a requerida deixou de depositar valores devidos de forma pontual. A justificativa da requerida seria ?inconsistência nos dados da conta bancária? e ?chargeback?. Aduz que nunca houve alteração em sua conta corrente. O problema não foi solucionado e as vendas continuaram a acontecer. O autor não conseguiu receber os créditos e dependia deles para efetuar o pagamento de suas despesas pessoais e quitar fornecedores. Teve a sua conta no ?Pagseguro? bloqueada por vários dias, em período de venda tradicionalmente melhor, o que fez com que se socorresse a empréstimos bancários para honrar seus compromissos. Assim, requereu a procedência da ação a fim de que a requerida seja condenada a indenização por danos materiais no valor de R$ 700,00, pela demora no repasse, bem como indenização por danos materiais.
+Por outro lado, a requerida informa que as solicitações de saque do usuário foram canceladas devido ao recebimento de ?chargebacks?. Afirma que conforme o contrato de prestação de serviços o ?Pagseguro? pode suspender e/ou cancelar uma transação, bem como cobrar valores nos casos de contestação por parte do comprador. Somente após a análise da contestação e comprovação de mercadorias, o requerido, por medida de segurança para ambas as partes autorizou o saque por parte do requerente. Aduz que agiu no exercício regular de seu direito e, portanto, ausente qualquer conduta ilícita. Acrescentou que foi um cliente do autor que iniciou um procedimento de ?chargeback?, que precisou ser averiguado. Após as averiguações entendeu-se que razão assistia ao requerente e não ao cliente dele. Com isso o saque foi liberado. Aduz também que não houve perda patrimonial do requerente. Este disse que algumas vendas teriam sido canceladas devido ao bloqueio. Informa que o requerente tinha ciência das regras do contrato e também que o autor não trouxe prova dos motivos de cancelamento das supostas vendas canceladas. Por fim, a requerida, impugnou o pedido de indenização por danos morais, por falta de provas e requereu a total improcedência da ação.
+Não há controvérsias quanto à relação jurídica entre as partes.
+A controvérsia reside na regularidade no modo de proceder da requerida e indenização por danos materiais e morais.
+Pelo que consta nos autos o pagamento já foi efetuado ao autor.
+O caso é de inadimplemento contratual, que foi cumprido com atraso.
+O pedido de indenização vem fundado na eventual falha ocorrida no sistema da requerida (pagseguro), que impediu o autor de receber seus créditos, bem como de honrar seus compromissos, causando-lhe transtornos em razão de eventual má prestação de serviços que foram interrompidos, não obstante as diversas reclamações por ele feitas visando a solução do impasse.
+No caso, verifico que o autor juntou aos autos e-mails dando conta de que não houve o pagamento por ?inconsistência da conta bancária? (fls. 09, 51/52, 53 e 54), em final de abril e maio de 2013. 
+Às fls. 63/64 verifico que parte do valor a receber estava bloqueada e outra parte disponível, bem como que havia ?disputa?, em 16/05/13. Assim, se vê que a conta do autor não estava totalmente bloqueada como ele afirmou na inicial, mas apenas parte do valor, que provavelmente seria em virtude de ?disputa?, conforme fls. 63.
+O autor também não esclareceu quantos dias teria efetivamente ficado com a sua conta bloqueada, como afirmou na inicial, nem que tais dias seriam ?de vendas tradicionalmente melhor?. Também não discriminou especificamente o valor do dano material, já que o valor de R$ 700,00 não deixou de ser pago, mas apenas foi pago com atraso, segundo se depreende dos autos.
+Os documentos de fls. 07 e 08 são insuficientes para a prova do dano material afirmado.
+Neste contexto, não há que se falar em danos materiais, eis que o autor não comprovou a retenção indevida de valores pela ré, nem os fatos narrados na inicial, ônus que lhe competia.
+O pedido de indenização por danos morais também não prospera.
+Isto porque não houve prova do dano moral no caso em questão. Salvo circunstância excepcional que coloque o contratante em situação de extraordinária angústia ou humilhação, no caso não há dano moral. É que o dissabor inerente à expectativa frustrada decorrente de inadimplemento contratual se insere no cotidiano do homem médio e não implica lesão à honra ou violação da dignidade humana, nem, por si só, conduz ao dano moral. 
+O eventual inadimplemento das contas de consumo e a impossibilidade de efetuar saques regulares representam situação desagradável e incômoda. Porém, não chegam a causar lesão aos direitos da personalidade. Ademais, não há prova nos autos de que experimentou qualquer tipo de ofensa à sua imagem, credibilidade ou honra, advinda, do inadimplemento contratual discutido nos autos, que gerou, à evidência, impossibilidade temporária de realização de saques e pagamentos.
+No mesmo sentido, entendimentos do Superior Tribunal de Justiça:
+?CIVIL E PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. SEGURO-VIAGEM. DANOS MORAIS. DESCUMPRIMENTO CONTRATUAL. INOCORRÊNCIA EM REGRA. SITUAÇÃO EXCEPCIONAL NÃO CARACTERIZADA. RECURSO DESACOLHIDO. I - Como anotado em precedente (REsp 202.504-SP, DJ 1.10.2001), "o inadimplemento do contrato, por si só, pode acarretar danos materiais e indenização por perdas e danos, mas, em regra, não dá margem ao dano moral, que pressupõe ofensa anormal à personalidade. Embora a inobservância das cláusulas contratuais por uma das partes possa trazer desconforto ao outro contratante ? e normalmente o traz - trata-se, em princípio, do desconforto a que todos podem estar sujeitos, pela própria vida em sociedade". II - Não verificadas as omissões apontadas, a mera divergência da parte com o entendimento e a conclusão contidos no acórdão não constituem embasamento a embargos declaratórios. Outrossim, não se pode pretender, por via oblíqua, a reforma da decisão com revisão de questões de fato e de direito.? (Recurso Especial n. 338.162 MG, Rel. o Ministro Sálvio de Figueiredo Teixeira, 4ª Turma, v.u., j. 20.11.2001).
+Na hipótese, não há como concluir que a reputação do autor tenha sido atingida, não sendo relevante o fato de que, como alegado, tenha efetuado, com atraso, o pagamento de suas contas e deixado de promover vendas pela internet em virtude da interrupção dos serviços pela demandada, o que inclusive não foi por ele provado.
+Os dissabores e os contratempos que o requerente alega ter experimentado são insuficientes a ensejar a reparação pretendida, pois o que importa é que não houve comprovação de abalo à sua reputação, ou que seus negócios tenham sido prejudicados, embora se reconheça o desconforto que a interrupção dos serviços causou.
+Neste contexto, conclui-se que o autor não se desincumbiu a contento do ônus probatório que lhe competia, por força do artigo 333, inciso I, do CPC, haja vista que não trouxe aos autos elementos suficientes a demonstrar a veracidade da tese expendida na inicial, circunstância esta que leva á improcedência do pedido.
+Quanto ao mais, já afirmou o Desembargador Ivan Sartori ao relatar a Apelação nº 17.942-4/2, junto à 5ª Câmara de Direito Privado, que o magistrado não está obrigado a abordar todas as questões levantadas pelas partes, quando já encontrou motivo suficiente ao desfecho que vem proclamar.
+Diante do exposto, JULGO IMPROCEDENTE o pedido de indenização por danos materiais e morais ajuizado por JOSUEL LOPES DA SILVA em face de UNIVERSO ON LINE S.A. ("UOL"). Como consequência, extingo o processo com resolução do mérito, nos termos do art. 269, inciso III, do CPC.
+Sem custas ou honorários advocatícios, na forma do art. 54 e do art. 55 da Lei nº 9.099/95.
+O prazo para apresentação de recurso é de dez dias. O prazo para efetuar o pagamento tanto do preparo do recurso quanto do porte de remessa e retorno (item 66, do Provimento CSM nº 806/2003, de 10.11.03, com a redação do Provimento 884/2004, DJE 23.09.2004) é de 48 horas, a partir da interposição, sob pena de deserção (art. 42, §1º, da Lei 9.099/95). O valor do preparo deve ser a soma de 1% (um por cento) do valor da causa ou cinco UFESP, o que for maior, mais 2% (dois por cento) do total da condenação ou cinco UFESP, o que for maior, ressalvada a gratuidade da justiça deferida à parte recorrente, quando efetivamente concedida nos autos.
+P.R.I.
+São Paulo, 17 de outubro de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

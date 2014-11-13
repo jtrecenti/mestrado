@@ -1,0 +1,78 @@
+
+
+SENTENÇA
+
+Processo Físico nº:0000900-83.2014.8.26.0004
+Classe - AssuntoProcedimento do Juizado Especial Cível - Defeito, nulidade ou anulação
+Requerente:MURILO JOSÉ JARENO
+Requerido:Banco Itaúcard S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Ruslaine Romano
+
+
+Vistos.
+
+Relatório dispensado. Decido. 
+
+
+O autor questiona a incidência de taxas e tarifas no contrato de financiamento celebrado com a ré. 
+
+O feito comporta julgamento antecipado na forma do artigo 330, inciso I do CP.
+
+Inicialmente, de se consignar que este Juízo mantinha entendimento diverso sobre a questão posta nos presentes autos, mas recentemente houve pacificação sobre o tema pelo C. STJ, a quem nos curvamos para adotar o posicionamento fixado pela Corte Superior.
+
+A matéria discutida, qual seja, as tarifas, taxas e cobranças contratadas quando da formalização de financiamento e/ou arrendamento mercantil de veículo, restou delimitada através do julgamento pelo Superior Tribunal de Justiça, em 28/08/2013, do Recurso Especial nº 1.255.573 - RS 2011/0118248-3, de relatoria da Ministra Maria Isabel Gallotti.
+
+Como se extrai da decisão supra-citada, na vigência da Resolução CMN nº 2.303/1996, e também anteriormente a tal Resolução, a orientação estatal sobre o tema era não intervencionista, de forma que as instituições financeiras poderiam cobrar tarifas por qualquer tipo de serviço, desde contratado e efetivamente prestado. Porém, a partir da vigência da Resolução CMN nº 3.518/2007 (30.4.2008), a cobrança de tarifas bancárias ficou limitada às hipóteses previstas em normas padronizadoras do Banco Central do Brasil, ou seja, nas resoluções do CMN ? Conselho Monetário Nacional.
+
+Assim, no que pertine à legitimidade da Tarifa de Abertura de Crédito ? TAC e da Tarifa de emissão de carnê - TEC, suas cobranças são permitidas desde que tenham sido estabelecidas em contratos anteriores à vigência da Resolução CMN nº 3.518/2007 (30.4.2008), eis que desde então, somente as tarifas permitidas pelas Resoluções do CMN poderiam ser contratadas, não havendo a partir de então qualquer fundamento para as suas cobranças.
+
+A tarifa denominada Comissão de Operações Ativas - COA, é equiparada à Tarifa de Abertura de Crédito ? TAC, pois visa o pagamento dos mesmos serviços. Desta forma, aplicam-se à COA as mesmas regras supra-citadas aplicadas à TAC. Nesse sentido:
+
+CONTRATO BANCÁRIO. Financiamento para aquisição de veículo. Limitação da taxa de juros. Impossibilidade. Capitalização inexistente (juros compostos que a não traduzem). Tarifa denominada Comissão de Operações Ativas (COA). Equiparação à Tarifa de Abertura de Crédito (TAC). Contrato celebrado em 2005. Exigência legítima, a teor do decidido pelo STJ em recurso repetitivo. Sentença de improcedência mantida. Recurso desprovido. (TJSP ? Apelação nº 0005730-86.2013.8.26.0664 ? 15ª Camara de Direito Privado ? Rel. Vicentini Barroso ? j. 11/02/2014).
+
+No mesmo diapasão, a tarifa de inclusão de gravame (gravame eletrônico) também deve ser entendida como abusiva apenas se o contrato foi formalizado após a vigência da Resolução CMN nº 3.518/2007 (30/04/2008).
+
+No que pertine à legitimidade da tarifa de cadastro, o STJ assentou o entendimento de que é plenamente possível sua cobrança, desde que contratada. Aliás, referida tarifa já era permitida pelo artigo 3º, caput, da Resolução CMN nº 3518/2007, sendo mantida sua exigência pelo artigo 3º, inciso I, da Resolução CMN nº 3919/2010.
+
+Quanto à Tarifa de Avaliação do Bem (Taxa de Avaliação do Veiculo), o artigo 5º, inciso V, da Resolução CMN nº 3518/2007 a autorizava expressamente, autorização essa que foi repetida pelo artigo 5º, inciso VI, da Resolução CMN nº 3919/2010. Assim, tal tarifa é devida, desde que efetivamente conste do contrato.
+
+No que diz respeito à tarifa referente a serviços de terceiros, a sua cobrança era permitida pelo artigo 1º, paragrafo único, inciso III, da Resolução CMN nº 3518/2007 e também pelo artigo 1º, §1º, inciso III, da Resolução CMN nº 3919/2010. Contudo, o artigo 23, inciso IV, da Resolução CMN nº 3954/2011, revogou tal dispositivo a partir de 01/03/2011.
+
+A mesma sistemática deve ser adotada no que toca à tarifa de correspondentes não bancários, à tarifa de despesa com promotora de vendas e à tarifa de registro de contrato, pois fica evidente que visam o pagamento de serviços prestados por terceiros.
+
+Assim, tais tarifas (tarifa referente a serviços de terceiros, tarifa de correspondentes não bancários, tarifa de despesa com promotora de vendas e tarifa de registro de contrato) são devidas desde que o contrato tenha sido formalizado antes de 01/03/2011. Nesse sentido, a jurisprudência tem se posicionado: 
+
+"Porém, a respeito da tarifa de registro de contrato, esta decorre de exigência legal (art. 42 da Lei nº 10.931/2004 e art. 129, V, da Lei nº 6.015/73), configura cobrança de serviço de terceiros e sua contratação estava prevista no art. 1º, § 1º, III, da Resolução CMN nº 3.919/2010 que dispunha: ?não se caracteriza como tarifa o ressarcimento de despesas decorrentes de prestação de serviços por terceiros aos clientes ou usuários, pagas diretamente aos fornecedores ou prestadores do serviço pelas instituições de que trata o caput, podendo ser cobrado desde que devidamente explicitado no contrato de operação de crédito ou de arrendamento mercantil.  
+Todavia, o art. 23, IV, da Resolução CMN nº 3.954/2011 revogou o referido inciso a partir de 01.03.2011. Assim, como o contrato em discussão foi firmado em 02.08.2011 (fls. 21/25), o Banco apelante não possui autorização legal para repassar o custo do registro do contrato ao autor apelado. Portanto, a cobrança da tarifa de registro de contrato deve ser afastada, tal como determinado na sentença recorrida" (TJSP, 24ª Câmara de Direito Privado, Apelação nº 0002661-72.2012.8.26.0602, Rel. Desembargador Erson de Oliveira, j. 05/12/2013).
+
+Quanto à possibilidade de cobrança de IOF, no mesmo julgado, o STJ também assentou a sua possibilidade, desde que contratado pelas partes e sujeitando-se aos mesmos encargos contratuais do principal. Aliás, a jurisprudência já vinha se posicionando nesse sentido há algum tempo.
+
+Por outro lado, a decisão do STJ não trouxe qualquer vedação à possibilidade de formalização de seguros vinculados aos contratos de financiamento/arrendamento, mesmo porque se trata de serviço diverso do financiamento/arrendamento e não propriamente de uma tarifa de tal contrato. Aliás, trata-se de uma garantia ao próprio financiado/arrendatário e caso o(a) requerente não desejasse o seguro deveria ter se negado a contratá-lo ou procurado outra instituição financeira. Nesse sentido, citamos recente jurisprudência:
+
+APELAÇÃO CÍVEL. ALIENAÇÃO FIDUCIÁRIA. REVISÃO DE CONTRATO. APLICAÇÃO DO CDC. DISPOSIÇÕES DE OFÍCIO. JUROS REMUNERATÓRIOS. CAPITALIZAÇÃO DE JUROS. DA COMISSÃO DE PERMANÊNCIA. TARIFAS ADMINISTRATIVAS. IMPOSTO SOBRE OPERAÇÕES FINANCEIRAS. DA MORA. COMPENSAÇÃO DE VALORES E REPETIÇÃO DO INDÉBITO. DO SEGURO. DA TUTELA ANTECIPADA. PREQUESTIONAMENTO. DA APLICAÇÃO DO CDC E DOS CONTRATOS DE ADESÃO. Relação consumerista configurada. Presença de consumidor e fornecedor; arts. 2º e 3º da Lei 8009/90. Súmula 297, STJ. Lei protetiva aplicável ao caso concreto. DISPOSIÇÕES DE OFÍCIO. Impossibilidade de apreciar cláusulas contratuais sem pedido expresso da parte. Entendimento da Súmula 381 do STJ. JUROS REMUNERATÓRIOS. Limitação dos juros ao percentual da taxa média do mercado, quando forem abusivos, tal como publicado pelo BACEN em seu site. Posição do STJ consubstanciada no acórdão paradigma - RESP 1.061.530/RS. CAPITALIZAÇÃO DE JUROS. A incidência da capitalização de juros é permitida, mas desde que conste sua pactuação de forma expressa no instrumento contratual, nos termos do Resp nº 973.827-RS, de relatoria da Min. Maria Isabel Gallotti. Como este é o caso dos autos, a capitalização é mantida. COMISSÃO DE PERMANÊNCIA. Estando contratualmente prevista, a comissão de permanência deve ser aplicada de forma exclusiva para o período de inadimplência, ou seja, não cumulada com juros moratórios, multa ou correção monetária, em conformidade com as Súmulas 30, 294, 296 e 472 do STJ. CLÁUSULA MANDATO E EMISSÃO DE TÍTULOS. Não havendo prova de que se estipulou cláusula mandato no contrato em questão, resta prejudicado o pedido. TARIFAS ADMINISTRATIVAS - Somente será reputada ilegal e abusiva a cobrança das tarifas administrativas quando demonstrada, de forma objetiva e cabal, a vantagem exagerada extraída por parte do agente financeiro, a redundar no desequilíbrio da relação jurídica. Tarifas administrativas incidentes na outorga do financiamento que, no caso, devem ser afastadas, uma vez que atribuem valor excessivo aos valores contratados. IMPOSTO SOBRE OPERAÇÕES FINANCEIRAS. Sua cobrança pode ser realizada em forma diluída nas parcelas mensais, não configurando abusividade por ser forma mais favorável de pagamento pelo consumidor. DO CONTRATO DE SEGURO. É perfeitamente legal a vinculação de uma apólice de seguro ao contrato de financiamento realizado nesta modalidade. COMPENSAÇÃO DE VALORES E REPETIÇÃO DO INDÉBITO. A fim de evitar o enriquecimento ilícito de uma das partes, a compensação de valores e a repetição do indébito são devidas, respeitando o disposto nos artigos 369 e 876, ambos do CC. A restituição deve ocorrer de forma simples, e como consequência lógica do julgado. DA MORA. É a constatação da existência de abusividade no período da normalidade que tem o condão de afastar a mora do devedor. Presente a ilegalidade contratual, a mora deve ser afastada. DA TUTELA ANTECIPADA. Estando presentes todos os requisitos necessários para a concessão da tutela antecipada, seu deferimento está condicionado à realização dos depósitos nos valores recalculados conforme esta decisão. PREQUESTIONAMENTO. Descabido o prequestionamento da matéria, pois ausente qualquer lacuna no enfrentamento das questões postas. APELOS PARCIALMENTE PROVIDOS. (TJRS - Apelação Cível nº 70053295440, 14ª Câmara Cível, Relator Roberto Sbravati, julgado em 18/04/2013) ? grifo nosso.
+
+Porém, com relação ao valor da(s) tarifa(s) a ser(em) repetida(s), qual seja a tarifa de gravame, não há que se falar em restituição em dobro, haja vista a inexistência de indícios de má-fé da instituição financeira, eis que o valor cobrado era previsto no contrato, de modo que a restituição deve se dar de maneira simples.
+
+O valor devido deverá ser acrescido de correção monetária a partir da propositura da ação. Não se aplica ao caso a Sumula 43 do STJ, já que não há ato ilícito, mas mera divergência de interpretação, sendo certo que o valor cobrado estava previsto no contrato firmado entre as partes. Ademais, como a(s) tarifa(s) a ser(em) repetida(s) foi(ram) diluída(s) nas parcelas do financiamento/arrendamento, não há como estabelecer ao certo quando efetivamente foi(ram) paga(s) pelo autor.
+
+No mais, os juros de mora de 1% ao mês são devidos a partir da citação.
+
+Não há que se falar em indenização por danos morais pois os autos versam sobre mera desavença contratual, insuscetível de causar violação à imagem, honra ou dignidade do autor. 
+
+Ante o exposto, julgo parcialmente procedente a ação e condeno a ré a que restitua ao autor a quantia de R$ 42,11, atualizada e corrigida nos moldes supra. Julgo improcedentes os demais pedidos. 
+
+Sem custas e honorários nesta fase processual. 
+
+P.R.I.
+
+São Paulo, 28 de março de 2014.
+
+
+          RUSLAINE ROMANO
+          Juíza de Direito
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

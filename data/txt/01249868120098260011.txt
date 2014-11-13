@@ -1,0 +1,81 @@
+
+
+Conclusão
+
+Em 30 de novembro de 2010, faço estes autos conclusos ao(à) MM. Juiz(a) de Direito da 2ª VARA CIVEL DO FORO REGIONAL DE PINHEIROS ? XI.
+Eu, Marcelo E. Santos, escrevente, subscrevi.
+SENTENÇA
+
+Processo nº:0124986-81.2009.8.26.0011
+Classe - AssuntoProcedimento Sumário - Assunto Principal do Processo >
+Requerente:Compañia Sud Americana de Vapores S.a
+Requerido:Polico Comercial de Alimentos Ltda.
+
+
+
+Juiz(a) de Direito: Dr(a). Margot C Corrêa
+
+
+Vistos.
+
+COMPAÑIA SUD AMERICANA DE VAPORES S.A. ajuizou ação de cobrança, pelo rito ordinário, contra POLICO COMERCIAL DE ALIMENTOS LTDA. Relata, em síntese, que, efetuou o transporte de cargas provenientes do exterior, destinadas a ré e para tanto celebraram um contrato representado pelo incluso Conhecimento de Transporte marítimo (B/L - Bill of Lading) de nº PBN003183. O transporte foi efetuado por navio sendo que a autora forneceu a ré os contêineres CRXU 988.355-8, AMFU 311.942-4 e BSIU 227.097-5 descarregados no Porto de Itajaí/SC.
+Conforme acordado pelas partes, após a descarga dispunha a ré de um período de franquia para a utilização dos contêineres . Ultrapassado tal período estava a ré obrigada a pagar a autora um valor diário, denominado sobreestadia (demurrage) de container.
+No caso concreto a ré, reteve-os por prazo superior ao combinado razão pela qual tornou-se devedora de US$ 2.790,00 (dois mil,setecentos e noventa dólares americanos)
+Juntou os documentos de fls. 12/185.
+Citada, a ré apresentou sua contestação, oportunidade em que aduziu:
+1) inexistência da caução em dinheiro, dever que lhe competia por ser empresa estabelecida na cidade de Valparaíso, Chile, conforme determina o artigo 835 do CPC;
+2) Inépcia da petição inicial já que a autora não fez constar importantes informações tais como a data da devolução dos contêineres , o periodo de franquia, por quantos dias a ré reteve os contêineres indevidamente e qual o valor diário devido pela suas utilizações.
+3) Impossibilidade jurídica do pedido em razão da contratação em moeda estrangeira;
+4) inadequação da via eleita;
+5) ilegitimidade ativa;
+No mérito aduziu que os períodos constantes na planilha de fls. 11 não estão corretos, que não houve demonstração da culpa da ré pelo atraso na devolução dos contêineres.
+Aduz que a cobrança tem nítida natureza de cláusula penal , nos termos do artigo 408 e 416 o CC razão pela qual essencial a prova da culpa. Ressaltou que os trâmites burocráticos relativos as operações de importação acabam por causar atrasos, fato de conhecimento da autos.
+Alega, ainda, que a cláusula penal não pode exceder o da obrigação proncipal, Também aduziu a contratação de seguro pelas partes sendo que um dos objetivos seria a cobertura de eventual sobreestadia de contêineres.
+Esclarece que o preço de um container novo ou o preço de locação de um container leva a concluir que o valor cobrado pela autora é extorsivo. 
+Acrescenta que foi vítima de coação por parte da autor pois foi obrigada a assinar Termo de Responsabilidade para Liberação de Container pois se não o fizer, o conhecimento de embarque não é liberado. Neste mesmo panorama, aduziu lesão nos termos do artigo 157 do Código Civil. 
+Esclarece que não está vinculado ao Termo de Responsabilidade para Liberação de Container. 
+Por fim, aduz que os fatos se deram em razão da paralisação das operações portuárias em razão do Feriado de Ano Novo.
+Juntou os documentos de fls. 232/236.
+Réplica a fls. 240/295.
+Em saneador, as preliminares aduzidas em contestação fora rejeitadas.
+Uma testemunha foi ouvida, fls. 413.
+As partes se manifestaram em alegações finais, fls. 420/438, oportunidade em que reiteraram os posicionamentos anteriormente lançados em inicial e contestação.
+É o relatório.
+Decido.
+
+As preliminares arguídas em contestação foram afastadas pela decisão saneadora, razão pela qual passo ao exame do mérito.
+Demurrage é termo técnico típico do direito marítimo e portuário, significando,basicamente, sobreestadia, isto é, avanço além do tempo, demora, do latim demorari, do francês demorer, do inglês delay.
+Sobreestadia portanto, do tempo além permanecido quer do navio ou do equipamento (contêiner) do avençado no contrato de arrendamento, gerando assim, despesas, prejuízos em face dessa demora, devidas pelo afretador ao armador ou ao dono do equipamento.
+Sobreestadia é palavra composta, formada por aglutinação (sobre + estadia) assim, a estadia é o período contratado entre o armador ou o operador do navio, sobre o qual dispõe este ao afretador (ou do consignatário da carga), para que se dê as operações de carga/descarga e durante o qual não é devido qualquer pagamento, ou seja, o free time, qualquer espaço temporal que ultrapasse tal período, incorre-se em demurrage.
+Logo, a demurrage está ligada ao excesso de tempo na utilização do navio ou do equipamento além da estadia, é tempo utilizado a mais, conseqüentemente de retardamento, retenção, mas muito principalmente de demora, pela qual é devido pagamento indenizatório.
+Destarte, o cerne do instituto jurídico da demurrage é o tempo de permanência de navio mercante e/ou de seus equipamentos, notadamente os contêineres, num porto, excedente ao estabelecido para sua carga e/ou descarga.
+Difícil situar a natureza jurídica da demurrage. O direito brasileiro pende ora para a classificação de indenização por danos materiais típicas da responsabilidade civil contratual, ora para simplesmente aplicação de multa. É comum encontrar-se definições ambíguas como sobreestadia: multa ou indenização devidas pelo afretador.
+A doutrina e a jurisprudência francesas tendem em classificar a demurrage como uma pena, uma multa, ou simplesmente um suprimento de frete.
+Predominantemente, porém, a tendência é seguir a orientação do direito inglês no sentido de classificar a demurrage em indenização remunerada pela demora ocasionada pelo carregador, a qual calcula-se sobre as despesas diárias. 
+Logo, o entendimento dominante jurisprudencialmente é que demurrage é indenização pré-fixada por quebra do contrato ? liquidated damages for such a breach ? dano indenizável por quebra (contratual), ou ainda ? sum payable under and by reason of a contract for detaining a ship ? soma pagável sob e pela razão de um contrato pela detenção de um navio ou dos equipamentos/containers
+No caso em apreço, é fato incontroverso que a ré extrapolou o prazo de franquia pela utilização do equipamento. Digo isto porque em momento algum de sua contestação ela impugnou este fato.
+Pois bem.
+Quanto a necessidade de de comprovação da culpa pelo atraso na devolução dos containers, seguindo-se a linha de que tal situação situa-se no campo da responsabilidade civil contratual 
+A responsabilidade contratual resulta de um contrato entre as partes, em que aquele que não cumprir o estipulado, violando cláusula do contrato deverá indenizar a vítima pelo dano ou prejuízo conforme determina o artigo 389 do Código Civil ao dispor que "não cumprida a obrigação responde o devedor por perdas, mais juros e atualização monetária segundo índices oficiais regularmente estabelecidos (...)" Silvio Rodrigues (2002, p. 9) afirma que a responsabilidade contratual cria obrigação de indenizar para aquele que não cumpriu sua parte no contrato ocasionando prejuízo à outra parte, pois "na hipótese da responsabilidade contratual antes da obrigação de indenizar emergir, existe, entre o inadimplente e seu contratante um vínculo jurídico derivado da convenção". 
+A responsabilidade contratual é a que decorre da inexecução de um negócio jurídico resultando na violação de descumprimento de uma obrigação contratual que acaba por causar o inadimplemento ou a mora no cumprimento de uma obrigação provocando o ilícito contratual. 
+Na responsabilidade contratual o ônus da prova cabe ao devedor, que deverá provar, ante o inadimplemento, a inexistência de sua culpa ou a presença de qualquer excludente do dever de indenizar. A responsabilidade contratual se baseia na devida obrigação do resultado. A presunção da culpa pela inexecução da obrigação é do devedor. 
+Assentadas estas premissas, a meu sentir, a ré não comprovou caso fortuito ou força maior que viesse a justificar o descumprimento da obrigação no que toca a liberação dos containers no prazo da franquia.
+E nem se diga que as festas de fim de ano são aptas a justificar o inadimplemento contratual. Isto porque se os contêineres foram descarregados dia 29 de dezembro de 2008, caberia a ré a prova da paralisação das operações portuárias. Não se pode admitir que a paralisação tenha durado 10 (dez) dias, mesmo porque custa crer que os portos permaneçam inoperantes por tanto tempo em razão das festas de fim de ano.
+A prova caberia a ré que não a produziu.
+De igual forma a justificativa de que o despachante aduaneiro não tinha poderes para onerar seu representado mediante a assinatura do Termo de Responsabilidade Sobre Devolução de Container(s) Retirado(s) de fls. 155/158 não convence. De fato, o despachante aduaneiro que assinou o documento o fez em nome da ré. Agiu em nome dela. Assim, não pode a ré aduzir que a assinatura no documento de fls. 155/158 e a concordância com as condições ali impostas não a vinculam. As mercadorias que se encontravam no interior dos contêineres pertenciam a ré única responsável pela liberação dos equipamentos no prazo contratado. È obvio que o fato de estar ocupando um container que não lhe pertence além do prazo estipulado em contrato causou prejuízo a autora que se viu tolhida de exercer seu direito de propriedade.
+A sobrestadia de contêineres enseja o pagamento de demurrage, previsto no chamado termo de compromisso de reentrega do equipamento, ao qual adere a empresa que contrata o serviço de transporte marítimo. Ultrapassado o free time, ou prazo de gratuidade, ocorre o direito da transportadora marítima cobrar os danos por excesso de prazo para a retirada do container. Ademais, a documentação acostada, devidamente traduzida ao vernáculo por tradutor juramentado, que atesta a contratação dos serviços e a devolução a destempo dos contêineres. A falta de pagamento da ré pela sobreestadia é que causa enriquecimento sem causa em seu favor. 
+As alegações de lesão e coação não prosperam. As partes envolvidas além de capazes são absolutamente inseridas no meio aduaneiro. Juliano dos Santos, pessoa que assinou o Termo de fls. 155/158, por ser despachante aduaneiro, não pode alegar que assinou o documento em razão de preemente necessidade ou pior, inexperiência. 
+Com efeito, ainda que a testemunha Juliano dos Santos, despachante aduaneiro, fls. 413, tenha declarado que somente mediante a assinatura do termo é possível a liberação do o conhecimento de embarque (B/L), tal fato não configura coação. Longe disso. Com efeito cobrança da sobreestadia dos contêineres obedece uma condição por parte dos armadores, pois a partir do momento da descarga do invólucro no terminal, o armador não possui mais controle do processo para o retorno desse equipamento necessário as suas operações.
+Aliás, os prazos acordados normalmente são mais do que suficientes para a liberação alfandegária da mercadoria, transporte e descarga da mercadoria ao destinatário e retorno do container ao porto, fato devidamente comprovado pelo ofício de fls. 364-v.
+Mas não é só. Nada impediria que a ré ajuizasse ação visando a anulação do documento. Mas permaneceu inerte. Somente agora, instada a efetuar o pagamento, alegou o vício mas não o comprovou.
+Portanto, não vislumbro lesão ou coação na elaboração do Termo.
+O seguro mencionado em contestação por evidente não cobre o valor da sobreestadia. Isto porque não há prova de tal alegação. A ré não juntou qualquer documento que comprove que esta taxa incluída no frete teve como razão de ser segurar eventual sobreestadia. Não há apólice comprovando tal assertiva. Assim, fica afastada a alegação.
+Por fim, afasto a alegação de enriquecimento sem causa na medida em que a ré comprova que o preço de um container de 20 pés é vendido por R$ 4.500,00.
+Ocorre que a questão posta nos autos esta a envolver tres containers sendo que um deles de 40 pés, fls. 155.
+Além do mais, temos que observar que a atividade comercial do armador não é a de alugar contêineres. Portanto, é evidente que não se pode tratar a situação da forma como tratada pela ré. O prejuízo pela retenção do container excede o valor da locação. Vai além.
+O fato é que a ré utilizou-se dos equipamentos por tempo superior ao contratado razão pela qual deve pagar o valor devido, devidamente acordado em contrato celebrado entre as partes.
+Ante o exposto, JULGO PROCEDENTE O PEDIDO e o faço para condenar a ré no pagamento de R$ 4.822,52, atualizados a partir da propositura da ação pelos índices constantes na Tabela Prática de Atualização de Débitos Judiciais. Juros legais a partir da citação.
+Condeno a ré no pagamento das custas e dos honorários de advogado que fixo em 20% do valor atualizado da causa.
+PRIC. 
+
+São Paulo, 02 de novembro de 2010.

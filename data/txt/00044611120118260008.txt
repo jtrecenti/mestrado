@@ -1,0 +1,90 @@
+
+
+SENTENÇA
+
+Processo nº:0004461-11.2011.8.26.0008 - Procedimento Sumário
+Requerente:Marlene da Silva Lessa - Máquinas Me.
+Requerido:Redecard S/A e outro
+
+
+
+Juiz(a) de Direito: Dr(a). Paulo Guilherme Amaral Toledo
+
+
+
+Vistos.
+
+
+Trata-se de AÇÃO DE RESSARCIMENTO DE VALORES movida por MARLENE DA SILVA LESSA ? MÁQUINAS, em face da REDECARD S/A, e do BANCO ITAÚ-UNIBANCO MÚLTIPLO S/A, devidamente qualificados nos autos, alegando, em síntese, que a Requerente vendeu mercadorias com pagamento por meio de cartão de crédito, mas a segunda Requerida estornou, arbitrariamente, o valor outrora recebido pela venda, por pedido da primeira Requerida, que o fez para analisar a venda efetivada, devendo a Requerente aguardar por aproximadamente cem dias para resolução da pendência. Posto isso, pediu antecipação da tutela, e a total procedência da demanda.
+Acompanharam a petição inicial os documentos de fls. 10/32.
+A fls. 37/43 foi emendada a inicial.
+Após ser citado, o Réu Itaú-Unibanco apresentou contestação (fls.120/135), alegando ser parte ilegítima, e não ter qualquer responsabilidade, além de não ter agido com negligência, e de não ter havido defeito na prestação do serviço. Posto isso, requereu ser acolhida a preliminar e, no mérito, descabida a pretensão de devolução do valor pelo Banco Réu.
+Réplica a fls. 143/150.
+A fls. 256/273, a Ré Redecard S/A interpôs Agravo de Instrumento com pedido de efeito suspensivo.
+Após ser citada, a Ré Redecard S/A apresentou contestação (fls. 274/388) e alegou que o estabelecimento do Autor no período em questão realizou venda fraudulenta, e por isso a Ré determinou o estorno do valor depositado na conta do Requerente. Alegou, então, que a liminar estaria causando enriquecimento ilícito à parte Autora. Posto isso, requereu seja julgada totalmente improcedente a demanda. 
+Réplica a fls. 405/411.
+
+
+É o relatório.
+Fundamento e decido.
+
+
+O feito comporta julgamento no estado em que se encontra.
+Rejeito a preliminar de ilegitimidade passiva do BANCO ITAÚ S/A.
+O requerido é depositário dos valores pertencentes à autora e nesta condição responde por eventuais estornos e saques indevidos.
+Superada esta questão, passo à análise do mérito.
+Os documentos que acompanharam a inicial provam que em 03.02.2011 a autora teve um crédito em sua conta devido a antecipação de valores devidos pela REDECARD, no valor de R$ 67.760,00 (fls.24/27), todavia, sem qualquer justificativa ou comunicação à requerente e atendendo ao interesse exclusivo da REDECARD e da própria instituição financeira, dias depois do depósito, o BANCO ITAÚ S/A simplesmente debitou essa importância na conta da autora (fls.30), conduta ilegal, abusiva e que representou violação dos deveres decorrentes do contrato de depósito.
+A situação em questão não tem qualquer correlação com títulos descontados, emitidos ou cedidos pela autora e não há no contrato de fls.124/135 cláusula alguma que autorizasse o réu a efetuar o lançamento impugnado por conta de suposta irregularidade na transação entre a requerente e terceiros com utilização da REDECARD. Tratou-se de ato ilícito, verdadeiro exercício arbitrário das próprias razões, com o que o Poder Judiciário não pode pactuar.
+Por tais razões, não há dúvida quanto à obrigação do requerido de restituir o valor indevidamente debitado na conta da requerente, tal como reclamado na inicial.
+Melhor sorte não merece a resposta apresentada pela REDECARD.
+Os documentos de fls.20/23 provam que a autora realizou transação lícita com terceiros, tendo alienado máquinas que compunham o seu ativo fixo (fls.20) e que foram pagos mediante emprego de cartão magnético do sistema REDECARD (fls.21), com prévia identificação do comprador (fls.23), que fez uso de senha eletrônica pessoal e intransferível.
+Não houve, portanto, qualquer equívoco na conduta da requerida a justificar a recusa da REDECARD em realizar o pagamento da transação. 
+Aliás, em sua resposta a REDECARD não indica qual foi o erro da autora, quais seriam os cuidados que ela deveria ter tomado e não tomou, qual a irregularidade por ela praticada ou em que medida ela colaborou ou concorreu para a fraude constatada que, ressalto, foi efetuada pelo portador do cartão, que detinha a senha de acesso e identificou-se previamente.
+A divergência entre o valor da transação mencionada na inicial e o movimento habitual da autora justificou-se no caso concreto porque houve venda de maquinário do ativo fixo da requerente.
+Ora, tratou-se de transação realizada com cartão magnético dotado de chip e senha e que, no caso, deveria ser segura. Ocorre que houve falha na segurança do sistema da REDECARD, que possibilitou a ocorrência da suposta fraude (mesmo com o emprego da tecnologia ?infalível? do chip), e, portanto, é a REDECARD e não a autora quem deve suportar eventuais prejuízos decorrentes da falha do sistema de segurança e parte do risco de seu negócio.
+Se houve fraude, ela não foi praticada pela autora, mas por terceiros que se aproveitaram da falha do sistema da REDECARD e, por conseguinte, esta deve arcar com o pagamento devido à requerente, por conta do contrato firmado entre as partes.
+Não há dúvida, portanto, de que tanto a REDECARD quanto o BANCO ITAÚ S/A devem responder pelo pagamento da quantia indevidamente estornada da conta da requerente e cujo montante está comprovado com a inicial.
+Neste sentido, aliás, decidiu-se nos autos da apelação Apelação nº 0216139-25.2009.8.26.0100 do Egrégio TJSP, Relator Desembargador CASTRO FIGLIOLIA:
+....:
+?De resto, autorizado o pagamento seja pela apelante ou pelo banco associado emitente do cartão o lojista pode realizar a venda. Se posteriormente o portador do cartão questiona o lançamento que foi feito em sua fatura e a impugnação é aceita, quem arca com o prejuízo é a apelante. Não o lojista. 
+Se eram suspeitas duas transações seguidas, em curto espaço de tempo, os sistemas de segurança da apelante tinham que bloquear o cartão. Mais ainda, não podiam ser emitidas autorizações para que os negócios fossem realizados.
+Repisa-se, se a apelante anuiu com a transação não pode invocar escusa com base em mau procedimento da apelada. Bastava não ter autorizado a segunda transação, com base nas disposições contratuais que invocou. Por isso, mesmo que efetuada duas vendas sequenciais, a apelante deve arcar com o prejuízo, porque eventual má-fé ou conluio entre a apelada e a terceira deveria ser provado pela apelante.
+Relembre-se que a boa-fé é presumida, não a má-fé. 
+No mais, aceita a premissa da apelante, de que ela pode estornar os valores referentes ao negócio sempre que o questionamento do consumidor a respeito do lançamento é aceito, nenhum lojista aceitaria o pagamento por meio de cartão de crédito. Sim, pois mesmo pagando alto percentual sobre o negócio para a apelante a título de taxa de administração, o lojista não teria certeza de recebimento do valor da venda.
+Como se diz popularmente, ?negócio bom é aquele negócio que é bom para os dois lados?. Não para um lado só. Pois bem, é bom negócio para os lojistas a segurança de que autorizada a venda, receberão o valor a ela referente. Da mesma forma, é bom negócio para a apelante que cada vez mais lojistas adiram ao meio de pagamento que administra, porque assim receberá comissões cada vez mais expressivas. 
+A expressão ?negócio bom para ambas as partes? encontra sua tradução jurídica no Código Civil. Trata-se do dever da boa-fé objetiva que deve permear as relações contratuais princípio insculpido no art. 422 do referido estatuto legal.
+Por implicar clara violação à boa-fé objetiva, é impossível que o negócio se dê conforme preconiza a apelante. Segundo sua ótica particular, quando o pagamento é feito, o lojista recebe. Já quando é questionada a venda e aceito o questionamento, a despeito da precedente autorização, aí o lojista arca com o prejuízo.
+Quem deve arcar com o prejuízo é quem administra o cartão e recebe comissão para tanto. Essa é a função da apelante. É ela quem controla os negócios realizados pelos portadores dos cartões e bloqueia o meio de pagamento à menor suspeita. É ela quem autoriza que o negócio seja feito. 
+A apelante negou que autorizasse a realização do negócio. 
+Afirmou que quem o faz não é ela, mas o banco emitente do cartão. A par da inexistência de provas a respeito, é indiferente, no que concerne ao lojista, se a autorização para pagamento vem da apelante ou do banco a ela associado. Isso porque a instituição financeira é verdadeiramente a maior parceira da apelante no negócio. Trata-se de parceria comercial que se desenvolve no que tange à emissão e administração dos cartões parceria que o lojista aderente ao meio de pagamento não tem com a apelante.
+Como corolário, a apelante responde pelo ato do parceiro e se o parceiro autoriza que uma determinada compra com o cartão seja realizada, por mais estranha que ela pareça, o lojista fica seguro de que pode realizar a venda, porque no momento oportuno receberá o valor que lhe é devido.
+A apelante invocou a cláusula contratual, para sustentar o seu direito ao estorno de valores em hipóteses assemelhadas a dos autos.
+A despeito de não ser de consumo a relação entre as partes, contrariamente ao que sustentou a apelada na inicial, a circunstância não interfere no desate da lide. Isso porque a cláusula trazida à colação não autoriza a apelante a fazer o estorno dos valores toda a vez que se acolher a impugnação do portador do cartão sobre valor lançado na fatura. O estorno ou o não repasse do valor do negócio ao lojista só ocorrerá se ele não tiver cumprido as normas e condições do contrato.
+Pois bem, é o caso de se indagar: qual a norma e qual a condição do contrato que a apelada não cumpriu? Existe algum critério objetivo para que a apelada suspeite de um determinado negócio?
+Nada disso há no contrato. E não há porque quem tem que suspeitar de um negócio é quem autoriza a realização dele no caso, a apelante ou o banco parceiro comercial. Não o lojista.
+O lojista pede a autorização. Se a autorização vem, ele vende. 
+Pedir mais do que isso é demasiado.
+O estorno ou o não pagamento da venda ao lojista só poderia se dar se a venda fosse feita sem solicitação de autorização. Na hipótese, se o negócio fosse questionado pelo portador do cartão e a insurgência aceita, quem arcaria com o prejuízo seria realmente o lojista. O negócio se daria por conta e risco dele e a invocada cláusula permitiria que o estorno do valor repassado fosse feito. No entanto, autorizada a venda, o lojista faz jus ao recebimento do valor que lhe é devido. E, no caso, se for aceito qualquer questionamento sobre a venda, é a apelante não o lojista que arca com o prejuízo.
+Derradeiramente, a responsabilidade da apelante decorre do risco do negócio. Mesmo que não se aplique o código consumerista, a hipótese é de aplicação do artigo 927, parágrafo único do Código Civil.
+Nesse sentido, os seguintes julgados:
+?Compra e venda mercantil - Pagamento com cartão de crédito - Autorização da administradora - Apuração posterior de falsidade dos cartões apresentados - Estabelecimento que tomou todas as cautelas na conferência da regularidade dos cartões responsabilidade da administradora, que deve arcar com os riscos inerentes de sua atividade - Decisão mantida - Recurso improvido? (TJSP, Apel. 991.99.067119-5, Rel. Des. Paulo Roberto de Santana, j. em 04.08.2010);
+?Responsabilidade civil. Empresa associada à  administradora de cartão de crédito. Inaplicabilidade do CDC Precedentes do E. STJ. Indenização por danos materiais decorrentes de estornos de valores relativos a vendas realizadas pela internet que foram objeto de discordância do titular do cartão Inadmissibilidade. Empresa autora que agiu com cautela na realização das vendas que efetuou. Checagens de utilização de cartão clonado que cabe à administradora, assim como o controle e bloqueio do meio de pagamento se houver suspeita de fraude. Lojista que recebeu autorização da prestadora dos serviços para finalizar as operações Prejuízos decorrentes do risco do negócio que cabe à administradora dos cartões Ônus de sua atividade. Banco associado que responde solidariamente por ser parceiro da ré no negócio Danos morais Inocorrência Registro de débito nos órgãos de proteção ao crédito decorrentes da disponibilização de linha de crédito à empresa autora Legitimidade da inscrição em razão da inadimplência decorrente de empréstimo bancário. Sentença parcialmente reformada. Condenação das rés ao pagamento de indenização por danos materiais Sentença parcialmente reformada Recurso parcialmente? (TJSP - Apel. 9210831- 58.2009.8.26.0000, Rel. Des. Jacob Valente, j. 13.06.2012);
+?Contrato. Cartão de crédito. Administradora que se nega a efetuar o repasse do valor de operações realizadas por telefone sob a alegação fraude. Retenção indevida. Responsabilidade da administradora que concedeu a autorização para a conclusão da venda Risco do negócio - Recurso não provido? (TJSP - Apel. 9239035- 54.2005.8.26.0000, Rel. Des. Renato Ralgel Desinano, j. 15.09.2011);
+
+"Responsabilidade civil - Cartão de crédito - Operação efetuada após obtenção de autorização eletrônica da administradora - Superveniente estorno da transferência do valor correspondente sob a alegação de que portador do cartão não reconhecera o débito - Improcedência - Notícia de subtração do cartão inexistente - Divergência de assinaturas não imputável ao lojista filiado - Possibilidade de clonagem do cartão pelo comprador para utilização na aquisição de produtos - Inobservância da administradora do dever de fiscalizar e prover meios que impeçam falsificação ou duplicação dos cartões de crédito - Assunção do risco do negócio ? Cobrança procedente - Apelo improvido? (TJSP, Ap. 7.175.323-8 - Rei. Ricardo Negrão 19ª Câmara Direito Privado - J. 27.11.2007);
+?Ação de cobrança. Vendas pela internet por meio de cartão de crédito. Administradora que autoriza a concretização dos negócios. Cláusulas que estabelecem hipóteses específicas de retenção dos respectivos valores, ou de estorno, se já repassados. Ausência, porém, de comprovação de sua ocorrência. Retenção dos valores indevida. Clonagem e demais fraudes abrangidas pelo risco inerente à atividade exercida pela administradora. Sentença mantida. Recurso improvido? (Apelação no 0155118-82.2008.8.26.0100, , Rel. Des. Adherbal Acquati, j. 28.06.2011).
+Por fim, não colhe a pretensão da apelante no que concerne aos valores decorrentes da prestação de serviço. O serviço não foi prestado e o contrato cancelado, ao alvedrio da apelante. Tanto assim que a apelada teve de recorrer ao Judiciário para reaver os valores com relação às vendas que realizou.
+A hipótese é de manutenção integral da sentença.?
+
+Ante o exposto, e considerando o mais que dos autos consta, JULGO PROCEDENTE a presente ação para: a) condenar os requeridos, solidariamente, a restituir à autora a importância de R$ 67.760,00 (sessenta e sete mil, setecentos e sessenta reais), com atualização monetária pela Tabela do TJSP desde a data do estorno realizado na conta da autora (18.02.2011), com juros de 1% ao mês desde a citação, deduzidos os valores porventura já creditados na conta da requerente; b) tornar definitiva a antecipação de tutela concedida; c) condenar os réus ao pagamento das custas e despesas processuais, bem como dos honorários advocatícios da autora, que fixo em dez por cento do valor atualizado da condenação.
+Em face da jurisprudência pacificada no Colendo Superior Tribunal de Justiça acerca da incidência de honorários advocatícios na fase executiva e ressalvado o entendimento pessoal deste Magistrado em sentido contrário, em caso de ausência de pagamento voluntário e necessidade de execução para o cumprimento do julgado, fixo a verba honorária, desde logo, em dez por cento do valor do débito.
+Fixo o valor do preparo em R$ 1355,20, cód. 230-6, GARE  e o valor do porte de remessa e retorno de autos em R$ 25,00 (por volume), cód. 110-4, FEDTJ   (processo com 3 volumes).
+
+
+
+P.R.I.
+
+São Paulo, 26 de março de 2013
+
+PAULO GUILHERME AMARAL TOLEDO
+JUIZ DE DIREITO

@@ -1,0 +1,75 @@
+
+
+SENTENÇA
+
+Processo nº:0180491-76.2012.8.26.0100
+Classe - AssuntoProcedimento Ordinário 
+Requerente:Ville Rio Preto Comercio de Veiculos e Peças Ltda
+Requerido:Mitsui Sumitomo Seguros S/A
+
+Juiz(a) de Direito: Dr(a). Tom Alexandre Brandão
+
+Vistos.
+
+Trata-se de ação judicial promovida por VILLE RIO PRETO COMÉRCIO DE VEÍCULOS E PEÇAS LTDA. em face de MITSUI SUMITOMO SEGUROS S/A.
+
+Em apertada síntese, alega a empresa autora que firmou com a ré contrato de seguro que prevê a cobertura por prejuízos causados ao seu estabelecimento, conforme riscos expressamente previstos na apólice.
+
+Ocorre que, no dia 3 de março de 2012, houve uma forte tempestade na cidade de São José do Rio Preto, com rajadas de vento de mais de 70 Km/h e chuva de granizo. A intempérie atingiu toda a área da empresa da autora, afetando a lataria e estoque dos veículos lá existentes.
+
+Reuniu a documentação necessária para acionar o seguro, cuja cobertura compreende danos decorrentes de fenômenos meteorológicos, como o acontecido. Contudo, a indenização foi negada pela empresa ré.
+
+Pede a condenação da ré ao pagamento da quantia de R$ 150.000,00, valor máximo da indenização prevista na apólice.
+
+A petição inicial foi instruída com documentos.
+
+Citada, a ré ofereceu contestação. 
+
+ Sustenta, em resumo, que não houve recusa ao cumprimento do contrato de seguro. 
+ Argumenta que, na verdade, os prejuízos causados a cada um dos veículos é inferior ao valor da franquia estabelecida no contrato.
+
+Réplica da autora.
+
+É o relatório. Decido.
+
+Possível o julgamento antecipado, nos termos do artigo 330, I, do Código de Processo Civil. Desnecessária a instrução, pois as questões de fato (chuva de granizo e danos causados aos veículos) não foram controvertidas.
+
+Não há questões preliminares e, tampouco, nulidades aparentes. Passo ao mérito.
+
+Estabelece o artigo 757 do Código Civil que, pelo contrato de seguro, o segurador se obriga, mediante o pagamento do prêmio, a garantir interesse legítimo do segurado contra riscos predeterminados.
+
+Assim, é perfeitamente possível ? e, inclusive, necessário ? que a apólice estabeleça com precisão quais são os riscos cobertos, estabelecendo as condições para o pagamento da indenização. 
+
+Impõe-se, portanto, a interpretação do contrato de seguro firmado.
+
+A esse respeito, não há dúvidas de que o contrato de seguro firmado contempla a indenização pelos prejuízos decorrentes de eventos climáticos, tal como o ocorrido em março de 2012, na cidade de São José do Rio Preto.
+
+Contudo, é preciso analisar o contrato para identificar qual a cobertura aplicável à situação, isto é, se é a regra identificada pela cláusula nº 105, como sustenta a autora, ou aquela estabelecida pela cláusula nº 149, como defende a ré.
+
+A cláusula nº 105 garante "a indenização das perdas e danos materiais, direta ou indiretamente, causados aos bens segurados, em consequência de eventos meteorológicos"  (fl. 114). 
+
+A mencionada cláusula, no item 2.1., exclui da cobertura expressamente "veículos de qualquer espécie, exceto quando se tratar de mercadorias inerentes ao ramo de negócio do segurado, desde que não estejam ao ar livre" (fl. 115).
+
+A regra é clara e não comporta qualquer dificuldade de interpretação. Não haveria cobertura pela referida cláusula, simplesmente pelo fato de que os veículos encontravam-se ao ar livre. Não há, portanto, como invocar a cláusula nº 105.
+
+Em realidade, há uma cláusula específica para o caso da autora, qual seja, a cláusula nº 149 que trata justamente dos riscos diversos em concessionárias de veículos (fl. 149/150). Conforme previsto na apólice, essa proteção "garante a indenização das perdas e danos materiais causados aos veículos de sua propriedade (...) durante o período de permanência nos locais expressamente indicados" e compreende os riscos decorrentes de vendaval, furacão, ciclone, tornado, granizo e fumaça (item 1.1.5.).
+
+Essa é, portanto, a cláusula que deve disciplinar o sinistro. 
+
+Feitas essas considerações, assiste integral razão à seguradora ré, pois a apólice é claríssima ao estabelecer que, em relação à cobertura "149 - RD Concessionárias de Veículos", há a aplicação de franquia (participação mínima obrigatória do segurado) no valor de 10% dos prejuízos por veículo, limitado ao mínimo de R$ 2.000,00.
+
+Ora, os documentos que instruem a inicial estabelecem que os danos foram de R$ 1.200,00 a R$ 1.500,00 por veículo (conforme os orçamentos da própria autora), de modo que, em qualquer situação, o valor não supera a franquia.
+
+Injustificado, assim, o acionamento do seguro.
+
+Importante consignar que é uma conclusão direta e lógica da interpretação da apólice que independe da aplicação, ou não, das regras do Código de Defesa do Consumidor. Não vislumbro qualquer abuso ou prejuízo causado ao segurado no estabelecimento do valor mínimo de franquia de R$ 2.000,00.
+
+Caso houvesse, por hipótese, danos severos causados a um ou mais veículos, a indenização seria de até R$ 100.000,00 (fl. 64), observada a franquia de 10% dos prejuízos, por veículo.
+
+Ante o exposto, julgo improcedente a ação. 
+
+Em razão da sucumbência, deverá a autora arcar com as custas e despesas incorridas pelo réu, bem assim com os honorários advocatícios que arbitro em R$ 7.000,00.
+
+P.R.I.
+
+São Paulo, 16 de janeiro de 2013.

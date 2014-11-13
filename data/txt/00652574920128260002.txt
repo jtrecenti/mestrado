@@ -1,0 +1,62 @@
+
+
+SENTENÇA
+
+
+Processo nº:0065257-49.2012.8.26.0002
+Classe - AssuntoProcedimento Ordinário - Obrigação de Fazer / Não Fazer
+Requerente:Tecno Foods Alimentos do Brasil Ltda
+Requerido:GVT - Global Village Telecom Ltda
+
+
+
+Juiz(a) de Direito:  Dr(a). Adriana Borges de Carvalho
+
+
+
+
+VISTOS.
+
+
+
+TECNO FOODS ALIMENTOS DO BRASIL LTDA ajuizou ação de obrigação de fazer cumulada com pedido indenizatório por danos materiais e morais em face de GVT ? GLOBAL VILLAGE TELECOM LTDA. Constou na preambular que, em 02 de fevereiro de 2012, as partes firmaram contrato, pelo qual a ré se comprometeu à instalação do produto Vox Digital, o qual, utilizando acessos digitais, permite a disponibilização de 30 linhas telefônicas através de um único número ou formando um grupo de ramais. Para tanto, seria utilizado o n° 3111-6888 que já constava de seu material publicitário. Em razão da demora na instalação do produto, a autora disse que entrou em contato com a ré diversas vezes. Esta chegou a responder que a demora na instalação do link seria decorrente da mudança do projeto inicial, porém a autora afirma não ter havido qualquer solicitação para alterá-lo. Ainda não foi posto em operação o serviço prometido, gerando grandes problemas à contratante que tem a comunicação telefônica como sua força motriz (atua com venda de cestas básicas), uma vez que o número de telefone por ela usado foi desativado em decorrência da inadimplência da requerida.
+Pelo exposto, pretende a autora que a ré seja compelida a cumprir as obrigações assumidas em contrato. Alternativamente, em razão de dificuldades técnicas, caso não seja possível a instalação do serviço na forma contratada, pede a autora a rescisão do contrato por culpa da ré. Sem prejuízo do pleito cominatório, pretende a autora a condenação da ré no pagamento da indenização prevista na cláusula 5.5.1 do contrato, consistente no valor de R$ 5.734,77 ou, alternativamente, o arbitramento de valor a título de indenização por danos morais.
+Regularmente citada (fl. 48), a ré não contestou o feito (fl. 49).
+Relatei brevemente.
+
+D E C I D O.
+
+Conheço diretamente do pedido, nos termos do artigo 330, inciso II, do Código de Processo Civil.
+Nos termos do disposto no artigo 319 do Código de Processo Civil, não sendo apresentada contestação, presumem-se verdadeiros os fatos alegados pela autora. 
+Inicialmente, trata-se o presente caso de relação de consumo, uma vez que a autora é consumidora final do serviços de telefonia.
+Restou incontroverso que as partes celebraram negócio jurídico referente à prestação de serviço (fls. 24/31). Destarte, tem-se por verídicos o inadimplemento da ré e os consequentes prejuízos narrados na inicial.
+A ação é procedente. Isto porque não há qualquer elemento nos autos que possa afastar a responsabilidade da ré. 
+No documento emitido pela ré (fl. 42) não há qualquer indício de impossibilidade de cumprimento das obrigações avençadas em contrato. A mudança de tecnologia mencionada na aludida correspondência não ficou comprovada nos autos, já que a autora nega que tenha feito qualquer alteração no projeto inicial.
+Por isso, deverá a ré proceder ao cumprimento das obrigações assumidas no contrato juntado a fls. 24/31 (VOX DIGITAL (1-38B3DM)  NOVO), em cujo "resumo do cliente" especifica os seguintes serviços (fl. 24):
+"3.1 Disponibilização de infra-estrutura para Serviços de Telefonia  DIST (...).
+3.2 Soma das Mensalidades e das assinaturas Mensais de todos os produtos (Dados/Vas e/ou Colocation) e/ou Disponibilização de infra-estrutura e espaço para hospedagem para serviços de Colocation e serviços correlatos".
+Portanto, terá a ré o prazo de 10 dias, a contar da prolação da sentença, para providenciar os serviços e produtos destacados acima e melhor detalhados nas condições contratuais de fls. 25/29, disponibilizando-os à autora. Despiciendo ressaltar que a ré deverá deixar todo o sistema funcionando a contento, sem falhas, nos exatos termos em que ofertado. Esta determinação é dada em sede de tutela antecipada concedida em sentença, razão pela qual autorizo a intimação da ré (revel) por carta.
+Caso seja descumprido o prazo supra fixado, imponho multa (única) em razão do descumprimento de ordem judicial, no valor de R$ 15.000,00. Este valor será revertido a favor da autora e, na hipótese de não ser paga pela ré, poderá haver bloqueio pelo sistema BACENJUD.
+Em relação à aplicação da cláusula 5.5.1 (fl. 26), observo que tal é factível. Isto porque o contrato celebrado pelas partes prevê exclusivamente a penalidade para o caso de a autora tornar-se inadimplente com suas obrigações. Não há qualquer penalidade imposta para o caso de descumprimento por parte da requerida. Assim, perfeitamente possível a aplicação da cláusula penal instituída em contrato para qualquer dos contratantes que se tornar inadimplente. 
+No caso dos autos, foi a ré quem descumpriu as obrigações assumidas. Assim, a ela caberá o pagamento da indenização estipulada na cláusula 5.5.1, sem prejuízo do cumprimento da obrigação de fazer.
+Examinando o teor da disposição contratual mencionada, tem-se que:
+"5.5.1. Em caso de cancelamento total ou parcial dos serviços de VOZ antes de completados os meses de vigência do contrato definido de vigência do presente contrato ou pelo inadimplemento do Cliente, será devido à GVT, a título de indenização, o valor correspondente a soma das assinaturas de VOZ e/ou da(s) mensalidade(s) multiplicadas pelos meses remanescentes do contrato e sem aplicação dos descontos".
+Assumindo o critério supra destacado, considerando-se que o serviço deveria ser entregue a partir de março de 2012 e que até a atualidade não o foi (somando 09 meses de atraso), fixo a indenização contratual em R$ 18.000,00.
+Admitida a cláusula penal contratual, fica prejudicado o pleito de indenização por danos morais.
+Diante do exposto e do mais que dos autos constam, JULGO PROCEDENTE a ação promovida por TECNO FOODS ALIMENTOS DO BRASIL LTDA em face de GVT ? GLOBAL VILLAGE TELECOM LTDA para:
+A) obrigar a ré a cumprir o contrato e providenciar a instalação dos serviços e produtos destacados acima, disponibilizando-os à autora, de forma a funcionar a contento, sem falhas, nos exatos termos em que ofertado. Esta determinação é dada em sede de tutela antecipada concedida em sentença, para ser cumprida no prazo de 10 dias, razão pela qual autorizo a intimação da ré (revel) por carta. O prazo será computado a partir da intimação postal. Em caso de inobservância da decisão agora proferida, será aplicada multa (única) em razão do descumprimento de ordem judicial, no valor de R$ 15.000,00;
+B) condenar a ré no pagamento da cláusula penal contratual, calculada em R$ 18.000,00, que será corrigida monetariamente a partir da publicação desta sentença (eis que considerado o inadimplemento até o mês de novembro para seu cômputo), acrescida de juros moratórios legais a contar da citação.
+Em razão da sucumbência, arcará a ré com o pagamento das custas e despesas processuais, corrigidas desde o desembolso, além de honorários advocatícios que fixo em 10% (dez por cento) do valor atualizado da causa.
+Sem prejuízo da parte cominatória enfocada nestes decisum, desde logo fica a parte condenada ao pagamento de quantia certa intimada a cumprir a sentença e satisfazer a obrigação de pagamento, no prazo de 15 dias, contado da data em que o título judicial (sentença e acórdão) se tornar exigível, sob pena de acréscimo de multa de 10%, nos termos do artigo 475-J do Código de Processo Civil. 
+Em transitando em julgado, requeira a autora o que de direito em 30 (trinta) dias. Nada sendo requerido, remetam-se os autos ao arquivo.
+Para cálculo da taxa de preparo recursal, considerar-se-á o valor histórico atribuído à causa.
+P. R. I.
+
+São Paulo, 28 de novembro de 2012
+
+
+
+
+Adriana Borges de Carvalho
+Juíza de Direito
+(assinatura digital)

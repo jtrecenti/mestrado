@@ -1,0 +1,72 @@
+
+
+SENTENÇA
+
+Reclamação:0015747-36.2013.8.26.0001 - Procedimento Ordinário
+
+RequerenteGama Gases Especiais Ltda
+RequeridoTotvs S/A
+  
+
+Juiz(a) de Direito: Dr(a). Maria Pires de Melo
+
+
+
+
+
+            VISTOS ETC.
+
+
+
+
+1. GAMA GASES ESPECIAIS LTDA. ajuizou AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO c.c. INDENIZAÇÃO POR DANOS MORAIS em face de TOTVS S/A. Alegou que, durante a compilação de documentos, para celebrar negócio, tomou conhecimento de registro negativo, junto à SERASA, providenciado, pela ré, no valor de R$27.161,01, concernente à emissão da notas fiscais. Informou ter utilizado, no passado, os serviços da ré, para manutenção do sistema ?Protheus Corporativo RB1-TA?. Contudo, jamais existiu negócio jurídico, nos valores consignados, nas notas fiscais em litígio. A avença, celebrada em 04 de julho de 2006, fora cancelada, em dezembro de 2012. As cobranças em litígio ocorreram após esse cancelamento, e sem nenhuma justificativa, por parte da ré. A averbação negativa indevida acarretou danos morais à autora. Pleiteou a inexigibilidade/nulidade das cobranças das notas fiscais em litígio, bem como a condenação da ré em indenização por danos morais. À petição inicial (fls. 02/09), juntou os documentos de fls. 10/53 e 59/61.
+
+Deferiu-se tutela antecipada, para ordenar a exclusão dos registros negativos, nos cadastros da Serasa e do SCPC (fl. 63). 
+
+A ré ofertou contestação (fls. 78/86), instruída com documentos (fls. 87/141). Afirmou que as notas fiscais em litígio foram emitidas entre novembro de 2011 e abril de 2012, antes do cancelamento do contrato, e estão relacionadas à aplicação de multa, por descumprimento da avença. Esclareceu que o contrato caracterizava-se como de ?modalidade corporativa?, permitindo, ao cliente, número ilimitado de licenças do software, em empresas do mesmo grupo econômico. A licença e as mensalidades eram reajustadas, anualmente, tendo, como parâmetro, o faturamento bruto de todas as empresas, envolvidas no negócio. No dia 25 de janeiro de cada ano, a autora deveria informar seu faturamento bruto, e, até o dia 30 de abril de cada ano, encaminhar cópia da declaração de imposto de renda de pessoa jurídica, sob pena de reajuste de 50% do faturamento bruto da empresa. Contudo, a autora deixou de prestar as informações necessárias, para cálculo da métrica, motivo pelo qual aplicada a presunção de faturamento bruto de 50% superior à maior receita bruta anual, já informada, para cálculo do incremento das licenças (CDU) e das mensalidades dos serviços mensais de software. As notas fiscais nºs 638.034 e 634.154, emitidas em abril de 2012, referir-se-iam ?ao incremento do valor das mensalidades de utilização do sistema (SMS) e do valor da própria licença (CDU), ao passo que as notas fiscais 625.418, 612.345 e 586.222, emitidas em novembro de 2011, fevereiro de 2012 e março de 2012, respectivamente, referem-se-iam à mensalidade do sistema, que já vinha sendo normalmente cobrada pela? ré. Defendeu a validade e legalidade das cláusulas contratuais. Em razão do atraso, na entrega da declaração, em 25 de janeiro de cada exercício, a ré aplicou a cláusula 3ª da avença, que autoriza aumento de 50% do faturamento bruto da empresa, o que acarretou majoração do valor da licença corporativa (CDU) e das mensalidades (SMS). Inexistiu ilicitude, na conduta da ré, por devidos os valores, bem como dano, mas mero aborrecimento. Subsidiariamente, buscou aplicação de indenização em valor módico. 
+
+A autora ofertou réplica (fls. 144/146).
+
+É o breve relatório.
+
+2. Passo a fundamentar.
+
+Julgo antecipadamente a lide, nos termos do art. 330, inc. I, do CPC.
+
+Incontroverso (art. 334, inciso III, c.c. o art. 302, ?caput?, ambos do Código de Processo Civil) que: a) em 04 de julho de 2006, as partes celebraram contrato de cessão de Direitos de Uso de Sistemas, ? Protheus Corporativo RB1 ? TA? e anexos, o que é corroborado pelos documentos de fls. 32/46; b) em 07 de dezembro de 2011, ocorreu a extinção da avença; c) a ré efetuou 05 registro negativos, em nome da autora, junto à ?Serasa Experian?, com pendências datadas de: 03/12/2011, no valor de R$1.195,40; 03/02/2012, no valor de R$1.195,40; 03/03/2012, no valor de R$1.195,40; 03/04/2012, no valor de R$21.496,06; e 03/05/2012, no valor de R$2.078,75, conforme demonstrado pelo documento de fl. 48.
+
+A nota fiscal é documento tributário, a comprovar a regularidade fiscal de negócios jurídicos tributáveis, ou que, por peculiaridade, estão isentos de tributação ou não são tributáveis. Referem-se à prestação de serviços onerosos ou a compra e venda de mercadorias. Não se destinam à cobrança de multas contratuais e nem de diferenças retroativas de valores.
+
+A ré: a) não juntou cópia das notas fiscais em litígio, nas quais deveriam estar discriminados os serviços prestados e o período a que se referem; b) não especificou, em resposta, a data (mês) do reajuste anual da licença da cessão de direitos de uso do software. Da avença, consta que: b1) que os ?valores adicionais? seriam devidos, em ?cada mês de fevereiro? (fl. 33), e não em abril, mês de vencimento que constou do valor registrado negativamente (fl. 48). Até o dia 25 de janeiro de cada ano, a contratante dos serviços deveria informar a receita bruta, auferida no ano anterior (fls. 33 e 34, 35). Em abril (até o dia 30) de cada ano, deveria ser apresentada a declaração de imposto de renda de pessoa jurídica (fl. 33); b2) a receita bruta informada era utilizada como parâmetro econômico, para fixação dos valores, para o ano seguinte (fl. 32). Portanto, os valores contratuais vigoravam de fevereiro de um ano, até janeiro do ano seguinte. Assim, foi considerada a receita bruta do ano de 2005, para fixar os valores do contrato de 2006 (fl. 32); c) não apontou cláusula contratual que estabelecesse prazo de vigência da avença inicial e nem de sua renovação. Também não demonstrou a existência de cláusula contratual que estabelecesse prazo de subsistência da avença, após a comunicação, pelo contratante, do desinteresse na continuidade da prestação dos serviços e muito menos de incidência de multa compensatória, na hipótese de resilição do contrato. Aliás, não há como se obrigar ninguém a receber serviços que não deseje. Havendo prazo determinado, não cumprido, para vigência da avença, resta à parte contratante que se entende prejudicada almejar tão-somente o recebimento de multa contratual compensatória proporcional, se convencionada.
+
+Por outro lado, depreende-se dos termos em que regida a comunicação de resilição da avença (fls. 45/46), datada de 07 de dezembro de 2011, que se tratam de condições padronizadas, estabelecidas pela própria ré. Na cláusula 2ª dessa notificação, constou, sem qualquer impugnação ou contranotificação da ré: ?as partes outorga-se, mutuamente, plena, geral e irrevogável quitação, sendo o último pagamento a ser feito em 03/01/12, valor de R$1.195,40, referente a nota fiscal nº 00607307, emitida em 02/12/11, para nada mais reclamarem uma da outra, no presente e/ou no futuro, em relação a todas as obrigações decorrentes do Contrato, ora resilido, exceto no que tangem às questões de Sigilo e Não Competitividade? (fl. 46).
+
+Acrescente-se que a ré nem sequer se dignou a ofertar cálculo circunstanciado de como apurado, cada um dos valores em litígio.
+
+Se a ré entendia haver alguma diferença contratual, competir-lhe-ia ter ajuizado ação de cobrança e/ou de indenização, com oferta de cálculo circunstanciado, bem como de justificativa completa de sua pretensão, e não emitido documento unilateral tributário, que para tanto não se destina, e muito menos registrado, negativamente, esse documento tributário, em cadastro de proteção ao crédito.
+
+Assim sendo, não demonstrado respaldo legal ou contratual, na emissão das notas fiscais em litígio, nem tampouco a pertinência dos valores lançados, nesses documentos tributário, registrados, negativamente, pela ré, é de se reconhecer a nulidade das obrigações pecuniárias em litígio e, como conseqüência, a ilicitude da conduta da ré.
+
+A data do registro negativo, em cadastro de proteção ao crédito, não se confunde com a data do vencimento da obrigação pecuniária ou do período a que se refere a obrigação pecuniária, averbada negativamente. O documento de fl. 48 não especifica a data do registro negativo, na Serasa, de cada obrigação pecuniária ali relacionada, mas tão-somente as datas dos vencimentos das obrigações e o período a que uma delas (credor ?Braspress?) se refere. 
+
+Ora, era fato constitutivo do direito da autora, à almejada indenização por dano extrapatrimonial, demonstrar que, ao tempo dos registros negativos em litígio, sua reputação, em mercado, era ilibida, ou seja, que, na ocasião, inexistiam outras averbações negativas, além daquelas providenciadas pela própria ré.
+
+Todavia, a autora não se desencumbiu de demonstrar esse fato, constitutivo de seu direito à almejada indenização, pois do documento de fl. 48 consta: a) uma pendência financeira, referente ao período de setembro/2011 a agosto/2012, em favor de ?Braspress T?; b) um protesto, datado de 27 de setembro de 2012.
+
+Assim sendo, apesar de se considerar ilícita a atitude da ré, não se pode concluir, na espécie, que tenha causado dano moral à autora, uma vez que, em época contemporânea à inscrição negativa, providenciada pela ré, existiam outras averbações negativas (fls. 48), em nome da autora, que a ela já impossibilitavam o exercício de seu direito ao crédito. 
+
+Observe-se que a autora não refutou a legitimidade dessas outras anotações negativas.
+
+Dessa forma, embora a jurisprudência venha admitindo que a simples inscrição negativa, nos cadastros de proteção ao crédito, é caracterizadora do dano moral, não menos certo que, ?Da anotação irregular em cadastro de proteção ao crédito, não cabe indenização por dano moral, quando preexistente legítima inscrição, ressalvado o direito ao cancelamento? (Súmula 385 do STJ). 
+
+3. Ante o exposto, nos termos do artigo 269, inciso I, do Código de Processo Civil, JULGO PARCIALMENTE PROCEDENTE o pedido, para declarar a nulidade das obrigações pecuniárias em litígio, representadas pelas notas fiscais nºs 638034 e 634154, emitidas em abril de 2012, e notas fiscais nº s 625418, 612345 e 586222, emitidas em novembro de 2011, fevereiro de 2012 e março de 2012, todas emitidas pela ré, caracterizadas à fl. 48, e, como conseqüência, confirma-se a tutela antecipada concedida. Fica afastada a indenização por dano extrapatrimonial.
+
+Não pendendo recurso com efeito suspensivo:
+a) comunique-se ao SCPC a exclusão definitiva do registro negativo (fl. 66);
+b) expeça-se mandado de levantamento do valor da caução, em favor da autora (fl. 76).
+
+Considerando que cada parte decaiu de parcela de sua pretensão e de sua resistência, cada uma deve arcar com as respectivas despesas processuais e com os honorários advocatícios do respectivo advogado.
+ 
+P. R. I.
+
+São Paulo, 12 de fevereiro de 2014.

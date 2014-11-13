@@ -1,0 +1,130 @@
+
+
+SENTENÇA
+
+Processo nº:0040301-06.2011.8.26.0001 - Procedimento Ordinário
+Requerente:Marcelo Custodio da Silva
+Requerido:Itaú Unibanco Banco Múltiplo S/A
+
+
+Juiz(ª) de Direito Dr.(ª): Enéas Costa Garcia
+
+Vistos. 
+
+1. MARCELO CUSTÓDIO DA SILVA, qualificado nos autos, ingressou com ação contra ITAÚ UNIBANCO BANCO MÚLTIPLO S/A, alegando, em síntese, que: a) celebrou com o requerido três contratos de empréstimo, os quais foram aditados, conforme descrito na inicial; b) os contratos são de adesão; c) os juros remuneratórios são exorbitantes, caracterizando lesão, ensejando revisão judicial; d) há indevida capitalização de juros; e) é nula a cláusula que autoriza o credor sacar letra de câmbio em razão do contrato. 
+Pretende o acolhimento do pedido para concessão de tutela antecipada visando suspender restrições de crédito, declaração de nulidade de cláusulas contratuais, com revisão da taxa de juros, declaração de nulidade da cláusula relativa à garantia e repetição em dobro do valor cobrado indevidamente. 
+
+2. A tutela antecipada foi indeferida (fls. 44).
+
+3. O réu foi citado e apresentou contestação (fls. 70/78). Alega em defesa que estão ausentes os pressupostos para revisão do contrato e que são regulares os termos da cobrança, especialmente no que concerne aos juros e capitalização. 
+
+4. Veio aos autos a réplica (fls.94/105).
+É o relatório. 
+DECIDO.
+
+5. O feito comporta julgamento antecipado, sendo dispensável a produção de prova oral, nos termos do art. 330, I do Código de Processo Civil.
+As questões suscitadas são de direito, sendo dispensável a juntada de outros documentos.  
+
+6. A ação é IMPROCEDENTE.  
+O controle da abusividade da taxa de juros não se pode dar in abstracto. Devem ser consideradas as circunstâncias concretas do contrato e o tipo de relação jurídica (microssistema bancário).
+Nesse sentido a lição de JUDITH MARTINS-COSTA (Comentários ao novo Código Civil. Do inadimplemento das obrigações, v. V, t. II, p. 598): A abusividade é uma noção a ser concretizada conforme o campo de sua atuação, isto é, a concreção há de ser efetuada relacionalmente, segundo os dados fáticos e normativos de entorno, considerados, entre os dados normativos, os limites legalmente postos para cada um daqueles campos.
+Inviável a pretensão de controle dos juros a partir da invocação genérica da norma do art. 6º, V do CDC, pois a jurisprudência do Superior Tribunal de Justiça tem se orientado no sentido de que referido controle somente é possível ante a concreta constatação da prática de taxas que superam o valor de mercado. 
+Nesse sentido: 
+
+DIREITO COMERCIAL. EMPRÉSTIMO BANCÁRIO. JUROS REMUNERATÓRIOS. Os negócios bancários estão sujeitos ao Código de Defesa do Consumidor, inclusive quanto aos juros remuneratórios; a abusividade destes, todavia, só pode ser declarada, caso a caso, à vista de taxa que comprovadamente discrepe, de modo substancial, da média do mercado na praça do empréstimo, salvo se justificada pelo risco da operação.
+Recurso especial conhecido e provido.
+(STJ - REsp 407.097/RS, Rel. Ministro  ANTÔNIO DE PÁDUA RIBEIRO, Rel. p/ Acórdão Ministro  ARI PARGENDLER, SEGUNDA SEÇÃO, julgado em 12.03.2003, DJ 29.09.2003 p. 142)
+
+AGRAVO INTERNO. NEGÓCIO BANCÁRIO. JUROS REMUNERATÓRIOS. CÓDIGO DE DEFESA DO CONSUMIDOR. INCIDÊNCIA. LEI 4.595/64. LEGISLAÇÃO ESPECÍFICA.
+A egrégia Segunda Seção decidiu, no julgamento do Recurso Especial nº 407.097/RS, em 12/03/2003, que: Os negócios bancários estão sujeitos ao Código de Defesa do Consumidor, inclusive quanto aos juros remuneratórios; a abusividade destes, todavia, só pode ser declarada, caso a caso, à vista de taxa que comprovadamente discrepe, de modo substancial, da média do mercado na praça do empréstimo, salvo se justificada pelo risco da operação.
+Agravo improvido. 
+(STJ - AgRg no Ag 552.893/RS, Rel. Ministro  CASTRO FILHO, TERCEIRA TURMA, julgado em 14.06.2004, DJ 01.07.2004 p. 190)
+
+PROCESSO CIVIL. AGRAVO INTERNO. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. AGRAVO IMPROVIDO.
+I - O fato de as taxas de juros excederem o limite de 12% ao ano, por si, não implica abusividade; impõe-se sua redução, tão-somente, quando comprovado que discrepantes em relação à taxa de mercado para operações da mesma espécie. (...) (STJ - AgRg no REsp 879.902/RS, Rel. Min. SIDNEI BENETI, j. 19.06.2008).
+
+
+Incabível a invocação da Lei de Usura ou das normas limitativas dos juros do Código Civil nos contratos bancários. 
+A propósito, recentemente o Superior Tribunal de Justiça apreciou Recurso Especial com incidente de recurso repetitivo (art. 543-C do CPC), fixando a orientação do Tribunal sobre estes temas:
+
+DIREITO PROCESSUAL CIVIL E BANCÁRIO. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CLÁUSULAS DE CONTRATO BANCÁRIO. INCIDENTE DE PROCESSO REPETITIVO. JUROS REMUNERATÓRIOS. CONFIGURAÇÃO DA MORA. JUROS MORATÓRIOS. INSCRIÇÃO/MANUTENÇÃO EM CADASTRO DE INADIMPLENTES. DISPOSIÇÕES DE OFÍCIO. 
+DELIMITAÇÃO DO JULGAMENTO
+Constatada a multiplicidade de recursos com fundamento em idêntica questão de direito, foi instaurado o incidente de processo repetitivo referente aos contratos bancários subordinados ao Código de Defesa do Consumidor, nos termos da ADI n.º 2.591-1. Exceto: cédulas de crédito rural, industrial, bancária e comercial; contratos celebrados por cooperativas de crédito; contratos regidos pelo Sistema Financeiro de Habitação, bem como os de crédito consignado.
+Para os efeitos do § 7º do art. 543-C do CPC, a questão de direito idêntica, além de estar selecionada na decisão que instaurou o incidente de processo repetitivo, deve ter sido expressamente debatida no acórdão recorrido e nas razões do recurso especial, preenchendo todos os requisitos de admissibilidade.
+Neste julgamento, os requisitos específicos do incidente foram verificados quanto às seguintes questões: i) juros remuneratórios; ii) configuração da mora; iii) juros moratórios; iv) inscrição/manutenção em cadastro de inadimplentes e v) disposições de ofício. (...)
+I - JULGAMENTO DAS QUESTÕES IDÊNTICAS QUE CARACTERIZAM A MULTIPLICIDADE. 
+ORIENTAÇÃO 1 - JUROS REMUNERATÓRIOS 
+a) As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33), Súmula 596/STF;
+b) A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade;
+c) São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02; (...) 
+(STJ - REsp 1.061.530/RS, Rel. Min. NANCY ANDRIGHI, SEGUNDA SEÇÃO, j. 22/10/2008, DJe 10/03/2009).
+
+Apesar de mencionar juros praticados no mercado, o autor tomou como base a taxa SELIC, contudo, não é esta que deve servir de paradigma para aferição da abusividade. 
+A taxa SELIC é a taxa mínima praticada pelo Governo. A comparação a que se refere a jurisprudência deve se dar com outros bancos comerciais, que praticam o mesmo tipo de operação. 
+O Superior Tribunal de Justiça tem se valido das tabelas publicadas pelo Banco Central (http://www.bcb.gov.br/?TXCREDMES).
+Assim, incorreta a comparação realizada pelo autor, que tomou por base a SELIC. 
+Improcede, outrossim, a análise do spread bancário como parâmetro para aferição da abusividade da taxa de juros, como aliás já decidiu o Superior Tribunal de Justiça:
+
+Finalmente, está a impugnação no que se refere à Lei de Usura e à Lei n° 1.521/51. Mas, o tema, embora tenha o Acórdão recorrido feito referência ao spread, expressão técnica, a referência feita na antiga Lei de Economia Popular remete, necessariamente, ao Decreto n° 22.626/33, que estipula as taxas legais. A partir do art. 4º da Lei n° 1.521/51, que tipifica o crime de usura pecuniária, pretendeu a empresa recorrida afiançar que teria havido o crime porque o banco estipulou "lucro patrimonial" superior "ao quinto do valor corrente ou justo da prestação feita ou prometida"
+Por mais esforço de interpretação que se possa fazer, a sentença e o Acórdão recorrido, com todo respeito, na minha avaliação, deliraram ao enxergar a pretendida violação, diante da jurisprudência nascida no Colendo Supremo Tribunal Federal, com a Súmula n° 596, que liberou da disciplina da Lei de Usura, o Decreto n° 22.626/33, os juros nos contratos bancários, no caso, de abertura de crédito em conta-corrente. Não poderia nem o Supremo Tribunal Federal nem o Superior Tribunal de Justiça, liberando os juros, de acordo com o mercado, considerando que não incide, ainda, a disciplina constitucional, ter autorizado o crime de que trata a Lei de Economia Popular. Se os juros para as instituições financeiras, nos termos da interpretação oferecida à Lei n° 4.595/64, estão liberados, não se pode aceitar a configuração do crime contra a economia popular, ainda mais nos termos em que redigido o art. 4º, b), da Lei n° 1.521/51, que foi regulamentado pelo Decreto n° 48.456/60. 
+Assim, sem substância jurídica, na minha compreensão, a fundamentação da inicial. Se a capitalização, configurada no Acórdão recorrido, e, por isso, insuscetível de revisão na instância especial, é vedada na jurisprudência da Corte, a limitação dos juros não existe, nem se lhe alcança a disciplina da Lei n° 1.521/51. Nesta direção: REsp n° 218.030-RS, da minha relatoria, DJ de 26/6/00; REsp n° 178.185/RS, Relator o Senhor Ministro Cesar Asfor Rocha, DJ de 16/11/98. (STJ ? Resp. nº 292893/SE - Rel. Min. Carlos Alberto Menezes Direito ? j. 15/08/02 ? LEX-STJ 163/61)
+
+
+Como exposto anteriormente, a análise da abusividade dos juros não se faz internamente na operação de captação (aplicação financeira e empréstimo), mas em confronto com as taxas aplicadas no mercado, sendo incabível invocação do spread bancário.
+A capitalização mensal de juros não é vedada nos contratos bancários em razão da Medida Provisória nº 1963-17/2000, de 31/03/2000, atualmente reeditada como Medida Provisória 2170-36/2001 (STJ - AgRg no REsp. nº 1.038.363/RS, Rel. Min. PAULO DE TARSO SANSEVERINO,  j. 02/08/2011; STJ ? AgRgAg. nº 562.712/RS - Rel. Min.  HUMBERTO GOMES DE BARROS ? j. 30/11/04;  STJ ? REsp. nº  629.487/RS - Rel. Min. FERNANDO GONÇALVES ? j. 22/6/04; STJ ? AgRgResp. nº 615.136/RS - Rel. MIN. HUMBERTO GOMES DE BARROS ? j. 18/11/04; STJ ? AgRgResp. nº 655.350/RS - Rel. Min.  NANCY  ANDRIGHI ? j. 16/12/04; STJ-AgRg no REsp 1.009.512/MS, Rel. Min. MARIA ISABEL GALLOTTI,  j. 15/02/2011; STJ - AgRg no REsp 1.052.866/MS, Rel. Min VASCO DELLA GIUSTINA (DESEMBARGADOR CONVOCADO DO TJ/RS), j. 23/11/2010; STJ  AgRg no Ag 1.371.651/RS, Rel. Min. NANCY ANDRIGHI,  j. 18/08/2011; STJ - AgRg no REsp 1.231.210/RS, Rel. Min. RAUL ARAÚJO, j. 14/06/2011), cuja validade não foi infirmada pelo STF (STJ - AgRg no REsp. nº 1.231.210/RS, Rel. Min. RAUL ARAÚJO, j. 14/06/2011).
+A jurisprudência do Superior Tribunal de Justiça tem reconhecido que a indicação da taxa de juros mensal e anual, com valor que supera o duodécuplo da taxa mensal, atua como válida convenção a respeito da capitalização de juros. 
+Nesse sentido:
+
+?(...) Quanto à ausência de pactuação da capitalização no contrato firmado entre as partes, tenho que a alegação não merece prosperar.
+Com efeito, muito embora tenha o  v.  aresto  impugnado  assentado  que  não houve pacto expresso, o fez com base no fundamento de que a indicação das taxas de juros mensal e anual não configura a expressa previsão contratual.
+Todavia, esta Corte Superior de Justiça já decidiu que há previsão expressa de cobrança de juros capitalizados em periodicidade  mensal  quando  a  taxa  de  juros  anual ultrapassa o duodécuplo da taxa mensal.
+Nesse sentido: REsp  1.220.930/RS, Rel. Min. MASSAMI  UYEDA,  DJe  de 9.2.2011; AgRg no REsp 735.140/RS, Rel. Min. JORGE SCARTEZZINI, 4ª Turma, DJ de 5.12.2005; AgRg no REsp 735.711/RS, Rel. Min. FERNANDO GONÇALVES, 4ª Turma, DJ  de  12.9.2005;  AgRg  no  REsp  714.510/RS,  Rel.  Min.  JORGE  SCARTEZZINI,  4ª Turma,  DJ  de  22.8.2005;  AgRg  no REsp  809.882/RS, Rel. Min.  ALDIR  PASSARINHO JUNIOR, DJ de 24.4.2006.
+No caso dos autos, colhe-se do aresto impugnado que a taxa anual pactuada foi de 27,04%, e que a taxa mensal prevista no contrato é de 2,01%, de modo que  a partir do confronto entre tais percentuais, percebe-se que houve expressa pactuação. De outra parte, o v. julgado estadual afirma que o contrato foi firmado em 10.10.2007 (e-STJ, fl. 132), ou seja, após a vigência da Medida Provisória referida.
+Nesse contexto, tendo sido firmado o contrato quando  vigente  norma permissiva para a cobrança de capitalização mensal dos juros, bem como estando previsto no contrato  a  incidência  desta  forma  de  cobrança,  é  de  rigor  a  manutenção  da  decisão  ora agravada que reformou o v. acórdão estadual.?
+(STJ - AgRg no REsp. nº 1.231.210/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/06/2011, DJe 01/08/2011).
+
+
+No caso sub judice há expressa indicação das taxas aplicadas mensal e anualmente (fls. 21/26), constatando-se a previsão de capitalização, como mencionado pela jurisprudência, de modo que preenchido o requisito legal. 
+Improcede a insurgência da parte contra a cláusula contratual que autoriza saque de letra de câmbio representativa do débito.
+O saque da letra de câmbio é ato unilateral, a qual é emitida e, posteriormente, submetida ao sacado para aceite. 
+O aceite, via de regra, é facultativo e enquanto não realizado não nasce obrigação cambial para o sacado.
+Segundo FRAN MARTINS (Títulos de crédito, v. I, p. 180, nº 47): o aceite é uma ato que só pode ser praticado pelo sacado: contendo a letra uma ordem de pagamento cabe àquele a quem é dada a ordem declarar se está disposto a cumpri-la ou não. Enquanto a letra não for aceita o sacado nenhuma responsabilidade tem pela solvabilidade do título. O seu nome apenas está indicado na letra, constituindo mesmo essa indicação um dos requisitos essenciais para a validade do título; mas neste não existe a sua assinatura, indispensável para a assunção da obrigação, dado o formalismo e a literalidade da letra. Daí o fato de, apesar de ter o seu nome mencionado no título, o sacado não possuir nenhuma obrigação pelo pagamento do mesmo. Se, entretanto, está o sacado disposto a obrigar-se pelo pagamento da letra, aceita a ordem que lhe é dada, lançando nela uma declaração nesse sentido ou simplesmente a sua assinatura. A partir desse momento, o título já não tem mais sacado e sim aceitante. E esse se constitui o obrigado principal da letra.
+Portanto, havendo autorização contratual, pode o banco sacar letra pelo valor da dívida, encaminhando-a ao sacado para que este, reconhecendo o débito, a aceite, responsabilizando-se pelo pagamento.
+A falta ou recusa de aceite pode ser formalmente comprovada por meio do protesto por falta de aceite, que difere do protesto por falta de pagamento, caso em que o sacado havia assumido o compromisso de acatar a ordem de pagamento do sacador. 
+Nesse sentido, admitindo o saque da letra nestes casos, já se manifestou o Tribunal de Justiça de São Paulo:
+
+CAMBIAL - Letra de câmbio - Emissão para cobrança de saldo devedor em conta- corrente - Possibilidade, desde que pactuada, sendo vedada apenas o aceite pelo procurador-beneficiário (STJ, Súm. 60) - Pedido declaratório improcedente - Recurso não provido. DANO MORAL - Protesto indevido - Letra de Câmbio protestada por falta de aceite - Regularidade - Ausência, ademais, de máculas ao nome do devedor - Inserção de seu nome nos cadastros de inadimplentes não demonstrada - Pedido indenizatório improcedente - Recurso não provido. 
+(TJSP ? 14ª Câm - Ap. nº 7321601000 - Rel. Melo Colombi ? j. 25/03/2009).
+
+Esta também é a orientação do Superior Tribunal de Justiça:
+
+LETRA DE CÂMBIO. RELAÇÃO CAMBIAL. PROTESTO.
+1. Não é ilegal o saque de letra de câmbio representativa de crédito decorrente de contrato firmado entre sacador e sacado.
+2. Se há o crédito entre sacador e sacado, não é possível concluir que entre eles não há relação jurídica.
+3. O portador da letra de câmbio não aceita tem direito de encaminhá-la a protesto por falta desse ato. 
+(STJ - REsp 900005/SP, Rel. Ministro  HUMBERTO GOMES DE BARROS, TERCEIRA TURMA, julgado em 27/03/2007, DJ 16/04/2007 p. 200)
+
+
+LETRA DE CÂMBIO. CONTRATO DE FINANCIAMENTO. SAQUE CONTRA A DEVEDORA INADIMPLENTE. ADMISSIBILIDADE. PROTESTO POR FALTA DE ACEITE.
+? Admissível o saque de letra de câmbio contra o devedor impontual.
+Precedentes: RMS nº 2.603-6/SP e REsp nº 141.941-MG.
+? Ante a negativa de aceite, permitido é ao sacador proceder ao protesto.
+Recurso especial não conhecido. 
+(STJ - REsp 191.560/MG, Rel. Ministro  BARROS MONTEIRO, QUARTA TURMA, julgado em 16/10/2003, DJ 19/12/2003 p. 467)
+
+
+7) Diante do exposto, JULGO IMPROCEDENTE o pedido. Condeno o autor ao pagamento de custas, despesas processuais e honorários advocatícios, que arbitro em R$ 1.000,00, observado o disposto no art. 12 da Lei de Assistência Judiciária. 
+ 
+
+P. R. I
+
+
+São Paulo, 15 de fevereiro de 2012.
+
+
+
+
+ ENÉAS COSTA GARCIA
+        JUIZ DE DIREITO
+
+         (assinatura digital)

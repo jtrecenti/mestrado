@@ -1,0 +1,46 @@
+
+
+SENTENÇA
+
+Processo nº:1031946-13.2013.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Quanto à Carga
+Requerente:Itaú Seguros S/A
+Requerido:QUEST CARGO INC. e outro
+
+Juiz(a) de Direito: Dr(a). Antonio Carlos de Figueiredo Negreiros
+
+Vistos,
+
+ITAÚ SEGUROS S/A ajuizou AÇÃO REGRESSIVA DE RESSARCIMENTO em face de QUEST CARGO INC e de NUK LINE - NIPPÓN YUSEN KAISHA. Alega, em apertada síntese, que celebrou com a empresa BRAVIEW INDÚSTRIA DE PRODUTOS ELETRÔNICOS DO BRASIL um contrato de seguro para transporte internacional intermodal; que a segurada contratou a primeira-ré como NVOCC do referido transporte internacional, a qual, por sua vez, contratou o transporte marítimo da segunda-ré; que a mercadoria pesando 3.650 Kg foi embarcada "clean on board" na origem e se extraviou durante o transporte marítimo, haja vista que o container estava completamente vazio (peso de 20 Kg) ao ser apresentado no Terminal Alfandegário IPA ? MARINEX, com os paineis frontal e lateriais amassados; que diante das evidências de extravio do lote, a segurada formalizou o protesto do recebedor aos transportadores marítimos e a vistoria realizada na presença dos interessados e dos fiscais da Receita Federal confirmou que o contêiner estava completamente vazio. Requereu a condenação dos réus, devedores solidários, ao ressarcimento da integralidade dos valores desembolsados para o pagamento da indenização do seguro, correspondente a R$ 314.516,22. Juntou documentos de fls. 18/134.
+A NYK LINE DO BRASIL ofereceu a contestação de fls. 141/167. Apresenta preliminar de ilegimitdade passiva, haja vista que somente a NVOCC responde por eventuais danos resultantes do transporte multimodal. No mérito, alega que a contestante não pode ser responsabilizada pelos danos decorrentes de transporte no exterior, notadamente porque o container foi entregue no destino com o lacre original intacto, tal como a mercadoria lhe foi entregue pela NVOCC; que o CDC não se aplica na relação jurídica em questão. Requere a improcedência do pedido.
+A autora se manifestou em réplica (fls. 174/186).
+A QUEST CARGO INC deixou transcorer in albis o prazo para contestar a ação e, posteriormente, compareceu aos autos com a juntada de fls. 187/207.
+É o relatório.
+Decido.
+I) DA PRELIMINAR DE ILEGITIMIDADE DE PARTE
+Pretende a Seguradora em ação regressiva haver indenização pelo extravio da mercadoria durante o transporte marítimo.
+É fato incontroverso que as mercadorias adquiridas pela segurada foram regularmente embarcadas em Miami e não chegaram no destino ? Porto de Santos.
+O beneficiário da carga tem legitimidade para postular a indenização pelo extravio da mercadoria, independentemente de o serviço ter sido contratado pela agente de carga.
+Saliente-se que não houve transporte multimodal como mencionado na contestação, haja vista que a QUEST CARGO atuou exclusivamente como agente de carga, sem qualquer responsabilidade de promover a logística de outras modalidades de transporte da carga em questão, senão o transporte marítimo contratado da corré, o que afasta a alegada aplicação da Lei nº 9.611/98.
+Nestas condições, o sub-rogada ITAÚ SEGUROS tinha a opção de exigir a indenização do dano material decorrente do desaparecimento seja da empresa de transporte marítimo (responsabilidade civil) como do Agente de Carga (responsabilidade contratual de realizar a segura entrega da mercadoria adquirida).
+A existência de um agente de carga responsável pela logística do transporte não isenta o armador de sua responsabilidade pelo desaparecimento da mercadoria durante o transporte marítimo.
+Nestes termos, afasta a preliminar de ilegitimidade passiva.
+II) DA APLICAÇÃO DO CDC À HIPÓTESE
+A aplicação do CDC nos contratos de transporte marítimo é questão de grande divergência jurisprudencia.
+Embora a questão seja irrelevante para o julgamento da ação em apreço, a importação de peças (componentes eletrônicos) que servem de insumo da atividade industrial não caracteriza um transporte para o consumidor final e sim atividade meio da importadora.
+Logo, as regras protetivas do CDC não podem ser evocadas em proveito da sub-rogada que, de qualquer forma, promoveu o protesto de interrupção da prescrição e o ajuizamento da ação dentro do prazo prescricional ânuo.
+III) DO EXTRAVIO DA MERCADORIA DURANTE O TRANSPORTE MARÍTIMO
+Uma vez que é incontroverso que o container apresentava ao desembarcar um peso de 20 Kg e as rés emitiram os respectivos "BIL OF LANDING" que confirmam o recebimento do container lacrado com o peso para embarque de 3.626,00 Kg (compatível com o declarado na unitização) e as rés não apresentam qualquer explicação minimamente plausível para explicar tal discrepância, é inegável que os responsáveis pelo transporte respondem pelo extravio da mercadoria.
+Pouco importa se os lacres permaneciam intactos ou mesmo que as avarias nos painéis do container não indicam sinais claros de violação de seu conteúdo, haja vista que não existe outra explicação para a dissipação de 3.626 Kg do interior do container que não passe pela conclusão sobre o seu efetivo extravio durante o transporte marítimo, ou melhor, após o recebimento da carga a bordo.
+Logo, inexistente qualquer alegação de situação de caso fortuito ou força maior a justificar o extravio da mercadoria durante a execução de contrato de transporte, não há como afastar a responsabilidade objetiva da transportadora (Cod. Com., arts. 519 e 749) e contratual do agente de cargas, pela não apresentação da mercadoria embarcada no Porto de destino.
+Por outro lado, de nenhum relevância para o julgamento a contratação do transporte com a cláusula FCL/FCL, haja vista que não se discute avarias na mercadoria e sim o seu completo extravio e a referida cláusula, por evidente, não afasta a responsabilidade precípua do transportador/depositário de entregar a carga nas mesmas condições que a recebeu.
+Por fim, a conclusão dos Comissários de Avarias que o extravio da mercadoria se deu no exterior não contradiz a afirmação de que o extravio se deu após o  embarque.
+Pelo contrário, apenas ratifica que o extravio não se deu após o desembarque em território nacional.
+Em suma, a autora comprovou documentalmente: a) sua legitimidade ativa como sub-rogada nos direitos da segurada, destinatária da carga; b) a existência do dano representado pela mercadoria extraviada; c) o montante de seu prejuízo, correspondente à indenização paga à segurada; d) a responsabilidade contratual do agente de cargas pelo extravio da carga durante o transporte contratado; e) a responsabilidade legal do transportador marítimo pela comprovado extravio da carga após o embarque, diante da alteração de peso do contêiner.
+IV) DISPOSITIVO
+ante o exposto, JULGO PROCEDENTE o PEDIDO para CONDENAR as rés, solidariamente, ao pagamento da importância de R$ 314.516,22 à autora, acrescido de correção monetária e juros legais de mora a contar do desembolso da indenização (fl. 132).
+As rés arcarão, ainda, com o pagamento de custas, de despesas processuais e de honorários de sucumbência, que fixo em 10% do total da condenação, devidamente atualizada à época do efetivo pagamento.
+P.R.I.
+São Paulo,  13/1/2014.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

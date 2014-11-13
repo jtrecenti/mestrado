@@ -1,0 +1,45 @@
+
+
+SENTENÇA
+
+Processo nº:0042634-32.2012.8.26.0053
+Classe - AssuntoCautelar Inominada - Medida Cautelar
+Requerente:BRF Brasil Foods S/A
+Requerido:Estado de São Paulo
+
+
+Juiz(a) de Direito: Dr(a). Liliane Keyko Hioki
+Vistos, etc.
+
+Trata-se de ação cautelar proposta por BRF BRASIL FOODS S/A em face do ESTADO DE SÃO PAULO, objetivando o fornecimento de seguros garantia para garantir eventuais ações de execução fiscal com base nas CDAs 1.091.856.119 e 1.091.837.700, de modo a resguardar seu direito à obtenção de certidão positiva com efeitos de negativa, nos termos do artigo 206 do CTN. Sustentou que é contribuinte do ICMS, tendo contra si lavrados os autos de infração 3.106.610 e 6.129.484, que originaram as inscrições na dívida ativa retro referidas, em que se exige o pagamento de créditos tributários decorrentes de supostas infrações no recolhimento tributário e impede, por conseguinte, a renovação da certidão de regularidade fiscal. Instruiu a inicial com documentos (fls. 22/403).
+Emenda à inicial a fls. 405/408 para se incluir o pedido de liminar.
+Liminar indeferida a fls. 409 e agravo de instrumento a fls. 416/434, ao qual foi concedido efeito ativo (fls. 438).
+Citada, a FESP apresentou contestação (fls. 449/458) e pleiteou a improcedência do pedido, eis que a garantia oferecida não é prevista no ordenamento pátrio, além do que a requerente possui outros débitos que impedem a expedição da certidão almejada.
+É a síntese do essencial.
+FUNDAMENTO E DECIDO.
+A matéria debatida nos autos dispensa a produção de outras provas e possibilita o julgamento nos termos do artigo 330, inciso I, c.c. artigo 803, parágrafo único 'a contrario senso', ambos do Código de Processo Civil.
+A tutela cautelar visa assegurar o resultado prático do processo principal, bem como viabilizar a realização dos direitos dos quais o autor se diz titular. Assim, resguarda e protege a futura eficácia da prestação jurisdicional, motivo por que a cognição nesse tipo de demanda é sumária e o provimento é sempre provisório.
+Paulo Afonso Garrido de Paula (em Código de Processo Civil Interpretado, 3ª edição, 2008, Editora Atlas, coordenador Antonio Carlos Marcato, fls. 2473/2476) assim definiu as cautelares:
+?Constituindo-se escopo fundamental do processo cautelar a prevenção de ocorrência de dano irreparável ou de difícil reparação, insere-se no âmago da tutela de urgência, assumindo a tempestividade da tutela jurisdicional valor maior do que representado pela segurança das razões determinantes da sua necessidade.
+Como reflexo primordial desta valoração impôs-se a definição de procedimentos de cognição sumária, contentando-se o legislador com a plausibilidade do direito invocado, de modo que o autor não tem o ônus de comprovar à exaustão a existência de seu direito e nem o juiz deve reconhecer ou não a sua realidade, bastando a verificação de sua plausibilidade, identificada pela verossimilhança, probabilidade ou possibilidade. (...).
+Processo cautelar genuíno é aquele que serve como garantia da eficácia do provimento jurisdicional buscado no processo principal. Seu traço principal é a instrumentalidade, sendo ainda caracterizado pela acessoriedade, precariedade ou provisoriedade, fungibilidade ou mutabilidade, bem como pela autonomia ou identidade própria. Faltando qualquer desses requisitos pode ser considerado como um processo cautelar impróprio, quer porque o autor encontrou na tutela jurisdicional específica satisfação a seu direito ou porque tenha obtido providência administrativa comprobatória da sua posição em determinada relação jurídica (...)
+O processo cautelar genuíno repousa em condições especiais que determinam a justeza de seu início e de sua consolidação como instrumento de validação de direitos irrealizados, de modo que o exercício do direito de ação e sua admissibilidade encontram-se subordinados a requisitos peculiares que lhe dão forma e o distingue dos demais processos. Embora acessório, o processo cautelar genuíno exige que o interesse processual, compreendido também como adequação do processo à tutela pretendida, seja marcado pela presença dos elementos fumus boni juris e periculum in mora, estando o primeiro resumido na plausibilidade do direito invocado e o segundo no receio de dano irreparável ou de difícil reparação (...)?. 
+Em suma, ao conceder uma medida cautelar o juiz não examina a lide, o direito alegado, mas apenas concede a medida para permitir que o direito que será julgado não pereça ou sofra dano irreparável.
+No caso, a plausibilidade do direito da requerente vem respaldada pelos artigos 205 e 206 do CTN, que garantem a expedição de certidão negativa e/ou positiva com efeitos de negativa, nos casos em que o contribuinte quitou sua obrigação ou que garantiu o débito ou teve suspensa a exigibilidade do débito:
+Art. 205 - A lei poderá exigir que a prova da quitação de determinado tributo, quando exigível, seja feita por certidão negativa, expedida à vista de requerimento do interessado, que contenha todas as informações necessárias à identificação de sua pessoa, domicílio fiscal e ramo de negócio ou atividade e indique o período a que se refere o pedido.
+Parágrafo único. A certidão negativa será sempre expedida nos termos em que tenha sido requerida e será fornecida dentro de 10 (dez) dias da data da entrada do requerimento na repartição.
+Art. 206 - Tem os mesmos efeitos previstos no artigo anterior a certidão de que conste a existência de créditos não vencidos, em curso de cobrança executiva em que tenha sido efetivada a penhora, ou cuja exigibilidade esteja suspensa.
+Ocorre que a requerente vem oferecer garantia dos débitos tributários descritos na inicial por meio de ?seguro garantia?, regulado pela Circular Susep 232/2003, que, no entanto, não pode ser aceito para os fins pretendidos pela requente, eis que limitado ao prazo de vigência contratualmente acordado (fls. 387 e 395), de modo que não se prestará à plena garantia do débito tributário até a solução da ação executiva fiscal, considerada a demanda ao qual esta se vincula.
+Ademais, esse tipo de garantia não está previsto na Lei nº 6.830/80 e tampouco é substitutivo da fiança bancária. Imprestável, pois, ao fim colimado.
+Nesse sentido:
+AÇÃO CAUTELAR. GARANTIA DO CRÉDITO TRIBUTÁRIO ANTERIOR À EXECUÇÃO. SEGURO GARANTIA JUDICIAL. NOVA MODALIDADE CAUÇÃO. FALTA DE PREVISÃO LEGAL. ANALOGIA COM A FIANÇA BANCÁRIA. INOCORRÊNCIA. (...) II - No caso em tela, a garantia ofertada foi o Seguro Garantia Judicial, nova modalidade de caução regulada pela Superintendência de Seguros Privados (SUSEP), por meio da Circular nº 232/2003. Ocorre que a referida caução não está inserida na ordem legal de garantias que podem ser oferecidas pelo executado, nos termos do art. 9º da Lei 6.830/80. Considerando que o citado diploma legal é a norma especial que regula o processo executivo fiscal, resta inadmissível a garantia oferecida. III - Outrossim, apenas a fiança bancária que garanta o valor integral da execução e com validade até a extinção do processo executivo pode ser aceita como forma de garantia da dívida tributária. IV - Logo, mesmo que essa nova caução pudesse se equivaler à fiança bancária, ela não tem o condão de garantir a dívida, em decorrência de condições estabelecidas na apólice, quais sejam, prazo de validade que precisa ser renovado periodicamente e garantia apenas das obrigações do Tomador referente à ação cautelar 2006.51.01.015866-2 (fl. 285). V - Recurso especial provido. (REsp 1.098.193/RJ, Rel. Min. Francisco Falcão, DJe 13/05/2009).
+Em suma, embora plausível o direito alegado e o perigo de dano à requerente, que terá negativado seu nome até que o Fisco ingresse com a demanda judicial executiva, possibilitando à requerente a suspensão da exigibilidade do crédito, pelas modalidades previstas na lei de regência, é certo que o garantia oferecida nesta lide não se presta ao fim objetivado, eis que não garante o recebimento da indenização após o término da vigência do contrato, de modo a frustrar a sua finalidade que é a garantia do débito tributário até solução final da pendenga.
+Ante o exposto, JULGO IMPROCEDENTE, o pedido inicial, extinguindo o feito com resolução do mérito, nos termos do artigo 269, inciso I do CPC.
+Porque a liminar foi deferida pelo e. Tribunal de Justiça, fica mantida até ulterior decisão daquela Corte ou o trânsito em julgado desta decisão, o que primeiro sobrevier.
+Em virtude da sucumbência, arcará a requerente com o pagamento das verbas de sucumbência e honorários advocatícios que arbitro em R$ 500,00 (quinhentos reais), com base no artigo 20, parágrafo 4º do CPC. 
+P.R.I.
+São Paulo, 18 de março de 2013.
+
+
+                Liliane Keyko Hioki
+                   Juiz(a) de Direito

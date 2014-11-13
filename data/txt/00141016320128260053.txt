@@ -1,0 +1,144 @@
+
+
+SENTENÇA
+
+Processo nº:0014101-63.2012.8.26.0053 - Procedimento Ordinário
+Requerente:Raia S.A.
+Requerido:Fundação de Proteção e Defessa do Consumidor   Procon
+
+
+Juiz(ª) de Direito Dr.(ª): Thiago Massao Cortizo Teraoka
+
+
+Vistos.
+
+RAIA S.A. ingressou com ação anulatória em face da FUNDAÇÃO DE PROTEÇÃO E DEFESA DO CONSUMIDOR DE SÃO PAULO ? FUNDAÇÃO PROCON.
+
+Em síntese, a autora alega que o auto de infração nº 06478 não merece subsistir. Foi multada e a sanção teve como fundamento a prática de conduta considerada abusiva perante o consumidor, qual seja, deixar de estipular o turno para realização do serviço, em descumprimento ao que determina o art. 2º da Lei nº 13.747/09, combinado com o art. 3º, § 3º, inciso III, do Decreto Estadual nº 55.015/09, no sítio de comércio eletrônico. Há ilegalidade nos critérios de quantificação da multa imposta. A fixação do ?quantum? da multa violou o princípio da proporcionalidade ou da proibição de excesso, eis que considerou a receita bruta da empresa ? matriz, em detrimento da receita da filial ? ?e-commerce?, para fins de base de cálculo da dosimetria da multa. Requer a declaração judicial da nulidade do auto de infração nº 06478.
+
+A tutela antecipada foi indeferida, quanto a declaração de nulidade. No entanto, mediante o depósito do valor em discussão (fls. 187/189), foi declarada a inexigibilidade do débito (fls. 190 e 218). 
+
+Em contestação (fls. 199/210), a ré sustenta a legalidade do auto de infração.
+
+Houve réplica (fls. 229/236).
+
+Intimadas as partes (fl. 273), a autora requereu prova pericial (fls. 290/291), enquanto a ré protestou pelo julgamento da lide no estado em que se encontra (fls. 288). 
+
+É o relatório.
+
+DECIDO.
+
+Indefiro a produção de prova pericial, eis que absolutamente desnecessária ao deslinde da presente demanda. A controvérsia atinente à multa ser amparada no faturamento bruto da matriz ? como aconteceu ? ou no da filial ?e-commerce? ? como faz querer a autora ? é questão de direito, solucionada pelo exame da legislação atinente à matéria, tão somente.  Ademais, de se ressaltar que os faturamentos tanto da matriz, como da filial, perfazem prova documental já encartada aos autos quando da propositura inicial (fls. 115/116 e 149/183). 
+
+Assim, o presente feito comporta julgamento no estado em se encontra, vez que caracterizada a hipótese do artigo 330, I do Código de Processo Civil (julgamento antecipado da lide). Com efeito, ?presentes as condições que ensejam o julgamento antecipado da causa é dever do juiz, e não mera faculdade, assim proceder.? (STJ - REsp 2.832 ? 4ª T., Min. Sálvio de Figueiredo, j. 14.8.90, DJU 17.9.90. No mesmo sentido: RSTJ 102/500, RT 782/302).
+
+O auto de infração 6478 (fl. 31) foi lançado sob o fundamento de que a autora não disponibilizara em seu portal de internet a data e turno de entrega do produto. É fundamentado na Lei Estadual nº 13.747/2009:
+
+?Artigo 2º - Os fornecedores de bens e serviços deverão estipular, no ato da contratação, o cumprimento das suas obrigações nos turnos da manhã, tarde ou noite, em conformidade com os seguintes horários:
+I - turno da manhã: compreende o período entre 7h00 e 12h00 (sete e doze horas);
+II - turno da tarde: compreende o período entre 12h00 e 18h00 (doze e dezoito horas);
+III - turno da noite: compreende o período entre 18h00 e 23h00 (dezoito e vinte e três horas).?
+
+Portanto, a exigência tem respaldo em lei. No momento da contratação, deverá haver a estipulação da data e do momento da entrega do produto.
+
+No fito de aplacar quaisquer dúvidas, o Tribunal de Justiça de São Paulo, por meio de seu Órgão Especial, no julgamento de Arguição de Inconstitucionalidade 0227995-87. 2012.8.26.0000, decidiu, por unanimidade, pela constitucionalidade da supracitada norma, conforme se denota da emenda abaixo transcrita: 
+
+?Ementa: Arguição de Inconstitucionalidade - Lei Estadual n° 13.747/09, que dispõe sobre a obrigatoriedade dos fornecedores de bens e serviços, sediados no Estado, de fixarem data e turno para as respectivas entrega ou realização para os consumidores - Alegada afronta ao disposto nos arts.  24, I e 170 caput e inciso IV, ambos da CF/88 - Legislação local que não padece de quaisquer dos vícios apontados - Arguição de inconstitucionalidade improcedente?. (TJSP, 0227995-87.2012.8.26.0000 Arguição de Inconstitucionalidade Relator(a): Alves Bevilacqua Comarca: São Paulo Órgão julgador: Órgão Especial Data do julgamento: 08/05/2013 Data de registro: 22/05/2013 Outros números: 02279958720128260000)  
+
+Tampouco há ilegalidade nas portarias do PROCON que regulamentam a matéria. Nesse sentido, o precedente do Tribunal de Justiça do Estado de São Paulo:
+
+?APELAÇÃO CÍVEL AÇÃO ANULATÓRIA. 1. Sanção administrativa. Remessa de cartões de crédito sem prévia autorização ou pedido de consumidor, além de boletos bancários para a cobrança, com ameaça de inscrição da dívida nos órgãos protetores do crédito. Infração ao disposto no artigo 39, incisos III e V, do Código de Defesa do Consumidor. Cartões de crédito enviados para endereço de terceiro e boletos bancários encaminhados para o endereço do consumidor - Processo administrativo regularmente instaurado e instruído pelo PROCON .Observância do princípio constitucional da ampla defesa - Incidência das Portarias Normativas nºs. 06, 16, 18, 23 e 26 do PROCON. Validade. Portarias que têm por finalidade conferir concretude e operabilidade à atividade do PROCON. Sanção legitimamente aplicada. Adoção de critérios objetivos delineados no cânone do artigo 57, caput e parágrafo único, do Código de Defesa do Consumidor, combinado com o artigo 28 do Decreto Federal nº. 2.181, de 20/03/97 (gravidade da infração, vantagem auferida e condição econômica do infrator) - Preservação dos princípios da proporcionalidade e da razoabilidade. Precedentes deste E. Tribunal. Manutenção da decisão. 2. Recurso não provido.? (TJSP, 0123684-22.2008.8.26.0053, Apelação, Relator(a): Osvaldo de Oliveira, Comarca: São Paulo, Órgão julgador: 12ª Câmara de Direito Público, Data do julgamento: 19/09/2012, Data de registro: 24/09/2012, Outros números: 1236842220088260053).
+
+No entanto, a demanda é parcialmente procedente.
+
+É procedente o argumento da autora de que a base de cálculo utilizada para a quantificação da sanção imposta não deve utilizar-se do faturamento bruto da matriz, mas sim do faturamento da filial responsável pelas vendas eletrônicas, procede, como adiante se verá.
+
+Assim, prescreve o decreto estadual 55.015/2009, que regulamenta a Lei nº 13.747, de 7 de outubro de 2009:
+
+?Artigo 4º - O fornecedor que não informar data e turno para entrega de produto ou para realização do serviço nos termos estabelecidos por este decreto, ou não cumprir a data e o turno ajustados, ficará sujeito às sanções previstas no artigo 56 da Lei federal nº 8.078, de 11 de setembro de 1990 - Código de Defesa do Consumidor, aplicáveis na forma de seus artigos 57 a 60?.
+
+No sentido de fixação do ?quantum?, prescreve o Código de Defesa do Consumidor:
+
+?Art. 57. A pena de multa, graduada de acordo com a gravidade da infração, a vantagem auferida e a condição econômica do fornecedor, será aplicada mediante procedimento administrativo, revertendo para o Fundo de que trata a Lei nº 7.347, de 24 de julho de 1985, os valores cabíveis à União, ou para os Fundos estaduais ou municipais de proteção ao consumidor nos demais casos. (Redação dada pela Lei nº 8.656, de 21.5.1993)
+Parágrafo único. A multa será em montante não inferior a duzentas e não superior a três milhões de vezes o valor da Unidade Fiscal de Referência (Ufir), ou índice equivalente que venha a substituí-lo. (Parágrafo acrescentado pela Lei nº 8.703, de 6.9.1993)?
+
+Foi editada a Portaria Normativa nº 26/2006 do PROCON que detalha em minúcias o cálculo da pena base. Há de se perceber, pelos excertos colacionados abaixo que o ato normativo trata de dividir a receita bruta do fornecedor entre os estabelecimentos onde se deu a infração consumerista. Senão vejamos:
+
+Art. 29. A fixação dos valores das multas nas infrações ao Código de Defesa do Consumidor (art. 57 da Lei n.º 8.078/90), dentro dos limites legais de 200 a 3.000.000 UFIRs, será feita de acordo com a gravidade da infração, vantagem auferida e condição econômica do fornecedor na forma da presente Portaria e seu anexo.
+ Parágrafo único. A dosimetria da pena de multa será feita em duas fases: na primeira, proceder-se-á à fixação da pena base que será calculada em função dos critérios definidos pelo art. 57 da Lei n.º 8.078/90; na segunda, serão consideradas as circunstâncias atenuantes e agravantes previstas no art. 34, incisos I e II, desta Portaria. (N.R.)
+(...)
+Art. 32. A condição econômica do infrator será aferida pela média de sua receita bruta, apurada preferencialmente com base nos 3 (três) meses anteriores à data da lavratura do auto de infração, podendo a mesma ser estimada pelo órgão.
+ (...)
+§ 3º A receita considerada será referente à do ESTABELECIMENTO onde ocorrer a infração, salvo nos casos de infrações que atinjam outros estabelecimentos do mesmo titular, caso em que suas receitas também deverão ser computadas.? (g.n.)
+
+Assim, no meu entendimento, a base de cálculo da multa é a receita bruta do estabelecimento e não da empresa como um todo. É a interpretação literal do disposto na Portaria Normativa nº 26/2006.
+
+Por fim, observo que também a multa imposta esbarra no princípio da razoabilidade, violando-o. Na verdade, ainda que considerando o poderio econômico da autora, a multa se mostra excessiva. Nesse sentido:
+
+?Ementa: I. Anulatória de ato administrativo e da penalidade imposta pelo PROCON. Auto de infração lavrado por descumprimento ao artigo 37, §1º do Código de Defesa do Consumidor Admissibilidade parcial II. Sanção - O Judiciário pode controlar os atos administrativos punitivos e o valor das multas aplicadas, mesmo considerando os conceitos usados na dicção legal que se referem à gravidade da infração, à vantagem auferida, à condição econômica do fornecedor do dano causado aos consumidores. Não se cuida de discricionariedade outorgada ao Órgão Administrativo para que aplique, a seu talante, a punição desejada dentro das balizas da Lei. III. Multa arbitrada em R$ 955.493,30 reduzida para R$ 200.000,00. A gradação da multa administrativa deve se pautar nos princípios da razoabilidade e proporcionalidade. IV. Sentença de improcedência. Recurso provido em parte, sucumbência recíproca." (TJSP, Relator(a): Guerrieri Rezende  Comarca: São Paulo Órgão julgador: 7ª Câmara de Direito Público Data do julgamento: 10/06/2013 Data de registro: 13/06/2013 Outros números: 239716920118260053)  
+
+O ato administrativo praticado pela Fundação de Proteção e Defesa do Consumidor é existente e válido, porém o valor formal da multa imposta não se encontra em perfeita sintonia com os princípios da proporcionalidade e razoabilidade, devendo ser reduzida.
+
+Não há dúvida de que a gravidade da infração e a vantagem auferida são indiscutíveis, mas os critérios pertinentes à condição econômica do fornecedor podem ser analisados pelo Julgador.
+
+A referida norma jurídica têm um conteúdo determinado, cujos núcleos da ?condição econômica do fornecedor? podem ser constatados judicialmente, sem que se adentre no campo do conteúdo mínimo subjetivo da discricionariedade.
+
+A vantagem auferida, a gravidade da infração e a condição econômica do fornecedor são requisitos cumulativos que devem ser apreciados pela autoridade administrativa ao proceder à constatação e imposição da multa administrativa.
+
+Não há dúvida de que a multa deve ter um caráter preventivo para obstar o transgressor na prática de outros atos ilícitos e deve ter também um caráter repressivo para que o sancionado se intimide na reincidência da prática de atos ilícitos. No entanto, o montante arbitrado afigura-se excessivo, devendo ser reduzido para adequar-se aos princípios da razoabilidade e da proporcionalidade.
+
+De rigor, então, a redução da multa que se dará nos exatos termos da Portaria nº 26/2006 do Procon, que em seu art. 33, dispõe:
+
+?Art. 33. A dosimetria da pena de multa será definida através da fórmula abaixo, a qual determinará a Pena Base:
+"PE + (REC.0,01) . (NAT) . (VAN) = PENA BASE"
+Onde:
+PE - definido pelo porte econômico da empresa;
+REC - é o valor da receita bruta;
+NAT - representa o enquadramento do grupo da gravidade da infração (Natureza);
+VAN - refere-se à vantagem.
+§ 1° O porte econômico da empresa será determinado em razão de sua receita e obedecerá aos critérios de classificação para arrecadação fiscal, recebendo um fator fixo, a saber:
+a) Micro Empresa = 220;
+b) Pequena Empresa = 440;
+c) Médio Porte = 1000;
+d) Grande Porte = 5000.
+§ 2º O elemento REC será a receita bruta da empresa, aplicando-se um fator de correção de curva progressivo quando superior a R$ 120.000,00 (cento e vinte mil reais), assim
+determinado:
+REC = [(VALOR DA RECEITA ? R$ 120.000,00) x 0,10] + R$ 120.000,00
+§ 3° O fator Natureza será igual ao grupo do enquadramento da prática infrativa classificada no Anexo I.
+§ 4º A Vantagem receberá o fator abaixo relacionado, determinado pela vantagem com a prática infrativa:
+a) Vantagem não apurada ou não auferida = 1
+b) Vantagem apurada = 2?
+
+É de se notar que todos os dados necessários para solução da operação aritmética encontram-se comprovados nos autos. Por tal razão, inclusive, indeferiu-se produção de prova pericial. Assim, segue cálculo da multa a ser imputada à autora: 
+
+PE + (REC.0,01) . (NAT) . (VAN) = PENA BASE, onde:
+
+?PE é definido pelo porte econômico da empresa: 5000 (art. 33, §1º, ?d?, Portaria 26/2006 do Procon).
+?REC é o valor da receita bruta: média aritmética das receitas brutas dos últimos três meses ? julho, agosto e setembro de 2010 (fls. 33) ? do estabelecimento de ?e-commerce?: art. 32 ?caput? e § 3º, com dados de fls. 149/168 ? faturamento e balancetes daqueles meses. Assim, utilizando do valor da receita operacional bruta, conforme documentos de fls. 156, 161 e 166, a média é de 4.000.845,36 (vide receitas operacional bruta). No entanto, nos termos do art. 33, § 2º § 2º é necessário aplicar-se um fator de correção de curva progressivo quando o montante for superior a R$ 120.000,00 assim determinado: REC = [(VALOR DA RECEITA ? R$ 120.000,00) x 0,10] + R$ 120.000,00. Assim, o REC a ser aplicado é de R$ 508.084,536.
+?NAT representa o enquadramento do grupo da gravidade da infração (natureza): 3 (vide fls. 33).
+?VAN refere-se à vantagem: 1 (art. 33, §4º, ?a?, c/c art. 31, inc. I da Portaria 26/2006 do Procon).
+
+5000 + (508.084,536 . 0,01) . 3 . 1 = 
+5000 + 5.080,84536 . 3 . 1 =
+5000 + 15.242,5361 = R$ 20.242,5361
+
+No entanto, há nos autos indícios de circunstância agravante (fls. 74), com aumento de 1/3 da pena-base, por ser a autora reincidente na prática de infrações às normas da Lei nº 8078/90, e nos termos do art. 34, inc. II, ?a? da supracitada portaria. Assim, totaliza a multa a ser aplicada em R$ 26.999,04.
+
+Diante do exposto, JULGO PROCEDENTE EM PARTE a demanda. RESOLVO o mérito, nos termos do artigo 269, I, do Código de Processo Civil.
+
+REDUZO a multa aplicada pelo Procon para o montante de R$ 26.999,04, sendo que os acréscimos legais incidirão sobre este valor, desde o lançamento. 
+
+No trânsito em julgado desta decisão, EXPEÇA-SE alvará de levantamento em favor da autora do depósito de fl. 189 e 193. O réu terá direito ao levantamento somente no valor do auto de infração já retificado conforme esta decisão.
+
+CONDENO a ré a arcar com as despesas processuais. A sucumbência do autor é muito menor do que o do réu. FIXO os honorários advocatícios em favor do autor em R$ 4.500,00, nos termos do art. 21, parágrafo único, do Código de Processo Civil.
+ 
+Publique-se. Registre-se. Intimem-se.
+
+São Paulo, 19 de julho de 2013.
+
+THIAGO MASSAO CORTIZO TERAOKA
+JUIZ DE DIREITO
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

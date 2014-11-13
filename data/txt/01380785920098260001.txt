@@ -1,0 +1,58 @@
+
+
+SENTENÇA
+
+Processo nº:0138078-59.2009.8.26.0001 - Procedimento Ordinário
+Requerente:Adriana Magalhaes do Nascimento
+Requerido:Banco Itau S/A e outro
+
+
+Juiz de Direito Dr.: Elói Estevão Troly
+
+
+
+VISTOS ETC... 
+I 
+Trata-se de ação proposta consoante o rito ordinário baseada na alegação de que a corré NETWORK emitira e protestara, indevidamente, Letra de Câmbio , segundo informações depois obtidas, para cobrança de cheque sacado contra o corréu BANCO ITAÚ em 1998. A autora salientou que nunca mantivera conta corrente nessa instituição financeira e, considerando a anotação restritiva na SERASA, pleiteou a condenação dos réus, solidariamente, à indenização do dano moral por ela sofrido no valor equivalente a 100 salários mínimos; protestou por outras provas e instruiu a petição inicial com documentos.
+Deferiu-se liminar para exclusão da anotação restritiva na SERASA, bem como foi concedida assistência judiciária gratuita à autora.
+Os réus foram citados e ofereceram contestações independentes.
+A NETWORK ASSESSORIA E SERVIÇOS EMPRESARIAIS LTDA aduziu que, na qualidade de cessionária do cheque devolvido sem fundos, emitiu a letra de câmbio e promoveu o regular protesto, sem causar dano algum; enquanto a autora nada providenciou para evitar o protesto (fls. 35/41).
+O BANCO ITAÚ S.A.  arguiu, preliminarmente, sua ilegitimidade ad causam passiva, porque não apresentara a letra de câmbio a protesto nem tivera relação alguma com este título em face do que, também no mérito, reafirmou que não praticara ato ilícito algum e não tem responsabilidade por qualquer indenização (fls. 68/72).
+Na réplica, a autora reconheceu a ilegitimidade passiva do Banco Itaú e refutou as alegações da corré NETWORK (fls. 79/81).
+Por fim, instadas, as partes não especificaram outras provas.
+É O RELATÓRIO 
+DECIDO 
+II 
+Impõe-se, in casu, o julgamento antecipado da lide, com fundamento no artigo 330, inciso I, do Código de Processo Civil, porquanto versa sobre matéria de direito e acerca de fatos cuja demonstração independe de outras provas.
+Da ilegitimidade passiva do Banco réu
+Inicialmente, deve-se admitir a ilegitimidade ad causam do corréu BANCO ITAÚ (admitida pela própria autora), porque ele não emitiu nem apresentou ou participou da circulação da letra de câmbio protestada. Apenas figurara, anteriormente, como sacado do cheque emitido pela autora. Nenhuma responsabilidade teria pela consequência do protesto narrado na petição inicial.
+No mérito, a ação é procedente.
+A emissão da letra de câmbio para cobrança de cheque sem fundos (objeto de cessão de crédito) é, em tese, lícita,  porque aquele título é "(...) um título de crédito formal, que contém uma ordem de pagamento. Sem dúvida representa o mais perfeito título de crédito, sendo abstrato, pois em princípio não se vincula à causa que lhe deu origem"   , conforme a lição de RUBENS REQUIÃO (Curso de Direito Comercial, Editora Saraiva, 23ª Edição, 2º Volume, p. 391).
+Independentemente disso, a cópia de fl. 51 comprova que o cheque fora emitido anteriormente pela autora, como ela também reconhece em sua réplica.
+Entretanto, como se trata de título formal, a letra de câmbio deve especificar o local de pagamento.
+No caso, em razão da natureza do crédito cedido (cheque sem fundos emitido nesta cidade de São Paulo), a ré abusou do seu direito de cobrança ao indicar o local de pagamento da letra de câmbio na cidade de Barra do Piraí (RJ)  -- fl. 51 --, uma vez que isto, de fato, dificultou a ciência do apontamento do protesto pela autora, residente e domiciliada nesta Capital.
+O abuso no exercício do direito constitui ato equiparável ao ilícito, portanto, passível de causar dano, por força do que dispõe o artigo 187, do Código Civil:
+Art. 187. Também comete ato ilícito o titular de um direito que, ao exercê-lo, excede manifestamente os limites impostos pelo seu fim econômico ou social, pela boa-fé ou pelos bons costumes.
+
+A simples anotação do nome em serviço de proteção ao crédito, sem motivo real, implica conduta ofensiva, considerando a potencialidade do prejuízo inerente ao sistema informatizado de dados.
+A ré reconhece o erro, ? que denomina falha do sistema adotado para cancelamento de restrições ao crédito, ? o que, na verdade decorreu de sua negligência, ou seja, da falta de observância do dever objetivo de cuidado quanto ao cadastro e exclusão de anotações a respeito da autora. Houve culpa geradora da obrigação de indenizar o conseqüente dano, independentemente de intenção de seus prepostos e empregados, ou do grau de intensidade da negligência.
+Portanto, no caso, a ofensa à honra da autora (reputação e idoneidade dela enquanto consumidora e com direito a crédito em seus negócios), decorrente daquela anotação indevida no órgão de proteção ao crédito ? o nexo de causalidade é indiscutível, ? impõe o reconhecimento do dano moral, que independe de demonstração de prejuízos para ser indenizado, conforme tem reafirmado a jurisprudência:
+"`O ressarcimento do dano moral é inteiramente cabível, ainda porque albergado na nova Constituição da República, e porque, em rigor, encontra guarida na própria regra geral consagrada no art. 159 do Código Civil. Na espécie, foram atingidos direitos integrantes da personalidade do apelante, tendo ocorrido o `sofrimento humano', que rende ensejo à obrigação de indenizar. Patente a ofensa não só à integridade física, como também ao sentimento de auto-estima da vítima, também  merecedor da tutela jurídica. Concretiza-se, em resumo, a hipótese de ofensa a um direito, ainda que dela não decorrido prejuízo material'" (TJSP, 7ª C., Ap.., Rel. Campos Mello - J. 30.10.91; RJTJESP 137/186).
+"A Constituição da República é expressa no garantir a indenizabilidade da lesão moral, independente de estar ou não, associado o dano ao patrimônio físico" (TJSP, 2ª C., Ap., Rel. Cezar Peluso, j. 29.9.92; JTJ-LEX 142/95).
+"RESPONSABILIDADE CIVIL - Indenização - Dano moral - Desnecessidade da prova dos prejuízos, desde que presentes o nexo de causalidade e culpa - Verba devida (RT 746/183). 
+
+No caso, levando-se em conta a situação econômica da ofensora (sem demonstração de grande porte) e a reduzida intensidade da ilicitude,  a indenização deve ser fixada em R$ 5.000,00. 
+A correção monetária deve incidir a partir desta sentença, e os juros os moratórios, a contar da data do fato danoso, -- data do protesto --, nos termos do entendimento cristalizado pela Súmula 54, do Superior Tribunal de Justiça. 
+O parâmetro indicado pela autora (cem salários mínimos) não pode ser adotado, no presente caso, tendo em vista a inexistência de correspondência precisa e específica entre tal valor e o dano moral, imensurável pecuniariamente pela própria natureza. A indenização, nesta esfera, não repõe nem repara absolutamente o sofrimento, a ofensa à honra e à dignidade da pessoa; ao contrário, constitui espécie de compensação, para rebater, em outras palavras, para aliviar aquela sensação maléfica. Daí porque, se não pode ser ínfima, também não deve servir de meio para obtenção de quantia excessiva, que extrapola os princípios da eqüidade.
+Por fim, cumpre salientar que a autora apenas postulara indenização por dano moral e não a declaração de inexigibilidade do débito. Assim, remanesce a possibilidade de a ré cobra-lo mediante ação adequada, porém sem os efeitos do protesto, o qual, por consequência do abuso cometido, deve ser cancelado.
+III 
+DIANTE DO EXPOSTO e do mais que dos autos consta, mantenho a liminar e JULGO PROCEDENTE A PRESENTE AÇÃO, para:
+A) excluir do polo passivo o BANCO ITAÚ S.A. , por ilegitimidade ad causam, com fundamento no artigo 267, inciso VI, do Código de Processo Civil. Imponho à autora os honorários do advogado desse excluído, arbitrados em R$ 800,00 (oitocentos reais), nos termos do artigo 24, § 4º, do mesmo Código; mas, por ser beneficiária da assistência judiciária gratuita, somente efetuará o pagamento das verbas de sucumbência se sobrevier a condição prevista no artigo 12, da Lei 1.060/50.
+B)  JULGAR PROCEDENTE A PRESENTE AÇÃO para condenar a ré A NETWORK ASSESSORIA E SERVIÇOS EMPRESARIAIS LTDA a pagar à autora indenização por dano moral, no valor de R$ 5.000,00 (cinco mil reais), acrescido de correção monetária, a contar desta data, e de juros moratórios de 1% ao mês, a partir do fato danoso (data do protesto de fl. 13), bem como para manter a liminar (exclusão de anotação na SERASA) e cancelar o protesto da letra de câmbio especificada na petição inicial. Outrossim, a ré sucumbente arcará com o pagamento das despesas processuais e dos honorários advocatícios, que arbitro em 15% do valor da condenação (artigo 20, parágrafo 3º, do Código de Processo Civil). Se não houver pagamento espontâneo no prazo de quinze dias, a contar automaticamente do trânsito em julgado desta sentença, o débito ficará sujeito à multa de 10%, com fundamento no artigo 475-J, do Código de Processo Civil.
+P.R.I.
+
+ São Paulo, 18 de janeiro de 2011.
+
+(assinatura digital)
+Elói Estevão Troly
+Juiz de Direito

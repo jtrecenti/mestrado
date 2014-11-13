@@ -1,0 +1,74 @@
+
+
+SENTENÇA
+
+Processo nº:0217423-34.2010.8.26.0100
+Classe ? Assunto:Procedimento Sumário - Assunto Principal do Processo > 
+Requerente:Salanite Bispo Santos
+Requerido:Banco Bfb Leasing Arrend Mervcantil Banco Itau Bba S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Marcelo Augusto Oliveira
+
+
+
+
+Vistos.
+SALANITE MARIA BISPO SANTOS move a presente ação revisional de cláusulas contratuais c/c pedido de tutela antecipada e consignação em pagamento em face de BANCO BFB LEASING S/A, alegando, em síntese, que celebrou contrato de arrendamento mercantil para pagamento em 60 prestações mensais, todavia diante de dificuldades financeiras refinanciou o débito. Afirma que o contrato contém cláusulas abusivas, que incluem encargos ilegais como juros abusivos, anatocismo, cobrança de comissão de permanência, existência de clausula-mandato, conferindo vantagem exagerada ao requerido. Sustenta a incidência da legislação consumerista. Pede finalmente que seja o contrato revisto, extinguindo-se os encargos ilegais, aplicando o método de cálculo Gauss e finalmente indenização pelos danos morais.
+O pedido de tutela antecipada e consignação em pagamento foram indeferidos (fls. 75). O autor interpôs recurso de agravo de instrumento (fls. 78/102), que teve parcial provimento (fls. 188/191).
+Ação contestada, aduziu a requerida que não existem cláusulas ilegais no contrato, já que os juros foram cobrados de acordo com as taxas devidas, sendo a capitalização totalmente permitida. Alega que os valores depositados pelo autor não correspondem ao pactuado, sendo incabível a consignação em pagamento daquele que está em mora. Argumenta não existir direito à repetição de indébito, tendo em vista que não existem valores pagos em excesso, e pede finalmente a improcedência da ação. Na oportunidade, apresentou o instrumento firmado entre as partes.
+Réplica às fls. 249/271, alegando que em outra ação foi determinada a reintegração de posse do bem e consequentemente sua venda em leilão. Dessa forma, pede a devolução dos valores pagos à título de VRG, devolução de valores cobrados à título de despesas e indenização por danos morais.
+É o relatório.
+Passo a decidir.
+Não havendo necessidade de produção probatória, passo a julgar antecipadamente a lide.
+Inicialmente, cumpre salientar que inexiste conexão entre ação de reintegração de posse e ação revisional, visto que não há coincidência entre as causas de pedir e os pedidos das aludidas demandas, nos termos do artigo 103 do Código de Processo Civil.
+Nesse aspecto, já ficou decidido:
+?ARRENDAMENTO MERCANTIL - REINTEGRAÇÃO DE POSSE - CONEXÃO COM AÇÃO DE REVISÃO CONTRATUAL - INEXISTÊNCIA AUSÊNCIA DE IDENTIDADE ENTRE O OBJETO OU A CAUSA DE PEDIR - SENTENÇA MANTIDA - APELO DO RÉU IMPROVIDO. (TJSP - Apelação nº 0001387- 23.2012.8.26.0554, 35ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo ? Rel. Mendes Gomes, j. 28 de janeiro de 2013, v.u.).
+Ademais, cumpre esclarecer à autora que nos termos do artigo 264 do diploma processual é defeso alterar ou mesmo inovar o pedido após a citação. Portanto inadmissíveis os pedidos formulados em réplica. 
+No mérito, a ação é improcedente.
+O contrato a ser revisto é o de fls. 239/243. Nele foi prevista a incidência de juros de 1,94% ao mês, com taxa anual de 26,39%.
+A cobrança de juros acima do limite de 12% ao ano decorre de expressa previsão contratual, não havendo, neste singelo aspecto, qualquer nulidade.
+O contrato foi firmado em dezembro de 2008, quando já estava em vigor a atual redação do art. 192, par. 3º, da Constituição Federal, trazida com a Emenda 40/03, de sorte que não existe qualquer limitação da cobrança de juros.
+No que tange à capitalização dos juros, a autora pretende que se considere ilegal esta prática. 
+Foi prevista no contrato a incidência de juros realmente de forma capitalizada, uma vez que o custo efetivo dos juros ficou em 26,39% ao ano. 
+Todavia não há qualquer ilegalidade neste aspecto.
+Isto porque nos contratos de mútuo bancário celebrados a partir de 31 de março de 2000, é possível a capitalização de juros.
+Com efeito, a Medida Provisória nº 1963-17/2000, editada na data supra referida, que permitiu a capitalização de juros em contratos de mútuo bancário, veio a ser reeditada por outra Medida Provisória, a de nº 2170-36/2001, que foi perenizada pelo artigo 2º, da Emenda Constitucional nº 32/2001.
+Nesse aspecto, persuade-me a jurisprudência:
+?CIVIL. MÚTUO. INSTITUIÇÃO BANCÁRIA. SISTEMA FINANCEIRO NACIONAL. JUROS REMUNERATÓRIOS. LIMITAÇÃO. 12% AO ANO. IMPOSSIBILIDADE. CAPITALIZAÇÃO. PERIODICIDADE MENSAL. MEDIDA PROVISÓRIA Nº 2.170-36/2001. INCIDÊNCIA. 
+
+1 - O STJ, quanto aos juros remuneratórios, tem entendimento assente no sentido de que, com a edição da Lei 4.595/64, não se aplicam as limitações fixadas pelo Decreto 22.626/33, de 12% ao ano, aos contratos celebrados com instituições integrantes do Sistema Financeiro Nacional, ut súmula 596/STF, salvo nas hipóteses previstas em legislação específica.
+2 - Aos contratos de mútuo bancário, celebrados a partir de 31 de março de 2000, data da primitiva publicação do art. 5º da MP nº 1.963-17/2000, atualmente reeditada sob o nº 2.170-36/2001, incide a capitalização mensal, desde que pactuada. A perenização da sua vigência deve-se ao art. 2º da Emenda Constitucional nº 32, de 12 de setembro de 2001.
+3 - Recurso especial não conhecido.?
+(STJ - RESP 629487 / RS; Recurso Especial2004/0022103-8 ? Ministro Fernando Gonçalves ? 4ª Turma ? data do julgamento 22/06/2004).
+E ainda mais recentemente:
+?CONTRATO BANCÁRIO. REVISIONAL. ALIENAÇÃO FIDUCIÁRIA. PACTUAÇÃO DA CAPITALIZAÇÃO MENSAL DOS JUROS. DIFERENÇA ENTRE TAXAS DE JUROS MENSAL E ANUAL. A PREVISÃO DE TAXA ANUAL DOS JUROS SUPERIOR À TAXA MENSAL, MULTIPLICADA POR DOZE, CONFIGURA A PACTUAÇÃO DA CAPITALIZAÇÃO MENSAL.
+1. A 2ª Seção deste Tribunal Superior já firmou posicionamento pela possibilidade da cobrança da capitalização mensal dos juros, desde que atendidos os requisitos de existência de previsão contratual expressa da capitalização com periodicidade inferior a um ano e que tenha sido o contrato firmado após 31/03/2000, data da primeira edição desta MP, então sob o nº 1963-17. Precedentes.
+2. Capitalização mensal dos juros: "A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada". 
+3. Recurso especial não provido.? 
+(REsp973827/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Rel. p/ Acórdão Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 08/08/2012, DJe 24/09/2012).
+?CIVIL E PROCESSUAL. RECURSO ESPECIAL REPETITIVO. AÇÕES REVISIONAL E DE BUSCA E APREENSÃO CONVERTIDA EM DEPÓSITO. CONTRATO DE FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. CAPITALIZAÇÃO DE JUROS. JUROS COMPOSTOS. DECRETO 22.626/1933 MEDIDA PROVISÓRIA 2.170-36/2001. COMISSÃO DE PERMANÊNCIA. MORA. CARACTERIZAÇÃO.
+1. A capitalização de juros vedada pelo Decreto 22.626/1933 (Lei de Usura) em intervalo inferior a um ano e permitida pela Medida Provisória 2.170-36/2001, desde que expressamente pactuada, tem por pressuposto a circunstância de os juros devidos e já vencidos serem, periodicamente, incorporados ao valor principal. Os juros não pagos são incorporados ao capital e sobre eles passam a incidir novos juros.
+2. Por outro lado, há os conceitos abstratos, de matemática financeira, de "taxa de juros simples" e "taxa de juros compostos", métodos usados na formação da taxa de juros contratada, prévios ao início do cumprimento do contrato. A mera circunstância de estar pactuada taxa efetiva e taxa nominal de juros não implica capitalização de juros, mas apenas processo de formação da taxa de juros pelo método composto, o que não é proibido pelo Decreto 22.626/1933.
+3. Teses para os efeitos do art. 543-C do CPC:
+- "É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001),desde que expressamente pactuada."
+- "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada".
+4. Segundo o entendimento pacificado na 2ª Seção, a comissão de permanência não pode ser cumulada com quaisquer outros encargos remuneratórios ou moratórios.
+5. É lícita a cobrança dos encargos da mora quando caracterizado o estado de inadimplência, que decorre da falta de demonstração da abusividade das cláusulas contratuais questionadas.
+6. Recurso especial conhecido em parte e, nessa extensão, provido.? 
+(REsp 973827 / RS. RECURSO ESPECIAL 2007/0179072-3.Relator Ministro Luis Felipe Salomão. Órgão Julgador Segunda Seção, Superior Tribunal de Justiça, julgado em 08.08.2012, DJe 24.09.2012.
+
+Alega a autora, ainda, a incidência de comissão de permanência. No entanto, ela não apontou, no contrato firmado, onde houve tal previsão. E ao analisar o contrato de fls. 239/242, verifico que realmente não houve a estipulação do encargo, tratando-se, pois, de alegação totalmente genérica. 
+
+Ademais, a argumentação sobre a nulidade da cláusula-mandato também foi feita de maneira genérica na exordial, não devendo prosperar. A autora reconhece que refinanciou sua dívida e repactuou as taxas, comissões e encargos. E, por sua vez, o requerido apresentou as taxas de maneira pré-fixadas, lembrando que não há qualquer limitação de juros.
+
+Pede a autora, ainda, a aplicação do método Gauss de cálculo. No entanto, não há qualquer elemento nos autos capaz de alterar o pactuado no contrato, ficando afastada tal pretensão. 
+Por fim, quanto aos danos morais reclamados, como não houve qualquer comportamento ilícito, são totalmente descabidos.
+
+Posto isto, JULGO IMPROCEDENTE a presente ação, ficando revogada a providência liminar alcançada pela autora.
+Em razão da sucumbência condeno a autora a arcar com o pagamento de custas, despesas processuais e honorários advocatícios, que fixo em R$ 2.000,00, ficando a exigibilidade destas verbas suspensa por ser beneficiária de Justiça Gratuita.
+P.R.I.C.
+
+São Paulo, 07 de fevereiro de 2013.

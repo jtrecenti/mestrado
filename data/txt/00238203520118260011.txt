@@ -1,0 +1,63 @@
+
+
+SENTENÇA
+C O N C L U S Ã O
+
+Em 24 de setembro de 2012, faço estes autos conclusos ao MM. Juiz de Direito da 4ª Vara Cível do Foro Regional de Pinheiros, Dr. Paulo Jorge Scartezzini Guimarães.  Eu, ___________, escr.
+
+Processo nº:0023820-35.2011.8.26.0011 - Procedimento Ordinário
+Requerente:João Amadeu Ferraro
+Requerido:Sulamerica Cia de Seguro Saude
+
+
+
+Juiz(a) de Direito: Dr(a). Paulo Jorge Scartezzini Guimarães
+
+
+Vistos.
+
+JOÃO AMADEU FERRARO, devidamente qualificado nos autos, propôs a presente Ação de Obrigação de Fazer, cumulada com Indenização por Danos Materiais contra SUL AMÉRICA SEGURO SAÚDE S/A alegando, em síntese, que aderiu ao Plano de Saúde da ré e que após anos de cobertura descobriu que é portador de Linfoma não-Hodgkin. Alega que para o seu tratamento realizou os exames de PET/CT e imunohistoquímica, assim como necessitou de várias consultas médicas, que não foram reembolsadas. Alega ter sido parcialmente ressarcido com valores irrisórios e ainda que houve recusa na liberação do medicamento Emend, essencial para o tratamento da doença que o acomete.
+Foram juntados documentos às fls. 38/121.
+A tutela antecipada foi deferida fl. 122.
+Citada, a ré apresentou Contestação alegando que o Hospital Sírio Libanês não faz parte da rede referenciada da Sul América Seguro Saúde e, por isso, caso o autor quisesse realizar o tratamento naquele hospital específico, só seria reembolsado de acordo com o contrato estabelecido entre as partes, não sendo possível para o plano cobrir a integralidade das custas do tratamento. 
+Quanto ao exame PET/CT afirma que referido procedimento não pode ser custeado por ela, já que pela cláusula 9ª do contrato firmado, a seguradora só estaria obrigada a cobrir procedimentos listados em sua tabela e no Rol da ANS. Assim, alega que no referido rol seria obrigatória a cobertura do exame PET SCAN somente em casos de ?câncer pulmonar de células não pequenas (caracterização das lesões, estadiamento) e também a linfomas (estadiamento, avaliação terapêutica e monitoramento da recidiva)? (fl.162). 
+A ré também alega que de acordo com a ANS seria obrigatória a cobertura de medicamentos apenas durante a internação hospitalar e no caso de quimioterapia oncológica ambulatorial. Diz que não está no contrato o oferecimento de medicamento de uso domiciliar, situação no qual o EMEND se encaixa, conforme a Resolução Normativa 167 da ANS. Desta forma, não estaria obrigada a reembolsar os gastos do autor em relação aos medicamentos EMEND e REVLIMID. 
+Houve réplica (fls.189/207).
+É o Relatório. Fundamento e Decido.
+A lide comporta julgamento antecipado não havendo necessidade de outras provas para o deslinde da questão.
+Reconhece este juízo que a relação entre segurado e segurador é tutelada pelo direito do consumidor. No presente caso pode ser vislumbrada, além da verossimilhança do pedido, a hipossuficiência técnica do autor em relação à empresa ré, de modo que necessária a inversão do ônus da prova.
+A defesa da ré se mostra genérica e abstrata, citando fatos que não tem qualquer relação com a petição inicial do autor. Em nenhum momento, o requerente afirma que tem câncer de mama ou requer reembolso do medicamento REVLIMID.
+Inicialmente, passemos o exame da cláusula contratual invocada pela ré com o fim de se eximir da cobertura do exame PET/CT. 
+A ré sustenta que o contrato veda a cobertura de exames não abrangidos pela Tabela Sul América Saúde ou da Tabela da ANS, contudo, em que pese os argumentos declinados, razão não lhe assiste.
+ Além do exame solicitado estar contido na tabela da ANS, o que pode ser comprovado pela análise do site http://www.ans.gov.br/images/stories/ Plano_de_saude_e_Operadoras/Area_do_consumidor/consulta_rol_de_procedimentos.pdf , a própria ré afirma que em caso de linfomas, exatamente a situação do autor, o exame PET SCAN é procedimento obrigatório de cobertura de plano de saúde (fl. 162).
+ Mesmo que não constasse no rol do ANS, a súmula 96 do Tribunal de Justiça de São Paulo firmou recentemente o entendimento de que ?havendo expressa indicação médica de exames associados a enfermidade coberta pelo contrato, não prevalece a negativa de cobertura do procedimento?.
+Como o Linfoma não-Hodgkin está coberto pela seguradora, mostra-se abusivo o comportamento da ré.
+A respeito do tema, confira-se trecho de recente acórdão proferido nos autos de Apelação julgado pela 6ª Câmara de Direito Privado do TJSO: 
+?PLANO DE SAÚDE. EXAME PET/CT/SCAN QUE DEVE SER CUSTEADO PELO PLANO. 1- A recusa da ré em custear o exame é abusiva, violadora do direito do consumidor. 2- No caso, referido exame (PET/CT/SCAN) é necessário para verificar tanto a evolução da doença como para decidir o tratamento mais eficaz a ser realizado. Súmula 96 do TJSP. 3- Se não há restrição quanto à doença, não é legal, tampouco lógica a recusa na cobertura do exame. 4- A interpretação das cláusulas contratuais devem ser feitas em prol do contratante, a fim de garantir sua saúde (art. 47, do CDC). 5- Sentença mantida. 6- Apelação da ré não provida (Apelação nº 0072879-08.2010.8.26.0114, Rel. Alexandre Lazzarini, 6ª Câmara de Direito Privado, j. 22/03/2012)?.
+Relativamente ao medicamento EMEND, resta incontroverso ser de fundamental importância para o tratamento do autor.
+Levando em consideração que o tratamento quimioterápico em questão é coberto contratualmente, não haveria sentido em se excluir o medicamento em cláusula separada apenas por não ser ministrado em ambiente hospitalar. Tal exclusão seria abusiva e causaria enorme dano à segurada. 
+Neste sentido já se posicionou o STJ conforme se verifica no voto do Ilmo. Min. Massami Uyeda: 
+?Reconhecido que o contrato de plano de saúde entabulado entre as partes prevê a cobertura do tratamento de quimioterapia, tem-se revestir-se de manifesta abusividade, por frustrar inequivocamente o objeto do contrato, a cláusula contratual que exclui da cobertura os medicamentos a esse tratamento correlato, tão somente pelo fato destes serem ministrados em ambiente domiciliar. Isso porque, os medicamentos que, como visto, também se encontram inseridos na cobertura contratada, não podem ser, de forma alguma, dissociados de todo o procedimento clínico.? (AgRg no Agn.° 1.137.474, STJ 18/02/10)
+Também neste sentido cito votos do TJSP ao tratar de caso idêntico, inclusive sobre o mesmo medicamento:
+?PLANO DE SAÚDE - Exclusão de cobertura para medicamento de uso domiciliar em tratamento de quimioterapia oral - Descabimento - Afronta ao objetivo do contrato, que é a preservação da saúde - Presença, ademais, de cláusula genérica de cobertura para tratamento de quimioterapia, cuja interpretação deve ser favorável ao consumidor - Recurso desprovido? (TJSP, ap.0193612-16.2008.8.26.0100, Rel. Sebastião Carlos Garcia, 6ª Câmara de Direito Privado, j. 01/06/2011) 
+Em relação à limitação ao reembolso médico há, sem dúvida, cláusula contratual neste sentido (Cláusulas 10 e 11 do Contrato ? fls. 51/52), isso quando o segurado não se utiliza dos médicos credenciados pela seguradora.
+ Todavia essa cláusula, da forma como redigida, não respeita o art. 46 do Código de Defesa do Consumidor já que apresenta fórmula para a definição do valor de reembolso extremamente confusa, sem a menor possibilidade de compreensão.
+Lamentável a defesa e as manifestações posteriores da ré, que nada elucidam, muito pelo contrário, se limitam a informar os valores pagos, sem qualquer justificação. 
+ É verdade que se o segurado solicita, antes do uso médico, a informação sobre o valor a ser restituído, a seguradora lhe dá pronta resposta. Todavia, a pergunta que fica é: o valor oferecido está correto? Como se chegou a ele?
+ Sequer disponibiliza a ré em seu sítio eletrônico ou através de serviço de atendimento ao cliente (via telefone) esclarecimento suficiente sobre essa fórmula. Atente-se que em contato telefônico é dito apenas quais são os documentos necessários para a apuração do reembolso, cujo valor será calculado por uma auditoria interna.
+ Lembremos ainda que um dos itens que compõe a fórmula, a chamada US, por si só, é de dificílima compreensão, ficando, na prática, quase a critério da seguradora a definição de seu valor.
+ Patente que tal situação, infelizmente já há muito tempo usada, viola o princípio da transparência e da válida informação. Portanto, nula a cláusula de limitação de reembolso.
+ Neste sentido:
+?(...) Cláusula contratual relativa a reembolso de honorários médicos confusa. Opera-se a interpretação mais favorável ao consumidor. Dever da operadora de plano de saúde arcar com a integralidade do valor despendido pelo segurado reconhecido? (Terceira Turma Recursal Cível do TJRS, Recurso inominado, nº 71002159556, Comarca de Porto Alegre).
+No mesmo sentido: (Recurso inominado nº 71001381698, Primeira Turma Recursal Cível, Comarca de Porto Alegre; TJRS, Ap nº 70017544883, Sexta Câmara Cível, Comarca Cachoeirinha; TJRS, Ap nº 70015412802, Quinta Câmara cível, Comarca de Porto Alegre).
+ Por último, era ônus da ré comprovar não ter o autor realizado as diligências complementares necessárias para o reembolso relativo aos honorários médicos do oncologista (Dr. Sérgio Daniel Simon), bem como dos exames de imunohistoquímica e dos materiais para o exame de eco endoscopia, de modo que o reembolso integral é medida de rigor.
+ Com base no que acima afirmado, tem a ré o dever de restituir integralmente também os valores desembolsados pelos autores com os honorários médicos. 
+ Isto posto, JULGO PROCEDENTE a presente ação para condenar a ré a reembolsar o autor todos os valores referente às despesas com o medicamento EMEND, as despesas com o exame PET-CT, bem como honorários médicos não reembolsados (valor total original de R$ 31.308,43), devidamente corrigidos a contar do desembolso e com juros moratórios a contar da citação. Condeno ainda a seguradora a arcar com as custas, despesas e honorários advocatícios que fixo em 20% do valor total da condenação.
+P.R.I.*
+
+ São Paulo, 24 de setembro de 2012.
+
+D A T A 
+
+Em 24 de setembro de 2012, recebi estes autos em Cartório.
+Eu, _____(*), escr.

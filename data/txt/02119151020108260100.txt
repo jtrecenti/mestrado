@@ -1,0 +1,53 @@
+
+
+SENTENÇA
+
+Processo nº:0211915-10.2010.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Compensação
+Requerente:Hamilton Sessin e outros
+Requerido:Google Brasil Internet Ltda
+
+
+Juiz(a) de Direito: Dr(a). Vincenzo Bruno Formica Filho
+
+
+Vistos, etc.
+
+Hamilton Sessin, José Sessin Filho, Élcio Sessin e Três Marias indústrias e comércio ltda. propôs demanda condenatória de obrigação de fazer contra Google Brasil internet Ltda.
+Afirma terem sido objeto de injúrias e difamações pela internet. Sustenta que os provedores em que hospedados esses sites difamatórios são muitos e sediados em diversos lugares, o que impossibilita a litigância contra eles. O réu, por meio de seu provedor de buscas, pode eficazmente impedir a divulgação e propagação desses sites. Pede a condenação do réu a impedir a divulgação e propagação dos sites difamatórios em sua página de pesquisa (fls.2/9).
+A antecipação dos efeitos da tutela jurisdicional foi indeferida (fls.31).
+A ré oferece resposta, alegando ser somente um provedor de pesquisa e não ser responsável pelo conteúdo das informações disponíveis na internet. Aduz não ser possível a exclusão prévia de resultados de pesquisa, pois uma simples alteração no endereço da página contornaria a restrição. Pede a improcedência da demanda (fls.41/54).
+Réplica a fls.83/91.
+O feito foi saneado, afastando-se as preliminares e deferindo-se a produção de prova pericial (fls. 103).
+O laudo está a fls.118/147.
+É o relatório.
+Passo a decidir.
+Trata-se de demanda de obrigação de fazer consiste na exclusão de critérios de pesquisa da página de pesquisas da ré.
+Demandas deste jaez multiplicam-se nos fóruns, porquanto refletem um mal ? que sempre acompanha os benefícios ? da rede mundial de computadores.
+Hodiernamente, com a mesma velocidade com que se informam coisas boas, praticam-se difamações e injúrias.
+O senhor perito deixou claro em seu laudo que a ré tem meios de coibir a indicação de sites em sua página de pesquisa, o que, contudo, não se faz de maneira simples.
+Como explicou o senhor perito, há duas maneiras de se o fazer.
+A primeira delas é excluir os critérios de pesquisa de forma separada ou combinada.
+Contudo, essa técnica restringe o aparecimento de páginas de terceiros que, além de não estarem envolvidos nos fatos difamatórios ou injuriosos, tem tolhida a propagação de suas informações sem motivo justificável.
+Outra técnica seria a exclusão de endereços da internet das páginas em sediadas as informações difamatórias ou injuriosas.
+No entanto, essa técnica mostra-se ineficaz a curto prazo, porque a simples alteração de um caracter do endereço da página, permitiria sua relação na pesquisa, frustrando-se a restrição.
+A solução dessa questão, a meu ver, depende da análise da natureza da atividade da ré.
+A ré dedica-se, entre outras coisas, à pesquisa de informações na internet.
+Esse seu serviço ? e a qualidade dele ? foi e é o responsável por sua proeminência no mundo virtual.
+Portanto, a ré não é propriamente responsável pela informação difamatória ou injuriosa, mas vítima de seu próprio sucesso em propagá-la.
+Nesse contexto, alterando meu posicionamento anterior, entende não ser possível a imposição dessa obrigação à ré.
+Deveras, a ré não é autora ou co-autora das difamações e injúrias, muito menos as propaga ciente da natureza ilícita delas.
+Impor a restrição de caracteres de pesquisa atingiria direito de terceiros de terem suas informações divulgadas, causando mais danos à coletividade do que aos autores, para os quais resta a saída de se voltarem contra os provedores que hospedam o sítio eletrônico difamatório e injurioso.
+Impor-lhe a restrição de endereços da internet, além de ineficaz a curta e médio prazo, sobrecarregaria suas atividades sem motivo justificável, porquanto não responsável pelas informações veiculadas na rede mundial de computadores.
+Portanto, à míngua da existência de um dever legal, a ré não pode ser compelida a restringir critérios de pesquisa ou localizadores universais de recursos (URL) em sua página de pesquisa.
+A demanda é improcedente.
+Decido.
+Assim sendo e considerando o que mais dos autos consta, julgo improcedente, nos termos o art.269, inc.I, do Código de Processo Civil, a demanda proposta por Hamilton Sessin, José Sessin Filho, Élcio Sessin e Três Marias indústrias e comércio ltda. contra Google Brasil internet Ltda.
+Em razão da sucumbência, condeno os autores ao pagamento das custas e despesas processuais e ao pagamento de honorários de advogado no valor de R$100,00, corrigidos desde a propositura da demanda e acrescidos de juros de mora a partir do trânsito em julgado.
+Publique-se. Registre-se. Intimem-se.
+São Paulo, 31 de janeiro de 2013.
+Vincenzo Bruno Formica Filho
+juiz de direito
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

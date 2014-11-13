@@ -1,0 +1,80 @@
+
+
+SENTENÇA
+
+Processo nº:0000901-21.2012.8.26.0010
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Material
+Requerente:Adalberto Luiz de Oliveira e outro
+Requerido:Banco do Brasil S/A
+
+
+Justiça Gratuita
+
+Juiz(a) de Direito: Dr(a). Ricardo Dal Pizzol
+
+
+
+
+Vistos, 
+
+
+ADALBERTO LUIZ DE OLIVEIRA e LENY CLEIDE DE SOUZA BUENO OLIVEIRA ajuizaram ?ação de reparação por danos materiais e morais? contra BANCO DO BRASIL S/A.
+
+Alegam que: (i) em meados de janeiro de 2010, os autores retiraram um talão de cheques na agência do requerido, não percebendo que faltavam duas folhas em seu interior; (ii) os cheques foram devolvidos; (iii) um funcionário do banco requerido chegou a confirmar a possibilidade da ocorrência do furto dos cheques dentro da própria agência; (iv) sofreram danos materiais e morais. 
+
+Contestação às fls. 60/67. Alega o requerido que: (i) se houve algum dano, este foi causado por fraude de terceiro; (ii) as assinaturas dos cheques são sempre conferidas antes da compensação; (iii) não foram comprovados danos materiais ou morais; (iv) não estão presentes os requisitos da responsabilidade civil. 
+Réplica às fls. 99/101. 
+
+É o Relatório. 
+
+Passo a Fundamentar.
+
+1. Possível o julgamento antecipado da lide, pois não há necessidade de produção de outras provas. 
+
+2. Não há preliminares em contestação.
+
+3. No mérito, a ação deve ser julgada parcialmente procedente.
+
+É fato incontroverso, visto que não impugnado especificamente em contestação, que o talão de cheques foi entregue ao(s) autor(es), na agência do requerido, sem as folhas 52 e 53.
+
+Em face de tal fato incontroverso, podem ser tiradas as seguintes conclusões: (i) que as folhas de cheque haviam sido subtraídas enquanto ainda estavam na posse do requerido, provavelmente por preposto deste; (ii) que as assinaturas que constam nas cártulas não foram emitidas pelo(s) autor(es). 
+
+O próprio requerido, em contestação, admite expressamente a possibilidade de fraude. 
+
+Além disso, por força da regra do art. 6o, VIII, do CDC, era ônus do requerido comprovar que os cheques foram emitidos pelos próprios autores, ou, ainda, que os cheques foram subtraídos por falta de cuidado dos autores. O requerido, no entanto, não se desincumbiu desse ônus probatório, requerendo o julgamento antecipado da lide à fl. 110.
+
+Ante o exposto, é certo que o requerido deu causa ao evento lesivo. Deve-se considerar, ainda, que sua responsabilidade é objetiva, nos moldes do art. 14 do CDC, que dispõe: 
+Art. 14. O fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos.
+3.1. Passo a analisar os danos alegados na inicial. 
+3.1.1. O pedido de indenização por danos materiais não merece acolhida. 
+
+Os autores pedem, a título indenização por danos materiais, a devolução dos valores referentes aos cheques (R$ 260,00 e R$ 315,00). Ocorre, porém, que os autores não tiveram prejuízo efetivo em relação ao valor dos cheques, visto que estes foram devolvidos por falta de fundos (motivo 11), conforme fls. 26 e 28. Isso fica evidente a partir da leitura do extrato de fl. 29, no qual constam duas anotações de débito (R$ 315,00 ?D?; R$ 260,00 ?D?), seguidas imediatamente de duas anotações de créditos de igual valor (R$ 315,00 ?C?; R$ 260,00 ?C?). Logo, os autores nem mesmo podem atribuir sua situação de débito na conta corrente (e os consequentes encargos) aos cheques, visto que os valores correspondentes às cártulas sequer foram efetivamente debitados. 
+
+3.1.2. O pedido de dano moral, por sua vez, deve ser acolhido.
+
+A indenização por dano moral possui três funções, conforme decidido pelo STF no julgamento do AI 455.846, Rel. Min. Celso de Mello: (a) compensar lesões psíquicas e à reputação; (b) punir condutas contrárias ao direito; (c) evitar a repetição de condutas contrárias ao direito. 
+No presente caso, sobrelevam as funções ?b? (punitiva) e ?c? (prevenção geral e especial). Como já dito, é fato incontroverso nos autos que o requerido entregou o talão de cheques aos autores sem duas folhas, que, posteriormente, foram utilizadas por estelionatário, com falsificação das assinaturas do autor. Se o talão foi entregue aos autores sem duas folhas na própria agência, deve-se concluir que as folhas foram retiradas por preposto do requerido ou pessoa a ele vinculada. Por fim, é certo que o requerido não agiu com cuidado ao conferir as assinaturas dos cheques, pois elas são evidentemente diferentes da assinatura do autor (basta conferir as assinaturas dos cheques com as assinaturas dos contratos juntados com a contestação). Vale lembrar que os cheques só não foram pagos por falta de fundos (motivo 11). Se houvesse fundos, eles teriam sido descontados, apesar das diferenças nas assinaturas. 
+
+Assim, justificável a imposição de indenização por danos morais, como forma de punir a conduta do requerido, bem como para evitar a repetição de condutas semelhantes pelo requerido (prevenção especial) e por terceiros (prevenção geral).
+
+Em contrapartida, as lesões psíquicas e à reputação sofridas pelos autores não foram de grande monta (função ?a? acima referida, de caráter compensatório), o que recomenda moderação na fixação dos danos morais. Primeiramente, deve-se ressaltar que não há provas de que os nomes dos autores tenham sido inscritos nos órgãos de proteção ao crédito por conta dos cheques. Conforme fls. 26 e 28, cada um dos cheques foi apresentado apenas uma vez para compensação, sendo devolvidos pelo motivo 11 (cheque sem fundos ? 1a apresentação). Nos termos do art. 10 da Resolução 1682, de 1990, do BACEN, o correntista só deve ser incluído no ?cadastro de emitentes de cheques sem fundos? (CCF) após a 2a apresentação negativa, que implica na devolução pelo motivo 12. 
+Além disso, como já dito acima, os cheques não trouxeram qualquer prejuízo efetivo aos autores, visto que foram devolvidos por falta de fundos, não sendo descontados da conta corrente dos autores. Logo, os autores não podem atribuir suas dificuldades financeiras aos cheques em questão, nem alegar que eles provocaram qualquer desequilíbrio no orçamento doméstico. 
+
+Não se pode esquecer, ainda, que os autores também colaboraram para o evento, visto que não tomaram a cautela de checar se o talão estava completo no momento em que o receberam. Isso também recomenda moderação na fixação dos danos morais. 
+
+É certo, no entanto, que o evento trouxe algum desconforto psíquico aos autores, na medida em que: (i) precisaram tomar medidas extrajudiciais e judiciais para solucionar a questão, o que implica em perda de tempo que poderia ser utilizado para atividades lucrativas ou de lazer; (ii) foram expostos à devolução de dois cheques por motivo de ?falta de fundos?, o que causa constrangimento; (iii) foram desrespeitados enquanto consumidores, na medida em que receberam, na agência do próprio banco, talão de cheques sem duas folhas.
+
+Em face de todas as razões expostas acima, entendo que o valor de R$ 4.000,00 (quatro mil reais) é suficiente para reparar o dano, punir adequadamente o requerido e evitar a repetição de condutas ilícitas semelhantes, sem gerar enriquecimento sem causa para os autores. 
+
+DECIDO.
+
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a ação, para CONDENAR o requerido a pagar aos autores, a título de danos morais, a quantia de R$ 4.000,00 (quatro mil reais), acrescida de correção monetária, conforme a Tabela Prática do TJSP, desde a data desta sentença até o efetivo pagamento (Súmula 362 do STJ), e de juros moratórios de 1% ao mês, desde a citação até o efetivo pagamento.
+
+Na forma do art. 21, parágrafo único, do CPC, considerando que os autores decaíram de parte mínima, condeno o requerido ao pagamento das custas, despesas e honorários advocatícios, que fixo em 15% do valor da condenação, com base no art. 20, §3º, do CPC. 
+
+P.R.I.C.
+
+São Paulo, 30 de julho de 2012.
+
+
+Ricardo Dal Pizzol  Juiz de Direito

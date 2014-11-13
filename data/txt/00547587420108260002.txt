@@ -1,0 +1,48 @@
+
+
+SENTENÇA
+
+Processo nº:0054758-74.2010.8.26.0002
+Classe - AssuntoProcedimento do Juizado Especial Cível - Inclusão Indevida em Cadastro de Inadimplentes
+Requerente:Rubens Ferreira Mario
+Requerido:Unip Associação Unificada de Ensino Renovado Objetivo Assupe e outro
+
+
+Juiz(a) de Direito: Dr(a). Debora Romano Menezes
+
+Vistos.
+
+Relatório dispensado, nos termos da lei.
+Decido.
+A ré Associação Comercial de São Paulo possui legitimidade passiva para figurar no pólo passivo da ação declaratória de cancelamento de registro, na condição de mantenedora do cadastro de inadimplentes do qual o autor quer ver excluído o seu nome, restando afastada, portanto, a preliminar arguida.
+No mérito, todavia, com a devida vênia ao entendimento do requerente, os pedidos iniciais não comportam acolhimento.
+No que tange à alegada inexistência de comunicação prévia, não assiste razão ao autor.
+A inscrição do nome do autor nos cadastros restritivos da ré decorreu do protesto do cheque, motivo pelo qual não havia necessidade da comunicação de que trata o art. 43, § 2º, do CDC.
+Com efeito, a jurisprudência do STJ firmou entendimento de que os dados do cartório de protestos de títulos são públicos, dotados de ampla publicidade, motivo pelo qual a ausência de comunicação ao consumidor da inscrição nos órgãos de restrição ao crédito não é irregular. Nesse sentido, o E. Superior Tribunal de Justiça firmou o seguinte entendimento:
+RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANO MORAL. AUSÊNCIA DE COMUNICAÇÃO (ART. 43, § 2º, DO CDC). DADO COLHIDO EM CARTÓRIO DISTRIBUIDOR. NATUREZA PÚBLICA. INEXISTÊNCIA DE DANO. Tratando-se de atividade lícita por parte da entidade cadastral, que se colheu dados já dotados de ampla publicidade, a ausência da comunicação do registro ao consumidor não lhe causa dano moral algum. Recurso especial não conhecido. (Resp 684489/RS, Rel. Ministro BARROS MONTEIRO, QUARTA TURMA, julgado em 16/08/2005).
+Neste sentido, também decidiu o E. Tribunal de Justiça de São Paulo, cuja ementa segue:
+ILEGITIMIDADE PASSIVA AD CAUSAM. Associação Comercial de São Paulo. Ação declaratória de cancelamento de registro. Legitimidade reconhecida. Condição de mantenedora do registro de inadimplentes do qual o autor quer ver excluído o registro. Inscrição feita pela própria ré, por força do protesto da nota promissória. Preliminar argüida pela recorrida rejeitada. - INTERESSE DE AGIR. Ação declaratória de cancelamento de registro. Presença dos elementos da necessidade, adequação e utilidade da prestação jurisdicional pretendida pelo autor e resistida pelo ré. Preliminar argüida pela recorrida rejeitada. AÇÃO DECLARATÓRIA DE CANCELAMENTO DE REGISTRO. Inscrição no SCPC de dívida decorrente de nota promissória protestada. Dados do cartório de protestos de títulos são públicos. Ausência de comunicação ao devedor não é irregular. Nota promissória não alcançada pela prescrição. Inteligência dos arts. 206, § 5º, inciso I, e 2.028 do CC. Recurso improvido. - BANCO DE DADOS. Impossibilidade da manutenção do nome do autor nos cadastros restritivos por mais de 5 anos. Art. 43, § 1º, do CDC, e Súmula nº 323 do STJ. Determinação de cancelamento do registro. Recurso provido. - VERBAS DA SUCUMBÊNCIA. Ação declaratória de cancelamento de registro. Mantida a condenação do autor ao pagamento das verbas da sucumbência. Incidência do princípio da causalidade. Circunstância em que no momento da propositura da ação a inscrição não era irregular. Indenização indevida. Recurso improvido. (Apelação nº 9209307-60.2008.8.26.0000, 17ª Câmara de Direito Privado, Relator Des. Erson T. Oliveira, j.  14/12/2011)
+Quanto ao mais, o débito protestado decorre do cheque reconhecidamente emitido pela parte autora, como a própria inicial narra.
+A quantia expressa no cheque é devida, pois a parte autora não expôs qualquer fato extintivo do crédito. 
+A controvérsia cinge-se ao título estar, ou não, prescrito quando da efetivação do protesto.
+Conquanto constitua o cheque ordem de pagamento à vista, conforme o disposto na Lei nº 7357/1985, a jurisprudência dominante do E. Tribunal de Justiça de São Paulo tem reconhecido a prática comercial de emissão do cheque pósdatado, em que emitente e destinatário da cártula convencionam prazo certo para sua apresentação ao Banco sacado.
+Tal entendimento, inclusive, foi consolidado pelo Superior Tribunal de Justiça com a edição da Súmula nº 370, in verbis: caracteriza dano moral a apresentação antecipada do cheque pré-datado.
+Pois bem, o título em questão, qual seja, o cheque nº 010.331, no valor de R$ 294,00, consoante se verifica às folhas 130, foi emitido em 15 de março de 2008, todavia, para ser apresentado, tão somente, em 30 de junho daquele ano.
+Nesse contexto, forçoso reconhecer que o prazo prescricional de que cuidam os artigos 33 e 59 da Lei n. 7.357/1985 teve início a partir da data convencionada no cheque, pois houve ampliação do prazo de apresentação do cheque quando nele aposta data futura.
+Neste sentido, já se manifestou o E. Tribunal de Justiça de São Paulo, cuja decisão, passo a transcrever:
+ Alega a apelante que o cheque foi encaminhado a protesto após a expiração do prazo previsto no art. 48 da Lei n° 7.357/85. No entanto, razão não lhe assiste pois apesar do cheque ter sido emitido em 25 de abril de 2005, estava pós-datado para o dia 25 de junho do mesmo ano. Na hipótese de cheque pós-datado as datas combinadas entre as partes devem prevalecer, prorrogando-se, assim, o prazo para apresentação, e a partir daí é que inicia o prazo prescricional.
+Neste sentido já se manifestou a 3ª Turma do Superior Tribunal de Justiça, ao apreciar questão semelhante, no julgamento do Recurso Especial n° 612.423/DF, julgado em 01 de junho de 2006 e relatado pela Min. Nancy Andrighi: "emissão de cheque pós-datado, popularmente conhecido como cheque pré-datado, não o desnatura como título de crédito, e traz como única conseqüência a ampliação do prazo de apresentação."
+No caso, considerando que o cheque era pós-datado para o dia 25 de junho de 2005 e foi apresentado a protesto em 25 de julho de 2005, não se consumou a prescrição.(Apelação nº 0282521-72.2010.8.26.0000, relator Des. Maia da Rocha, julgado em 22/09/2010, publicado no DJE em 21/10/2010).
+Dessa forma, no caso em tela, e uma vez restou consignado como data de apresentação o dia 30 de junho de 2008 e o protesto ocorreu em 03 de novembro de 2008, verifica-se que não havia decorrido o prazo de 07 meses (30 dias para apresentação, mais 6 meses para protesto), não havendo que se falar em prescrição.
+Nesta esteira, não há como se acolher a pretensão inicial.
+Ainda que assim não o fosse, e tivesse o título sido levado a protesto após o decurso do prazo para apresentação ao banco sacado, não haveria, de qualquer forma, ato abusivo ou contrário ao direito.
+Com a devida vênia a doutos entendimentos distintos, o decurso do prazo de apresentação do título e o próprio encerramento do prazo prescricional não são fatos extintivos do direito material subjacente à emissão.
+No primeiro caso, o credor perde apenas a faculdade de promover a execução contra endossantes e avalistas (artigo 47, II da Lei 7357/85); no segundo caso, a prescrição faz perecer a ação executiva ou a cambial (artigos 47, 59 e 61 da lei 7357/85), mas não traz a extinção do direito de crédito, que não se confunde com a ação que assegure o seu cumprimento. 
+  O protesto, na realidade, é o exercício regular de um direito, na medida em que dá publicidade à existência de uma dívida em face de terceiros e dessa forma permite o resguardo dos interesses do credor para o caso de novos contratos, negócios ou atos jurídicos que venham a comprometer o patrimônio do devedor, e que assim poderiam até mesmo ser objeto de ação anulatória.
+Em razão do exposto, não é possível concluir que a parte ré praticou ato ilícito que gerou o dever de indenizar, o que levará à improcedência do pedido de danos morais.
+Isto posto, JULGO IMPROCEDENTE a ação. Consoante artigos 54 e 55, da Lei n.º 9.099/95, as partes estão isentas do pagamento de custas, taxas, despesas e honorários, salvo na hipótese de recurso. O prazo para interposição de recurso é de 10 dias e o valor do preparo é de R$ 306,00. O valor do porte de remessa e retorno é de R$ 25,00, por volume de autos, nos termos do Provimento 833/2004 do CSM (guia do fundo de despesa ? código da Receita 110-4). Após o trânsito em julgado da presente, expeça-se guia de levantamento do depósito noticiado às folhas 86 em favor da parte autora.
+P.R.I.
+São Paulo, 26 de janeiro de 2012.
+
+Débora Romano Menezes
+Juíza de Direito

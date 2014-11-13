@@ -1,0 +1,34 @@
+
+
+SENTENÇA
+
+Processo nº:0020933-31.2013.8.26.0004 - Procedimento do Juizado Especial Cível
+Requerente:RAFAELA MARIA DA SILVA RAMOS
+Requerido:B2W COMPANHIA DIGITAL (LOJAS AMERICANAS S/A) e outros
+
+Juiz(a) de Direito: Dr(a). Fernando Henrique Azevedo
+
+
+Vistos.
+Dispensado o relatório.
+Fundamento.
+Em que pese a matéria tratar de questão de direito e de fato, as partes não tem prova testemunhal, assim, julgo o feito no estado em que se encontra, nos termos do art. 330, inc. I do CPC. 
+Afasto as preliminares de ilegitimidade passiva dos requeridos, pelas seguintes razões: 1) quanto a B2W a parte autora atribui a responsabilidade a requerida, pois a fraude ocorreu em seu nome, assim, a Teoria da Asserção; 2) quanto ao Universo On-line, é indiscutível que este intermediou a transação; 3) quanto ao Banco Panamericano S/A os pagamentos estão sendo realizados até a presente data através deste.
+No mérito, em que pese ter reconhecido a legitimidade da co-requerida B2W, entendo que esta não tem qualquer responsabilidade pela fraude, sendo rompido o nexo causal por fato exclusivo de terceiro.
+Não olvida este magistrado que há precedente no STJ reconhecendo a responsabilidade do fornecedor "verdadeiro" por fraude em seu nome, contudo, permissa venia, não há como imputar aos fornecedores a responsabilidade por fraudes cometidas na rede mundial de computadores.
+Na verdade acolher a tese de responsabilidade pela fraude, seria fomentá-la, pois não se buscaria enfrentar a causa do problema, atacando apenas o efeito.
+Diga-se, que não se trata de fraude junto ao site da co-requerida B2W e sim, fraude na criação de um novo "site", apenas utilizando-se de dados da requerida; é como punir o dono do veículo pelo veículo clonado.
+Diverso é o caso de clonagem de cartão de crédito, no qual de alguma forma se estará utilizando do serviço do fornecedor do cartão, e como tal, esta é responsável solidário.
+Afastada a responsabilidade do co-requerido B2W, restar perquirir quanto a responsabilidade do site que intermediou o pagamento e da financeira. 
+Em que pese o entendimento pessoal deste magistrado, há que se privilegiar a chamada tutela coletiva dos direitos, especialmente no nosso sistema de ações em massa, a fim de evitar o acumulo de processo individuais.
+Neste sentido, em recente acórdão do Egrégio Tribunal de Justiça de São Paulo, em sede de ação civil pública (0179673.03.2007.8.26.0100), foi exarado o entendimento de que os sites de intermediação de compra são legitimados passivos, e responsáveis pelo concretização do negócio, ou seja, até o momento da entrega do produto adquirido é o site que intermedeia a transação responsável por esta.
+Por estas razões, entendo que o co-requerido Unoverso On-line S/A é responsável pela devolução do valor pago no produto não entregue para a parte autora.
+Da mesma forma o Banco Pan-americano, que em que pese não ter nenhum forma de controle efetiva do negócio subjacente, conforme e doutrina consumerista, este é acessório ao contrato de compra e venda do produto, e como tal, deve ser rescindido quando não concretizado o principal.
+Diga-se, outrossim, que o Banco ainda que não tivesse qualquer interferência no contrato de compra, ao ser solicitada a suspensão dos pagamentos, manteve os descontos no cartão da parte autora.
+Conclui-se, portanto, que os co-requeridos UOL e Pan-americano são responsáveis solidários pela devolução do valor pago pela parte autora.
+Melhor sorte não resta a parte autora quanto ao pedido de dano moral, eis que o fato não extrapolou ao mero inadimplemento contratual, bem como a parte autora assume no e-mail (fls, 26) que não estava "muito segura" com a compra, e ainda assim a concretiza.
+Diante o exposto, JULGO PARCIALMENTE PROCEDENTES os pedidos desta ação, para condenar as co-requeridas Universo On-line S/A e Banco Panamericano S/A, solidariamente, ao pagamento do valor de R$ 1.201,20, corrigidos da data do ajuizamento e acrescido de juros da citação.
+Julgo improcedente o pedido de dano moral. Julgo improcedentes os pedidos em face da co-requerida B2W.
+Sem custas e honorários.
+P.R.I.
+São Paulo, 07 de julho de 2014.

@@ -1,0 +1,93 @@
+
+
+SENTENÇA 
+
+
+Processo nº:0013585-39.2011.8.26.0001 - Procedimento Ordinário
+Requerente:Habasit do Brasil Industria e Comercio de Correias Ltda
+Requerido:Totvs S/A
+Data da Audiência:30/09/2011 às 15:30h
+
+
+
+Juiz(ª) de Direito Dr.(ª): Edmundo Lellis Filho
+
+Vistos.
+
+
+Trata-se de ação de obrigação de fazer com pedido de antecipação dos efeitos da tutela proposta por HABASIT DO BRASIL INDUSTRIA E COMERCIO DE CORREIAS LTDA em face de TOTVS S.A.
+
+
+A autora alega que, para gerir a vida contábil da empresa, firmou com a antecessora da ré um contrato de licença de uso de programa de computador cumulado com serviços de suporte e manutenção, pelo qual a ré teria que se obrigado a manter o software desenvolvido atualizado.
+
+Aduz a autora que ao solicitar à ré a atualização de seu aplicativo, em face das alterações promovidas pelo Conselho Federal de Contabilidade (Resolução 1255), teve seu pedido negado, sendo-lhe exigida a migração para uma nova plataforma, implicando em custos extraordinários e sem previsão contratual.  
+
+Salienta a autora que a ré continuou recebendo o valor correspondente aos serviços de manutenção.
+
+Ao final a autora requereu: a antecipação dos efeitos da tutela para determinar que a ré preste os serviços de manutenção previstos no contrato; a inversão do ônus da prova; a confirmação da liminar e caso a ré não cumpra a obrigação de fazer ou esta se torne impossível, requer a conversão em perdas e danos.
+
+ Com a inicial vieram os documentos (fls.16/232).
+
+A liminar foi deferida (fls. 233/235), dando ensejo à interposição de agravo de instrumento (fls.262/276), ao qual foi dado provimento para indeferir a tutela antecipada (fls.384/388). 
+
+A ré, em contestação (fls. 289/301), alega que a autora adquiriu o software sabendo que este não era o mais moderno, se comprometendo a pagar pelo up grade, quando necessário.
+
+Afirma a ré que o software contratado pela autora está há muito ultrapassado e não comporta as adaptações pleiteadas, pois, não se pode exigir a atualização de uma função que não existe no aplicativo de que se utiliza a autora. 
+
+Ressalta a ré que na proposta de migração de plataforma caberia à autora pagar apenas as despesas de instalação, e que a Resolução 1255 não tem força de norma jurídica, de forma que o software utilizado pela autora continua apto a confeccionar os informes de rendimento para fins tributários.
+
+Com a contestação vieram os documentos (fls. 302/310).
+
+Houve réplica (fls. 326/334).
+
+A tentativa de conciliação restou infrutífera (fls.340).
+
+Eis o relatório.
+
+Decido.
+
+A ação é procedente.
+
+Realmente, é certo que a autora adquiriu da ré um programa informático pelo qual é gerida extensa parcela de sua administração empresarial.
+
+Com o advento da resolução nº 1.255/2009, do Conselho Federal de Contabilidade, pretende a autora que aquele programa seja atualizado, de modo que possam seus aplicativos ser utilizados de acordo com a resolução do conselho.
+
+Sucede que, tendo a autora fundado sua pretensão no item contratual nº 05, copiado a fls. 29, verifica-se que procedeu ela de acordo com o que foi, contratualmente, previsto, ou seja, comunicou ao prestador de serviço (programa), ora réu, por escrito, a necessidade de atualização do programa.
+
+Pela intensa troca de correspondências eletrônicas entre as partes, nota-se que a ré, através de seus prepostos técnicos, considera a resolução do Conselho ?legislação?. Esses mesmos prepostos técnicos informam aos prepostos da autora a FAQ sobre a ?lei? e como fazer as necessárias ?parametrizações? (fls. 221,vº).
+
+Mais adiante, fica claro que a adaptação só pode ser feita mediante a substituição de plataforma de informática, ou seja, em face da aquisição de novo programa de computador extremamente caro, e isto se considerando que o contrato entre as partes, ao tempo do surgimento da nova norma de contabilidade, contava apenas com mais alguns meses período de tempo.
+
+Nessas mesmas correspondências eletrônicas, verifica-se que há confissão do porquê a empresa ré não disponibiliza a atualização de que necessita a autora, por conveniência, pois é uma atualização ?custosa? e que não compensa em face do ?ciclo de vida? do programa de computador que tem a autora, o EMS204:
+
+?Prezado cliente
+Os desenvolvimentos referente a Lei 11.638/07 e IFRS somente serão liberados no Datasul EMS 5, pois o esforço necessário para ajustar o Datasul EMS 2 é vultuoso e inviabilizaria o seu desenvolvimento, além do ciclo de vida do produto, conseqüentemente a liberação dos desenvolvimentos ficaria comprometida no que tange ao cumprimento das exigências da IFRS e da Lei das S/A´s, outro ponto que favorece essa decisão, e que o Datasul EMS 5 se apresenta mais bem preparado para atender esta demanda em função de algumas ferramentas como Unidade de Negócio, Cenários Contábeis, Multi-Empresa, Multimoeda, Estrutura de Plano de Contas e a própria arquitetura de Produto. A TOTVS S/A em virtude disto, recomenda aos clientes que estão no Datasul EMS 2 realizarem a migração para Controladoria (Contabilidade e Ativo Fixo) do Datasul EMS 5, principalmente em função de que este produto além de robusto, prevê o atendimento de forma mais rápida e concisa não somente as exigências acima citadas, mas também as próximas regulamentações que s direcionam para a completa convergência as padrões internacionais de contabilidade. 
+Vale ratificar que esta determinação é da vice presidência da TOTVS, e ainda no início de 2009 já havia sido enviado um comunicado aos clientes informando alguns dos desenvolvimentos relacionados ao IFRS e também sobre essa questão. Atenciosamente.? (SIC)
+
+Em outras palavras: ?Prezado cliente. Fazer a adaptação custa caro, nós temos um programa mais eficiente aqui para vender, o seu programa tem pouco tempo de uso ainda (?ciclo de vida?) e a ?vice presidência? determina que compre um  novo programa?.
+
+?Data venia?, os papéis de inverteram. 
+O prestador de serviço, ora réu, está, claramente, abusando de sua condição de titular do programa de que necessita autora para lhe impor a venda de outro programa mais novo e já adaptado às novas regras (mas bem caro), pois lhe nega a atualização do programa em uso, antigo e com alguns meses de utilidade, porque a atualização lhe trará custos que julgo ?não valer a pena?.
+
+Ora, nesse caso, o problema é do prestador de serviço, não da empresa consumidora. 
+
+O certo é que seja feita a ?customização?, como ponderado pelo setor técnico no réu a fls. 223/225, item 017; ou então, caso seja mesmo inviável economicamente a atualização do programa mais antigo (EMS 204), tem a ré a alternativa de disponibilizar à autora a sua nova e eficiente plataforma (EMS 5) pelo período que resta de validade contratual daquele programa mais antigo e pelo preço dele, caso seja verdade mesmo que, de acordo com a contestação, a adaptação exija o dispêndio de ?muitos milhões de reais e alguns anos de trabalho? (fls. 291).
+
+Deve a ré levar em consideração que é dela o risco empresarial de haver modificação legislativa que, alterando a funcionalidade de seus aplicativos, torne obsoleta a plataforma de informática que seus clientes usam dentro do prazo contratual de serviços. Se tal questão gera prejuízos e era imprevisível, o prestador de serviço precisa ter a solução ou administrar o prejuízo da melhor maneira possível, e não dizer que sua vice-presidência determina isso ou aquilo.
+
+De notar-se que o programa da autora, se é ?envelhecido? como aduz o contestante (fls. 291), para o direito o que importa é que seja contratualmente válido.
+
+Se as novas exigências normativas não fossem necessárias, teriam os prepostos da contestante dito isso aos prepostos da autora; no entanto ? e muito pelo contrário, - eles não só confirmaram a necessidade de atendimento às novas normas, como fizeram questão de realçar a funcionalidade da nova plataforma e a ?determinação da vice-presidência?.
+
+Quanto à possibilidade de ?customização?, os próprios técnicos da ré contrariam a sua contestação.
+
+Assim, pelas razões expendidas como fundamento da sentença, julgo procedente a ação para condenar o réu na obrigação de fazer consistente em prover à autora os serviços necessários a que o programa por ela utilizado (EMS 2.04) possa cumprir as exigências contidas na resolução normativa nº 1.255/2009, ou lhe fornecer outro programa para tanto, pelo período do contrato (até 31.12.2011), observando-se as regras contratuais de contraprestação dos serviços.
+
+A obrigação deverá ser cumprida sob pena de multa diária de R$ 1.500,00 até R$ 250.000,00, sem prejuízo da conversão em perdas e danos a ser apurada mediante liquidação.
+
+Condeno a ré em custas corrigidas do desembolso e em verba honorária que fixo em 10% sobre o valor corrigido da causa.
+
+P.R.I.C.
+
+
+São Paulo,06 de fevereiro de 2012.

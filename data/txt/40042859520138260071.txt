@@ -1,0 +1,103 @@
+
+
+C O N C L U S Ã O
+
+Em  24 de julho de 2014
+faço estes autos conclusos ao (à) MM(ª). Juiz (a) de Direito
+DR (ª)Paulo André Bueno de Camargo 
+Eu, ______________________,  escrev., digitei.
+
+
+SENTENÇA
+
+Processo nº:4004285-95.2013.8.26.0071 - Procedimento Ordinário
+Requerente:MULTICOBRA COBRANÇA LTDA.
+Requerido:CCM7 CONSULTORIA E SISTEMAS LTDA ? EPP
+
+
+
+Juiz(a) de Direito: Dr(a). Paulo André Bueno de Camargo
+
+
+Vistos.
+
+Trata-se de ação declaratória de inexistência de relação jurídica c.c. Pedido de consignação em pagamento e indenização por danos morais na qual a autora aduz, em síntese, que manteve com a ré contrato de prestação de serviços até 11 de setembro de 2013, no qual remunerava mensalmente a empresa ré contratada pelo serviço prestado. Não mais interessando a prestação de serviços da ré, a autora a notificou extrajudicialmente, comunicando o distrato, notificação essa recebida pela ré na data supracitada. A ré, por sua vez, contranotificou a autora informando que iriam considerar que houve o uso do software fornecido pela ré até a data do recebimento da notificação já mencionada e que procederia à cobrança pelo referido uso. Ocorre que a ré emitiu fatura cobrando a autora pelo uso do software pelo período de 20/08/2013 a 20/09/2013, contrariando o que afirmara na própria contranotificação. Em seguida, entrou em contato com a ré, que alterou sua posição inicial, afirmando que cobraria pelo serviço até 30 dias após o recebimento da notificação de distrato, ou seja, até 11/10/2013, daí porque a autora deveria pagar a fatura que lhe fora encaminhada e levada a protesto. Sustenta que o valor efetivamente devido, contudo, é aquele correspondente a R$ 7.501,86, referente ao período de 20/08/2013 a 11/09/2013. Pugna, ao final, pela declaração de extinção da relação jurídica entre as partes, a consignação em pagamento do valor efetivamente devido pela autora, a sustação do protesto do título, sua exibição pela ré e a condenação desta pelos danos morais causados à autora em face do protesto indevido do título.
+
+A tutela antecipada para sustação do protesto foi concedida (fl. 116).
+
+Citada, a ré apresentou contestação, na qual aduz, em resumo, que em sua contranotificação a ré ressaltou que, no prazo de cinco dias, a autora deveria liberar o acesso a seus servidores para que os técnicos da ré promovessem a desinstalação dos produtos e serviços contratados, o que não foi feito pela autora, que continuou a utilizar o programa até 25/11/2013. Sustenta que a ré autorizou a autora a utilizar, sem custos, o software nos meses de outubro, novembro e dezembro, mas que a autora deveria pagar à ré pela utilização do produto até 30/09/2013, daí porque não ser indevido o protesto operado pela ré. No mais, questiona o pedido de indenização por danos morais. Pugna pela improcedência do pedido inicial (fls. 129/132).
+
+Houve réplica (fls. 157/160).
+
+Houve acolhimento da exceção de incompetência em apenso, com a remessa dos autos à Comarca de São Paulo, ocorrendo a redistribuição do feito à 45ª Vara Cível da Capital, que, de ofício, declinou a competência para o Foro Regional de Santo Amaro, razão por que o feito foi redistribuído a este Juízo.
+
+Determinada a especificação de provas, manifestaram-se as partes (fls. 168 e 170/173).
+
+É o relatório.
+
+DECIDO.
+
+O caso comporta julgamento antecipado da lide, nos termos do art. 330, inc. I, do Código de Processo Civil, uma vez que os documentos apresentados são suficientes para compreensão da matéria de fato debatida, prescindindo-se de dilação probatória.
+
+O pedido inicial é procedente.
+
+Embora inexista instrumento contratual formal de licença de uso de software e prestação de serviços, verifica-se dos autos que houve proposta comercial encaminhada pela ré à autora (fls. 23/35), que foi expressamente aceita por esta em 07/05/2012, razão por que a relação jurídica das partes foi e deve ser regida pelas disposições nela consignadas, já que à proposta fica obrigado o proponente (art. 427 do Código Civil), bem como o aceitante (art. 434 do Código Civil).
+
+Pelas disposições desse avença, que deve ser considerada aperfeiçoada, ex vi do art. 434 do Código Civil, constata-se que a ré forneceria licença de uso de software à autora, o que denominou de "locação", bem como prestaria à autora os serviços mencionados no rol de fls. 29, que incluiriam instalação técnica da solução, treinamentos para usuários chave, suporte e acompanhamento pós-implantação e suporte técnico avançado.
+
+O contrato tinha prazo determinado de 12 meses (fl. 34), os quais, considerando que a aceitação da proposta se deu em 07/05/2012 (fl. 35), tornando perfeito o contrato entre as partes, venceria em 07/05/2013. Após esta data, passou o contrato a vigorar por prazo indeterminado.
+
+Durante a vigência por prazo indeterminado do contrato, restou incontroverso nos autos que a autora notificou extrajudicialmente a ré em 11/09/2013, informando que a partir daquela data dava por encerrada a parceria firmada (entenda-se o contrato), liberando-a de qualquer obrigação anteriormente assumida (fls. 36/37).
+
+Assim agindo, a autora valeu-se do direito que lhe confere o art. 473, caput, do Código Civil:
+
+"Art. 473. A resilição unilateral, nos casos em que a lei expressa ou implicitamente o permita, opera mediante denúncia notificada à outra parte".
+
+A ré, em contranotificação de fls. 38, confirmou o recebimento da notificação na data de 11/09/2013 e que consignou o que se segue:
+
+"Como recebemos a notificação sobre a intenção de deixar de usar os produtos de software em 11/09/2013, iremos considerar que houve a utilização até esta data e a cobrança também será considerada e efetuada considerando a mesma data".
+
+Não poderia, portanto, a ré efetuar a cobrança e a emissão de duplicata de serviço, nem tampouco nota fiscal eletrônica, considerando todo o período de 20/08/2013 a 20/09/2013 como o fez, e muito menos levar a protesto o referido título, que não encontrava lastro para o período cobrado após 11/09/2013.
+
+A ré justificou sua conduta com mais de uma versão em ocasiões diferentes, como bem pontou a autora em sua réplica (fls. 157/160), mas a principal delas e que deve ser analisada por este Juízo é a que consta da contestação apresentada nesta ação, na qual a ré afirma que a cobrança efetuada foi legítima, pois na contranotificação encaminhada por ela à autora, consignou que, no prazo de cinco dias úteis a contar do recebimento da contranotificação, a autora deveria liberar o acesso de seus servidores aos técnicos da ré para desinstalação dos produtos (softwares), sob pena de que fosse considerado que a autora desejava continuar utilizando os softwares e serviços da ré. Segundo a ré, a autora não liberou seus servidores para tal desinstalação, daí porque a cobrança representada pelo título levado a protesto deve ser considerada legítima.
+
+Ocorre que a contranotificação encaminhada pela ré à autora data de 23 de outubro de 2013 (fl. 38) e foi recebida pela autora somente em 28/10/2013 (margem direita superior de fls. 38), bem depois, portanto, do período de serviço e licença de uso cobrados no título levado a protesto pela ré, que foi de 20/08/2013 a 20/09/2013.
+
+A ré não poderia, portanto, cobrar nem pelo serviço, nem pela licensa de uso dos softwares após 11/09/2013 até, ao menos, o decurso do prazo que a contranotificação de fls. 38 dava à autora para permitir aos funcionários da ré o acesso a seus servidores para desinstalação de seus programas, prazo esse que só venceria em 02 de novembro de 2013.
+
+Entretanto, afirmou a ré em contestação que "autorizou em 15/09/2013, a continuidade da utilização dos produtos e serviços, nos meses de Outubro, Novembro e dezembro, sem custo" (fl. 130), daí porque nem a partir de 02 de novembro de 2013 poderia a ré efetuar qualquer cobrança, como de fato não fez, pois a cobrança questionada nesta ação refere-se ao período já mencionado de 20/08/2013 a 20/09/2013, que inclui dias em que a ré não poderia, pelas razões apontadas, nada cobrar da autora.
+
+Disso decorre a conclusão que era desnecessária, como apontado no início desta fundamentação, a produção de quaisquer outras provas, em especial a prova testemunhal requerida pela ré, que se destinaria a provar que a autora não permitiu o acesso a seus servidores em até 5 dias úteis após a contranotificação que lhe foi encaminhada pela ré.
+
+Também é consequência dessa situação a ilicitude da emissão da duplicata levada a protesto incluindo o período de 12/09/2013 a 20/09/2013, em que o produto e serviços não poderiam ser cobrados em face da resilição unilateral do contrato em razão da denúncia operada pela autora em 11/09/2013. Deve, deste modo, ser acolhido o pedido inicial de consignação em pagamento baseado no cálculo de fls. 04, não impugnado especificadamente pela ré, que encontra respaldo nas provas produzidas nos autos e nas disposições da proposta aceita (fl. 33).
+
+Igualmente procedente o pedido de indenização por dano moral, porquanto o protesto indevido do título operou-se em 20/11/2013 (fl. 128), enquanto o protesto foi suspenso em 22/11/2013, permanecendo por dois dias o nome da empresa autora com restrição no cadastro de proteção ao crédito.
+
+A quantificação da indenização por dano moral é realizada conforme prudente arbítrio do magistrado. A reparação visa desestimular a conduta ofensiva, mas não deve causar o enriquecimento ilícito da vítima. Na fixação são consideradas as condições econômicas do ofensor e da vítima (art. 953, parágrafo único, do CC), a intensidade do dolo ou o grau da culpa dos envolvidos (art. 944, parágrafo único, e 945, ambos do CC), e, sobretudo, a extensão do dano (art. 944, caput, do CC). 
+
+Neste sentido, confira precedente do Superior Tribunal de Justiça:
+
+ ?O dano moral deve ser indenizado mediante a consideração das condições pessoais do ofendido e do ofensor, da intensidade do dolo ou grau de culpa e da gravidade dos efeitos a fim de que o resultado não seja insignificante, a estimular a prática do ato ilícito, nem o enriquecimento indevido da vítima? (STJ, 4ª Turma, Rel. Ministro Ruy Rosado Aguiar, Resp. n° 207.926/PR, DJ 08/03/2000).
+
+Considerando essas circunstâncias, em especial que o nome da empresa autora ficou com restrição tão-somente por dois dias, entendo suficiente e proporcional a indenização por dano moral no importe de R$ 3.000,00.
+
+Por fim, o pedido de exibição "imediata" da duplicata original geradora do apontamento junto ao cartório de notas de Bauru/SP (item d do pedido), apresenta característica manifestamente de providência cautelar em sede de tutela antecipada (art. 273, § 7º, do CPC), perdendo, contudo, seu objeto, porquanto desnecessária, como se viu, para análise do mérito, tal exibição pretendida.
+
+Posto isso, JULGO PROCEDENTE o pedido inicial, para o fim de declarar a resilição unilateral do contrato havido entre as partes a partir de 11/09/2013, bem como extinta a obrigação da autora em face dos serviços prestados pela requerida no período de 20/08/2013 a 11/09/2013 em razão do depósito da quantia de R$ 7.501,86. Condeno a ré a pagar a autora indenização por danos morais no valor de R$ 3.000,00, corrigido nos termos da tabela prática do Tribunal de Justiça de São Paulo a partir da publicação desta sentença, com juros de mora de 1% ao mês a partir de 20/11/2013, data do evento danoso (protesto indevido do título), tornando, por sua vez, definitiva a tutela antecipada concedida a fls. 116, cancelando-se definitivamente o protesto da Duplicata mercantil nº 00001563, no valor de R$ 9.920,70 (fl. 39).
+
+A ré arcará com o pagamento das custas, despesas processuais e honorários advocatícios que fixo, por equidade, em R$ 2.000,00.
+
+Para interposição de eventual recurso, o valor deverá corresponder a 2% (dois por cento) sobre o valor da condenação, se houver ou da causa (do principal) atualizado, e deverá ser recolhido à título de porte de remessa e retorno dos autos o valor de R$ 29,50 por volume, observando-se o disposto na Lei 11.608/03.
+
+Transitada em julgado, certifique-se. Nada requerido, arquivem-se.
+
+P. R. I.
+                 
+
+São Paulo, 27 de julho de 2014.
+
+
+PAULO ANDRÉ BUENO DE CAMARGO
+                JUIZ DE DIREITO
+                                                                                     Assinatura Eletrônica
+                                                                                   (art. 1º, §§ 1º e 2º, inc. III, da Lei nº 11.419/2006)

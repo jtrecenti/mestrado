@@ -1,0 +1,55 @@
+
+
+SENTENÇA
+
+Processo nº:0193307-27.2011.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Assunto Principal do Processo >
+Requerente:Papiconveniencia Ltda
+Requerido:Telecomunicaçoes de Sao Paulo S.a. - Telesp
+
+Juiz(a) de Direito: Dr(a). Cláudia Maria Pereira Ravacci
+
+Vistos. 
+
+
+
+
+
+PAPICONVENIÊNCIA LTDA. propôs ação contra TELECOMUNICAÇÕES DE SÃO PAULO S/A - TELESP e requereu a condenação desta ao pagamento de indenização por danos materiais referentes aos lucros cessantes, aos gastos com speedy e com equipamentos, bem como a obrigação da ré a disponibilizar internet na velocidade contratada. 
+
+Narra a inicial que a autora abriu uma lan house e cotou com a ré acerca da disponibilidade de intenet banda larga de 8 megas de velocidade. Alega que recebeu resposta positiva da ré, razão pela qual iniciou a contratação de funcionários, aluguel do espaço, bem como compra de equipamentos. Instalada a loja, contratou o serviço de conexão de internet banda larga da empresa ré. Reclama, contudo, que a velocidade da conexão não alcançava nem 1 mega. Após várias reclamações, a velocidade máxima chegou a apenas 2 megas, o que era insuficiente para o adequado funcionamento dos 25 computadores.
+
+Diante da insatisfação com a negociação com a ré requereu a indenização dos lucros cessantes e dos gastos com equipamentos e com a linha.
+
+Na contestação a fls. 144 e segs. a ré arguiu em preliminar a ilegitimidade ativa, vez que a linha em referência na inicial é de titularidade de Willian de Souza. Requereu a improcedência do pedido sob os argumentos de que a ré vem trabalhando e investindo em melhorias de estabilização e expansão da rede. Aduz ainda que podem ocorrer variações nas velocidades nominais máximas alheias à vontade da ré, devido a fatores externos, sem que haja qualquer responsabilidade.
+
+ Réplica a fls. 188 e segs.
+
+           É O RELATORIO.
+           DECIDO.
+
+Conheço diretamente do pedido, cf. art. 330, I, do CPC.
+
+A pretensão inicial merece parcial acolhimento.
+
+O contrato existente entre as partes, prestação de serviços de internet, constitui-se em relação de consumo, tendo em vista que a própria lei não distingue a pessoa física da pessoa jurídica, por isso o caso deve ser examinado à luz do Código de Defesa do Consumidor. De modo que a arguição de ilegitimidade ativa não procede.
+
+Infere-se do inteiro teor dos autos inexistir controvérsia sobre o contrato entabulado entre as partes, bem como sobre as reclamações feitas pela autora, não impugnadas pela ré.
+
+A ré é fornecedora dos serviços, portanto, incumbia-lhe provar a regularidade de sua conduta, ou seja, que os serviços foram prestados de forma adequada, tal como contratados. 
+
+In casu, embora afirme que sempre procurou melhorar seus serviços e que o problema decorreu de defeito na rede interna, de responsabilidade da autora, não demonstrou os fatos alegados.
+
+Não há como se afastar a responsabilidade da ré, tendo em vista que, diante da falha na prestação do serviço, inviabilizou o exercício da atividade comercial da autora (lan house) a contento, uma vez demonstrado o ato ilícito e o nexo causal, há o dever da ré a indenizar a autora quanto aos gastos com o equipamento extra, bem como a obrigação de fornecer o serviço conforme contratado.
+
+Não obstante, quanto ao pedido dos lucros cessantes, no caso dos autos, não vislumbro acolhimento, porquanto não há prova concreta de ganho no período do mau funcionamento da internet, sendo vedada a reparação de lucros cessantes por situação hipotética.
+
+Nesse sentido, confira-se: ?Correspondem os lucros cessantes a tudo aquilo que o lesado deixou de lucrar, ficando condicionado, portanto, a uma probabilidade objetiva resultante do desenvolvimento normal dos acontecimentos. A condenação a esse título pressupõe a existência de previsão objetiva de ganhos na data do inadimplemento da obrigação pelo devedor. No caso, os lucros alegados decorrem de previsões baseadas em suposta rentabilidade de uma atividade empresarial que nem mesmo se iniciou. Assim sendo, não se pode deferir a reparação por lucros cessantes se estes, em casos como o dos autos, configuram-se como dano hipotético, sem suporte na realidade em exame, da qual não se pode ter a previsão razoável e objetiva de lucro, aferível a partir de parâmetro anterior e concreto capaz de configurar a potencialidade de lucro. (STJ-3ª T., REsp 846.455, Min. Sidnei Beneti, j. 10.3.09, maioria, DJ 22.4.09)? (in Código Civil e legislação civil em vigor, THEOTONIO NEGRÃO, JOSÉ ROBERTO F. GOUVÊA e LUIS GUILHERME A. BONDIOLI, 30ª ed. Saraiva, 2011, p. 178, nota 7 ao art. 402).
+
+Pelo exposto, JULGO PARCIALMENTE PROCEDENTE o pedido. Condeno a ré ao imediato fornecimento do serviço conforme contratado relativo à velocidade da banda larga (8 mega) e ao reembolso do valor referente ao equipamento vendido pela ré (R$1.640,84), com correção monetária legal desde o desembolso e juros de mora desde a citação. E, ao pagamento de custas e despesas processuais e de honorários advocatícios arbitrados em R$1.500,00,  pela maior sucumbência.
+P. R. I.
+São Paulo, 03 de dezembro de 2012.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

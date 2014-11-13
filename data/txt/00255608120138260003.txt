@@ -1,0 +1,61 @@
+
+
+SENTENÇA
+
+Processo nº:0025560-81.2013.8.26.0003
+Classe - AssuntoProcedimento Ordinário - Inclusão Indevida em Cadastro de Inadimplentes
+Requerente:Nogartel Telecomunicações Ltda
+Requerido:Serasa Experian
+
+
+
+
+Juiz(a) de Direito: Dr(a). Fábio Fresca
+
+NOGARTEL TELECOMUNICAÇÕES LTDA ajuizou a presente ação em face de SERASA EXPERIAN (fls. 2/25), alegando, em síntese, que contratou serviços com a empresa ré, a fim de obter acesso à consulta de consumidores inadimplentes incluídos no banco de dados pertencentes à requerida. A autora pagou de Janeiro a Julho R$ 3.000,00 mensais pelos serviços. No dia 18 de Julho de 2012 a requerente questionou a ré em relação à indisponibilidade dos serviços e foi informada que o motivo desta era a falta de pagamento da fatura com vencimento em Julho. Na mesma ligação a requerente efetuou a alteração no plano contratado para pagar R$ 300,00 mensais e foi informada que quando o sistema identificasse o pagamento atrasado, o plano seria alterado automaticamente. O sistema continuou bloqueado e a ré continuou a cobrar R$ 3.000,00 da autora, ocasionando na negativação do seu nome. Requereu: 1) a concessão de tutela antecipada para reativar os serviços pactuados; 2) a declaração da inexigibilidade dos débitos com vencimento em Setembro e Novembro de 2012, nos valores respectivos de R$ 3.000,00 e R$ 3.231,90; 3) a exclusão do nome da autora no cadastro de proteção de crédito; e 4) indenização por danos morais no montante não inferior a 40 salários mínimos. Com a inicial vieram documentos (fls. 26/75).
+Deferiu-se a liminar para obrigar a requerida a reativar o serviço de consulta ao banco de dados e sustar os efeitos do protesto (fls. 85).
+O réu apresentou contestação (fls. 108/128) alegando, em apertadíssima síntese, que a relação entre as partes é contratual. O sistema foi bloqueado por ausência de pagamento da fatura com vencimento para 05 de Fevereiro de 2012 e após acordo firmado entre as partes o sistema foi desbloqueado. A ré realizou pesquisa em sua base de dados e constatou que houve cancelamento devido à nota fiscal com vencimento para Julho de 2012, porém aduziu que a fatura que ensejou o bloqueio por falta de pagamento foi a com vencimento para Fevereiro de 2013. Alegou que não manteve indevidamente a cobrança em descompasso a mudança na contratação, uma vez que restou impossibilitada a migração do contrato em virtude do inadimplemento fatura. Por fim, alegou que a migração não é automática, dependendo de validação por meio de representante legal do contrato, sendo assim só ocorreu a migração do contrato quando o sistema foi desbloqueado no dia 25 de Setembro de 2012. Requereu a improcedência da presente ação. Com a contestação vieram documentos (fls. 129/164).
+A autora interpôs agravo de instrumento (fls. 170/181).
+Réplica (fls. 185/190). Veio documento (fls. 191).
+É o relatório.
+
+DECIDO
+
+Julgo antecipadamente o feito, com fundamento no artigo 330, inciso I, do CPC, porque prescindível a produção de outras provas.
+É incontroverso que as partes celebraram contrato de prestação de serviços (fls. 135/145), bem como é inquestionável que a autora pagou todas as parcelas que lhe foram cobradas até Julho de 2012 (fls. 44/58).
+A ré assumiu que bloqueou durante meses os serviços fornecidos à autora e que de fato esta havia solicitado a alteração do plano firmado entre as partes.
+Para dirimir a controvérsia passo a análise do contrato de prestação de serviços (fls. 135/145) firmado entre as partes. 
+Julgo necessário transcrever a parte concernente ao prazo contratual: "VII) DO PRAZO 32ª Este contrato vigerá por prazo indeterminado, a contar da data de sua assinatura". 
+Como se sabe, um dos elementos mais importantes de qualquer contrato é aquela que se alicerça na sua duração. 
+A caracterização do contrato celebrado no presente feito por prazo indeterminado pode ser feito por meio dois elementos, um subjetivo e outro objetivo. 
+O primeiro consiste na declaração expressa de vontade das partes no sentido de não limitar, de qualquer maneira, a duração do contrato. Quando o celebraram, é evidente que as partes não pensaram no seu fim (vide cláusula citada). 
+O segundo se traduz na necessidade de uma declaração de vontade de qualquer dos contraentes para que o contrato termine. Sem essa manifestação de vontade, o vínculo contratual não se dissolve. 
+No caso "sub judice", a própria ré confirmou (vide contestação  fls. 117) que a requerente NOGARTEL TELECOMUNICAÇÕES LTDA  solicitou aos 18 de setembro de 2012 uma pequena modificação de uma cláusula determinada do contrato, ainda que significativa em dinheiro: ao invés de pagar R$ 3.000,00 de consumo mensal, solicitou o pagamento de R$ 300,00 de consumo mensal; ou seja, nunca houve a intenção para que o contrato fosse rescindido.
+A ré argumenta que a migração do plano não era automática, pois dependida da validação por meio de representante legal ("do contrato" ? fls. 117). Mas, a postura da SERASA estava em desacordo com a citada previsão contratual: conforme transcrito acima o contrato estava vigendo por tempo indeterminado, permitindo, desta forma, a solicitação de alteração de determinadas cláusulas contratuais.  
+Toda vez que os sujeitos da relação contratual não manifestam sua intenção de limitar ou rescindir a duração do contrato, e, para extingui-la, precisam manifestar sua intenção de forma expressa, não nos parece legítima a interrupção dos serviços sob o argumento de que era imprescindível a validação da "migração" por meio de representante legal ("do contrato" ? fls. 117). Salvo grande equívoco deste juízo, não se  tratava de "migração de contrato"; mas, limitação de acesso (ou consumo) aos(dos) serviços mensais de R$ 3.000,00 para R$ 300,00.
+Ainda que se trata de "migração", a requerente estava adimplente com o pagamento das parcelas avençadas (fls. 44/58), o que - ao nosso ver  possibilitava a imediata migração do plano sem a interrupção ou bloqueio do sistema.
+É evidente a culpa da ré quanto interrupção da prestação de serviços, e, por consequência, das cobranças indevidas as quais motivaram a negativação do nome da autora. Ambas se mostram indevidas e passíveis de indenização por danos morais.
+Quanto ao arbitramento dos danos morais, têm entendido a doutrina e a jurisprudência que devem ser observados certos critérios como a conduta das partes, condições sociais e econômicas do ofendido e do ofensor, a gravidade do dano, o grau de culpa, a fama do lesado, entre outros.
+Enfim, atendendo-se a esses fatores, arbitro a indenização em R$ 3.000,00 (três mil reais), quantia que reputo razoável e suficiente para a reparação do abalo sofrido pela autora e para reprimir a prática de novos atos semelhantes pela ré.
+
+Ante o exposto, com julgamento de mérito (art. 269, inciso I do Cód. Proc. Civil), JULGO PARCIALMENTE PROCEDENTE a ação para: 1) CONSOLIDAR a liminar de fls. 85; 2) DECLARAR a inexigibilidade dos débitos com vencimento em setembro e novembro, nos valores respectivos de R$ 3.000,00 e R$ 3.231,90; 3) CONDENAR a ré ao pagamento de R$ 3.000,00 por danos morais, corrigidos monetariamente pela Tabela Prática do Tribunal de Justiça do Estado de São Paulo, a partir desta data, conforme Súmula do STJ nº 362, e acrescido dos juros de mora de 1% ao mês, a partir da citação (art. 219 do CPC); e 4) OBRIGAR a ré a desbloquear os serviços contratados pela autora, devendo este ser disponibilizado e cobrado corretamente.
+Por força da sucumbência, condeno a ré ao pagamento das custas e despesas processuais e honorários advocatícios, que arbitro em 10% do valor da condenação (art. 20, pár. 3º do Código de Processo Civil.).
+
+PRI
+
+São Paulo, 30 de janeiro de 2014.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA
+
+C E R T I D Ã O
+Certifico que nesta data fiz o registro da r. sentença retro dos presentes autos no Sistema SAJ/PG5 e baixo-os em Cartório. São Paulo, 30 de janeiro de 2014. Eu,..............., Escrevente, subscrevi.
+
+D A T A
+Em São Paulo, 30 de janeiro de 2014, recebi estes autos em Cartório.Eu,...............Escrevente, subscrevi.
+C E R T I D Ã O
+Certifico e dou fé, em cumprimento à Lei 11.608 de 29.12.2003, que o valor do preparo, para o caso de recurso, é de R$ ..................... (valor singelo) e R$ .......................... (valor corrigido) - Cód. 230- Guia GARE e o valor do porte de remessa e retorno dos autos conforme Prov. 833/2004 é de R$ ........................  (0.... Volume(s ))- Cód. 110-4- FEDTJ. São Paulo, 30 de janeiro de 2014.
+______________________________________________
+p/Escrivã(ão).
+
+R E M E S S A
+Certifico e dou fé haver remetido à imprensa oficial a sentença/certidão de fls. retro e supra. São Paulo, 30 de janeiro de 2014. Eu, .............., Escrevente, subscrevi.

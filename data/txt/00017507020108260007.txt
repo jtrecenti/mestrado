@@ -1,0 +1,83 @@
+
+
+SENTENÇA
+
+Processo nº:0001750-70.2010.8.26.0007
+Classe - AssuntoProcedimento Sumário - Indenização por Dano Moral
+Requerente:Erica Jaciaba Paiva
+Requerido:Tim Celular S/A
+
+Justiça Gratuita
+
+       CONCLUSÃO
+
+                                         Em 28 de março de 2011, faço conclusão destes autos ao MM. Juiz(a) de Direito: Dr(a). Antonio Marcelo Cunzolo Rimola Eu, Ronaldo Flenk Ribeiro, escrevente, subscrevi e digitei.
+
+
+Vistos.
+
+ÉRICA JACIABA PAIVA ajuizou ação declaratória com indenização por danos morais contra TIM CELULAR S.A., na qual contesta ligações telefônicas feitas em sua linha telefônica e que, malgrado tenha dado ciência do fato à ré, esta nada fez para resolução do mesmo, fato este a lhe causar constrangimento passível de indenização por dano moral. Postula, assim, a declaração de inexistência de crédito em favor da ré, com indenização por dano moral. Acostou os documentos de fls. 12/80. 
+
+Processados os autos com a antecipação dos efeitos da tutela (fl. 89), uma vez citada (fl. 105), no prazo para resposta a ré contestou, oportunidade na qual aduziu a correição da cobrança. Postulou, assim, a improcedência (fls. 107/116), juntou os documentos de fls. 122/133. 
+
+A autora se manifestou, em réplica, às fls. 137/139. 
+
+Encerrada a instrução (fl. 150), apenas a autora se manifestou em sede de memoriais (fls. 152/154). 
+
+É o relatório. 
+
+Fundamento e decido. 
+
+A relação que envolve as partes é, certamente, de consumo. O contrato que envolve as partes é de trato sucessivo, sem prazo certo para encerramento, daí a necessidade de sua adequação aos ditames legais específicos, notadamente o Código de Defesa do Consumidor.
+
+Em seu artigo 4° o Código de Defesa do Consumidor previu a implementação de uma Política Nacional de Relações do consumo, tendo como objetivos: o atendimento às necessidades dos consumidores, respeito à sua dignidade, saúde e segurança, a proteção dos seus interesses econômicos, a melhoria de sua qualidade de vida e a transparência e harmonia das relações de consumo.
+
+Tratam-se de princípios norteadores, normas pragmáticas que estão presentes em todo o corpo legal do Código de Defesa do Consumidor.
+
+Falando sobre o tema, ANTONIO HERMAN DE VASCONCELOS E BENJAMIM ensina que: De fato, a lei, por mais ampla que seja, não possa de um capítulo do direito. É componente de um todo. Daí ? nas palavras precisas de ANTÔNIO JUNQUEIRA DE AZEVEDO ?, é preciso não confundir todo direito com uma lei, um singelo esqueleto, sendo que a vida a este esqueleto vai ser dada pela doutrina, pela jurisprudência e, principalmente, pelo próprio espírito do povo, fonte última da própria lei, da doutrina e da jurisprudência. Por conseguinte, compete ao intérprete a árdua tarefa de proceder à intelecção da lei em sintonia com as exigências atuais do espírito do povo, mesmo que ao fazê-lo tenha de abandonar princípios e conceitos arraigados. E o espírito do povo hoje reclama uma tutela efetiva ? direta, célere e dinâmica ? do consumidor. Eis a razão da promulgação do Código de Defesa do Consumidor, instrumento primeiro de regramento do mercado de consumo e, ressalte-se, de tutela do consumidor, como norma de ordem pública e interesse social (art. 1°).
+
+Entretanto, ainda que se aplique ao caso o estatuto acima epigrafado, não se pode, todavia, equiparar ou confundir a responsabilidade objetiva com uma autêntica presunção de culpabilidade ou dever de indenizar. Assim, a responsabilidade objetiva instituída no Código de Defesa do Consumidor dispensa a vítima da prova de haver o fornecedor agido de maneira culposa, mas não a exime de comprovar o nexo de causalidade e a extensão dos danos, que permanecem regidos pela regra geral, pois, de modo diverso, estar-se-ia permitindo a reparação civil de danos não demonstrados, ou até mesmo não relacionados a qualquer atitude da pessoa jurídica a quem está sendo imposta a obrigação de indenizar.
+
+Assim é que, sobre esse arcabouço, tem-se que a possibilidade de clonar um aparelho GSM é mínima, a não ser que se faça um clone do chip, mas para isso seria necessário que a própria autora entregasse o chip pra alguém copiar.
+A rede GSM é totalmente digital, e possui 3 chaves de criptografia, o que acontece no CDMA e que quando o aparelho sai do modo digital e entra em modo analógico, o celular fica vulnerável, assim é possível capturar pelo ar (através de um equipamento específico com uma antena) as informações do seu aparelho, linha e etc. e clonar sua linha. O GSM não entra em modo analógico.Para quebra a criptografia, demora se milhares de anos
+
+Não se pode, todavia, equiparar ou confundir a responsabilidade objetiva com uma autêntica presunção de culpabilidade ou dever de indenizar. (...) Assim, a responsabilidade objetiva instituída no Código de Defesa do Consumidor dispensa a vítima da prova de haver o fornecedor agido de maneira culposa, mas o nexo de causalidade e a extensão dos danos permanecem regidos pela regra geral, pois, de modo diverso, estar-se-ia permitindo a reparação civil de danos não demonstrados, ou até mesmo não relacionados a qualquer atitude da pessoa jurídica a quem está sendo imposta a obrigação de indenizar.
+
+A par dessa circunstância, vale transcrever o inciso I do artigo 188 do Código Civil, segundo o qual enfatiza que não constituem atos ilícitos os praticados em legítima defesa ou no exercício regular de um direito reconhecido. 
+
+Extrai-se dos ensinamentos de PONTES DE MIRANDA:
+
+(...) O exercício, que lesa, é contrário a direito; é preciso que seja regular, para que a contrariedade a direito se pré-exclua. Não é contrário a direito todo exercício de direito que lese; se o exercício for regular, não se poderia tirar ao direito o poder ser exercido porque lesaria outro: seria preferir um direito a outro. A irregularidade do exercício é que estabelece a preferência pelo direito lesado.
+
+Nesse sentido, já decidiu o Egrégio Tribunal de Justiça de Santa Catarina:
+
+A reparação do dano moral encontra-se albergada na lei, sujeita-se sua exigibilidade, aos princípios que norteiam a responsabilidade civil, dentre os quais a demonstração de que o dano resultou da conduta dolosa ou culposa do lesante.
+Não há abuso de direito e não caracteriza ilícito indenizável, quando a instituição financeira exercita regular direito de ação (...).
+
+Configurado nos autos que a atitude levada a cabo pela ré constitui, exercício regular de direito, que em nada fere dispositivos constitucionais ou infraconstitucionais, tem-se que ausentes, portanto as ilegalidades, aplica-se o brocardo latino segundo o qual; qui iure suo utitur neminem laedit, sendo incabível indenização, porque inocorrente ilícito civil. 
+
+Sobre o tema é a jurisprudência:
+
+Ninguém poderá ser responsabilizado civilmente pelo exercício regular de direito enquanto se mantiver dentro da ordem jurídica, ainda que terceiro venha a sofrer prejuízo sem ter sido parte não ação.
+
+Quanto aos demais argumentos expendidos pelas partes, a presente decisão, por mais abrangente, os engloba e, implicitamente, os exclui. 
+
+E, ainda que assim não o fosse, pelo princípio da correlação (pedido propriamente dito X sentença) cumpre lembrar que o magistrado não responde a questionário e nem é obrigado a examinar todas as normas legais e/ou argumentos utilizados pelas partes, e sim somente aqueles que julgar pertinentes para lastrear sua decisão, mais não sendo necessário aduzir. Nesse sentido, a Jurisprudência já se posicionou expressamente, asseverando que:
+
+O juiz não está obrigado a responder a todas as alegações das partes, quando já tenha encontrado motivo suficiente para fundar decisão, nem se obriga a ater-se aos fundamentos indicados por elas e tampouco a responder um a um todos os seus argumentos.
+
+Isso posto, julgo improcedente os pedidos da autora; pondo fim ao processo, com julgamento do mérito, nos termos do artigo 269, inciso I, do Código de Processo Civil.
+
+Considerando a sucumbência, condeno a ré ao pagamento de custas e despesas processuais, corrigidos a partir de seu desembolso, bem como no pagamento de honorários advocatícios, os quais fixo em R$ 500,00, com fulcro no artigo 20, parágrafo 4º do Código de Processo Civil, tanto o mais porque não verificada má-fé.
+
+Registro, a fim de evitar equívoco, que o fato de ser a autora beneficiária da assistência judiciária gratuita a isenta apenas do pagamento dos honorários e das custas necessárias para o andamento da ação, até sua solução final; mas não a libera dos encargos decorrentes da sucumbência, conforme ensinamento jurisprudencial (JTA Saraiva 77/198 e RJTJESP 103/118). A exigência do pagamento das custas, porém, fica condicionada à ocorrência do previsto na Lei n.º 1.060/50 (artigos 11, § 2º e 12). 
+
+Ficam as partes advertidas, desde logo, que qualquer alteração de endereço, no curso do processo, deverá ser comunicada ao Juízo, sob pena de reputarem-se eficazes as intimações enviadas ao local anteriormente indicado, em atenção à regra do artigo 238, parágrafo único do Código de Processo Civil, com sua redação dada pela Lei n.º 11.232, de 22 de Dezembro de 2.005. 
+
+Para efeito de preparo do recurso de apelação (artigo 4º, parágrafo segundo da Lei n.º 11.608 de 29 de Dezembro de 2.003), fixo o valor base de cálculo fixo o valor dado à título de verba honorária em desfavor da autora, aquele dado à causa, corrigido monetariamente desde a propositura. Providencie a serventia o cálculo.
+
+
+
+P. R. I. e C.
+
+São Paulo, 28 de março de 2011.

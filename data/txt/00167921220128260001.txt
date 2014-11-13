@@ -1,0 +1,53 @@
+
+
+SENTENÇA
+
+Processo nº:0016792-12.2012.8.26.0001
+Classe ? Assunto:Procedimento Ordinário - Defeito, nulidade ou anulação 
+Requerente:Daniel Siqueira Guerino
+Requerido:Banco Itaú S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Edmundo Lellis Filho
+
+
+Sentença
+Relatório, de acordo com o artigo 458, CPC.
+As partes já estão identificadas no cabeçalho da folha do sistema SAJ.
+Suma do pedido: 
+O autor pede a concessão de medida liminar para que seu nome seja excluído dos cadastros dos órgãos de proteção ao crédito. No mérito, requer a declaração da inexigibilidade do débito e a condenação do réu à indenização por danos morais, no valor de R$ 410.080,32, em razão do apontamento indevido no rol de maus pagadores, oriundo de empréstimo contraído com a instituição financeira, já quitado, e de outras operações cuja origem desconhece. Diz que a restrição o impediu de adquirir um veículo. Acrescenta que não adquiriu outros empréstimos, não renegociou a dívida, nem reconhece os depósitos de pequenos valores e pagamentos de títulos de valores expressivos que vêm sendo efetuados em sua conta corrente. Sustenta que, ainda que houvesse algo a pagar pela única dívida que contraiu, já estaria prescrita. Discorre sobre a aplicação de juros excessivos. Requer a inversão do ônus da prova e a concessão da assistência judiciária. 
+Suma da resposta do réu: 
+A fls. 63/81, o réu apresenta contestação. Aduz que o autor contraiu um empréstimo e também outras dívidas com a instituição financeira, encontrando-se inadimplente desse setembro/2011. Alega que as partes celebraram renegociação, sob o título de ?Credicomp?, e que os ?pagamentos dos títulos? lançados na conta corrente do autor correspondem à quitação dos contratos renegociados. Afirma que o autor só pagou a 1ª parcela das 48 do contrato ?Credicomp?. Ressalta que a operação foi formalizada por telefone, por meio da central de cobrança do banco, ocasião em que o autor ficou ciente de todas as características envolvidas na renegociação. Diz que não dispõe da gravação do contato, porque se exauriu o prazo de sua manutenção em seus arquivos. Sustenta que causa estranheza o fato de o autor não ter lavrado boletim de ocorrência para apuração do alegado. Sustenta que o comprovante de pagamento de fls. 33 não se trata da quitação da dívida do contrato anteriormente celebrado, mas refere-se à 1ª parcela do ?Credicomp?. Afirma a licitude da negativação. Discorre sobre a legalidade dos juros cobrados. Impugna a pretensão indenizatória e seu valor. 
+Principais ocorrências havidas no andamento do processo: 
+A fls. 47, deferida a liminar e concedida a assistência judiciária. 
+
+Fundamentos de análise das questões de fato e de direito:
+0016792 12 2012
+
+A ação é procedente em parte.
+O julgamento da ação de conhecimento se desdobra em duas partes. Primeiro, a existência de lançamentos em conta corrente que o autor alega desconhecer a origem. Segundo, o objeto da negativação de fls. 34, no valor de R$ 8.543,00.
+Encontra-se o autor negativado por uma obrigação de R$ 8.543,00 (fls. 34), cuja origem alega não existir ou não conhecer.
+Disse o banco que aquele valor é resultante de um empréstimo confessado pelo próprio autor, correspondente a 24 parcelas de R$ 624,64.
+Realmente, é fato que o autor vinha tendo descontado em sua conta corrente um parcelamento de empréstimo no valor de R$ 624,64, conforme se nota de seus extratos bancários. Contudo, aparentemente, não houve mais o desconto da parcela do financiamento desde Janeiro de 2007 (fls. 28,vº).
+Verifica-se nos referidos extratos que, realmente, há um lançamento de desconto de um empréstimo chamado CREDICOMP em 01/36 parcelas de R$ 866,29, além de outro parcelamento de linha de crédito de mesmo nome como 01/09, no valor de R$ 274,38.
+Esses lançamentos não são coerentes com o demonstrativo de empréstimo de fls. 31 juntado pelo autor e por ele negado como tendo sido efetivamente realizado. 
+De fato, nota-se nesse demonstrativo uma abertura de crédito de R$ 178.239,30. Realmente, quantia vultosa, sem qualquer assinatura em contrato escrito, nem indicou a contestante onde se encontrou creditado expressiva quantia de dinheiro.
+À medida que o contrato de conta corrente permite que o banco proceda a movimentações em nome do cliente, cabe à entidade bancária, quando exigido, prestar esclarecimentos ao correntista, inclusive, apresentando documentos que expliquem a relação débito-crédito. Por isso, é pacífica a jurisprudência no sentido de que o banco deve prestação de contas ao correntista.
+Por consequência, a movimentação na conta corrente do autor, uma vez por ele impugnada e pelo banco não esclarecida, deve ser considerada indevida, até mesmo porque não dispõe o consumidor do poder de manipulação do sistema computadorizado que atua na sua conta e a legislação de consumo o favorece com a inversão do ônus da prova.
+Então, deve ser acolhido o pedido de inexigibilidade da obrigação correspondente aos lançamentos de débitos que o autor descreve a fls. 05, item 4, letras d, e, f, g, h, assim como o empréstimo de letra i, da mesma fls. 05, item 04, porque nem aqueles lançamentos de débito, nem o empréstimo contraído foram, correta e satisfatoriamente explicados pelo banco.
+Especificamente, com relação ao débito objeto da negativação de fls. 34, não está claro porque o banco deixou de fazer os descontos.
+Com o vencimento e o não pagamento da parcela de número 11, em Fevereiro de 2008, pelo que se deduz de fls. 24, v (extrato juntado pelo autor), considera-se vencida a integralidade da dívida e, portanto, inicia-se a contagem do prazo prescricional.
+O prazo prescricional em questão é de cinco anos, por força do artigo 206, § 5º, inc. I, CC/2002, conforme precedente da Corte Paulista (0008367-95.2009.8.26.0196  Apelação Relator(a): Sérgio Shimura Comarca: Franca Órgão julgador: 23ª Câmara de Direito Privado Data do julgamento: 29/08/2012 Data de registro: 01/09/2012). Então, presentemente, ainda não se verificou a propalada prescrição (o que ocorrerá em 2.013 apenas).
+Uma vez que é apropriada a negativação, pois não há prescrição e está clara a origem da obrigação, não cabe danos morais e deve ser revogada a liminar de fls. 47. Acrescenta-se que os lançamentos indevidos na conta do autor não parece que lhe causaram transtornos, visto o tempo decorrido para que propusesse a ação, mais de um ano, considerando a data de 11 de Maio de 2011 (fls. 31 ? data da operação) e a data da distribuição da ação (18/04/2012).
+Dispositivo de resolução das questões:
+
+Assim, em face dos pedidos formulados a fls. 15, julgo procedente o item c, reconhecendo o empréstimo de R$ 8.000,00; julgo improcedente o item d, pois a dívida não está paga integralmente, nem prescrita; julgo improcedente o item e, pois confuso; julgo procedente o item f, em parte, porque a procedência aqui se estende apenas às letras d, e, f, g, h (títulos pagos sem origem explicada pelo banco) e letra i (empréstimo de R$ 172.685,00 negado pelo autor e não provado pelo réu); julgo improcedente o item g, pois não há prescrição; julgo improcedente o item j, pois não há danos morais.
+Demais itens prejudicados ou impertinentes.
+É recíproca a sucumbência.
+Revogo a liminar de fls. 47.
+P.R.I.C.
+
+
+São Paulo, 25 de setembro de 2012.

@@ -1,0 +1,71 @@
+
+
+SENTENÇA
+
+Processo nº:1043317-71.2013.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Moral
+Requerente:MARTA REIS AZEREDO SILVA
+Requerido:BANCO CITIBANK S/A
+
+Juiz(a) de Direito: Dr(a). Rogério de Camargo Arruda
+
+Vistos.
+
+MARTA REIS AZEREDO SILVA ajuizou a presente ação indenizatória em face de BANCO CITIBANK S/A, alegando, em síntese, ter tido seu nome incluído, por indicação do requerido, no Sistema de Informações de Crédito do Banco do Brasil, sendo que as parcelas do contrato que celebraram são pagas tempestivamente. Alegou que tentou solucionar a questão extrajudicialmente, de forma que o requerido reconheceu a inexistência do débito, contudo, não retirou seu nome do cadastro. Assim, requereu liminar para remover seu nome do SCR e condenação do requerido ao pagamento de indenização no valor de R$100.000,00. Com a inicial vieram documentos.
+
+A tutela foi antecipada (folha 39).
+
+Citado, o requerido apresentou a contestação de folhas 56/69, pela qual sustentou que registrou o contrato firmado com a autora no SCR, pois é dever da instituição financeira cadastrar suas operações de crédito diante de valor superior a R$1.000,00, de forma que esta obrigatoriedade dispensa notificação à autora. Aduziu que o SCR não é um cadastro de restrição de crédito como o SCPC ou SERASA. Ocorre que, diante de renegociação do contrato, persistiu saldo devedor da autora, sendo este o motivo pelo qual o seu cadastro não foi alterado de forma imediata. Por isso, aponta não estarem presentes os requisitos legais para a sua responsabilização, motivo pelo qual requereu a improcedência da demanda. Juntou documentos.
+
+Réplica às folhas 96/99.
+
+Instadas a se manifestar sobre o interesse na produção de outras provas (folhas 104), a autora alegou interesse em conciliar ou julgamento antecipado da lide (folha 105), ao passo que o requerido pugnou somente pelo julgamento antecipado da lide (folha 106).
+
+É o relatório.
+
+Fundamento e decido.
+
+O feito comporta julgamento no estado em que se encontra, tendo em vista que as alegações das partes e os documentos acostados aos autos permitem a prolação da sentença, independentemente da produção de outras provas, nos termos do artigo 330, inciso I, ambos do Código de Processo Civil.
+
+Posto isso, a ação é parcialmente procedente. 
+
+Isso porque, nos termos do que se depreende da petição inicial, alegou a parte autora que o requerido teria inserido e mantido o seu nome nos cadastro SCR, do Banco Central do Brasil, em função de dívida eu por ela vem sendo regularmente quitada, conforme dão conta os documentos de folhas 17/23 e conforme expressamente reconhecido pelo requerido às folhas 65.
+
+Posto isso e reconhecida a situação regular da parte requerente, mesmo em caso de renegociação de dívida, no caso concreto, não se pode acolher as alegações da parte requerida, no sentido de que não se trataria de informações restritivas, uma vez que, nos termos do quanto já decidiu o Egrégio Superior Tribunal de Justiça, o denominado SCR possui natureza restritiva:
+
+
+
+CIVIL E PROCESSUAL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. SISBACEN. SISTEMA DE INFORMAÇÕES DE CRÉDITO DO BANCO CENTRAL DO BRASIL (SCR). NATUREZA DE CADASTRO RESTRITIVO DE CRÉDITO. INSCRIÇÃO INDEVIDA. DANOS MORAIS. DEVER DE INDENIZAR. QUANTUM INDENIZATÓRIO. MINORAÇÃO. NECESSIDADE. VERBA HONORÁRIA. PERCENTUAL SOBRE A CONDENAÇÃO. REVISÃO. IMPOSSIBILIDADE.
+(...) 
+2. As informações fornecidas pelas instituições financeiras ao SISBACEN afiguram-se como restritivas de crédito, haja vista que esse sistema de informação avalia a capacidade de pagamento do consumidor de serviços bancários. O banco que efetuou a inclusão indevida do nome da autora nesse cadastro deve ser responsabilizado pelos danos morais causados.  
+
+STJ - REsp 1.117.319/SC - Rel. Ministra Nancy Andrighi, Terceira Turma, DJ: 22.02.2011- g.n.
+
+
+E, no caso, o caráter restritivo das informações passadas pela parte requerida ao Banco Central do Brasil resta mais do que evidenciado pelo quanto dão conta os documentos de folhas 29/32, que revelam a efetiva restrição que teve a autora em seu crédito, especificamente em razão da anotação em estudo nestes autos. 
+
+Demais disso tudo, a irregularidade da inscrição em comento também é revelada pelo fato de que, com a renegociação que se operou e com a regularidade dos pagamentos que se seguiram, a situação da autora estava regular, sendo dever do requerido promover a alteração da informação constante dos cadastros ? incluindo o SCR -, o que, todavia, não foi observado, como reconhecido às folhas 58, contrariando a boa-fé objetiva.  Nesse sentido:
+
+
+DANOS MORAIS - Manutenção indevida do nome da apelada em cadastro de inadimplentes - Não comprovação do efetivo pedido de exclusão da anotação após renegociação da dívida -Violação do princípio da boa-fé objetiva por parte do credor -Desnecessidade de comprovação da efetiva ocorrência de tais danos, sendo suficiente a prova do fato ilícito para gerar o dever de indenizar. (TJSP - Apelação 0039715-11.2007.8.26.0000 ? Rel. Des. Rômolo Russo - DJ: 19.05.2011 ? g.n.)
+
+
+Assim sendo, comprovada a irregularidade na conduta da parte requerida ao manter anotação de dívida renegociada, por tempo que extrapola o razoável para que procedesse a baixa na anotação, deve ela reparar à parte autora dos danos morais que sabidamente experimentou com a restrição comprovada, como entende a jurisprudência:
+
+
+Manutenção da inscrição depois de liquidada a dívida -Ato ilícito configurado - Dano moral devido - Quitada a dívida, acabou a inadimplência, não mais justificando a divulgação do nome da apelada na lista de devedores da SERASA - Hipótese de configuração do dano moral "in re ipsa" (TJSP - Apelação 0033946-69.2009.8.26.0576 ? Rel. Walter Fonseca ? DJ: 06.10.2010 ? g.n.)
+
+
+Referida indenização por danos morais, com apontam doutrina e jurisprudência, deve atender à sua dupla finalidade: ressarcimento do dano experimentado pela vítima e desestimulo da conduta do ofensor.  Assim sendo, consideradas as particularidades do caso concreto, a razoabilidade e para que se evite o enriquecimento ilícito da parte requerente, fixo a indenização em R$ 10.000,00.
+
+Diante do exposto JULGO PARCIALMENTE PROCEDENTES os pedidos para: a) tornar definitiva a decisão que antecipou os efeitos da tutela (folha 18/19); e b) condenar a parte requerida a pagar à parte autora, a título de danos morais, a quantia de R$ 10.000,00 (dez mil reais), atualizados peal Tabela do E. TJSP e com juros de mora de 1% ao mês, ambos desta data. Em consequência, julgo o feito extinto, nos termos do artigo 269, I, do Código de Processo Civil.
+
+Pela sucumbência na substância dos pedidos, arcará a parte requerida com as custas e despesas processuais, bem como com honorários advocatícios da parte contrária, fixados em 10% sobre o valor da condenação. 
+
+Restam as parte advertidas, desde logo, que a oposição de embargos de declaração fora das hipóteses legais e/ou com efeitos infringentes lhes sujeitará a imposição da multa prevista pelo artigo 538, parágrafo único, do Código de Processo Civil.
+
+P.R.I.C.
+
+São Paulo, 29 de outubro de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE, NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

@@ -1,0 +1,68 @@
+
+
+SENTENÇA
+
+Processo nº:0174954-02.2012.8.26.0100
+Classe - AssuntoProcedimento Sumário - Perdas e Danos
+Requerente:Caue Rocha Soares
+Requerido:Banco Santander S/A e outro
+
+
+
+
+Juiz(a) de Direito: Dr(a). Álvaro Luiz Valery Mirra
+
+
+Vistos etc.
+
+CAUÊ ROCHA SOARES, qualificado nos autos, propôs ação de indenização por danos materiais e morais, sob procedimento ordinário, em face de BANCO SANTANDER (BRASIL) e SANTANDER CORRETORA DE CÂMBIO E TÍTULOS. Alega que é cliente do banco há mais de cinco anos e, de forma não profissional, comercializa ações por meio da corretora de valores a ele vinculada. Para tanto, celebrou com a ré Santander Corretora de Câmbio e Títulos ?Contrato para Realização de Operações nos Mercados Administrados pela Bolsa de Valores do Estado de São Paulo?. Em 29.10.2009, telefonou para a ?Sala de Ações? da corretora e transmitiu, às 11h01min., ao operador Ricardo, uma ordem de compra de 60 mil ações da empresa ?Agrenco?, no valor de R$ 1,19 cada, totalizando uma operação de R$ 71.806,83. No mesmo dia, às 16h15min, ao constatar que o valor das ações havia atingido o valor de R$ 1,28, telefonou novamente para a ?Sala de Ações? e transmitiu ao mesmo operador que o auxiliou na compra uma ordem de venda imediata de 50 mil ações. Nessa ocasião, o operador disse-lhe que a ordem havia sido executada, tendo confirmado a venda. Contudo, no dia seguinte, recebeu um telefonema do mesmo operador, informando que a ordem de venda das ações na verdade não tinha sido realizada naquele dia, mas sim no dia seguinte, ao preço de R$ 1,10. O operador reconheceu o erro e informou que poderia ?casar? as operações de compra e venda, como se tivessem ocorrido no mesmo dia, a fim de minorar o prejuízo. Insatisfeito, o autor procurou uma solução extrajudicial para o caso, mas não obteve êxito.  Dessa forma, pede a condenação dos réus ao pagamento de indenização por danos materiais, no valor de R$ 9.947,89, em razão do que perdeu e deixou de lucrar com a venda equivocada das ações, e por danos morais, pelo desgaste emocional sofrido, em valor a ser arbitrado judicialmente, não inferior, porém, a R$ 9.947,89.
+ 
+Acompanham a petição inicial os documentos de fls. 18 a 54.
+
+Citados os réus responderam à presente. Sustentam que, conforme dispõe a cláusula 1.5 do contrato celebrado, as operações de venda de ações somente se consideram realizadas após a emissão de notas de corretagem pela corretora. Além disso, em 29.10.2009 foram negociados no mercado somente 21.100 ações ao preço estabelecido pelo autor e como o sistema de negociação da BM&FBovespa respeita a ordem cronológica das ofertas, a ordem do autor, inserida às 16h17min, não foi realizada em sua integralidade em razão da inexistência de contraparte para compra das ações pelo preço estipulado (R$ 1,28). Informa, ainda, que as conversas telefônicas entre clientes e as ?Salas de Ações? do Santander não são gravadas, conforme dispõe a Instrução CVM nº 387. Impugna, por fim, a ocorrência de danos materiais e morais indenizáveis e o quantum pretendido pelo autor a título de indenização (fls. 60 a 85).
+
+A réplica do autor veio às fls. 87 a 97.
+
+O autor requereu a produção de prova oral (fls. 101/103). O réu não manifestou interesse na produção de outras provas (fl. 104).
+
+Designada audiência para fins de tentativa de conciliação, esta resultou infrutífera, ante a ausência do réu (fl. 109).
+
+É o relatório.
+
+DECIDO.
+
+O mérito da causa comporta julgamento antecipado, nos termos do art. 330, I, do CPC, sendo desnecessária a produção de outras provas.
+
+Os elementos de convicção constantes dos autos evidenciam que as partes celebraram contrato, por meio do qual os réus se comprometeram a prestar ao autor serviços de realização de operações nos mercados administrados pela Bolsa de Valores do Estado de São Paulo. Em 29.10.2009, o autor telefonou para a ?Sala de Ações? da ré Santander Corretora de Câmbio e Títulos e transmitiu uma ordem de compra ao operador Ricardo de 60 mil ações da empresa ?Agrenco?, no valor de R$ 1,19 cada, totalizando uma operação de R$ 71.806,83. No mesmo dia, ao constatar que o valor das ações havia atingido o preço de R$ 1,28, telefonou novamente para a ?Sala de Ações? e transmitiu ao mesmo operador uma ordem de venda imediata de 50 mil de suas ações, tendo recebido a confirmação da operação. Contudo, no dia seguinte, o autor soube, por intermédio do mesmo operador, que a venda das ações não havia sido realizada no momento anunciado, mas posteriormente, ao preço de R$ 1,10, tendo havido erro na operação. Em razão do ocorrido, o operador propôs ?casar? as operações, como se a compra e venda tivessem acontecido no mesmo dia, procurando, com isso, minorar os prejuízos causados.
+
+Essa versão para os fatos resulta, em essência, das alegações apresentadas pelo autor com a petição inicial e dos documentos que acompanham a referida peça.
+
+Observe-se que os réus não negam a celebração do contrato entre as partes e nem a realização das operações de compra e venda das ações. Tampouco contestam que as operações em questão foram feitas pelo operador de nome Ricardo, o qual, após a venda das ações por preço inferior, teria proposto solução para diminuir o prejuízo experimentado pelo demandante.
+
+Assim, deve ser aceita como verdadeira a narrativa apresentada pelo autor, até porque os réus não disponibilizaram as gravações das conversas telefônicas mantidas entre aquele e o operador Ricardo, previstas de maneira expressa na cláusula 14ª do ajuste firmado (fls. 28), impedindo, com isso, que se pudesse apurar o teor das ordens de compra e venda passadas e os atendimentos feitos pelo seu preposto.
+
+A alegação dos réus, de que as operações somente poderiam ser consideradas efetivadas após a emissão das notas de corretagem, não pode ser aceita. Isso porque, se assim fosse, caberia ao operador informar que a venda das ações apenas seria concretizada após tal providência, o que não aconteceu. Diferentemente, no caso, segundo consta, o operador Ricardo informou ao autor que a ordem havia sido executada e confirmou a venda, devendo tal transação prevalecer.
+
+Como se pode perceber, inegável o defeito na prestação dos serviços pelas rés, do que emerge sua responsabilidade pelos danos experimentados pelo autor.
+
+No que se refere aos danos materiais, tem-se que estão comprovados, pelo que o autor efetivamente perdeu e deixou de lucrar com a operação de compra e venda das ações, no montante de R$ 9.947,89, na forma discriminada às fls. 13 e 14, não impugnado de maneira consistente pelos réus.
+
+Quanto aos danos morais, a situação é diversa, pois o que houve, no caso, foi mero descumprimento de obrigação contratual por parte dos réus, insuscetível de acarretar abalo psíquico ou emocional, apto a configurar prejuízo extrapatrimonial reparável. Conforme já teve a oportunidade de decidir o Egrégio Tribunal de Justiça de São Paulo: 
+
+?DANOS MORAIS ? Descumprimento contratual ? Hipótese que não é apta a ensejar a pretendida indenização ? Só deve ser reputado como dano moral a dor, vexame, sofrimento ou humilhação intensa e duradoura que, fugindo à normalidade, cause aflições, angústia e desequilíbrio ao bem-estar ? RECURSO NÃO PROVIDO?. (TJSP, Apelação nº 0125230-40.2009.8.26.0001, 38ª Câmara de Direito Pri-vado, Relator Des. Renato Rangel Desinano, j. em 30.5.2012, v.u.).
+
+Diante do exposto, JULGO PARCIALMENTE PROCEDENTE a demanda e condeno os réus a pagar ao autor a quantia de R$ 9.947, 89 (nove mil, novecentos e quarenta e sete reais e oitenta e nove centavos), com correção monetária desde o ajuizamento da ação e juros de 1% contados da citação.
+
+JULGO IMPROCEDENTE o pedido de indenização por danos morais decorrentes do inadimplemento contratual.
+
+Tendo em vista que autor e réus são em parte vencedores e vencidos na causa, distribuo entre eles as custas e despesas processuais, na proporção de 50% para o autor e 50% para os réus, compensando-se os honorários advocatícios.
+
+P.R.I.
+
+ÁLVARO LUIZ VALERY MIRRA
+             Juiz de Direito
+
+
+São Paulo, 21 de outubro de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

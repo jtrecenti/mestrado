@@ -1,0 +1,90 @@
+
+
+SENTENÇA
+
+Processo nº:0002034-96.2010.8.26.0001 - Procedimento Ordinário
+Requerente:Fabio Cesar Perinetto
+Requerido:Dicenter Informática Ltda - EPP e outro
+
+
+
+
+Juiz(ª) de Direito Dr.(ª): Enéas Costa Garcia
+
+
+
+
+Vistos. 
+
+
+
+
+1. FABIO CESAR PERINETTO, qualificado nos autos, ingressou com ação contra DICENTER INFORMÁTICA LTDA ? EPP e BANCO SANTANDER S/A, alegando, em síntese, que celebrou com a requerida, por duas vezes, contratos para aquisição de mercadorias, sendo surpreendido pelo apontamento a protesto de títulos relativos a negócio inexistente, títulos apresentados pelo co-réu.  
+Pretende o acolhimento do pedido para cancelamento dos protestos, declaração de inexistência do débito e condenação dos réus ao pagamento de indenização de dano material e moral. 
+
+2. O réu Bando Santander foi citado e apresentou contestação (fls. 45/53). Alega em defesa: a) ilegitimidade de parte; b) que os títulos foram cedidos em contrato celebrado com a co-ré, a qual seria responsável pelas declarações prestadas; c) inexistência de dano moral passível de indenização.
+A ré Dicenter foi citada por edital, tornando-se revel (fls. 121). Foi nomeado Curador, que apresentou contestação por negativa geral, com invocação de nulidade de citação (fls. 124/126). 
+   
+3. Veio aos autos a réplica (fls. 79/88).
+É o relatório. 
+
+DECIDO.
+
+4. O feito comporta julgamento antecipado, sendo dispensável a produção de prova oral, nos termos do art. 330, I do Código de Processo Civil.
+
+5. Rejeito a preliminar de ilegitimidade passiva. 
+A matéria deduzida a título de preliminar, na verdade, diz respeito ao mérito. 
+As condições da ação ? e especialmente a legitimidade ad causam ? são aferidas, conforme a teoria da asserção, de acordo com o alegado pela  parte. O juiz deve verificar, de forma hipotética, se as pessoas indicadas seriam aquelas titulares da relação material discutida no processo, pressupondo como verdadeiros os fatos alegados pelo autor. É o quanto basta para o reconhecimento da legitimidade ad causam. Verificar, in concreto, se realmente são verdadeiros os fatos alegados é matéria do mérito e eventual incongruência gera a improcedência do pedido. 
+Neste sentido a lição de JOSÉ CARLOS BARBOSA MOREIRA (Legitimidade para agir. Indeferimento de petição inicial, in Temas de direito processual, primeira série, p. 200): O exame da legitimidade, pois ? como o de qualquer das 'condições da ação' ?, tem de ser feito com abstração das possibilidades que, no juízo de mérito, vão deparar-se ao julgador: a de proclamar existente ou a de declarar inexistente a relação jurídica que constitui a res in iudicium deducta. Significa isso que o órgão judicial, ao apreciar a legitimidade das partes, considera tal relação jurídica in statu assertionis, ou seja, à vista do que se afirmou. Tem ele de raciocinar como quem admita, por hipótese, e em caráter provisório, a veracidade da narrativa, deixando para a ocasião própria (o juízo de mérito) a respectiva apuração, ante os elementos de convicção ministrados pela atividade instrutória.
+O autor expressamente imputou ao requerido falha no encaminhamento dos títulos ao protesto, o que lhe atribui legitimidade passiva ad causam. 
+
+6. Rejeito a alegação de nulidade de citação. 
+As várias diligências realizadas foram suficientes para formar a convicção de que a requerida encontra-se em local incerto.
+Não é necessário diligenciar junto a todo órgão que possua banco de dados, conforme a jurisprudência: Não há imposição legal de expedição de ofícios às repartições públicas, para fins de localização do réu tido em local incerto ou não sabido, cuja necessidade deve ser analisada no caso em concreto (STJ- 3ª T., REsp 364.424-RJ, rel. Min. Nancy Andrighi, j. 4.4.02, negaram provimento, v.u., DJU 6.5.02, P. 289).
+
+7. A ação é PARCIALMENTE PROCEDENTE. 
+ A própria ré reconheceu que inexiste o débito, conforme os documentos de fls. 19/21, concordando com o cancelamento do protesto. 
+Segundo informou o autor, não se trata de mero cancelamento de negócio, mas da absoluta inexistência deste. 
+Constata-se pelos documentos de fls. 16/18 que sequer existem efetivamente as mencionadas duplicatas. O protesto foi lavrado por indicação, o que permite concluir que o título nem mesmo foi apresentado. 
+A emissão de duplicata pressupõe realização de negócio causal de natureza mercantil, o qual deveria ser demonstrado com exibição da respectiva nota fiscal, o que não ocorreu. 
+Insuficiente a contestação por negativa geral, pois os documentos juntados confirmam a inexistência do negócio e a irregularidade do protesto. 
+Assim, devem ser acolhidos os pedidos no que concerne ao cancelamento do protesto e declaração de inexistência do débito. 
+A indevida restrição de crédito, decorrente do protesto irregular, caracteriza dano moral, independentemente de outras consequências. 
+Desnecessária a produção de prova da existência do dano. Ampliado, porém o conceito de abalo de crédito, para compreender também as suas projeções na esfera subjetiva dos direitos da personalidade do indivíduo, já então, e contrariamente ao decidido por alguma jurisprudência, a existência do dano moral não reclama rigorosa demonstração probatória. (YUSSEF SAID CAHALI, Dano moral, p. 361).
+Como salientou o Ministro Castro Filho: Cabe ainda ressaltar que, em casos que tais, faz-se desnecessária a prova do prejuízo, que é presumido, uma vez que o dano moral decorre da própria inclusão indevida do nome do autor no cadastro de inadimplentes. (STJ ? AgRg no Ag. nº 470538/SC  - Rel. Min. Castro Filho ? j. 6/11/03)
+No mesmo sentido: Resp. nº 389.879/MG -   Rel. Min. Sálvio de Figueiredo Teixeira; Resp. nº 332.622/RJ - Rel. Min. César Asfor Rocha; Resp. nº 285.854/PB - Rel. Min. Carlos Alberto Menezes Direito; Resp. nº 51.158/ES - Rel. Min. Ruy Rosado de Aguiar.
+Também o banco requerido é solidariamente responsável pela reparação do ilícito. 
+É certo que os documentos emitidos pelo Cartório de Protesto indicam endosso mandato, mas o próprio réu esclareceu sua verdadeira posição jurídica no negócio (fls. 47), informando que houve endosso translativo por meio de contrato de desconto dos títulos, havendo declaração da empresa cedente nomeando o banco mandatário. 
+Enfim, o que se constata é que o banco agiu no próprio interesse, como credor cessionário do título, valendo-se apenas de uma procuração. Não se trata da simples hipótese de endosso mandato. O banco era cessionário das duplicatas. 
+E na condição de cessionário o banco responde solidariamente pela inexistência do título e o indevido protesto. 
+Esta a orientação do Superior Tribunal de Justiça:
+
+DIREITO CIVIL E CAMBIÁRIO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. DUPLICATA DESPROVIDA DE CAUSA RECEBIDA POR ENDOSSO TRANSLATIVO. PROTESTO. RESPONSABILIDADE DO ENDOSSATÁRIO.
+1. Para efeito do art. 543-C do CPC: O endossatário que recebe, por endosso translativo, título de crédito contendo vício formal, sendo inexistente a causa para conferir lastro a emissão de duplicata, responde pelos danos causados diante de protesto indevido, ressalvado seu direito de regresso contra os endossantes e avalistas.
+2. Recurso especial não provido.
+(STJ - REsp 1213256/RS, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 28/09/2011, DJe 14/11/2011)
+
+Ademais, agiu o réu com culpa, pois sequer exigiu comprovação da efetiva existência do negócio causal que autorizaria o saque de duplicata. 
+Cabia ao réu, para se isentar de responsabilidade, juntar a nota fiscal, comprovante de entrega da mercadoria, etc. Enfim, apresentar os documentos que justificariam o saque de duplicata, o que não ocorreu. 
+Considerando as circunstâncias do caso, o grau da ofensa e intensidade da lesão, fixo a indenização em R$ 9.000,00 (nove mil reais), o que se aproxima de quinze salários. 
+Incide correção monetária desde a sentença (Súmula 362 do STJ) e juros de mora, à taxa legal, desde a data do primeiro protesto. 
+Incabível a aplicação do art. 42 do Código de Defesa do Consumidor, pois não houve efetivo pagamento do indébito. Nesse sentido a lição de ANTÔNIO HERMAN V. BENJAMIN (Manual de direito do consumidor, p. 234): Exatamente por regrar, no iter da cobrança, estágio diverso e anterior (mas nem por isso menos gravoso ao consumidor) àquela tratado pelo CC é que o CDC impõe requisito inexistente na norma comum. Note-se que, ao revés do que sucede com o regime civil, há necessidade de que o consumidor tenha, de fato, pago indevidamente. Não basta a simples cobrança. No art. 940, é suficiente a simples demanda.
+Também não incide o art. 940 do Código Civil, pois referida norma pressupõe cobrança judicial da dívida, o que não existiu. 
+
+8. Diante do exposto, JULGO PARCIALMENTE PROCEDENTE o pedido para:
+a) declarar a nulidade e inexigibilidade dos títulos indicados na inicial;
+b) tornar definitiva a tutela antecipada para cancelamento dos protestos, respondendo os réus pelas despesas respectivas junto ao Cartório;
+c) condenar os requeridos, solidariamente, ao pagamento de indenização de dano moral, no montante de R$ 9.000,00 (nove mil reais), com correção monetária desde a sentença (Súmula 362 do STJ) e juros de mora, à taxa legal, desde a data do primeiro protesto.
+Condeno os requeridos ao pagamento de custas, despesas processuais e honorários advocatícios, que arbitro em 10% do valor da condenação.  
+
+P. R. I
+
+
+   São Paulo, 22 de março de 2012.
+
+
+
+ ENÉAS COSTA GARCIA
+        JUIZ DE DIREITO
+
+         (assinatura digital)

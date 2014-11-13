@@ -1,0 +1,60 @@
+
+
+SENTENÇA
+
+Processo nº:0036370-55.2012.8.26.0002
+Classe - AssuntoProcedimento do Juizado Especial Cível - Obrigação de Fazer / Não Fazer
+Requerente:Francisco George Rodrigues dos Santos
+Requerido:Banco Bradesco S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Juliana Morais Bicudo
+
+
+Vistos.
+
+Relatório dispensado, nos termos do artigo 38 da Lei n. 9.099/1995.
+
+DECIDO.
+
+Julgo antecipadamente a lide, com base no artigo 330, I, do Código de Processo Civil, porque desnecessária a produção de prova em audiência. 
+
+Nos termos do artigo 14 da Lei n. 8.078/1990, aplicável à relação jurídica sub judice, o fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços. A responsabilidade do fornecedor pressupõe, portanto: (i) oferta do serviço; (ii) existência de defeito; (iii) dano suportado pelo consumidor; (iv) nexo causal entre o defeito e o dano.
+
+Reputa-se defeituoso o serviço que não fornece a segurança que o consumidor dele pode esperar (artigo 14, § 1o, da Lei n. 8.078/1990), quanto a seus riscos e resultados. O dever de indenizar prescinde de culpa; a responsabilidade é objetiva.
+
+Para eximir-se da obrigação prevista no artigo 14 da Lei n. 8.078/1990, o fornecedor deve comprovar a inexistência de defeito, a culpa exclusiva do consumidor ou de terceiro (14, § 3o, da Lei n. 8.078/1990).
+
+Na hipótese dos autos, a oferta do serviço financeiro pelo réu e a celebração entre as partes de contrato de depósito e abertura de crédito (conta corrente e cheque especial) são fatos incontroversos.
+
+A existência de defeito, ademais, restou evidenciada, eis que o serviço prestado pelo réu não atendeu à legítima expectativa do autor quanto à sua segurança. Com efeito, ao aderir a contrato de depósito, o autor podia esperar que os mecanismos de segurança do réu seriam aptos a impedir a realização por terceiros de operações financeiras em sua conta de depósito pela Internet.
+
+Contrariando essa expectativa, a página de Internet Banking do autor foi invadida e, em 21.3.2012, o valor de R$ 4.200,00 foi transferido a terceiro (fl. 7), sem sua autorização.
+
+A prova da inexistência de defeito incumbia ao réu, consoante regra do artigo 14, § 3o, da Lei n. 8.078/1990 (?O fornecedor de serviços só não será responsabilizado quando provar (...) que (...) o defeito inexiste ?). O réu não comprovou a eficácia de seu sistema de segurança contra fraude perpetrada por terceiro.
+
+Ressalte-se que a fraude praticada por terceiro não constitui causa excludente da responsabilidade do fornecedor, porque compõe o risco próprio de sua atividade, pelo qual é objetivamente responsável. A rigor, o risco de fraude é criado pela instituição financeira ao ofertar o serviço ao mercado; soma-se a isso o fato de o fornecedor auferir lucros da prestação do serviço ao consumidor. Razoável que responda pelo risco por ele criado e do qual extrai proveito, na forma da lei consumerista e com base no artigo 927, parágrafo único, do Código Civil. 
+
+Carece de base probatória a tese da culpa exclusiva do autor.
+
+Não há prova de que o autor, pessoalmente, efetuou a operação de transferência ou revelou sua senha pessoal a terceiro. O ônus da prova dessas afirmações competia ao réu, por aplicação dos artigos 6o, VIII e 14, § 3o, da Lei n. 8.078/1990. Ademais, não se poderia exigir do autor que comprovasse que não efetuou a transferência e que não revelou sua senha a terceiro, fatos negativos.
+
+O defeito na prestação do serviço resultou em prejuízo ao autor no valor de R$ 4.200,00 (fl. 7). Com efeito, a transferência de R$ 4.200,00 representou perda de saldo positivo de R$ 3.723,43; a diferença de R$ 476,57 foi paga pelo réu (cheque especial), resultando em saldo negativo; o valor depositado pelo autor, suficiente para restabelecer o saldo positivo (R$ 476,57), deve, assim, ser somado a R$ 3.723,43 e não a R$ 4.200,00. A pretensão ressarcitória é, pois, parcialmente procedente.
+
+Afasto, ademais, a pretensão reparatória. O pedido de reparação de dano moral não se funda em fatos concretos aptos a dar substrato à convicção de que houve efetiva lesão a direito da personalidade do autor. O dano moral, na hipótese dos autos, não se presume. Com efeito, não se pode dizer, com base em elementos da experiência comum, que os fatos articulados na inicial, considerados em tese, sejam aptos a afetar a honra subjetiva ou objetiva do autor, sua integridade psíquica ou emocional em níveis anormais. Configurada, na espécie, hipótese de mero aborrecimento, que não ultrapassa os dissabores inerentes à convivência em sociedade.
+
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE o pedido, com fundamento no artigo 269, I, do Código de Processo Civil, para condenar o réu a pagar ao autor o valor de R$ 4.200,00 (quatro mil e duzentos reais), atualizado monetariamente, de acordo com a Tabela Prática para Cálculo de Atualização Monetária de Débitos Judiciais do Tribunal de Justiça do Estado de São Paulo, a contar de 21.3.2012, acrescido de juros de mora à razão de 1% (um por cento) ao mês a contar da data da citação.
+
+Conforme artigos 54 e 55, da Lei n.º 9.099/95, as partes estão isentas do pagamento de custas, despesas processuais e honorários advocatícios, salvo hipótese de recurso. O prazo para interposição de recurso é de 10 dias. O valor do preparo no Juizado Especial Cível, para eventual recurso, é de 1% sobre o valor da causa, observado o mínimo de 05 UFESPs, mais 2% sobre o valor da causa ou, em caso de sentença condenatória, sobre o valor da condenação, observado o mínimo de 05 UFESPs (art. 4º na Lei Estadual n. 11.608/2003 c.c. artigo 54, parágrafo único, da Lei n. 9.099/95), sem prejuízo do recolhimento do porte de remessa e retorno, no valor de R$25,00, por volume.
+
+A parte vencida deverá efetuar o pagamento do valor da condenação, no prazo de 15 (quinze) dias, a contar do trânsito em julgado desta sentença, independentemente de nova intimação, sob pena de pagamento de multa, nos termos do artigo 475-J do Código de Processo Civil e do artigo 52, III, parte final, da Lei n. 9.099/95.
+
+P.R.I.C.
+
+São Paulo, 15 de fevereiro de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

@@ -1,0 +1,43 @@
+
+
+SENTENÇA
+
+Processo nº:0016671-75.2012.8.26.0003
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Moral
+Requerente:Marcelo da Araujo Silva
+Requerido:Tim Celular S/A
+
+
+
+
+
+Vistos, etc.
+MARCELO DE ARAÚJO SILVA move AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO, C.C. REPARAÇÃO DE DANOS, C.C. TUTELA ANTECIPADA em face de TIM CELULAR S.A., alegando, em síntese, que viajou para a Europa e sabedor dos valores absurdos para ligações e dados o seu celular ?iPhone? funcionava para ?roaming de dados? com download manual de e-mails, sendo que a partir de 21/11, às 12:00 horas, baixou alguns e-mails, perdurando por 2 dias, sendo que em 23/11 a ?TIM? ligou informando consumo de dados de 44MB, negando e por sugestão da informante ?bloqueou? o acesso a dados, e no retorno para o Brasil em 02/12 contatou a ré reclamando e sem resposta recebeu fatura em 10/2012 no valor de R$ 3.489,99, reclamando e por mantida a cobrança optou por exercer portabilidade e transferiu para a VIVO, pagando a fatura que também foi debitada em conta, ligando em 26/12 noticiando esse duplo pagamento e informado de que o crédito seria na próxima fatura o que é um absurdo, e na data de 23/01 recebeu nova fatura, no valor de R$ 757,87 e descontado o valor do pagamento duplo a diferença de R$ 2.732,12 foi creditada em sua conta bancária, novamente recebendo fatura em 04/12 no valor de R$ 2.261,18, reclamando e sendo dito que referia-se a acessos de outros horários, e por não utilizados não pagou a conta, sendo mantida a cobrança em 26/04; que o valor cobrado de R$ 6.509,04 para 48 horas do ?roaming internacional? é absurdo e houve erro da TIM na contagem de kB como se fossem MB, motivos pelos quais e com fundamento no CDC, CC e CF requereu declaração de inexistência dos valores das faturas pagas e da fatura não paga; repetição dobrada no valor de R$ 8.495,72; indenização por dano moral no valor de 10 salários mínimos pelo constrangimento e desrespeito; e, tutela antecipada.
+A ré contestou (fls.80/99) negando inversão do ônus da prova; discorrendo sobre o funcionamento do ?roaming internacional?, no qual paga utilização de sistemas de empresas de telefonia no exterior com quem mantém convênio de interconexões, gerando valor de tarifa mais alta que a cobrada no Brasil; discorrendo sobre o valor da tarifação do ?connect fast?; alegando que o autor se utilizou de acessos a dados, e como não firmou pacote de uso no exterior lhe foi cobrado valor de utilização avulsa; que a cobrança não é indevida; que nos termos da Resolução ANATEL 85, de 30/12/1998 tem o prazo de 150 dias para cobranças de ligações e acessos internacionais; negou repetição de indébito e que tenha causado dano moral; e, requereu a improcedência.
+Réplica a fls.108/115, acrescentando o autor que só colocou o celular na opção ?roaming de dados com download manual de e-mails?; que a TIM não informou da necessidade de contratação de plano de uso no exterior; colacionou jurisprudência de nulidade de conexão automática do ?connect fast?.
+A fls.116 deferiu-se à ré prazo para identificar o conteúdo objeto da tarifação de R$ 2.517,06 em 22/11/11 (fls.44); ao autor para apresentação da fatura completa (com detalhamento) de R$ 2.261,18 (fls.65), e para dizer se reconhece ou não as ligações da fatura de R$ 757,87, especialmente as chamadas originadas no exterior (fls.59).
+O autor manifestou-se a fls.119/120 com cópia de faturas (fls.121/124), e a ré a fls.125 (tarifação de connect fast em roaming internacional), complementando a ré, conforme fls.126 e fls.129 (não dispõe de discriminativo de dados acessados).
+Deferiu-se novas provas (fls.135), manifestando-se a ré (fls.138) com cópia de faturas (fls.139/142), e o autor (fls.143/145) informando viagem da Espanha em 21/11 à França onde ficou até 23/11, e com notícia de negativação na SERASA da fatura de R$ 2.261,18, e requerendo cancelamento e multa da tutela deferida (fls.146).
+Manifestou-se o autor sobre as provas acrescidas (fls.150/153), silenciando o réu (fls.154).
+Deferido ofício à SERASA e novas provas à ré e ao autor (fls.155).
+O autor se manifestou a fls.160/162 e apresentou cópia de faturas (fls.163/165), respondendo a ré (fls.198/202), que também se manifestou a fls.170/171.
+É o relatório. DECIDO.
+A alegação do autor de que pagou duas vezes a fatura de R$ 3.489,99 está solucionada, pois esse valor quitou a fatura de R$ 757,87 e o saldo de R$ 2.732,82 ele próprio afirma ter-lhe sido creditado na conta do CityBank.
+O entrave quanto às cobranças impugnadas pelo autor dizem respeito à tarifação do serviço ?TIM connect fast? em ?roaming internacional?, que é o tráfego de dados no exterior através do aparelho móvel celular.
+Afirmando o autor que programou seu aparelho celular tipo ?iPhone? para ?roaming de dados, mas com download manual de e-mails, cabia à ré, a fornecedora, apresentar provas de seus sistemas de que realmente foi essa a habilitação aplicada por ele, o consumidor, e não outra, ou nenhuma.
+Todavia, deferida prova à ré (fls.155, item 3) nada esclareceu (fls.170/171), impondo reconhecer a aplicação pelo autor da programação que afirmou na causa de pedir.
+A ré também não dispõe em seus sistemas de registros individuais dos acessos, origem e destino de e-mails através do ?roaming internacional? de dados, consoante respondeu a fls.129 a essa aludida prova (fls.126), impedindo identificação de vínculos de tráfego legítimos em face do aparelho do autor.
+Nesse contexto, emerge conclusão de que os dados tarifados se referem a tráfego de dados originado de acessos não identificados e de acessos automáticos incluídos em pacotes de serviços para utilização do ?chip? no exterior, cuja prova de ciência do consumidor e da necessidade de contratação não apresentou a ré, ônus seu pela posição jurídica-contratual de fornecedora dos serviços.
+Assim sendo, incomprovado o nexo de causalidade entre o excesso de tarifação impugnado e o uso do ?roaming internacional?, prevalecem os fundamentos da causa de pedir, razões pelas quais acolho o pedido declaratório de inexigibilidade dos valores tarifados no ?connect fast internacional? nas faturas de R$ 3.489,99 (fls.40/53), R$ 757,87 (fls.59), e R$ 2.261,18 (fls.65), mas de forma parcial, pois admitiu o autor alguma utilização, de modo que o valor da nova tarifação será apurado pela média de utilização dos serviços nos 12 meses anteriores à fatura de 10/2012 de R$ 3.489,99, apurando-se em liquidação de sentença.
+E diante do contexto de utilização parcial dos serviços de ?roaming internacional?, e por devido valor parcial das faturas impugnadas pelo autor, não resulta caracterizado ato ilícito configurador de dano moral na exigência do valor maior, somente agora definido, razões pelas quais rejeito o pedido de indenização por dano moral, como também o de repetição dobrada. 
+Diante da parcial procedência reputo adequada a compensação das verbas de sucumbência.
+
+Ante o exposto, JULGO PROCEDENTE EM PARTE a AÇÃO e declaro parcialmente inexigíveis os valores das faturas de R$ 3.489,99, R$ 757,87, e R$ 2.261,18, apurando-se nova tarifação pela média de utilização do serviço ?connect fast internacional? nos últimos 12 meses anteriores à fatura de R$ 3.489,99; confirmo a tutela antecipada; rejeito o pedido de indenização por dano moral e o de repetição dobrada de valores; e, compenso as verbas de sucumbência.
+         P.R.I.
+
+São Paulo, 25 de junho de 2013
+
+
+JOSÉ WAGNER DE OLIVEIRA MELATTO PEIXOTO
+                       JUIZ DE DIREITO
+(assinatura eletrônica)

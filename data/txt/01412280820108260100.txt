@@ -1,0 +1,96 @@
+
+
+SENTENÇA
+
+Processo nº:0141228-08.2010.8.26.0100
+Classe - AssuntoProcedimento Sumário - Defeito, nulidade ou anulação
+Requerente:Zimoviski Gráfica e Editora Ltda
+Requerido:Supri Pel Comércio e Serviços Ltda Epp. e outro
+
+
+
+
+Juiz(a) de Direito: Dr(a). Ricardo Dal Pizzol
+
+
+
+
+
+Vistos.
+
+
+
+
+ZIMOVISKI GRÁFICA E EDITORA LTDA ajuizou "ação anulatória de título cambial, repetição de indébito c/c indenização por danos materiais e morais" e "medida cautelar de sustação de protesto" contra SUPRI PEL COMÉRCIO E SERVIÇOS LTDA EPP e BANCO SANTANDER (BRASIL) S/A.
+
+Liminar concedida à fl. 13 dos autos da ação cautelar.
+
+Alega a autora que: (i) nunca celebrou contrato com a empresa Supri Pel, razão pela qual deve ser reconhecida a inexigibilidade das cobranças realizadas por esta em face da autora; (ii) sofreu danos materiais e morais por conta do ocorrido.
+
+Contestação do requerido Banco Santander às fls. 59/73. Alega o requerido que se tornou legítimo titular do direito de crédito por meio de endosso translativo, razão pela qual deve ser reconhecido seu direito de protestar tais duplicatas.
+
+Réplica às fls. 87/90.
+
+Após a citação ficta da requerida Supri Pel, foi nomeado curador especial para que a representasse, o qual apresentou contestação por negativa geral à fl. 150.
+
+Réplica à fl. 153.
+
+É o Relatório.
+
+Passo a Fundamentar.
+
+1. Possível o julgamento antecipado da lide, pois não há necessidade de produção de outras provas.  Vale lembrar que ?sendo o Juízo o destinatário da prova, somente a ele cumpre aferir sobre a necessidade ou não de sua realização? (TJSP, AI 13811-5, Rel. Des. Hermes Pinotti). Ressalto que as partes, quando intimadas para tanto, não requereram a produção de outras provas.
+
+2. A ação principal deve ser julgada parcialmente procedente. 
+
+2.1. O pedido de declaração de nulidade do título merece acolhida. 
+
+A autora alegou na petição inicial que nunca celebrou contrato com a requerida "Supri Pel", razão pela qual deve ser reconhecida a ausência de causa para a dívida cobrada.
+O título protestado, no caso, é uma duplicata mercantil por indicação, conforme fl. 19. Pelo que se depreende dos autos, tal título foi recebido pelo requerido Banco Santander por endosso translativo (fl. 19). Não há, nos autos, notícia de aceite da duplicata.
+Considerando que a autora alega não ter mantido qualquer relação mercantil com a endossante, era ônus dos requeridos, no caso, comprovar a regularidade da emissão da duplicata mercantil, exibindo a fatura e o comprovante de entrega da mercadoria. Por duas razões, fundamentalmente: ( i ) não se pode exigir que a autora comprove fato negativo, qual seja, que não contratou com a empresa ?Supri Pel Comércio e Serviços LTDA EPP?; ( ii ) ambos os requeridos possuem condições de obter as provas acima referidas (a primeira requerida porque foi a própria emitente do título; o segundo requerido porque mantinha relação negocial de desconto de duplicatas com a primeira requerida).  
+No entanto, a primeira requerida, citada fictamente, limitou-se a contestar por negativa geral, o que não lhe retira o ônus de provar os fatos extintivos, modificativos ou impeditivos do direito da autora. 
+O segundo requerido, por sua vez, alega que recebeu o crédito em tela, via endosso translativo, da empresa "Supri Pel Comércio e Serviços LTDA EPP". Não apresentou, porém, igualmente, qualquer prova da regularidade do negócio subjacente. 
+Assim, ante a ausência de provas em sentido contrário, deve prevalecer a versão da autora de que nunca manteve qualquer relação contratual com a endossante, sendo nulo, portanto, o título.
+Pelas razões expostas, de rigor  o acolhimento de declaração de nulidade do título.
+2.2. O pedido de indenização por dano moral também deve ser acolhido em relação a ambos os requeridos. 
+No que diz respeito à requerida "Supri Pel", as razões são evidentes, visto que emitiu duplicata mercantil sem fundamento em negócio subjacente.
+No que diz respeito à instituição financeira, a responsabilidade também é certa.
+A instituição financeira deve ter a cautela de verificar a idoneidade do título que aceitou descontar, sobretudo nas condições referidas (endosso translativo; duplicata mercantil por indicação; ausência de aceite). Antes de efetuar o protesto, deveria ter pelo menos exigido prova da existência do negócio subjacente (fatura e comprovante de entrega de mercadorias). Se não o fez, deve arcar com sua desídia. 
+A alegação de que o protesto era necessário para garantir o direito de regresso não convence, visto que a satisfação de tal interesse não pode se dar às custas do bom nome e da reputação do sacado, sobretudo quando, como no caso, o requerido não comprovou ter tomado as cautelas necessárias para se certificar da regularidade do negócio subjacente. 
+Nesse sentido, a jurisprudência do STJ e do TJSP:
+
+APELAÇÃO - Duplicata - Execução - Julgamento antecipado da lide - Cerceamento de defesa - Produção de novas provas - Impossibilidade - Pretensão que em nada altera o resultado da demanda porque o pedido foi ajuizado por terceiro contra quem foram emitidos os títulos - Ilegitimidade passiva ? O protesto necessário não exime o portador da responsabilidade pelos danos causados a sacado não aceitante - Títulos protestados são duplicatas sem aceite, por indicação, apresentadas em forma de boleto ao serviço de protestos - Dever de cautela não observado - Prejuízos evidentes - Dano moral caracterizado - Quantum fixado em R$10.000,00 - Apelo a que se nega provimento.
+(TJSP, Ap. 991.07.027179-0, Des. Rel. Ricardo Negrão)
+
+DUPLICATA SEM CAUSA. Endosso. Protesto. Responsabilidade do Banco. Deve ser reconhecida a responsabilidade da instituição bancária que recebe para desconto duplicata sem causa e a leva a protesto contra a pessoa que nenhuma relação tem com a sacadora. Quem assim age, sem verificar suficientemente a legitimidade da operação, corre o risco da sua atividade e deve reparar o prejuízo que causa a terceiros. A alegação de que são milhares as operações realizadas diariamente não exime o banco, pois o dano a pessoa atingida continua existindo. A informação, no entanto, serve para mostrar a quantidade de ofensas que são assim praticadas diariamente, a maioria impune. Também não prevalece a escusa de que tinha o banco a necessidade de resguardar seus direitos, porquanto isso não pode se dar à conta e às custas de terceiro que não participa da relação. Ele apenas deve ter ressalvados esses direitos contra o endossante. Recurso conhecido, mas desprovido. (REsp 331.359/MG, Rei. Ministro RUY ROSADO DE AGUIAR, QUARTA TURMA, julgado em 02.042002, DJ 10.06.2002)
+
+CIVIL E PROCESSUAL CIVIL. AGRAVO NO AGRAVO DE INSTRUMENTO. DANOS MORAIS. DUPLICATA. PROTESTO INDEVIDO. O endossatário, embora deva proceder ao protesto do título para não perder o direito de regresso contra o endossante, ao deixar de tomar as medidas necessárias à verificação da existência e validade da duplicata sem aceite, assume o risco dos prejuízos decorrentes de eventual protesto indevido. Agravo no agravo de instrumento não provido. (STJ, AgRg no Ag 605134/RS)
+Dispõe a Súmula 475 do STJ nesse sentido: "Responde pelos danos decorrentes de protesto indevido o endossatário que recebe por endosso translativo título de crédito contendo vício formal extrínseco ou intrínseco, ficando ressalvado seu direito de regresso contra os endossantes e avalistas".
+O dano moral, em caso de protesto indevido, independe de comprovação, sendo in re ipsa.
+Fixo, a título de indenização por dano moral, R$ 7.000,00 (sete mil reais). Entendo que esse valor é suficiente para punir adequadamente os requeridos, sem gerar, contudo, enriquecimento sem causa para a autora. Saliento que a autora não comprovou nenhum sofrimento que exceda aquele que costumeiramente se observa em situações análogas. 
+2.3. O pedido de repetição de indébito formulado na inicial não possui qualquer amparo legal, pela simples razão de que eventual restituição pressuporia prévio pagamento, o que não chegou a ocorrer. 
+Em outras palavras: não pode a autora pleitear repetição do indébito, quanto menos em dobro, se sequer chegou a pagar a obrigação. 
+2.4. O pedido de indenização por danos materiais também não merece acolhida. 
+A autora requer, a título de danos materiais, ressarcimento pelos honorários advocatícios pagos para o ajuizamento da ação de sustação de protesto, bem como pelas custas processuais pagas para o ajuizamento da demanda.
+Nenhuma dessas verbas deve ser ressarcida. 
+Cabe ao juiz, na sentença, fixar, pelas regras processuais, quem deve arcar com verbas de sucumbência (custas, despesas e honorários).
+Os honorários advocatícios devidos pela parte derrotada são apenas aqueles fixados na sentença como verba de sucumbência. Admitir o contrário seria consagrar o bis in idem: a parte derrotada seria obrigada a pagar honorários advocatícios duas vezes (os fixados em sentença e os contratados pela parte). Nesse sentido, a jurisprudência do Eg. TJSP:
+DUPLICATA. Ação anulatória c.c. indenização. Pedido fundado em vício do produto. Reclamação formal da compradora, sem providência da vendedora. Contrato de compra e venda não aperfeiçoado. Reconhecimento. Procedência do pedido. Sentença confirmada. INDENIZAÇÃO. Honorários advocatícios contratados para o ajuizamento da ação. Pedido de pagamento. Improcedência. Remuneração ao advogado que é objeto de disciplina na lei processual civil (CPC., artigo 20). Impossibilidade de se impor à parte contrária a obrigação de arcar com esse pagamento, sob pena de caracterizar um bis in idem. Hipótese em que, ademais, não há prova de desembolso e o contrato revela que ele se daria no futuro. Sentença reformada. Recurso parcialmente provido.(TJSP, Ap. 106549720108260292)
+3. A ação de sustação de protesto deve ser julgada procedente. 
+O fumus boni iuris e o periculum in mora constituem o próprio mérito da ação cautelar. 
+No caso, ambos estavam presentes, pelas razões já expostas nos itens anteriores, razão pela qual a cautelar procede. 
+DECIDO. 
+I - Ante o exposto, quanto ao processo principal (nº 0141228-08.2010.8.26.0100), JULGO PARCIALMENTE PROCEDENTE a ação para:
+(a) DECLARAR a nulidade do título impugnado na petição inicial, cancelando, em definitivo, por conseguinte, o protesto de fl. 19;   
+(b) CONDENAR os requeridos, solidariamente, a pagar R$ 7.000,00 (sete mil reais) à autora, a título de indenização por danos morais, acrescidos de correção monetária, conforme a Tabela Prática do TJSP, e de juros de mora de 1% ao mês, contados a partir desta decisão até o efetivo pagamento. 
+Ficam expressamente rejeitados os pedidos de repetição do indébito e de indenização por danos materiais. 
+Após o trânsito em julgado, oficie-se ao respectivo tabelionato. 
+Em face da sucumbência recíproca, sem condenação em custas, despesas ou honorários advocatícios, no que diz respeito à ação principal. 
+II - Ante o exposto, quanto ao processo cautelar (nº 0131878-93.2010.8.26.0100), JULGO PROCEDENTE a ação, confirmando a liminar concedida à fl. 13. 
+Em relação à ação cautelar, condeno os requeridos, em caráter solidário, ao pagamento das custas, despesas e honorários advocatícios, que fixo em R$ 800,00 (oitocentos reais), com base no art. 20, §4º, do CPC. 
+Translade-se a presente decisão para os autos da ação cautelar em apenso.  
+P.R.I.C.
+
+São Paulo, 16 de dezembro de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

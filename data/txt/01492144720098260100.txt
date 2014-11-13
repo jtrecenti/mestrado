@@ -1,0 +1,44 @@
+
+
+SENTENÇA
+
+Processo:0149214-47.2009.8.26.0100 
+Autor(es):Banif Corretora de Valores e Câmbio S/A
+Réu(s):Spinelli S/A Corretora de Títulos e Valores Imobiliários
+
+
+
+
+
+Vistos.
+A autora Banif Corretora de Valores e Câmbio S/A pede que a ré Spinelli S/A Corretora de Títulos e Valores Imobiliários seja condenada a se abster da utilização de software. Pede, ainda, a condenação da ré ao pagamento de reparação por dano material. Alega que, em 2005, passou a desenvolver internamente um software de home broker, para possibilitar aos clientes a compra e venda de ações por meio de computadores pessoais. Lançado em novembro de 2006, o programa foi um sucesso, porque ferramenta exclusiva, limitadas que estavam as demais corretoras a software terceirizados. Em setembro de 2007, o então diretor da autora Rodrigo Nicolau Puga renunciou ao cargo e passou a trabalhar para a ré, levando consigo os programadores que desenvolveram o software. Em meados de 2008, a ré lançou programa de home broker muito similar ao seu, lançando uma segunda versão dois meses depois, rapidez que somente se explica porque resultou da apropriação de seu produto.
+A ré contestou alegando, preliminarmente, ilegitimidade ativa, porque a autora não demonstrou ser titular do software de home broker por ela utilizado. No mérito, sustenta que não houve cópia, e que as semelhanças entre os programas das partes não caracterizam violação de direito autoral, porque decorrem de requisitos técnicos e funcionais estabelecidos pela Bovespa, e também do uso de mesma plataforma. Alega, por fim, que não agiu com dolo nem culpa, e que a autora não demonstrou qualquer prejuízo (fls.213/240).
+Réplica a fls.475/481. O pedido de denunciação da lide foi rejeitado pela r.decisão de fls.482/483. R.decisão saneadora a fls.494/495. Laudo pericial a fls.564/603, com esclarecimentos a fls.3616/3634. Testemunhas ouvidas a fls.3750/3754. Alegações finais a fls.3887/3891 e 3902/3908.
+É o relatório.
+DECIDO.
+Rejeito a alegação preliminar de ilegitimidade ativa, porque a legitimação da autora para o ajuizamento da ação decorre simplesmente de sua afirmação, na petição inicial, de que é proprietária do software que alega ter sido copiado pela ré. Ao contrapor não ser a autora titular do programa, adentra a ré em questão de fato atinente ao mérito, que passo a analisar a seguir.
+A autora é, sim, proprietária do software de home broker desenvolvido em suas dependências por programadores contratados, e tal condição decorre diretamente do quanto disposto no caput do artigo 4º da Lei9.609/1998, a seguir transcrito: "Salvo estipulação em contrário, pertencerão exclusivamente ao empregador, contratante de serviços ou órgão público, os direitos relativos ao programa de computador, desenvolvido e elaborado durante a vigência de contrato ou de vínculo estatutário, expressamente destinado à pesquisa e desenvolvimento, ou em que a atividade do empregado, contratado de serviço ou servidor seja prevista, ou ainda, que decorra da própria natureza dos encargos concernentes a esses vínculos."
+Não havia "qualquer estipulação em contrário" nos contratos firmados entre a autora e as empresas que forneceram a mão-de-obra para o desenvolvimento do programa (fls.34/39 e 64/70), nem há, nos autos, controvérsia sobre o fato de que o software foi elaborado em suas dependências e sob sua direção, circunstâncias, aliás, admitidas pelo programador Alex no depoimento de fls.3750/3752.
+Tem a autora, portanto, direitos autorais sobre o software, e os elementos colhidos ao longo da instrução processual permitem concluir que tais direitos foram violados pela ré.
+A ré contratou o diretor e os programadores responsáveis pelo desenvolvimento do programa original para, meses depois, lançar versão similar, com improvável coincidência de teclas de atalho e repetição erros de grafia (typos), a revelar que as linhas de código do programa da autora foram obtidas pela ré e, efetuadas alterações pontuais e cosméticas, utilizadas em seu programa de home broker.
+Neste ponto, merece ser rechaçada a alegação da ré, de nulidade do laudo pericial, porque teria se baseado no programa a ela atribuído, mas fornecido pela autora, sem que a ré tivesse a ele acesso, com violação da garantia do contraditório.
+Em primeiro lugar, o programa da ré estava disponível em seu site para download mediante preenchimento de cadastro, de forma que não houve violação de segredo ou de comunicação em sua obtenção pela autora. Além disso, sendo seu o software, não pode alegar desconhecê-lo, mesmo porque assistentes técnicos acompanharam a perícia realizada.
+Por fim, admitir a alegação equivaleria a beneficiar a torpeza da ré, que desde o início dificultou o acesso da Justiça às provas necessárias ao deslinde do caso, ora substituindo a versão do programa, ora retirando do ar páginas de seu site na internet.
+Merece também rejeição outra alegação da ré, de que as semelhanças encontradas nos programas decorreriam de seus objetivos comuns, de especificações técnicas da bolsa de valores e da utilização de mesma ferramenta de desenvolvimento.
+Conforme bem apontado pelo perito, ainda que consideradas tais contingências, o programa da ré atribuiu, às mesmas sete teclas de atalho, as mesmas sete funções do programa da autora (e.g. compra, venda, barra de ordens, etc. - fls.566).
+Não se tratou de coincidência, porque a escolha de teclas de atalho é livre para o desenvolvedor, e a chance de que, dentre as vinte e duas disponíveis, as mesmas sete sejam escolhidas para as mesmas funções é de 0,000313% (fls.3617).
+Mais que isso, às fls.588/591 do laudo o perito comparou os textos dos arquivos de ajuda dos programas, grifando em amarelo as frases idênticas e, mais impressionante, em azul as palavras grafadas com os mesmos erros, demonstrando, sem sombra de dúvida, que os textos tem a mesma origem, sendo o da ré cópia do da autora, com mínimas modificações e acréscimos.
+É o que basta para o reconhecimento da alegação da autora, de que o programa de home broker lançado pela ré meses depois da contratação de um diretor e dois programadores que trabalhavam para a primeira, não passou de cópia de seu software.
+Houve, portanto, violação de direitos autorais e, com base no art.14, caput, da Lei 9.609/1998, deverá a ré abster-se de utilizar os programas desenvolvidos a partir do programa da autora.
+A reparação civil também é devida pela ré, abrangendo tanto a indenização dos custos com o desenvolvimento do programa original quanto os lucros cessantes, que serão equivalentes aos lucros obtidos com a utilização do programa copiado e versões posteriores, quantificações a serem feitas em sede de liquidação de sentença.
+DISPOSITIVO.
+Ante o exposto, julgo procedente o pedido e condeno a ré Spinelli S/A Corretora de Títulos e Valores Imobiliários a se abster de utilizar os programas Desktop Trader, Desktop Trader Pro e quaisquer outros que tenham derivado do programa EF Desktop Trader da autora Banif Corretora de Valores e Câmbio S/A, em quinze dias, sob pena de imediata cominação de multa por dia de descumprimento.
+Condeno a ré, ainda, a indenizar a autora dos custos com o desenvolvimento do programa EF Desktop Trader, e ao pagamento de lucros cessantes equivalentes aos lucros obtidos com a utilização do programa copiado e versões posteriores, quantificações a serem feitas em sede de liquidação de sentença.
+Condeno a ré, por fim, ao pagamento das custas e despesas processuais, e de honorários advocatícios que fixo em quinze por cento (15%) do valor que vier a ser apurado na liquidação da sentença.
+Julgo extinto o processo, com resolução de mérito, com base no art.269, I, do Código de Processo Civil.
+P.R.I.
+São Paulo, 18 de outubro de 2013
+
+Gustavo Coube de Carvalho
+Juiz de Direito
+[assinatura digital]

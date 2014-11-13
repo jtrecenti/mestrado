@@ -1,0 +1,66 @@
+
+
+SENTENÇA
+
+Processo nº:0012012-97.2010.8.26.0001 - Procedimento Ordinário
+Requerente:Takakuwa Centro de Estetica Ltda.
+Requerido:Atipico Multimidia Ltda. - Me.
+
+
+Juíza de Direito Dra.: Carolina Martins Clemencio Duprat Cardoso
+
+
+
+Vistos.
+Takakuwa Centro de Estética Ltda. ingressou com ação de reparação de danos contra Atípico Multimídia Ltda.-ME, alegando que firmou contratos verbais com a ré para implementação e otimização de entry pages (entrada de páginas) e landing pages (página de destino), que visavam aumentar a visibilidade do seu site, uma vez que permitiria quatro mil acessos à sua página por mês. Informou que pagou a quantia de R$7.362,50, mas o número de acessos ao site ficou abaixo do esperado, sendo posteriormente retiradas as páginas de entrada do sistema pela ré. Noticiou que firmou um segundo contrato com a ré para o desenvolvimento de design e texto para a realização de um novo site, pagando-lhe o a importância de R$8.850,00. Disse que questionou a ré quanto ao cumprimento das cláusulas contratuais, ocasião em que esta cancelou e bloqueou os acessos do site e emails, tornando o site desatualizado, além de impedir a comunicação com seus clientes,  o que lhe causou  prejuízos financeiros. Informou que contratou nova empresa para gerenciar o funcionamento do site, sendo necessária a entrega das senhas de acesso pela ré, o que também não ocorreu. Mencionou que firmou um terceiro contrato em agosto de 2009 a fim de adquirir a promoção "amigão", que consistia na realização do email marketing e um blog site, pagando-lhe a quantia de R$8.850,00. Expôs que o software não foi entregue. Narrou que em outubro de 2009 firmou um quarto contrato com a ré para fornecer três newsletters, inserir vinte questões e um artigo por mês, no blog site, sendo que foram pagos R$5.500,00 referentes aos serviços efetivamente prestados. Também, adquiriu vinte fotos para divulgar em seu site, pelo valor de R$570,00, não lhe sendo entregues os direitos autorais adquiridos.  Pediu a aplicação do Código de Defesa do Consumidor, e requereu a procedência da ação para condenar a ré ao pagamento de indenização por danos materiais no valor de R$31.132,50 referente aso valores despendidos com os serviços contratados, R$3.000,00 gastos com a contratação de novo profissional, e R$5.000,00 referente aos lucros cessantes, bem como indenização por danos morais em valor a ser arbitrado.
+Com a inicial, juntou documentos pertinentes.
+A ré foi citada (fls.108) e apresentou contestação acompanhada de documentos. Alegou que os contratos pactuados foram escritos e não verbais. Contrariou a aplicação do Código de Defesa do Consumidor. Referiu que o primeiro contrato entabulado com a autora ocorreu em 27/04/2009, cujas cláusulas estabelecidas e os e-mails trocados não mencionavam a quantidade alegada de quatro mil acessos por mês à página da internet da autora. Arguiu que o segundo contrato foi firmado em 08/06/2009, sendo que houve a aprovação do site,  devidamente documentada. Disse que os emails juntados  referem-se à irreversibilidade da condição de inadimplência da autora, culminando no rompimento do contrato.  Informou que a ré não presta mais serviços à autora desde 15/01/2010. Informou que o terceiro contrato - "amigão" - foi substituído por comum acordo entre as partes, motivo pelo qual não houve a entrega do sistema. Também disse que a lista de contatos da autora não foi entregue em exemplar único à ré, cujo conteúdo foi importado para a empresa mailchimp. Concernente ao quarto contrato, firmado em 30/10/2009, informou que apenas as duas parcelas foram pagas, restando outras duas inadimplidas. Entretanto, informou que as postagens do blog haviam sido programadas até o dia 19/12/2009, e não ocorreram pela  falta de aprovação da autora, em recesso a partir de 20/12/2010, com retorno apenas na primeira semana de janeiro. Pugnou pela improcedência da ação.
+Seguiu-se réplica (fls.221/6).
+Realizada audiência de conciliação, não houve acordo (fls.235).
+Após, durante a audiência de instrução e julgamento, foi colhido o depoimento de uma testemunha da autora (fls.249/251).
+Ao final, as partes apresentaram memoriais (fls.256/260 e 261/2).
+É o relatório.
+Decido.
+
+
+As partes contrataram a prestação de serviços na área de tecnologia e internet, tal como descrito na inicial.
+Os contratantes são duas pessoas jurídicas que, em igualdade de condições, estabeleceram direitos e obrigações nos contratos objeto da lide, nenhuma delas em situação de vulnerabilidade.
+Assim é que estabeleceram que a ré prestaria, nos sucessivos ajustes entabulados, diversos serviços de tecnologia e implementação de site à autora.
+Consigna-se, de início, que a ação proposta corresponde à reparação de danos, tendo a autora postulado a restituição de todas as quantias pagas nos contratos feitos com a ré, sem deduzir pretensão de rescisão dos contratos por inadimplemento.
+Se a relação entre as partes se iniciou em maio de 2009, e se já não estava sendo cumprida a contento pela ré, tal como consta da inicial, é de se estranhar que ao longo deste ano tenham celebrado quatro contratos ao todo, sem que a prestadora de serviço tenha minimamente atendido ao que ajustaram nos contratos iniciais. 
+Após a instrução da causa, o que ficou evidenciado é que a ré não cumpria integralmente com o que ajustaram as partes, verificando-se o inadimplemento parcial de alguns dos contratos, e não de tudo o que estabeleceram, tal como postula a autora.
+
+A autora não apresentou, com a inicial, os contratos de prestação de serviço celebrados com a ré, afirmando textualmente que foram verbais (fl. 11  item 2.1).
+Tal assertiva não se mostrou verdadeira, na medida em que a ré apresentou, com a resposta, minutas de contratos enviados por email  e a anuência da representante da autora, também por email, o que altera o contexto delineado na inicial, na medida em que as obrigações das partes estão delineadas com mais precisão e clareza nos ajustes escritos.
+Assim é que a ré trouxe, com a contestação, minuta do primeiro contrato mencionado com a inicial (fl. 143/4), que contou com o 'de acordo' da representante da autora por email (fl. 146).
+Observa-se que a ré não assumiu obrigação de resultado, de que a autora obtivesse mais de quatro mil acessos por mês em seu site, mas sim de melhorar o fluxo de visitação através dos links de busca.
+Restou incontroverso que o número de acessos foi inferior ao esperado. Contudo, se o serviço foi prestado, como os acessos são obviamente feitos por aqueles que navegam na rede, não há como se responsabilizar a ré por este fato, razão pela qual improcede a pretensão de restituição dos valores pagos com relação a este primeiro contrato.
+Já o segundo contrato, também reduzido a escrito (fl. 177 a 179) previa o desenvolvimento de uma nova apresentação do site, datado de 8 de junho de 2009. 
+Segundo mensagem eletrônica constante de fl. 182, a o site foi confeccionado e aprovado pela autora em 14 de julho de 2009, que expressamente autorizou sua disponibilização na rede.
+Assim, também quanto ao segundo contrato de prestação de serviços, não se reconhece tenha havido inadimplemento integral da ré, que ensejasse a pretendida restituição de valores.
+Quanto ao terceiro contrato, e diante do teor da contestação, tem-se que a promoção "amigão" consistia na realização de um email marketing, que exigia a entrega de um programa à autora, e de um blog site, pagando-lhe R$ 8.850,00.
+Afirma a ré que este pacto foi de comum acordo substituído por outro, tendo a promoção "amigão" sido trocada pelo serviço de email marketing acrescido de uma pesquisa de opinião.
+Segundo o que consta de fl. 198/199, vários serviços foram detalhados às fl. 198, mas, em aparente contradição, do mesmo documento consta modificação do ajuste (fl. 199), havendo anotação de que a proposta fechada em 04.08.2009 havia sido alterada, sem menção dos novos termos. O documento não está assinado pelas partes. Neste contrato, há expressa referência à cobrança de R$ 8.850,00, mas na mensagem eletrônica de fl. 202, o representante da ré diz não estar cobrando pelo serviço, o que demonstra que a ré não agiu com clareza nesta proposta, e muito dificulta agora o dimensionamento de quais obrigações foram cumpridas pelas partes.
+Assim, como a ré assumiu que não entregou o pactuado inicialmente para o terceiro contrato, e também diante da falta de comprovação de adimplemento, pela ré, das obrigações contratadas neste terceiro ajuste, impõe-se a devolução dos valores (R$ 8.850,00), uma vez que a autora comprovou o pagamento (fl. 64/66).
+Não há controvérsia acerca da cessação da prestação de serviços em 15.01.2010, por iniciativa da autora, que efetuou o pagamento parcial do então ajustado para o quarto contrato em outubro de 2009, que seria relativo ao serviço de entrypages, segundo a ré. 
+Na inicial, constou que a autora acertou com a ré neste último contrato que ela lhe forneceria o seguinte: três newsletters por mês, inserção de vinte questões por mês no seu blog/site  e inserção de um artigo por mês no blog.
+
+Pelo que constou da contestação, a autora pagou à ré efetivamente R$ 5.500,00, dos R$ 11.000,00 previstos para o serviço todo, uma vez que a prestação de serviços teria sido mantida em outubro e novembro de 2009.
+Na inicial, constou que a ré fez quatro newsletters quando deveria ter feito seis no período; inseriu vinte e três questões no blog, apesar de quarenta contratadas; e deixou de inserir um artigo por mês, apesar de ter se obrigado a tanto.
+Em sua resposta, a ré justifica, dizendo que após 19.12.2009 a autora entrou em recesso e deixou de autorizar a divulgação do material faltante, retornando às atividades somente na segunda semana de janeiro, quando rompeu o contrato.
+Evidencia-se, assim, que a ré realizou aproximadamente metade das obrigações assumidas, não tendo comprovado a impossibilidade de fazê-lo pela justificativa apresentada.
+Assim, acerca deste último ajuste, reconhece-se deva a a ré restituir metade do que fora pago pela autora.
+Por fim, se a autora contratou outra empresa para lhe prestar suporte na área em questão, o fez por iniciativa própria, pois, se não estava satisfeita com o efeito alcançado pela prestação de serviços da ré, era o melhor a fazê-lo. No entanto, tal não significa que isto importa em se reconhecer o inadimplemento integral da ré, para todos os contratos pactuados. 
+Não há respaldo, desta forma, para se determinar que a ré arque com os custos de contratação de uma nova empresa de mídia eletrônica para dar suporte à autora.
+Resta, apenas, impor à ré a obrigação de restituir à autora o valor pago pelas fotos apontadas na inicial, pois esta não comprovou a efetiva entrega e uso no site da autora.
+Não comprovada a ocorrência de lucros cessantes, que ficam rejeitados.
+No âmbito da responsabilidade contratual, excepcional é a causação de danos morais a uma das partes, por força do inadimplemento do quanto ajustado, e, no caso, a autora não demonstrou tenha sofrido constrangimentos ao seu bom nome ou abalo de crédito que ensejassem repercussão moral à pessoa jurídica, de sorte que a pretensão, a este respeito, fica afastada (art. 333 inciso I do C.P.C.).
+Pelo exposto, e por mais que dos autos consta, JULGO PARCIALMENTE PROCEDENTE a ação, para condenar à ré a restituir à autora R$ 8.850,00, 2.750,00 e R$ 570,00, com correção monetária pela Tabela do TJ/SP a contar dos respectivos desembolsos, e juros de mora de um por cento a partir da citação. Em razão da sucumbência recíproca, cada parte arcará com as custas despendidas e honorários de seus procuradores.
+P.R.I.
+
+ São Paulo, 29 de maio de 2013.
+
+
+Carolina Martins Clemencio Duprat Cardoso
+Juíza de Direito
+(assinatura digital)

@@ -1,0 +1,76 @@
+
+
+SENTENÇA
+
+Processo nº:0112403-88.2009.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Espécies de Contratos
+Requerente:Célia Tome Motoki e outro
+RequeridoLitisconsorte Passivo:Banco Itaú S/A e outro, Itaú Seguros S.a.
+
+
+
+Juiz(a) de Direito: Dr(a). MARCOS DOUGLAS VELOSO BALBINO DA SILVA
+
+
+
+Vistos.
+
+
+CÉLIA TOME MOTOKI e outros propuseram a presente ação de pedido de cobertura securitária por morte contra BANCO ITAÚ S/A alegando, em síntese, que firmaram instrumento particular de compra e venda, porém anos depois uma das integrantes do contrato veio a falecer. Sustentam que como previsto em contrato a cota parte do falecido deve ser quitada, pois o evento morte gera cobertura securitária. 
+
+O réu apresentou contestação (fls. 111/129), aduzindo, preliminarmente, a ilegitimidade passiva e a denunciação da lide ao Itaú Seguros. No mérito sustenta que não é o responsável pela cobertura do seguro.
+
+Houve réplica (fls. 206/213).
+
+Feito saneado a fls. 219/220 determinando que a Itaú Seguros S.A. figure o polo passivo e excluindo do polo ativo a autora Amélia.
+
+O réu Itaú Seguros contestou (fls. 238/265), alegando, preliminarmente, a ilegitimidade passiva e ativa, prescrição e carência da ação. No mérito sustentou a prescrição do direito dos autores, bem como a total improcedência em relação ao pedido de quitação do saldo devedor. 
+
+Houve réplica (fls. 358/367). 
+
+É o relatório. Passo a decidir.
+
+I ? A questão da ilegitimidade ativa da autora Amélia já foi sanada pela r. decisão de fls. 219.
+
+II ? Também superadas as preliminares de ilegitimidade passiva pela mesma r. decisão suso mencionada.
+
+III ? Inviável a alegação de litisconsórcio passivo necessário, visto que inexiste interesse da CEF ou da União no caso presente em que a discussão é meramente contratual.
+
+Nesse sentido: ?Sistema Financeiro de Habitação. Seguro habitacional. Morte do mutuário. Ação de obrigação de fazer voltada contra a COHAB, pleiteando a quitação do contrato e o levantamento da hipoteca. Deferimento do chamamento ao processo da Caixa Económica Federal, com consequente reconhecimento da incompetência da Justiça Estadual. Impossibilidade. Discussão que deve se dar entre seguradora e mutuário, não afeta o Fundo de Compensação de Variações Salariais, que só assumirá a obrigação do seguro após ato do Conselho Curador. Ausência da necessária regulamentação. Recurso provido para indeferir o chamamento ao processo da CEF e reconhecer a competência da Justiça Estadual? (TJSP ? AI n. 0279386-18.2011.8.26.0000 ? Relator(a): Pedro Baccarat ? Macatuba ? 7ª Câmara de Direito Privado ? j. 29/02/2012).
+
+IV ? Não deve ser acolhida a prescrição.
+
+Não há nos autos prova de qualquer marco interruptivo da prescrição, como, por exemplo, o pedido administrativo.
+
+Primeiro porque os autores são beneficiários do seguro e não segurados, incidindo, pois, o prazo de dez anos previsto no caput do art. 206 do CC.
+
+Confira-se: ?Seguro habitacional Pretendida declaração de quitação do financiamento, em virtude da incapacidade laboral da mutuária Existência de seguro contratado pela ré CDHU e previsto como cláusula acessória do financiamento habitacional Autora que é mera beneficiária do seguro, e não segurada direta Prazo a ser considerado que é o de 10 anos, previsto no art. 205 do Código Civil, contado a partir da negativa da cobertura do sinistro Precedentes Prescrição não configurada Legitimidade passiva da CDHU Invalidez da demandante comprovada Indenização securitária devida Pedido de declaração de quitação do financiamento que se mostra procedente Devolução, ainda, de valores desembolsados pela autora, após a comunicação do sinistro Inclusão de correção monetária e juros de mora, nesta instância Possibilidade Matérias de ordem pública Agravo retido e apelos das rés desprovidos, com observação? (TJSP ? AC n. 0003468-16.2009.8.26.0435 ? Relator(a): A.C.Mathias Coltro ? Pedreira ? 5ª Câmara de Direito Privado ? j. 30/05/2012).
+
+E mesmo que se entendesse diversamente, considerando-se a data da morte da segurada 06/05/2008, não decorreu o prazo ânuo até a distribuição desta ação ocorrida em 04/02/2009 (art. 206, § 1º, II, do CC).
+
+V ? No mérito, o pedido procede em parte.
+
+Isso porque a falecida assinou o contrato compondo a renda dos compromissários compradores, havendo cláusula contratual de seguro proporcional a essa composição (cláusula 13ª).
+
+Com o evento morte, o seguro habitacional deve quitar o saldo devedor do contrato no percentual de 38,86 (fls. 38).
+
+Nesse sentido: ?Compromisso de compra e venda - Cominatória ? Demanda objetivando a quitação do contrato de financiamento em virtude do falecimento do co-mutuário - Inadmissibilidade ? Contrato de seguro que prevê a quitação proporcional, conforme a composição da renda dos compradores -  Autora que participou com mais da metade da composição da renda para obtenção do financiamento - Quitação parcial dada pela requerida, com abatimento do valor do seguro e recalculo do saldo devedor e das prestações. Pedido inovador de revisão ou conferência dos valores que deve ser objeto de ação própria, por extrapolar os limites objetivos da lide aqui proposta. Improcedência corretamente decretada. Sentença mantida - Recurso desprovido? (TJSP ? AC nº 413.047-4/5-00 8ª Câmara de Direito Privado - Rel. Salles Rossi - j. 27.05.09).
+
+?Seguro - Cobertura ? Ação declaratória de quitação proporcional de seguro habitacional - Invalidez permanente da segurada para o trabalho ? Documentos juntados aos autos que comprovam o início dos tratamentos pelos quais passou, mas não que a mesma tivesse inválida por ocasião da contratação do financiamento de Imóvel - Exames médicos prévios para a constatação de doenças preexistentes não realizados pela seguradora Má-fé da segurada não verificada - Cláusula excludente da cobertura que, assim, não cabe ser aplicada no caso - Autora que, portanto, tem direito à quitação proporcional do financiamento imobiliário em causa - Ocorrência de danos morais e materiais, por outro lado, não comprovados pela autora Ação procedente em parte? (TJSP - AC nº 7.043.243-6 - 23ª Câmara de Direito Privado - Relator. Oséas Davi Viana - j.07.05.08).
+
+Destarte, a quitação deve ser feita no percentual suso mencionado, recalculando o banco requerido o saldo devedor.
+A execução extrajudicial é constitucional, sendo inviável seu afastamento do mundo jurídico. 
+
+?Imissão de posse de adquirente de imóvel em leilão realizado na forma do Dec.-Lei 70/66. Constitucionalidade da execução extrajudicial contemplada em tal normatividade, ressalvado o ponto de vista do relator. Súmulas 4, 5 e 20 do TJSP. Agravo de instrumento desprovido? (TJSP ? AI n. 0199469-13.2012.8.26.0000 ? Relator(a): Cesar Ciampolini ? Osasco ? 10ª Câmara de Direito Privado ? j. 02/07/2013).  
+ 
+V ? Ante o exposto, JULGO PROCEDENTE EM PARTE o pedido para condenar a requerida seguradora a indenizar os autores em 38,86% do saldo devedor do imóvel de fls. 36 e o banco réu a recalcular referido saldo.
+
+Cada parte arcará com as custas, despesas processuais e honorários advocatícios que desembolsou.
+
+P.R.I.
+
+Piracicaba para São Paulo, 24 de junho de 2013.
+ 
+
+MARCOS DOUGLAS VELOSO BALBINO DA SILVA
+Juiz de Direito

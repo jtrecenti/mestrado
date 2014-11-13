@@ -1,0 +1,67 @@
+
+
+SENTENÇA
+
+Processo nº:0178331-78.2012.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Material
+Requerente:Editora Brasileira Ebge Sul Ltda - Epp
+Requerido:Brastech Logistica Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Carmen Lúcia da Silva
+
+
+                VISTOS.
+
+
+EDITORA BRASILEIRA EBGE SUL LTDA. - EPP ajuizou ação em face de BRASTECH LOGISTICA LTDA. visando à indenização por danos materiais, no valor de R$121.900,39, referente à devolução de pagamento por serviço não prestado e aos gastos com reimpressão de material extraviado. Requereu, ainda, a atualização monetária do valor devido pelos índices do Tribunal de Justiça do Estado de São Paulo, acrescido de juros de 1% ao mês, até a data do efetivo pagamento.
+
+Assevera a parte autora que a empresa ré, apesar de ter sido contratada para realizar a entrega de catálogos, terceirizou o serviço sem o seu consentimento. Assim sendo, 2.304 catálogos foram extraviados pela empresa terceirizada, qual seja, a BPS Logística e Distribuição LTDA.- ME, e, portanto, não foram entregues aos destinatários. Aduz ainda que, visando evitar maiores prejuízos, providenciou a confecção de novo material para substituir o extraviado. 
+
+Citada a fls. 79, a empresa ré ofereceu contestação (fls. 84/140) e, em preliminar, denunciou a lide à empresa BPS Logística e Distribuição LTDA.- ME. Insurgiu-se, também, contra o valor apresentado pela demandante para fim de devolução da quantia paga a título de prestação de serviços.
+
+Réplica a fls. 142/148, oportunidade em que a autora, em suma, reiterou os termos da inicial e impugnou os pedidos formulados pela ré.
+
+É o relatório.
+
+DECIDO.
+
+Passo ao julgamento do pedido, no estado em que o processo se encontra, uma vez que não há necessidade de produção de outras provas além daquelas que já constam dos autos.
+
+Sempre que o instituto da denunciação da lide trouxer para os autos fundamento novo, isto é, discussão de relação jurídica entre denunciante e denunciado que necessite de prova em detrimento do andamento do processo  principal, não se deve aceitá-la. Isto porque o objetivo da denunciação é a economia processual e eventual discussão paralela causaria retardamento do feito. Para que seja admissível a denunciação, o direito de regresso deve surgir de forma automática, com o simples julgamento da ação, isto é, deve emergir imediatamente, por lei ou por contrato, com o resultado do julgamento da demanda, sem ter que haver discussão e prova a respeito da conduta do denunciado. Basta que o pedido principal seja julgado procedente em relação ao denunciante, ao denunciado  deve emergir, automaticamente, o dever de indenizar este último. 
+
+Nesse sentido, também já decidiu o Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL ? AGRAVO DE INSTRUMENTO ? RESPONSABILIDADE CIVIL ? DANOS MORAIS ? ACIDENTE DE VEÍCULO ? OMISSÕES NO ACÓRDÃO ? INEXISTENCIA ? DENUNCIAÇÃO DA LIDE ? SEGURADORA ? OBRIGATORIEDADE ? PERDA DO DIREITO DE REGRESSO ? AUSÊNCIA ? PENSIONAMENTO MENSAL ? MORTE DO PAI DOS AGRAVADOS ? TERMO FINAL ? DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+
+I ? A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+
+II ? A denunciação da lide só se torna obrigatória na hipótese de perda do direito de regresso, não se fazendo presente essa obrigatoriedade no caso do inciso III do artigo 70 do Código de Processo Civil. A denunciação é instituto que objetiva a celeridade e a economia processual que restariam prejudicadas se, no caso concreto, fosse deferido o pedido de anulação do processo desde o despacho que indeferiu a denunciação [...].
+AGRG no AG nº 1190904/SP ? Agravo Regimental no Agravo de Instrumento nº 2009/0091728-3 ? 3ª Turma do Superior Tribunal de Justiça ? Relator Ministro Sidnei Beneti ? j. 27/10/2009
+
+Quanto aos danos materiais, não é possível estabelecer cálculo justo a partir dos documentos juntados pela empresa ré, pois pouco importam os custos adicionais por ela reclamados se a obrigação principal do contrato não foi cumprida. 
+
+Somente afastaria a ré de si o dever de restituir à autora os valores reclamados na inicial caso demonstrasse, por meio de documentos, que a obrigação foi perfeitamente cumprida. Não o fez. Aliás, ao denunciar a lide à empresa terceirizada, admitiu, embora de forma indireta, a veracidade dos argumentos trazidos à baila na inicial. Não bastasse, não há contrato escrito especificando a maneira como foi calculada o preço dos serviços. Assim, a contratada deverá arcar com as perdas e ressarcir o valor estabelecido pela autora por meio do cálculo com regra de três simples, tal como o fez a demandante, visto que se apresenta como o mais pertinente ao caso, conforme demonstrado a seguir:
+QUANTIDADE TOTAL DE CATÁLOGOS: 3.380 - VALOR TOTAL DO SERVIÇO: R$ 29.064,13
+MATERIAL ENTREGUE: 1.076 - VALOR PROPORCIONAL DO MATERIAL ENTREGUE: R$ 9.252,36
+MATERIAL EXTRAVIADO: 2.304 - VALOR PROPORCIONAL DO MATERIAL EXTRAVIADO: R$ 19.811,76
+QUANTIA PAGA PELA AUTORA: R$ 14.532,06
+QUANTIA A SER DEVOLVIDA: R$ 14.532,06 ? R$9.252,36 = R$ 5.279,70.
+
+Portanto, como a autora já efetuou o pagamento da primeira parcela acordada, no valor de R$ 14.532,06, o valor a ser devolvido pela ré pelos serviços não prestados é de R$ 5.279,70, devendo este ser atualizado a partir da data da notificação do efetivo prejuízo da contratante, comprovado a fls. 42, e conforme os índices da Tabela Prática do TJSP. Ademais, incabível o pagamento da segunda parcela de igual valor por parte da demandante, tendo em vista que o valor total era de R$ 9.252,36, referente à entrega de 1.076 catálogos, conforme demonstrado acima.
+
+Quanto ao ressarcimento pela reimpressão do material extraviado, o valor de R$114.000,00, conforme indicado pela autora, é cabível e deve ser atualizado conforme os índices da Tabela Prática do TJSP, e acrescido de juros moratórios de 1% ao mês, a partir da data dos desembolsos (fls. 49/50).
+
+Posto isso, JULGO PROCEDENTES os pedidos formulados pela autora EDITORA BRASILEIRA EBGE SUL LTDA. - EPP, quais sejam, indenização por danos materiais, referentes à reimpressão do material extraviado, no valor de R$ 114.000,00, e à devolução do valor de R$5.541,03, pago à ré por serviço por ela não prestado, com juros e correção monetária como acima exposto.
+
+Sucumbente, condeno a empresa ré ao pagamento das custas processuais e honorários advocatícios que fixo em 10% sobre o valor atualizado da causa, na forma do art. 20, § 4º, do CPC.
+
+Após o trânsito em julgado ou interposto recurso sem efeito suspensivo, requeira a autora, se for de seu interesse, o cumprimento do julgado, na forma do art. 475-J do CPC. O pedido deverá ser instruído com memória de cálculo atualizado. Caso nada seja requerido no prazo de seis meses, feitas as anotações de estilo, arquivem-se os autos do processo.
+
+             P.R.I.C.
+
+
+São Paulo, 15 de setembro de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

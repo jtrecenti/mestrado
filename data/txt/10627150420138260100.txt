@@ -1,0 +1,66 @@
+
+
+SENTENÇA
+
+Processo nº:1062715-04.2013.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Planos de Saúde
+Requerente:Edson de Oliveira Bernini
+Requerido:UNIMED PAULISTANA SOCIEDADE COOPERATIVA DE TRABALHO MÉDICO
+
+Prioridade Idoso
+
+
+Juiz(a) de Direito: Dr(a). Raquel Machado Carleial de Andrade
+
+
+
+Vistos e examinados estes autos ação de obrigação de fazer, com pedido de tutela antecipada ajuizada por EDSON DE OLIVERIA BERNINI em face da UNIMED PAULISTANA - SOCIEDADE COOPERATIVA DE TRABALHO MÉDICO.
+
+Alega, em resumo, ser portador  de câncer de próstata sendo-lhe indicado o tratamento radioterápico tridimensional conformado com modulação da intensidade do feixe (IMRT). Sustenta que a ré negou a cobertura do tratamento. Assim, pugna pela procedência da ação para determinar que ré autorize o tratamento radioterápico (IMRT) no Hospital A. C. Camargo,  com pedido de tutela antecipada. 
+
+A tutela antecipada foi deferida a fls. 47/48.
+
+Citada, a ré ofereceu contestação, aduzindo que o tratamento não foi autorizado, pois não se encontra taxado na Tabela SAS, nem no Rol de Procedimentos da ANS, sendo excluído da cobertura contratual. Sustenta que cumpriu com os termos estabelecidos no contrato.
+
+Houve réplica.
+
+É o relatório.
+Fundamento e decido.
+
+O processo comporta julgamento antecipado, conforme artigo 330, I, do Código de Processo Civil. A matéria fática só demanda prova documental, que já se encontra ou deveria estar presente nos autos.
+
+Não há dúvida de que o contrato havido entre as partes prevê cobertura para quimioterapia e radioterapia (fls. 125/128). No caso vertente há prescrição médica.
+
+É bem verdade que há expressa exclusão de cobertura para "procedimentos que não constem no Rol de Procedimentos e Eventos em Saúde para a segmentação Ambulatorial e Hospitalar com Obstetrícia, instituído pela ANS e vigente na data de realização do Evento".  Com base nessa cláusula a ré nega o direito pretendido pelo autor.
+
+Contudo, razão não assiste à ré.
+
+A doutrina médica explica que o IMRT - Intensity Modulated Radiotherapy - Radioterapia com Intensidade Modulada é uma tecnologia avançada de radioterapia. O objetivo de todos os tratamentos de radioterapia é o de causar o máximo de dano às células cancerosas e ao mesmo tempo provocar um mínimo de dano às células normais. As máquinas IMRT têm a capacidade de controlar melhor o feixe de radiação do que as máquinas convencionais, provocando assim o mínimo de danos às células normais (http://www.siemens.com.br/templates/coluna1.aspx?channel=2124).
+
+Sem dúvida o procedimento é indicado no tratamento da próstata, conforme prossegue o site pesquisado: O câncer da próstata é uma das doenças que podem ser tratadas com o método IMRT. A próstata está situada junto a órgãos sensíveis à radiação. Assim, o uso de IMRT pode reduzir a quantidade de radiação recebida pelo reto e outros órgãos adjacentes. Pela redução da dose de radiação sobre tecidos adjacentes, podem-se aumentar as doses de radiação sobre o tumor, o que aumenta as probabilidades de um tratamento mais eficaz (http://www.siemens.com.br/templates/coluna1.aspx?channel=2124).
+
+Outro site acresce: O planejamento tridimensional preparatório para as técnicas conformal (RT-3D) ou IMRT, é efetuado através da reconstrução de cortes de tomografia computadorizada, onde são delineadas as estruturas de interesse (cabeça de fêmur, reto, bexiga, próstata e vesículas seminais). Permite o arranjo de vários campos com diferentes portas de entrada, inclusive em planos não-axiais, e principalmente o cálculo da distribuição de dose, comparação entre diferentes técnicas, e geração de histogramas de dose-volume (DVH - gráficos que ilustram o quanto de cada órgão, seja ele alvo ou normal, recebe de radiação) (http://www.lincx.com.br/lincx/cientificos/medicos/urologia/imrt.asp).
+
+Resta, pois, evidente que a nova técnica não representa um procedimento diagnóstico, nem tratamento clínico novo, mas aperfeiçoamento da radioterapia, que acaba sendo executada com o controle maior da quantidade de radiação.
+
+O fato de o exame não estar incluído na tabela da ANS não afasta a obrigação de cobertura. Evidente que a demora do órgão público na atualização do rol de procedimentos não inviabiliza o tratamento, que decorre de doença coberta. Interpretação contraria redundaria prestigiar o fornecedor, que redigiu as cláusulas de adesão, em detrimento do aderente. 
+
+Implicaria também violação ao princípio da boa-fé objetiva na medida em que o consumidor, ciente da cobertura do câncer, da quimioterapia e radioterapia, confia na amplitude do contrato, acreditando na plena proteção em situações da espécie (art. 51, IV, do Código de Defesa do Consumidor).
+
+Como se não bastasse, abusivo se mostra também exigir do consumidor que aguarde a atualização da tabela da ANS para submeter-se ao procedimento de radioterapia necessitado, coberto e disponível no mercado..
+
+A propósito do tema, vale registrar os seguintes precedentes:
+
+"PLANO DE SAÚDE ? AÇÃO DECLARATÓRIA C.C. OBRIGAÇÃO DE FAZER - Recusa da seguradora em arcar com os custos advindos de radioterapia com intensidade modulada (IMRT) - Inadmissibilidade - Contrato que prevê cobertura para a radioterapia convencional - Cobertura que deve abranger tratamentos inovadores - Necessidade do paciente incontroversa (portador de câncer na próstata) ? Interpretação contratual que deve se ajustar aos avanços da medicina ? Tratamento prescrito por médico integrante do Hospital A.C. Camargo (instituição renomada em tratamentos oncológicos) - Contrato firmado sob a vigência da Lei 9.656/98, mas que não pode afrontar o CDC (em especial seu art. 51, IV, que não foi revogado pelo advento da sobredita Lei e Resoluções a ela coligadas) - Precedentes deste E. Tribunal - Tratamento aqui discutido que, ademais, não se insere no rol de restrições contido no artigo 10 da referida Lei 9.656/98 - Cobertura devida - Sentença mantida - Recurso improvido" (8a Câm. Dir. Priv., Apel. Cível 688.326.4/0, de São Paulo, rei. Des. Salles Rossijulg. 9/12/09, v.u.).
+
+" PLANO DE SAÚDE - AÇÃO DE OBRIGAÇÃO DE FAZER - Recusa da seguradora em arcar com os custos advindos de radioterapia com intensidade modulada (IMRT) em favor do autor -Inadmissibilidade - Contrato que prevê cobertura para a radioterapia convencional Cobertura que deve abranger tratamentos inovadores - Necessidade do paciente incontroversa (portador de neoplasia prostática em grau avançado)Interpretação contratual que deve se ajustar aos avanços da medicina - Alegação de que o tratamento não está incluído no rol de procedimentos da ANS - Descabimento - Contrato que não pode afrontar o CDC (em especial seu art. 51, IV, que não foi revogado pelo advento da sobredita Lei e Resoluções a ela coligadas) - Precedentes deste E. Tribunal(inclusive desta Câmara) - Cobertura devida Sentença mantida -Recurso improvido." (TJ/SP - Apelação n° 990101952440 - 8a Câmara de Direito Privado - Rei. Des. Salles Rossi - j. 30/06/2010)
+
+Ante o exposto, JULGO  PROCEDENTE A AÇÃO para condenar a ré a custear as despesas com o tratamento oncológico de radioterapia com intensidade modular (IMRT), a ser realizado no Hospital A. C. Camargo, conforme solicitação de autorização elaborada e assinada pelo médico radioterapeuta Dr. Ricardo Cesar Fogaroli, sob pena de multa diária R$ 5.000,00, tornando, assim, definitiva a tutela antecipada concedida. 
+
+Arcará a ré, ainda, com o pagamento das custas e despesas processuais e honorários de advogado que fixo em R$ 3.500,00.
+
+P.R.I.
+
+São Paulo, 15 de outubro de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

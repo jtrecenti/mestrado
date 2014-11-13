@@ -1,0 +1,116 @@
+
+
+SENTENÇA
+
+Processo nº:0026800-67.2004.8.26.0053 - Procedimento Ordinário
+Requerente:Inepar S/A - Industria e Construções
+Requerido:Companhia do Metropolitano de São Paulo - Metro
+
+
+Juiz(ª) de Direito Dr.(ª): Thiago Massao Cortizo Teraoka
+
+Vistos.
+
+INEPAR S.A. ? INDÚSTRIA E CONSTRUÇÕES ingressou com ação de revisão do equilíbrio econômico financeiro de contrato cumulada com pedido de indenização por perdas e danos em face da COMPANHIA DO METROPOLITANO DE SÃO PAULO ? METRO.
+
+Em síntese, afirma que busca ser indenizada pelos prejuízos decorrentes das sucessivas prorrogações dos prazos dos contratos firmados com a ré, desde 1992. O contrato teria duração inicial de 12 meses, mas acabou se estendendo por 65 meses. A ré reconheceu o prejuízo da autora no montante de R$ 464.229,43, mas a autora pensa que seu prejuízo é superior a R$ 1 milhão. De toda sorte, sequer o prejuízo incontroverso foi reconhecido formalmente pela ré. Requer a estipulação do desiquilíbrio econômico e condenação em valores apurados em liquidação de sentença.
+
+Em contestação (fls. 601 a 610), o réu alegou existência de conexão e impossibilidade jurídica do pedido. O Tribunal de Contas considerou irregulares aditamentos contratuais. Os eventos que geraram os problemas da autora foram causados pela autora. Efetuou os pagamentos, com correção monetária. Requer a improcedência da demanda.
+
+Houve réplica (fls. 701 a 708).
+
+Saneador em fl. 709. Em um primeiro momento, a necessidade de perícia por engenharia foi afastada em fl. 730.
+
+Laudo pericial contábil em fls. 763 a 811. Esclarecimentos em fls. 1213 a 1215.
+
+Encerrou-se a instrução (fl. 1233).
+
+O julgamento foi convertido em diligência, para a realização de perícia de engenharia (fls. 1263 a 1264).
+
+Laudo pericial de engenharia em fls. 1373 a 1414. Esclarecimentos em fls. 2652 a 2655.
+
+Memoriais em fls. 2887 a 1694 e 2696 a 2712.
+
+É o relatório.
+
+DECIDO.
+
+As preliminares já foram afastadas pela decisão saneadora de fl. 709. Reporto-me àquela decisão.
+
+No mérito, a demanda é parcialmente procedente.
+
+O pedido é fundamentado no artigo 65, II, ?d?, da Lei nº 8.666/1993:
+
+?Art. 65.  Os contratos regidos por esta Lei poderão ser alterados, com as devidas justificativas, nos seguintes casos:
+(...)
+II - por acordo das partes:
+(...)
+d) para restabelecer a relação que as partes pactuaram inicialmente entre os encargos do contratado e a retribuição da administração para a justa remuneração da obra, serviço ou fornecimento, objetivando a manutenção do equilíbrio econômico-financeiro inicial do contrato, na hipótese de sobrevirem fatos imprevisíveis, ou previsíveis porém de conseqüências incalculáveis, retardadores ou impeditivos da execução do ajustado, ou, ainda, em caso de força maior, caso fortuito ou fato do príncipe, configurando álea econômica extraordinária e extracontratual. (Redação dada pela Lei nº 8.883, de 1994).? (grifos nossos)
+
+Portanto, somente as consequências imprevisíveis do contrato devem indenizadas. Isso para manter o equilíbrio econômico e financeiro do contrato.
+
+A tão somente diminuição ou mesmo ausência de lucros não é indicativo de direito de indenização. Nesse sentido, transcrevo o precedente do Tribunal de Justiça do Estado de São Paulo:
+
+?AÇÃO DECLARATÓRIA. CONTRATO ADMINISTRATIVO. REAJUSTAMENTO CONTRATUAL DE PREÇO E RECOMPOSIÇÃO POR QUEBRA DO EQUILÍBRIO ECONÔMICO-FINANCEIRO. - A só perda econômica não autoriza o recurso à mecânica da recomposição excepcional do preço contratado, escopo que não pode assentar-se no simples estreitamento ou mesmo desaparição de lucros. -À multa infligida com estrito apoio na normativa geral de regência e no contrato entre as partes não pode concorrer, seja de modo ablatório, seja de maneira redutora, o aceno genérico a uma sua suposta excessividade. Não provimento das apelações.? (grifos nossos - TJ/SP, 0017543-14.2009.8.26.0224, Apelação, Relator(a): Ricardo Dip, Comarca: Guarulhos, Órgão julgador: 11ª Câmara de Direito Público, Data do julgamento: 18/06/2012, Data de registro: 25/06/2012, Outros números: 175431420098260224).
+
+A mera prorrogação de prazo livremente pactuada não importa também em aplicação de indenização por desequilíbrio do contrato. Transcrevo:
+
+?CONTRATO ADMINISTRATIVO Execução de obras de reforma em diversos prédios das unidades de internação da Fundação Casa - Pretensão de condenação da Fundação Casa ao pagamento de indenização em virtude de desequilíbrio econômico-financeiro Contrato submetido a diversos termos aditivos de prorrogação, os quais teriam ocasionado o aumento de despesas indiretas, de materiais e de mão de obra Descabimento. Dilação de prazo que decorreu de livre manifestação de vontade entre as partes contratantes. Autonomia da vontade. Teoria da imprevisão. Prorrogação do prazo que não configura fato imprevisível. Descabimento. Reajustes que, após o período de 12 meses, foram corretamente aplicados pela ré, com vistas a respeitar previsão contratual e justamente para atender às previsíveis elevações de preços dos bens, serviços ou salários Precedentes do STJ e TJSP Sentença de improcedência mantida. Recurso desprovido.? (grifos nossos - TJ/SP, 9066546-69.2009.8.26.0000, Apelação, Relator(a): Oscild de Lima Júnior, Comarca: São Paulo, Órgão julgador: 11ª Câmara de Direito Público, Data do julgamento: 27/02/2012, Data de registro: 02/03/2012, Outros números: 9140105300).
+
+Feitas essas considerações, observo que o laudo contábil é totalmente favorável à autora. O perito contábil reconheceu grande prejuízo à autora.
+
+Porém, o Juiz Dr. Fernão Borba Franco, que atuou anteriormente no caso, percebeu que as conclusões contábeis somente prevalecem se comprovadas que as intercorrências no contrato original foram de responsabilidade da autora. Nesse sentido, é a decisão de fls. 1263 a 1264.
+
+Em que pesem as alegações da autora, o laudo pericial contábil não era mesmo suficiente à análise da questão. A questão que demandam análise de engenharia é mesmo prejudicial.
+
+O perito engenheiro concluiu que ?a troca dos TDV ocorreu em consenso de ambas as partes? (fl. 1378). O mesmo perito estimou que a troca dos TDV foi de 2321 dias (fl. 1380). Houve demora na entrega do objeto contratado. Porém, essa prorrogação de prazo foi realizada de maneira consensual, sem desrespeito aos prazos contratualmente estabelecidos (fl. 1381).
+
+Também concluiu o perito engenheiro:
+
+?d) Segundo as evidências encontradas, a demora pode ser atribuída a quatro fatores principais:
+d1) Problemas de ordem financeira: atrasos nos pagamentos por parte da Ré (PLANILHA 01 e ANEXOS: 27, 28, 74, 75, 76, 77, 78, 79, 81, 82, 83, 87, 91).
+d2) Problemas de ordem técnica: Modificação e adequação do TDV fornecido pelo fabricante italiano (Ansaldo), ao sistema de alimentação constante no objeto desta lide (PLANILHAS 01 e 02 e ANEXOS: 23, 30, 69, 72, 78, 80, 82, 88, 89, 90, 98).
+d3) Horário disponível para desenvolvimento dos serviços (PLANILHA 01 e ANEXOS: 15, 83, 84, 85, 86, 92, 93).
+(...)
+d4) Greve nos metroviários (PLANILHA 01).? (fls. 1381 e 1382)
+
+Por oportuno, observo que alterei a numeração dos itens do relatado pelo perito, pois, no laudo, ?pulava? da letra ?d2)? para ?b3)?. Para facilitar, deixei todos os itens como letra ?d?.
+
+É certo que os problemas decorrentes dos itens ?problemas de ordem financeira? e ?greve dos metroviários? são itens de responsabilidade exclusiva do METRO. Não poderia mesmo a autora contratada prever que não haveria pagamento pelo METRO ou que os funcionários ficassem em greve.
+
+No entanto, os ?problemas de ordem técnica? são de responsabilidade da autora, pois a autora também teve interesse na troca dos TDV. Nesse ponto, reporto-me ao indicado pelo perito que ?não foi encontrada qualquer evidência que efetiva e explicitamente comprovasse o não funcionamento ou ineficiência dos TDVs então existentes na linha? (fls. 1377 e 1405). Portanto, eu entendo que está comprovado que os novos TDV foram sugeridos e indicados pela própria autora, também em seu benefício, motivo pelo qual não há que se falar em imprevisibilidade ou imposição unilateral do de cláusula contratual. Nesse ponto, observo que os TDV indicados pela autora ?sem nenhuma modificação? apresentaram instabilidade (fl. 2654).
+
+O item ?horário disponível para o desenvolvimento dos serviços? certamente era de conhecimento da parte autora. Portanto, não há de se falar em imprevisibilidade para justificar a readequação do equilíbrio econômico e financeiro.
+
+Portanto, dos 4 itens indicados pelo perito engenheiro que causaram a demora na realização dos serviços (?problemas financeiros?, ?problemas técnicos?, ?horário disponível? e ?greve?), somente 2 itens (?problemas financeiros? e ?greve?) são de responsabilidade exclusiva do METRO.
+
+ Não há indicação no laudo pericial de engenharia da proporção do tempo de atraso e da causa de atraso. Talvez isso nem mesmo seria possível, pois com certeza os eventos aconteceram simultaneamente, sendo problemas concomitantes no tempo.
+
+Feitas essas considerações, passo à análise do laudo pericial contábil, necessária à quantificação da indenização. 
+
+O perito contábil indicou 4 itens que indicariam a necessidade de indenização: ?paralização por falta de pagamento?, ?desenvolvimento de novo sensor (eletrônico) e testes adicionais do sistema de tese de via?, ?paralização devido ao ensaio adicional do teste de via? e ?modificação da proteção sobre tensão da terra? (fl. 809). Desses 4 itens, somente 1 item é de responsabilidade do METRO (?paralização por falta de pagamento?), que impôs o prejuízo de R$ 251.835,12, para valores de 03/1994 (fl. 809).
+
+Portanto, nos termos apurados neste processo, a indenização devida pelo METRO circunscreve-se a essa quantia de R$ 251.835,12.
+
+Nesse ponto, observo que, apesar ser incontroversa a existência de um grupo de trabalho onde se concluiu que o total do prejuízo da autora foi de R$ 464.229,43 (fl. 279 ? 2º volume), não houve reconhecimento deste valor pelo METRO. Nesse ponto, vide fls. 286 e 287. Portanto, esse valor não pode ser considerado o valor mínimo da indenização devida, pois não é incontroverso.
+
+DISPOSTIVO
+
+Diante do exposto, JULGO PARCIALMENTE PROCEDENTE a demanda. RESOLVO o mérito, nos termos do artigo 269, I, do Código de Processo Civil.
+
+CONDENO o réu ao pagamento à autora de R$ 251.835,12. Atualização monetária pelos índices do TJ/SP, desde março de 1994. Juros de mora desde a citação (artigo 405 do Código Civil e 219 do Código de Processo Civil) e ficam fixados em 0,5% ao mês, na forma do art. 1º F, da Lei n. 9.494/97, na redação da Medida Provisória n. 2.180-35/01, conforme entendimento firmado pelo Colendo STJ (5ª T., AgRg no Ag 763.115/RS; rel. Min. Arnaldo Esteves de Lima; 20.11.06; DJ 11.12.06 p. 414). Após a vigência Lei nº 11.960/09, esta tem aplicabilidade imediata, mas não retroativa (?O art. 1º-F da Lei 9.494/1997, incluído pela MP 2.180-35, de 24.8.2001, com a redação alterada pelo art. 5º da Lei 11.960, de 29.6.2009, tem natureza processual, devendo ser aplicado imediatamente aos processos em tramitação, vedada, entretanto, a retroatividade ao período anterior à sua vigência.? - STJ, AgRg no AgRg no REsp 1284270 / PR, Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 09/11/2012).
+
+Embora seja do conhecimento de todos o teor da decisão a respeito da EC 62, o acórdão do Supremo Tribunal Federal a respeito do tema, SMJ, ainda não foi publicado e, eventualmente, pode haver alguma modulação de efeitos. Assim, os atrasados serão corrigidos e remunerados pelos critérios consagrados na jurisprudência do Superior Tribunal de Justiça.
+
+Houve maior sucumbência da parte autora. Portanto, CONDENO a parte autora ao pagamento das despesas do processo e dos honorários de advogado. FIXO os honorários em R$ 5.000,00, nos termos do artigo 20, §4º, do Código de Processo Civil.
+
+Publique-se. Registre-se. Intimem-se.
+
+São Paulo, 28 de maio de 2013.
+
+THIAGO MASSAO CORTIZO TERAOKA
+JUIZ DE DIREITO
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

@@ -1,0 +1,78 @@
+
+
+SENTENÇA
+
+Processo nº:0111550-16.2008.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Material
+Requerente:Bichara Tecnologia Ltda
+Requerido:Dsli Vox3 Brasil Comunicações Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Laura de Mattos Almeida
+
+
+VISTOS.
+
+
+
+
+BICHARA TECNOLOGIA LTDA. ajuizou ação sob o rito ordinário contra DSLI VOX3 BRASIL COMUNICAÇÕES LTDA. alegando, em suma, que as partes entabularam negócio jurídico de prestação de serviços, do qual adveio a cessão, pela requerida, de espaço a ela destinado por locação na empresa Alog-Data Center do Brasil, onde foram instalados cinco computadores de sua propriedade. Aduz que, por vários meses, tentaram sem êxito chegar a um consenso a respeito dos termos do aludido contrato de sublocação de espaço. Em razão disso, como forma de coação, em 28 de novembro de 2007, a ré desligou cinco computadores servidores e, por consequência, derrubou os domínios a ele atrelados, pertencentes a vários clientes da empresa. Sustenta que a conduta ilícita da ré ocasionou a perda de quase toda sua carteira de clientes, ensejando o ajuizamento de ação de busca e apreensão dos computadores, na tentativa de recuperação de dados e arquivos destes, terceiros de boa fé. Sustenta que o desligamento dos cinco servidores lhe causou danos materiais e morais, que era busca ver reparados. Pretende, também, a devolução dos servidores ou, ao menos, sua religação. Juntou os documentos de fls. 81/126 e 136.
+
+A ré foi citada (fls. 139) e apresentou contestação (fls. 141/150), alegando, em suma, que, no dia 28 de novembro de 2007, todos os seus 17 servidores foram derrubados, ou seja, invadidos e repentinamente desligados pelo usuário Daniel Bichara, sócio e responsável técnico da autora. Aduz que os cinco servidores da requerente nunca saíram do data center, apenas foram desligados para impedir a invasão nos outros servidores. Sustenta que, como o desligamento decorreu da invasão criminosa realizada pela autora, não há danos materiais e morais a serem reparados. Pugna pela improcedência da ação. Juntou os documentos de fls. 182/187. 
+
+Houve réplica (fls. 194/198).
+
+Realizou-se audiência de tentativa de conciliação (fls. 236/237).
+
+Em apenso (processo nº 583.00.2007.258050-1), a autora moveu ação de busca e apreensão em face da ré, tendo por objeto cinco computadores servidores nas dependências da empresa ALOG ? DATA CENTER DO BRASIL. A liminar foi deferida apenas para determinar a ligação dos computadores servidores da requerente (fls. 105/106). Citada (fls. 112), a requerida contestou a fls. 114/119, pugnando pela improcedência da ação. A decisão de fls. 221 suspendeu a liminar. Houve réplica (fls. 239/263). Sobreveio a constatação de fls. 306/307.
+
+Também em apenso (processo nº 583.00.2008.133395-4), a autora moveu ação ordinária em face da ré, almejando, em suma, a declaração de existência de negócio jurídico entre as partes, com a condenação da requerida ao pagamento da quantia de R$ 16.378,65. Indeferida a tutela antecipada (fls. 25), a ré foi citada (fls. 27) e ofereceu contestação, afirmando que tem crédito e não débito com a autora (fls. 29/32). A ré apresentou reconvenção, buscando a condenação da autora ao pagamento da quantia de R$ 60.388,54, oriunda dos serviços de comunicação que lhe foram prestados. Houve réplica (fls. 84/91). A autora contestou a reconvenção (fls. 121/149), reiterando os termos da inicial para fundamentar sua improcedência. O feito foi saneado (fls. 157). O laudo pericial encontra-se a fls. 187/207. O perito prestou esclarecimentos a fls. 231/236 e 252/253. Encerrada a instrução, as partes apresentaram seus memoriais (fls. 268/279 e 280/283).
+
+Também em apenso (processo nº 583.002009.112854-0), a DSLI VOX3 BRASIL COMUNICAÇÕES LTDA. moveu ação ordinária em face de BICHARA TECNOLOGIA LTDA., buscando a condenação da ré à reparação dos danos materiais e morais sofridos pela invasão de seus servidores. A ré, citada (fls. 126), ofereceu contestação (fls. 127/), arguindo preliminares de inépcia da inicial e carência de ação. No mérito, bateu-se pela improcedência da ação. Houve réplica (fls. 156/159).
+É o relatório.
+
+Fundamento e decido.
+
+Colhidas as provas postuladas pelas partes, tem que nenhuma delas provou os fatos constitutivos de seu direito, como lhes incumbia, a teor do disposto no art. 333, I, do Código de Processo Civil.
+
+A BICHARA alega que cinco computadores servidores que mantinham domínios onde estavam alocados seus clientes foram, de uma hora para outra, desligados pela DSLI VOX3 de forma imotivada e dolosa.
+
+A DSLI VOX3, por sua vez, sustenta que houve invasão deliberada nos seus servidores pelo usuário Daniel Bichara (sócio e responsável técnico da BICHARA).
+
+A BICHARA busca a declaração de existência de negócio jurídico entre as partes, com a condenação da DSLI VOX3 ao pagamento da quantia de R$ 16.378,65, além da devolução dos servidores.
+
+A DSLI VOX3, por sua vez, busca a condenação da BICHARA ao pagamento da quantia de R$ 60.388,54, além da reparação dos danos materiais e morais sofridos pela invasão de seus servidores.  
+
+Pois bem. O laudo da perícia realizada na ação cautelar de produção antecipada de provas em apenso atesta que, através de uma conexão remota, no dia 29.11.2007, às 11h14, um usuário, utilizando-se da conta e senha do administrador (root) interrompeu o programa servidor de aplicações http ? internet (lighttpd), parou o banco de dados (mysql) e apagou os arquivos de inicialização do computador responsáveis pelos serviços de rede, console e login.
+
+Segundo o informado pela empresa ALOG SOLUÇÕES DE TECNOLOGIA EM INFORMÁTICA S.A., na sua resposta ao ofício juntado a fls. 281, o endereço IP 200.219.197.90, nada data e hora em questão, estava alocado para a DSLI VOX3 BRASIL COMUNICAÇÕES.
+
+Tal endereço era usado pela DSLI VOX3 para realizar manutenções regulares na aplicação denominada voipzilla, instalada no servidor analisado pela perícia. Tais manutenções eram realizadas utilizando-se da conta e senha do administrador root.
+
+Outro computador remoto, utilizando o endereço 200.162.218.234, alocado para BICHARA COMÉRCIO DE EQUIPAMENTOS DE INFORMÁTICA, também realizava conexões ao computador analisado pela perícia para manutenções regulares na aplicação voipzilla. Tais conexões eram realizadas através do uso da mesma conta e senha do administrador root, o que permite afirmar que a BICHARA conhecia a senha da conta root.
+
+A perícia não identificou vazamentos de informação nos comandos executados, pois as transferências realizadas foram para o servidor e não do servidor em tela. Foram diversos arquivos recebidos pelo servidor com o objetivo de atualização da aplicação voipzilla existente.
+
+Por outro lado, segundo a conclusão da perícia realizada nos autos do processo nº 08.133395-4, apenas os dados e informações existentes nos quatro CDs analisados não demonstram nem comprovam a existência de relacionamento recíproco entre as empresas.
+
+Ainda de acordo com o perito, os valores lançados nos boletos bancários cujo cedente é a empresa DSLI VOX3 e sacada a empresa BICHARA não são suficientes para se apurar a existência de crédito a receber, pois não comprovam a realização das chamadas relacionadas tampouco o não pagamento dos referidos boletos.
+
+Neste contexto, conclui-se que a DSLI VOX3 não pode ser responsabilizada pelo desligamento dos cinco computadores servidores que mantinham domínios onde estavam alocados clientes da BICHARA.
+
+Não há prova de que a invasão tenha causado prejuízos à DSLI VOX3, razão pela qual sua pretensão indenizatória não comporta acolhimento.
+
+Igualmente, não ficou demonstrada a existência de crédito da BICHARA para com a DSLI VOX3, tampouco a existência de crédito da DSLI VOX3 para com a BICHARA, relativamente aos serviços prestados.
+
+Pelo exposto, julgo IMPROCEDENTES as ações conexas ora reunidas, extinguindo os processos, com resolução do mérito, na forma do art. 269, I, do Código de Processo Civil.
+
+Sucumbentes recíprocas, arcarão as partes, por igual, com as custas e despesas processuais, ficando cada qual responsável pelos honorários de seus respectivos patronos.
+
+P.R.I.
+
+São Paulo, 11 de março de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

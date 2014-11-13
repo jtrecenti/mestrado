@@ -1,0 +1,74 @@
+
+
+SENTENÇA
+
+Processo nº:0012398-41.2012.8.26.0007 - Procedimento Ordinário
+Requerente:Ronaldo José Ferreira
+Requerido:Infoc Informações e Fomento Comercial Ltda
+
+CONCLUSÃO
+Em   25 de abril de 2013, faço estes autos conclusos ao MM Juiz de Direito Titular da 1ª Vara Civel, Dr. LUIZ RENATO BARIANI PERES. 
+Eu,(Eli Andreza), escrevente, subscrevo.
+
+
+Vistos.
+Ronaldo José Ferreira ajuizou a presente ação, em rito ordinário, contra Infoc Informações e Fomento Comercial Ltda. pretendendo a declaração de extinção ou de prescrição de dívida no valor de R$40,00, além da condenação da ré ao pagamento de R$32.700,00 a título de danos morais, afirmando que a dívida remonta ao ano de 2001, quando já paga pelo autor, mas que, mesmo assim, a ré, como empresa de cobrança, teria inserido o nome do autor nos cadastros de inadimplentes, há mais de 11 anos do vencimento da dívida.  
+Juntou os documentos de f. 22/27 e 35/37.
+A inicial foi emendada para corrigir o polo passivo (f. 31/34).
+A tutela antecipada foi indeferida (f. 54).
+Citada (f. 91), a ré apresentou contestação (f. 92/109), em que impugnou a gratuidade deferida ao autor, e, quanto ao mérito, afirmou que a dívida do autor seria oriunda de um cheque no valor de R$308,65, devolvido por falta de fundos, de tal forma que o autor seria efetivamente devedor, razão pela qual a inclusão de seu nome em cadastros de inadimplentes corresponderia ao exercício regular do direito de crédito da ré. A demora ocorreu apenas em razão de falsas promessas de pagamento formuladas pelo autor. Por sua vez, a prescrição do cheque seria de 10 anos. Insurgiu-se contra a existência e a extensão dos danos morais.
+Houve réplica (f. 120/127).
+É o relatório.
+Decido.
+Deixo de conhecer da impugnação à gratuidade processual do autor, porque não observada a forma prescrita em lei (art. 4º, § 2º, da Lei nº 1.060/50).
+Presentes os pressupostos processuais e as condições da ação, passo ao exame direto do mérito, uma vez desnecessária a dilação probatória (art. 330, inc. I, do Código de Processo Civil).
+Os pedidos são procedentes.
+É incontroverso que a dívida do autor tem por origem cheque emitido no ano de 2001.
+Se por um lado o autor não faz prova da quitação da cártula, vez que não juntou qualquer documento neste sentido, tem-se, por outro lado, que a dívida está realmente prescrita, porquanto a ré sequer alegou qualquer causa de suspensão ou interrupção da prescrição.
+Dispõe a Lei do Cheque: 
+Art. 61. A ação de enriquecimento contra o emitente ou outros obrigados, que se locupletaram injustamente com o não-pagamento do cheque, prescreve em 2 (dois) anos, contados do dia em que se consumar a prescrição prevista no art. 59 e seu parágrafo desta Lei.
+Art. 62. Salvo prova de novação, a emissão ou a transferência do cheque não exclui a ação fundada na relação causal, feita a prova do não pagamento.
+Existem, desta forma, duas ações para o recebimento do valor do cheque prescrito: a) uma de natureza cambiária, escudada tão-só no não pagamento, que é aquela do art. 61 citado, e que prescreve em dois anos, e b) outra, de natureza causal, que é a prevista no art. 62 citado, que prescrevia em 20 anos nos termos do art. 177 do Código Civil/16, mas agora prescreve em 05 anos. 
+Decorre daí que, para a primeira ação, a cambiária, basta o autor alegar o não pagamento para poder exigir o valor do cheque. Na segunda não, há de trazer a lume o negócio subjacente de forma a demonstrar o locupletamento ilícito. Lógico, a ação é causal.
+Segundo lição de Luiz Emygdio F. da Rosa Jr. (Títulos de Crédito, 3ª edição, Rio de Janeiro: Renovar, 2004, p. 654/5):
+"o art. 61 da Lei n° 7.357/85 refere-se à ação de enriquecimento sem causa, que corresponde à ação cambiaria, porque fundada no cheque que perde a sua executividade em decorrência de prescrição da ação de execução. O art. 62, ao consagrar, como regra, a natureza pro solvendo do cheque, ressalva a ação fundada na relação causal que originou o cheque, no negócio jurídico subjacente no título. Por isso, para a ação causal não basta apenas a apresentação do cheque, sendo necessária a prova do negócio jurídico que deu causa à assunção da obrigação cambiária, porque o cheque só é causa em si mesmo quando dotado de ação cambial. A ação prevista no art. 62 é ação de cobrança do crédito decorrente do negócio jurídico, que corresponde à relação subjacente que gerou a emissão do cheque. A prescrição é a genérica de 10 (dez) anos quando a lei não haja fixado prazo menor (art. 205 do CCB atual), e seu prazo flui do término do prazo prescricional para a ação cambiaria de execução. O CCB de 2002, em seu art. 205, reza que a prescrição ocorre em dez anos, quando a lei não lhe haja fixado prazo menor. Por outro lado, o art. 206, VIII, estabelece o prazo prescricional de três anos da pretensão para haver o pagamento de título de crédito, a contar do vencimento, ressalvadas as disposições de lei especial. Assim, a mencionada norma não se aplica ao cheque" 
+A ação causal, para cobrança da própria obrigação principal, comprovada pelo cheque, tem prazo prescricional de cinco anos, nos termos da súmula nº 18 do E. Tribunal de Justiça do Estado de São Paulo (?Exigida ou não a indicação da causa subjacente, prescreve em cinco anos o crédito ostentado em cheque de força executiva extinta - Código Civil, art. 206, § 5º, I?).
+A prescrição da executividade do cheque e a prescrição da obrigação subjacente correm em paralelo, desde o vencimento do título. Assim, emitido o cheque em 2001, a executividade prescreveu em 2008 (contados os cinco anos da vigência do novo Código Civil), e a inscrição da dívida em cadastros de inadimplentes ocorreu em 2010, quando já fulminado o crédito pela prescrição. 
+A obrigação pessoal prescreveria em 20 anos, pelas regras do Código Civil/16, uma vez que o cheque foi emitido em 2001, antes do novo Código Civil. 
+Por força da regra de transição do art. 2.028 do Código Civil/02, como não havia decorrido mais da metade do prazo antigo quando do advento do novo código, deve-se aplicar o prazo reduzido da lei nova, que é de 05 anos, contados a partir da vigência da novel legislação.
+Neste sentido, a jurisprudência já consolidada pelo tempo por ocasião de outras alterações de prazos prescricionais, do E. Supremo Tribunal Federal:
+?Prescrição. Direito intertemporal. Caso em que o prazo prescribente fixado na lei nova é menor do que o prazo prescricional marcado na lei anterior. Feita a contagem do prazo prescribente marcado na lei nova (isso a partir da vigência dessa lei), e se ocorrer que ele termine em antes de findar-se o prazo maior fixado na lei anterior, é de considerar o prazo menor previsto na lei posterior, contado esse prazo a partir da vigência da segunda lei.
+(RE nº 79.327/SP, Rel. Min. Antônio Nader, julgado em 03.10.1978) 
+Em idêntico sentido o Enunciado nº 299, aprovado na IV Jornada de Direito Civil promovida pelo Centro de Estudos Judiciários do Conselho da Justiça Federal:
+Enunciado 299 ? Art. 2.028. Iniciada a contagem de determinado prazo sob a égide do Código Civil de 1916, e vindo a lei nova a reduzi-lo, prevalecerá o prazo antigo, desde que transcorrido mais de metade deste na data da entrada em vigor do novo Código. O novo prazo será contado a partir de 11 de janeiro de 2003, desprezando-se o tempo anteriormente decorrido, salvo quando o não-aproveitamento do prazo já decorrido implicar aumento do prazo prescricional previsto na lei revogada, hipótese em que deve ser aproveitado o prazo já decorrido durante o domínio da lei antiga, estabelecendo-se uma continuidade temporal.
+Desta forma, a prescrição definitiva das obrigações do autor ocorreu em 11.01.2008.
+Assim, estando irremediavelmente prescrita a obrigação, é o caso de acolhimento dos pedidos iniciais.
+Houve extravasamento dos limites sociais de tolerância quanto ao molestamento sofrido pelo autor com o presente caso.
+A colocação do nome do autor em cadastro de inadimplentes gera inequívoco abalo moral. 
+O nome de uma pessoa, um dos principais patrimônios morais do indivíduo, é estratificação da boa fama, dos princípios e da reputação de alguém. A colocação deste nome em situação de inadimplente macula a identidade da pessoa, fazendo-a equiparar a alguém em descrédito, em quem não se pode confiar. O dano é ainda mais severo em uma sociedade capitalista e de consumo como a nossa.
+Por sua vez, a jurisprudência dos tribunais superiores é pacífica quanto à total desnecessidade de demonstração concreta de prejuízos em razão da inserção do nome em cadastros como SPC e SERASA, uma vez que tal fato, por si só, já configura dano moral.
+Nesse sentido a torrencial jurisprudência do E. Superior Tribunal de Justiça, de que são exemplos os seguintes julgados:
+CIVIL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. PROTESTO INDEVIDO DE TÍTULO. INSCRIÇÃO INDEVIDA EM CADASTROS DE PROTEÇÃO AO CRÉDITO. TENTATIVA DE SOLUÇÃO. AUSÊNCIA DE COMPROVAÇÃO.
+Improcedem as alegações de ausência de danos, porquanto, consoante entendimento firmado nesta Corte, a simples inscrição indevida no cadastro de devedores já é suficiente para gerar dano reparável  ( "O dano moral decorre do próprio ato lesivo de inscrição indevida junto aos órgãos de proteção ao crédito, independentemente da prova objetiva do abalo à honra e à reputação sofrida pelos autores, que se permite, na hipótese, facilmente presumir, gerando direito à ressarcimento",  in:  Resp. nºs: 110.091/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJ 28.08.00; 196.824, Rel. Min. CÉSAR ASFOR ROCHA, DJ 02.08.99; 323.356/SC, Rel. Min. ANTONIO PÁDUA RIBEIRO, DJ 11.06.2002).
+(Resp nº 782.278/ES, Rel. Min. Jorge Scartezzini, julgado em 18/10/2005).
+
+RESPONSABILIDADE CIVIL. DANO MORAL. INCLUSÃO IRREGULAR DO NOME DO DEVEDOR EM CADASTRO DE PROTEÇÃO AO CRÉDITO. PROVA DO DANO.
+O dano moral não depende de prova; acha-se in re ipsa.
+Em sede de apelo especial não se reexamina matéria fático-probatória. Incidência da Súmula n. 7-STJ.
+Recurso especial não conhecido.
+(Resp nº 720.995/PB, Rel. Min. Barros Monteiro, julgado em 16/08/2005).
+A indenização, no caso, deve atender à justa medida entre a ilicitude perpetrada e o enriquecimento sem causa possível, de tal forma que ao autor não tenha sido um ?bom negócio? ter sofrido o mal pelo qual passou.
+Considerando ainda a equidade como fonte direta de apreciação do quantum indenizatório, reputa-se suficiente o valor de R$5.000,00. 
+Neste campo, não há sucumbência recíproca pela não adoção do valor indicado na inicial, dada a sua natureza meramente indicativa por ocasião do ajuizamento da ação. Ademais, o fato principal, consistente no ilícito causador do dano, foi reconhecido. 
+Daí a razão da Súmula nº 326 do E. Superior Tribunal de Justiça: Na ação de indenização por dano moral, a condenação em montante inferior ao postulado na inicial não implica sucumbência recíproca.
+Dispositivo.
+Ante o exposto, julgo procedentes os pedidos de modo a declarar a prescrição da dívida de R$40,00, objeto do apontamento de f. 26.
+Condeno a ré ao pagamento de R$5.000,00 a título de indenização por danos morais, com acréscimo de juros legais de mora de 1,0% ao mês, a partir da citação, além de correção monetária, a partir desta condenação (Súmula nº 362 do E. Superior Tribunal de Justiça).
+Defiro a tutela antecipada em sentença exclusivamente para que seja excluído o nome do autor dos cadastros de inadimplentes pelo débito ora reconhecido como prescrito.
+Oficie-se neste sentido.
+A ré arcará com a integralidade das custas e despesas processuais, além de honorários advocatícios que fixo em 20% do valor da condenação. 
+P.R.I.C.
+São Paulo, 26 de abril de 2013.
+
+Luiz Renato Bariani Peres
+Juiz de Direito

@@ -1,0 +1,86 @@
+
+
+SENTENÇA
+
+Processo Físico nº:0038350-03.2013.8.26.0002
+Classe - AssuntoProcedimento Ordinário - Inclusão Indevida em Cadastro de Inadimplentes
+Requerente:Hilda Barbosa Alves
+Requerido:Itaú Unibanco S/A.
+
+
+Justiça Gratuita
+
+Juiz(a) de Direito: Dr(a). Ricardo Dal Pizzol
+
+
+Vistos.
+
+HILDA BARBOSA ALVES ajuizou "ação declaratória de inexistência de dívida cc  indenização por danos morais" contra ITAÚ UNIBANCO S/A.
+
+Alega a autora que teve seu nome indevidamente inserido junto aos órgãos de proteção ao crédito pela empresa requerida, devendo ser ressarcidos os danos morais resultantes de tal inscrição.
+
+Tutela antecipada concedida à fl. 25.
+
+Contestação às fls. 31/33. Alega o requerido que as cobranças impugnadas são legítimas, realizadas quer pela própria autora, quer por pessoa a quem tenha ela entregado o cartão, por desídia ou por vontade própria. Alega ainda não se poder falar em falha na prestação do serviço, uma vez que o chip dos cartões por ele fornecidos não é passível de clonagem.
+
+Réplica às fls. 106/109.
+
+É o Relatório.
+
+Passo a Fundamentar.
+
+I ? Possível o julgamento antecipado da lide, uma vez que desnecessária a produção de outras provas. Vale lembrar que ?sendo o Juízo o destinatário da prova, somente a ele cumpre aferir sobre a necessidade ou não de sua realização? (TJSP, AI 13811-5, Rel. Des. Hermes Pinotti).
+
+II ? A ação merece ser julgada procedente.
+
+Alega a autora que os débitos são inexistentes, visto não ter realizado as transações bancárias indicadas na inicial. 
+
+Era ônus do requerido, nesse contexto, comprovar a existência e a higidez dos débitos imputados à autora. Afinal, não se poderia exigir da autora a comprovação de fato negativo (qual seja, que não realizou as transações bancárias indicadas na inicial). Ademais, aplica-se, na hipótese, o disposto no art. 6º, VIII, do CDC.
+
+O requerido, no entanto, não se desincumbiu desse ônus probatório, visto não ter produzido qualquer prova da efetiva utilização do cartão bancário pela requerente. 
+
+É de conhecimento geral que inúmeros cartões bancários ainda são clonados atualmente, sendo também de conhecimento geral que os fraudadores adaptam-se às novas tecnologias com a mesma velocidade em que estas são criadas. Assim, não convencem as alegações do requerido de infalibilidade do sistema.
+
+Não é diverso o entendimento do Eg. Tribunal de Justiça de São Paulo:
+
+INDENIZATÓRIA. RESTITUIÇÃO DE VALORES. Saques e empréstimo realizados na conta-corrente, não reconhecidos pela autora. Defesa baseada na negligência da correntista em cuidar do cartão magnético e da senha pessoal. Descabimento. Sistema de segurança dos cartões magnéticos que ainda se mostra vulnerável a golpes e fraudes. Súmula 479-STJ. Relação de Consumo. Responsabilidade apenas passível de ser refutada nas hipóteses do § 3º do art. 14 do CDC. É do Banco o ônus probatório com relação aos saques, tendo em vista a impossibilidade de se produzir prova negativa. Autora que teve seus salários retidos, entre os meses de agosto a dezembro de 2010, a fim de que fosse amortizado o suposto saldo devedor. Reconhecimento do erro pela instituição financeira que restituiu parcialmente o valor retido. Dever de restituir integralmente o valor retirado. Sentença de parcial procedência mantida. RECURSO DESPROVIDO NESTE TÓPICO. INDENIZAÇÃO POR DANOS MORAIS. Valor fixado na r. sentença de 20 salários mínimos, que se mostra excessivo. Indenização reduzida para R$ 10.000,00, que deverá ser corrigida monetariamente a partir da publicação desta decisão (Súmula 362-STJ), acrescida de juros legais a partir da citação (art. 219, CPC). Sentença reformada. RECURSO PROVIDO NESTE TÓPICO.
+(TJSP ? Apel. nº 0001331-04.2011.8.26.0011, Rel. Des. Sérgio Shimura, 13/11/2013)
+
+INDENIZATÓRIA. Prestação de serviços bancários. Saques indevidos em conta realizados por terceiros através de cartão 'clonado'. Conhecimento público acerca da possibilidade de uso de dados pessoais por criminosos, sem o conhecimento da vítima, fazendo uso de equipamentos eletrônicos que captam os dados da operação ou por falsos sites na rede mundial de computadores. Fraudes cada vez mais comuns. Negligência dos meios de segurança pela instituição financeira. Falta de prova de culpa da consumidora. Responsabilidade da casa bancária caracterizada pela má prestação do serviço. DANOS MORAIS. Condenação. Possibilidade. Valor fixado conforme parâmetros adotados pela Turma Julgadora para casos análogos. Apelo do banco improvido. Apelo da autora com provimento. Dispositivo: negam provimento ao recurso do banco e dão provimento ao recurso da autora.
+(TJSP ? Apel. nº 0213416-62.2011.8.26.0100, Rel. Des. Ricardo Negrão, 16/09/2013)
+
+
+III ? Resta saber se, nessas condições (débito constituído fraudulentamente), o requerido é responsável pelo dano moral causado à autora. 
+
+Entendo que a resposta é positiva. 
+
+Dispõe a Súmula 479 do STJ: "As instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiro no âmbito de operações bancárias". 
+
+IV - O dano moral, na hipótese de inscrição indevida, é in re ipsa.
+
+A indenização por dano moral possui três funções, conforme decidido pelo STF no julgamento do AI 455.846, Rel. Min. Celso de Mello: (a) compensar lesões psíquicas e à reputação; (b) punir condutas contrárias ao direito; (c) evitar a repetição de condutas contrárias ao direito (prevenção geral e especial). 
+
+A indenização por dano moral não pode ser fixada em valores excessivamente elevados, pois isso tornaria o dano psíquico vantajoso para quem o sofre. Em contrapartida, também não pode ser fixada em valor irrisório, pois isso seria um desestímulo ao ajuizamento das ações, implicando, na prática, em denegação de acesso à justiça. 
+
+No caso, devem ser levados em conta os seguintes fatores para fixação do valor da indenização: (i) a autora não possuía outros apontamentos; (ii) de certa forma, o requerido também foi vítima da situação, visto que também foi lesado pela atuação do terceiro-estelionatário; (iii) a autora, no caso, não comprovou sofrimentos pessoais que excedam aqueles que costumeiramente se observam em situações desse tipo (inscrição indevida), não merecendo, portanto, tratamento diverso do atribuído à generalidade desses casos; (iv) a inscrição não perdurou por longo período.
+
+Em face de todo o exposto, reputo razoável, no caso, o valor de R$ 5.000,00 (cinco mil reais), suficiente para punir o requerido, sem gerar enriquecimento sem causa em favor da autora. 
+
+DECIDO. 
+
+Ante o exposto, JULGO PROCEDENTE a ação, para:
+
+(a) DECLARAR a inexigibilidade do débito apontado à fl. 16, confirmando, nesse ponto, a tutela antecipada anteriormente concedida; 
+
+(b) CONDENAR o requerido a pagar à autora, a título de danos morais, a quantia de R$ 5.000,00 (cinco mil reais), acrescida de correção monetária, conforme a Tabela Prática do TJSP, desde a presente data até o efetivo pagamento (Súmula 362 do STJ), e de juros moratórios de 1% ao mês, desde a citação até o efetivo pagamento. 
+
+Condeno o requerido, ainda, ao pagamento das custas, despesas processuais e honorários advocatícios, que fixo em 15% do valor da condenação.
+
+Para interposição de eventual recurso, o valor deverá corresponder a 2% (dois por cento) sobre o valor da condenação, se houver, ou do valor da causa atualizado, e deverá ser recolhido a título de porte de remessa e retorno dos autos o valor de R$ 29,50 por volume, observando-se o disposto na Lei 11.608/03. Transitada em julgado, certifique-se. Nada requerido, arquivem-se.
+
+P.R.I.C.
+
+São Paulo, 28 de março de 2014.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

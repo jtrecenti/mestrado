@@ -1,0 +1,48 @@
+
+
+SENTENÇA
+
+Processo Digital nº:1006571-73.2014.8.26.0003
+Classe - AssuntoProcedimento Ordinário - Inclusão Indevida em Cadastro de Inadimplentes
+Requerente:AUREO DA ASSUMPÇÃO FIGUEIREDO
+Requerido:Banco Itaucard S.A.
+
+Prioridade Idoso
+
+
+Juiz(a) de Direito: Dr(a). Samira de Castro Lorena
+
+
+
+Vistos.
+
+
+Cuida-se de ação declaratória de inexigibilidade de débito cumulada com indenização por danos morais e pedido de tutela antecipada, movida por AUREO DA ASSUMPÇÃO FIGUEIREDO contra BANCO ITAUCARD S/A, alegando, em suma, que é cliente do réu por meio do cartão de crédito indicado na inicial e com ele realizou renegociação do contrato n° 033025408 para pagamento de 36 prestações de R$ 256,17 (R$ 269,65 - R$ 13,48) com vencimento todo dia 30, sendo os boletos encaminhados mensalmente ao seu endereço. Ocorre que quando realizou o agendamento em sua conta corrente para pagamento da parcela 29/36 com vencimento em 30/12/2013, em 23/12/2013, inserindo normalmente o código de barras conforme boleto enviado pelo Réu, no momento da finalização da digitação foi inserido automaticamente pelo sistema o valor errado de R$ 253,55, mesmo o autor tendo digitado nos campos finais 0000025617. Ressaltou que autorizou o desconto em sua conta de eventual diferença relativa ao pagamento. Em 17/01/2014 recebeu cobrança da prestação citada e, contatado o réu, enviou cópia do comprovante via fax, mas não foi resolvido o problema, de modo que a instituição financeira cessou o encaminhamento das cobranças das prestações vincendas e condicionou a regularização da renegociação do pagamento da parcela 29/36 juntamente com a 30/36 com vencimento em 30/01/2014. Posteriormente funcionária do réu autorizou que autor efetuasse o pagamento das prestações 30 e 31/36 diretamente no caixa do banco Itaú, o que foi realizado. Todavia, em março de 2014 recebeu o boleto da parcela 32/36 com vencimento em 30/03/2014 acrescida das demais parcelas, bem como missiva do SERASA comunicando a negativação do seu nome. Disse que em razão dos fatos sofreu dano moral. Por tais fundamentos, requereu a concessão de tutela antecipada para exclusão do apontamento e autorização para depósito judicial das parcelas vencidas e vincendas da renegociação e, ao final, a confirmação da liminar e procedência da ação para declaração de quitação das parcelas 29 a 32 da renegociação, além da condenação do réu ao pagamento de indenização por danos morais no valor de R$ 10.000,00. Com a inicial vieram documentos.
+A decisão de fls. 63/64 concedeu a tutela antecipada e autorizou o depósito judicial do valor das parcelas.
+O autor efetuou depósitos judiciais das parcelas 33, 34 e 35/36 (fls. 89, 125 e 159).
+Manifestação do réu requerendo o depósito judicial dos valores das demais parcelas com vencimento em 30/05, 30/06 e 30/07 de 2014 (fls. 93).
+Em contestação (fls. 105/114), pugnou pela improcedência do pedido, aduzindo, em resumo, que a renegociação citada na inicial estava sendo regularmente cumprida até parcela de nº 29, vencida em 30/12/2013, cujo pagamento não foi recepcionado pelo réu, de modo que houve envio de cartas de cobrança. Destacou que a divergência entre o valor pago e o valor da parcela obstaculizou a imediata baixa da parcela no sistema, a qual apenas ocorreu em 12/02/2014. Disse que este foi o último pagamento recebido pelo banco com relação ao contrato de nº 30139330254087, de sorte que as parcelas daquela operação estão atrasadas. Ressaltou que embora o autor tenha realizado o pagamento da quantia de R$ 256,17, em 20/02/2014 e em 28/02/2014, houve uma inconsistência nas informações, razão pela qual não houve quitação das parcelas 30 e 31, gerando a inclusão do nome do autor nos cadastros de restrição ao crédito. Alegou que agiu no exercício regular de direito e impugnou a existência de dano moral. Juntou documentos.
+Réplica (fls. 126/138).
+
+É o relatório.
+Fundamento e Decido.
+
+
+A matéria controvertida é essencialmente de direito e no plano dos fatos não há necessidade de produção de outras provas, de sorte que passo ao julgamento antecipado da lide, nos termos do art. 330, I do Código de Processo Civil.
+Com efeito, restou incontroverso que as partes firmaram renegociação de dívida de cartão de crédito em 36 parcelas de R$ 256,17 com vencimento todo dia 30, tendo havido problema no pagamento da parcela 29 com vencimento em 30/12/2013 efetuado em caixa eletrônico.
+A par disso, consoante já destacado na decisão que concedeu a tutela antecipada, há verossimilhança nas alegações do autor de que o erro que impediu a inserção do valor correto da dívida (foi inserido R$ 253,11 ao invés de R$ 256,17 ? fls. 31/32) não foi causado pelo consumidor, mas em razão de defeito no equipamento do réu.
+Por outro lado, é certo que o banco não cuidou de demonstrar a regularidade e o adequado funcionamento do caixa eletrônico ou culpa exclusiva do consumidor no momento da quitação da parcela 29, ônus este que lhe competia por força da inversão do ônus da prova na forma artigo 6º, inciso VIII, do Código de Defesa do Consumidor.
+Convém frisar que, em sua defesa, o banco admitiu que posteriormente, possivelmente após o encaminhamento pelo consumidor do comprovante de pagamento via fax (cf. fls. 35), houve baixa da parcela supracitada, tanto é que nas cobranças de fls. 40 e 50 a parcela 29 foi omitida.
+As parcelas 30 e 31, noutra vertente, foram quitadas de acordo com fls. 41/42 e debitadas da conta do autor (fls. 45/46), inexistindo qualquer prova de ter ocorrido inconsistência de informações que impediu o recebimento dos valores pelo banco, salientando-se que, segundo informado na inicial, as citadas prestações foram pagas da maneira como orientado por preposta do réu.
+As parcelas 32, 34 e 35/36 da renegociação foram regularmente depositadas no processo (fls. 27/28, 89, 125 e 159). A parcela 36/36 (última), por sua vez, ainda não venceu.
+Nesse contexto, conclui-se que houve falha imputável ao sistema réu no que tange ao recebimento da parcela 29 em valor menor que o devido, sendo que esta, bem como as parcelas 30/35 que foram depositadas judicialmente devem ser consideradas quitadas.
+Demais disso, em virtude da negativação do nome do autor, encontra-se presente o dever de indenizar.
+Isto porque, na hipótese de abalo de crédito vigora o princípio geral da presunção de dano, o que desincumbe o autor de carrear aos autos comprovação neste sentido eis que intuitivos os prejuízos de ordem moral que ele sofreu por ter sido apontado como devedor inadimplente.
+No que diz respeito ao valor da indenização, partindo-se da premissa de que a indenização por danos morais não pode configurar-se em causa de enriquecimento ilícito ao credor, e consequente empobrecimento sem causa pelo devedor, tendo em conta ainda a extensão dos danos, entendo por bem fixá-lo em R$ 4.500,00.
+Ante o exposto, e por tudo mais que dos autos consta, julgo PROCEDENTE o pedido para declarar quitadas as parcelas 29/35 da renegociação firmada entre as partes. Condeno, ainda, o réu a pagar ao autor, a título de indenização por danos morais, R$ 4.500,00, que deverão ser atualizados monetariamente a contar da data desta sentença e acrescidos de juros de mora, de 1% ao mês, a contar da citação. Torno definitiva a tutela antecipada e julgo extingo o feito com fulcro no artigo 269, inciso I do CPC.
+Em razão da sucumbência, condeno o réu ao pagamento das custas processuais e verba honorária, que arbitro em R$ 800,00.
+P.R.I.
+São Paulo, 28 de julho de 2014.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

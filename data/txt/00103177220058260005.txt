@@ -1,0 +1,42 @@
+
+
+SENTENÇA
+
+Processo nº:005.05.010317-7
+Classe - AssuntoProcedimento Ordinário 
+Requerente:José Carlos dos Santos
+Requerido:Aes Eletropaulo Eletricidade de São Paulo S/A
+
+
+
+Juiz(a) de Direito: Dr(a). Michel Chakur Farah
+
+
+Vistos.
+
+JOSÉ CARLOS DOS SANTOS ajuizou esta ação declaratória de inexigibilidade de débito c.c. pedidos cominatório e indenizatório contra AES  ELETROPAULO METROPOLITANA DE SÃO PAULO S/A  alegando, em suma, que a ré lhe cobra valores inexigíveis, na medida em que não praticou os atos fraudulentos por ela mencionados. Diz ter havido corte de fornecimento de energia. Pede seja a ré compelida a restabelecer a energia no local e busca declaração de inexigibilidade do acordo extrajudicial mantido com ela, viciado porque realizado sob coação, e inda indenização pelos danos morais experimentados.
+Citada, a ré contestou. Disse que  autor fraudou a instalação elétrica, procedendo a chamada ligação direta, o que lhe gerou a obrigação de pagar os valores gastos, mas não registrados. Alega ter agido no exercício regular do direito.
+Veio perícia.
+Em alegações finais, a ré reiterou manifestação precedente.
+É o relatório
+Decido.
+Procede em parte o pedido.
+A prova pericial é francamente desfavorável ao autor, e confirma, de modo a não deixar dúvida razoável, a existência da fraude sustentada pela ré, o que poderia autorizar o corte de energia, pois, como é cediço (não obstante posição contrária), o princípio da continuidade do serviço público está condicionado à contraprestação que deve ser garantida pelo usuário. 
+Em outras palavras, não se há de exigir da ré que mantenha fornecimento regular de energia ao consumidor que frauda o equipamento de medição visando obter vantagem em detrimento da companhia fornecedora.
+No caso dos autos, a prova permite que se conclua pela existência da fraude. Muito embora a situação fática já estivesse regularizada quando da vistoria, o certo é que a perícia detectou, sem impugnação específica por parte do autor, a existência de degrau significativo de consumo entre os 12 meses anteriores e posteriores à descoberta da fraude, que indicam aumento de 117%, que sugerem, sem dúvida a ocorrência  de irregularidade que trouxe prejuízo à concessionária.
+E o autor, por outro lado, não trouxe nenhuma justificativa para o aumento mencionado. A alegação de que após a diligência dos técnicos ele teria construído uma quarta casa no mesmo terreno em nada modifica a conclusão do laudo, porque, como dito pelo perito em laudo complementar (fls. 298/301), o consumo dessa quarta residência somente foi computado a partir de junho de 2005, ou seja, após os 12 meses posteriores à lavratura do TOI, de modo que tal consumo não interfere no aumento de 117% constatado pelo perito.
+A isso, acrescente-se a existência do Termo de Irregularidade que foi lavrado pelos técnicos da ré, e ainda o fato de o autor ter firmado acordo extrajudicial com a companhia, circunstâncias que, aliadas à prova pericial, indicam que havia a fraude anunciada quando da visita feita pelos prepostos da concessionária.
+Logo, diante do somatório de todos os indícios trazidos pelo perito judicial, aliado ao que consta do termo de ocorrência de irregularidade lavrado pelos prepostos da ré e ao reconhecimento implícito marcado pelo acordo extrajudicial, não há como se negar a fraude perpetrada.
+Todavia, há um aspecto que não pode ser esquecido: a ré utilizou-se da aliena c, da Resolução 456/00, da ANEEL para recuperar o valor perdido, critério que tem sido condenado pela jurisprudência do Tribunal de Justiça deste Estado, que já deixou consignado que inobstante o fato de tal critério estar previsto no artigo 72, inciso IV, letra 'c', da Resolução Aneel nº 456/00, certo é que a jurisprudência desta Casa não o tem abonado, eis que considerar a carga total instalada no imóvel não significa que tenha sido utilizada toda a energia elétrica assim imaginada. E mais: Revisar faturamento em desfavor do consumidor mediante a aplicação de critérios que inexoravelmente levarão a debito deste valor por consumo máximo de energia, é o mesmo que obrigá-lo a adquirir quantidade maior que as suas necessidade, prática abusiva à luz do art. 39,I, do CDC, já que proporciona vantagem exagerada para a fornecedora, garantindo-lhe um enriquecimento sem causa (apelação n. 1.040.620/0, rel. des. Arantes Theodoro).
+Além disso, no caso dos autos, há de se salientar que a ré retroagiu os cálculos em cinco anos, englobando período conhecido em nossa história recente como apagão, época em que todos os consumidores, por imposição do Governo Federal, economizou energia elétrica, a fim de alcançar as metas impostas. O consumo baixo nesse período estaria justificado por conta dessa circunstância, e não necessariamente porque teria havido fraude no sistema de medição.
+Por outro lado, observe-se que a ré em momento algum justificou o porquê de se ter retroagido em cinco anos o período suspeito da fraude, muito embora o perito judicial tivesse feito questionamento a respeito (fl. 300).
+A melhor solução, no caso, é dada pela própria jurisprudência: Assim, para se adaptar o anúncio da resolução Aneel 456/00 ao regime consumerista, o valor a ser satisfeito a título de diferença havia de considerar, então, a média do consumo em período de doze ciclos não abrangidos por aqueles nos quais houve a irregularidade (acórdão citado).
+Na hipótese dos autos, a ré não demonstrou degrau precedente, que permitisse detectar, antes da fraude, período de consumo regular, de modo que a solução é considerar os doze meses imediatamente posteriores á regularização, ou seja, à descoberta da fraude, que contou com a troca do medidor e consumo normal aumentado em 117 %.
+Em suma: reconhece-se a existência da fraude; todavia, não se prestigia o cálculo efetuado pela ré e imposto ao autor, de modo a tornar nulo o acordo extrajudicial, cabendo à ré aferir novo valor e submetê-lo à cobrança, para, somente então, não feito o pagamento, proceder ao corte de fornecimento.
+Finalmente, não há dano moral a ser indenizado, porque não pode reclamar tal verba quem dá causa ao fato procedendo manobra fraudulenta no sistema de medição de energia.
+Ante o exposto, julgo parcialmente procedente o pedido, para, embora reconhecida a fraude, anular o acordo extrajudicial, mantida a tutela antecipada até que, nos termos acima mencionados, seja o autor intimado a pagar o valor correto; julgo improcedente o pedido indenizatório. Custas e despesas repartidas pela metade, e cada parte arca com os honorários de seu respectivo patrono.
+P.R.I.C..
+São Paulo, 28 de junho de 2010.
+
+Michel Chakur Farah
+      Juiz de Direito

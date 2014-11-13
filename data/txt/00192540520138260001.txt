@@ -1,0 +1,67 @@
+
+
+SENTENÇA
+
+Processo nº:0019254-05.2013.8.26.0001 - Procedimento Ordinário
+Requerente:B&D Transportes, Logísticas e Armazenamento Ltda - ME
+Requerido:Sulamérica Cia. de Seguros
+
+
+
+
+Juiz(ª) de Direito Dr.(ª): Enéas Costa Garcia
+
+
+
+
+Vistos. 
+
+
+1.B & D TRANSPORTES, LOGÍSTICA E ARMAZENAMENTO LTDA-ME, qualificada nos autos, ingressou com ação contra SULAMERICA CIA NACIONAL DE SEGUROS , alegando, em síntese que: a) celebrou com a ré contrato de seguro no ramo de transportes, bem como seguro de carga, com vigência de 05/10/2012 até 05/2/10/2013; b) no dia 26/11/2012 um caminhão de sua propriedade foi roubado durante transporte de determinada mercadoria no valor de R$ 271.269,60, conforme boletim de ocorrência; c) ao comunicar o sinistro, a ré negou o pagamento da indenização securitária, alegando descumprimento da obrigação pela autora de averbar todos os embarques efetuados durante a vigência do contrato de seguro, inclusive do embarque sinistrado; d) independente da carga a ser averbada a seguradora cobrava prêmio mensal.
+Pretende o acolhimento do pedido para condenação da ré ao pagamento da indenização securitária.
+
+2. A ré foi citada (fls.50) e apresentou contestação (fls.52/71). Alega em defesa: a) sonegação de averbações e flagrante descumprimento contratual, a ensejar perda do direito ao pagamento pleiteado; b) inaplicabilidade do Código de Defesa do Consumidor; c) respeito aos limites da apólice.  
+
+3. Veio aos autos a réplica (fls.110/117).
+É o relatório. 
+
+DECIDO.
+
+4. O feito comporta julgamento antecipado, sendo dispensável a produção de prova oral, nos termos do art. 330, I do Código de Processo Civil.
+
+5. A ação é IMPROCEDENTE. 
+Na modalidade de seguro contratada o prêmio é calculado periodicamente de maneira flexível, à luz das comunicações realizadas pelo segurado (averbações) das cargas transportadas. 
+Estas comunicações determinam o valor do prêmio, havendo previsão contratual da necessidade de averbação de todas as cargas transportadas, com o que se pode alcançar a mutualidade do contrato de seguro. 
+No caso sub judice restou incontroverso que a autora não providenciou o cumprimento desta obrigação essencial do contrato, havendo substancial omissão das averbações. 
+Inclusive a carga sinistrada não havia sido objeto de averbação, o que rompe totalmente o equilíbrio do contrato de seguro. 
+O comportamento da autora, excluindo as averbações, interfere profundamente no contrato de seguro, rompendo o caráter aleatório do negócio, na medida em que passaria o segurado a determinar, de forma unilateral, o valor do prêmio, considerando que este depende das averbações realizadas. 
+A violação desta obrigação essencial do contrato afasta o direito à indenização. 
+Nesse sentido a jurisprudência:
+
+Transporte de carga Ação de indenização para reparação de danos materiais proposta pela transportadora contra a seguradora em razão do roubo da carga no curso do transporte Improcedência Inconformismo da transportadora firme na tese de que cumpriu as regras da apólice de seguro relativas ao envio da relação de mercadorias a serem transportadas Não acolhimento Ausência de averbação dos embarques efetuados pela transportadora, o que exime a seguradora de responsabilidade Sentença mantida Recurso não provido. A transportadora que se omite de realizar a averbação do embarque de cargas, conforme exigia cláusula da apólice, infringe o contrato e consequentemente perde o direito ao seguro. (TJSP ? 11ª Câm. - Ap. nº 9000001-96.2009.8.26.0006 - Rel. Moura Ribeiro ? j. 20/06/2013).
+
+EMBARGOS INFRINGENTES SEGURO COBRANÇA DE INDENIZAÇÃO SECURITÁRIA TRANSPORTE RODOVIÁRIO DE MERCADORIAS ROUBO DE CARGA INAPLICABILIDADE DO CDC MERCADORIAS QUE SE DESTINAM À REVENDA PELA AUTORA COMERCIANTE APÓLICE DE AVERBAÇÃO REQUISITO PARA COBERTURA CLÁUSULA QUE NÃO FERE O SINALAGMA CONTRATUAL NECESSIDADE DE COMUNICAÇÃO OFICIAL DO TRANSPORTE DE CADA CARGA PARA COBERTURA DA APÓLICE CARREGAMENTO SINISTRADO QUE NÃO FOI AVERBADO PELA AUTORA EMBARGOS DESACOLHIDOS (TJSP ? 37ª Câm. ? Bem. Infr. nº 0451170-97.2010.8.26.0000 - Rel. Dimas Carneiro ? j. 10/09/2013).
+
+
+INDENIZAÇÃO - Contrato de seguro - Roubo de cargas - Pretensão ao ressarcimento pela seguradora - Ratificação dos fundamentos da sentença, a qual se encontra bem fundamentada - Aplicação do disposto no artigo 252, do Regimento Interno do Tribunal de Justiça do Estado de São Paulo - Ausência de prova inequívoca acerca da prévia comunicação acerca do embarque de mercadorias em valor muito superior ao previsto na apólice - Alegação de averbação e pagamento de prêmio não comprovados - Cerceamento de defesa que não ocorre - Impossibilidade do ressarcimento pretendido - Ação improcedente - Decisão mantida. (TJSP ? 19ª Câm. - Ap. nº 0006575-64.2013.8.26.0100 - Rel. Sebastião Junqueira ? j. 16/09/2013).
+
+
+Não pode ser acolhida a tese da autora que, reconhecendo a falta de averbação regular, pretende pagamento proporcional do seguro com base no valor de prêmio que havia anteriormente pago. 
+A prevalecer tal critério estaria sendo alterada a base de cálculo do prêmio, obrigando a seguradora a pagar indenização a descoberto. 
+Cabe consignar que o contrato de seguro se funda na mutualidade e no cálculo atuarial, estabelecendo o prêmio à luz da probabilidade de ocorrência do sinistro. O prêmio assim calculado deveria ser suficiente para fazer frente às prováveis indenizações a serem pagas. 
+Na forma proposta pela autora o contrato de seguro tornar-se-ia inviável, pois o prêmio estaria sendo pago aquém do risco de sinistro, se tornando insuficiente para pagamento das indenizações.  
+Válida a cláusula relativa à necessidade de averbações, que não fere qualquer preceito de ordem pública e nem mesmo de proteção do consumidor, tratando-se de elemento essencial do contrato na modalidade ajustada. 
+
+6. Diante do exposto, JULGO IMPROCEDENTE o pedido. Condeno a autora ao pagamento de custas, despesas processuais e honorários advocatícios, que arbitro em R$ 1.500,00, considerando os critérios do art. 20, §§ 3º e 4º do Código de Processo Civil.
+
+P. R. I
+
+
+   São Paulo, 10 de dezembro de 2013.
+
+
+
+ ENÉAS COSTA GARCIA
+        JUIZ DE DIREITO
+
+         (assinatura digital)

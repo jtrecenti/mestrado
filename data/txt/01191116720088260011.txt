@@ -1,0 +1,53 @@
+
+
+SENTENÇA
+
+Processo nº:0119111-67.2008.8.26.0011
+Classe  Assunto:Procedimento Ordinário - Assunto Principal do Processo > 
+Requerente:Christovão de Camargo Segui
+Requerido:Controlar S/A
+
+Juiz(a) de Direito: Dr(a). Paulo Jorge Scartezzini Guimarães
+
+ CHRISTOVÃO DE CAMARGO SEGUI, qualificado nos autos, propôs a presente Ação de Indenização contra CONTROLAR S/A, alegando, em síntese, ter levado seu veículo para inspeção ambiental veicular, entregue ao funcionário da ré para os devidos testes, porém, quando lhe devolveram o carro, o motor não funcionava. Diz que o dano ocorreu por culpa dos funcionários da requerida que aceleraram o veículo, colocando a rotação do motor acima do permitido pelo fabricante. Pleiteia ao final a indenização pelos prejuízos materiais e morais sofridos.
+Com a inicial vieram os documentos de fls. 8/30.
+Citada, a ré apresentou defesa e sustentou que a inspeção computadorizada ou a verificação de emissões propriamente dita que realiza está sujeita às normas estabelecidas pelos órgãos públicos. Diz que para a medição de gases do escapamento há a necessidade de se acelerar o veículo até atingir o final de seu curso, ou melhor dizendo, até que o motor atinja sua rotação máxima, fazendo-se um primeiro teste em rotação de corte e outra de marcha lenta. Nesse teste de rotação a aceleração é feita até que haja o corte do motor, dispositivo existente que interrompe o fornecimento de combustível e impede que se ultrapasse o limite de rotação. Nestes termos, afirma que o problema se deu por culpa do próprio autor que não conservou adequadamente seu veículo. Impugna o pedido de indenização.
+Foi apresentada réplica.
+Elaborou-se laudo pericial (fls. 184/213) sobre o qual as partes se manifestaram.
+Encerrada a instrução as partes ratificaram suas manifestações anteriores.
+É o relatório. Fundamento e decido.
+Por primeiro é fundamental deixar claro que estamos diante de uma relação de consumo, onde a ré se amolda ao conceito de fornecedora, trazido no art. 3°, presta um serviço remunerado, nos termos do parágrafo segundo do artigo citado, e o autor é consumidor, nos termos do art. 2°, todos do CDC, já que é o destinatário final daquele serviço.
+Ao contrário do que afirma a prestadora de serviço, não é só o serviço de conserto ou reparo que caracterizariam uma relação de consumo, mas toda atividade fornecida no mercado de consumo, inclusive aquela que pratica.
+Feita essa introdução, passemos ao mérito.
+A situação trazida aos autos, onde uma pessoa entrega a outra um bem para que este realize testes e depois o devolva, mesmo que a posse seja transferida por um curto espaço de tempo, caracteriza um contrato de depósito. Assemelha-se à entrega do carro ao manobrista de um restaurante, ou ao mecânico numa oficina para um rápido conserto.
+Por esse contrato o depositário assume a obrigação de cuidar da coisa e devolvê-la no mesmo estado em que a recebeu. Se isso não ocorrer, o depositário será responsável pela perda ou deterioração da coisa, salvo se provar força maior ou culpa do próprio depositante (arta. 629 e 642, ambos do CC).
+Sobre a caracterização do contrato de depósito, termos:
+CIVIL. AÇÃO DE INDENIZAÇÃO. FURTO DE VEÍCULO ESTACIONADO POR MANOBRISTA DE RESTAURANTE. CONTRATO DE DEPÓSITO. RESPONSABILIDADE DO ESTABELECIMENTO. CC, ART. 159.
+I. A entrega de veículo em confiança a manobrista de restaurante caracteriza contrato de depósito e, como tal, atrai a responsabilidade do estabelecimento comercial pelo furto, ainda que na via pública, impondo-lhe o dever de indenizar o proprietário pelos prejuízos daí decorrentes (REsp 419465/DF, Ministro ALDIR PASSARINHO JUNIOR, j. 25/02/2003)
+
+RESPONSABILIDADE CONTRATUAL. FURTO DE VEICULO DO ESTACIONAMENTO DE RESTAURANTE. DEVER DE GUARDA. O DEVER DE GUARDA DECORRE DA ENTREGA DO VEICULO, PELO CLIENTE AO PREPOSTO DO ESTABELECIMENTO, DONDE A RESPONSABILIDADE PELA INDENIZAÇÃO SE O MANOBRISTA PASSA AS CHAVES A OUTREM QUE NÃO O PROPRIETARIO, POUCO IMPORTANDO SE OCORREU ROUBO, OU SE SIMPLESMENTE O EMPREGADO FOI ENGANADO PELO AUTOR DA SUBTRAÇÃO. INVALIDADE DE CLAUSULA DE NÃO INDENIZAR, IMPRESSA NO TIQUETE COMPROBATORIO DO DEPOSITO (REsp 8754/SP, Ministro ATHOS CARNEIRO, j30/04/1991).
+
+CIVIL. AÇÃO DE INDENIZAÇÃO. ROUBO DE VEÍCULO NO INTERIOR DE OFICINA DE REPARO. CASO FORTUITO. NÃO CONFIGURAÇÃO. PREVISIBILIDADE DO FATO. RESSARCIMENTO DEVIDO.
+I. O estabelecimento comercial que recebe o veículo para reparo em suas instalações é responsável pela sua guarda com integridade e segurança, não se configurando como excludente da obrigação de indenizar a ocorrência de roubo mediante constrangimento por armas de fogo, por se cuidar de fato previsível em negócio dessa espécie, que implica na manutenção de loja de acesso fácil, onde se acham automóveis e equipamentos de valor (REsp 218470/SP, Ministro ALDIR PASSARINHO JUNIOR, j. 27/03/2001).
+
+Nestes termos, não basta à ré provar que não agiu com culpa. Para se isentar da responsabilidade legal que existe, deve comprovar que o fato ocorreu por força maior (o que não é alegado como defesa), vício do produto dado em depósito ou culpa exclusiva do depositante.
+Antes de adentrarmos na questão fática, deve-se deixar claro que o simples fato da prestadora de serviço seguir as normas editadas pelos órgãos públicos (Conama, ABNT/  NBR, IBAMA, etc) não retira a sua responsabilidade caso haja um vício no seu serviço e este cause um dano ao consumidor.
+É fato notório que quando se faz a inspeção veicular se entrega ao funcionário da ré o automóvel com o motor ligado para que esse realize os testes. Ingressa o preposto da Controlar no interior do carro e o acelera, tudo com o objetivo de verificar a regularidade do motor e a emissão de poluentes. Após os exames, o veículo é entregue ao consumidor.
+No caso concreto o veículo, quando devolvido ao proprietário, estava com o motor travado. Diz que esse problema se deu por problemas no próprio carro e falta de manutenção por culpa do autor. Afirma que a aceleração feita no carro respeitou os índices estipulados, não ultrapassando a chamada velocidade angular de máxima livre.
+Como acima mencionado, apenas com a comprovação absoluta de tais fatos, é que o depositário deixaria de ter responsabilidade, o que, com todo respeito, não ocorreu.
+Segundo o laudo do perito os computadores utilizados pela ré para a inspeção veicular possuem programas de software que contém esses limites de aceleração, bastando informar a marca e o modelo do veículo. Todavia, conforme confessado pela requerida no ofício enviado à Secretaria Municipal do Verde e Meio Ambiente, na época dos fatos, os parâmetros referentes ao veículo do autor não constavam da Tabela do Anexo I da Portaria 035/SVMAG/2008 (fls. 261).
+Disse o vistor judicial que o automóvel do autor, segundo dados do fabricante, pode atingir 4.600 rpm e que mesmo que ultrapassado esse limite o motor tem mecanismos que o desligam (fls. 201), porém, no caso concreto e segundo a própria ré, o motor parou de funcionar antes mesmo de se atingir a rotação de corte.
+Há forte dúvida sobre a causa do travamento do motor, sendo que o laudo realizado não foi conclusivo. Disse apenas o perito que pela documentação apresentada quanto às manutenções, verificou-se que o veículo não fez uma série de revisões obrigatórias. Isso pode ser a causa de desgaste prematura.
+Quanto a essa constatação importante lembrar que revisões ou manutenções podem ser e normalmente são feitas em oficinas não credenciadas ao fabricante, até porque possuem custo muito inferior aos cobrados pelas concessionárias e muitas vezes, com serviços melhores. 
+Quanto ao fato do veículo ter se submetido a um segundo e um terceiro teste sem qualquer dano ao motor não significa que no primeiro não houve falha de seu funcionário ou do equipamento utilizado.
+Diz a ré que o autor impediu uma efetiva análise do problema no momento em que consertou o motor, porém, deve-se lembrar que foi dada a ela a oportunidade verificar o ocorrido (vide notificação de fls. 13), o que não fez, limitando-se a responder a notificação (fls. 16) com o simples argumento de não ser sua a responsabilidade, já que respeitou as normas editadas.
+Deveria a ré, no mínimo e diante da responsabilidade que assume ao receber o veículo do consumidor, convocar técnicos e realizar uma vistoria para deixar claro que o dano não tinha como causa os atos praticados por seus funcionários e maquinários. Limitou-se, como consta de sua defesa, a permitir que o autor ligasse para o guincho e usasse seu pátio como estacionamento até a chegada do resgate.
+Soma-se a tudo o que foi exposto que consta de reportagens juntadas pelo autor (fls. 265 ? fato não impugnado pela ré) que outras situações semelhantes ocorreram, o que fortalece a versão apresentada na inicial.
+Comprovado o ato ilícito e o dano, patente a obrigação de indenizar.
+O valor necessário para o conserto está indicado às fls. 20 e deve ser aceito como válido, independentemente da prova do efetivo pagamento.
+O descumprimento de um contrato, por si só, não autoriza indenização por dano moral, salvo quando este inadimplemento gera transtornos e aborrecimentos superiores ao do mero não cumprimento da obrigação. Neste caso patente o dano moral sofrido pelo autor, até porque, aguarda por quase três anos para se ver ressarcido pelo prejuízo causado pela ré.
+Levando em consideração as conseqüências do ato e o comportamento da ré que insiste em não reconhecer seu erro e se recusou a fazer qualquer tipo de acordo para a solução amigável do problema, razoável se mostra a quantia de R$ 10.000,00.
+Isto posto, JULGO PARCIALMENTE PROCEDENTE a ação para condenar a ré a pagar ao autor a importância de R$ 10.200, devidamente corrigidos a contar da data do orçamento (setembro de 2008 - fls. 21) e com juros de mora a contar da citação, bem como ao pagamento de indenização por dano moral no valor de R$ 10.000,00, corrigidos e com juros moratórios a contar dessa data. Condeno ainda a ré ao pagamento das custas, despesas processuais e honorários advocatícios que fixo em 20% do valor da condenação.
+P.R.I. 
+
+São Paulo, 03 de junho de 2011.

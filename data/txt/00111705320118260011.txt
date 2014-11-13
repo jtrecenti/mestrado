@@ -1,0 +1,41 @@
+
+
+SENTENÇA
+
+C O N C L U S Ã O
+
+Em 31 de agosto de 2011 faço estes autos conclusos a(o) Juiz(a) de Direito do Juizado Especial Cível Dr(a) Eduardo Tobias de Aguiar Moeller. Eu, escrevente, digitei.
+
+Processo nº:0011170-53.2011.8.26.0011 - Procedimento do Juizado Especial Cível
+Requerente:Eder Carlos Clemente
+Requerido:Vivo S.A.
+
+
+
+Juiz(a) de Direito: Dr(a). Eduardo Tobias de Aguiar Moeller
+
+Vistos.
+
+Dispensado o relatório, na forma do art. 38 da lei 9099/95.
+
+Trata-se de ação de indenização por danos materiais e morais.
+Alegou o autor que aderiu a contrato de prestação de serviço de internet por banda larga (3G) da requerida em 2.5.2010.  Entretanto, constatou o autor que a ré não mantinha a velocidade de conexão contratada; a conexão era sempre muito lenta, com desconexões aleatórias e constantes.  Sem condições de continuar a utilizar o serviço deficiente, cancelou o autor o contrato em 20.6.2010.  Ainda assim a ré cobrou multa rescisória de R$ 94,40, a qual foi paga pelo autor após seu nome ser negativado.  Pleiteia indenização por danos materiais (restituição de todos os valores pagos) e indenização por danos morais.
+Alegou a ré em sua contestação de fls. 126/136 que a velocidade de conexão de internet depende de diversos fatores como modelo do modem, condições do sinal transmitido pela rede, região onde o serviço estiver sendo utilizado, quantidade de conexões simultâneas, etc.  Nega a ré descumprimento contratual e justifica a cobrança da multa rescisória.  Impugna o pedido indenizatório.
+Em que pesem os argumentos da ré, entendo que o autor tenha razão.
+O contrato de adesão de fls. 12 comprova que a ré comprometeu-se a prestar para o autor serviço de internet 3G de 1Gb.  A fatura enviada para o autor logo após a contratação (fls. 16/17) mencionou expressamente (fls. 17) que se tratava de serviço de internet de 1Gb.  Segundo o mesmo contrato de fls. 12, para o serviço de internet de 1Gb a ré ofereceria velocidade de conexão de 1Mbps até que o autor alcançasse a franquia de dados (1Gb), quando então a velocidade seria reduzida para 128 kbps.
+O autor comprovou que a ré descumpriu o contrato e não manteve aquela velocidade de conexão.  A relação detalhada de fls. 67/102 não deixa dúvidas quanto ao descumprimento do contrato pela ré, a qual manteve média de conexão totalmente inferior àquela contratada.  Enquanto o autor tinha a expectativa de que a conexão alcançasse até 1 Mbps (= 1000 kbps), a velocidade não ultrapassava 50kbps (fls. 67).  Mesmo que o autor houvesse ultrapassado o limite de tráfego mensal de 1Gb, ainda assim a velocidade sequer alcançava 50% da velocidade mencionada no contrato de fls. 12 (128 kbps).
+As justificativas dadas pela ré para a velocidade muito inferior à contratada não podem ser aceitas porque são vagas e genéricas.  Se fossem aceitas, estaria a ré isentando-se de qualquer responsabilidade pois, a qualquer momento, poderia atribuir o fato a problemas de clima ou, até mesmo, a excesso de usuários (!).  Se a própria ré é quem comercializa indiscriminadamente seus contratos, como poderia alegar excesso de usuários e de conexões?
+Na forma do art. 475 do Código Civil, o autor tinha direito a pleitear a rescisão do contrato sem qualquer penalidade, e tinha direito à restituição dos valores pagos para a aquisição dos serviços que nunca foram prestados conforme o contrato pela ré.
+A ré, ainda, cobrou-lhe multa rescisória, o que era indevido. Além disto, a ré praticou ato ilícito ao negativar o nome do autor (fls. 14).  O pedido de indenização por danos morais deve ser acolhido tendo em vista esta injusta negativação (fls. 14).
+A jurisprudência, há bastante tempo, tem entendido que a simples negativação, por si só, implica em presunção de prejuízos ao consumidor ante os notórios efeitos negativos dos cadastros de devedores.  Neste sentido: 
+
+CIVIL E PROCESSUAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS 7CUMULADA COM PEDIDO DE CANCELAMENTO DE INSCRIÇÃO EM CADASTRO DE CRÉDITO E PROTESTO INDEVIDOS. PROCEDÊNCIA. PROVA DO PREJUÍZO. DISPENSA. FATO OBJETIVO. RESPONSABILIDADE ATRIBUÍDA AO BANCO. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7-STJ. VALOR. RAZOABILIDADE. I. Desnecessária a prova do prejuízo moral causado em caso de inscrição negativa em entidade cadastral e protesto indevido de título, por óbvio os efeitos nocivos do ato perante o meio social e comercial em que vive a vítima. II. Reconhecida a responsabilidade do banco pelo protesto do título e também pela inscrição, esta, aliás, decorrente do primeiro, a questão demanda o reexame dos fatos, vedado ao STJ, nos termos da Súmula n. 7  .III. Fixado o valor da indenização em montante razoável, não se justifica a excepcional intervenção do STJ para evitar enriquecimento sem causa, aqui não acontecido. IV. Recurso especial não conhecido. (RESP 536980 / MT 2003/0062015-6, Relator Ministro ALDIR PASSARINHO JUNIOR, 4ª. Turma, j. em 10.8.2004, in DJU de 25.10.2005, pág. 350, v.u.).  
+
+Na forma do art. 6º da lei 9099/95, arbitro a indenização em R$ 2.268,40, o que corresponde a dez vezes a negativação indevida.  O valor, a meu ver, é proporcional à capacidade econômica da parte requerida e mostra-se justo para compensar a parte autora por todos os transtornos e constrangimentos.
+Por estas razões, JULGO PARCIALMENTE PROCEDENTE esta ação que EDER CARLOS CLEMENTE ajuizou contra VIVO S/A e CONDENO a ré a pagar ao autor indenização por danos materiais de R$ 531,69 e indenização por danos morais de R$ 2.268,40.
+O valor deverá ser corrigido monetariamente desde o ajuizamento da ação conforme Tabela Prática do TJSP e acrescido de juros de mora de 1% ao mês desde a citação, na forma dos artigos 405 e 406 do Código Civil de 2002, bem como do artigo 219 do Código de Processo Civil.
+Sem custas ou honorários advocatícios, na forma do art. 55 da lei 9099/95.
+O devedor, se nesta sentença foi condenado, fica advertido, na forma do art. 52, inc. III, da lei 9.099/95, de que deverá cumprir a sentença imediatamente após o seu trânsito em julgado (ou seja, quando não puder mais recorrer), sob pena de pagamento da multa de 10% (dez por cento) do art. 475-J do Código de Processo Civil.  Caso o devedor tenha sido condenado a fazer ou deixar de fazer algo, poderá pagar a multa diária fixada se não cumprir imediatamente a obrigação.
+As partes poderão interpor recurso inominado contra esta sentença, no prazo de 10 (dez) dias, por meio de advogado, mediante o pagamento do preparo recursal, na forma do art. 42 da Lei Federal 9.099/95 e do art. 4º. da Lei Estadual nº 11.608/2003.  O preparo recursal corresponde ao valor de R$ 196,12 (art. 4º, inc. I a III, lei estadual nº 11.608/03) e o porte de remessa e retorno corresponde ao valor de R$ 25,00.
+P.R.I.C.
+São Paulo, 31 de agosto de 2011.

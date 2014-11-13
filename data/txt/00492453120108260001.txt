@@ -1,0 +1,75 @@
+
+
+SENTENÇA
+
+Processo nº:0049245-31.2010.8.26.0001 - Procedimento Ordinário
+Requerente:Fabio Luongo Gomes
+Requerido:B & G Comércio de Motos Ltda. e outro
+
+
+
+Juiz(ª) de Direito Dr.(ª): Enéas Costa Garcia
+
+
+Vistos. 
+
+
+1. FABIO LUONGO GOMES, qualificado nos autos, ingressou com ação contra B & G COMÉRCIO DE MOTOS LTDA e BANCO FICSA S/A, alegando, em síntese, que: a) adquiriu junto à primeira requerida a motocicleta descrita na inicial, com financiamento do co-réu; b) o preço de aquisição do veículo era R$ 10.500,00, com financiamento bancário de R$ 10.100,00, a ser pago em 42 prestações de R$ 418,97; c) ao receber o carnê para pagamento das parcelas do financiamento constatou que o valor lançado era de R$ 447,61 e não  R$ 418,97, como ajustado; d) formulou reclamação junto aos réus, sem sucesso; e) teve seu nome negativado e quitou o contrato antecipadamente para sanar o erro das prestações.  
+Pretende o acolhimento do pedido para condenação dos requeridos ao pagamento de indenização de dano material e moral. 
+
+2. Os réus foram citados e apresentaram contestação (fls. 46/50 e 53/55).
+Alega em defesa o Banco Ficsa: a) ilegitimidade de parte; b) que não é responsável pelas circunstâncias da venda do bem, apenas tendo concedido o financiamento; c) que o autor assinou o contrato concordando com o valor das prestações; d) que não há dano a ser ressarcido.   
+A co-ré B & G alega que o contrato de financiamento englobou o valor integral do preço (R$ 10.500,00), não tendo o autor pago a entrada que havia sido prevista. Impugnou o pedido de indenização. 
+
+3. Veio aos autos a réplica (fls. 96/98). O processo foi saneado, com rejeição da preliminar (fls. 108). Realizou-se audiência de instrução, com inquirição das partes (fls. 126/129), seguindo-se os debates. 
+É o relatório. 
+
+DECIDO.
+
+4. A ação é PARCIALMENTE PROCEDENTE. 
+Sustenta o autor que, por ocasião da contratação, foi ajustado o financiamento assumindo obrigação de pagar 42 prestações no montante de R$ 418,97.
+Porém, quando recebeu o carnê para pagamento das parcelas constatou que o valor cobrado era de R$ 447,61.
+A requerida justificou a diferença alegando que a princípio haveria pagamento de R$ 400,00 como entrada, contudo, como isto não ocorreu o financiamento foi contraído no valor integral do veículo (R$ 10.500,00), tendo o banco arcado com pagamento da entrada em favor da loja. 
+Os documentos juntados não comprovam a versão da ré, pelo contrário, trazem verossimilhança à versão do autor quanto à falha do serviço, especialmente no que concerne ao dever de informação. 
+O documento de fls. 21 confirma a versão do autor: financiamento de R$ 10.100,00, com 42 prestações de R$ 418,97.
+Também o documento de fls. 73, o qual teria sido preenchido na loja visando contrair o financiamento, traz a mesma informação de valor financiado (campo 6 ? R$ 10.1000,00), número de prestações e valor unitário (campos 8 e 9).
+Alega a requerida que estes documentos eram apenas rascunhos, proposta inicial que depois foi alterada em razão do não pagamento da entrada que havia sido considerada para obter aqueles valores. 
+O documento final, que representaria o real valor do contrato, seria aquele de fls. 77/84.
+Ocorre que para justificar a versão da requerida seria preciso que na cédula de crédito bancário constasse o valor total da venda (R$ 10.500,00), sem a entrada, pois foi esta a justificativa apresentada para aumento do valor unitário da prestação.  
+Porém, na cédula de crédito bancário o valor do crédito aparece como R$ 10.100,00 (fls. 77, campo 5.3; fls. 80, campo 5.3; fls. 83, campo 3.3), o que levaria ao valor da prestação indicado no recibo de fls. 21, o que não ocorreu. 
+De outro lado, analisando a cédula de crédito bancário constata-se que o valor total financiado foi de R$ 10.902,42 (fls. 77, campo 5.5, fls. 80, campo 5.5 e fls. 83, campo 3.5), havendo inclusive cobrança de IOF de R$ 302,42.
+Ainda que se desconsiderasse a cobrança do financiamento sobre a entrada, só a somatória do valor financiado com o IOF já levaria o montante do financiamento final a patamar superior ao prometido ao consumidor, naturalmente repercutindo no valor final das prestações. 
+De outro lado, a prevalecer a versão da requerida, o valor a ser financiado seria a somatória de R$ 10.100,00 + R$ 400,00 (entrada ? fls. 21) + R$ 302,42 (IOF), o que determinaria R$ 10.802,42 e não valor final lançado no contrato, no montante de R$ 10.902,42.
+O contrato calculou valor final de financiamento sobre montante que não corresponde à versão apresentada pela requerida, o que por si só já demonstra a falha do serviço. 
+Ainda sob outra ótica falhou o serviço. 
+Ficou bem claro que foi prometido ao consumidor que o financiamento envolveria pagamento de 42 parcelas de R$ 418,97, além do pagamento da entrada de R$ 400,00.
+Prestada esta informação precisa por ocasião da oferta, qualquer alteração posterior deveria ser informada de maneira ostensiva e clara ao consumidor. Não é o que se vislumbra no caso sub judice.
+Nem se analisando a cédula de crédito bancário é possível compreender claramente a inclusão do valor da entrada (R$ 400,00) no montante total do financiamento. 
+Há que se considerar, tendo em vista o montante dos juros bancários, que é muito diferente cobrar R$ 400,00 de entrada e incluir R$ 400,00 num financiamento de R$ 10.100,00, para incidência posterior de juros de 3,35% ao mês ou 46,77% ao ano (fls. 83, campo 3.7).
+A obrigação foi substancialmente onerada e diante da oferta inicial o consumidor deveria ser informado de maneira muito clara a respeito, o que não se verifica. 
+Insuficiente os réus alegarem que o contrato foi assinado com indicação do valor final da prestação, pois como exposto o contrato não trouxe a clareza necessária quanto ao incremento do financiamento com inclusão da entrada, violando os arts. 46 e 54, §§ 3º e 4º do Código de Defesa do Consumidor.
+Loja e financeira são solidariamente responsáveis perante o consumidor, havendo contrato coligado, atuando a loja como elemento de captação do cliente para a operação financeira. 
+Com efeito, ficou demonstrado que toda a operação foi contratada na loja, havendo intercâmbio na atuação comercial entre loja e financeira, permitindo a última que a loja fizesse as projeções do financiamento, colhesse assinaturas, encaminhasse documentos, etc. 
+O cliente contratou o financiamento sem sair da loja, sem jamais procurar uma agência bancária. 
+Assim, os contratos coligados devem ser interpretados de maneira integrada, sendo que os vícios de um deles contamina o outro. 
+Ademais, em termos genéricos de responsabilidade civil a loja agiu como preposta da financeira, tratando das condições do contrato, de modo que as falhas cometidas por ocasião da oferta e contratação determinam a responsabilidade solidária do banco. 
+Não pode ser acolhido o pedido de dano material nos termos em que formulado. 
+A parte não indicou concretamente qual seria a perda material suportada, limitando-se a formular pedido típico de arbitramento (20 salários). 
+Em sede de reparação de dano material é preciso determinar o an debeatur e, na medida do possível, o quantum debeatur, o que não ocorreu no caso sub judice. 
+No que concerne ao dano moral o pedido procede, pois além da frustração e do transtorno que o autor suportou, houve indevida restrição de crédito por conta da cobrança irregular. 
+Considerando as circunstâncias do caso, o grau de culpa, a intensidade da ofensa, fixo a indenização em R$ 6.500,00 (seis mil e quinhentos reais), o que se aproxima de dez salários. 
+Incide correção monetária desde a sentença (Súmula 362 do STJ) e juros de mora, à taxa legal, desde a data da negativação de crédito (agosto/2008), nos termos da Súmula 54 do Superior Tribunal de Justiça.
+
+5.  Diante do exposto, JULGO PARCIALMENTE PROCEDENTE o pedido para CONDENAR os requeridos, solidariamente, ao pagamento de indenização de dano moral, no montante de R$ 6.500,00 (seis mil e quinhentos reais), com correção monetária desde a sentença (Súmula 362 do STJ) e juros de mora, à taxa legal, desde a data da negativação de crédito (agosto/2008). 
+Tendo em vista a sucumbência recíproca, cada parte arcará com as respectivas custas e despesas processuais, compensando-se os honorários advocatícios.
+
+P. R. I
+
+
+   São Paulo, 05 de junho de 2012.
+
+
+ ENÉAS COSTA GARCIA
+        JUIZ DE DIREITO
+
+         (assinatura digital)

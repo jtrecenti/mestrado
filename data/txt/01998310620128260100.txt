@@ -1,0 +1,70 @@
+
+
+SENTENÇA
+
+Processo nº:0199831-06.2012.8.26.0100
+Classe - AssuntoProcedimento Sumário - Defeito, nulidade ou anulação
+Requerente:Transitex do Brasil Serviços e Logística Ltda
+Requerido:Tim Celular S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Cláudia Maria Pereira Ravacci
+
+Vistos.
+
+
+
+TRANSITEX DO BRASIL SERVIÇOS E LOGÍSTICA LTDA, propôs ação contra TIM CELULAR S/A e requereu a declaração de inexigibilidade de débito e a condenação desta ao pagamento de indenização por danos morais combinada com obrigação de fazer, em razão de cobrança indevida. Em sede de tutela antecipada requereu abstenção da ré em inscrever o nome da autora nos órgãos de proteção ao crédito.
+
+Narra a inicial (fls. 02/30) que a autora celebrou com a ré contrato de prestação de serviços referente a três linhas de telefonia móvel. Após proceder à substituição de um dos aparelhos (trocou-se o modelo BlackBerry por um Iphone), a requerida teria procedido ao cancelamento de serviço de roaming contratado, sem prévio aviso, o qual passou a ser cobrado como serviço autônomo e por isso elevaram-se os valores das faturas muito além do contratado. Ainda, aduz pela condenação da ré em danos morais sob o argumento de transtornos e aborrecimentos que teria vivenciado em busca de soluções extrajudiciais da lide, como contatos telefônicos com a Central de Atendimento da ré e abertura de chamado na Anatel.
+
+Foi-lhe indeferida a antecipação de tutela pela decisão de fls. 02.
+
+Na contestação a fls. 33/70 a ré requereu a improcedência do pedido sob o argumento de que, de acordo com a verificação de seus sistemas, não houve qualquer erro nas cobranças, pormenorizando os motivos dos altos custos do serviço de roaming internacional e afirmando a confissão da autora em relação à utilização do serviço. 
+Para comprovar as alegações da ré, foram juntados documentos que atestam que o serviço de roaming passou a ser cobrado de forma autônoma pois o contrato inicial se referiria apenas ao uso do roaming através de determinada ferramenta, só disponível no modelo BlakBerry e, após a troca do aparelho, o usuário teria passado a utilizar o serviço através de outro aplicativo, não incluso no pacote contratado. Insurge-se ainda em relação à pretensão indenizatória da ré, alegando que os fatos narrados não configuram lesão culposa ou dolosa passível de indenização.
+ 
+Réplica a fls. 73/82.
+
+
+É o Relatório.
+Decido. 
+
+
+ Conheço diretamente do pedido, cf. art. 330, I, do CPC. 
+
+Primeiramente, anoto que é aplicável o Código do Consumidor, porque é a autora, pessoa jurídica, destinatária final do serviço, além de ter posição jurídica desvantajosa, com relação à ré, no tocante ao conhecimento do serviço de telefonia.
+
+Considero defeituoso o serviço prestado pela ré, pois esta descumpriu seu dever de prestar informações claras e precisas sobre a prestação dos serviços contratados pela autora no que se refere à utilização do roaming internacional. Assim, não explicitando à empresa contratante o modo de fornecimento do serviço, bem como não disponibilizando Central de Atendimento apta à solução das demandas, violou o art. 6º, incisos II e III do Código de Defesa do Consumidor:
+
+
+Art.6º - São direitos básicos do consumidor:
+III ? a informação adequada e clara sobre os diferentes produtos e serviços, com especificação correta de quantidade, características, composição, qualidade, tributos incidentes e preço, bem como sobre os riscos que apresentem. 
+
+
+A propósito, confira-se ementa de Acórdão proferido da 31ª Câmara de Direito Privado do E. Tribunal de Justiça de São Paulo:
+
+
+APELAÇÃO. CONSUMIDOR. PRESTAÇÃO DE SERVIÇOS DE TELEFONIA MÓVEL. AÇÃO INDENIZATÓRIA. ROAMING INTERNACIONAL. CONTRATO CORPORATIVO. PRINCÍPIO DA TRANSPARÊNCIA. SERVIÇO DEFEITUOSO. COBRANÇA E TARIFAÇÃO INDEVIDA DO PACOTE DE DADOS EM DESACORDO AO CONTRATADO. AUSÊNCIA DE INFORMAÇÕES ADEQUADAS SOBRE O PLANO. INTELIGÊNCIA DOS ARTS. 6º, III, 14, § 1º, DO CÓDIGO DE DEFESA DO CONSUMIDOR. DEVOLUÇÃO DE VALORES INDEVIDAMENTE COBRADOS. RECURSO PROVIDO NESSA PARTE. A ré deixou de oferecer a necessária, clara e objetiva informação sobre os serviços prestados, bem como um serviço de qualidade. Constatando-se que o descumprimento do dever de cobrar tarifação correta frente ao pacote de dados em roaming internacional, não explicitando à representante legal da autora o modo de fornecimento do serviço, bem como não disponibilizando meio confiável para acompanhamento do consumo pelo usuário, resta configurado o serviço defeituoso (artigo 14, §1º, do CDC), que atenta contra a expectativa legítima do consumidor quanto ao serviço contratado. (Apelação nº 0022345-30.2012.8.26.0554, 31ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo, j. 16/04/2013)
+
+
+Ora, o consumidor, como hipossuficiente na relação, deve ser informado de forma clara e precisa acerca da forma de utilização do serviço. 
+
+Documento juntado aos autos pela empresa ré atestam que a cobrança fruto do ajuizamento da presente ação se originou de erro na utilização do serviço pactuado. Vejamos:
+
+
+Procotoco 2012097810941 (fls. 64)
+?Conforme verificado nas faturas em abertas onde o cliente está contestando as cobranças referente ao serviço de TIM Connect Fast em Roaming Internacional, visto que a linha que fez uso do serviço foi a linha 1185260003 visto que essa linha possui um pacote ativo de Blackberry Internacional, fidelizado ativo desde 03/02/2012 porém que o tráfego fosse descontado do seu pacote ele deveria utilizar através do brawse da TIM por isso as cobranças estão devidas e serão mantidas. Protocolo Finalizado.?
+
+Não obstante, não reconheço danos morais indenizáveis por não haver transtornos que o justifiquem, sobretudo, à falta de efetiva negativação cadastral ensejadora de comprometimento do bom nome comercial do autor. Assim, não vislumbra-se no caso em tela verdadeiro abalo na esfera do patrimônio moral da autora. Nesse sentido:
+?CIVIL. DANO MORAL. NÃO OCORRÊNCIA. O mero dissabor não pode ser alçado ao patamar do dano moral, mas somente aquela agressão que exacerba a naturalidade dos fatos da vida, causando fundadas aflições ou angústias no espírito de quem ela se dirige. Recurso parcialmente conhecido e, nessa parte, provido? (REsp nº 215.666/RJ, Min. Cesar Asfor Rocha, 4ª Turma, j. 21.06.2001).
+ 
+ Pelo exposto, JULGO PARCIALMENTE PROCEDENTE o pedido. Declaro inexigíveis os débitos em referência na inicial. Em razão da sucumbência recíproca, cada parte deverá arcar com as custas processuais despendidas e com os honorários de seus patronos.
+
+P.R.I.
+
+
+São Paulo, 15 de outubro de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

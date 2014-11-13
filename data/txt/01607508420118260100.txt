@@ -1,0 +1,48 @@
+
+
+SENTENÇA
+
+Processo nº:0160750-84.2011.8.26.0100
+Classe ? Assunto:Procedimento Ordinário - Indenização por Dano Moral 
+Requerente:Universidade Corporativa Criativa - Celcorp
+Requerido:Locaweb
+
+
+Juiz(a) de Direito: Dr(a). Maria Cristina de Almeida Bacarim
+
+
+Vistos.
+
+
+UNIVERSIDADE CORPORATIVA CRIATIVA ? CELCORP propôs ação indenizatória de danos morais c.c obrigação de fazer em face de LOCAWEB devido a problemas na prestação de serviços. 
+Narra a inicial que a empresa autora tinha problemas com o sistema de e-mails antigo, denominado ?Locamail?, e que lhe foi proposto pela ré a troca para outro sistema de nome ?Mobimail?, o que foi feito em julho de 2010. Porém desde então a autora vem enfrentando dificuldades ainda maiores no acesso e utilização de contas de e-mail .
+Requereu a antecipação de tutela para que a autora regularize a prestação de serviços e, no mérito, a condenação da ré, confirmando a tutela antecipada e o pagamento de indenização por danos morais.
+A antecipação de tutela foi indeferida (fls. 46).
+Regularmente citada (fls. 48), a ré apresentou contestou (fls. 49) com argumentos sobre a correção e legalidade de suas ações, e da instabilidade própria dos serviços digitais prestados via ?internet", defendendo a existência de "caso fortuito digital".
+Há exceção de incompetência em apenso, em que o MM. Juízo de Belo Horizonte - Minas Gerais determinou a remessa a este foro.
+
+Os autos foram recebidos nesta Vara em 01/07/2011 (fls. 128), ocasião em que foi determinada a emenda da petição inicial. A petição de emenda foi apresentada às fls. 130, porém não foi aceita. Em despacho às fls. 136 foi determinada sua correção. Nova petição de emenda à inicial às fls. 142, recebida às fls. 147.
+Intimadas a especificar provas (fls. 147), apenas a ré  requereu produção de prova pericial (fls. 150)
+Réplica às fls. 156/158.
+É O RELATÓRIO.
+FUNDAMENTO E DECIDO.
+O feito comporta julgamento antecipado, nos termos do disposto no artigo 330, I, do Código de Processo Civil, tratando-se de questão documental e de direito, desnecessária a dilação probatória. 
+A prova pericial e a oitiva de testemunhas são desnecessárias, considerando-se a documentação constante dos autos, suficiente para o deslinde da questão. Com efeito, os fatos são incontroversos e a valoração jurídica compete ao juízo, não ao perito. 
+Já decidiu o SUPREMO TRIBUNAL FEDERAL que "a necessidade da produção de prova há de ficar evidenciada para que o julgamento antecipado da lide não implique em cerceamento de defesa. A antecipação é legítima se os aspectos decisivos estão suficientemente líquidos para embasar o convencimento do Magistrado" (RE 101.171-8-SP). 
+
+No mérito, sem embargo do esforço dos nobres Advogados do réu, o pedido é procedente.
+São fatos incontroversos os problemas havidos pelo autor mencionados na inicial, quais sejam, problemas no envio e recebimento de e-mail, problemas na abertura de anexos, problemas ao efetuar login, perda do conteúdo das mensagens, travamento do sistema com frequência, perda dos contatos dos clientes que existiam na caixa postal dos colaboradores do autor, durante a migração do sistema ?locamail? para ?mobimail?.
+O réu alega que tais fatos estão fora de sua responsabilidade, tratando-se de ?caso fortuito digital?. Todavia, tratando-se de uma empresa de alta tecnologia, tais fatos não podem ser considerados como extraordinários ou fora do controle do réu. Evidentemente, se havia um risco de perda de informações na migração do sistema (e a perda efetivamente ocorreu), houve falha grave da ré em não realizar um simples back-up.
+Nesses termos, reconhecida a existência de falha na prestação do serviço, com culpa da ré, deverá indenizar os danos causados ao autor. 
+É fato notório o incômodo que a perda de contatos para uma empresa pode causar em seus negócios. As circunstâncias do caso concreto permitem concluir pela existência de dano moral a ser indenizado.
+Demonstrada a obrigação de indenizar o dano moral, passemos à análise do quantum pretendido. 
+Na lição abalizada de SÉRGIO CAVALIERI FILHO, ?dano moral é a lesão de bem integrante da personalidade, tal como a honra, a liberdade, a saúde, a integridade psicológica, causando dor, sofrimento, tristeza, vexame e humilhação à vítima?.
+Não obstante as dificuldades que cercam a matéria, para fixação do quantum exato do dano moral, devem ser levadas em consideração a extensão do desconforto gerado no autor, a conduta da ré, bem como sua situação econômica. 
+Ressalte-se, no entanto, que a indenização não pode significar um ganho fácil, desmesurado, sob pena de enriquecimento sem causa. Deve servir apenas como compensação da dor moral e desestímulo ao responsável pelo dano. A nosso ver, suficiente para a compensação do dano moral, a quantia de R$ 5.000,00.
+
+Posto isso, JULGO PROCEDENTE o pedido, para o fim de determinar à ré que providencie a normalização do sistema em questão, com a recuperação das correspondências eletrônicas não migradas para o sistema "mobimail", no prazo de 20 dias, sob pena de multa diária no valor de R$ 200,00, limitada a R$ 5.000,00. Outrossim, condeno a ré ao pagamento de indenização por danos morais fixados em R$ 5.000,00 (cinco mil reais), corrigidos desde o ajuizamento da ação até a data do efetivo pagamento, de acordo com a tabela prática do E. TJ, acrescido de juros de 12% ao ano a partir da citação. 
+Ante a sucumbência do réu (Súmula 326 do STJ), condeno-o ao pagamento das custas e despesas processuais bem como honorários advocatícios fixados em 20% sobre o valor da condenação. 
+
+P.R.I.
+
+São Paulo, 21 de março de 2013.

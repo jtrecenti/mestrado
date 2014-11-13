@@ -1,0 +1,61 @@
+
+
+SENTENÇA
+
+
+Reclamação:005.09.104078-9 - Procedimento Ordinário (em Geral)
+
+Requerente:Valerio Celestino de Santana
+Requerido:Banco do Brasil S/A
+
+
+
+VALÉRIO CELESTINO DE SANTANA, qualificado nos autos, ajuizou ação em face de BANCO DO BRASIL S/A, visando à declaração de inexigibilidade de dívida e ao ressarcimento de danos morais.  Em síntese, alega que alguém conseguiu acessar sua conta, mediante fraude, e realizou dois saques, num total de R$ 2.500,00. Procurou resolver o problema pelo Juizado Especial Cível, mas o feito foi extinto, pela exigência de perícia técnica. Tentou resolver administrativamente a questão, mas não obteve a reparação. Pretende, pois, ressarcimento pelos danos materiais, haja vista a falha da segurança do sistema de cartões da ré; ainda, requer condenação do banco por danos morais, decorrente do constrangimento já mencionado.
+Citado, seguiu-se contestação, na qual se levantou preliminar de prescrição e carência. No mérito, nega responsabilidade, uma vez que as transações são efetuadas através de senha pessoal e intransferível. Ainda, questiona a existência e extensão dos danos morais e patrimoniais.
+Houve réplica.
+Infrutífera a composição, somente a autora pugnou pela produção de provas. O réu pleiteou o julgamento no estado.
+É o relatório.
+A preliminar levantada pelo Banco é inconsistente. 
+Não há prescrição.
+A pretensão volta-se para ressarcimento de danos decorrentes de falha na segurança do serviço prestado ao consumidor.
+Aplica-se, portanto, o disposto no artigo 26 do CDC, verbis:
+
+Art. 27. Prescreve em cinco anos a pretensão à reparação pelos danos causados por fato do produto ou do serviço prevista na Seção II deste Capítulo, iniciando-se a contagem do prazo a partir do conhecimento do dano e de sua autoria.
+No caso, após a realização dos saques impugnados, em 2003, o autor ingressou com pedido administrativo de ressarcimento junto à ré, através do PROCON, em fevereiro de 2004 (fl. 78). A notificação, suficiente para interromper a prescrição (CC, 202, VI), foi recebida pela ré em 19.2.2004, ou seja, há menos de cinco anos antes do ajuizamento da presente demanda (13.2.2009, fl. 02). 
+Não há carência. 
+A ação promovida pelo autor é necessária e adequada ao recebimento dos valores cuja devolução é questionada pela ré. A pretensão volta-se contra a falha da segurança dos cartões bancários e contra o descuido em relação aos valores depositados. Se há, no caso concreto, responsabilidade do Banco, é matéria afeta ao direito material e, portanto, ao mérito da lide.
+Se houve, ou não, golpe, é matéria que concerne ao mérito.
+No mérito, a pretensão é parcialmente procedente.
+A solução da lide reclama uso das regras do ônus da prova.
+No caso vertente, a autora trouxe elementos que permitem concluir pela existência de ação fraudulenta, através de clonagem de cartões.
+Deveras, o requerente utiliza a conta (fato incontroverso) para recebimento de seu benefício aposentadoria, mas, em dos únicos dias, entre março e abril de 2003, teria efetuado dois saques vultosos (R$ 1.500,00 e 1.000,00, para conta cujos créditos não ultrapassam R$ 1.000,00 por mês), na mesma data, montante que causa, no mínimo, estranheza, porque incompatível com o perfil financeiro do cliente. 
+São saques determinados, e ambos, de vulto, já serviriam para que a ré questionasse o cliente ? como, aliás, costuma-se fazer em transações de vulto.
+Não há, outrossim, elementos capazes de infirmar a plausibilidade do direito indicada pela análise do extrato bancário.
+A requerida não demonstrou interesse algum na produção de provas capazes de demonstrar a autoria dos saques declarados. Não trouxe filmagem dos saques, muito embora as máquinas de auto-atendimento sejam munidas de câmeras, para evitar as corriqueiras fraudes.
+A requerida, postando-se em posição superior, preferiu permanecer inerte.
+A prova, considerando a condição de consumidor do correntista hipossuficiente, deveria ser produzida pela ré, até porque se trata de fato por si alegado e que contraria os elementos concretos trazidos.
+Nem se argumente que a forma de saques seja indicativa da ausência de golpe.
+A assertiva não é fundada em nenhum elemento concreto capaz de convencer o juízo. Ao contrário, verifica-se que os saques foram efetuados próximo ao limite daquilo que se pode fazer através de caixas eletrônicos (R$ 1.000,00 e R$ 1.500,00), revelando intenção de retirada total do valor depositado. 
+Em suma, competia ao Banco infirmar, através de prova concreta, os veementes indícios de que os saques foram efetuados através de cartão clonado. A instituição financeira preferiu, contudo, o julgamento antecipado, sujeitando-se ao revés.
+A alegação de que seria impossível ao estelionatário efetuar o saque sem a senha não pode ser aceita. Há, hoje, inúmeros expedientes utilizados para se obter senhas de correntistas. Muitas vezes, os golpistas contam com o auxílio de funcionários infiltrados ou utilizam vírus enviados por e-mail, para obter senha daqueles que utilizam serviços bancários via rede mundial de computadores. A realidade já se mostra presente nos meios policiais, trata-se de fato notório que independe de prova.
+Assim, não se pode culpar o correntista pela fraude praticada por terceiro.
+Resta saber qual a extensão da responsabilidade do requerido.
+O Banco, como depositário, deve restituir os valores sob sua guarda, quando a retirada se dá sem culpa do correntista, como ocorreu no caso vertente. A culpa, já se disse, deveria ser provada pela ré, que nada fez nesse sentido.
+Nem se alegue falta de culpa da requerida. A responsabilidade é objetiva, pela falha do serviço e tem fundamento contratual e legal, consistente na responsabilidade decorrente dos riscos assumidos pela atividade altamente lucrativa da instituição financeira.
+Nesse contexto, não se há falar em culpa exclusiva da vítima. 
+É preciso reconhecer que o sistema de segurança da ré é falho. Procura-se, de toda sorte, imputar responsabilidade de fraudes aos correntistas, criando inúmeras formas de senhas alfa-numéricas, quando bastaria a criação de sistema de reconhecimento biométrico (impressão digital), certamente mais custoso, mas com grau de segurança infinitamente maior àquele existente na atualidade.
+A ré deixa de investir em tecnologia de segurança cara e segura, pois pretende, com isso, majorar seus lucros. Assume, portanto, o risco dos danos ocorridos por ação de estelionatários, que se valem da fragilidade do sistema de segurança.
+Há direito à devolução dos valores e à reparação moral.
+De fato, não se pode negar o transtorno sofrido pela perda inopinada de vultosa quantia da conta corrente da autora, aposentado que recebe benefício muito inferior aos saques efetuados.
+São valores guardados custosamente pela parte e a falha na garantia da guarda dos valores gera evidente transtorno. 
+Diz, a ré, ter ocorrido mero dissabor. Porém, deveria imaginar como executaria suas operações diárias se fosse decretada a indisponibilidade de ativos conquistados em anos de lucro. Certamente, correria risco de ir à falência.
+Veja-se que a ré se recusou, por anos, à devolução de valores (fl. 79), o que importou evidente transtorno, inobstante a falta de inscrição do nome do autor em cadastros de inadimplentes.
+Mas, se isso é verdade, o valor pretendido é demasiado, porque importaria locupletamento indevido da autora.
+O dano não teve repercussão pública, tal como ocorre quando a negativação é registrada em bancos de dados de acesso público (v.g., SERASA, SCPC etc.).
+Assim, razoável fixar-se a indenização em R$ 5.000,00, compreendidos juros moratórios e correção monetária até a sentença.
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE o pedido, para determinar a devolução dos R$ 2.500,00 sacados indevidamente da conta corrente do autor, tudo atualizado desde o evento e acrescido de juros moratórios de 12% ao ano, a contar da citação; e para condenar o condenar o réu a pagar R$ 5.000,00, atualizados e acrescidos de juros de mora de 12% ao ano, desde a sentença, pelos danos morais sofridos. Ante a sucumbência recíproca, mas considerando que o autor decaiu da menor parte do pedido, as custas, despesas processuais e honorários fixados em 20% sobre o valor da condenação serão suportados em 80%, pela ré, e 20%, pelo autor, observada a gratuidade.
+P. R. I. C.
+São Paulo, 14 de dezembro de 2009
+
+FÁBIO HENRIQUE FALCONE GARCIA
+      Juiz de Direito

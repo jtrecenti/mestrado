@@ -1,0 +1,65 @@
+
+
+SENTENÇA
+
+Processo nº:0062667-96.2012.8.26.0100
+Classe - AssuntoCautelar Inominada - Liminar
+Requerente:José Fernando Seifarth de Freitas
+Requerido:Google Internet Brasil Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Tiago Ducatti Lino Machado
+
+
+
+                          Vistos.
+
+
+JOSÉ FERNANDO SIFARTH DE FREITAS propôs a presente AÇÃO CAUTELAR CUMULANDO OBRIGAÇÃO DE FAZER contra GOOGLE INTERNET BRASIL LTDA juntando, com a inicial de fls. 02/07, os documentos de fls.08/39 Alegou, em resumo, que é Juiz de Direito da 3ª Vara da Família e Sucessões da Comarca de Piracicaba/SP, desde julho de 2007 e desempenha com zelo sua função de magistrado; todavia, por ser participante de grupo musical, em atividade amadora paralela, passou a ser alvo de inúmeras ofensas a sua honra profissional e pessoal através de cartas anônimas endereçadas para número indeterminado de pessoas, inclusive a Corregedoria Geral de Justiça do Tribunal ao qual é vinculado; aduziu que é o administrador do site do grupo musical a que pertence e faz uso do serviço da requerida denominado Google Analytics que lhe presta relatórios geográficos gerais através dos IPs dos visitantes do website, sem, contudo, apresentar dados ao administrador em virtude de sua política de privacidade e que no dia 10/10/2012 a página de internet foi visitada por pessoa que redigiu a epístola apócrifa. Por isso pleiteia a condenação da ré a fornecer o número de IPs e demais registro eletrônicos, com data e horário, de todos os computadores que visitaram a página da internet no dia 10/10/12.
+
+Tutela antecipada deferida às fls.41/42.
+ 
+Regularmente citada, a ré ofertou defesa na modalidade de contestação às fls.72/86, aduzindo preliminar de incompetência absoluta do juízo cível, pois o objetivo do requerente busca a responsabilização criminal do autor. No mérito, sustentou, em linhas gerais, agir no exercício regular de direito amparado pela Constituição Federal que garante a inviolabilidade do sigilo de dados. No mais, apontou inexistir a fumaça do bom direito a sustentar a tese do autor e que a multa diária fixada no valor de R$ 1.000,00 (mil reais) viola os princípios da proporcionalidade e razoabilidade.
+
+Réplica às fls.116/126
+
+É o breve relatório do feito.
+
+DECIDO.
+
+O presente feito merece julgamento no estado em que se encontra, não havendo necessidade da produção de provas em audiência, conforme determina o artigo 330, inciso I, do Código de Processo Civil.
+
+Nesse sentido, aliás, a observação de que "Julgar antecipadamente a lide é dever do juiz se presentes as condições para tanto, até porque sendo o juiz destinatário da prova, somente a ele cumpre aferir sobre a necessidade ou não de sua realização" (TFR - 5ª Turma, Ag. 51.774-MG, Rel. Min. Geraldo Sobral, j. 27.02.89).
+
+O Egrégio Supremo Tribunal Federal também já decidiu nesse sentido, concluindo que "a necessidade de produção de prova em audiência há que ficar evidenciada para que o julgamento antecipado da lide implique em cerceamento de defesa. A antecipação é legítima se os aspectos decisivos estão suficientemente líquidos para embasar o convencimento do magistrado" (RE 101.171-SP).
+
+A presente ação limita-se à condenação de obrigação de fazer a ser imposta à ré para o fornecimento de IPs dos computadores que visitaram a página da internet administrada pelo autor em data específica.
+
+Pois bem, a questão deve ser analisada sob a ótica processual e do direito material/constitucional.
+
+O requerente maneja em juízo processo cautelar puro, cujo mérito pressupõe a análise da plausibilidade do direito substancial invocado bem como do risco na demora da outorga da prestação jurisdicional invocada.
+
+Ora, na hipótese vertente, ambos pressupostos autorizantes da tutela de urgência estão presentes, pois o autor é vítima de ofensas irrogadas contra a sua pessoa denegrindo sua imagem profissional e pessoal através do abjeto e covarde expediente do anonimato. 
+
+Logo, seu interesse de agir no âmbito do processo cautelar decorre da necessidade de identificar o autor das cartas apócrifas, porquanto o ilícito jurídico delineado nos autos tem dupla repercussão, na esfera cível (reparação de danos morais) e na esfera criminal (crimes contra a honra), razão pela qual não há como afastar a competência do juízo cível para o processamento e julgamento da cautelar em questão.
+
+Por outro ângulo, há nítida colidência entre direitos e garantias constitucionais fundamentais. Não se olvida a regra da inviolabilidade do sigilo de dados consagrado no artigo 5º, inciso XII, da Constituição Federal, ressalvada a hipótese de investigação criminal ou instrução processual penal. Todavia não há se falar em direito absoluto, pois até mesmo o direito à vida (bem jurídico supremo do ordenamento constitucional) admite relativização em casos de legítima defesa, estado de necessidade, etc. 
+
+No diapasão deste raciocínio, o direito/interesse do requerente tem esteio em duas premissas constitucionais: a vedação do anonimato no exercício da livre manifestação do pensamento (art.5º, IV, da CF) e inviolabilidade da honra e imagem, assegurado o direto à indenização pelo dano material ou moral decorrente de sua violação (art.5º, X, da CF).
+
+Destarte, seja no âmbito processual, seja pela vertente do direito material/constitucional, não há como afastar a responsabilidade da ré em sua obrigação de fazer que consiste em apresentar os IPs e demais registros eletrônicos dos computadores que visitaram a página de internet do requerente em 10/12/2012.
+
+Em arremate, anoto que o valor e a multa aplicada, seu valor, sua periodicidade e o teto estabelecido estão em consonância com os princípios da razoabilidade e proporcionalidade, haja vista a singeleza da providência a ser adotada pela ré, sua recusa em cumpri-la espontaneamente bem como sua capacidade financeira para suportar o montante imposto.
+
+Ante o exposto e tudo mais que dos autos consta, JULGO PROCEDENTE a ação pelos motivos acima articulados, tornando definitiva a liminar concedida, e, CONDENO a ré ao pagamento das custas, despesas processuais e honorários advocatícios do patrono do autor, que fixo em R$ 1.000,00 (um mil reais), com fundamento no artigo 20, parágrafo 4º do Código de Processo Civil, valor compatível com o julgamento antecipado da lide.
+
+P.R.I.
+
+
+São Paulo, 21 de maio de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

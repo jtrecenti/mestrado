@@ -1,0 +1,89 @@
+
+
+SENTENÇA
+
+Processo nº:0164907-66.2012.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Perdas e Danos
+Requerente:Paradigma Business Solutions Ltda
+Requerido:Empresa Brasileira de Telecomunicações S/A - Embratel
+
+
+
+
+Juiz(a) de Direito: Dr(a). Maria Carolina de Mattos Bertoldo
+
+Vistos. 
+
+
+PARADIGMA BUSINESS SOLUTIONS LTDA., qualificada nos autos, ajuizou a presente Ação de Indenização por Danos Materiais, Danos Morais e Lucros Cessantes em face de EMPRESA BRASILEIRA DE TELECOMUNICAÇÕES S/A - EMBRATEL, alegando, em síntese, ser empresa de pequeno porte atuante no mercado de tecnologia de informação, desenvolvendo e administrando sistemas informáticos. Afirma que teve o serviço de internet e telefonia prestado pela ré interrompido por cinco dias. Aduz que a interrupção causou perda de clientes e lucros cessantes, dada a competitividade do mercado, que não podem ser auferidos na inicial, bem como abalo na imagem idônea da empresa-autora. A inicial veio acompanhada de documentos.
+Citada, a ré ofereceu contestação (fls. 35/54), afirmando, em resumo, não haver relação de consumo entre as partes por usar a autora dos serviços da ré como meio de lucro, e prestar serviço de caráter complexo, tendo solucionado o problema dentro do menor período possível, sem falha na prestação. Aduz inexistir razão no pedido de lucros cessantes e danos materiais, pois a autora não comprovou qualquer perda efetiva de negócios. Juntou documentos.
+Réplica apresentada às fls. 82/90 com juntada de novos documentos.
+Manifestação da ré às fls. 99/101.
+As partes especificaram provas (fls. 105/107), tendo sido agendada audiência de tentativa de conciliação (fls. 108), a qual restou infrutífera (fls. 110).
+O feito foi saneado (fls. 116), deferindo-se a produção de prova documental, apresentada pela autora com nova manifestação às fls. 122/130 e documentos às fls. 131/151. 
+A autora impugnou a apresentação de novos documentos, rejeitada na decisão de fls. 159.
+A ré apresentou embargos de declaração (fls. 162/165), com juntada de novos documentos (fls. 166/167). Os embargos foram rejeitados na decisão de fls. 168.
+A ré manifestou-se às fls. 171/173 e fls. 166/167.
+
+É o relatório.
+
+Decido.
+
+Prescinde o feito de dilação probatória, comportando seu julgamento antecipado, nos termos do art. 330, inc. I, do Código de Processo Civil.
+Trata-se de ação pela qual a autora busca ressarcimento de danos materiais e morais experimentados pela interrupção do serviço de telefonia e internet prestado pela ré, que causaram perdas de ordem econômica e moral pelo caráter do negócio exercido pela empresa-autora.
+Inicialmente, verifico que os pontos fixados como controvertidos foram os danos materiais e morais alegados, seu montante e seu dever de reparação, sendo a interrupção do serviço por cinco dias fato incontroverso (fls. 26), provado pela autora e, ademais, admitido pela ré.
+A alegação de ocorrência de dano material depende de prova, não podendo se indenizar dano hipotético, conforme requer a autora. 
+Nesse ponto, destaco as lições de Washington de Barros Monteiro:
+?Dano emergente é o deficit no patrimônio do credor, a concreta redução por este sofrida em sua fortuna (quantum mihi abfuit). Lucro cessante é o que ele razoavelmente deixou de auferir, em virtude do inadimplemento do devedor (quantum lucrari potui) (Curso de Direito Civil, 4º Volume: Direito das Obrigações - 1º Parte, p. 342).
+Não se fale, portanto, em dano potencial. O dano emergente deve ser comprovado pela parte prejudicada. Ele não é presumível, porquanto inócua a simples alegação do dano.
+Nesse ponto, observo que não basta a simples invocação da relação de consumo para autorizar a automática inversão do ônus da prova. Imprescindível, para tanto, que esteja caracterizada a hipossuficiência técnica do consumidor e haja verossimilhança de suas alegações.
+Nesse sentido:
+"RESPONSABILIDADE CIVIL. MÉDICO E HOSPITAL. INVERSÃO DO ÔNUS DA PROVA. RESPONSABILIDADE DOS PROFISSIONAIS LIBERAIS. MATÉRIA DE FATO E JURISPRUDÊNCIA DO STJ (REsp. Nº 122.505/SP).
+1. No sistema do Código de Defesa do Consumidor a "responsabilidade pessoal dos profissionais liberais será apurada mediante a verificação de culpa" (art. 14, § 4º).
+2. A chamada inversão do ônus da prova, no Código de Defesa do Consumidor, está no contexto da facilitação da defesa dos direitos do consumidor, ficando subordinada ao "critério do juiz, quando for verossímil a alegação ou quando for ele hipossuficiente, segundo as regras ordinárias de experiências" (art. 6º, VIII). Isso quer dizer que não é automática a inversão do ônus da prova. Ela depende de circunstâncias concretas que serão apuradas pelo juiz no contexto da facilitação da defesa" dos direitos do consumidor. E essas circunstâncias concretas, nesse caso, não foram consideradas presentes pelas instâncias ordinárias.
+3. Recurso especial não conhecido." (REsp 171.988/RS, Rel. Ministro WALDEMAR ZVEITER, DJU, 28.06.99) (grifo nosso)
+
+?DIREITO CIVIL. CONSUMIDOR. ÔNUS DA PROVA. INVERSÃO. INTELIGÊNCIA DO ART. 6º, VIII, DA LEI Nº 8.078/90.
+1 - A inversão do ônus da prova prevista no art. 6º, VIII, da Lei nº 8.078/90 não pode ser feita em tese, de modo automático, só porque em um dos pólos da demanda existe um consumidor mas, ao contrário, resulta da existência da verossimilhança das alegações e da hipossuficiência, aferidas com base nos aspectos fático-probatórios peculiares de cada caso concreto.
+2 - Recurso conhecido e provido.? (STJ - REsp 284.995 ? SE, Rel. Min. Fernando Gonçalves, Registro nº 2000/0110639-2). (grifo nosso)
+Na hipótese em apreço, não se verifica a hipossuficiência da autora no tocante à matéria fática objeto de prova, de caráter singelo e produção possível à mesma, não exigindo conhecimentos técnicos específicos por parte daquela, não autorizando a inversão do ônus da prova.
+Destarte, não caracterizada a hipossuficiência técnica, não há que se falar em inversão do ônus da prova.
+A autora trouxe aos autos documentos sobre a relação de faturamento dos doze meses anteriores à interrupção do serviço e doze meses posteriores ao fato (fls. 166/167). Apesar da impugnação feita pela ré, tais documentos podem e devem ser apreciados em juízo visto que requisitados quando da especificação de provas (fls. 116).
+As provas documentais produzidas deveriam comprovar o nexo entre a conduta da ré e a perda de ganhos que a autora teria não fosse o não oferecimento do serviço pela parte contrária.
+Ocorre que os documentos acostados oportunamente não demonstram perda de clientela ou lucros cessantes, visto que o faturamento da autora tem caráter evidentemente cíclico e sazonal. O que se observa dos documentos da autora é que no mesmo mês da falha na prestação de serviço houve um aumento do número de pedidos e até maior faturamento mensal comparado ao mesmo mês do ano anterior. 
+Ademais, não se pode presumir os danos e prejuízos causados pela interrupção do serviço, visto que o simples contato telefônico não implicaria em uma efetiva contratação.
+O conjunto de prova elaborado demonstra que inexiste suporte fático para a plausibilidade do pedido. 
+Neste sentido, adverte a doutrina: 
+?Para que ocorra o direito aos lucros cessantes, a título de perdas e danos, deve-se comprovar haver, com certeza, algo a ganhar, uma vez que só se perde 'o que se deixa de lucrar' (cf. Pontes de Miranda. Tratado de Direito Privado, t. XXV, p. 23). Aliás, estabelece o art. 1.059 do CC (atual art. 402), que a perda indenizável, é 'o que razoavelmente deixa de lucrar', sendo de se exigir venha o esbulhado demonstrar haver possibilidade precisa de ganho, sem o que não há que falar em lucros cessantes (1.º TACSP 3.ª C. Ap. 476.842/1 rel. Antonio de Pádua Ferraz Nogueira j. 01.06.93)? (Tratado de Responsabilidade Civil, pág. 1.268, RT, 2007).
+Assim, inexiste prova do valor que a autora deixou de lucrar, ônus que lhe competia e do qual não se desincumbiu, sendo tais valores impossíveis de serem estimados ou arbitrados pelo juiz. 
+Ressalto, ainda, como já afirmado na decisão de fls. 116, que a elaboração de eventual prova testemunhal, dado o caráter do serviço prestado pela autora, não auxiliaria a auferir os lucros cessantes. 
+Ademais, à autora foi dada a oportunidade, por diversas vezes, da apresentação de documentos que demonstrassem o lucro médio efetivo auferido pela empresa, para que não restassem somente suas alegações ou documentos imprecisos.
+Noto, ainda, que a não houve, no momento processual oportuno (fls. 102/106), requerimento de produção de prova pericial e que o documento em posse da autora que demonstrava o faturamento já foi apresentado e não corrobora a tese da inicial.
+Não é outro o entendimento da Egrégia Câmara do Superior Tribunal de Justiça:
+ ?Julgamento antecipado. Possibilidade. Perícia contábil despicienda. Cerceamento de defesa não configurado. Preliminar rejeitada. 
+Contrato de prestação de serviços de telefonia. Aplicabilidade do Código de Defesa do Consumidor. Inversão do ônus probante. Situação concreta que não enseja a aplicação do art. 6º, VIII, do CDC. 
+Contestação oral. Pleito de aplicação dos efeitos da revelia, por falta de impugnação específica. Presunção ficta não aplicada. Hipótese que não absorve a incidência do art. 302 do CPC. Lucros cessantes. Não comprovação. Impossibilidade de se indenizar dano hipotético. Ausente demonstração de que, não fosse a falha na prestação de serviços, a autora teria auferido os ganhos apontados. Pressuposto da obrigação de indenizar inexistente. Rejeição. ônus sucumbencial. Incidência dos princípios da causalidade e da sucumbência. Sentença mantida. Recurso desprovido.? (Ap. 0036320-82.2010.8.26.0007, Rel. Des. RÔMOLO RUSSO, 11ªC., j. 16/05/2013) 
+
+Portanto, tem-se que o pedido de indenização baseou-se em meras alegações genéricas feitas pela autora, não podendo, pois, ser acolhido.
+Restam, ainda, os alegados danos morais, que dispensam comprovação. 
+Em casos análogos o Egrégio Superior Tribunal de Justiça vem decidindo reiteradamente o seguinte: 
+?Não há falar em prova do dano moral, mas, sim, na prova do fato que gerou a dor, o sofrimento, sentimentos íntimos que o ensejam (RESP nº 86.271/SP, 3ª T., relator Min CARLOS ALBERTO MENEZES, julg. 09/12/97)?
+Sendo incontroversa a falha na prestação dos serviços de telefone e internet, evidente que destes depende a atividade da empresa-autora, para atender os clientes, captar novos e efetivamente realizar sua atividade empresarial que ocorre por meio da internet. A dificuldade causada pela interrupção do serviço por si só acarreta transtornos que extrapolam a normalidade, que refletem na imagem comercial da autora, acarretando danos extrapatrimoniais. 
+Os danos morais atingem a esfera da imagem da empresa, prejudicada pela impossibilidade de fornecer adequadamente seus serviços.
+Suficientemente comprovada nos autos, portanto, o dano moral da autora. 
+Passo à fixação do valor a ser pago a título de ressarcimento por danos morais.
+Ressalto que é totalmente possível que a pessoa jurídica sofra dano moral. Tal matéria já é pacífica na jurisprudência, sendo desnecessárias maiores considerações sobre o assunto.
+O arbitramento da condenação a título de dano moral deve operar-se com moderação, proporcionalmente ao grau de culpa, ao porte empresarial/pessoal das partes, suas atividades, orientando-se o juiz pelos critérios sugeridos pela doutrina e jurisprudência, com razoabilidade, valendo-se da experiência e do bom senso, atento à realidade da vida, notadamente, à situação econômica atual e às peculiaridades do caso concreto. A importância arbitrada deve, a um tempo, atender a finalidade de compensar e dar satisfação ao lesado, assim como desestimular a reincidência.
+O valor pleiteado pela autora, de duzentos salários mínimos, revela-se abusivo e não deve ser considerado por este juízo.
+Considerando os elementos acima discriminados, estipulo a indenização devida pela ré à autora em R$ 20.000,00 (vinte mil reais).
+
+ANTE O EXPOSTO e considerando o que mais dos autos consta, JULGO PARCIALMENTE PROCEDENTE o pedido para CONDENAR a ré EMPRESA BARILEIRA DE TELECOMUNICAÇÕES S/A - EMBRATEL no pagamento a título de indenização por danos morais no valor de R$ 20.000,00 (vinte mil reais) à autora, devidamente corrigida a partir desta data e com juros legais de mora a partir da citação.
+Diante da sucumbência recíproca, dividirão as partes as custas e despesas processuais, arcando cada qual com os honorários advocatícios de seus respectivos patronos.
+P.R.I.
+
+São Paulo, 16 de dezembro de 2013.
+MARIA CAROLINA DE MATTOS BERTOLDO
+Juíza de Direito
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

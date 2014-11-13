@@ -1,0 +1,51 @@
+
+
+SENTENÇA
+
+Processo nº:0162339-48.2010.8.26.0100
+Classe ? Assunto:Procedimento Ordinário - Seguro 
+Requerente:Edjofre Dias de Oliveira
+Requerido:Seguradora Lider dos Consórcios do Seguro Dpvat
+
+
+
+
+Juiz(a) de Direito: Dr(a). Vincenzo Bruno Formica Filho
+
+
+Vistos, etc.
+
+
+Edjofre Dias da Silva propôs demanda condenatória contra Seguradora Líder dos consórcios do seguro DPVAT, pleiteando o pagamento de indenização do seguro obrigatório no valor de quarenta salários mínimos vigentes na data do efetivo pagamento, conforme a lei n°6.194/74, com a redação dada pela lei n°8.441/92, em razão de lesões corporais decorrentes de acidente de trânsito ocorrido em 11.12.04 (fls.2/13).
+A ré contestou a demanda, alegando, inicialmente, prescrição e, em seguida, não haver laudo médico com a quantificação das lesões. Aduz não haver vinculação da indenização ao salário mínimo e sustenta a legitimidade do CNSP para regular a matéria alega (fls.38/53).
+Réplica a fls.79/91.
+O feito foi saneado (fls.92), e foi determinada a produção de prova pericial, cujo laudo está encartado a fls.132/135.
+É o relatório.
+Passo a decidir.
+Inicialmente, deve ser afastada a alegação de prescrição, porquanto a ciência cabal acerca da invalidez permanente deu-se, à míngua de comprovação pela ré de data anterior, com a elaboração do laudo do IML em 21.9.09 (fls.26.).
+A demanda foi proposta antes que se decorresse um ano dessa data, motivo pelo qual a prescrição deve ser afastada.
+O sinistro ocorreu em 11.12.04. Portanto, a matéria é regida pela lei n°6.194/74, alterada pela lei n°8.441/92, cuja parte pertinente estava assim redigida:
+Art. 3º Os danos pessoais cobertos pelo seguro estabelecido no artigo 2º compreendem as indenizações por morte, invalidez permanente e despesas de assistência médica e suplementares, nos valores que se seguem, por pessoa vitimada:
+(...)
+b) - Até 40 (quarenta) vezes o valor do maior salário-mínimo vigente no País - no caso de invalidez permanente;
+(...)
+Art. 5º O pagamento da indenização será efetuado mediante simples prova do acidente e do dano decorrente, independentemente da existência de culpa, haja ou não resseguro, abolida qualquer franquia de responsabilidade do segurado.
+§ 1° A indenização referida neste artigo será paga com base no valor da época da liquidação do sinistro, em cheque nominal aos beneficiários, descontável no dia e na praça da sucursal que fizer a liquidação, no prazo de quinze dias da entrega dos seguintes documentos:
+(...)
+§ 5° O instituto médico legal da jurisdição do acidente também quantificará as lesões físicas ou psíquicas permanentes para fins de seguro previsto nesta lei, em laudo complementar, no prazo médio de noventa dias do evento, de acordo com os percentuais da tabela das condições gerais de seguro de acidente suplementada, nas restrições e omissões desta, pela tabela de acidentes do trabalho e da classificação internacional das doenças.
+(...)
+Art.12. O Conselho Nacional de Seguros Privados expedirá normas disciplinadoras e tarifas que atendam ao disposto nesta lei.
+Pelo que se depreende da leitura dos artigos de lei acima transcritos, a indenização deveria ser calculada com base nos salários mínimos vigentes na época da liquidação (art.5º, §1º, da referida lei) ? que, por não ter havido pedido administrativo, deve ser considerado o valor na data da propositura da demanda (R$510,00) -, levando-se em consideração o grau de invalidez, pois no dispositivo há a preposição até, que impõe um limite. Essa é a orientação dos seguintes julgados do Egrégio Tribunal de Justiça de São Paulo:
+CORREÇÃO MONETÁRIA ? Ação de cobrança de diferença de indenização de seguro obrigatório (DPVAT) ? A diferença devida deve ser calculada com base no salário mínimo vigente na época em que foi efetuado o pagamento na sede administrativa, com correção monetária desde então, pois o artigo 5º, § 1º, da Lei 6194/74 prevê que a indenização será paga com base no valor da época da liquidação do sinistro - Recurso provido (Apelação Cível n. 931.079-0/7 ? São José do Rio Preto - 26ª Câmara de Direito Privado - Relator: Elias Júnior de Aguiar Bezerra ? 13.03.06 - V.U. - Voto n. 019).
+SEGURO ? Obrigatório (DPVAT) ? Invalidez permanente - Realização de perícia para constatação do grau de incapacidade ? Necessidade ? A indenização do seguro obrigatório, na hipótese de invalidez permanente, é limitada a 40 (quarenta) salários mínimos (artigo 3º, b, da Lei nº 6194/74) ? Deste modo, o seu pagamento poderá ser parcial ou total, dependendo do grau de incapacidade suportado pelo segurado, o que demanda a realização de perícia médica ? Recurso não provido, nessa parte (Agravo de Instrumento n. 1.104.971-0/8 ? São José do Rio Preto - 35ª Câmara de Direito Privado - Relator: Mendes Gomes ? 25.06.07 - V.U. - Voto n.13.297).
+O nexo de causalidade dos danos pessoais com o acidente de veículos automotores ou sua carga é incontroverso, e a porcentagem da debilidade está comprovada pelo laudo pericial juntado a fls.132/135.
+Ressalto que, apesar de uma ambiguidade inicial, o senhor perito constatou 50% de debilidade no punho esquerdo, motivo pelo qual arbitrou dano patrimonial em 10%, considerando o capital máximo segurado de 20%.
+De acordo com as normas regulamentadoras do seguro obrigatório (art.5º, §2º, da circular susep n°29/91), o valor da indenização é R$2.040,00 (50% de R$4.080,00 ? capital máximo segurado para a anquilose total de um dos punhos - submetido ao percentual de debilidade [50%]).
+A demanda é parcialmente procedente.
+Decido.
+Assim sendo e considerando o que mais dos autos consta, julgo parcialmente procedente, nos termos do art.269, inc.I, do Código de Processo Civil, a demanda de cobrança securitária proposta por Edjofre Dias da Silva contra Seguradora Líder dos consórcios do seguro DPVAT para condenar a ré ao pagamento de R$2.040,00, corrigidos desde a propositura da demanda e acrescidos de juros de mora a partir da citação referente à indenização por invalidez permanente parcial do seguro obrigatório, em razão do acidente com veículo automotor ocorrido em 11.12.04.
+Em razão da sucumbência mínima da ré, condeno-a ao pagamento de 10% das custas e despesa processuais e condeno o autor ao pagamento de honorários de advogado em favor da ré no valor de R$1.952,38, corrigidos monetariamente desde a propositura da demanda e acrescidos de juros de mora a partir do trânsito em julgado, observado o disposto no art.11, §2º, e no art.12 da lei n°1.060/50.
+Publique-se. Registre-se. Intimem-se.
+São Paulo, 27 de novembro de 2012.
+Vincenzo Bruno Formica Filho
+juiz de direito

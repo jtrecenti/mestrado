@@ -1,0 +1,49 @@
+
+
+SENTENÇA
+
+Processo nº:0109399-77.2008.8.26.0003
+Classe - AssuntoProcedimento Ordinário - Assunto Principal do Processo >
+Requerente:Terrazul Informatica Ltda
+Requerido:Vinhanet Informática Ltda
+
+CONCLUSÃO
+Em   12 de junho de 2012, faço estes autos conclusos a(o) MM.(ª). Juiz(a) de Direito abaixo. Eu, _______, (Breno), escrev., subsc.
+Juiz(a) de Direito: Dr(a). Paulo Furtado de Oliveira Filho
+
+Vistos.
+
+TERRAZUL INFORMÁTICA LTDA. ajuizou a presente ação contra VINHANET INFOMÁTICA LTDA, buscando a condenação da ré a entregar a versão do software para microcomputadores que rode em Windows 98 SE, análise do sistema,, documentação do sistema ou, no caso de recusa, seja convertida a obrigação em perdas e danos, isso em virtude da ré ter sido contratada a desenvolver tal software, não tendo, contudo, executado sua prestação.
+
+Citada, a ré apresentou contestação a fls. 117/130, alegando, em síntese, que a autora deixou de pagar as prestações devidas, motivo pelo qual foram suspensos os serviços, e, ademais, a própria autora não disponibilizou um servidor, o que provocou atraso na execução do serviço, ao final cumprido, com a entrega do software nas bases contratadas.
+
+Houve réplica, despacho saneador a fls. 174, laudo pericial e fls.231/436, manifestações das partes e esclarecimentos periciais a fls. 492/500, seguidas de manifestações das partes a fls. 504/506 e 518.
+ 
+É O RELATÓRIO.
+
+Considerando que as partes já se manifestaram sobre o laudo pericial, não há necessidade de apresentação de memoriais, ficando, assim, indeferido o pleito de fls. 518. Igualmente deve ser indeferido o pedido de destituição do perito, formulado a fls. 504/506, pois não há qualquer prova de falta de isenção de ânimo do perito e eventual suspeição de sua parte deveria ser alegada pela via processual adequada.
+
+Quanto ao mérito, a ação deve ser julgada improcedente. 
+
+De acordo com a petição inicial, a ré teria deixado de entregar a versão do software para microcomputadores que rode em Windows 98 SE, análise do software e a documentação do sistema. 
+
+Diante disso, a MM. Juíza de Direito fixou os pontos controvertidos a fls. 174, indagando ao perito se foi realizada a entrega da análise do software e a documentação do sistema, bem como se havia a obrigação de desenvolver o software para o sistema operacional Windows 98. 
+
+Segundo o perito, após realizações de testes, ficou constatado que o software pode ser instalado no sistema operacional Windows, a partir da versão 98 SE, estando detalhados no corpo do laudo as atividades necessárias à instalação (fls. 247/251, 495 e 500), o que afasta a alegação da autora de que o software não era compatível com o mencionado sistema operacional.
+
+ Ainda de acordo com o perito, a documentação do software reclamada na inicial foi entregue à autora (fls. 253 e 500), esclarecendo que ? a documentação entregue juntamente com o produto finalizado é suficiente para que, do ponto de vista técnico, seja dada como resolvida a questão relativa à entrega da documentação do desenvolvimento. Isso porque a Requerida demonstrou à perícia que a documentação entregue à Requerente por fim do desenvolvimento do produto representava o total de informações relativas ao desenvolvimento do produto, não havendo outros dados a serem disponibilizados? (fls. 496). 
+
+Diante de tais conclusões do perito, que merecem integral acolhida, o serviço foi satisfatoriamente executado pela ré, não tendo amparo o pedido da autora.
+
+Ante o exposto, JULGO IMPROCEDENTE a demanda e condeno a autora ao pagamento das despesas processuais e honorários advocatícios de 10% do valor atualizado da causa.
+
+P.R.I.
+
+
+São Paulo, 12 de junho de 2012.
+
+
+
+
+Paulo Furtado de Oliveira Filho
+                  Juiz de Direito

@@ -1,0 +1,69 @@
+
+
+SENTENÇA
+
+Processo nº:1047981-48.2013.8.26.0100
+Classe ? Assunto:Procedimento Ordinário - Contratos Bancários 
+Requerente:BANCO PANAMERICANO S/A
+Requerido:WORK BRASIL CONFECÇÕES LTDA - EPP e outro
+
+
+Juiz(a) de Direito: Dr(a). Maria Fernanda Belli
+
+
+
+
+
+
+
+VISTOS.
+
+
+
+
+BANCO PANAMERICANO S/A, pessoa jurídica qualificada nos autos, ajuizou a presente ação, com pedido de tutela antecipada, contra WORK BRASIL CONFECÇÕES LTDA.-EPP e GOHL TECNOLOGIA DE ATIVOS LTDA., pessoas jurídicas também qualificadas, alegando, em síntese, que celebrou contrato de compra e venda com a primeira ré, no valor total de R$ 1.170,00 (um mil, cento e setenta reais), e, em que pese o integral pagamento do preço, em três parcelas, foi surpreendido com o apontamento a protesto da duplicata mercantil n.º 886 pela segunda ré. Afirma que o título é inexigível e discorre sobre os prejuízos suportados, pretendendo, ao final, a declaração de sua inexigibilidade e o pagamento de indenização por danos morais, no valor de R$ 28.080,00 (vinte e oito mil e oitenta reais). 
+
+A petição inicial veio instruída com procuração e documentos (fls. 11/26).  
+
+O pedido de antecipação parcial de tutela foi deferido a fls. 27/28. 
+
+Citada, a ré GOHL ofereceu contestação a fls. 38/47, arguindo, preliminarmente, carência de ação, por ausência de interesse de agir. No mérito, rebateu as alegações iniciais, argumentando que celebrou contrato de desconto com a corré. Sustentou a regularidade de sua conduta, amparada no contrato firmado com a corré que, inclusive, emitiu carta de anuência em 14.07.2010. Insurgiu-se contra o pedido indenizatório e, ao final, postulou a improcedência dos pedidos. Juntou documentos (fls. 48/83). 
+
+A corré WORK BRASIL deixou transcorrer in albis o prazo para resposta (fls. 84). 
+
+Réplica a fls. 89/93.
+
+
+É o breve relatório. 
+DECIDO.
+
+
+JULGO ANTECIPADAMENTE O PEDIDO, com fulcro no artigo 330, inciso I, do CPC, tratando-se de matéria eminentemente de direito, que dispensa dilação probatória. Neste sentido, confira-se o entendimento jurisprudencial: ?Em matéria de julgamento antecipado da lide, predomina a prudente discrição do magistrado, no exame da necessidade ou não da realização de prova em audiência, ante as circunstâncias de cada caso concreto e a necessidade de não ofender o princípio basilar do pleno contraditório? (STJ-4ª Turma, REsp 3.047-ES, rel. Min. Athos Carneiro).
+
+Primeiramente, afasto a matéria preliminar ventilada em contestação, consistente em ausência de interesse de agir, porque se harmoniza com o mérito e adiante será apreciada; vale dizer, a prática (ou não) de ato ilícito pela corré GOHL é um dos pontos controvertidos da demanda. 
+
+Superada a matéria preliminar, no mérito, os pedidos são parcialmente procedentes. 
+
+Primeiramente, assinalo que o autor não discute a regularidade da emissão do título, apenas invoca seu pagamento, diante do depósito efetuado em conta corrente da corré WORK, conforme fls. 23. De fato, a duplicata é um título de crédito causal, ou seja, sua emissão ?é possível para representar crédito decorrente de determinada causa prevista por lei. Ao contrário dos títulos não-causais (...) a duplicata não pode ser sacada em qualquer hipótese segundo a vontade das partes interessadas. Somente quando o pressuposto de fato escolhido pelo legislador - a compra e venda mercantil - se encontra presente, e que se autoriza a emissão do título? (in ?Manual de Direito Comercial?, Fábio Ulhoa Coelho, 7ª edição). 
+
+No caso vertente, contudo, o título emitido pela corré WORK foi negociado com a ré GOHL, mediante desconto, conforme se extrai de fls. 71, operando-se a cessão do crédito. A despeito de invocar sua condição de terceiro de boa-fé, em relação a quem supostamente inoponíveis as exceções pessoais pertinentes ao negócio jurídico subjacente à emissão dos títulos, olvidou-se a corré do ônus probatório que lhe pesa quanto à higidez formal do título. Não comprovou a ré, como era de se lhe exigir, a observância de cuidados minimamente exigíveis quando da aquisição do título, em ordem a obviar a existência potencial de vícios extrínsecos que lhe pudessem macular a validade, daí porque, em absoluto lhe socorre a invocação de exercício regular de direito no apontamento do título a protesto, malgrado seja forçoso lhe reconhecer o direito de regresso, para o que desnecessária a manutenção do ato notarial, conforme iterativo entendimento jurisprudencial.
+Por ocasião do julgamento do REsp nº 1.213256-RS, na forma do art. 543-C do CPC, rel. Min. Luis Felipe Salomão, o E. Superior Tribunal de Justiça firmou posição no sentido de que ?O endossatário que recebe, por endosso translativo, título de crédito contendo vício formal, sendo inexistente causa para conferir lastro à emissão de duplicata, responde pelos danos causados diante de protesto indevido, ressalvado seu direito de regresso contra os endossantes e avalistas?. Conclui, nessa quadra de considerações, que ?a regra da inoponibilidade das exceções pessoais a terceiros de boa-fé, prevista em vários diplomas legais, como no Decreto n.º 2.044/1908, no Código Civil de 1916 e na Lei Uniforme de Genebra, não abarca os vícios de forma do título, extrínsecos ou intrínsecos, como a emissão de duplicata simulada, desvinculada de qualquer negócio jurídico e, ademais, sem aceite?.
+
+O entendimento jurisprudencial assim cristalizado deu origem à súmula 475 do E. Superior Tribunal de Justiça: ?Responde pelos danos decorrentes de protesto indevido o endossatário que recebe por endosso translativo título de crédito contendo vício formal extrínseco ou intrínseco, ficando ressalvado seu direito de regresso contra os endossantes e avalistas?.
+
+Ademais, observo que a corré WORK BRASIL é revel. De rigor, portanto, a declaração de inexigibilidade do título. 
+
+O pedido indenizatório, contudo, é improcedente. O dano moral não afeta o patrimônio do ofendido, ao contrário, ?não é a dor, a angústia, o desgosto, a aflição espiritual, a humilhação, o complexo de que sofre a vítima do evento danoso, pois esses estados de espírito constituem o conteúdo, ou melhor, a consequência do dano? (in ?Responsabilidade Civil?, Carlos Roberto Gonçalves, 8ª edição, 2003). Trata-se, na verdade, de ?dor da alma?, não palpável, mas evidentemente sentida, ao contrário do dano material, que se coaduna com a lesão patrimonial, isto é, aprecia-se o prejuízo em dinheiro, conforme a diminuição sofrida no patrimônio da vítima. 
+
+No caso em tela, que o pedido é possível, pois a pessoa jurídica pode ser atacada em sua honra objetiva, isto é, ?goza ela de uma reputação junto a terceiros, passível de ficar abalada por atos que afetam o seu bom nome no mundo civil ou comercial onde atua? (TJSP, Apelação Cível n.º 9.117-4, 3ª Câmara de Direito Privado, rel. Toledo César, data do julgamento 09.12.1997), isto é, sua ?reputação e bom conceito de empresa? (JTJ 238/117, fls. 26) o que, no entanto, não se verificou in casu. 
+
+Pelo exposto, JULGO PARCIALMENTE PROCEDENTES OS PEDIDOS, declaro extinto o processo com resolução de mérito, na forma do artigo 269, inciso I, do CPC, torno definitiva a decisão que antecipou os efeitos da tutela e declaro inexistente a dívida representada pela duplicata mercantil n.º 886. Custas, despesas processuais e honorários advocatícios compensados.  
+
+
+P.R.I.
+
+
+São Paulo, 08 de novembro de 2013.  
+
+MARIA FERNANDA BELLI
+       Juíza de Direito

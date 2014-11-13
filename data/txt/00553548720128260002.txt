@@ -1,0 +1,198 @@
+
+
+SENTENÇA
+
+Processo nº:0055354-87.2012.8.26.0002
+Classe - AssuntoProcedimento Ordinário - Rescisão / Resolução
+Requerente:Isapa Importação e Comércio Ltda
+
+Requerido:Dotsoft Tecnologia de Sistemas Ltda e Microsoft Informática Ltda
+
+
+
+
+Juiz de Direito: Dr. Alexandre David Malfatti
+
+
+
+Vistos.
+
+
+
+
+Consta da petição inicial, em resumo, que,visando melhorar seu sistema de faturamento, a autora contratou a ré DOTSOFT por ser empresa credenciada pela corré MICROSOFT para a implantação de software. Após receber propostas, em 07.1.2011, a autora e a ré DOTSOFT ajustaram um "contrato de prestação de serviços" que visava a implantação do sistema (software) da MICROSOFT denominado DYNAMICS AX 2009. Igualmente, a autora celebrou com a ré MICROSOFT um contrato de licenciamento daquele sistema. A autora ainda contratou a empresa BRW para acompanhar a implantação daquele projeto. O valor da prestação de serviços era de R$ 698.722,00 e que abrangia a "customização"  daquele sistema para atendimento às necessidades da autora (integração com coletores de dados, adequação nos processos, análise de crédito, comissionamento, lista de preço, controle de frete, integração contábil e financeira, etc.). 
+
+
+Segundo versão da autora, a ré descumpriu suas obrigações contratuais. Primeiro, em relação ao prazo de implantação do sistema - prometida para novembro a migração para o novo sistema não ocorreu. Segundo, os gastos que superaram os valores identificados no contrato. A quantia desembolsada superava mais de R$ 1.500.000,00 e a ré ainda exigia outros valores. E terceiro pela inadequação técnica na prestação de serviços. Trocas de funcionários, atrasos injustificados no cronogramas e inviabilidade de utilização do software indicado.
+
+Após mencionar a responsabilidade contratual das rés, a autora formulou os seguintes pedidos:
+
+A) em relação à ré DOTSOFT, a resolução do contrato por culpa da ré com a restituição de todos os valores desembolsados na prestação de serviços, declarando-se inexigíveis quaisquer valores,
+
+B) em relação à ré MICROSOFT, a resolução do contrato por culpa da ré com a restituição de todos os valores desembolsados na licença do software, declarando-se inexigíveis quaisquer valores,
+
+C) condenação das duas rés ao pagamento de perdas e danos materiais (gastos extras) e de indenização dos danos morais.
+
+
+
+Em sede de liminar, houve deferimento parcial da tutela pretendida (427/428).
+
+
+A ré MICROSOFT ofertou contestação (fls. 483/506). Como matéria preliminar, levantou a ilegitimidade passiva, porquanto não firmou contrato de licença de software com a autora ? o negócio foi ajustado apenas entre esta última e a corré DOTSOFT. Esclareceu que a detentora dos direitos sobre o software era a MICROSOFT CORPORATION. Também deduziu pedido de denunciação da lide da corré DOTSOFT TECNOLOGIA DE SISTEMAS LTDA. 
+
+
+No mérito, além de sustentar a não incidência do Código de Defesa do Consumidor, a ré MICROSOFT defendeu a inexistência de elementos que pudessem justificar sua responsabilidade no suposto evento danoso experimentado pela autora. A mera parceria entre as rés em negócios não poderia gerar o efeito pretendido pela autora. Em nenhum momento a MICROSOFT participou do processo de planejamento e/ou implementação do sistema em questão, limitando-se a autorizar a licença do software. E a implantação foi prejudicada por fatores atribuídos à própria autora ? inúmeras solicitações extraordinárias de modificações, que acabaram afastando o escopo principal.
+
+
+Por último, a ré MICROSOFT impugnou a existência de nexo causal e dos próprios danos mencionados pela autora.
+
+
+A ré DOTSOFT também apresentou contestação (fls. 539/574). Em síntese, admitiu que foi consultada pela autora para a elaboração de um projeto de instalação de software que pudesse atender sua demanda operacional (reconhecidamente complexa). A ré então recomendou à autora o software denominado "DYNAMICS AX 2009", já que este seria capaz de atender à demanda informada. O projeto inicial contemplava customizações (indicadas na página 09 da proposta). Porém, a autora fez mais solicitações durante o desenvolvimento  - em cada etapa de análise e desenho ? o que acabou por justificar o atraso no cronograma inicial. Essas solicitações posteriores eram de responsabilidade da autora.
+
+
+Esclareceu a ré DOTSOFT que a costumização do "DYNAMICS AX" envolveu ainda o desenvolvimento de interface para o software de logística (por exemplo: controle de cargas de importações, gerenciamento de centrais de distribuição, dispositivos coletores, mesas de conferência, etc.). E, neste ponto, estava o serviço "TO INCREASE", que envolvia a licença do software "WMD", além da implantação. E a DOTSOFT forneceu para a autora todas as informações necessárias. 
+
+
+Por último, além de combater a incidência do Código de Defesa do Consumidor, a ré DOTSOFT também se insurgiu contra a pretensão de reparação das perdas e danos. 
+
+
+O processo foi saneado, rejeitando-se a matéria preliminar e deferindo-se a prova pericial (fls. 2.205/2.210).
+
+
+Após a entrega do laudo pericial (fls. 2.250/2.272 e 2.345/2.349) e oportunizada a manifestação das partes, houve o encerramento da instrução (fls. 2.352).
+
+
+As partes apresentaram alegações finais (fls. 2.367/2.378, 2.382/2.390 e 2392/2.396).
+
+
+É O BREVE RELATO.
+
+FUNDAMENTO E DECIDO.
+
+
+A lide cinge-se aos pedidos formulados pela autora, notadamente a resolução do contrato, restituição de valores pagos e perdas e danos. 
+
+
+Em relação à resolução do contrato, entendo que a tutela antecipada deve ser ratificada, destacando-se sua fundamentação (fls. 476/479):
+
+
+"Entendo que há prova inequívoca dos seguintes fatos: 
+
+
+(i) contratação da ré DOTSOFT para a prestação de serviços (fls. 42/52), com obrigação de "customização" do sistema MICROSOFT DYNAMICS AX 2009 (fls. 61) e com prazo de 47 semanas para implantação do projeto (fls. 64 e 93),
+
+(ii) contratação da ré MICROSOFT com licença de software (fls. 106/113, 114/116, 118/127 e
+
+(iii) atraso e discussões entre as partes na condução do projeto de implantação do software (fls. 130/135).
+
+
+A autora já revelou intenção de resolução do contrato. Independente da discussão sobre a culpa ? inadimplemento ? contratual, entendo justo e adequado que seja atendida a pretensão da autora que se refere à tutela de urgência. Apenas para os seguintes fins: (i) fazer cessar as atividades da ré DOTSOFT e (ii) fazer cessar o cômputo de tempo para a MICROSOFT cobrar pela manutenção do sistema. Isto antecipa o efeito da resolução do contrato. Há indício de que houve uma inadequação do sistema para as necessidade da autora, justificando-se a paralisação das atividades.
+
+Em outras palavras, manifestado o desejo de resolução do contrato, não há razão para discordância ou resistência. Quando muito, poderiam ? e o direito poderá até ser exercido em sede de reconvenção, se o caso ? reclamar diferenças em aberto do preço e eventuais sanções (multas) contratuais ou perdas e danos. 
+
+
+Reconheço o "periculum in mora". Não havia motivo para se levar os contratos adiantes, se constatada a inviabilidade ou inadequação técnica. Também houve indício de atraso significativo na implantação do projeto. A autora corria sim um risco de experimentar danos de difícil reparação, ao ver sua atividade empresarial comprometida com o prolongamento de um projeto sem resultados esperados.
+
+
+(negrito e grifo do texto original).
+
+
+Entendo que a resolução dos contratos deve ser reconhecida com culpas das rés. 
+
+
+Adotam-se as conclusões do ilustre perito judicial (fls. 2.270/2.272), destacando-se:
+
+
+"1. A comercialização do programa Dynamics AX da Microsoft pela Requerida Dotsoft foi realizada sem uma adequada e detalhada análise prévia das reais necessidades da empresa Autora e de suas regras de negócio, análise esta classificada como ?superficial? pela entrevista do próprio preposto da Requerida Dotsoft;
+
+2. A fase 1 da metodologia de implementação adotada pela Requerida Dotsoft, responsável pela identificação das regras de negócio da empresa Autora, resultou na constatação da necessidade de uma grande quantidade de desenvolvimento específico (customizações) não prevista na fase comercial pelos profissionais de pré-venda da Requerida Dotsoft, gerando atrasos e posteriormente custos adicionais;
+
+3. A Requerida Dotsoft, em consequência de não ter mapeado as necessidades reais da Autora na fase comercial, identificou após 4 meses dos trabalhos iniciados, que seria necessária a aquisição de outro programa específico para a área de logística (WMD), pois o existente no programa originalmente comercializado (WMS) não possuía as funcionalidades necessárias;
+
+4. Mesmo após a concordância e aquisição pela Autora do novo programa de logística ao custo de R$ 182.051,60, este se mostrou inadequado e pouco aderente às necessidades da Autora em face da grande quantidade de horas necessárias para sua customização, restando inviabilizado;
+
+5. Os atrasos ocorridos na implementação do programa adquirido foram ocasionados principalmente pela grande quantidade de desenvolvimentos específicos necessários para adequar o programa Dynamics AX às necessidades de processamento da Autora, uma vez que não foram adequadamente identificados pela Requerida Dotsoft à época de sua comercialização.".
+
+
+Evidente a falha da DOTSOFT na comercialização do programa da MICROSOFT. Cabia a ela verificar a efetiva necessidade da cliente autora e a possibilidade de o programa ofertado a ela corresponder. Não se revelou um excesso de costumizações pela autora, mas sim uma falta de análise adequada de quem ofertou o programa para as características do negócio da empresa cliente. As rés preocuparam-se em vender e não bem informarem a cliente autora, no momento da autora. A oferta foi superficial como: vende-se e depois adequa-se o programa às necessidades da cliente. Mas a adequação não se deu!
+
+Ou seja, dentro da concretização dos princípios da boa-fé e probidade que informam as relações contratuais, tem-se que houve uma grave violação pela ré ao dever anexo de  informação com estudo prévio da real necessidade da cliente e a previsão de desenvolvimento específico. Como salientado pelo perito, "não foram adequadamente identificados pela Requerida Dotsoft à época de sua comercialização"  (laudo, fls. 2.271). 
+
+
+No campo das obrigações, pode-se dizer que os princípios constitucionais e da legislação ordinária (notadamente o Código Civil de 2002 ? princípios da boa-fé, probidade e função social do contrato e da empresa) criaram para "cláusulas gerais' e "deveres anexos" (ou obrigações laterais), inclusive a necessária transparência e informação.  
+
+
+Em outras palavras, na concretização daqueles princípios, havia para as empresas rés um  dever anexo implícito, na hipótese de venda dos programas de computador: a adequada informação prévia sobre as possibilidades de haver atendimento às reais necessidades da autora e o número de costumizações necessárias  o que teria impacto na complexidade do desenvolvimento específico, no total de tempo de execução do projeto e nas próprias funcionalidades. 
+
+
+A respeito da "obrigação como processo", confira-se o magistério de CLÓVIS DO COUTO E SILVA percussor no Brasil de da ampliação do estudo das fontes das obrigações, para alcançar mais do que aquilo que era pregado pela teoria tradicional (estática), avançando para uma idéia dinâmica. As obrigações tinham origem na realidade social ? nos contatos sociais. Poderiam as obrigações derivar inclusive da concretização do princípio da boa-fé e das "condutas sociais típicas".
+
+
+No Superior Tribunal de Justiça, vale menção o Recurso Especial nº 107.211-SP, 4ª Turma, relatado pelo Ministro RUY ROSADO DE AGUIAR, julgado em 03.12.1996, que admitiu um "dever anexo" de proteção, justamente como originário da aplicação do princípio da boa-fé. Merece referência pela valorização do princípio da boa-fé no direito privado, desde o CC de 1.916.
+
+
+Confira-se precioso precedente do Egrégio Tribunal de Justiça de São Paulo, Apelação nº 0134186-53.2006.8.26.0000, 4ª Câmara de Direito Privado, relator o Desembargador FRANCISCO EDUARDO LOUREIRO, julgado em 15.9.2011, destacando-se a importância das expectativas criadas e das informações trocadas:
+"Sabido que o princípio cardeal do direito contratual contemporâneo é o da boa-fé objetiva, que nada mais almeja do que a segurança das relações negociais, impondo um dever ?de cada parte agir de forma a não defraudar a confiança da contraparte? (Fernando Noronha, O Direito dos Contratos e seus Princípios Fundamentais, Editora Saraiva, p. 18).
+
+"Logo, se não havia uma real intenção de finalizar o negócio, era dever primário do réu-apelante desfazer a falsa ilusão criada pela situação, deixando claro à autora que os problemas jurídicos encontrados não conduziriam o contrato a bom termo. É o que se denomina deveres de informação e de esclarecimento, fundamentais na fase das tratativas negociais (Régis Fichtner Pereira, A Responsabilidade Civil Pré-Contratual, Renovar, pgs. 92 e seguintes). 
+
+"Não é aparentemente o que ocorreu. Os sucessivos encontros das partes, conforme reconhecido pelos litigantes, somados à antecipação, pela autora, de vários gastos no imóvel, criou a falsa imagem de que o negócio já estava finalizado, bastando a formalização pelo instrumento devido."
+
+
+As críticas das rés e dos assistentes técnicos não afastaram as conclusões do perito. Ora, não se cuidavam de funcionalidades não previstas nos projetos originais, mas sim de "um projeto original" muito superficial justamente pela abordagem inadequada do momento de comercialização ? uma afronta ao princípio da boa-fé, já que cabia às rés, notadamente à Dotsoft, um estudo adequado acerca das reais necessidades da cliente autora. 
+
+
+E admito a responsabilidade também da ré Microsoft. Atuou ela em parceria com a Dotsoft, beneficiando-se da comercialização efetivada pela última. Cabia à Microsoft com seu conhecimento técnico certificar-se para a comercialização adequada dos programas ? inclusive na parte de costumizações prometidas aos clientes. Deve agir com o "dever anexo" de uma venda transparente e adequada dos seus programas de computador. A boa-fé localiza-se justamente no dever de lealdade exigido das empresas rés. Irrelevante o fato de a parceria ser estabelecida com a MICROSOFT CORPORATION. Entendo que a empresa situada em território nacional e do mesmo grupo deve assumir a responsabilidade de indenização por atos praticados no país e que envolvam a MICROSOFT. 
+
+
+
+PASSO A FIXAR AS CONSEQUÊNCIAS DA RESOLUÇÃO CONTRATUAL. 
+
+
+Primeiro, acolho o pedido de restituição dos valores pagos pela autora. Na forma da petição inicial, cada uma das rés deverá restituir os valores desembolsados pela autora ? aquisição das licenças e prestação de serviços das mesmas. Cada valor desembolsado será acrescido de juros de mora de 1% ao mês (capitalizados anualmente, a partir da última citação) e de correção monetária (calculada pelos índices adotados pelo TJSP, a partir do desembolso). 
+
+
+Segundo, rejeito o pedido de reparação de danos materiais consistente na implantação do sistema por terceira empresa. Uma vez resolvido o contrato, as partes retornam ao estado anterior. A contratação de uma terceira empresa para um novo sistema não pode ser qualificada como dano emergente. 
+
+
+E terceiro, rejeito o pedido de reparação dos danos morais. Apesar do reconhecimento da repercussão material dos fatos, não vislumbro a ocorrência de dano moral. A parte não foi afetada em sua esfera extrapatrimonial, seja nos direitos da personalidade, seja no âmbito de dissabores, constrangimentos e transtornos intensos. 
+
+
+
+DISPOSITIVO,
+
+
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a ação promovida por ISAPA IMPORTAÇÃO E COMÉRCIO LTDA em face da DOTSOFT TECNOLOGIA DE SISTEMAS LTDA e MICROSOFT INFORMÁTICA LTDA, nos seguintes termos:
+
+
+A) rescindir os contratos ajustados entre as partes por culpa das rés.
+
+
+B) ratificar a tutela antecipada, para, de maneira definitiva, primeiro fazer cessar as atividades da ré DOTSOFT na prestação de serviços. Não haverá, a partir da citação, cômputo de horas trabalhadas no projeto. Segundo, fazer cessar o cômputo de tempo para a MICROSOFT cobrar pela manutenção do sistema. E terceiro, vedar o envio do nome da autora para quaisquer órgãos de proteção ao crédito ou mesmo de protesto de títulos.
+
+C) condenar as rés a restituírem, cada qual na forma do item do pedido e, portando, sem solidariedade, os valores desembolsados pela autora. A quantia será apurada por cálculo aritmético acompanhado de cada comprovante de pagamento (de maneira organizada, bastando a referência a fl. dos autos em que se encontra, não sendo o caso de juntada em duplicidade de documentos). Cada valor desembolsado será acrescido de juros de mora de 1% ao mês (capitalizados anualmente, a partir da última citação, 08.10.2012, fls. 534) e de correção monetária (calculada pelos índices adotados pelo TJSP, a partir do desembolso). 
+
+
+Considerando-se a sucumbência recíproca, cada parte arcará com metade da taxa judiciária, não havendo imposição de honorários advocatícios. 
+
+
+A base de cálculo da taxa judiciária na fase recursal: valor da causa, sem acréscimos.
+
+P.R.I.
+
+São Paulo, 25 de fevereiro de 2014.
+
+
+ALEXANDRE DAVID MALFATTI
+             Juiz de Direito
+           (assinatura digital)
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA
+CERTIDÃO ? PUBLICAÇÃO
+
+Certifico e dou fé que a sentença retro foi enviada ao D.J.E. Disponibilização em ____________________. Considera-se data da publicação o primeiro dia útil subseqüente à data acima mencionada.
+
+Custas de preparo: R$ ________________.
+Taxa de porte e remessa: R$ _____________.
+
+Eu, __________, Escrev., subscr.

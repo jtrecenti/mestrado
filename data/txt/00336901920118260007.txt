@@ -1,0 +1,47 @@
+
+
+SENTENÇA
+
+Processo nº:0033690-19.2011.8.26.0007 - Procedimento Sumário
+
+
+Juiz de Direito: Dr. Carlos Alexandre Böttcher
+
+
+Vistos.
+BRITO SISTEMAS DE SEGURANÇA E MONITORAMENTO LTDA  ME ajuizou ação de indenização por danos morais e materiais, pelo rito ordinário, em face de ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S/A, alegando, em síntese, que, em 19/01/2011, ocorreu apagão. Após o retorno do fornecimento de energia, constatou que alguns equipamentos utilizados em sua atividade comercial não funcionaram, advindo danos morais e materiais. Requereu a procedência do pedido para condenação no pagamento de indenização. Com a petição inicial, vieram documentos (fls. 14/68).
+A ré foi citada (fls. 81) e apresentou contestação (fls. 82/107), alegando, em síntese, que não constatou nexo causal entre a falha na rede de energia elétrica e os alegados danos nos equipamentos, cuja indenização foi negada. Impugnou os pedidos de danos materiais e morais. Requereu a improcedência. Com a contestação, vieram documentos (fls. 108/125).
+A autora apresentou réplica (fls. 133/139).
+Instadas as partes a especificarem provas (fls. 141), a ré requereu julgamento antecipado (fls. 143), ao passo que a autora não se manifestou (fls. 144).
+É o relatório.
+Fundamento e Decido.
+Julgo antecipadamente o feito, nos termos do artigo 330, inciso I, do CPC, uma vez que as matérias alegadas prescindem da produção de outras provas, conforme requerido pelas partes expressa e tacitamente (fls. 143 e 144). 
+O pedido é parcialmente procedente.
+A autora pleiteia indenização por danos materiais e morais em razão de blecaute, que danificou parte de seus equipamentos.
+A ré insurgiu-se contra a pretensão indenizatória, alegando inexistência de nexo causal. De fato, a ela assiste parcial razão.
+No tocante aos danos materiais, a ré alegou que não houve danos aos equipamentos decorrentes da falha na rede elétrica. Contudo, no laudo apresentado (fls. 108/125), tem-se que a negativa no pagamento de indenização ocorreu em virtude de não disponibilização das fontes referentes às 14 câmeras SFTV 110V (fls. 124). Ora, a ré sequer alegou que solicitou formalmente à autora a disponibilização de tais fontes para análise do pedido de indenização administrativa e, instada a especificar provas, não requereu prova pericial (fls. 143). O orçamento de fls. 28, por sua vez, não foi impugnado pela ré, de modo que o valor apurado é acolhido.
+Em relação à receptora de monitor e ao monitor LCD 110V, contudo, apurou-se inexistência de defeito na fonte de alimentação (fls. 124), não tendo a autora comprovado que eventuais defeitos em tais equipamentos tenham sido causados pelo blecaute, embora a ela incumbisse tal ônus, nos termos do artigo 333, inciso I, do CPC.
+Destarte, fazem-se presente os danos materiais somente no tocante às 14 câmeras, no valor apurado de R$ 3.710,00 (fls. 28).
+Para reconhecimento do dever de indenizar, portanto, mister se faz a análise do dano e do nexo causal, ante a presunção da culpa.
+No entanto, a autora não logrou demonstrar a efetiva ocorrência de danos morais. 
+Em primeiro lugar, a autora sequer trouxe qualquer documento, dando conta de ter sofrido prejuízo decorrente dos danos nos equipamentos, mesmo porque sequer pleiteou lucros cessantes.
+Em segundo lugar, tampouco produziu qualquer prova dos danos (fls. 144), embora a ela incumbisse o ônus.
+Ora, os elementos trazidos aos autos não comprovam a ocorrência de danos à imagem da autora, que tenham prejudicado suas atividades comerciais habituais.
+Neste contexto, tem-se que os danos morais não foram demonstrados. 
+Em suma, a autora não comprovou a ocorrência dos alegados danos, embora a ela incumbisse o ônus, nos termos do artigo 333, inciso I, do Código de Processo Civil. O ônus da prova incumbe ei qui dicit. Cabia à autora, nos termos do inciso I, do artigo mencionado, comprovar o fato constitutivo de seu direito, nada tendo demonstrado. 
+A distribuição do ônus da prova repousa principalmente na premissa de que, visando à vitória da causa, cabe à parte desenvolver perante o juiz e ao longo do procedimento uma atividade capaz de criar em seu espírito a convicção de julgar favoravelmente. O juiz deve julgar 'secundum allegata et probata partium' e não 'secundum propriam suam conscientiam' - e daí o encargo, que as partes têm no processo, não só de alegar, como também de provar (encargo = ônus).
+O ônus da prova consiste na necessidade de provar, em que se encontra cada uma das partes, para possivelmente vencer a causa (A.C. A. Cintra; A.P.Grinover; C.R. Dinamarco, Teoria Geral do Processo, 9ª ed., São Paulo, Malheiros, 1993, p. 297).
+Outrossim, a ocorrência de danos em equipamentos em razão de queda de energia elétrica constitui mero dissabor da vida quotidiana, a que todos estamos sujeitos e que não enseja reparação por danos morais. Com efeito, há necessidade de que o suposto lesado tenha efetivamente sofrido alguma espécie de constrangimento, humilhação ou ofensa, que repercutam na sua esfera jurídica, o que não se verificou in casu, em que sequer houve prejuízos diversos dos materiais comprovados pela autora. 
+Em suma, não é razoável inferir-se a ocorrência de dano justificador de indenização por incidente desta natureza sem grandes repercussões à atividade comercial da autora.
+Em que pese a inovação da Constituição Federal de 1988, ao admitir a reparação do dano moral puro, hodiernamente, tem-se tentado banalizar o ressarcimento dos danos morais, criando-se verdadeira indústria de indenizações, o que deve ser bem sopesado pela jurisprudência pátria a fim de evitar-se a repetição de fenômenos freqüentes no direito alienígena, mas estranhos ao nosso. 
+Por derradeiro, conveniente transcrever a preleção de ilustre jurista português:
+Trata-se aqui de prejuízos insignificantes ou de diminuto significado, cuja compensação pecuniária não se justifica, que todos devem suportar num contexto de adequação social, cuja ressarcibilidade estimularia uma exagerada mania de processar e que, em parte, são pressupostos pela cada vez mais intensa e interactiva vida social hodierna. Assim, não são indenizáveis os diminutos incômodos, desgostos e contrariedades, embora emergentes de actos ilícitos, imputáveis a outrem e culposos. (R. V.A. Capelo de Sousa, O Direito Geral de Personalidade, Coimbra Editora, 1995, pp. 555-556). 
+É de rigor, portanto, o acolhimento parcial da pretensão. 
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE o pedido da presente ação de indenização por danos morais e materiais, pelo rito ordinário, proposta por BRITO SISTEMAS DE SEGURANÇA E MONITORAMENTE LTDA ? ME em face de ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S/A, condenando a ré a pagar à autora o valor de R$ 3.710,00 (três mil, setecentos e dez reais), a título de indenização por danos materiais, com atualização monetária a partir do ajuizamento da ação e juros moratórios de um cento ao mês a partir da citação (09/12/2011 ? fls. 81). 
+Em razão da sucumbência recíproca, cada parte arcará com o pagamento das respectivas custas judiciais e despesas processuais despendidas e com honorários advocatícios dos respectivos patronos. 
+P.R.I.
+São Paulo, 6 de julho de 2012.
+
+
+CARLOS ALEXANDRE BÖTTCHER
+                       Juiz   de  Direito

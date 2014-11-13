@@ -1,0 +1,61 @@
+
+
+SENTENÇA
+
+CONCLUSÃO
+
+Em 24 de janeiro de 2013 faço estes autos conclusos ao(à) Juiz(a) de Direito Dr(a) Cláudia Thome Toni.  Eu, escrev, subscrevi.
+
+Processo nº:0112085-52.2007.8.26.0011
+Requerente:Sônia Marney Silveira Martins
+Requerido:Telecomunicações de São Paulo Sa Telesp
+
+Juiz(a) de Direito: Dr(a). Cláudia Thome Toni
+
+Vistos.
+Dispensado o relatório, na forma do art. 38 da lei 9099/95.
+DECIDO.
+Aplica-se na hipótese o CDC, pois autora e ré se enquadram respectivamente nas hipóteses dos artigos 2o e 3o do referido diploma legal. Por consequência, há de se observar a inversão do ônus da prova.
+Trata-se de ação em que se questiona a cobrança de serviços não reconhecidos pela consumidora, em razão da clonagem da linha no. 11 3021-1534, da qual ela foi titular até setembro de 2006, segundo consta da inicial.
+Acolhido em parte o pleito da ré aduzido em recurso, a sentença prolatada nos autos foi anulada pela 2a Turma do Egrégio Colégio Recursal da Lapa (fls. 129/133), pois se concluiu pela necessidade de realização de perícia técnica (fl. 136).
+Houve interposição de recurso de agravo para a revisão da citada decisão que determinou a realização de perícia (fls. 143/152), sob o fundamento de que o processo deveria ser extinto desde logo em razão da inadmissibilidade da referida prova. Porém, quando do julgamento do respectivo recurso, determinou-se que, em razão das particularidades dos procedimentos do Juizado, a perícia complexa fosse convolada em perícia informal, a fim de que se apurasse a citada clonagem (fls. 169/172).
+Conforme a referida determinação do Colégio Recursal, nomeou-se, para a realização de perícia, o expert Patrick Joseph Wahba (fls. 178).
+Em seu laudo, o expert ponderou que a requerida reconheceu a clonagem da linha extrajudicialmente, pois emitiu dois boletos para o pagamento da mesma fatura, com valores retificados. Porém, acrescentou o Perito que, embora a ré tivesse efetuado a revisão dos valores das contas impugnadas, ela reiterou as cobranças posteriormente, ao que parece sem justificativas. 
+O expert ainda relatou que a perícia complexa neste caso poderia ser realizada desde que se pudesse analisar os logs de chamada telefônicas, providência esta que está prejudicada, pois, segundo os seus relatos, a ré teria apagado as gravações telefônicas mantidas com a autora.
+Na realidade, em que pese o entendimento do MM Juiz prolator da r. Sentença nestes autos (fls. 88/91), verifico que, como foi ponderado no v.Acórdão de fls. 130/133, a ré deveria ter apresentado em juízo perícia realizada extrajudicialmente para demonstrar a legalidade da cobrança.
+Contudo, ela não o fez, por isso, em razão da inversão do ônus, razoável que fosse apreciado o mérito da demanda na oportunidade, com o acolhimento do pleito aduzido pela autora.
+De qualquer forma, em cumprimento à determinação do v. Acórdão de fls. 168/172, realizou-se a análise do conjunto probatório por expert que, embora tenha apontado dificuldades quanto à realização da perícia informal, sugeriu no laudo de fls. 189/191 que houve confirmação pela ré da ocorrência de fraude em seu sistema, o que nos parece confirmar que há elementos probatórios suficientes neste feito para que o mérito seja enfrentado.
+Na verdade, como já dito, em razão da inversão do ônus da prova, cabia à recorrente demonstrar nos autos a legalidade e origem das cobranças das ligações impugnadas pela autora. Porém, isso não se evidenciou neste feito. 
+No mais, como também já ressaltado, não há mais a possibilidade de realização de perícia técnica neste caso, pois a ré deixou de preservar os elementos de prova necessários para tanto, o que significa que, se extinto o feito, não será mais possível o deslinde da questão perante a Justiça Comum.
+Feitas tais ponderações, passo a analisar o mérito.
+Verifico que, em contestação, a ré se limitou a defender a regularidade da cobrança, ressaltando que, sempre que solicitado pela autora, fez as devidas deduções dos valores contestados.
+Este argumento já nos demonstra que a ré reconheceu o seu erro e constatou que não havia lastro para cobrança de certos importes. 
+Na verdade, se ao contrário fosse, a ré jamais agiria dessa forma, mantendo as cobranças em seus valores integrais.
+Denoto ainda que, consta da inicial, que a ré detectou a clonagem da linha 11 3021-1534 e sugeriu que a autora a substituísse pela linha 11 3021-6348. 
+Este fato não foi contrariado pela ré em defesa, o que o torna incontroverso. Portanto, parece razoável concluir que a clonagem estava tão evidente que a melhor solução encontrada pela ré foi a substituição da linha, a fim de evitar que novas ligações indevidas fossem imputadas a ela. 
+Por este motivo, não há razões que justifiquem a reiteração das cobranças posteriormente.
+Observo ainda que a ré nada cita a respeito da titularidade da linha 11 3021-1534 e apenas alega que foi de titularidade da autora a linha 11 3021-6348 até junho de 2007, ocasião em que ela foi retirada da Rua Alberto Seabra, 277 (fl. 76), ante a falta de pagamento das faturas.
+A omissão da ré a respeito de tal fato certamente tem por fim descaracterizar a afirmação da autora quanto à substituição da linha, que somente ocorreu em virtude da fraude que nada mais é do que a prestação ineficiente e insegura do serviço prestado.
+Acrescento que a ré não demonstrou em juízo quem era a titular da linha substituída (11 3021-1534), o que era essencial neste caso para corroborar sua versão quanto à legalidade da dívida ou ao menos que 
+Ademais, pelo que consta da inicial, mesmo tendo cancelado a linha 11 3021-1534, a ré passou a cobrar os débitos a ela referentes nas faturas do novo telefone no. 11 3021-6348,  o que também não foi esclarecido pela ré nos autos, já que ela se limitou a ofertar defesa genérica, sem esclarecer exatamente a origem da dívida.
+Pondero que nas faturas juntadas aos autos (fls. 11/31) pode-se ver a repetição de inúmeras ligações para o mesmo número (Araçatuba, Franca, Ubatuba), em intervalos de pouquíssimos segundos ou minutos, dado este muito característico das fraudes cometidas pelo sistema de telefonia e que se repetem em inúmeros processos em curso perante o Juizado. 
+Na verdade, hei de concluir que a ré não disponibiliza métodos seguros para garantir a prestação de serviços que disponibilizar ao consumidor, por isso não é possível reconhecê-la como vítima do evento. 
+Tal fato nos demonstra que o sistema oferecido pela ré no mercado, além de inseguro com já dito, é ineficaz e não traz as qualidades divulgadas por ela quando o disponibiliza a toda sociedade. 
+Vale lembrar que nos termos do art. 14, §3º do CDC, cabia ao fornecedor demonstrar em juízo as excludentes de responsabilidade neste caso. 
+Há de se ressaltar que a responsabilidade da ré é objetiva e que se origina da própria atividade que exerce no mercado, até porque ela atinge um número indeterminado de consumidores, o que facilita a ocorrência de fraudes. 
+Isto significa que, se há estelionatários, a ré deve se preparar para impedir a sua atuação, confirmando por exemplo, a razoabilidade do pleito de seus clientes ou verificando a origem das ligações impugnadas, o que não ocorreu neste caso, pois a ré não nos demonstra tal providência. 
+Vejo ainda que a ré não comprova que a autora costumava realizar ligações para os números em tela, já que deixou de juntar aos autos antigas faturas que assim nos demonstrasse. Este fato corrobora as conclusões acima expostas.
+Assim, por todo o exposto, se a ré se omite em relação às providências cabíveis para evitar fraudes nas operações que realiza, revela-nos a falha do seu sistema e permite a indenização dela decorrente (art. 14 do CDC). 
+Além disso, em razão de a ré não ter demonstrado a origem das cobranças, embora tivesse revisto os valores reclamados em algumas ocasiões, serão declaradas quitadas as faturas revistas pela ré e pagas pela autora, ou seja, aquelas vencidas em dezembro de 2006 e janeiro de 2007, e declarados inexigíveis os demais valores cobrados nas faturas subsequentes, já que a prestação de serviço respectiva não foi comprovada nos autos.
+Nestes termos, em razão das insistentes cobranças e da omissão da ré quanto ao atendimento adequado de sua cliente, o que revela o descumprimento da Resolução 426/2005, julgo adequado que a indenização por danos morais seja reconhecida e arbitrada nos mesmos termos da sentença antes prolatada, ou seja, no importe de 10 salários mínimos em vigor na oportunidade, o que totaliza, R$3.800,00.
+Reputo também devida a multa astreinte, pois a ré, embora devidamente intimada (fls. 47), descumpriu a ordem judicial respectiva em três oportunidades (fls. 67-A e 71), e ainda realizou apontamento desabonador em desfavor da autora (fl. 68).Portanto, o valor da citada multa totaliza R$9.000,00, o que há de ser paga pela ré.
+Por estas razões, JULGO PROCEDENTE esta ação e determino que a ré proceda ao cancelamento definitivo da linha 11 3021-6348, em 15 dias a contar do trânsito em julgado, sem impor qualquer ônus à autora. Em razão de a autora ter comprovado os pagamentos realizados, declaro quitadas a fatura referente ao mês de novembro de 2006 (fls. 20), vencida em dezembro de 2006, no valor de R$172,29, e a fatura referente ao mês de dezembro de 2006, vencida em janeiro de 2007 (fls. 21), no valor de R$381,79, reconhecendo, portanto, a inexigibilidade dos valores que excederam os importes citados. Declaro ainda inexigível a fatura vencida em junho de 2007, que consigna a cobrança de importes referentes ao mês de março de 2007, ou seja, os valores de R$1.248,18 e de R$592,53, impondo a ré a abstenção de cobrança de todos os importes antes citados, sob pena de multa que fixo no dobro de cada importe cobrado indevidamente. 
+Condeno ainda a ré a pagar a autora a quantia de R$9.000,00, a título de multa astreinte, que deverá ser corrigido monetariamente desde o ajuizamento da ação conforme Tabela Prática do TJSP e acrescido de juros de mora de 1% ao mês desde a citação, na forma dos artigos 405 e 406 do Código Civil de 2002, bem como do artigo 219 do Código de Processo Civil, e condeno a ré no pagamento de indenização por danos morais, R$3.800,00, que deverá ser corrigido monetariamente desde a prolação da sentença conforme Tabela Prática do TJSP e acrescido de juros de mora de 1% ao mês desde a citação, na forma dos artigos 405 e 406 do Código Civil de 2002, bem como do artigo 219 do Código de Processo Civil.
+Sem custas ou honorários advocatícios, na forma do art. 55 da lei 9099/95.
+Defiro o levantamento do valor dos honorários provisórios pela ré (fls. 177), em razão das ponderações do perito em sua manifestação de fls. 189/191.
+O devedor, se nesta sentença foi condenado a pagar, fica advertido, na forma do art. 52, inc. III, da lei 9.099/95, de que deverá cumprir a sentença e efetuar o pagamento no prazo de 15 dias após o trânsito em julgado da sentença (ou seja, quando não puder mais recorrer), sob pena de pagar a multa de 10% do art. 475-J do Código de Processo Civil.  Caso o devedor tenha sido condenado a fazer ou deixar de fazer algo, poderá pagar a multa diária fixada se não cumprir imediatamente a obrigação após o trânsito em julgado.
+As partes poderão interpor recurso inominado contra esta sentença, no prazo de 10 (dez) dias, por meio de advogado, mediante o pagamento do preparo recursal, na forma do art. 42 da Lei Federal 9.099/95 e do art. 4º. da Lei Estadual nº 11.608/2003.  O preparo recursal corresponde ao valor de R$266,00 (art. 4º, inc. I a III, lei estadual nº 11.608/03) e o porte de remessa e retorno corresponde ao valor de R$ 25,00*.
+P.R.I.C.
+São Paulo, 24 de janeiro de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

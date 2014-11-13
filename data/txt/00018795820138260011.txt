@@ -1,0 +1,91 @@
+
+
+CONCLUSÃO
+Em 23 de maio de 2013, faço estes autos conclusos à MMª Juíza de Direito da 2ª Vara Civel do Foro Regional de Pinheiros, Dra. ANDREA FERRAZ MUSA. 
+Eu, ______, escrevente, subscrevi.
+
+SENTENÇA 
+
+
+Processo:0001879-58.2013.8.26.0011 - Procedimento Ordinário
+
+Requerente:Instituto da Psicanálise Lacaniana - Ipla
+Requerido:Universo Online S/A
+
+
+Juiz de Direito: Dra. Andrea Ferraz Musa
+
+
+
+Vistos.
+Trata-se de ação de obrigação de fazer c.c. indenização por danos materiais e morais movida por Instituto da Psicanálise Lacaniana  IPLA em face de Universo Online S/A.
+Afirma a autora que em 4 de fevereiro de 2013 foi surpreendida com a desativação do acesso ao seu site (www.ipla.com.br), que é hospedado pela ré. Em contato com a ré, esta informou que a desativação ocorreu por suspeita de abuso de SPAM, referente ao email maritza_buckley@ipla.com.br.
+Ocorre que a autora afirma que o email não integra a conta da autora, tendo sido criado por terceiros fraudadores. Assim entende incorreta a penalização imposta.
+Outrossim, a ré sequer informou o prazo para solução do problema e restabelecimento do serviço contratado.
+Afirma que a desativação unilateral, além de abusiva, gerou grandes transtornos e prejuízo à autora. Isso porque a autora é uma instituição sem fins lucrativos, que restou com as atividades paralisadas em início de período letivo, impedindo as inscrições aos cursos programados. A inatividade do site passou a comprometer as inscrições e o cronograma anual da autora.
+Assim, ingressou com a ação para que fosse determinado o imediato restabelecimento do serviço (houve pedido de tutela antecipada nesse sentido), bem como indenização pelos prejuízos sofridos. 
+Afirma que sofreu dano moral, visto que a inatividade do site prejudicou sua imagem como instituição.
+No tocante ao dano material, afirma ter havido ?lucros cessantes e danos emergentes? que ?poderão ser ainda constatados na competente fase instrutória, especialmente quando da produção de prova testemunhas e da perícia contável, sendo que o importe atinente à indenização poderá ser perfeitamente levantada em fase de liquidação?.
+A tutela antecipada foi deferida, sendo determinado o restabelecimento do serviço.
+Regulamente citada, a ré ofertou contestação a fls. 55/70. Nesta afirma que o serviço de hospedagem foi, de fato, suspenso. Porém, entende que a suspensão é regular, visto que foi constatada pelo réu a utilização indevida do site da autora para o envio de spam, o que, além de ser prática nociva na Internet, poderia comprometer a atividade de outros sites.
+O Spam, segundo o réu, consiste no envio de mensagens eletrônicas não solicitadas, que geralmente são enviadas para um grande número de pessoas. 
+Trata-se de inconveniente que vem sendo combatido de formas diversas por empresas da área. As formas usuais de combate ao Spam são as blacklists e as políticas internas dos provedores de email para recebimento de mensagem.
+As políticas internas dos provedores de e-mails para o recebimento de mensagens são estabelecidas, segundo o réu, pelos próprios provedores, conhecidas como Postmaster. Afirma o réu que cada provedor estabelece internamente os critérios para o tráfego de mensagens dentro de sua rede, que normalmente são publicados na internet.
+Assim, a questão, segundo o réu, é tratada com seriedade. Tanto assim que o réu suspende imediatamente o serviço prestado quando constatado que este estava sendo utilizado para o envio de spam.
+Afirma o réu que no dia 4 de fevereiro de 2013, o sistema de monitoramento do réu identificou que o servidor usado para hospedagem do site da autora estava comprometido por utilização excessiva de recursos e poderia ficar indisponível.
+Foi verificado que havia um envio de mais de 5.800 mensagens, ocupando praticamente toda a memória e o processamento do servidor a partir e um endereço eletrônico vinculado ao domínio da autora.
+A mensagem em questão era enviada por ?charlote bradshaw@ipla.com.br?, e tinha como título ?Shaved chick with long hair sitripes on sofá?.
+Entende o réu que pelo título da mensagem é possível concluir que se trata de envio de mensagem não autorizada, ou seja, spam.
+A prática de envio de spam é vedada contratualmente (cláusula 4.4. do contrato firmado com a autora).
+Logo, pela violação do contrato, justificável a suspensão do serviço. Outrossim, o serviço de hospedagem foi contratado na modalidade compartilhada, o que significa que o site está abrigado em servidor que abriga outros sites. Assim, há uma vantagem de custo, mas há limitações, como lentidão em caso de muitos acessos.
+Dessa forma, o envio de muitos e-mails prejudica os demais sites abrigados pelo mesmo servidor.
+Por tal razão, os usuários que hospedam seus sites em servidores compartilhados devem obedecer a determinadas regras, sob pena de prejudicar a performance não só de seu próprio site, como também dos demais.
+Entende o réu, assim, que está justificada a suspensão do serviço, sendo que tais razões foram informadas prontamente à autora. Afirma, ainda, que a possibilidade de suspensão do serviço está prevista na cláusula 9.5 do contrato.
+Afirma, ainda, que é sua responsabilidade evitar a atuação de ?terceiros mal intencionados?.
+Assim, entende que o autor incidiu em prática vedada contratualmente, ao permitir o envio de spam por meio da infraestrutura contratada perante o réu, o que leva a improcedência da demanda.
+Subsidiariamente, afirma que não há que se falar em dano moral ou material indenizável.
+Isso porque a suspensão foi muito breve, não sendo capaz de causar qualquer prejuízo à autora. Afirma que o serviço foi suspenso às 14:17:57 do dia 4 de fevereiro de 2013 e foi restabelecido em 6 de março de 2013, as 11:38:58 (ou seja, antes mesmo da intimação da liminar).
+Impugna, ainda, a existência de lucros cessantes, visto que estes sequer foram especificados na inicial. Entende que seria necessário ao menos explicitar em que consistiriam as alegadas perdas.
+Entende, ainda, que não houve dano moral.
+Dessa forma, pede a improcedência da demanda.
+Houve réplica.
+Designada audiência para tentativa de conciliação, esta restou infrutífera.
+É o relatório.
+DECIDO.
+A presente ação deve ser julgada antecipadamente, na forma autorizada pelo art. 330, inciso I, do Código de Processo Civil, uma vez a questão é de direito e de fato e está totalmente comprovada nos autos.
+Necessário ponderar, inicialmente, que restou incontroverso que do site da autora foram enviadas, num único dia, de mais de 5.800 mensagens.
+A mensagem em questão era enviada por ?charlote_bradshaw@ipla.com.br?, e tinha como título ?Shaved chick with long hair stripes on sofá?.
+Autora e réu concordam que tais mensagens configuram spam, seja pelo conteúdo, seja porque enviada a 5.800 destinatários, seja porque a própria autora nega que o email tenha sido por ela criada e que tenha enviado efetivamente as mensagens.
+Não obstante, importa dizer que é incontroverso que houve a utilização indevida do site da autora, hospedado pela ré, para envio de spam, prática essa prejudicial a comunicação, àqueles que recebem esse tipo de mensagem e, como explicado pelo réu em sua contestação, para o próprio site da autora e demais sites que compartilham seu servidor.
+Também é incontroverso que em razão do spam detectado pelo réu, de origem no site da autora, o serviço foi suspenso e o site da autora ficou fora do ar do dia 4 de fevereiro de 2013 até o dia 6 de março de 2013. O restabelecimento ocorreu antes da intimação da tutela antecipada deferida nos autos.
+Resta saber, assim, da legalidade da conduta do réu em suspender o serviço de hospedagem do site da autora.
+Necessário frisar que entre as partes não há relação de consumo. A autora não é destinatária final do serviço contratado. Na verdade, o serviço contratado se insere na cadeia de produção dos serviços comercializados pela autora. Ainda que a autora não tenha fins lucrativos, ela presta serviços educacionais, ministrando cursos, e usa o site hospedado pelo réu para divulgar os seus serviços.
+Dessa forma, ausente a relação de consumo, deve prevalecer o pacta sund servanda, ou seja, as normas contratuais firmadas entre as partes se fazem lei.
+A cláusula 4.4. do contrato firmado entre as partes veda o uso da hospedagem, manutenção de domínio ou qualquer outro produto para envio de mensagens coletivas de email, os chamados spam.
+A vedação legal tem fundamento justificável. Ora, além da prática de spam ser prejudicial a comunidade existente na internet (visto que os usuários de email não são obrigados a receber mensagens de quem não tem contato, ou ainda, com conteúdo que os desagradem), também é prejudicial aos sites que compartilham hospedagem com o site da autora.
+O réu esclareceu em sua contestação que a autora optou por um sistema de hospedagem compartilhada, já que seu site não exigia grande movimentação e a opção garantiria custos reduzidos.
+Logo, é evidente que se tal opção tem vantagens (custo reduzido), também tem desvantagens (possibilidade de uso reduzida e velocidade inferior ? o que não prejudicaria nenhum dos sites que compartilham a hospedagem, a menos que houvesse o uso indevido das ferramentas disponibilizadas).
+O spam, por sua vez, representa um uso inadequado das ferramentas, que prejudicam não só a autora, mas aqueles que recebem a mensagem indesejada, bem como os demais sites que compartilham o provedor.
+Portanto, tal fato justifica não só a proibição contratual do spam como também a sanção contratualmente prevista para a hipótese de ser detectado o spam.
+Diz o contrato firmado entre as partes em sua cláusula 9.5, que na hipótese de prática que gere prejuízo ao regular funcionamento do servidor, como o envio de spam, o site será suspenso imediatamente independente de notificação. A ausência de notificação se justifica pela necessidade de resposta rápida ao ocorrido.
+Outrossim, ainda que não tenha havido notificação prévia, a autora foi rapidamente informada sobre os motivos da suspensão, como se depreende dos documentos que instruem a inicial.
+Nem se diga que o réu deveria notificar previamente e apurar se o autor do spam foi efetivamente a requerente. Na verdade, a providência imediata, pelas razões já expostas, se faz necessária, devendo o réu informar seu cliente do ocorrido, justificadamente, como fez no caso em tela.
+Entendo que se apurada a responsabilidade da autora pelo spam, o contrato poderia até mesmo ser rescindido pelo réu. Porém, o fato da autora alegar que não foi responsável pelo spam não torna ilegal a conduta do réu, que agiu nos termos do contrato e em defesa de interesse de terceiros.
+Outrossim, observa-se que o restabelecimento do serviço ocorreu antes mesmo do cumprimento da tutela antecipada, o que indica a boa fé do réu e o seu regular procedimento.
+Logo, resta evidente que o réu agiu em conformidade com o contrato, não praticando ato ilícito.
+Dessa forma, a improcedência é de rigor.
+Ante ao exposto, JULGO IMPROCEDENTE a presente ação, e julgo extinto o feito com fulcro no art. 269, inciso I, do Código de Processo Civil, revogando a tutela antecipada deferida nos autos. Em face da sucumbência do autor, condeno-o ao pagamento de custas e despesas processuais que arbitro em 20% do valor da causa. 
+P.R.I.
+
+  
+São Paulo,23 de maio de 2013.
+
+
+
+
+
+
+   D  A  T  A
+Em 23 de maio de 2013
+recebi estes autos em Cartório.
+Eu,______________, Escr., subsc.

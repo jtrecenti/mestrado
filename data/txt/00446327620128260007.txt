@@ -1,0 +1,84 @@
+
+
+CONCLUSÃO
+
+Em 24/02/2014, faço estes autos conclusos ao MM. Juiz de Direito da 4ª Vara Cível do Foro Regional de Itaquera, Dr. JURANDIR DE ABREU JÚNIOR. Eu,________ , Escr., subscrevi.
+
+SENTENÇA
+
+Processo nº:0044632-76.2012.8.26.0007 - Procedimento Ordinário
+Requerente:Bianca dos Santos Colodro
+Requerido:Banco Itau Leasing S.A.
+
+Justiça Gratuita
+
+
+Vistos etc.
+Trata-se de ação proposta por BIANCA DOS SANTOS COLODRO em face de BANCO ITAÚ LEASING S/A. Alega que celebrou contrato de arrendamento mercantil com o réu, no dia 03.02.2008, para aquisição de um automóvel, com pagamento em setenta e duas parcelas. Por disposição contratual constava que as prestações relativas ao VRG (valor residual garantido) seriam diluídas nas parcelas. Como o VRG é relativo a uma opção de compra após o término do contrato e como a avença não foi integralmente cumprida, pede a restituição do VRG, pago antecipadamente, no valor de R$ 16.159,69.
+O réu foi citado e apresentou contestação (fls. 69/88). Disse que a antecipação do VRG não desconstitui o contrato de arrendamento mercantil, nos termos da Súmula nº 263 do STJ. Ademais, a verba relativa ao VRG não se confunde com aquela relativa à opção de compra, devida ao final do contrato. Por fim, ficou expressamente convencionada em contrato a antecipação, de forma que não há qualquer restituição a ser feita. Pede a improcedência do pedido.
+Réplica a fls. 96/101.
+Encerrada a instrução processual, as partes se manifestaram em alegações finais, através de memoriais, reiterando, em síntese, seus posicionamentos constantes nos autos (fls. 108/111 e 112/114).
+É o relatório.
+DECIDO.
+O pedido da autora é procedente.
+Ao discorrer sobre o contrato de leasing, Arnaldo Rizzardo, citando ArnoldoWald, ensina: 
+?Embora se configure a locação quando não exercida a opção de compra no contrato em seu desenvolvimento normal, aparecem várias diferenças, destacadas por Arnoldo Wald: 'A locação é um contrato em que uma das partes se obriga a ceder à outra o uso e gozo temporário de coisa fungível, mediante retribuição. Findo o prazo, salvo acordo ou leis especiais, a coisa deve ser devolvida, ficando extinto o contrato. No leasing há uma tríplice opção para o usuário: a) renovar a locação; b) adquirir o material; c) restituí-lo'. (Leasing ? Arrendamento Mercantil no Direito Brasileiro, 4ª edição, 2000, Editora RT, p.59 ? os grifos são nossos)
+
+O valor residual garantido (ou valor residual em garantia, como preferem alguns autores, talvez com mais propriedade), comumente visto sob a sigla VRG, é a parcela destinada à opção de compra do bem ao final do contrato. É certo que as entidades arrendadoras sustentam que o VRG não se confunde com a parcela destinada à ?opção de compra?, mas seu argumento é falho, pois nos contratos de leasing não há outras parcelas além daquelas relativas ao arrendamento e ao VRG. E se não há nenhuma outra verba prevista em contrato, não há que se falar que o VRG não é a parcela destinada à opção de compra.
+É importante que se diga que o raciocínio acima exposto não conflita com o teor da Súmula nº 293 do STJ, pois esta última simplesmente diz que a antecipação do VRG não desnatura o contrato de leasing, mas tal verba continua sendo da essência do contrato.
+Assim, se o VRG, que seria a parcela do contrato relativa à opção de compra, foi cobrado antecipadamente, diluído junto com as parcelas relativas ao arrendamento em si, é direito do arrendatário obter sua devolução no caso de resolução do contrato, pois a opção de compra não mais pode ser por ele exercida. A matéria está praticamente pacificada no TJSP, valendo a transcrição dos seguintes julgados: 
+?Arrendamento mercantil ? Leasing ? Valor residual garantido ? Devolução ? Pagamento antecipado ? Opção de compra não exercida ? Admisibilidade.
+O VRG cobrado antecipadamente permanece em depósito da parte arrendante, cabendo-lhe efetuar a respectiva restituição ao arrendatário, caso não efetivada a compra e venda.? (Ap. c/revisão 689.441-00/9 ? 7ª Câm. ? rel. Juiz Antonio Rigolin ? j. em 30.11.2004)
+
+?Arrendamento mercantil ? Bens móveis ? Reintegração de posse ? Desfeito o arrendamento, nada justifica a manutenção, com a arrendante, do valor residual garantido e pago por antecipação, sob pena de manifesto enriquecimento ilícito ? Apelo não provido.? (Ap. nº 9081515-26.2008.8.26.0000, rel. Des. Sílvia Rocha, j. em 08.08.2012, v.u.)
+
+?Arrendamento mercantil ? Resolução contratual ? Comissão de permanência cumulada com demais encargos moratórios ? Inadmissível ? Devolução do valor residual garantido pago antecipadamente ? Necessidade.? (Ap. com revisão nº 9079119-47.2006.8.26.0000, rel. Des. Jayme Queiroz Lopes, j. em 09.08.2012, v.u.)
+
+?Arrendamento mercantil de bem móvel ? Ação de reintegração de posse ? restituição de valores pagos antecipadamente a titulo de VRG ? Admissibilidade, diante do não exercício da opção de compra da coisa ? Recurso improvido ? Sentença mantida? (Ap. c/rev. nº 0604809-85.2008.8.26.0007, rel. Des. Carlos Nunes, j. em 06.08.2012, v.u.)
+
+E o Superior Tribunal de Justiça, a quem cabe, constitucionalmente, o dever de uniformizar o entendimento das leis ordinárias do país, também já pacificou seu entendimento a respeito da matéria. Neste sentido, vejam-se os seguintes julgados:
+
+?Arrendamento mercantil ? Reintegração de posse ? Caráter dúplice ? Contestação ? Peça essencial ? Ausência ? Resolução do contrato ? VRG ? Devolução ou compensação ? Possibilidade ? Precedentes ? Improvimento (...) Com a resolução do contrato e a reintegração do bem na posse da arrendadora, possível a devolução dos valores pagos a título de VRG à arrendatária ou sua compensação com o débito remanescente. Precedentes.? (STJ ? 4ª Turma ? AgRg no Ag nº 1236127/SC ? Rel. Min. Aldir Passarinho Júnior ? j. em 16.11.2010)
+
+?Contrato de arrendamento mercantil ? Restituição de valores pagos antecipadamente a título de VRG ? Admissibilidade ? Decisão hostilizada de acordo com a jurisprudência do STJ ? Recurso improvido.? (STJ ? 3ª Turma ? AgRg no Ag nº 993002/RS ? Rel. Min. Massami Uyeda ? j. em 02.09.2008)
+
+?Agravo no recurso especial ? Ação de restituição de valores de contrato de arrendamento mercantil ? Devolução do VRG. É possível a devolução do VRG, pago antecipadamente, após a resolução do contrato de arrendamento mercantil e desde que restituído o bem na posse da arrendante. Precedentes. Agravo não provido.? (AgRg no REsp nº 1312056/SP, Rel. Ministra Nancy Andrighi, 3ª Turma, j. em 21.06.2012)
+
+Há de ser anotado, todavia, que a jurisprudência também é pacífica no sentido de que do VRG a ser restituído pode o arrendante fazer a compensação com eventual débito do arrendatário. Neste sentido, vejam-se os seguintes julgados:
+?Apelação Cível ? Ação revisional contrato de leasing c.c. pedido de restituição do valor residual garantido ? Juros remuneratórios ? Capitalização ? Abusividade ? Inocorrência ? Leasing ? Contrato singular e complexo ? Simbiose de locação, do financiamento e da venda ? Valor Residual Garantido (VRG) ? Possibilidade de sua devolução ao arrendatário após compensação com eventual débito remanescente ? Recurso parcialmente provido.? (TJSP - Apelação nº 0001278-87.2010.8.26.0292 ? rel. Des. Antonio Nascimento, j. em 25.07.2012)
+
+?Arrendamento mercantil ? Reintegração de posse ? Decretada a resolução do contrato de arrendamento mercantil e a compensação de valores devidos de parte a parte ? Recurso não provido, com observação.? (TJSP ? Ap. c/rev. nº 0016197-52.2011.8.26.0161 ? rel. Des. Rosa Maria de Andrade Nery, j. em 30.07.2012, v.u.) 
+
+?Civil e processual ? Recurso Especial ? Agravo ? Arrendamento mercantil ? Resolução do contrato ? VRG ? Devolução ou compensação ? Possibilidade ? Precedentes ? Improvimento? (AgRg no REsp 601.175/SP, Rel. Min. Aldir Passarinho Júnior, 4ª Turma, j. em 29.06.2006)
+
+?Arrendamento mercantil ? Reintegração de posse ? Caráter dúplice ? Contestação ? Peça essencial ? Ausência ? Resolução do contrato ? VRG ? Devolução ou compensação ? Possibilidade ? Precedentes ? Improvimento.
+(...) Com a resolução do contrato e a reintegração do bem na posse da arrendadora, possível a devolução dos valores pagos a título de VRG à arrendatária ou sua compensação com o débito remanescente. Precedentes.? (STJ ? 4ª Turma ? AgRg no Ag 1236127/SC ? Rel. Min. Aldir Passarinho Júnior ? j. em 16.11.2010)
+
+Assim, certa a obrigação de restituir o VRG, é necessário que se analise, desde já, a fim de evitar problemas quando da fase de cumprimento da sentença, qual é o ?débito remanescente? que o arrendante pode compensar com o valor do VRG a ser restituído. 
+O entendimento a ser adotado é o de que o ?débito remanescente? é aquele relativo às parcelas do arrendamento que o arrendatário ficou devendo, desde a inadimplência até a data da reintegração de posse em favor do arrendante, com os encargos moratórios do período. Assim, desnecessário que se aguarde a venda do bem para que a devolução ocorra. Neste sentido, aliás, a jurisprudência também já se manifestou, verbis:
+?ARRENDAMENTO MERCANTIL - Repetição indébito ? Inadimplemento - Bem reintegrado à posse da arrendante - Contrato rescindido - Valor residual garantido ? Devolução - Possibilidade - Aplicabilidade do Código de Defesa do Consumidor - Devolução que dependerá da existência de crédito em favor do arrendatário, pois autorizada a compensação - Todavia, apuração de saldo não condicionada à alienação do veículo - TAC (Tarifa de Abertura de crédito) - Previsão contratual - Abusividade verificada - Cobrança de valor superior ao da parcela periódica acrescida da antecipação do valor residual garantido ? Excesso - Restituição em dobro indevida - Inaplicabilidade do artigo 42 do Código de Defesa do Consumidor - Apelação parcialmente provida.? (TJSP ? Apelação nº 0022976-85.2011.8.26.0011, Rel. Des. Sá Moreira de Oliveira, j. em 06.08.2012)
+
+?Recurso Especial ? Processual Civil e Civil ? Contrato ? Arrendamento mercantil ? Valor residual garantido pago antecipadamente ? Restituição ? Possibilidade após a reintegração da posse do bem.
+1. Após a resolução do contrato de arrendamento mercantil e da reintegração do bem à posse do arrendante, é possível a devolução dos valores pagos a título de Valor Residual Garantido.
+2. Concreção do princípio da proibição do enriquecimento sem causa.
+3. Precedentes jurisprudenciais específicos da Terceira e da Quarta Turma desta Corte.
+4. Recurso Especial provido.? (REsp nº 954.053-SP, rel. Min. Paulo de Tarso Sanseverino, j. em 06.06.2011)
+
+Do corpo deste último acórdão hão de ser extraídos os seguintes pontos mencionados pelo Ministro relator, que não deixam dúvida no sentido de que a interpretação esposada por esta sentença é aquela agasalhada pelo Superior Tribunal de Justiça. Diz ele:
+?Recebido e processado o feito, o Juízo de primeiro grau, conquanto reconhecendo que 'a resolução do contrato de arrendamento mercantil por inadimplemento do arrendatário, com a conseqüente restituição do bem arrendado ao arrendante, autoriza o pedido de restituição do valor residual garantido antecipado' julgou a ação improcedente, porque 'somente cabe devolução de quantia ao arrendatário se, após a venda da coisa, houver saldo suficiente'.
+Irresignado, o autor manejou recurso de apelação que foi desprovido pelo Tribunal de Justiça do Estado de São Paulo, em acórdão assim ementado: 
+'Arrendamento mercantil ? Ação de restituição de valores ? Devolução do VRG ? Possibilidade somente após compensação de eventual débito do arrendatário ? Apelo improvido.'
+Inconformado, José Ronaldo da Silva maneja o presente recurso especial. (...) O recurso especial merece acolhida.
+Com efeito, o tribunal de origem negou provimento à pretensão de restituição da quantia paga antecipadamente a título de Valor Residual Garantido (VRG) sob o argumento de que 'ela, juntamente com a perda das contraprestações, corresponde à penalidade pelo inadimplemento confessado nos autos, a título de perdas e danos'. 
+Ao decidir dessa forma o acórdão recorrido destoa do entendimento uníssono preconizado por ambas as turmas que compõem a Segunda Seção desta Corte, no sentido de que, resolvido o contrato de arrendamento mercantil, com a reintegração do bem ao arrendante, é possível a devolução dos valores pagos a título de VRG. Destarte, resta caracterizada a divergência jurisprudencial, uma vez que o acórdão impugnado consigna que somente cabe a restituição do VRG se, após a restituição e venda do bem, houver saldo suficiente, enquanto o paradigma colacionado, assim como os precedentes acima arrolados, apenas condicionam a restituição do VRG à prévia devolução do bem.? (grifo nosso)
+
+As parcelas mensais se dividem em duas partes: à do arrendamento em si e a da antecipação do VRG. Embora pareça desnecessário dizer ? em razão do próprio objeto desta ação ? convém deixar esclarecido que a compensação deferida por esta sentença diz respeito somente à parte da parcela mensal relativa ao arrendamento, sem a inclusão do VRG. 
+Em síntese, quando do cumprimento da sentença, deverá o réu restituir à autora o valor integral de todo o VRG pago antecipadamente, podendo abater de tal valor as parcelas vencidas (parte relativa ao arrendamento, como constei no parágrafo anterior) desde a inadimplência até a data da reintegração de posse, com os encargos moratórios do período.
+Ante o exposto, JULGO PROCEDENTE o pedido, e o faço para condenar o réu a restituir à autora a verba relativa ao VRG pago antecipadamente, com a possibilidade de o réu compensar eventual débito remanescente da autora (aquele relativo às parcelas do arrendamento que a arrendatária ficou devendo, desde a inadimplência até a data da reintegração de posse em favor do arrendante, com os encargos moratórios do período). O valor da condenação deverá ser atualizado monetariamente a partir da data do desembolso de cada parcela, com juros moratórios, de 1% ao mês, contados da data da citação.
+Em razão do decidido, condeno o réu no pagamento das custas e despesas processuais e nos honorários advocatícios do patrono da autora, que fixo em 10% do valor da condenação.
+P.R.I.
+São Paulo, 11 de março de 2014.
+
+
+    JURANDIR DE ABREU JÚNIOR
+                   Juiz de Direito

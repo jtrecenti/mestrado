@@ -1,0 +1,171 @@
+
+
+SENTENÇA
+
+Processo nº:053.09.002293-1
+Classe - AssuntoProcedimento Ordinário - Assunto Principal do Processo >
+Requerente:Augusto Alves Araújo
+Requerido:Governo do Estado de São Paulo
+
+
+
+Juiz(a) de Direito: Dr(a). Maria Fernanda de Toledo Rodovalho
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vistos.
+
+AUGUSTO ALVES ARAÚJO representado por CLEUSA APARECIDA ALVES, ajuizou em face da FAZENDA DO ESTADO DE SÃO PAULO, sob o rito ordinário, ação com o objetivo de ver a ré condenada a pagar indenização por danos morais decorrentes de erro na aplicação de teste.
+
+Como causa de pedir, alegou o autor que sua mãe, Cleusa, soube durante a gravidez, que seu marido era portador do vírus HIV. A partir daí, a autora passou a receber acompanhamento médico em hospitais públicos.
+
+Quando autor atingiu a idade de 6 meses, foi aplicado a ele o teste de carga viral, com resultado positivo. No entanto, Cleusa não soube interpretar o resultado e nem o hospital lhe explicou.
+
+A falta de informes fez com que Cleusa procurasse outro Hospital  agora o do Grajaú  e veio a saber da infecção. 
+
+Cleusa não se conformou e fez dois outros exames, logo em seguida. Ambos foram negativos.
+
+Um terceiro exame, feito em 2008, mostrou que nem sequer havia carga viral.
+
+O erro no primeiro exame foi causa de transtornos ao autor, transtornos que, agora, ele pretende ver reparados.
+
+Com a inicial, os documentos de fls. 14 a 23. 
+
+A ré foi citada e contestou. 
+
+Segundo a FAZENDA DO ESTADO DE SÃO PAULO, o autor é parte ilegítima para ajuizar a demanda, porque não teve sofrimento moral com o resultado do exame. No mérito, aduziu que não houve erro. A detecção de um resultado positivo impõe o exame contínuo da criança, o que foi feito. A negativação é possível no caso de recém nascidos.
+
+O autor replicou.
+
+O Ministério Público requereu que se oficiasse ao hospital para a vinda de informes a respeito do autor.
+
+Depois da juntada dos documentos, pleiteou o Ministério Público a produção de prova oral, o que foi deferido na decisão de fls. 93.
+
+Em audiência, foram inquiridas duas testemunhas (fls. 125 a 131. Após, as partes reiteraram os termos de suas manifestações anteriores. Opinou o Ministério Público pela procedência do pedido.
+
+Vieram-me os autos conclusos.
+
+É o relatório.
+
+FUNDAMENTO E DECIDO.
+
+Trata-se de pedido de reparação de danos formulado por criança que alega ter sido vítima de erro de diagnóstico.
+
+O erro, de acordo com a inicial, foi a conclusão de o autor ser portador do vírus HIV.
+
+Em que pesem, porém, os esforços do interessado, o pedido é improcedente.
+
+O fundamento do pedido do autor é a divulgação equivocada de resultado de infecção pelo vírus HIV (conforme Jurisprudência colacionada à inicial  fls. 9).
+
+Nas situações tomadas como paradigma, o motivo da indenização foi a divulgação de dados COM QUEBRA DO SIGILO PROFISSIONAL.
+
+Não é o caso dos autos.
+
+Na situação do autor, não houve quebra, porque os dados não foram divulgados. E, além de não terem sido divulgados, o Poder Público não se negou a repetir os exames.
+
+A menção à repetição de exames pode sugerir que, implicitamente, o Estado já estivesse a admitir algum equívoco no laudo. Mas não é verdade. 
+
+A repetição dos exames se deve ao fato de que a transmissão vertical do HIV (de mãe para filho) apresenta uma série de particularidades.
+
+Quando a criança recém nascida é filha de mãe soropositiva, é possível que também apresente resultado de sorologia positiva para o HIV.
+
+O exame de sorologia positiva não detecta a presença de vírus, mas a presença de anticorpos contr o vírus HIV. A sorologia positiva mostra que o paciente teve contato com o vírus.
+
+No caso de recém nascidos, que não têm o sistema imonulógico completo, a sorologia positiva não é prova de infecção.Os anticorpos podem ter vindo da mãe, sem que a criança tenha sido infectada.
+
+Por isso, por recomendação do Ministério da Saúde (a Portaria 59/03, transcrita no parecer do Ministério Público a fls. 77), o exame de sorologia é repetido nos bebês.
+
+A literatura médica relativa a exames trata dos diferentes tipos de exames e da situação do falso positivo, conforme se pode observar do trecho extraído de http://bvsms.saude.gov.br/bvs/publicacoes/17indeterminado.pdf:
+
+O DIAGNÓSTICO LABORATORIAL DA INFECÇÃO CAUSADA PELO HIV:
+(...)
+TESTES PARA O HIV-1:
+A. Testes Sorológicos:
+A. 1. teste para a triagem de anticorpos anti-HIV convencional: é um exame imunoenzimático (EIE) de rastreamento. A sensibilidade e especificidade do EIE do HIV-1 é >99%. 
+Em decorrência da elevada sensibilidade destes ensaios, existe uma probabilidade de ocorrência de resultados falso-positivos, razão pela qual se recomenda que os resultados positivos do teste de triagem sejam considerados como ?inicialmente reagentes? e que sua confirmação seja realizada por meio de um teste suplementar, de caráter confirmatório e de maior especificidade. O valor preditivo positivo (VPP) dos testes de triagem para HIV é diretamente proporcional à reatividade da amostra (intensidade de reação; valor da densidade óptica) e à prevalência de infecção na população analisada.
+
+A gestação e o resultado indeterminado na pesquisa de anticorpos-HIV 
+A. 2. testes suplementares para a confirmação de anticorpos anati-HIV: o EIE seguido de um Western blot (WB) ou de uma imunofluorescência indireta (IFI), apresenta índices de sensibilidade e de especificidade superiores a 98%10. O teste de WB permite a identificação dos anticorpos contra produtos polipeptídicos do vírus, o que se faz por meio da análise das bandas coloridas que se formam no suporte de reação (tira) ao final do ensaio. 
+O WB detecta anticorpos contra as proteínas do HIV-1, incluindo as do core-gag (p17, p24 e p55), da polimerase-pol (p31, p51, e p66) e do envelope-env (gp41, gp120 e gp160). Para interpretação do teste de Western blot12, deverão ser observados os seguintes critérios:
+- amostra não reagente = ausência de bandas
+- amostra reagente = presença de no mínimo 2 (duas) bandas
+dentre as: gp160/120; gp41; p24
+- amostra indeterminada = qualquer outro padrão de bandas diferentes
+dos descritos anteriormente.
+B. Ensaios laboratoriais para a pesquisa direta do HIV, de seus antígenos ou de ácidos nucleicos no sangue
+B. 1. antígeno p24: a pesquisa de antígeno viral do HIV-1 é realizada por meio de EIE para detecção da proteína p24, que é a principal fração do core do vírus; algumas vezes utilizado como alternativa ao teste de RNA-HIV para detectar infecção aguda. A especificidade é de 100%, porém a sensibilidade é de aproximadamente 90% - menor que os testes de RNA-HIV quantitativos.
+B. 2. teste para a quantificação do RNA plasmático do HIV-1 (carga viral): é útil para avaliar a infecção aguda pelo HIV, para prever a progressão nos pacientes com infecção crônica e para controle do tratamento. A sensibilidade depende da carga viral, do limiar do teste e do status do tratamento anti-retroviral. Podem ocorrer resultados falsopositivos em 2 a 9%, habitualmente com baixa viremia (10.000 cópias/ml.
+B. 3. teste PCR-DNA qualitativo: é utilizado para detecção de ácido nucleico de HIV-1, baseando-se na extração de DNA de células A gestação e o resultado indeterminado na pesquisa de anticorpos-HIV 9 mononucleares do sangue e amplificação do DNA proviral integrado no genoma das células hospedeiras. A sensibilidade é >99% e a especificidade é de 98%, isto não é considerado suficiente para um diagnóstico sem confirmação. O seu emprego tem sido indicado principalmente para o diagnóstico de infecção neonatal e como auxiliar na solução de testes sorológicos indeterminados. Para se estabelecer diagnóstico de infecção pelo HIV-1 por meio de PCR-DNA é necessário que duas amostras, coletadas em momentos diferentes, sejam positivas. 
+B. 4. cultura de células mononucleares: isolamento viral por cocultivo de células mononucleares do paciente com células mononucleares de doador estimuladas com fito-hemaglutinina e IL-2 por mais de 28 dias; apresenta uma sensibilidade de 95 a 100%. No Brasil, o Ministério da Saúde regulamentou, por meio de Portaria 59 de 28/01/03 (em anexo), o conjunto de procedimentos laboratoriais e sua forma de utilização na realização de testes sorológicos com vistas ao diagnóstico de infecção pelo HIV. Desta forma, foi estabelecido um algoritmo de testagem sorológica, em que se recomenda o emprego
+sequencial de testes de triagem e testes confirmatórios (Anexo 2).
+Em termos de acurácia, o melhor teste continua sendo o teste sorológico convencional (EIE, WB ou IFI), mas alguns dos outros podem ser úteis para os pacientes com resultados sorológicos contraditórios ou indeterminados, no monitoramento virológico em ensaios terapêuticos e para a detecção do HIV nos casos em que os testes sorológicos provavelmente são discordantes. Na maioria dos casos, a confirmação da sorologia positiva é efetuada simplesmente pela sua repetição.
+A sensibilidade dos testes virológicos para detecção do HIV varia segundo o estágio da doença e a técnica utilizada, mas é geralmente relatada como sendo >99% para o PCR-DNA, de 90-95% para o RNA-HIV quantitativo, de 95-100% para cultura viral de células mononucleares do sangue periférico e de 32% a 89% para a detecção do antígeno p2413. A definição de diagnóstico de infecção pelo HIV empregando-se técnicas virológicas deve ser feita somente após a análise da mesma amostra em dois ensaios virológicos distintos ou pela análise de duas amostras, coletadas em momentos diferentes, no mesmo ensaio (ver Portaria 59-em anexo). 
+10
+A gestação e o resultado indeterminado na pesquisa de anticorpos-HIV
+RESULTADO INDETERMINADO NO TESTE DE WESTERN BLOT PARA HIV-1:
+Resultados indeterminados no teste de WB podem ocorrer em uma proporção considerável de amostras, dependendo dos fatores de risco para a infecção. Em um estudo de caso-controle, CELUM e colaboradores 11 encontraram até 27% de WB indeterminado em amostras com ELISA não reagente e até 64% em amostras com ELISA reagente.
+Povolotsky14 demonstrou incidência relativamente alta de exames confirmatórios Western-Blot (WB) indeterminados, em até 58% de espécimes positivos para o ELISA. As bandas positivas mais comumente encontradas nestes testes indeterminados são p24, p55, p18, ou alguma combinação destas15.
+Frente a estes resultados indeterminados do WB, a elucidação diagnóstica explora os exames de biologia molecular que detectam a presença de viremia pelo HIV. Considerando a já citada sensibilidade de cada um destes testes, sabe-se que:
+1. a quantificação do RNA plasmático do HIV-1 pode apresentar uma especificidade de quase 100% quando o paciente apresentar uma carga viral >10.000cópias/ml, por outro lado, a presença de uma carga viral indetectável não pode excluir totalmente e com segurança a possibilidade de uma infecção inicial;
+2. a realização de um PCR-DNA seria mais sensível (em média a partir do 14ºdia pós-exposição), e, a seguir; 
+3. o teste que apresentaria maior sensibilidade seria o cultivo viral, de difícil disponibilidade em nosso meio.
+
+Dessa leitura resulta a seguinte conclusão: crianças recém nascidas, filhas de mães soropositivas, podem ter resultado falso positivo para a sorologia do HIV.
+
+Poderia se argumentar que essa conclusão em nada afeta o caso dos autos, porque a mãe do autor é soronegativa. E mais que isso: o exame positivo do autor não se refere à presença de anticorpos, mas de carga viral, que é a afetiva presença de vírus.
+
+No entanto, há outra observação a ser feita: o pai do autor, com que a mãe ainda vive, é HIV positivo. A convivência dos pais do autor foi o fator determinante para que a mãe não amamentasse a criança (segundo informações médicas de fls. 109). Ela temia ser infectada e transmitir ao filho o vírus.
+
+Como a mãe do autor era soro negativa, o que ela argumentava na inicial é que, se ela não estava contaminada, a criança não poderia apresentar carga viral.
+
+Esse raciocínio, porém, tem um defeito: a carga viral detectada no autor pode, sim, ter vindo da mãe. O exame a que ela se submeteu pode ter ocorrido durante uma "janela imunológica", que é o período em que a pessoa já está infectada, mas ainda não produziu anticorpos.
+
+Esse período é bastante crítico, porque o resultado do exame de anticorpos da mãe é negativo. Conforme explicação extraída do sítio antes mencionado:
+
+É importante lembrar que um resultado falso negativo é possível se o exame for colhido durante a ?janela imunológica? (até 3 meses em 97% dos indivíduos, com a maioria dos casos produzindo anticorpos entre 2-8 semanas). Esta situação é desastrosa do ponto de vista da transmissão vertical, pois geralmente está associada a cargas virais altíssimas, com chance aumentada de haver a transmissão do HIV. É recomendado que seja feito acompanhamento de perto das pacientes com alto risco de infecção pelo HIV (por exemplo, parceiras de pacientes HIV+ ou de usuários de drogas injetáveis com sorologia desconhecida), avaliando-se a necessidade de coleta de carga viral para o HIV, para confirmação da soronegatividade.
+
+ Por isso, se o autor recebeu da mãe o vírus, a carga viral foi detectada no exame de fls. 18. Note-se que se trata de exame de presença de vírus, não de anticorpos. 
+
+Mesmo assim, para os parâmetros de confirmação de infecção, o número de cópias é baixo. 
+
+No sítio: http://www.saude.rio.rj.gov.br/media/programas_dst-aids_assistencia_recomendacao_criancas.pdf, constam as informações seguintes a respeito da "negativação" de carga viral em crianças:
+
+
+Parâmetro virológico:
+A dinâmica do HIV na criança é muito diferente do adulto. A criança apresenta viremia primária no início da vida, e possui sistema imune relativamente imaturo. Desse modo, ela pode exibir cargas virais elevadíssimas, ou seja, maiores de 106 cópias/ml, com taxas de declínio muito mais lentas do que as observadas em adultos, sendo difícil definir limites precisos para a progressão da doença. Apesar de parecer lógico inferir que, quanto maior a carga viral, maior o risco de progressão, existe considerável superposição de valores entre os que progridem rapidamente, lentamente, e os não progressores.
+A análise dos dados disponíveis até o presente momento revela que a definição de prognóstico não deve ser pautada somente na carga viral, mas também, na contagem de células T-CD4+ e na evolução clínica de cada paciente, especialmente quando são crianças menores de 30 meses de idade. Nas crianças maiores (idade superior a 30 meses), os dados de progressão parecem se aproximar aos dos adultos infectados, em que o risco de progressão aumenta substancialmente, com níveis de carga viral superiores a 10.000-20.000 cópias/ml.
+Além disso, têm sido observadas variações nos níveis de carga viral, em uma mesma pessoa, de até 3 vezes (0,5 log) para mais ou para menos, no curso de um dia ou em dias diferentes, em pacientes adultos clinicamente estáveis. Essa variação biológica, em crianças, pode ser de 0,7 log em menores de 2 anos, e de 0,5 log em maiores de 2 anos. Estudos prospectivos indicam que a combinação de parâmetros imunológicos e virológicos permite a identificação de crianças com maior risco de progressão da doença ou morte. Assim, níveis de T-CD4+ inferiores a 15% e viremia plasmática superior a 100.000 cópias/mm3 predizem risco aumentado de progressão para categoria C ou morte. Esses parâmetros devem ser utilizados na decisão de início e mudança de terapia anti-retroviral. 
+Na criança com infecção pelo HIV adquirida por transmissão vertical, a carga viral pode declinar lentamente, ao longo do tempo, mesmo sem terapêutica anti-retroviral. Esse declínio é mais rápido durante os primeiros 12 a 24 meses de vida, com declínio médio de 0,6 log por ano e, com queda mais lenta até 4 a 5 anos de idade, em média de 0,3 log por ano. (não há destaques no original).
+
+Em resumo, não há prova do erro do diagnóstico.
+
+Na situação do autor, é possível que ele tivesse recebido da mãe a carga viral e essa carga tivesse desaparecido. 
+
+Isso é possível apesar de a mãe ser soronegativa porque o exame da mãe pode ter sido feito durante a "janela imunológica", quando os anticorpos contra o vírus ainda não haviam sido produzidos.
+
+Essa possibilidade é reforçada pelo fato de a carga viral do exame de fls. 18 ser baixa (segundo os parâmetros indicados na pesquisa mencionada e no depoimento da testemunha Daniella Fittipaldi Vencovsky):
+
+"(...) Por isso, um resultado positivo numa criança recém nascida não é conclusivo. Outros exames têm de ser feitos para confirmar a infecção. Um desses testes é o exame de carga viral da criança. É possível que a criança apresente também um resultado positivo de carga viral e, no entanto, não esteja infectada pelo HIV. O resultado da carga viral, no entanto, tem de ser baixo, menos de 1000 cópias. Essa carga viral baixa resulta em um exame positivo, mas ainda não indica a contaminação. As crianças têm de fazer exame em seguimento e pode haver a negativação (...). A carga viral é passada da mãe para a criança. Se a mãe é negativa, não pode passar carga viral ao filho. Pode acontecer que a mãe apresente sorologia negativa porque está em uma 'janela de infecção': ela foi contaminada, já está com o vírus, mas ainda não produziu anticorpos em número suficiente para serem detectados." (fls. 131). 
+
+Portanto, não há prova do erro que possa conduzir ao dever de indenizar.
+
+Ante todo o exposto, julgo improcedente o pedido e condeno o autor ao pagamento das custas e de honorários advocatícios que fixo em 10% do valor da causa, corrigido a partir da citação.
+
+Como o autor é beneficiário da assistência judiciária gratuita, a cobrança da sucumbência fica condicionada à prova do requisito do art. 11, § 2º, da Lei 1.060/50.
+
+P.R.I.
+
+São Paulo, 16 de março de 2010.
+
+MARIA FERNANDA DE TOLEDO RODOVALHO
+Juíza de Direito

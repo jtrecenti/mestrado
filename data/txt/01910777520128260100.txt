@@ -1,0 +1,59 @@
+
+
+SENTENÇA
+
+Processo nº:0191077-75.2012.8.26.0100
+Classe ? Assunto:Procedimento Sumário - Defeito, nulidade ou anulação 
+Requerente:Dirce Marandola Gallo
+Requerido:Hospital Sepaco
+
+
+
+
+Juiz(a) de Direito: Dr(a). Alberto Alonso Muñoz
+
+
+Vistos.
+
+Dirce Marandola Gallo, qualificado(s) na inicial, ajuizou(aram) ação de Procedimento Sumário em face de Hospital Sepaco.
+Alega, em síntese, estar sendo cobrada pelo hospital-réu em razão de serviços médico-hospitalares que não teriam sido custeados pelo plano de saúde de seu falecido esposo. Ocorre que não só não haveria, segundo alega, prova de que todos os serviços teriam sido prestados, como, ademais, a responsabilidade pelo pagamento não caberia à autora, mas ao plano de saúde. Pediu a declaração de inexigibilidade do débito documentado em boleto bancário no valor de R$ 5.817,52. Pediu a antecipação dos efeitos da tutela para suspender-se a exigibilidade.
+A antecipação dos efeitos da tutela foi deferida.
+Citada, a parte ré contestou.
+Em preliminar, alega falta de interesse de agir, já que o falecido esposo da autora teria feito uso de todos os serviços disponibilizados e não cobertos.
+No mérito, repetiu o conteúdo da preliminar, aduzindo que o contrato previa que despesas não cobertas seriam consideradas de caráter particular, arcando o contratante com seu pagamento. Aduz não ser responsável pela negativa de cobertura. 
+Houve réplica.
+Relatei. DECIDO.
+O processo comporta julgamento antecipado do mérito, na forma do art. 330, I do Código de Processo Civil, não se caracterizando cerceamento de defesa se não eram necessárias outras provas. Ao contrário, nas hipóteses em que se impõe, o julgamento antecipado do mérito não é faculdade do julgador, mas dever legalmente imposto até mesmo pela Constituição Federal quando o feito se encontra em condições de ser sentenciado, sendo corolário do princípio da economia processual (que decorre daquele do devido processo legal: art. 5.º, LIV da CF/88) e da razoável duração do processo (art. 5.º, LXXVIII).
+Procede o pedido.
+Entendo inválida a contratação dos serviços médicos e hospitalares entre as partes. A parte autora não foi a beneficiária dos serviços, mas sim seu marido por ela conduzido ao hospital demandado. Tratava-se de uma situação de urgência ou emergência, tanto que o paciente ficou internado na UTI e acabou por falecer. Naquele quadro probatório, extrai-se que o hospital autor fez uso de prática abusiva, exigindo-se da parte autora a assinatura em termo de responsabilidade como imposição ao atendimento a ser prestado a um parente.
+Em outras palavras, a exigência de garantias de terceiros parentes do beneficiário do atendimento médico e hospitalar, como condição para a execução do serviço médico e hospitalar de urgência ou emergência, traduz uma situação que se aproveita da manifesta fraqueza do consumidor. Quem seria capaz de negar-se a assinar títulos de crédito ou contratos para viabilizar o atendimento médico e hospitalar de seu marido, em situação de urgência ou emergência?
+A sistemática de proteção normativa do consumidor buscou reconhecer sua vulnerabilidade (art. 4º, I CDC) e preservar um equilíbrio mínimo da relação jurídica de consumo fundada na boa-fé (art. 4º, III CDC), razão pela qual a liberdade contratual foi moldada com a vedação de práticas comerciais pelo fornecedor, notadamente aquelas que deixassem o último se prevalecer de uma situação de fraqueza (técnica, educacional, econômica ou psicológica) do primeiro. É o que se extrai de inúmeros dispositivos da Lei nº 8.078/90, notadamente aqueles que cuidam das práticas abusivas (art. 39) e das cláusulas abusivas (art. 51).
+Importante salientar que a violação pelo fornecedor daquelas regras de comportamento comercial e contratual conduz à nulidade do negócio jurídico. Não se trata de nulidade relativa, mas de nulidade absoluta. O sistema de nulidades do Código de Defesa do Consumidor é composto exclusivamente por nulidades absolutas, até pelo que dispõe seu artigo 1º. Daí porque não se exige a propositura de ação própria ? a nulidade pode ser arguida em sede de defesa.
+O artigo 1º da Resolução Normativa - RN nº 44, de 2003, é claro no sentido de vedar, em qualquer situação, a exigência, por parte dos prestadores de serviços contratados, credenciados, cooperados ou referenciados das Operadoras de Planos Privados de Assistência a Saúde e Seguradoras Especializadas em Saúde, de caução, depósito de qualquer natureza, nota promissória ou quaisquer outros títulos de crédito, no ato ou anteriormente à prestação do serviço.
+Observo que se trata de investigar a causa de emissão do cheque e do próprio termo de responsabilidade, conforme assentado em precedente do E. Superior Tribunal de Justiça, REsp. Nº 796.739-MT, 3ª Turma, Ministro HUMBERTO GOMES DE BARROS, julgado em 27.3.2007, DJ 07.5.2007, destacando-se:
+
+"Não seria razoável em cheque dado como caução para tratamento hospitalar ignorar-lhe a causa. Do contrário, gera-se desequilíbrio entre as partes. O devedor, em situação de necessidade quedar-se-ia à mercê do hospital, compelido a emitir cheque no valor exigido pelo prestador do serviço."
+
+
+No Egrégio Tribunal de Justiça de São Paulo, confira-se precedente da 17ª Câmara de Direito Privado, Apelação n° 991.05.005436-9, relator o Desembargador SIMÕES VERGUEIRO, julgado em 04.08.2010, assim ementado:
+
+
+"RECURSO DE APELAÇÃO INTERPOSTO CONTRA R.SENTENÇA QUE JULGOU PROCEDENTE AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE TÍTULO, C.C. INDENIZAÇÃO POR DANOS MORAIS - ALEGAÇÃO DE INCORREÇÃO - CHEQUE DADO EM CAUÇÃO APENAS POR FORÇA DE COAÇÃO EXERCIDA PELO HOSPITAL ?  VALORES DOS SERVIÇOS PRESTADOS PELO HOSPITAL INSUFICIENTEMENTE DEMONSTRADOS ?  CHEQUE CAUÇÃO - PRATICA VEDADA PELA RESOLUÇÃO NORMATIVA 44/03, DA ANS - TÍTULO INEXIGÍVEL - INDENIZAÇÃO POR DANOS MORAIS - DANO MORAL CARACTERIZADO - DEVER DE INDENIZAR QUE É DE RIGOR - QUANTUM INDENIZATORIO DESPROPORCIONAL AO TITULO - INDENIZAÇÃO REDUZIDA A VALOR EQUIVALENTE A 20 SALÁRIOS MÍNIMOS - ACERTO PARCIAL DA R.SENTENÇA PROFERIDA - RECURSO PARCIALMENTE PROVIDO."
+
+
+Por fim, volto a ressaltar que o caso sob exame se distingue de tantos outros semelhantes. A parte autora foi chamada ? numa inequívoca prática abusiva do hospital ? a assinar um termo de responsabilidade em favor de seu marido, numa situação de manifesta fragilidade emocional. Não se tratava de uma internação eletiva ? previamente marcada e com possibilidade de escolha da situação jurídica de solidariedade para ter acesso ao serviço diferenciado do hospital.
+Houve um manifesto vício de vontade da parte autora, conforme precedente do E. Tribunal de Justiça de São Paulo, Apelação Cível nº 991.05.006362-7, 23ª Câmara de Direito Privado, relator o Desembargador J.B. FRANCO DE GODOY, julgado em 10.2.2010, destacando-se:
+
+
+"E assim deve ser porque no momento da internação o responsável pelo paciente encontra em situação excepcional, delicada. Encontra-se vulnerável e angustiada com a possibilidade de morte de um ente querido.
+
+"A pessoa em tal situação não se encontra com ampla e livre capacidade de discernimento, pelo contrário, qualquer manifestação da vontade proferida neste momento está eivada em decorrência do estado de desequilíbrio psicológico que se encontra."
+
+
+Diante do exposto, reconhecendo-se a nulidade do termo de responsabilidade,  julgo PROCEDENTE o pedido e EXTINGO o processo, resolvendo-lhe o mérito nesta fase processual, na forma do art. 269, I do Código de Processo Civil, para o fim de DECLARAR INEXIGÍVEL o débito documentado em boleto bancário no valor de R$ 5.817,52.
+TORNO DEFINITIVA a antecipação dos efeitos da tutela.
+Custas pela parte ré. Honorários fixados em 10% sobre o valor da condenação, considerando a complexidade do feito e o número de atos praticados, na forma do art. 20, §§ 3.º e 4.º do CPC.
+Publique-se. Registre-se. Intime-se.
+
+
+São Paulo, 24 de junho de 2013.

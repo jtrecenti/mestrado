@@ -1,0 +1,37 @@
+
+
+SENTENÇA
+
+Processo:1000802-21.2013.8.26.0100 
+Autor(es):HOTWORDS INFORMAÇÃO E TECNOLOGIA LTDA.
+Réu(s):TWITTER BRASIL REDE DE INFORMAÇÃO LTDA
+
+
+
+
+
+
+
+Vistos.
+A autora Hotwords Informação e Tecnologia Ltda. pede que a ré Twitter Brasil Rede de Informação Ltda. seja obrigada a cancelar conta e fornecer dados de usuário de sua rede social. Alega que usuário da rede social da ré criou a conta @HotwordsRouba, "Twitter feito para dar RT em todos tuítes de gente roubada pela hotwords"conforme objetivo descrito na página inicial da conta. É empresa especializada no mercado de publicidade na Internet, e não pode ter sua credibilidade afetada por acusações anônimas e sem provas, razão pela qual notificou extrajudicialmente a ré, que deixou de tomar as providências necessárias.
+R. decisão de fls.50/51 antecipou parcialmente os efeitos da tutela, determinando a suspensão da conta.
+A ré contestou informando o cumprimento da ordem liminar. Alega, ainda, que seus usuários comprometem-se a respeitar seus termos e condições de uso, e que milhões de mensagens (tweets) são publicadas diariamente, sendo inviável qualquer monitoramento ou controle prévio. Sustenta, por fim, que o cancelamento da conta e a transferência de dados de usuário não podem ser feitos sem ordem judicial, porque afetam os direitos individuais de seus usuários.
+É o relatório.
+DECIDO.
+Passo a conhecer diretamente do pedido, nos termos do art. 330, I, do Código de Processo Civil, pois a questão de mérito versa sobre direito e sobre fatos que devem ser provados por documentos, não havendo necessidade de produção de prova técnica ou oral.
+A r.decisão liminar já foi cumprida e a ré não apresentou resistência ao pedido da autora, limitando-se a informar sobre a impossibilidade de qualquer controle prévio das mensagens publicadas em sua rede, e também da necessidade de determinação judicial para cancelamento de contas e para a identificação de usuários.
+Quanto a este segundo ponto a ré tem razão  não pode transferir a terceiros, sem determinação judicial, dados que possam identificar seus usuários, porque isso importaria em indevida violação de privacidade. O pedido deve ser atendido na presente ação, portanto, porque há prova de que o usuário veiculou conteúdo ofensivo à autora, que tem direito de buscar reparação contra o causador do dano.
+Já as primeiras providências, de remoção de conteúdo e suspensão de conta formalmente indicada por terceiro como ofensiva ou violadora de direitos, poderiam ter sido adotadas pela ré sem necessidade de prévia ordem judicial, porque tais desdobramentos estão previstos nas condições de uso do Twitter, com os quais todos seus usuários concordam ao criarem suas contas.
+O item 8 dos Termos e Condições de Utilização do Serviço trata da "Restrição no Conteúdo e no Uso dos Serviços" e prevê que "O Twitter reserva-se o direito (mas não assume a obrigação) de a qualquer momento remover ou recusar a distribuição ou disponibilização de qualquer Conteúdo nos Serviços, de suspender ou fazer cessar contas de usuários, assim como de reaver nomes de usuários [...]. O Twitter reserva-se ainda os direitos de acesso, leitura, preservação e divulgação de qualquer informação que, na sua opinião razoável, acredite ser necessária para [...] proteger os direitos, propriedade ou a segurança do Twitter, dos seus usuários e do público." (fls.104).
+Recebida a notificação extrajudicial com requerimento de retirada de conteúdo claramente ofensivo, porque difamatório ao nome da autora (fls.14/16), tinha a ré, perante o respectivo usuário, o direito de suspender as atividades da conta, com base nas condições de uso acima reproduzidas. Embora não tenha apresentado resistência na presente ação, deverá, por tal motivo, responder pelas despesas do processo.
+DISPOSITIVO.
+Ante o exposto, julgo procedente o pedido e determino o cancelamento da conta @HotwordsRouba da rede social Twitter, com remoção completa do respectivo conteúdo.
+Condeno a ré Twitter Brasil Rede de Informação Ltda. a transferir à autora Hotwords Informação e Tecnologia Ltda. os dados necessários para a identificação do usuário da conta @HotwordsRouba.
+Condeno a ré pagamento das custas e despesas processuais, e de honorários advocatícios que fixo, por equidade, em R$3.000,00 (três mil reais), quantias atualizáveis com base na tabela oficial do TJSP, custas e despesas dos desembolsos, honorários da presente data e, a partir do trânsito em julgado, acrescidas de juros de mora de 1% ao mês.
+Julgo extinto o processo, com resolução de mérito, com base no art.269, I, do Código de Processo Civil.
+P.R.I.
+São Paulo, 5 de agosto de 2013
+
+Gustavo Coube de Carvalho
+Juiz de Direito
+[assinatura digital]

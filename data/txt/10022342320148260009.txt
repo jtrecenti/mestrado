@@ -1,0 +1,51 @@
+
+
+SENTENÇA
+
+Processo Digital nº:1002234-23.2014.8.26.0009
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Moral
+Requerente:MARCOS CALDEIRA DE OLIVEIRA
+Requerido:Banco Itaú S/A
+
+
+Justiça Gratuita
+
+Juiz(a) de Direito: Dr(a). Lígia Maria Tegão Nave
+
+
+
+
+Vistos.
+MARCOS CALDEIRA DE OLIVEIRA ajuizou "ação de indenização c/c repetição de indébito" contra BANCO ITAÚ UNIBANCO S/A.
+O autor alega, em resumo, que efetuou o pagamento de dois boletos, nos valores de R$ 176,14 e R$ 99,90, via internet (Itaú Bankline). Contudo, foi comunicado de que o seu nome seria incluído no cadastro de inadimplentes, em decorrência da ausência de quitação dos referidos boletos. Acrescenta que contatou o banco, sendo informado de que os valores tinham sido repassados para outra instituição financeira, que não o Banco do Brasil, e que o autor havia digitado errado o número do código de barras do título. Alega que, em decorrência da falha no sistema do réu, teve que contrair empréstimo junto a familiares para quitar os débitos que já tinham sido regularmente pagos. Por fim, menciona que sofreu prejuízos de ordem moral, requerendo a condenação do réu ao pagamento de indenização, além da restituição em dobro dos valores descontados de sua conta quando da operação. 
+Com a inicial, foram juntados documentos. 
+O réu foi citado e apresentou contestação. Aduz, em síntese, a ausência de falha na prestação do serviço e inexistência do dever de indenizar. Menciona que houve equívoco por parte do autor, uma vez que indicou número diverso do código de barras do título a ser quitado. Ainda, impugna os danos morais e o quantum pleiteado a título de indenização. 
+Houve réplica.
+É o relatório. 
+Fundamento e Decido. 
+O pedido é parcialmente procedente.
+A avença retratada entre as partes configura efetiva relação de consumo, incidindo a regra do disposto no art. 6º, VIII, do CDC, que trata da inversão do ônus da prova. E, na hipótese, o réu não se desincumbiu do ônus que lhe competia, qual seja, a demonstração da regularidades do serviço prestado ao autor. 
+O autor juntou aos autos comprovante de pagamento dos títulos indicados na inicial, que foram quitados por meio do Itaú Bankline, conforme se extrai às fls. 23/24. Além disso, o documento de fl. 25 demonstra que o valor dos boletos foi descontado da conta corrente de titularidade do autor.
+A alegação do banco, no sentido de que houve equívoco na indicação do código de barras, não deve ser acolhida. 
+De acordo com orientações constantes na página eletrônica do réu, devidamente demonstradas às fls. 85/87, para a quitação de títulos basta a indicação do número do código de barras, sendo desnecessária a indicação de valor, data de vencimento, entre outras informações. E, após tal indicação, automaticamente, é gerado o comprovante de pagamento, no qual consta o valor do título e a data de vencimento. 
+Portanto, não é crível que, mesmo tendo o autor indicado número diverso, o sistema gerasse comprovante de pagamento exatamente com o mesmo valor e data de vencimento dos títulos que o autor pretendia quitar. 
+Desta forma, conclui-se que houve falha no sistema do banco, o qual deverá reembolsar ao autor os valores que foram debitados de sua conta, indicados à fl. 25. Contudo, não é o caso de determinar a restituição em dobro do valor, eis que não evidenciada a má-fé do banco. 
+Em razão da falha na prestação dos serviços por parte do réu, o autor teve o seu nome irregularmente incluído no cadastro de inadimplentes, causando-lhe dano moral.
+Evidente o constrangimento suportado pelo autor uma vez inserido o seu nome na lista de inadimplentes elaborada por entidades de proteção ao crédito. Isso porque, como é notório, referidos entes encontram-se vinculados ao mercado fornecedor, que a ele tem acesso imediato de modo a restringir o crédito daquele que tem seu nome inserido em suas listas. Com isso, passou o autor a conviver, perante a sociedade, como pessoa inadimplente. 
+Realizada a inscrição indevida, o dano moral é presumido. 
+Esse é o posicionamento jurisprudencial: RESPONSABILIDADE CIVIL. INCLUSÃO DO DEVEDOR NO SERASA. ALEGAÇÃO DE FALTA DE PROVA DA CULPA E DO DANO MORAL SOFRIDO. (...) II  Em casos que tais, faz-se desnecessária a prova do prejuízo, que é presumido, uma vez que o dano moral decorre da própria inclusão indevida do nome do autor no cadastro de inadimplentes(...) (STJ - AgRg no Ag 470538 / SC - Relator(a) Ministro CASTRO FILHO -  TERCEIRA TURMA - 06/11/2003). 
+Desta forma, comprovado o dano moral, passo a fixar o seu valor. 
+Constitui entendimento consolidado na atualidade, a afirmação de que a condenação em danos morais, embora deva atender ao seu duplo fim, deve ressarcir os prejuízos sofridos, mas não pode servir de motivo para enriquecimento sem causa. 
+A condenação em dano moral não pode ser tal que a pessoa deseje sofrê-lo novamente. Por outro lado, não pode ser ínfimo, devendo desestimular nova conduta por parte de quem cometeu o ilícito. 
+Uma vez que nenhuma possibilidade há de medir pelo dinheiro um sofrimento puramente moral, Caio Mário da Silva Pereira recomenda que faça um jogo duplo de noções: "a) de um lado, a idéia de punição do infrator, que não pode ofender em vão a esfera jurídica alheia; b) de outro lado, proporcionar à vítima uma compensação pelo dano suportado, pondo-lhe o ofensor nas mãos uma soma que não é o pretium doloris" (Instituições de Direito Civil, 8ª ed., Rio, Forense, 1986, vol. II, nº 176, pág. 235).
+ A jurisprudência, também, fixa as bases do dano moral: "Com efeito, 'O dano moral, se não é verdadeiramente, dano suscetível de fixação pecuniária quivalêncial, tem-se de reparar eqüitativamente' (Pontes de Miranda, Tratado de Direito Privado, T. 54,5.536, no. 1, p.61). 'O importante é a par do princípio da reparabilidade, admitir o da indenizabilidade, para que, como assinalam os autores, não fique a lesão moral sem recomposição, nem impune aquele que por ela é responsável, fatores, ambos, que seriam de perpetuação de desequilíbrios sócio-jurídicos. (R. Limongi França, Reparação do Dano Moral, in RT 631/135). 
+A indenização por dano moral é arbitrável mediante estimativa prudencial que leve em conta a necessidade de, com a quantia, satisfazer a dor da vítima e dissuadir, de igual e novo atentado, o autor da ofensa (RJTJESP 156/94 e RT 706/67). 
+Assim, fixo o valor dos danos morais em R$ 7.000,00 (sete mil reais). 
+O valor é suficiente para que o réu procure melhorar seus serviços e para proporcionar ao autor reparação coerente com os danos sofridos. 
+Diante do exposto, JULGO PROCEDENTE a presente ação para: ( i ) CONDENAR o réu ao pagamento do valor de R$ 276,04 (fl. 25), acrescida de correção monetária, conforme a Tabela Prática do TJSP, desde o respectivo desembolso, e de juros de mora de 1% ao mês, a contar da citação; ( ii ) CONDENAR o réu ao pagamento da quantia de R$ 7.000,00 (sete mil reais) pelos danos morais sofridos, acrescida de correção monetária, conforme a Tabela Prática do TJSP, desde a presente data até o efetivo pagamento (Súmula 362 do STJ), e de juros moratórios de 1% ao mês, desde a citação até o efetivo pagamento.
+Em razão da sucumbência mínima do autor, condeno o réu ao pagamento das custas e despesas processuais e dos honorários advocatícios, que fixo em 20% do valor da condenação.
+P.R.I.C.
+São Paulo, 16 de julho de 2014.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

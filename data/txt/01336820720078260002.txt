@@ -1,0 +1,83 @@
+
+
+DESPACHO
+
+Processo nº:0133682-07.2007.8.26.0002 - Procedimento Ordinário
+Requerente:Unibanco União de Bancos Brasileiros S/A
+Requerido:Net Serviços de Comunicação S/A
+
+
+
+
+
+
+Vistos.
+
+
+
+Cuida-se de AÇÃO DE OBRIGAÇÃO DE FAZER c.c. PRECEITO COMINATÓRIO ajuizada por UNIBANCO ? UNIÃO DE BANCOS BRASILEIROS S/A contra NET SERVIÇOS DE COMUNICAÇÃO S/A, alegando, em suma, que recentemente, através de ferramenta de segurança, detectou inúmeros acessos, via internet, à sua página virtual, solicitando a emissão de inúmeros cartões de crédito, com a utilização de diferentes números de CPF's, certamente para tentativa de fraude contra os titulares dos mesmos, porque através de um único endereço IP dezenas de solicitações foram efetivadas; que em função disso foi elaborado por funcionários de sua área de perícia técnica especializada um laudo, por intermédio do qual constatou a existência de 19 acessos solicitando a emissão de 16 cartões de crédito para diferentes clientes, no prazo compreendido entre 19.05.2007 e 24.05.2007, todos originados a partir de um único número IP, de responsabilidade da ré, conforme tabela contida à fl.04; e que, por ser possível, atrelando-se o endereço IP a uma determinada data e horário, identificar-se o número de telefone da conexão utilizada, bem como dos demais dados correlacionados, interpelou extrajudicialmente a ré, com o fito de que lhe fossem fornecidos os dados do responsável pelos acessos ilícitos, no que não foi atendida, pela ré. Informa, ademais, que o responsável pelos aludidos acessos ilícitos valeu-se, como meio de acesso à internet, do serviço Vírtua, oferecido pela ré, empresa provedora de acesso à internet. Aduz que o número IP, além de se apresentar como requisito técnico para a navegação, funciona também como um identificador de origem dos acessos dos usuários, e que os provedores de acesso à internet, tal como sói ocorrer em relação à ré, mantêm registros (logs) de qual usuário estava conectado a qual número IP, durante determinada data e hora, razão pela qual bastaria o cruzamento das informações que possui (número IP de origem, datas e horários dos acessos à sua página virtual), com as informações da ré (qual usuário estava conectado ao número IP naquelas datas e horas), para que, destarte, possa identificar o responsável pelos acessos indevidos. Por fim aduz que a ré mantém completos e atualizados cadastros de todos os seus clientes. 
+
+Propugna, assim, pela condenação da ré à obrigação de fazer, consubstanciada no fornecimento, sob pena de multa cominatória diária, de todos os dados de cadastro (nome, RG, CPF, endereço, telefone e demais registros eletrônicos), bem como a linha telefônica de conexão do usuário do número IP que consta da retro aludida tabela, nas datas e horários ali discriminados, bem como dos demais registros de logs (nºs IP, datas e horários) do responsável pelos mencionados acessos, no caso de eventual IP dinâmico. Para a hipótese de impossibilidade material de ser cumprida a obrigação específica, requer que sejam determinadas providências que assegurem o resultado prático equivalente ao adimplemento da obrigação, incluindo a conversão em perdas e danos.    
+
+Consoante decisão de fls.150/151, resultou deferido o pedido de antecipação dos efeitos da tutela, determinando-se à ré o fornecimento, para o autor, de todos os dados de cadastro dos usuários dos IP's mencionados à fl.20, e também o fornecimento dos dados requeridos no item b de fl.20.
+
+Citada, a ré se manifestou, conforme petição acostada aos autos às fls.156/157, no sentido de não ter condições de prestar as informações requeridas, mercê de problemas técnicos no sistema de armazenamento das informações referentes ao IP citado pelo autor na prefacial. Ainda, ofereceu contestação (fls.198/203), alegando, sinopticamente, que as informações colimadas somente podem ser prestadas mediante requisição judicial, mercê da necessidade de preservação do sigilo de seus clientes; que muito embora não tenha localizado as informações requisitadas, não ofereceu qualquer resistência, razão pela qual não há se falar em conversão em perdas e danos; que não agiu com má-fé e tampouco se negou a cumprir a ordem; que as informações requeridas pelo autor são de ordem interna da contestante, confidenciais e protegidas por sigilo legal; que o período arquivamento fica ao nuto da empresa, e corresponde a mera liberalidade, existindo grande dificuldade técnica na mantença dos dados por longos prazos, e os custos do armazenamento são elevadíssimos; que inexiste qualquer lei a lhe obrigar a manutenção, em seus arquivos, dos dados de quaisquer usuários de IP; e que não pode de modo algum ser responsabilizada. Aduz, ao cabo, que a ação perdeu seu objeto, e que, mercê de não ser cabível a sua condenação por perdas e danos, deve o processo ser extinto, sem a imposição, em seu desfavor, do ônus de sucumbência.
+
+Houve réplica (fls.205/217).
+
+É O RELATÓRIO.
+A FUNDAMENTAÇÃO.
+
+- 1 -   
+Prescindível a dilação probatória, porque a questão de mérito é unicamente de direito, passo ao julgamento antecipado da lide, com supedâneo no artigo 330, inciso I, do Código de Processo Civil. 
+
+- 2 -   
+É indubitável que o direito à observância do princípio da legalidade, erigido no artigo 5º, inciso II, da Magna Carta, consubstancia-se num direito fundamental, de todos os jurisdicionados.
+
+Não é menos verdadeira a assertiva de que outrossim se revela como direito fundamental o direito à intimidade e à vida privada, dada a proteção que fulguras emana do artigo 5º, inciso X, da Norma Ápice.
+
+Em remate, neste prolegômeno, obtempero que ninguém pode, a despeito de inexistir certa lei específica, e de encontrar-se sob a égide do direito à privacidade, ao sigilo, à confidencialidade, violar direito alheio, porque, a se entender de maneira discrepante, de tabula rasa estar-se-ia fazendo d'outro direito fundamental, também insculpido no artigo 5º da Constituição da República Federativa do Brasil, qual seja, o direito de se obter proteção do Poder Judiciário, sempre que verificada a lesão ou a ameaça a direito (inciso XXXV).
+
+Este silogismo nada mais é que, se não, decorrência de exegese lógica, sistemática, axiológica e teleológica dos direitos e princípios fundamentais, de jaez constitucional, fulcrada no postulado da complementariedade, da efetividade e da interdependência destes direitos e princípios.
+
+Nessa vereda pontifico, de antelóquio, que não merece guarida a antítese na qual se escuda a ré, para se esquivar da obrigação de fornecimento dos dados divisados pelo autor, fundada da supremacia do direito de sigilo de tais dados, já que, em verdade, conforme adrede apontado, não existe esta preponderância.
+
+Há que se ter em mente, com efeito, que a pedra de toque no que concerne à interpretação jurídica, é a premissa consoante a qual todos os direitos, inclusive aqueles ditos direitos fundamentais, de conotação constitucional, são relativos, porque não se concebe que, sob a proteção (suposta) de certo direito ou garantia fundamental, possa algum sujeito direito violar direito alheio, ou seja, possa incorrer na prática de atividades ilícitas, ainda que não por força de embate direto com certa lei, ao menos mercê de confronto com os princípios gerais de direito.    
+
+Do cotejo entre os retro referidos interesses juridicamente albergados, no bojo dos direitos fundamentais estabelecidos pelo Poder Constituinte, entendo que há preponderar, sem que, com isso, se possa falar em afastamento total do âmbito de incidência de um, ou de outro direito fundamental (princípio da relatividade dos direitos), ao menos para o caso sob voga, o direito do autor, de obtenção de provimento judicial tendente a afastar, ou ao menos minorar os seus efeitos, a iminente e séria ameaça a direito seu, consubstanciado, in casu, no direito de manter sua atividade negocial-empresarial indene de incursões ilícitas, perpetradas, se não com o auxílio direto da ré (isso é evidente, ao menos em princípio), somente porque a ré, na condição de provedora do acesso à internet, disponibilizou ao agente os meios necessários para o ingresso na rede mundial de computadores.
+
+Não estou a dizer, nesse diapasão, que a ré, simplesmente por ser provedora do serviço de acesso à internet, é corresponsável por todos e quaisquer atos ilícitos perpetrados pelos usuários que se valem de seus serviços para, dentro do ambiente virtual da internet, praticar crimes, contravenções e mesmo ilícitos de ordem cível.
+
+A sua responsabilidade decorre do fato de que, inexpugnavelmente, detém os meios, as ferramentas, os instrumentos tecnológicos pelos quais possa lograr identificar o número IP e os dados cadastrais dos usuários que, porventura, venham a praticar ilicitudes na internet. Aliás, isso é fato incontroverso, consoante depreendo do teor da peça contestatória, sendo, ademais, fato notório (que, portanto, independe de prova, nos moldes do artigo 334, inciso I, do CPC), porque é sabido e consabido que já existe a tecnologia necessária para tal providência verificatória. 
+
+Apenas para exemplificar, acaso fosse equivocada a assertiva supra, decerto é que muitos pedófilos passariam sobranceiros a qualquer investigação; ocorre que, ao revés, muitas investigações não são malogradas, o que se sucede exatamente pelo fato de que são obtidos, junto às empresas provedoras de acesso à internet, os dados cadastrais das pessoas que se valem de certos números IP para a prática dos atos ilícitos.  
+
+A mera alegação de impossibilidade de fornecimento dos dados colimados pelo autor (e ao depois requisitados pelo Juízo, por força de decisão que, irrecorrida, irradia todos os efeitos jurídicos de praxe), por força de problemas técnicos no sistema de armazenamento, não me convence, a uma porque se cuida de alegação genérica, não tendo a ré sequer se dignado a esclarecer melhor em que consistiu tal problema (esta desídia retórica a mim esconde o que, em verdade, não passa de uma patranha); e a duas porque este posicionamento, ao que vejo, está em rota de colisão com outra argumentação tecida pela ré, consoante a qual o problema seria decorrente dos custos do armazenamento, o que deixa a entrever que a suposta impossibilidade seria tributária não do aduzido problema técnico, mas sim da cupidez da ré, que, pouco se importando com o padrão de segurança que hodiernamente se exige das provedoras de acesso à internet e dos sites de relacionamento (por meio dos quais outrossim cada vez mais são perpetrados ilícitos civis e criminais), faz pouco caso e não se compromete minimamente com a segurança de sua atividade.
+
+Conquanto considere que a atividade da ré, por si só, intrinsecamente reputada, não é de risco, a situação de risco deriva mediatamente, obliquamente, de soslaio, da sua atividade, quanto esta não é acompanhada das salvaguardas que exigem a hodierna sociedade, cada vez mais ligada ao meio virtual da WWW. Tais salvaguardas residiriam exatamente na manutenção dos dados cadastrais de todos os números IP, utilizados em certa data e horário, porque absolutamente previsível a ocorrência de ilícitos criminais e cíveis através de tais números, não podendo a ré, desta feita, alegar ignorância sobre a amplitude da problemática sob enfoque, que mais e mais vem preocupando a todos, incessantemente.
+
+E tal manutenção, nada obstante a falta de regulação específica (que, consoante adrede anotado, não tem o poder de elidir a atuação do Poder Judiciário, diante de lesão a direito de pronto apreensível, exatamente como ocorre no caso vertente, já que é cediço que não são poucos os casos de solicitação fraudulenta de cartões de crédito e variada gama de outros serviços e produtos, daí derivando, por consectário lógico, o interesse processual do banco-autor), deve ao menos ser assegurada por um prazo razoável.
+
+A despeito da validade da recomendação advinda do Comitê Gestor da Internet no Brasil, pela manutenção dos dados pelo prazo mínimo de três anos, não se me avista razoável que não tivesse a ré as condições para manter o arquivamento ao menos pelo interregno de menos de dois meses, correspondente ao prazo decorrido entre a data das conexões mencionadas pelo autor na prefacial e a data da citação da ré.
+
+A defesa da ré, com efeito, não se alicerça em seara segura o suficiente para o simplório decreto de perda do objeto da ação; ao revés, a omissão da ré, que considero como verdadeira atitude negligente, que teve o poder de causar ameaça de lesão a direito do autor, mercê de tudo o quanto alinhavado precedentemente, consubstancia-se em ato ilícito, nos termos do artigo 186 e artigo 927 do CC.
+
+A impossibilidade de obtenção da tutela específica requesta, por conseguinte, a conversão da pretensão em perdas e danos, as quais deverão ser liquidadas ulteriormente, devendo a estimação levar em consideração, precipuamente, o grau de chance de perda pecuniária decorrente de estornos com cobranças indevidas feitas através de cartões de crédito não solicitados pelos verdadeiros correntistas, de dezesseis cartões, conforme mencionado na prefacial e não impugnado especificamente.
+
+O autor deverá indicar o valor médio de gastos mensais de seus correntistas com cartão de crédito (considerando o mês de junho de 2007, por se cuidar do mês logo subsequente ao mês em que ocorreram os acessos indevidos mencionados pelo banco na petição inicial), e o grau de estorno deverá ser da ordem de 100% de tais gastos médios mensais (considerando que seriam dezesseis cartões emitidos fraudulentamente, ao arrepio de pedido dos verdadeiros correntistas), tendo em vista a chance, bastante provável, em casos desta natureza, de enfrentamento de ações judiciais, veiculando até mesmo pedidos de reparação por danos morais.
+            
+DISPOSITIVO.
+
+- 3 -   
+Ante ao exposto, com fundamento no artigo 269, inciso I, do Código de Processo Civil, com resolução do mérito, JULGO PROCEDENTE o pedido, o que faço para, diante da impossibilidade de condenação da ré ao cumprimento da obrigação de fazer específica, condená-la ao pagamento das perdas e danos, a serem apuradas, em pecúnia, nos moldes supra alinhavados.
+
+Sucumbente, condeno a ré ao pagamento das despesas com as custas processuais e ao pagamento dos honorários do patrono do autor, que fixo, com espeque no artigo 20, § 4º, do CPC, levando em consideração principalmente a natureza e importância (até mesmo pedagógica) da causa, assim como o tempo exigido para o serviço, em R$ 10.000,00, dada a iliquidez desta sentença. 
+
+P.R.I.C.
+
+De Santa Bárbara D'Oeste p/ São Paulo
+Aos 02 de fevereiro de 2011. 
+
+
+   THIAGO GARCIA NAVARRO SENNE CHICARINO
+  Juiz de Direito Designado

@@ -1,0 +1,46 @@
+
+
+SENTENÇA
+Processo nº:0223234-12.2009.8.26.0002
+Classe - AssuntoProcedimento Ordinário - Assunto Principal do Processo >
+Requerente:Site de Busca Serviços de Internet Ltda
+Requerido:Terra Networks Brasil S/A
+Juiz(a) de Direito: Dr(a). Alessandra Laperuta Nascimento Alves de Moura
+
+
+Vistos.
+SITE DE BUSCA SERVIÇOS DE INTERNET LTDA. move a presente em face de TERRA NETWORKS BRASIL S/A, sustentando, em resumo, que é empresa atuante no ramo de internet desde 26/05/2004. Dentre seus negócios, encontra-se o serviço Divulga Fácil, criado em 09/06/2004, através do website divulgafacil.com.br. Tal serviço de divulgação consiste num tipo de publicidade que aumenta o número de visitantes nos sites divulgados através do divulgafacil.com.br. Afirma que registrou os nomes de domínio divulgafacil.com.br e divulgafacil.com junto às instituições responsáveis pelos registros de internet no Brasil e no exterior. Ocorre que, em abril de 2009, foi surpreendido com uma notificação extrajudicial, encaminhada pela requerida, solicitando a interrupção do negócio Divulga Fácil, em razão de pedido de registro dessa marca no INPI, formulado pela última. Além disso, alega que a demandada vem utilizando a expressão "divulga fácil". Assim, com o ajuizamento da presente demanda pretende que a ré seja condenada a se abster de adotar quaisquer medidas voltadas a impedir ou dificultar o exercício de seu direito de propriedade sobre o domínio www.divulgafacil.com.br e o exercício das atividades relacionadas à operação do serviço "Divulga Fácil", bem como que se abstenha de utilizar a expressão "Divulga fácil" e, ainda que se abstenha de utilizar os nomes de domínio www.divulgafacilterra.com.br e www.divulgafacil.terra.com.br, com o cancelamento e a indisponibilidade dos mesmos. Requereu a condenação da ré ao pagamento de indenização pelos danos decorrentes da concorrência desleal. (fls. 02/15). Juntou documentos (fls. 16/58).
+Houve emenda (fls. 69/70), recebida a fls. 74.
+Citada, a ré ofereceu contestação (fls. 149/162) e reconvenção (fls. 79/87).
+Na contestação, alegou que desde o ano de 2004 presta aos usuários o serviço denominado Divulga Fácil, o qual tem por finalidade proporcionar à sua carteira de clientes a divulgação de seus websites perante o Portal Terra. Ademais, formulou pedido de utilização da marca e inclusive depositou junto ao INPI, no ano de 2005, o requerimento de registro, embora tenha lançado o produto somente em 2008. Afirma que o autor tinha conhecimento desse pedido de registro e não apresentou qualquer oposição. Assevera que a FAPESP não tem competência para conceder ou negar propriedade sobre expressões de identificação de produtos ou serviços, sendo certo que tal função cabe ao INPI. Insurgiu-se contra o pedido de indenização e, ao final, requereu a improcedência. Juntou documen tos (fls. 163/225). 
+Réplica a fls. 229/254.
+Na reconvenção, a reconvinte requereu a cessação da utilização da marca "Divulga Fácil", com incidência de multa diária no valor de R$10.000,00 em caso de descumprimento, bem como a retirada do site do autor reconvindo da rede mundial de computadores.
+Houve contestação à reconvenção (fls. 267/296).
+Réplica à reconvenção a fls. 305/312.
+É o relatório.
+Decido.
+O feito comporta julgamento antecipado, nos termos do art. 330, I, do CPC.
+Afasto as preliminares suscitadas na reconvenção, uma vez que se confundem com o próprio mérito da demanda e com ele serão analisadas. 
+Cuida-se de ação para cumprimento de obrigação de não fazer cumulada com pedido indenizatório.
+De início, é necessário distinguir marca e domínio na internet, uma vez que não são institutos idênticos.
+Pela lição de Fábio Ulhoa Coelho, ?A marca é o designativo que identifica produtos e serviços. Não se confunde com outros designativos presentes na empresa, assim o nome empresarial, que identifica o empresário e o título de estabelecimento, referindo ao local do exercício da atividade econômica.? (in Manual de Direito Comercial. 19ª edição, Ed. Saraiva, 2007, p. 90).
+Domínio, por sua vez, é um endereço que facilita a memorização e permite a localização de um computador ou serviço dentro da rede mundial de computadores. 
+Assim, para se conectar à internet, com o objetivo de disponibilização de informações e serviços, é necessário o registro de nomes de domínio e a atribuição de endereços de IP (Internet Protocol).
+No Brasil, ainda não existe legislação específica que regule a questão do domínio na internet, o que tem gerado situações peculiares, como a dos autos, em que se deve realizar uma interpretação sistemática de toda a legislação vigente, a fim de dar correta solução à lide.
+No caso, a demandada Terra Networks Brasil S/A alega que é titular da marca "Divulga Fácil", o que poderia, em tese, inibir a pretensão do autor de continuar utilizando a marca no campo da internet.
+Todavia, verifica-se dos autos que a marca ?Divulga Fácil? não foi efetivamente registrada pela ré no INPI. O primeiro pedido de registro foi indeferido, nos termos do art. 124, VI e VII da Lei de Propriedade Industrial, por se tratar de expressão de caráter genérico. O segundo requerimento ainda não foi concluído.
+Desta feita, como não há registro da marca ou da invenção do serviço no INPI, a expressão ?divulga fácil? pode ser utilizada isoladamente por qualquer uma das partes.
+Resta decidir sobre os efeitos da proteção decorrente do registro do endereço eletrônico ?Divulga Fácil?, levado a efeito pelo autor junto à FAPESP.
+Conforme já anotado, não há lei específica a respeito dos registros de nomes de domínio. Essa regulamentação se dá basicamente através de Resoluções do Comitê Gestor da Internet no Brasil, que atribuiu competência ao Núcleo de Informação e Coordenação do Ponto BR-NIC.br, sendo certo que o critério adotado é o da precedência. Assim, o direito ao nome de domínio ?divulgafacil.com? ou ?divulgafacil.com.br? pertence ao autor, pois foi quem primeiro requereu o registro, que na época era realizado junto à FAPESP.
+Tal proteção, contudo, não tem a amplitude pretendida pelo requerente, pois limita-se apenas a impedir que terceiros utilizem o mesmo domínio perante a rede mundial de computadores. Ou seja, esse registro só garante que ninguém mais utilize o mesmo nome de domínio na internet.
+Assim, o registro em questão não impede a utilização da expressão ?Divulga Fácil? pela ré, a fim de designar um serviço restrito prestado aos clientes dentro de seu próprio portal.
+Ressalte-se, outrossim, que a expressão é comum e não se liga ao nome empresarial de qualquer das partes.
+Diante desse quadro, impõe-se a improcedência do pedido deduzido em juízo, não prosperando também o pedido reconvencional.
+Posto isso e considerando o mais que dos autos consta, JULGO IMPROCEDENTES os pedidos contidos na inicial e IMPROCEDENTE o pedido reconvencional. Em razão da sucumbência recíproca, cada parte arcará com as custas que despendeu, bem como com os honorários de seus respectivos patronos.
+P. R. I. C.
+
+São Paulo, 28 de fevereiro de 2011.
+
+
+Alessandra Laperuta Nascimento Alves de Moura
+                         Juíza de Direito

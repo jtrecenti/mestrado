@@ -1,0 +1,80 @@
+
+
+SENTENÇA
+
+Processo nº:0168337-94.2010.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Material
+Requerente:Karina Dubeux Berardo Carneiro da Cunha
+Requerido:Google Brasil Internet Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Ivo Roveri Neto
+
+
+Vistos.
+
+KARINA DUBEUX BERARDO CARNEIRO DA CUNHA ajuizou a presente ação de indenização cumulada com tutela inibitória contra GOOGLE BRASIL INTERNET LTDA., pedindo a condenação da ré para: (i) apagar a página www.drakarinadeboux.blogspot.com, bloqueando qualquer acesso, inclusive dos sites de busca; (ii)identificar nome de usuário e IP do criador e mantenedor da página impugnada; (iii) pagar indenização à autora, em valor a ser arbitrado por este juízo; e (iv)arcar com o ônus sucumbencial. Acostou documentos.
+
+Antecipação da tutela foi deferida (fl. 52), para determinar que a ré promova o bloqueio da página em questão, impedindo qualquer acesso, inclusive por sites de busca, promovendo ainda a identificação do nome do usuário e IP do criador e mantenedor da mesma página, sob pena de multa diária.
+
+A ré cumpriu em parte a antecipação da tutela, providenciando a remoção do blog e apresentando dados do usuário criador do referido blog que estavam disponíveis nos seus servidores (fls. 66/69). Ainda, a ré interpôs agravo de instrumento, aduzindo não ter condições de cumprir integralmente decisão, por impossibilidade técnica em fornecer os dados referentes ao IP (Internet Protocol). O v. Acórdão acolheu o recurso para revogar a decisão agravada, concluindo não haver mais necessidade na manutenção do gravame imposto na decisão, porque a ré já havia removido o blog em questão e já havia fornecido todos os dados de que dispunha sobre o seu criador (fls. 306/314).
+
+A ré foi citada e apresentou contestação (fls. 104/214), também acompanhada de prova documental. Ela arguiu preliminar de ilegitimidade passiva ad causam e no mérito sustentou, em resumo, não ter responsabilidade pelo evento lesivo.
+
+Houve réplica (fls. 219/226). Foi realizada audiência de conciliação (fl. 236 e verso), mas a conciliação restou infrutífera. 
+
+É o relatório do essencial. Passo a fundamentar e a decidir.
+
+A preliminar arguida pela ré pertine ao mérito (existência de responsabilidade pela ofensa lançada contra a autora) e nesse âmbito deve ser analisada.
+
+Cabe julgamento antecipado da lide, nos termos do artigo 330, inciso I, do Código de Processo Civil.
+
+A pretensão inicial procede em parte.
+
+É incontroverso nos autos que a página www.drakarinadeboux.blogspot.com (fls 18/20) estava hospedada no Blogspot (ou Blogger), que é o provedor de serviço de hospedagem de páginas pessoais de usuários administrado pela ré. 
+
+A ré possui responsabilidade. Não pela publicação em si, claro, já que não deu causa a ela, mas pela omissão em retirar o conteúdo ofensivo mesmo após informada a respeito. No caso, há evidência de que a autora entrou em contato diversas vezes com a ré para dar conhecimento formal dos fatos e solicitar a retirada do blog (fls. 36, 41 44/45 e 46).
+
+Como administradora da rede, ela tem, por certo, condições de excluir publicações ofensivas, quando informada a respeito. Tanto é assim que mantém canal para ser avisada pelos usuários. Mas ela não se utilizou desse poder que em verdade melhor se assemelha a um poder-dever para evitar ou reduzir os danos causados à autora. Logo, responde pela desídia.
+
+Parece evidente que a página tinha caráter ofensivo à autora, no exercício da medicina, extrapolando o saudável direito de crítica da atuação profissional da autora. A usuária da página diz ser paciente da autora e que estava tomando um antidepressivo sem precisar e sem saber, atribuindo esse fato à autora. Além disso, diz ter usado uma substância durante a gravidez por indicação da autora, ficando sabendo posteriormente que quando usa esta substância durante a gestação nenê nasce com mais pelugem (sic). Por fim, diz que a autora é totalmente fora de ética e uma médica sem postura. Não fosse suficiente o caráter difamatório do texto, no caso dos autos, não se pode falar em dúvida razoável sobre a ilicitude do conteúdo, pois a autoria do texto é atribuída à própria pessoa que está sendo difamada, que por sua vez é a pessoa que solicitou a exclusão do conteúdo (autora). Portanto, manifesta a ilicitude do conteúdo.
+
+Em se tratando de responsabilidade por ato próprio (omissivo), não há falar em ilegitimidade (como dito) ou fato de terceiro.
+
+Em verdade, a questão aqui tratada não é nova, já foi debatida nos tribunais e chegou a ser analisada, em data recente, pelo Superior Tribunal de Justiça, em julgado cuja ementa a seguir transcrevo:
+
+CIVIL E CONSUMIDOR. INTERNET. RELAÇÃO DE CONSUMO. INCIDÊNCIA DO CDC. GRATUIDADE DO SERVIÇO. INDIFERENÇA. PROVEDOR DE CONTEÚDO. FISCALIZAÇÃO PRÉVIA DO TEOR DAS INFORMAÇÕES POSTADAS NO SITE PELOS USUÁRIOS. DESNECESSIDADE. MENSAGEM DE CONTEÚDO OFENSIVO. DANO MORAL. RISCO INERENTE AO NEGÓCIO. INEXISTÊNCIA. CIÊNCIA DA EXISTÊNCIA DE CONTEÚDO ILÍCITO. RETIRADA IMEDIATA DO AR. DEVER. DISPONIBILIZAÇÃO DE MEIOS PARA IDENTIFICAÇÃO DE CADA USUÁRIO. DEVER. REGISTRO DO NÚMERO DE IP. SUFICIÊNCIA. 1. A exploração comercial da internet sujeita as relações de consumo daí advindas à Lei nº 8.078/90. 2. O fato de o serviço prestado pelo provedor de serviço de internet ser gratuito não desvirtua a relação de consumo, pois o termo mediante remuneração, contido no art. 3º, § 2º, do CDC, deve ser interpretado de forma ampla, de modo a incluir o ganho indireto do fornecedor. 3. A fiscalização prévia, pelo provedor de conteúdo, do teor das informações postadas na web por cada usuário não é atividade intrínseca ao serviço prestado, de modo que não se pode reputar defeituoso, nos termos do art. 14 do CDC, o site que não examina e filtra os dados e imagens nele inseridos. 4. O dano moral decorrente de mensagens com conteúdo ofensivo inseridas no site pelo usuário não constitui risco inerente à atividade dos provedores de conteúdo, de modo que não se lhes aplica a responsabilidade objetiva prevista no art. 927, parágrafo único, do CC/02. 5. Ao ser comunicado de que determinado texto ou imagem possui conteúdo ilícito, deve o provedor agir de forma enérgica, retirando o material do ar imediatamente, sob pena de responder solidariamente com o autor direto do dano, em virtude da omissão praticada. 6. Ao oferecer um serviço por meio do qual se possibilita que os usuários externem livremente sua opinião, deve o provedor de conteúdo ter o cuidado de propiciar meios para que se possa identificar cada um desses usuários, coibindo o anonimato e atribuindo a cada manifestação uma autoria certa e determinada. Sob a ótica da diligência média que se espera do provedor, deve este adotar as providências que, conforme as circunstâncias específicas de cada caso, estiverem ao seu alcance para a individualização dos usuários do site, sob pena de responsabilização subjetiva por culpa in omittendo. 7. A iniciativa do provedor de conteúdo de manter em site que hospeda rede social virtual um canal para denúncias é louvável e condiz com a postura esperada na prestação desse tipo de serviço - de manter meios que possibilitem a identificação de cada usuário (e de eventuais abusos por ele praticado) - mas a mera disponibilização da ferramenta não é suficiente. É crucial que haja a efetiva adoção de providências tendentes a apurar e resolver as reclamações formuladas, mantendo o denunciante informado das medidas tomadas, sob pena de se criar apenas uma falsa sensação de segurança e controle. 8. Recurso especial não provido (REsp. 1308830/RS, 3ª TURMA, Ministra NANCY ANDRIGHI, j. 08/05/2012, DJe 19/06/2012).
+
+Nesse sentido, ainda:
+
+Ao ser comunicado de que determinado texto ou imagem possui conteúdo ilícito, deve o provedor agir de forma enérgica, retirando o material do ar imediatamente, sob pena de responder solidariamente com o autor direto do dano, em virtude da omissão praticada (Recurso Especial n. 1.193.764-SP, Terceira Turma, Relatora Ministra Nancy Andrighi, julgamento em 14.12.10).
+
+O Tribunal de Justiça de São Paulo, em casos parelhos, também reconheceu a responsabilidade da ré em razão da conduta omissiva por ela adotada:
+
+DANO MORAL - Indenização - Discutível a aplicação da responsabilidade objetiva do provedor de hospedagem pelos conteúdos de autoria de terceiros - De um lado, se afirma a inexistência de um dever de censura do provedor de hospedagem sobre os pensamentos e manifestações dos usuários - De outro lado, se afirma que se trata, pela própria ausência de controle, de atividade de risco, ou de risco da atividade - Inocorrência de dúvida razoável sobre a ilicitude do conteúdo, que em tese permitiria ao provedor aguardar determinação judicial - Comunidades falsas com conteúdo nitidamente ofensivas à honra do autor que permitem, a um primeiro exame, a aferição da ilicitude por parte da ré - Criação de perfil falso e de conteúdo prima facie ilícito, gerador de responsabilidade civil do provedor, retirado dias após a notificação do autor, antes mesmo da propositura da medida cautelar - Ação procedente - Recurso da ré parcialmente provido, para reduzir a condenação ao pagamento de danos morais à quantia de R$ 200.000,00. (Apelação n. 990.10.126564-8, São Paulo, 4ª Câmara de Direito Privado, Relator Francisco Loureiro, j. 21.10.2010)
+
+Ementa - Responsabilidade Civil - Provedor de internet, veiculador de rede social, que demora para cancelar ou retificar página de perfil de usuário alterada por ato de terceiro - Dano Moral - Caracterização - Conduta omissiva configurada ? Dever de remover imediatamente a publicação violadora dos direitos da personalidade do consumidor - Valor da compensação - Decréscimo ? Não cabimento - Pertinência às particularidades da lide - Sentença mantida - RITJSP, art.  252 - Recurso improvido. (Apelação n. 0022604-78. 2009.8.26.0344, Marília, 7ª Câmara de Direito Privado, Relator LuizAntônio Costa, j. 17.08.2011)
+
+Portanto, o dano moral da autora não decorre pelo fato de não ter impedido a divulgação das ofensas e sim por não ter suspendido a divulgação da mesma assim que foi alertada pela autora.
+
+No tocante ao pedido de a ré identificar nome de usuário e IP do criador e mantenedor da página impugnada, não procede tal pedido, como bem decidiu o E. Tribunal de Justiça, nos termos do Agravo de Instrumento nº. 0407191-85.2010.8.26.0000, da 1ª. Câmara de Direito Privado:
+
+E, no caso dos autos, a recorrente já removeu o blog em questão, bem como forneceu todas as informações que possuía relativamente ao criador do blog (cópias de fls. 133/136). Alega não possuir, todavia, os dados referentes ao IP (Internet Protocol), o que impossibilita a correta identificação do usuário que praticou o suposto ilícito. Afigura-se, pois, verossímil a alegação de que são os únicos dados que possui. 
+Diz que não tem como fornecer os dados do usuário, porquanto o "blog" reclamado na demanda está inativo desde 2007. Isto ocorre porque somente está obrigada a armazenar os dados por 180 dias, conforme acordo firmado com o Ministério Público Federal.
+Está-se diante, portanto, de uma verdadeira impossibilidade técnica de se cumprir integralmente a determinação judicial, o que não se confunde com descumprimento injustificado da decisão.
+
+Com relação ao valor compensatório, considerando as circunstâncias do caso, notadamente a condição financeira das partes, o grau de culpa e a lesividade da conduta, considerando ainda a demora da autora em ajuizar a presente demanda desde a primeira notificação enviada pela autora à ré (fl. 36), o valor de R$5.000,00 (cinco mil reais) revela-se suficiente.
+
+Pelo exposto, JULGO PROCEDENTE EM PARTE a pretensão inicial para confirmar a antecipação de tutela, no que concerne à remoção da página em questão, e condenar a ré a pagar-lhe R$ 5.000,00 (cinco mil reais), a título de danos morais, atualizados a contar desta data e acrescidos de juros moratórios contados da data em que a ré recebeu a notificação extrajudicial (07 de dezembro de 2009 ? fl. 38), por se tratar de ilícito aquiliano (Súmula 54 do STJ).
+
+Sucumbente, a ré arcará com as custas e despesas processuais, incluindo honorários do advogado da autora, que fixo em 20% do valor da condenação. O decaimento mínimo do pedido não implica sucumbência recíproca.
+
+P. R. I. C.
+
+São Paulo, 09 de novembro de 2012.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

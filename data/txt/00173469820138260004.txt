@@ -1,0 +1,66 @@
+
+
+SENTENÇA
+
+Processo Físico nº:0017346-98.2013.8.26.0004
+Classe - AssuntoProcedimento Ordinário - Obrigação de Fazer / Não Fazer
+Requerente:Karla Monteiro Fernandes Carneiro
+Requerido:Sul América Seguros Saúde S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Julio Cesar Silva de Mendonça Franco
+
+
+
+
+Vistos, etc.
+
+
+
+
+I. KARLA MONTEIRO FERNANDES CARNEIRO promoveu a presente ação de obrigação de fazer, pelo rito ordinário, em face de SUL AMÉRICA SEGUROS SAÚDE S.A., alegando, em síntese, que é portadora de 'adenocarcinoma gástrico mucinoso em anel de sinete (pt4n2mx) Her Negativo (escore 0)' e em razão disso precisou se submeter a cirurgia para a retirada de estômago, baço e pâncreas caudal, nas dependências do Hospital Sírio-Libanês, e necessitou realizar o tratamento oncológico, a quimioterapia (com aplicação de medicamentos diversos) e o tratamento odontológico decorrente da quimioterapia. Disse que possui contrato de assistência à saúde com a requerida, mas esta estaria se recusando a custear as despesas médico-hospitalares, os procedimentos (inclusive o exame ?Pet Scan?) e os remédios para tratamento quimioterápico (?Xelox? e ?Granulokine?), os quais seriam imprescindíveis para a sua recuperação. Entende que a atitude da ré é ilegal. Pediu a tutela antecipada para impelir a requerida ao pagamento do débito junto ao Hospital Sírio-Libanês (R$ 45.115,57) e a procedência da ação para condenar a ré à obrigação de cobertura de todas as despesas já referidas.
+O pedido de tutela antecipada foi deferido a fls. 218/219.
+Devidamente citada (fls. 232), a requerida apresentou contestação (fls. 234/250). Preliminarmente, disse que cumpriu a tutela antecipada deferida pelo juízo. No mérito, negou o dever de cobertura das despesas com o exame ?Pet Scan? (o qual não seria obrigatório para câncer de estômago) e com os medicamentos Xelox (a cobertura domiciliar seria vedada no contrato) e Granulokine (medicamento de procedência internacional, necessariamente importado, e sem obrigação de cobertura). Pediu a improcedência da ação. 
+Houve réplica (fls. 264/278).
+Determinada a especificação de provas (fls. 279), a autora disse não possuir outras provas a produzir (fls. 281/282) e a requerida se quedou em silêncio (fls. 283).
+A audiência de tentativa de conciliação resultou prejudicada, diante da ausência da autora e do seu advogado (fls. 293).
+
+É o breve relatório.
+
+D E C I D O.
+
+II. A ação é procedente.
+
+De início, cumpre denotar que a matéria controvertida está a dispensar a ampliação do leque instrutório, motivo pelo qual se faz viável o julgamento antecipado da contenda.
+Pelo que se depreende da inicial e dos documentos juntados, a autora foi diagnosticada portadora de 'adenocarcinoma gástrico mucinoso em anel de sinete (pt4n2mx) Her Negativo (escore 0)' e em razão disso precisou se submeter a cirurgia para a retirada de estômago, baço e pâncreas caudal. Todavia, a ré teria se negado a realizar a cobertura contratual das despesas médico-hospitalares, exames clínicos, tratamentos oncológico, quimioterápico e odontológico (este último decorrente da quimioterapia) e dos medicamentos necessários à sua recuperação.
+Sobre o assunto, a ré negou o dever de cobertura, alegando que os exames e medicamentes solicitados pela autora não teriam previsão ou obrigatoriedade de reembolso no contrato, na lei ou em normas regulamentares.
+Pois bem. Ficou incontroverso nos autos que a autora é portadora da moléstia descrita na inicial (câncer no estômago). Assim, necessitou realizar o tratamento oncológico e todos os tratamentos e exames daí decorrentes, incluindo o tratamento odontológico e o uso contínuo de medicamentos.
+Importante frisar que todos os tratamentos, assim como os exames clínicos e os medicamentos correlatos foram prescritos por médicos. Esse fato está fartamente provado pelos documentos que instruíram a petição inicial (fls. 97, 102, 106/110, 123, 124, 139, 142, 143, 161, 178, 183 e 192, entre outros). 
+Ora, havendo prescrição médica para o tratamento, para exames e para os medicamentos necessários à recuperação do paciente, não tem cabimento a negativa de cobertura por parte da seguradora contratada. Tal entendimento está pacificado no âmbito do Egrégio Tribunal de Justiça de São Paulo: 
+
+Súmula 95: Havendo expressa indicação médica, não prevalece a negativa de cobertura do custeio ou fornecimento de medicamentos associados a tratamento quimioterápico.
+Súmula 96: Havendo expressa indicação médica de exames associados a enfermidade coberta pelo contrato, não prevalece a negativa de cobertura do procedimento.
+Súmula 102: Havendo expressa indicação médica, é abusiva a negativa de cobertura de custeio de tratamento sob o argumento da sua natureza experimental ou por não estar previsto no rol de procedimentos da ANS.
+
+Isso vale também para o exame ?pet scan?, utilizado amplamente em medicina nuclear e conhecido por sua maior eficiência e precisão em relação aos equipamentos tradicionais para a detecção de metástases. Assim, não importa se o exame era para câncer de estômago ou para câncer de pulmão. Se o médico responsável decidiu pela sua realização, não cabe à ré-seguradora discutir se o exame era, ou não, apropriado e necessário.
+Do mesmo modo, a ré deve cobrir o custeio dos medicamentos prescritos pelos profissionais que atenderam a autora (Xelox e Granulokine), pouco importando se os mesmos são entregues em domicílio, ou se têm procedência internacional, pois basta o fato de que estão ligados intrinsecamente ao tratamento oncológico ministrado pelo médico ao paciente.
+Nesse sentido, têm decidido o Egrégio Tribunal de Justiça de São Paulo:
+?PLANO DE SAÚDE Ação de obrigação de fazer cumulada com pedido de tutela antecipada Autora portadora de câncer Apelo contra sentença que julgou procedente a demanda Exame PET-CT Autorização negada pela operadora ao fundamento de ainda não ter sido incluído no rol dos procedimentos da ANS Descabimento Avença regida pela lei 9656/98, à égide da qual recusa de tal ordem não se admite Pedido de redução dos honorários advocatícios Possibilidade Recurso parcialmente provido para tal fim? ( Apelação nº 0140315-55.2012.8.26.0100 - SÃO PAULO, 8ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo, Desembargador Relator Luiz Ambra, j. em 25/06/2014, Deram provimento em parte ao recurso. V. U.).
+
+?PLANO DE SAÚDE AÇÃO DE OBRIGAÇÃO DE FAZER Inconformismo por parte da Ré Apelada portadora de carcinoma com metástase Recomendado, por médico dos quadros da Ré, o Tratamento com uso do medicamento ?Xelox ou Xeloda? Negativa do plano de saúde, sob o argumento de que se trata de medicamento a ser ministrado via oral, em ambiente domiciliar Deve prevalecer a noção de tratamento em sentido amplo, de modo a incluir o fornecimento das medicações na cobertura do tratamento de câncer, não podendo dele ser dissociado simplesmente pelo fato de a paciente não estar internada. Abusividade Contrato prevê o tratamento de quimioterapia Aplicação da Súmula 95, do Tribunal de Justiça de São Paulo Recurso Improvido? (Apelação nº 0149382-78.2011.8.26.0100, da Comarca de São Paulo, 2ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo, Desembargador Relator GIFFONI FERREIRA, j. em 10/09/2013, "Negaram provimento ao recurso, V. U.").
+
+?Plano de saúde Paciente acometido por LINFOMA NÃO HOKDGKIN ESCLEROSE NODULAR Prescrição por médico cooperado e que assistia o paciente dos medicamentos FILSGASTRIN e GRANOLOKINE [3 injeções diárias antes da realização das sessões de quimioterapia] Custos do fornecimento da droga a cargo da Cooperativa, independentemente de o contrato ter sido celebrado com a UNIMED DE GUARULHOS e o procedimento realizado na cidade de São Paulo, com o repasse de utilização da rede para a UNIMED PAULISTANA, responsável pela emissão da guia de pagamento para o hospital AC Camargo - Remédio indispensável para garantir as chances de vida do paciente Predominância do direito à vida Ocorrência de danos morais, na hipótese, mantido o quantum fixado em R$ 20.000,00 Não provimento dos recursos, rejeitada a preliminar de ilegitimidade de parte passiva levantada pela UNIMED PAULISTANA? (Apelação nº 0073559-17.2011.8.26.0224, da Comarca de Guarulhos, 4ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo, Desembargador Relator Enio Zuliani, j. em 22/05/2014, "Negaram provimento aos recursos. V.U."). 
+
+De qualquer modo, a requerida não pode se furtar ao cumprimento das suas obrigações legitimamente contratadas, invocando restrições supostamente permitidas por resolução normativa da ANS, porque tais normas não podem se sobrepor à Constituição e à legislação ordinária, as quais garantem, sobretudo, o direito à vida e à dignidade humana. 
+Finalmente, deve ser dito que a ré deve mesmo ser compelida ao pagamento do débito pendente junto ao hospital em que se internou a autora, diante do dever de cobertura estipulado no contrato de assistência à saúde.
+Por todo o exposto, bem se vê que a negativa de cobertura por parte da requerida não se mostra justa e ofende ao regramento legal em vigor, o que leva à procedência da ação.
+ 
+III. Posto isto, JULGO PROCEDENTE a presente ação de obrigação de fazer movida por KARLA MONTEIRO FERNANDES CARNEIRO em face de SUL AMÉRICA SEGUROS SAÚDE S.A., para o fim de determinar à requerida a quitação ou reembolso do débito em nome da autora diretamente junto ao Hospital Sírio Líbanês, no prazo de cinco (05) dias, por conta dos tratamentos indicados às fls. 20, item ?4?, devendo a acionada suportar as despesas hospitalares que se fizeram necessárias para a aplicação dos medicamentos XELOX' e 'GRANULOKINE', a realização de exame 'PET SCAN' e tratamento odontológico, no valor de R$ 45.115,57, sob pena de pagamento de multa diária de R$ 500,00, até o limite de quantia idêntica àquela exigida pelo nosocômio. Por conseguinte, torno definitiva a tutela antecipada concedida as fls. 218/219.
+Também condeno a acionada ao pagamento das custas, dos emolumentos, das despesas processuais e dos honorários advocatícios, que fixo, equitativamente (artigo 20, § 4º do CPC) em R$ 2.000,00 (dois mil reais), corrigíveis monetariamente a partir de hoje.
+P.R.I.
+São Paulo, 03 de julho de 2014.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

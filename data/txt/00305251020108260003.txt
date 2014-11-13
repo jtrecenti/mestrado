@@ -1,0 +1,71 @@
+
+
+SENTENÇA
+
+Processo nº:0030525-10.2010.8.26.0003
+Classe - AssuntoProcedimento Ordinário - Obrigações
+Requerente:Antonio Jacinto de Souza
+Requerido:Golden Cross Assistência Internacional de Saúde LTDA
+
+
+
+Juiz(a) de Direito: Dr(a). Carlos Eduardo Santos Pontes de Miranda
+
+
+
+
+Vistos.
+Trata-se de processo em trâmite pelo rito ordinário proposto por Antonio Jacinto de Souza em face de Golden Cross Assistência Internacional de Saúde Ltda. 
+Na inicial, o autor alega que é beneficiário de contrato de plano de saúde celebrado entre sua esposa e a empresa ré em 1986. Diz que teve negada cobertura para fornecimento de medicamento prescrito ao tratamento de câncer de próstata. Requer seja a ré condenada a arcar com as despesas do referido medicamento e ao pagamento de indenização por danos materiais e morais. 
+Deferida a antecipação dos efeitos da tutela (fl. 34).
+Devidamente citada (fl. 38), a ré contestou (fls. 40/64). Sustenta que o contrato celebrado entre as partes não prevê cobertura a tratamentos medicamentosos que se realizem fora do ambiente hospitalar ou ambulatorial. Requer a improcedência dos pedidos da inicial.
+Réplica às fls. 98/100.
+Em audiência de conciliação, não foi obtida a composição das partes.
+Vieram conclusos.
+Decido. 
+Cabe julgamento antecipado, pois que desnecessária a produção de prova em audiência (art. 330, I, do CPC).
+A relação travada entre as partes se rege pelo CDC. Primeiro, porque há prestação de serviço a destinatário final. Em segundo lugar, porque se trata de contrato de trato sucessivo, renovado periodicamente, já sob a vigência do citado diploma.
+O autor reclama que a ré lhe negou cobertura de tratamento medicamentoso. Os documentos que acompanham a inicial fazem verossímeis suas alegações, pelo que inverto o ônus da prova (art. 6º, VIII, do CDC).
+Ao contestar, a ré confessa a existência de contrato entre as partes e não impugna a existência da doença do autor e a adequação do Zoladex ao seu tratamento. Todos esses fatos passam a ser, portanto, incontroversos.
+O contrato de plano de saúde foi celebrado em 1986, sem notícia de que tenha se adaptado à Lei 9.656/1998. Por conseguinte, este diploma não se aplica à espécie.
+Tomo como instrumento paradigma o de fl. 15, pois dele consta expressamente o nome da esposa do autor e é assinado pelo diretor presidente da ré (art. 368, caput, do CPC). Os demais são simples cópias apócrifas, sem qualquer valor probante (fls. 24/26 e 65/72).
+Postas essas premissas, passo ao mérito.
+No presente caso, o único ponto controvertido é a previsão de cobertura ao tratamento pretendido pelo autor. O contrato paradigma estipula que (fl. 15v):
+
+Cláusula 18ª ? A CONTRATADA pagará diretamente aos hospitais credenciados:
+(...)
+d) Anestésicos, oxigênio, medicamentos, sangue e seus derivados, utilizados durante o período de internação.
+(...)
+Cláusula 20.ª ? Estão excluídos deste contrato:
+(...)
+XVIII ? Vacinas e auto-vacinas ou medicamentos, salvo nos casos de pacientes internados.
+
+A ré argumenta que o medicamento prescrito ao autor, denominado Zoladex, é ministrado em casa, não necessitando de internação. Por isso, não seria custeado pelo plano de saúde. Não há qualquer prova nesse sentido.
+Em verdade, o Zoladex deve ser ministrado por profissional qualificado, como se extrai de sua bula (fl. 79):
+
+4. Usando uma técnica asséptica, pince a pele do paciente com uma das mãos e, com os dedos, segure a agulha ao redor do cilindro branco. Introduza a agulha hipodérmica no tecido subcutâneo da parede abdominal superior.
+(...)
+5. Mude a direção da agulha de modo que esta fique paralela à parede abdominal. Empurre a agulha até que a porção branca do cilindro toque a pele do paciente. Remova a agulha a uma distância de 1 (um) centímetro a fim de criar um espaço para o depot de ZOLADEX. Empurre completamente o êmbolo para assegurar a descarga do depot de ZOLADEX.
+
+Diante de tais circunstâncias, é de se esperar que a injeção do medicamento se faça, pelo menos, sob a supervisão de um médico, por menor que seja, o que a condicionaria a uma internação, ainda que mínima.
+Além disso, não seria lógico que um tratamento quimioterápico, porque não dependente de internação constante do paciente, tivesse garantia menor do que um tratamento mais dispendioso, que demandasse segregação do enfermo. 
+Tal conclusão se mostra válida diante da premissa de que as cláusulas acima citadas devem ser interpretadas em atenção à boa-fé contratual e de maneira mais favorável ao consumidor (art. 47 do CDC), privilegiando o objeto precípuo do contrato, que é a garantia da saúde do contratante/consumidor. 
+Por conseguinte, certo o dever da ré de prover cobertura ao medicamento prescrito ao demandante.
+A omissão da ré, na espécie, deve ser tomada como prestação defeituosa de serviço (art. 14 do CDC), que teve por vítima o autor (art. 2º do CDC). Desse ato decorre responsabilidade objetiva, na forma do art. 14 do CDC.
+Dano material há, pois o autor arcou com uma dose do medicamento e sua aplicação (fl. 27). O valor pago, R$ 715,35, deve ser indenizado, com correção e juros de mora do desembolso, pois desde então se mostrou ilícita a conduta da ré.
+Quanto aos danos morais, devem ser afastados, porquanto, apesar do descumprimento de cláusula contratual, não se vislumbra abalo maior ao autor que possa ser definido como lesão indenizável, em especial quando se sabe que o restante do tratamento foi custeado por força de liminar. Esse o entendimento do TJSP:
+
+Ementa: PLANO DE SAÚDE - HEMOTERAPIA E SUPORTE NUTRICIONAL - Contrato anterior à Lei 9656/98 - Aplicação ao caso concreto, face ao caráter continuativo da obrigação e a falta de demonstração de exercício de opção - Cláusulas restritivas ilegais - Sentença confirmada na espécie. PLANO DE SAÚDE - DANOS MORAIS - Inocorrência - Descumprimento contratual que causa mero aborrecimento, insuscetível de provocar sofrimento suficiente a justificar condenação - Ensinamentos doutrinários e precedentes jurisprudenciais - Sentença reformada no particular, para afastar tal indenização.   
+(Apelação 0011571-48.2009.8.26.0132. TSJP, 6ª Câmara de Direito, Rel. Des. Percival Nogueira. Julgado em 07/04/2011) 
+
+Ementa: SEGURO SAÚDE - Plano administrado por entidade filantrópica e sem fins lucrativos - Circunstância que não torna diferenciada a relação com o usuário - Aplicação do Código de Defesa do Consumidor - Contratante portador de meningite viral - Recomendação médica para internação em hospital - Recusa da prestadora de serviços fundada na inexistência de cobertura contratual - Sentença de procedência - Declaração de nulidade da cláusula que exclui a obrigação de atendimento a doenças de notificação obrigatória e condenação ao pagamento de indenização por danos morais - Contrato celebrado antes da entrada em vigor da Lei n° 9.656/98 e não adaptado a ela - Irrelevância - Abusividade da recusa da prestadora de serviços - Obrigação de autorizar a internação hospitalar - Recusa que, no entanto, não caracteriza a prática de ato ilícito - Exercício regular de direito a afastar o dever de reparar os danos - Indenização decorrente do descumprimento do contrato inexigível - Apelação parcialmente provida.
+(Apelação 0126531-30.2006.8.26.0000. TJSP, 10ª Câmara de Direito Privado, Rel. Des. Carlos Henrique Trevisan. Julgado em 5/04/2011)
+
+Ante o exposto, julgo procedentes em parte os pedidos da inicial para: a) confirmar a antecipação de tutela de fl. 34 e determinar à re que assegure ao autor o fornecimento do medicamente denominado Zoladex 3,6mg, mediante cobertura contratual própria, abrangendo assim os remédios de uso ambulatorial desde que destinados ao tratamento do Adenocarcinoma de Próstata Gleason 3 4 = 7, sob pena de multa diária de R$ 200,00, limitada a R$ 3.000,00; b) condenar a ré a pagar ao autor indenização por danos materiais no valor de R$ 715,35, corrigida pela Tabela Prática do TJSP e acrescida de juros de mora de 1% ao mês desde setembro de 2009.
+Condeno a ré ao pagamento das despesas processuais e honorários advocatícios, que fixo em R$ 500,00.
+Com o trânsito em julgado, a ré deverá pagar a condenação acima em 15 dias, sob as penas do art. 475-J do CPC.
+P.R.I.C.
+São Paulo, 20 de abril de 2011.
+
+Carlos Eduardo Santos Pontes de Miranda
+Juiz Substituto

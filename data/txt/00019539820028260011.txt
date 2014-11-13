@@ -1,0 +1,44 @@
+
+
+SENTENÇA
+
+
+Processo:0001953-98.2002.8.26.0011 - Procedimento Sumário
+Requerente:Pack Shop Comunicações S/c Ltda
+Requerido:O Corpo do Negocio Ponto de Venda Ltda
+
+Juiz(a) de Direito: Dr(a). Régis Rodrigues Bonvicino
+
+Vistos.
+Pack Shop Comunicações S/c Ltda, qualificado(a), propôs ação Procedimento Sumário contra O Corpo do Negocio Ponto de Venda Ltda, igualmente qualificado(a).
+Alega que contratou a requerida para que ela fornecesse impulsionadoras e força tarefa para o trabalho de promoção de produtos da Nestlé na campanha "Porte Pago". Informa que a ré contratou os serviços das impulsionadoras e da força tarefa, e recebeu o pagamento da quantia de R$ 370.700,56. Aduz que a ré não cumpriu o ajuste, deixando de repassar parte do pagamento às empresas impulsionadoras e força tarefa. Diante de tal fato, aponta que rompeu a avença com a requerida e que ela se comprometeu a cancelar as duplicatas emitidas contra a requerente. Narra que, nada obstante, a transferiu uma das duplicata ao Banco Bradesco S/A, que a levou a protesto junto ao 3º Cartório de Protestos da Capital. Requer a declaração de inexigibilidade do título.
+Juntou documentos.
+Na ação cautelar processada sob nº 000.01.312986-4, a tutela foi deferida para sustar os efeitos do protesto.
+Citada, a ré contestou a fls. 53/55
+Houve réplica a fls. 59/60.
+Consta sentença a fls. 62/64, julgando o feito extinto sem apreciação do mérito em razão de ilegitimidade passiva, com base no art. 267, VI, do Código de Processo Civil.
+O acórdão de fls. 88/91 anulou a sentença e determinou que se prosseguisse a fase instrutória do processo.
+A fls. 95 as partes foram intimadas para indicarem as provas que pretendiam produzir. A autora se manifestou a fls. 97 informando que não pretendia produzir mais provas e a ré não se manifestou, conforme certidão de fls. 98.
+A autora apresentou alegações finais e a ré perdeu o prazo.
+É a síntese.
+Decido.
+Alega que contratou a requerida para que ela fornecesse impulsionadoras e força tarefa para o trabalho de promoção de produtos da Nestlé na campanha "Porte Pago". Informa que a ré contratou os serviços das impulsionadoras e da força tarefa, e recebeu o pagamento da quantia de R$ 370.700,56. Aduz que a ré não cumpriu o ajuste, deixando de repassar parte do pagamento às empresas impulsionadoras e força tarefa. Diante de tal fato, aponta que rompeu a avença com a requerida e que ela se comprometeu a cancelar as duplicatas emitidas contra a requerente. Narra que, nada obstante, a transferiu uma das duplicata ao Banco Bradesco S/A, que a levou a protesto junto ao 3º Cartório de Protestos da Capital. Requer a declaração de inexigibilidade do título.
+A ação improdece. 
+O art. 887 do Código Civil traz o conceito de título de crédito e define os princípios do direito cambiário, nos seguintes termos: 
+"Art. 887. O título de crédito, documento necessário ao exercício do direito literal e autônomo nele contido, somente produz efeito quando preencha os requisitos da lei".
+O princípio da autonomia reside na expressão ?direito autônomo? exarada no conceito de título de crédito. Portanto, a autonomia também é marca que qualifica o direito representado no título e não o próprio título. 
+Do princípio da autonomia extraímos duas características dos títulos de crédito: a abstração e a independência.
+Todo o título de crédito tem uma causa debendi. Contudo, a partir do momento em que o título é transferido a terceiro de boa-fé, há a sua desvinculação do negócio jurídico adjacente, tomando forma a abstração. Note-se que a abstração tem por pressuposto a circulação do título de crédito.
+O adquirente do título, estando de boa-fé, recebe direito novo, autônomo e desvinculado do negócio jurídico adjacente, exatamente pelo fato de não ter participado dessa relação originária. 
+O principal efeito da abstração é a inoponibilidade das exceções pessoais ao terceiro de boa-fé (art. 17 da Lei Uniforme de Genebra). Nesse sentido, o devedor não poderá resistir à pretensão do terceiro portador do título por meio de alegações que invoquem o negócio jurídico subjacente; ou seja, serão vedadas as exceções não fundadas no título.
+No presente feito, verifica-se que o Banco Brradesco adquiriu o direito estampado na duplicata por meio de endosso translativo e, em exercício regular de direito, levou o título a protesto, com o intuito de perseguir o crédito nele representado. A pretensão da autora de declarar inexigível a obrigação estampada na duplicata afetaria o direito creditório de terceiro de boa-fé, o Banco Bradesco, que não participou do negócio jurídico subjacente. Ora, declarar inexigível a duplicata seria violar frontalmente o princípio da abstração dos títulos de crédito, já que o titular do direito é parte estranha ao negócio subjacente.
+Se a ré descumpriu o contrato, a autora deve mover contra ela ação de perdas e danos, mas não pode se voltar contra o direito independente adquirido pelo Banco Bradesco, no momento do endosso.
+"APELAÇÃO CÍVEL. AÇÃO  DECLARATÓRIA DE INEXIGIBILIDADE DE TÍTULO DE CRÉDITO. CHEQUE. CIRCULAÇÃO. ENDOSSO A TERCEIRO DE BOA-FÉ. DISCUSSÃO DO NEGÓCIO JURÍDICO SUBJACENTE. IMPOSSIBILIDADE. INOPONIBILIDADE DAS EXCEÇÕES PESSOAIS. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1.As obrigações decorrentes de cheque, uma vez que posto em circulação, por serem abstratas, devem ser cumpridas frente ao endossatário de boa-fé. Descabe, portanto, a discussão do negócio jurídico subjacente que deu origem ao cheque, tendo em vista, que este se encontra em posse de terceiro, que não havendo prova em contrário, presume-se de boa-fé.
+2.Incide aqui a regra da inoponibilidade das exceções pessoais a terceiro de boa-fé, ou seja, Principio da Abstração, que por sua vez, é extensão do Principio da Autonomia e está consagrado no art. 17 da Lei Uniforme de Genebra, bem como no art. 25 da Lei do Cheque. As obrigações decorrentes de cheque são autônomas e independentes. 
+3.Assim, não prospera o pleito de declaração de inexigibilidade de título, porquanto a emissão e a circulação dos títulos atenderam aos princípios do direito cambiário, não apresentando qualquer irregularidade, nem tampouco, demonstrada má-fé da empresa ré e do terceiro interessado" (TJ-RS - Apelação Cível : AC 70038752218 RS)
+Portanto, se houve descumprimento do contrato pela ré, a autora somente tem em mãos a pretensão indenizatória contra a requerida e não mais a pretensão de declaração de inexigibilidade do título em razão do princípio da autonomia dos títulos de crédito.
+Ante o exposto, JULGO IMPROCEDENTE a ação, com base no art. 269, I, do Código de Processo Civil. Condeno a autora ao pagamento de custas, despesas processuais e honorários de advogado que fixo em 10% do valor da causa.
+P.R.I.C.
+  
+São Paulo, 10 de janeiro de 2014.

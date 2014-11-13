@@ -1,0 +1,75 @@
+
+
+SENTENÇA
+
+Processo nº:0208042-65.2011.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Telefonia
+Requerente:Ozias Vaz
+Requerido:Nextel Telecomunicações Ltda
+
+
+
+Juiz(a) de Direito: Dr(a). Ricardo Dal Pizzol
+
+
+
+
+
+Vistos.
+
+
+
+
+OZIAS VAZ ajuizou ?ação declaratória de inexistência de relação jurídica c/c reparação de danos morais?, com pedido de tutela antecipada, contra NEXTEL TELECOMUNICAÇÕES LTDA.
+Afirma que seu nome foi inscrito nos órgãos de proteção ao crédito em virtude de supostos débitos com a requerida, todavia nunca manteve qualquer relação contratual com a requerida. Pede que os débitos sejam declarados inexistentes e que a requerida seja condenada a pagar indenização por dano moral em valor equivalente a 10 (dez) vezes o valor do apontamento indevido.
+Tutela antecipada concedida à fl. 15.
+Citação da requerida à fl. 35. Em contestação (fls. 37/44), a requerida afirma que: ( i ) para a contratação de seus serviços foram exigidos e apresentados os documentos pessoais do autor (RG, CPF e comprovante de residência);      ( ii ) celebrado o contrato, houve a prestação de serviços com a consequente emissão de fatura, a qual foi inadimplida, ocasionando a inclusão do nome do autor no Serasa; ( iii ) caso um estelionatário tenha se utilizado dos documentos do autor, deve ser reconhecida a culpa exclusiva de terceiro.  
+Réplica às fls. 77/80.
+Manifestação da requerida com juntada de documentos (fls. 88/94), seguida de manifestação do requerente.
+É o relatório.
+
+Passo a fundamentar.
+
+1. Possível o julgamento antecipado da lide, pois não há provas a serem produzidas (fls. 104/105 e 106). 
+2. Não há preliminares em contestação.
+No mérito, a ação deve ser julgada procedente.
+2.1.  Em contestação (fls. 37/44), a requerida sustentou que o débito é legítimo, estando baseado em contrato celebrado pelas partes. 
+O autor, por sua vez, nega qualquer relação comercial com a requerida, asseverando que as assinaturas nos documentos de fls. 88/92 são falsas. 
+O art. 389 do CPC assevera: 
+Art. 389. Incumbe o ônus da prova quando:
+I - se tratar de falsidade de documento, à parte que a argüir;
+II - se tratar de contestação de assinatura, à parte que produziu o documento.
+Nesses termos, considerando que os documentos de fls. 88/92 foram trazidos aos autos pela requerida, era ônus desta comprovar a veracidade das assinaturas. 
+Como a requerida sequer pleiteou a realização de perícia grafotécnica para tal fim (vide fls. 104/105), deve-se concluir que as assinaturas nos documentos de fls. 88/92 são falsas, tendo sido produzidas por terceiro estelionatário. 
+É preciso salientar, ainda, que não se pode exigir que o autor comprove fatos negativos (que não celebrou contrato com a requerida; que não se utilizou dos serviços da requerida; etc.). 
+Por fim, deve-se ressaltar que: (i) embora a requerida tenha sustentado que o autor utilizou-se de seus serviços "conforme atestam as faturas juntadas aos autos" (fl. 39, 3º parágrafo), é certo que a requerida não juntou nenhuma fatura no decorrer do feito; (ii) o contrato juntado aos autos apresenta endereço diverso do endereço do autor; (iii) a assinatura aposta no contrato em nada se assemelha à assinatura do autor (vide fls. 10 e 91); (iv) a cédula de identidade fornecida no momento da contratação (fls. 91 e 93) apresenta número que não corresponde ao número informado pelo autor na inicial; (v) a própria requerida aventou, em contestação, a hipótese de o contrato ter sido celebrado por terceiro-estelionatário.
+Assim, em face de todo o exposto, deve-se concluir que as assinaturas que constam nos documentos de fls. 88/92 são falsas, tendo sido produzidas por terceiro estelionatário. De rigor, portanto, a declaração de inexistência dos débitos.
+2.2. Resta saber se, nessas circunstâncias (linha telefônica solicitada por terceiro), a requerida deve ser responsabilizada pelo dano moral causado ao autor. 
+Entendo que sim. 
+A responsabilidade da requerida é objetiva, em virtude do risco da atividade. 
+O art. 927, par. único, do CC, assevera: ?Haverá obrigação de reparar o dano, independentemente de culpa, nos casos especificados em lei, ou quando a atividade normalmente desenvolvida pelo autor do dano implicar, por sua natureza, risco para os direitos de outrem?. 
+A requerida obtém altos lucros fazendo contratos de telefonia em massa, sem verificar, à exaustão, se o indivíduo que está celebrando o contrato é de fato aquele cujos dados foram fornecidos.
+Trata-se de um raciocínio puramente econômico. Para a requerida é vantajoso fazer contratos por meios não muito confiáveis (telefone, internet, etc.), sem exigir a comprovação exaustiva dos dados fornecidos, pois isso aumenta o número de contratos e diminui os custos administrativos.  
+Nesses termos, é justo que a requerida arque com os ônus de sua própria desídia, ficando responsável por eventuais fraudes praticadas por terceiros. 
+Caso não fosse admitida a responsabilidade das empresas de telefonia em tais casos, a vítima ficaria quase sempre sem ressarcimento, ante as dificuldades práticas de se descobrir quem foi o estelionatário.  
+Já decidiu o TJSP em casos análogos: 
+DANO MORAL - Banco de dados ? Responsabilidade Civil ? Abertura de crediário, mediante fraude, para terceiro com base em documentos falsos ocasionando a inclusão do nome da autora nos cadastros de inadimplentes - Culpa exclusiva da instituição evidenciada em razão da sua negligência ao não diligenciar adequadamente a verificação dos documentos apresentados - Ônus da apelante, pelo risco de sua atividade - Verba devida - Indenizatória procedente em parte - Recurso desprovido. (Apelação nº 443.455-4/1-00 ? São Paulo ? 3ª Câmara de Direito Privado ? 26/09/06 ? Rel. Des. Beretta da Silveira ? v.u. ? V. 11670)
+Conta corrente aberta com documentos falsificados. Nome do autor levado aos cadastros de inadimplentes e cartórios de protestos. Dever de indenizar caracterizado pela ausência de cautela do banco, ditado ainda pela doutrina do risco profissional (1º TACSP, Ap. 1.060.492-7, Rel. Marciano da Fonseca)
+
+2.3. O dano moral, no caso, é in re ipsa, dispensando-se a sua prova. 
+A indenização por dano moral possui três funções, conforme decidido pelo STF no julgamento do AI 455.846, Rel. Min. Celso de Mello: (a) compensar lesões psíquicas e à reputação; (b) punir condutas contrárias ao direito; (c) evitar a repetição de condutas contrárias ao direito (prevenção geral e especial). 
+A indenização por dano moral não pode ser fixada em valores excessivamente elevados, pois isso tornaria o dano psíquico vantajoso para quem o sofre. Em contrapartida, também não pode ser fixada em valor irrisório, pois isso seria um desestímulo ao ajuizamento das ações, implicando, na prática, em denegação de acesso à justiça. 
+Na fixação do valor da indenização, devem ser levados em conta, ainda, os seguintes elementos: ( i ) foram incluídos quatro apontamentos referentes ao mesmo contrato com a requerida (fl. 11); ( ii ) inexistiam, na época, outros apontamentos em nome do autor; ( iii ) as restrições só foram excluídas com a antecipação de tutela; ( iv ) o autor, no caso, não comprovou sofrimentos pessoais que excedam aqueles que costumeiramente se observam em situações análogas de inscrição indevida, não merecendo, portanto, tratamento diverso do atribuído à generalidade desses casos; ( v ) a requerida também foi vítima da situação, visto que sofreu prejuízos por conta da ação do terceiro estelionatário, não se observando qualquer conduta dolosa ou gravemente culposa por parte da requerida.  
+Nesses termos, fixo o valor da indenização em R$ 7.000,00 (sete mil reais). Tal valor parece suficiente para punir adequadamente a requerida, sem gerar, no entanto, enriquecimento sem causa para o autor. 
+
+DECIDO.
+Ante o exposto, JULGO PROCEDENTE a presente ação, para:
+(a) DECLARAR INEXISTENTES os débitos de R$ 1.092,42, R$ 56,90, R$ 761,88 e R$ 56,90 (fl. 11), confirmando, nesse ponto, a tutela antecipada retro;
+(b) CONDENAR a requerida ao pagamento da quantia de R$ 7.000,00 (sete mil reais), a título de indenização por danos morais, com acréscimo de correção monetária, conforme a Tabela Prática do TJSP, desde a data desta sentença até o efetivo pagamento (Súmula 362 do STJ), e de juros de mora de 1% ao mês, contados a partir da citação;
+Condeno a requerida ao pagamento das custas, despesas processuais e honorários advocatícios, que fixo em 15% do valor da condenação. 
+
+P.R.I.C.
+
+São Paulo, 20 de março de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

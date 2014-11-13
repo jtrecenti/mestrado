@@ -1,0 +1,119 @@
+
+
+SENTENÇA
+
+Processo nº:0000864-21.2012.8.26.0001
+Classe - AssuntoProcedimento Sumário - Rescisão / Resolução
+Requerente:Deltaville Empreendimentos Imobiliarios Ltda
+Requerido:Totvs S/A
+
+
+
+Vistos.
+
+
+ DELTAVILLE EMPREENDIMENTOS IMOBILIÁRIOS LTDA., qualificada nos autos, ajuizou a presente ação de rescisão de contrato de cessão de direito de uso de software e prestação de serviços cumulada com indenização por danos morais e materiais, com pedido de antecipação de tutela em face de TOTVS S/A, também qualificada, alegando, em síntese, que firmou um contrato com a requerida para a padronização informatizada de dados, tais como: controle de recebíveis; banco de dados e controle organizado de contratos; controle de adimplentes e inadimplentes; controle de débitos do IPTU; e especialmente a migração de dados do sistema antigo para o novo.
+Anotou que esta última era a principal necessidade da autora, na medida em que a empresa se encontrava em fase expansão, de sorte que necessitava de tecnologia que suportasse o novo volume de negócios projetados.
+Por tal motivo procurou auxílio da requerida. Por sua vez, a requerida determinou que uma equipe de técnicos se deslocasse para a sede da autora, para que procedesse avaliação das necessidades da empresa, o que foi feito. 
+Após a realização dos pertinentes estudos, a requerida apresentou à autora um relatório onde esclarecia todas as providências para o atendimento das necessidades da empresa, com relatório bem específico e muito detalhado, explicando cada etapa do trabalho a ser realizado, bem como a necessidade da empresa de importar seus dados, cerca de 6.000 (seis mil contratos) já existentes.
+Houve, então, a contratação da requerida para as atualizações tecnológicas que necessitava naquela oportunidade, tendo firmado todos os anexos do contrato padronizado de cessão de direitos de uso de software e prestação de serviços.
+Na sequência, iniciou-se a tentativa de implantação do programa, que de início apresentou defeitos ante a incapacidade de importação de dados pré-existentes nos arquivos da autora, condição essa indispensável para a continuidade dos serviços.
+Tal situação foi alertada pelo setor de tecnologia da autora à requerida, oportunidade em que ressaltada a necessidade primordial de importar mais de 6.000 contratos, cujos dados não poderiam se perder.
+Houve, por parte da requerida, argumentos quantos à inviabilidade técnica, bem como dispêndio que implicaria a migração dos dados pré-existentes. Condicionou tal tarefa ao aumento do contrato já firmado, de sorte que a autora solicitou a paralisação dos serviços, por perceber que os argumentos eram em vão. 
+O silêncio da requerida quanto à solução dos problemas levou a autora a proceder a notificação da ré, em 20/08/2009, com objetivo de informar que não tinha mais interesse na manutenção do negócio, pretendia a suspensão dos pagamentos e solicitava a devolução dos valores pagos. 
+De seu turno, a requerida contra-notificou a autora em 10/09/2009 com argumentos insubsistentes, de forma a gerar uma nova notificação por parte da autora. 
+Foram efetuados todos os pagamentos que competiam à autora, o que importou numa quantia de R$ 23.197,05 (vinte e três mil novecentos e noventa e sete reais e cinco centavos).
+O programa denominado ?Protheus?, objeto do contrato, jamais foi utilizado, mas mesmo assim efetuou os pagamentos na esperança de que a requerida entendesse a sua necessidade, com a importação dos dados pré-existentes, o que jamais ocorreu.
+Desde o início do contrato, até a suspensão dos pagamentos pela autora e devolução dos CDs com o programa, a requerida manteve diversos contatos com a autora, inicialmente tentando manter o negócio e posteriormente, cobrando as parcelas que a autora havia deixado de pagar.
+No entanto, a requerida deixou de prestar serviços à autora antes mesmo da notificação de 20/08/2009, pois a implantação do programa não aconteceu e, por conseguinte, não havia serviço prestado. Não obstante, continuou a emitir boletos de cobrança.
+Na época da propositura da demanda, sustentou que tais cobranças estavam agravadas, com ameaças de protesto e de inclusão do nome da autora em órgãos de restrição ao crédito, de forma a causar prejuízo inestimável à empresa.
+Com tais ponderações, requereu a procedência da demanda, com deferimento da antecipação de tutela, declaração de rescisão do contrato de cessão de direito de uso de software e prestação de serviços; intimação da requerida para restituir a importância de R$ 23.197,05 (vinte e três mil, cento e noventa e sete reais e cinco centavos), corrigida desde a data dos efetivos pagamentos, a título de indenização por danos materiais, sob pena de multa diária a ser definida pelo Juízo; condenação ao pagamento de indenização por danos morais, com valor arbitrado pelo Juízo; abstenção da requerida de inscrever o nome da autora em qualquer órgão de restrição ao crédito.
+A petição inicial veio acompanhada dos documentos de fls. 22/284.
+Por intermédio da deliberação de fls. 286, foi indeferida a antecipação da tutela ante a irreversibilidade da medida.
+Designada e realizada audiência de tentativa de conciliação infrutífera, consoante se depreende do termo de fls. 294, foi a requerida citada (fls. 292), tendo apresentado contestação a fls. 298/312.
+Confirmou a existência de contrato de ?Cessão de Direito de Uso de Software e Prestação de Serviços?, ressaltando que a requerida adota metodologia de implantação dividida em fases: ?Fase I ? Iniciação?, ?Fase II ? Planejamento?, ?Fase III ? Execução?, ?Fase IV ? Encerramento? e ?Fase de Controle?.
+Tal metodologia foi devidamente apresentada aos clientes, por meio da  proposta  comercial, conforme se observa no item ?06?, oportunidade em que se deixou claro e transparente o desenvolvimento das atividades executadas pela requerida.
+A implantação do projeto ocorre somente na ?Fase de Controle?, após a validação do cliente na ?Fase de Planejamento? para implantação do software, de acordo com as necessidades apresentadas e verificadas.
+Esclarece que quando da ?Fase de Iniciação?, isto é, em momento anterior à venda, a requerida identificou que existiam dados pré-existentes no software antigo da requerente, sistema este objeto de substituição com o que seria implantado pela requerida.
+Sendo assim, tais dados poderiam ser migrados ou redigitados para o novo sistema que viria a ser implantado, tudo dependendo da negociação realizada entre as partes.
+Ainda na ?Fase de Iniciação?, as partes convencionaram que o objeto dos trabalhos que envolveriam a implantação do sistema de software não abrangeria a migração de tais dados pré-existentes. Logo, a prestação dos serviços pela requerida não incluiu a importação de tais dados ao novo sistema. Na oportunidade, as partes estabeleceram que tais providências ficariam sob a responsabilidade exclusiva da requerente, ou seja, que não era obrigação da requerida, de sorte que nega a ré qualquer descumprimento das obrigações advindas da negociação. 
+O custo do projeto seria outro, caso envolvesse a migração dos dados dos contratos pré-existentes. 
+Invoca a cláusula 13.1 do contrato celebrado, que prevê aviso prévio de 180 (cento e oitenta) dias, para o fim de afirmar que as cobranças realizadas são devidas, referentes a serviços prestados, não podendo subsistir a pretensão de devolução de valores. 
+A requerente, todavia, optou por cancelar o serviço, provavelmente por ter mal avaliado o objetivo do projeto.
+Afirma que os serviços foram realizados, de sorte que não pode a autora se esquivar de suas obrigações.
+Com tais ponderações, requereu a improcedência da demanda, com condenação da requerente nos ônus derivados da sucumbência.
+Alternativamente, requereu o reconhecimento de culpa concorrente pelos danos causados. 
+Houve exceção de incompetência que acarretou a redistribuição do processo de Brasília para esta Vara. 
+Houve réplica (fls. 404/412).
+As partes não se manifestaram quando determinado que esclarecessem se havia outras provas a produzir (fls. 417). 
+É o que de relevante havia a relatar. 
+Passo a fundamentar e decidir: 
+O feito comporta julgamento antecipado, pois o deslinde da questão independe da produção de outras provas, além daquelas de natureza documental já anexadas aos autos. 
+Ademais, após estabilizada a lide, as partes mantiveram-se silentes quando questionadas acerca do interesse em produção de provas. 
+Basicamente, o que se controverte na presente demanda é a inserção ou não do trabalho de migração dos contratos da requerente na oportunidade em que houve contratação entre as partes nesta demanda, sem acréscimos de valores além daqueles já estipulados. 
+Consignado, portanto, tal ponto, cumpre analisar a natureza da relação jurídica estabelecida entre as partes, para concluir-se tratar-se de relação de consumo. 
+Com efeito, não impede a aplicação do Código de Defesa do Consumidor o fato de a autora usar o serviço em sua atividade profissional, se não há transformação do serviço em outro da cadeia produtiva, ou seja, não é o mesmo utilizado como insumo, antes tratando-se a contratante de destinatária final. 
+Neste sentido a jurisprudência do Superior Tribunal de Justiça:
+"Contratos bancários - Contrato de repasse de empréstimo externo para compra de colheitadeira - Agricultor - Destinatário final - Incidência - Código de Defesa do Consumidor - Comprovação - Captação de recursos - Matéria de prova - Prequestionamento -  Ausência."
+
+ I ? O agricultor que adquire bem móvel com a finalidade de utilizá-lo em sua atividade produtiva, deve ser considerado destinatário final, para os fins do artigo 2º do Código de Defesa do Consumidor.? (STJ ? Resp. nº 445854/MS - Rel. Min. Castro Filho ? j. 2/12/03)
+?Código de Defesa do Consumidor. Destinatário final: conceito. Compra de adubo. Prescrição. Lucros cessantes.
+1. A expressão "destinatário final", constante da parte final do art. 2º do Código de Defesa do Consumidor, alcança o produtor agrícola que compra adubo para o preparo do plantio, à medida que o bem adquirido foi utilizado pelo profissional, encerrando-se a cadeia produtiva respectiva, não sendo objeto de transformação ou beneficiamento.? (STJ ? Resp. nº 208793/MT - Rel. Min. Carlos Alberto Menezes Direito ? j. 18/11/1999).
+?Código de Defesa do Consumidor. Incidência. Responsabilidade do fornecedor. É de consumo a relação entre o vendedor de máquina agrícola e a compradora que a destina a sua atividade no campo. Pelo vício de qualidade do produto respondem solidariamente o fabricante e o revendedor (art. 18 do CDC).? (STJ ? Resp. nº 142.042/RS - Rel. Min. Ruy Rosado de Aguiar ? j. 11/11/1997) 
+Ademais, atualmente tem sido acolhida a tese do denominado ?finalismo aprofundado? (Cláudia Lima Marques, Comentários ao Código de Defesa do Consumidor, p. 84), segundo a qual o Código de Defesa do Consumidor tem incidência quando na relação jurídica existe um consumidor e um expert, havendo uma desigualdade entre eles (?vulnerabilidade do consumidor?). 
+Assim, mesmo aquele que adquire produto/serviço para sua atividade profissional pode invocar a proteção do CDC quando está atuando fora da sua área de expertise. 
+Nesse sentido já decidiu o STJ:
+?Processo civil. Conflito de competência. Contrato. Foro de eleição. Relação de consumo. Contratação de serviço de crédito por sociedade empresária. Destinação final caracterizada.
+- Aquele que exerce empresa assume a condição de consumidor dos bens e serviços que adquire ou utiliza como destinatário final, isto é, quando o bem ou serviço, ainda que venha a compor o estabelecimento empresarial, não integre diretamente - por meio de transformação, montagem, beneficiamento ou revenda - o produto ou serviço que venha a ser ofertado a terceiros.
+O empresário ou sociedade empresária que tenha por atividade precípua a distribuição, no atacado ou no varejo, de medicamentos, deve ser considerado destinatário final do serviço de pagamento por meio de cartão de crédito, porquanto esta atividade não integra, diretamente, o produto objeto de sua empresa.? (STJ - CC 41056/SP, Rel. Min. ALDIR PASSARINHO JUNIOR, Rel. p/ Acórdão Ministra NANCY ANDRIGHI- j. 23/06/04).
+?Direito do Consumidor. Recurso especial. Conceito de consumidor. Critério subjetivo ou finalista. Mitigação. Pessoa Jurídica. Excepcionalidade. Vulnerabilidade. Constatação na hipótese dos autos. Prática abusiva. Oferta inadequada. Característica, quantidade e composição do produto. Equiparação (art. 29). Decadência. Inexistência. Relação jurídica sob a premissa de tratos sucessivos. Renovação do compromisso. Vício oculto.
+A relação jurídica qualificada por ser "de consumo" não se caracteriza pela presença de pessoa física ou jurídica em seus pólos, mas pela presença de uma parte vulnerável de um lado (consumidor), e de um fornecedor, de outro.
+Mesmo nas relações entre pessoas jurídicas, se da análise da hipótese concreta decorrer inegável vulnerabilidade entre a pessoa-jurídica consumidora e a fornecedora, deve-se aplicar o CDC na busca do equilíbrio entre as partes. Ao consagrar o critério finalista para interpretação do conceito de consumidor, a jurisprudência deste STJ também reconhece a necessidade de, em situações específicas, abrandar o rigor do critério subjetivo do conceito de consumidor, para admitir a aplicabilidade do CDC nas relações entre fornecedores e consumidores-empresários em que fique evidenciada a relação de consumo.
+São equiparáveis a consumidor todas as pessoas, determináveis ou não, expostas às práticas comerciais abusivas.? (STJ ? Resp. nº 476.428/SC ? Rel. Min. NANCY ANDRIGHI ? j. 19/04/05).
+
+No caso sub judice, ainda que a autora tenha contratado o serviço da ré para empregá-lo na sua atividade comercial, há esta situação de vulnerabilidade, pois a autora a não é especialista em serviço de informática, encontrando-se na mesma condição de qualquer outro consumidor pessoa física que houvesse contratado o mesmo serviço, enfrentando as mesmas dificuldades, sujeita às mesmas práticas comerciais
+
+Do reconhecimento da relação de consumo decorre a possibilidade de inversão do ônus da prova favorável ao consumidor em face da verossimilhança das alegações do requerente, bem como interpretação do contrato de forma favorável à requerente.
+
+Muito bem. Do explicativo de estudos da TOTVS, doc. 05, fls. 153 e seguintes, cuja leitura evidencia tratar-se de um estudo do funcionamento e conseqüentes  necessidades da empresa, se verifica, a fls. 164, que houve menção à "Importação: do histórico dos contratos; cerca de 6000 contratos ativos; contratos desde o ano de 2001; movimentações financeiras desde 2001 ? as movimentações necessárias são do contrato. Por cliente ".
+
+Do denominado " termo de abertura" (fls. 220), evidenciou-se que havia conversa e expectativa com relação aos contratos antecedentes, tanto que se fez consignar o seguinte: 
+
+?Não existe para este projeto nenhum tipo de importação de dados. Será analisado no momento dos levantamentos para preparação. Atualmente não estão previstas importações, porém, após análise mais aprofundada foi solicitada pelo George que a TOTVS faça todo trabalho de exportação do sistema atual ZIM e importe para o sistema Protheus. Encaminhamos este assunto para o Alexandre Paiva que entrará em contato com a Deltaville para estruturar este trabalho?.
+
+Ainda, encontramos a fls. 215, no documento denominado ?alinhamento com o cliente?:
+Expectativa do cliente: o cliente expôs as expectativas com o projeto e com o sistema.
+Contextualização do histórico da Deltaville: O Sr. Antônio explicou o histórico da empresa, bem como explanou algumas peculiaridades do setor.
+
+Sobrevieram, na seqüência, as comunicações entre as partes, por intermédio de emails e notificações. O Consumidor solicitou a solução da questão, sob pena de resilição do contrato.
+
+É verossímil, e há provas no sentido de que havia entre as partes, desde o princípio, tratativas para que os contratos da autora fossem migrados para o sistema Protheus. O número de contratos era elevado (6.000). Pouco provável que a consumidora se interessasse por programa que não atendia de forma efetiva às suas necessidades. 
+
+Era dever da requerida informar de forma clara, adequada e destacada as limitações que seu programa possuía em face das expectativas da consumidora. 
+
+Neste passo, deve-se anotar que o princípio geral da boa-fé deve nortear as relações jurídicas em geral e em especial as relações de consumo, estendendo-se à fase pré-contratual.  
+
+Portanto, se o programa não atendia às expectativas do cliente, que foram previamente divulgadas à requerida, a culpa pela rescisão contratual não pode ser imputada à requerente. Com efeito, contrato não é armadilha, na qual o consumidor fica preso, a despeito de ter exposto suas necessidades com sua celebração, sem ser correspondido na expectativa. 
+ 
+Enfim, a rescisão é viável em face da incontrovérsia do fato da impossibilidade de migração dos contratos antecedentes para o sistema Protheus por intermédio de ferramenta do próprio sistema. 
+
+Deveria o profissional (técnico) alertar acerca da impropriedade do sistema para o fim pretendido e não fomentar o contrato, em prejuízo ao contratante e à boa-fé pré- contratual. 
+
+Quanto aos danos morais, em se tratando de pessoa jurídica, eles adviriam de situações concretas que afetassem sua credibilidade. 
+
+Na hipótese dos autos, não localizei  comprovação de protestos ou inserções desabonadoras, de sorte que não há danos morais a serem reconhecidos. 
+
+Com relação a aborrecimentos, dissabores, contratempos, não se pode confundir a pessoa jurídica com as pessoas físicas que a compõem. 
+
+Mesmo após indeferida a antecipação de tutela (fls. 286), não localizo nos autos indicações para protesto ou inserção desabonadora nos órgãos de restrição ao crédito.
+
+Ademais, toda a questão dependia de análise do contrato. Não se reconhece danos morais indenizáveis, se a subsistência da obrigação era objeto de discussão e verificação do contrato celebrado entre as partes. 
+
+ Ante o exposto e o que mais dos autos consta, julgo  parcialmente procedentes os pedidos iniciais formulados por Deltaville Empreendimentos Imobiliários Ltda em face de Totvs S.A. para: a) declarar a rescisão contratual por culpa da requerida; b) determinar a devolução dos valores honrados pela requerente, devidamente comprovados nos autos, com correção monetária desde a datas dos desembolsos e juros de mora computados da citação; c) afastar a pretensão de danos morais; d) obstar qualquer inserção desabonadora por conta do contrato em comento.
+
+Ambas as partes decaíram do pedido. Condeno-as no pagamento de custas, despesas processuais e honorários advocatícios, na proporção de 70% para a Totvs e 30% para a Deltaville. 
+
+Publique-se. Registre-se. Intimem-se. 
+
+Maria Cecília Monteiro Frazão
+   Juíza de Direito.

@@ -1,0 +1,80 @@
+
+
+SENTENÇA
+
+Processo nº:0033584-75.2011.8.26.0001 - Procedimento Ordinário
+Requerente:Ribeira Móveis Ltda.
+Requerido:ELETROPAULO METROPOLITANA ELETRICIDADE DE SAO PAULO S/A
+
+
+
+
+Juiz(ª) de Direito Dr.(ª): Maurício Campos da Silva Velho
+
+
+
+
+Vistos. 
+Ação: Alega a autora ser imobiliária responsável pela administração da locação do imóvel situado na Av. Nova Cantareira, 2119  apto 2127, na qual se encontra instalada unidade registradora de consumo nº 0044873026 de propriedade da ré. Ocorre que durante verificação dos vários débitos automáticos inseridos em sua conta bancária, verificou a inserção de uma unidade consumidora que nunca foi de sua responsabilidade (nº 0044873018) e que se encontra instalada no apartamento nº 2123. Daí a presente ação na qual pretende a devolução, em dobro, de todos os valores cobrados por esta unidade desde março de 1985 até fevereiro de 2011, bem assim a condenação da ré no pagamento de indenização por danos morais, em virtude dos transtornos causados, estimada em 50 salários mínimos.
+
+Defesa: Arguiu a prescrição da ação de repetição de indébito. No mérito, afirma ser a ré responsável pela unidade consumidora nº 0044873018 desde 1998 e que nunca houve pedido de para cancelar o fornecimento de energia elétrica, com a retirada do medidor, o que impediria a geração de débitos decorrentes da manutenção dos equipamentos. Assim, a cobrança é devida e inexiste ação ou omissão culposa que fundamente o pleito indenizatório. 
+
+Réplica/Especificação de provas: Na seqüência houve réplica e fase de especificação de provas. A audiência conciliatória realizada antes da apresentação da defesa revelou-se infrutífera.
+Fundamentação:
+1. Julgo antecipadamente a lide por já se encontrarem nos autos todos os elementos de convicção necessários ao seu desate. A prova pericial, demais disso, se revela desnecessária porque restou incontroverso que a unidade consumidora nº 0044873018 encontra-se instalada no apartamento 2123 e a unidade consumidora nº 0044873026 no apartamento nº 2127. Além disso, a prova testemunhal também não se revela necessária para a demonstração de dano moral, conforme se verá na análise das questões prejudiciais.
+2. Das preliminares
+a) Prescrição
+Em primeiro lugar, observo que não há regra específica de prescrição, e portanto, tratando-se de direito pessoal, aplica-se o prazo geral prescricional, que no CC/16 era de vinte anos e, no atual, é de dez anos.
+E observando-se a regra de transição do art. 2028, CC:
+
+Art. 2.028. Serão os da lei anterior os prazos, quando reduzidos por este Código, e se, na data de sua entrada em vigor, já houver transcorrido mais da metade do tempo estabelecido na lei revogada.
+
+Serão aplicadas às parcelas referentes aos meses de março de 1985 a dezembro de 1992 o prazo vintenário e, portanto, levando-se em conta a data do ajuizamento da ação (12/08/2011) e a ausência de notificação que interrompa o seu  prazo, encontram-se prescritas todas as parcelas anteriores a julho de 1991.
+Quanto às parcelas posteriores a janeiro de 1993 até dezembro de 2002, porque não transcorrido mais da metade do tempo estabelecido na lei revogada, na data de entrada em vigor no C. Civil atual, aplica-se o prazo decenal e, portanto, tendo em vista a data de ajuizamento da ação (12/08/2011)  e  ausência de notificação destinada a interromper o seu prazo, encontram-se prescritas as parcelas anteriores a agosto de 2001.
+Destarte, encontra-se prescrita a pretensão de percebimento das quantias pagas desde março de 1985 até julho de 1991 e as parcelas referentes ao período de janeiro de 1993 a agosto de 2001.
+Acolho, pois, parcialmente o pleito de prescrição do pedido de repetição de indébito, ficando o pleito de repetição restrito às parcelas referentes ao período compreendido entre agosto de 1991 e dezembro de 2002 e as parcelas referentes ao período compreendido entre agosto de 2001 e fevereiro de 2011.
+b) Impossibilidade jurídica do pleito indenizatório
+É que se admite a pessoa jurídica sofrer dano moral, porém, o dano moral sofrido por tal entidade, que é uma ficção de Direito, só se pode referir a aspectos de sua honra objetiva, isto é, ao conceito dela feito pela sociedade. Isso, por não ser ela dotada dos chamados direitos da personalidade, próprios da pessoa humana. Assim, a sociedade não pode passar por aborrecimentos, constrangimentos, preocupações, desconforto, desgastes emocionais, etc., conquanto seus sócios ? que, no caso, não são parte nesta lide, frise-se ? possam ter sofrido tais percalços.
+O pedido de reparação de dano moral feito pela autora, portanto, é juridicamente impossível, devendo ser indeferida a inicial nesse aspecto.
+
+3. Do mérito
+De início, observo que a relação jurídica estabelecida entre as partes não configura relação de consumo. É que a autora não é destinatária final econômica dos serviços prestados pela ré, não se enquadrando, pois, na definição legal de consumidor fixada no art. 2º, caput, da Lei 8.078/90.
+
+Veja-se, a respeito, a lição de MARIA ANTONIETA ZANARDO DONATO:
+
+?Destinatário final é aquele destinatário fático e econômico do bem ou serviço, seja ele pessoa jurídica ou física. Assim, não basta ser destinatário fático do produto, isto é, retirá-lo do ciclo produtivo. É necessário ser também destinatário final econômico, ou seja, não adquiri-lo para conferir-lhe utilização profissional, pois o produto seria reconduzido para a obtenção de novos benefícios econômicos (lucros,, cujo custo estaria sendo indexado no preço final do profissional. Não se estaria, pois, conferindo a esse ato de consumo a finalidade pretendida: a destinação final.?  (autora citada, in ?Proteção ao Consumidor, Conceito e Extensão?, pp. 90/91, Editora Revista dos Tribunais, 1994)
+
+No mesmo sentido, o entendimento de TOSHIO MUKAI:
+
+?...pessoa jurídica só é considerada consumidor, pela Lei, quando adquirir ou utilizar produto ou serviço como destinatário final, não, assim quando o faça na condição de empresário de bens e serviços com a finalidade de intermediação ou mesmo como insumos ou matérias-primas para transformação ou aperfeiçoamento com fins lucrativos (com o fim de integrá-los em processo de produção, transformação e comercialização ou prestação a terceiros).? (autor citado, in ?Comentários ao Código de Defesa do Consumidor?, p. 6, Editora Saraiva, São Paulo, 1991).
+
+E de JOSÉ GERALDO BRITO FILOMENO:
+
+?...a inclusão das pessoas jurídicas igualmente como 'consumidores' de produtos e serviços, embora com a ressalva de que assim são entendidas aquelas como destinatárias finais dos produtos e serviços que adquirem, e não como insumos necessários ao desempenhode sua atividade lucrativa.  (autor citado, in ?Código Brasileiro de Defesa do Consumidor?, p. 27,  3ª edição, Editora Forense Universitária, Rio de Janeiro)  
+
+Inaplicáveis, pois, ao caso vertente, os ditames de proteção do Código de Defesa do Consumidor, em especial, a inversão do ônus de prova como pretende a autora.
+
+E nem se alegue que todo fato negativo inverte o ônus de prova, vez que na alegação negativa da autora há um fato positivo inerente a ela que pode ser demonstrado por ela mediante prova oral, vale dizer, que no período em que as despesas de consumo foram debitadas de sua conta lá morava pessoa que mantinha vínculo com outra imobiliária, ou que morava a proprietária do bem.
+
+No mais, é preciso consignar que a autora contribuiu para o evento, uma vez que não agiu com a devida cautela ao efetuar a conferência mensal ou, ao menos, semestral de seus débitos consignados em conta corrente, vez que só veio constatar a referida inserção de um débito automático indevido mais de vinte e cinco anos após o seu primeiro pagamento.
+
+Demais disso, o débito automático exige autorização do titular da conta corrente, seja por escrito, seja pelo uso de senha pessoal, durante o pagamento de uma conta mensal, quando solicitado na instituição financeira e, por parte da ELETROPAULO, quando solicitado na agência ou pelo telefone, exige que a pessoa repasse todos os dados pertinentes à conta corrente, no caso de pessoa jurídica, dos sócios que assinam pela conta, dados estes que só alguém que tem amplo acesso aos documentos da empresa da autora pode obter.
+
+Assim, não há prova de que tenha havido falha no serviço, fato constitutivo do direito da autora que não se desincumbiu de demonstrar, vez que instada a especificar provas apenas requereu a produção de prova oral para demonstrar a ocorrência de dano moral (fls. 86). Cabia à autora demonstrar que a unidade autônoma (nº 2123) foi ocupada, no período da cobrança,  por locatários cujo contrato é administrado por outra imobiliária, ou que sempre tenha sido ocupada por seu proprietário.
+
+A ação, destarte, improcede.  
+
+Dispositivo: 
+
+Em face do exposto:
+
+a)  PRONUNCIO a prescrição parcial do pleito de repetição de indébito no que tange ao pagamento das parcelas referentes a março de 1985 até julho de 1991 e as parcelas referentes ao período de janeiro de 1993 e agosto de 2001;
+b) INDEFIRO a inicial, no que tange ao pleito indenizatório, em face da impossibilidade jurídica do pedido e, por via de consequência, julgo extinto o processo, no que tange a este pedido, sem resolução do mérito;
+c) julgo IMPROCEDENTE  o pleito de repetição de indébito no que tange às parcelas pagas no período compreendido entre agosto de 1991 e dezembro de 2002 e as parcelas referentes ao período compreendido entre agosto de 2001 e fevereiro de 2011.
+
+Porque sucumbente, arcará a autora com o pagamento do valor das custas, despesas processuais e dos honorários do Dr. Patrono da ré, ora arbitrados, por eqüidade, em R$ 2.000,00, tendo em vista, de um lado, a irrisoriedade do valor atribuído à causa e de outro a simplicidade das questões debatidas (art. 20, § 4º, CPC).
+Publicada esta, não sobrevindo apelação recebida no efeito suspensivo, terá o sucumbente 15 (quinze) dias para efetuar o pagamento do montante da condenação [relativa a honorários advocatícios], sob pena de ser acrescida a este valor a multa de 10%, prevista no artigo 475-J, do CPC.
+P.R.I.C.
+
+
+São Paulo, 10 de janeiro de 2012.

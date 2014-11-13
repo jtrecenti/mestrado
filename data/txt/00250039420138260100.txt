@@ -1,0 +1,84 @@
+
+
+SENTENÇA
+
+Processo nº:0025003-94.2013.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Defeito, nulidade ou anulação
+Requerente:Usados Br Assessoria e Classificados LTDA
+Requerido:Locaweb LTDA
+
+
+
+
+Juiz(a) de Direito: Dr(a). Marcelo Augusto Oliveira
+
+
+
+
+
+Vistos.
+
+USADOS BR ASSESSORIA E CLASSIFICADOS LTDA. move a presente ação declaratória de nulidade de contrato c/c obrigação de fazer em face de LOCAWEB LTDA. alegando, em síntese, ter celebrado com a requerida contrato de hospedagem de seu site na internet em 21/01/2007, comprometendo-se ao pagamento de prestação mensal de R$199,00 pelos serviços prestados. Esse plano possui limitações de 250GB de transferência máxima mensal e de 5GB de espaço para o site hospedado. Em três oportunidades o site ficou fora do ar (em 06/03/2007, por 1 hora, em 07/03/2007, por 7 horas e 45 minutos e em 24/04/2007, por 21 horas e 30 minutos), mesmo sem ultrapassar as taxas máximas de GB do plano de hospedagem contratado. Em 30/04/2007, para não correr o risco de ter seu site novamente bloqueado, modificou o plano de hospedagem, arcando com o valor de R$849,00, referente ao novo valor de mensalidade de R$649,00 e a taxa de migração de R$200,00. Pediu tutela antecipada determinando-se que a requerida se abstenha de bloquear o site, e, ao final, a procedência da ação, para declaração de nulidade do contrato, bem como a condenação da requerida à devolução do valor de R$650,00 pago para mudança de plano, e ainda ao pagamento da indenização a titulo de danos materiais, morais e lucros cessantes por cada minuto que o site ficou fora do ar, levando-se em conta as estimativas de mercado. 
+
+ Às fls. 192/202 a requerida apresentou contestação, alegando preliminarmente sua ilegitimidade passiva. No mérito, alegou que o plano anteriormente contratado não era suficiente para atender à demanda do autor, e devido a sobrecargas geradas pelo site no sistema, ele foi retirado do ar. Aduz ser indevida a indenização pedida, uma vez que a retirada do ar por sobrecarga era prevista contratualmente, tendo o autor concordado nesses termos, e se desejasse outro tipo de cobertura, bastaria optar por outro plano ou mesmo pelo serviço de outra empresa. Alega também que não foram comprovados prejuízos materiais, e eventuais bloqueios de sites fazem parte dos serviços de hospedagem oferecidos, sendo que mero desconforto gerado por isso não enseja dano moral. Alternativamente, caso seja condenada, pede observação aos termos da cláusula limitadora de responsabilidade prevista no contrato de hospedagem, que restringe a indenização a 20% dos valores pagos nos últimos 12 meses, ou seja, o máximo de R$1.864,94.  Alega ainda má-fé do autor, que pretende se beneficiar de um serviço mais sofisticado pelo preço de um mais simples. Por isso, pede sua condenação ao pagamento de multa prevista no artigo 18 do CP e indenização máxima prevista no paragrafo 2º do mesmo diploma. Por fim, pleiteia a improcedência da ação (fls. 192/202).
+
+A requerida opôs exceção de incompetência às fls. 2/6 do incidente em apenso, acolhido por meio da decisão de fls. 187/193.
+
+A autora não apresentou réplica (fls. 251).
+
+Facultada a especificação de provas e indagadas quanto ao interesse na designação de audiência de tentativa de conciliação (fls. 252), apenas a requerida se manifestou às fls. 254. 
+
+É o relatório.
+
+Fundamento e decido. 
+
+Não havendo necessidade de produção probatória, passo a julgar antecipadamente a lide.
+
+Rejeito a preliminar arguida.
+
+Não houve demonstração, pela requerida Locaweb Serviços de Internet, que a Locaweb IDC Ltda. tenha existência jurídica totalmente distinta da sua.
+
+E mesmo que tivesse havido tal comprovação, é inequívoco que ambas empresas formam um mesmo elo na prestação de serviços de hospedagem de sites, podendo a pretensão, portanto, perfeitamente ser dirigida em face da requerida.
+
+No mérito, a ação é improcedente.
+
+Pelo que se verifica dos autos, o autor inicialmente efetuou a contratação da requerida para a prestação de serviços de hospedagem de site por R$ 199,00 ao mês. Posteriormente efetuou a contratação de um outro plano, a R$ 849,00.
+
+E não existe qualquer ilicitude nessa segunda contratação.
+
+Em primeiro lugar não houve, na petição inicial, qualquer menção a defeito do negócio jurídico firmado, que pudesse ensejar sua anulação. Se o autor não desejava a aquisição dos serviços prestados pela requerida, bastava procurar uma outra empresa no mercado. 
+
+Em segundo lugar, esse segundo contrato contempla prestação de serviços, pela requerida, de natureza totalmente distinta da primeira avença firmada. Na verdade, consistiu em uma migração para um plano com maior capacidade técnica. 
+
+E é inequívoco que o plano incialmente contratado não comportava a necessidade do autor.
+
+Isso ficou muito bem claro por meio dos docs. de fls. 52/75, que retratam a conversa mantida entre representantes ou funcionários do autor e da requerida.
+
+Em razão das inúmeras reclamações do autor, iniciadas em 06.03.2007, vê-se como resposta que seu site estava sobrecarregando o sistema, sendo necessário que fizesse um ?upgrade?. 
+
+Já em 06.03.2007 o autor comprometeu-se em fazer essa ?otimização? (fls. 58, item 3), e no dia seguinte, 07.03, ele admitiu que o site tinha um ?processamento alto?.
+
+Inequívoco, assim, que a migração foi necessária para que pudesse comportar a necessidade técnica do site do autor, não existindo qualquer ato ilícito praticado pela requerida, e que pudesse dar ensejo à indenização pretendida. 
+
+Aliás, em defesa a requerida informou que o autor já fez outras migrações, para planos mais complexos, pagando atualmente o valor de R$ 1.939,05.
+
+O autor não se manifestou em réplica, apesar de devidamente intimado, presumindo-se, então, que a informação da requerida é realmente verdadeira.
+
+Por consequência, se outras migrações foram efetuadas, a combatida nestes autos é absolutamente lícita.
+
+A pretensão deduzida, assim, não merece acolhida.
+
+Posto isso, JULGO IMPROCENTE esta ação.
+
+Em razão da sucumbência, condeno o autor a arcar com o pagamento de custas, despesas processuais e honorários advocatícios, que fixo em R$ 1.300,00.
+
+Não o considero  litigante de má-fé, pois apenas exerceu pretensão em juízo que reputou possuir, dentro dos limites processuais admissíveis.
+
+P.R.I.C.
+
+São Paulo, 22 de julho de 2013. 
+
+MARCELO AUGUSTO OLIVEIRA
+              Juiz de Direito
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

@@ -1,0 +1,72 @@
+
+
+SENTENÇA
+
+Processo nº:0006630-52.2012.8.26.0002
+Classe - AssuntoExibição - Medida Cautelar
+Requerente:Daniel Piqueres Escalhão
+Requerido:Universo Online S/A - Divisão Bol e outro
+
+Juiz(a) de Direito: Dr(a). Alexandre Batista Alves
+
+
+Vistos.
+
+
+DANIEL PIQUERES ESCALHÃO ajuizou ação cautelar de exibição de documentos contra UNIVERSO ONLINE S/A DIVISÃO BOL e MICROSOFT INFORMÁTICA LTDA, alegando, em resumo, que: a) vem sofrendo constantes agressões morais por pessoa alheia a seu conhecimento e que busca difamá-lo por meio de mensagens de celular ?SMS? encaminhadas a sua noiva; b) necessita obter os dados das contas de e-mail verdadesobredaniel@bol.com.br e jkl@msn.com.; c) as rés somente podem fornecer os danos de e-mail de acesso das contas cadastradas mediante ordem judicial.
+
+Por essas razões, pleiteia sejam as rés compelidas a exibir os dados de e-mail de acesso (login), número de IP de criação, logs de acesso, data, hora e referência GMT das conexões efetuadas por usuário de contas de e-mail criadas nos provedores destas dos e-mails verdadesobredaniel@bol.com.br e jkl@msn.com.
+
+A inicial veio instruída com documentos (fls. 07/17).
+
+Citada, a ré Universo Online ofertou contestação (fls. 32/41) sustentou basicamente que: a) dispõe dos dados informados pelo usuário no momento de criação do e-mail   verdadesobredaniel@bol.com.br,, o número do IP de cadastro e os logs de acesso à caixa postal, embora não se responsabilize pela veracidade dessas informações; b) esses dados, contudo, estão resguardados por sigilo constitucional e somente podem ser quebrados mediante expressa autorização judicial; c) não se opõe a exibir as informações desde que haja ordem judicial; d) não pode ser condenada ao pagamento dos ônus de sucumbência.
+
+Por sua vez, a corré Microsoft Infomática Ltda exibiu os dados solicitados (fls. 62/65) e, posteriormente, apresentou contestação (fls. 67/88), na qual suscitou preliminares de ilegitimidade passiva e impossibilidade jurídica do pedido. No mérito, sustentou a existência de óbice jurídico para a apresentação dos danos e invocou a proteção constitucional do sigilo das comunicações.
+
+Sobreveio réplica.
+
+É o relatório.
+Fundamento e Decido.
+
+A matéria debatida nos autos é somente de direito e de fato documentalmente comprovável, autorizando, pois, o julgamento antecipado da lide, nos termos do artigo 330, inciso I, do CPC. 
+
+Alegando receber mensagens ofensivas em seu celular de terceiros, pretende o autor a exibição dos dados das contas de e-mail apontadas na inicial e outras informações pertinentes.
+
+A corré Universo Online não se opõe ao pedido, desde que haja ordem judicial para tanto, dado o sigilo das informações conferido pelo texto constitucional.
+
+Por sua vez, a corré Microsoft, num primeiro momento, exibiu os dados solicitados (fls. 62/65) e requereu a extinção do feito sem ônus de sucumbência. Posteriormente, a corré em questão pratica ato incompatível com a exibição e oferta contestação, na qual suscita preliminares e opõe óbices jurídicos ao acolhimento do pedido.
+
+Os documentos que instruem o pedido revelam agressões morais dirigidas contra o autor e sua noiva, que foram levadas ao conhecimento da autoridade policial.
+
+Nessa conformidade, embora os dados solicitados sejam protegidos por sigilo, este não pode ser oposto ao Poder Judiciário, que busca a verdade dos fatos.
+
+Nesse sentido:
+
+?Medida cautelar- Agravo de Instrumento- Liminar determinando o fornecimento de informações cadastrais e IPs de acesso de conta de e-mail hotmail.com, gerido por sociedade brasileira, da qual a estrangeira é sócia- Impossibilidade da cláusula constitucional da inviolabilidade de dados. Recurso não provido? (AI 572.504.4/2-00, Rel. Des. Piva Rodrigues, 9ª Câmara de Direito Privado do TJ/SP, v.u., j. 29.7.2008).
+ 
+Procede, desta forma, a pretensão em relação à corré Universal Online, que deve ser isentada do pagamento dos ônus de sucumbência, uma vez que não resistiu ao pedido e estava impossibilitada de exibir os dados solicitados sem ordem judicial.
+
+Quanto à corré Microsof, deve ser declarada satisfeita a exibição, não sendo o caso de se conhecer da contestação, dada a existência de preclusão consumativa e lógica. Pelas mesmas razões, deixo de condená-la ao pagamento dos ônus de sucumbência.
+
+Ainda que assim não fosse, o E. Tribunal de Justiça já assentou a legitimidade da corré em questão para responder por ações com a dos autos. A propósito, confira-se o seguinte precedente:
+
+?MEDIDA CAUTELAR. EXIBIÇÃO DE DOCUMENTOS. Legitimidade passiva reconhecida pela interpretação das cláusulas contratuais. Descabida a alegação de necessidade de proteção do sigilo, que não pode ser oposto ao Poder Judiciário, que busca a verdade dos fatos. Inexistência, ademais de risco irreparável. Decisão mantida. Recurso Desprovido? (Agravo de Instrumento n. 990.10.326521-1, rel. Paulo Alcides Amaral Salles).
+
+Ante o exposto:
+
+a) JULGO PROCEDENTE o pedido formulado em face da corré UNIVERSO ONLINE S/A DIVISÃO BOL para condená-la a, no prazo de 5 dias, exibir os dados declinados na inicial;
+
+b) DECLARO SATISFEITA a exibição dos dados realizada pela corré MICROSOFT INFORMÁTICA LTDA.
+
+Deixo de condenar as rés ao pagamento dos ônus de sucumbência, conforme razões acima apontadas.
+
+P.R.I.
+
+São Paulo, 08 de fevereiro de 2013.
+
+CERTIDÃO PUBLICAÇÃO
+Certifico e dou fé que o r. despacho foi enviado ao DJE.  Disponibilização em __15.02.2013_____________ (publ._12____) . Considera-se a data da publicação o primeiro dia útil subseqüente à data da disponibilização no DJE. Eu _______, Escrevente subsc. 
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

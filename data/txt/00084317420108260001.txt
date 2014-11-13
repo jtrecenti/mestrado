@@ -1,0 +1,67 @@
+
+
+SENTENÇA
+
+Processo nº:0008431-74.2010.8.26.0001 - Procedimento Ordinário
+Requerente:Romali Serigrafia Ltda Epp
+Requerido:Ruy Roberto Guimarães e outro
+
+
+
+Juiz(ª) de Direito Dr.(ª): Carolina Martins Clemencio Duprat Cardoso
+
+
+Vistos.
+ROMALI SERIGRAFIA LTDA. EPP ingressou com ação declaratória de inexigibilidade de títulos cumulada com indenização por danos morais e pedido de tutela antecipada contra Ruy Roberto Guimarães, que tem o nome fantasia  TCE Transportes, e Banco do Brasil S/A. Aduziu que mantinha relações comerciais com a empresa ré TCE Transportes, que, no entanto, passou a emitir duplicatas que não correspondiam aos valores contratados, levadas a protesto pelo portador dos títulos, empresas de factoring e pelo banco réu. Apontou a existência de títulos irregulares, emitidos sem a respectiva fatura, uma vez que não houve a prestação de serviços, além de  duplicatas sem aceite. Também referiu-se a títulos quitados e protestados indevidamente, porém baixados, nºs 17398, 17395 e 17388, além de outros ainda pendentes de baixa, nos valores de R$2.100,00, 3.929,31, 1.706,21(16410) e 11.792,56. Requereu a concessão da tutela antecipada para sustação dos protestos dos títulos, assim como que para que o banco réu se abstenha em negociar títulos com terceiros até o término da demanda e a condenação dos réus para pagamento de indenização por danos morais correspondente a dez vezes o valor dos títulos protestados.
+Com a inicial, juntou documentos pertinentes (fl.15/63).
+A tutela antecipada foi deferida parcialmente, apenas para suspender os efeitos dos protestos das duplicatas de valores R$2.100,00, 3.929,31, 1.706,21 e 11.792,56, mediante depósito em caução do somatório dos títulos.
+Foi ampliada a liminar concedida para suspender os efeitos do protesto do título 0000017759, no valor de R$3.418,60, independentemente de caução (fl. 93).
+O corréu Banco do Brasil foi citado, e interpôs agravo retido da decisão que concedeu a tutela antecipada. 
+Em seguida, o banco requerido apresentou contestação acompanhada de documentos, ocasião em que suscitou preliminar de ilegitimidade passiva, por não ser portador dos títulos em questão, apenas tomou conhecimento dos dados dos títulos por meio de operação bancária de desconto de títulos. No mérito, aduziu que a relação jurídica permanece válida, uma vez que sob o prisma da boa-fé e por meio da aplicação da teoria da aparência, a ré Ruy Roberto Guimarães assumiu a responsabilidade acerca da validade dos títulos nos moldes que contratou com o banco réu, apenas terceiro de boa-fé, autorizando este a apresentar os títulos a protesto quando se fizesse necessário, na condição de mero mandatário, por conta e risco do mandante (114/171).
+Seguiu-se réplica (fls.178/189).
+A empresa ré Ruy Roberto Guimarães foi citada no endereço de sua sede (fls.108) e não contestou, tendo sido decretada sua revelia às fls.222.
+As partes não manifestaram interesse na produção de outras provas, além das já constantes no processo.                                                                                                                                                                                                                                                                                         
+É o relatório.
+Decido.
+
+
+De início, acolho a preliminar de ilegitimidade passiva suscitada pelo Banco do Brasil S.A..
+É maciça a jurisprudência no sentido da impertinência subjetiva passiva do endossatário mandatário nas ações de sustação de protesto e declaratórias de nulidade de título. 
+Isto porque o endosso mandato não transfere a propriedade do título ou do crédito nele representado, exercendo o mandatário a mera cobrança da dívida em nome do credor.
+Neste sentido:
+
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO - PROTESTO INDEVIDO DE DUPLICATA - ENDOSSO-MANDATO - ILEGITIMIDADE PASSIVA DA INSTITUIÇÃO FINANCEIRA - PRECEDENTES DESTE STJ - AGRAVO IMPROVIDO. (...) Já assentou a Corte que o 'endossatário tratando-se de endosso-mandato, age em nome do endossante. Não deve figurar, em nome próprio, em ação de sustação de protesto ou de anulação de título (...)' (REsp 255.634/DIREITO) (STJ - AgRg no Ag 965.893/RJ, Rel. Ministro  MASSAMI UYEDA, TERCEIRA TURMA, julgado em 27.05.2008, DJe 20.06.2008)
+
+AGRAVO REGIMENTAL. AUSÊNCIA DE ARGUMENTOS CAPAZES DE INFIRMAR OS FUNDAMENTOS DA DECISÃO AGRAVADA. ENDOSSO-MANDATO. MANDATÁRIO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO CAMBIAL. ILEGITIMIDADE. 1. Não merece provimento recurso carente de argumentos capazes de desconstituir a decisão agravada. 2. O endosso-mandato não transfere ao mandatário a propriedade do título endossado ou do crédito por ele representado. 3. O endossatário-mandatário que, sem exceder os poderes recebidos, encaminha o título a protesto por ordem do mandante não tem legitimidade para responder à ação de sustação ou cancelamento de protesto. 4. O endossatário-mandatário não tem legitimidade para figurar no pólo passivo de ação declaratória de inexistência de relação cambial movida pelo sacado contra o sacador/endossante (STJ - AgRg no REsp 830.481/MG, Rel. Ministro  HUMBERTO GOMES DE BARROS, TERCEIRA TURMA, julgado em 29.11.2006, DJ 18.12.2006, p. 392).
+
+PROCESSUAL CIVIL E CIVIL. AGRAVO REGIMENTAL. PROTESTO INDEVIDO. ENDOSSO-MANDATO. ILEGITIMIDADE PASSIVA DA INSTITUIÇÃO FINANCEIRA. DECISÃO CONFORME PRECEDENTES DESTA CORTE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1 - Encontra-se pacificado nesta Corte Superior o entendimento no sentido de que a instituição financeira que recebe o título por endosso-mandato e não age de forma temerária, ou com desídia, é parte ilegítima para figurar como réu na ação cautelar de sustação de protesto, cumulada com danos morais. 2 - Agravo regimental a que se nega provimento. (STJ, AgRg no Ag 1127336/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/05/2011, DJe 13/05/2011)
+
+
+Quanto ao mérito, questiona a autora o saque e o envio a protesto de duplicatas de prestação de serviço, aduzindo, em síntese, a inexistência de relação jurídica subjacente.
+A Lei 5.474/68 regulamenta a emissão de duplicatas relativas à venda mercantil e de prestação de serviços, estabelecendo, para sua validade, que as faturas devem discriminar a natureza da prestação de serviços e a soma a pagar  (art. 20 e parágrafos). 
+Ademais, para que se legitime o protesto, deverá a apresentante trazer qualquer documento hábil que comprove a prestação de serviços e o vínculo contratual que a autorizou.
+Já o artigo 21 estabelece que o sacado poderá deixar de aceitar a duplicata se constatar não correspondência com os serviços contratados, vícios na qualidade dos serviços devidamente comprovados, e ainda por divergências nos prazos e preços ajustados.
+No caso, emitiu a empresa ré Ruy Roberto Guimarães duplicatas por indicação.
+Diante de sua revelia, presumem-se verdadeiros os fatos articulados na inicial, de sorte que é de ser reconhecida a inexistência de relação jurídica subjacente, e, em consequência, a invalidade dos saques dos títulos em questão.
+
+Como já dito, as duplicatas, notadamente quando não aceitas, para terem validade como título de crédito devem vir acompanhadas dos comprovantes do vínculo contratual (nota fiscal) e da efetiva prestação de serviços.
+Nada mais justa a cobrança, desde que comprovado o fato que a sustenta.
+Trata-se de ação declaratória negativa, em que incumbe à ré a prova do fato constitutivo de direito próprio.
+Neste passo é oportuna a lição de Fábio Tabosa em comentário ao artigo 333 do Código de Processo Civil:
+?A primeira ressalva a fazer nesse particular é a de que a associação do CPC entre as categorias de fatos e a posição das partes na relação processual não indica critério rígido (como se ao autor fosse ser sempre exigida a prova de fatos constitutivos de direito ? ou se sempre enquadráveis nessa categoria os fatos por ele alegados -, impondo-se sempre ao réu, em contrapartida, a prova dos modificativos, extintivos ou impeditivos de direito alheio), mas apenas a expressão do que normalmente ocorre. (...).
+Pode ocorrer, com efeito, de no processo ser o réu quem afirme fatos constitutivos de direito próprio, assumindo o ônus probatório respectivo; figure-se assim o exemplo de uma ação declaratória negativa onde o autor sustente a inexistência de qualquer relação jurídica entre as partes, enquanto o réu na defesa alegue compra e venda mercantil a efetivamente vincular o autor em termos obrigacionais? (Código de Processo Civil Interpretado, Coordenação de Antonio Carlos Marcato, Editora Atlas, 2ª Edição, 2005, p. 1045). 
+Assim, diante da ausência de prova de relação jurídica que desse causa aos títulos apontados a protesto, de rigor o reconhecimento da nulidade das duplicatas emitidas sem lastro e, por conseguinte, a procedência desta demanda.
+Quanto ao pedido de indenização por danos morais, a indicação a protesto de título sem causa subjacente é hábil a ensejar a reparação por danos morais, vez que evidente os danos decorrentes do apontamento indevido.
+No caso presente, o protesto se efetivou.
+Consigna-se que o dano moral não pode consistir em fonte de enriquecimento sem causa, sob pena de se desnaturar sua finalidade.
+                                   Assim, atendendo aos critérios da razoabilidade e prudência, fixo os danos morais em R$ 20.000,00, importância que se aproxima da soma dos títulos objeto da lide.
+Por tais fundamentos, julgo procedente a ação, para confirmar a tutela antecipada e declarar a nulidade das duplicatas objeto da lide, bem como da cobrança delas decorrente, sustando definitivamente os protestos em questão. Condeno a ré Ruy Roberto Guimarães ao pagamento de indenização por danos morais à autora, correspondente a vinte mil reais, atualizados desta data até o efetivo desembolso. Em razão da sucumbência, arcará a ré com o pagamento das custas e despesas processuais, bem como por honorários do procurador do autor, que arbitro em quinze por cento do valor da condenação, corrigidos desta data até o efetivo pagamento.
+Oficie-se ao Cartório de Protestos.
+Autorizo o levantamento da caução pela autora. Expeça-se guia.
+   P.R.I.
+
+ São Paulo, 26 de outubro de 2012.
+
+Carolina Martins Clemencio Duprat Cardoso
+Juíza de Direito
+(assinatura digital)

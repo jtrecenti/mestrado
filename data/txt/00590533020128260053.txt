@@ -1,0 +1,50 @@
+
+
+SENTENÇA
+
+Processo nº:0059053-30.2012.8.26.0053
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Moral
+Requerente:GERCICLEIDE DA SILVA ROCHA
+Requerido:Fazenda Pública do Estado de São Paulo
+
+
+Juiz(a) de Direito: Dr(a). Luis Manuel Fonseca Pires
+
+
+Vistos.
+
+Trata-se de ação na qual se afirma que a autora deu entrada no Hospital Geral Vila Nova Cachoeirinha, no dia 29/02/2008, onde foi submetida a uma cirurgia de laqueadura; alega que engravidou três anos após o procedimento da cirurgia, apesar de ser informada que não haveria mais essa possibilidade; relata que na época em que se submetia a exames preparatórios, nenhum dos médicos a alertaram sobre a possibilidade de haver uma reversão desse procedimento cirúrgico; sustenta a responsabilidade objetiva do Estado uma vez que o erro médico que causou o dano decorreu de um ato de seu preposto; requer, em suma, indenização por danos materiais e morais. Juntou documentos (fls. 11/80).
+A ré contestou (fls. 89/100) para alegar que inexiste o nexo causal entre o dano sofrido pela autora e o procedimento cirúrgico realizado; afirma que a obrigação na prestação de serviços médicos é de meio, e não de resultado; defende que a realização da laqueadura possui chances raríssimas de haver uma reversão, e que a autora estava ciente dessa possibilidade, uma vez que nas declarações de consentimento para a realização da cirurgia estava, claramente, escrito quanto à possibilidade de falha; refuta a condenação ao pagamento de danos materiais e morais; requer, por fim, que a ação seja julgada improcedente.
+É o relatório. Decido.
+Cuida o mérito sobre saber se a ré é responsável, e se sim, em qual extensão, pela reversão da laqueadura da autora ? é dizer, se existe um dano causado pelo procedimento de cirurgia, ou se não havia o que ser feito a evitar o resultado.
+                                   O art. 37, § 6º, da Constituição Federal prescreve a responsabilidade civil do Estado ou de quem lhe faça as vezes. Isto significa dizer que para a apuração de eventual responsabilidade da Administração Pública ou de quem a substitui é necessário: a) identificar o comportamento do Poder Público; b) aferir o dano, seja este material ou moral; c) revelar o nexo causal entre o comportamento e o dano, e ainda a imputação normativa correspondente. E um esclarecimento deve ser feito: o nexo causal explica-se pelo modal apofântico, próprio das leis da natureza, sob a função descritiva (a definição do ser), logo, só é possível em relação à ação; a imputação normativa estrutura-se sob o modal deôntico, pois regula as condutas humanas, destarte, é prescritiva (estipula o que deve ser), e sempre ? é claro ? deve estar presente, tanto na ação quanto na omissão, pois imprescindível à qualificação jurídica do fato.  
+ Os três elementos acumulam-se e são indispensáveis. Sem qualquer um deles não há falar-se em responsabilidade civil do Estado.
+  A imputação normativa é indispensável em situações que envolvem a omissão do Estado e naquela, como é o caso concreto, em que se trata de obrigações de meio, a exemplo da atuação dos profissionais da área da saúde.
+ A imputação normativa nestes casos ? omissão e obrigações de meio ? é o dever jurídico de evitar o resultado, o que não se apura apenas sob o aspecto da culpa lato sensu. 
+  Neste sentido, Sérgio Cavalieri Filho: 
+É que, não raro, pessoas que estavam jungidas a determinados deveres jurídicos são chamadas a responder por eventos a que apenas aparentemente deram causa, pois, quando examinada tecnicamente a relação de causalidade, constata-se que o dano decorreu efetivamente de outra causa, ou de circunstância que as impedia de cumprir a obrigação a que estavam vinculadas. 
+
+  As clássicas teorias sobre a causa e efeito referem-se ao plano fático, ao mundo do ser, das relações apofânticas. Neste sentido, lembro Ricardo Marcondes Martins ao defender a teoria da imputação objetiva. Diz o autor:
+a causalidade é insuficiente para responsabilização, ainda que objetiva; necessária a 'imputação' da norma instituidora da responsabilidade à atuação estatal ou, se preferir, a imputação à atuação estatal da criação de um risco não tolerado a um bem jurídico do administrado e a decorrente produção de um dano a esse bem.
+
+ E adiante:
+(...) deve-se apurar se há um nexo conforme à lei natural entre a atuação positiva do Estado e o resultado; para tanto é perfeitamente eficaz a teoria da equivalência dos antecedentes. A partir dela é possível apurar se há ou não nexo causal, entendido como fenômeno natural, e não jurídico: se inexistir, afastada estará a responsabilidade objetiva pela atuação comissiva; poderá haver responsabilização pela omissão; se existir, necessário apurar se há imputação objetiva da norma que atribui responsabilidade civil à atuação estatal.
+
+  A teoria da imputação objetiva, ao valorizar o indispensável modal deôntico à juridicização dos elementos do mundo fenomênico (nem poderia ser de outra forma), permite realçar a responsabilidade objetiva do Estado nos termos desejados ? leia-se: prescrito ? pelo art. 37, § 6º, da Constituição Federal. 
+ Em síntese, o dever jurídico de impedir o resultado, quando presente pela interpretação tópico-sistemática das normas aplicáveis ao caso, justifica a responsabilidade civil do Estado tanto diante da omissão quanto das obrigações de meio.
+ Cumpre aferir, portanto, se havia algum dever jurídico de evitar o resultado no caso em apreço.
+Segundo a Lei 9.263/96 que trata sobre planejamento familiar, a mulher, para ser submetida à laqueadura, precisa ter, obrigatoriamente, mais de 25 anos ou dois filhos. No presente caso, a autora possuía dois filhos e não tinha o interesse em engravidar novamente, tendo, portanto, solicitado autorização à Secretaria de Estado da Saúde para a contracepção cirúrgica (fls.20). 
+A autora, indubitavelmente, após a realização da cirurgia engravidou novamente dando luz à uma filha (fls. 18). O procedimento cirúrgico de laqueadura, entretanto, não garante totalmente a contracepção, havendo, em raríssimas ocasiões, a possibilidade de reversão desse procedimento.  
+ O formulário de autorização da comissão de planejamento familiar (fls. 20) e o termo de consentimento de manifestação de vontade para esterilização cirúrgica voluntária (fls. 22) demonstram, claramente, que a esterilização não é absoluta, aduzindo nestes termos, Este procedimento contraceptivo apresenta uma taxa de falha de 3/100, calculada pelo índice de Pearl, Ocasionalmente este método pode falhar (...), (...) falha de 0,41para 100 mulheres (fls. 20; 22).
+Vale dizer, é afastado o argumento da autora sobre um suposto desconhecimento ou ignorância acerca das possíveis consequências do procedimento médico em questão.
+                                   É fato incontroverso, portanto, diante do contexto probatório, de que esse procedimento cirúrgico não garante a absoluta esterilização da mulher. A obrigação da prestação de serviços médicos é de meio, e não de resultado, sendo que no caso os profissionais que realizaram o procedimento cirúrgico não teriam como prever a reversão do mesmo. Não há, portanto, qualquer comportamento do Estado que pudesse evitar o resultado.
+Ante o exposto, JULGO IMPROCEDENTE o pedido. Condeno a parte vencida a suportar as custas processuais e a verba honorária da parte contrária que fixo em 10% do valor da causa que não será executada enquanto persistir a situação que justificou a concessão dos benefícios da assistência judiciária gratuita. 
+  P.R.I. 
+ São Paulo, 04 de julho de 2013.
+
+ Luis Manuel Fonseca Pires
+
+          Juiz de Direito
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

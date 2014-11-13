@@ -1,0 +1,69 @@
+
+
+SENTENÇA
+
+Processo nº:0012163-02.2011.8.26.0010
+Classe - AssuntoProcedimento do Juizado Especial Cível - Pagamento
+Requerente:TERCILIO ALVES SIQUEIRA e outros
+Requerido:URTADO & URTADO COMÉRCIO DE VEÍCULOS LTDA.
+
+
+
+
+Juiz(a) de Direito: Dr(a). Ricardo Dal Pizzol
+
+
+Vistos.
+
+I ? Dispensando o relatório, na forma da lei. 
+II ? Rejeito a preliminar de fls. 80/81. O não comparecimento do autor José Alves Siqueira à audiência de conciliação foi devidamente justificado pelo documento de fl. 68.  
+III ? Rejeito, igualmente, a preliminar de prescrição. 
+Dispõe o art. 200 do Código Civil:
+Art. 200. Quando a ação se originar de fato que deva ser apurado no juízo criminal, não correrá a prescrição antes da respectiva sentença definitiva.
+No caso, o fato em análise foi objeto de inquérito policial, para apuração, em tese, dos crimes de estelionato e/ou receptação. O inquérito policial foi arquivado, mediante decisão proferida em 14 de janeiro de 2010 (fl. 48). Apenas nessa data, portanto, começou a correr o prazo prescricional. 
+Ao contrário do alegado em contestação (fl. 83), o inquérito policial não foi aberto para apuração do crime de furto do motor, mas sim para apuração de eventual crime de estelionato e/ou receptação na venda do veículo pela requerida aos autores (fato em análise nestes autos). Isso fica bem evidente na portaria de fl. 13, no relatório de fl. 41 (vide primeiro parágrafo) e na manifestação ministerial de fl. 44 (vide primeiro parágrafo). Assim, é certo que a abertura do inquérito policial, no caso, teve o efeito de obstar o início do prazo prescricional, na forma acima descrita. 
+Fixado o termo inicial, resta saber se decorreu, no caso, o prazo prescricional fixado em lei para a hipótese.
+Entendo que a resposta é negativa. 
+A hipótese é de evicção (art. 447 e seguintes do CC) e não de vício redibitório (art. 441 e seguintes do CC), visto que o motor foi entregue ao verdadeiro proprietário (vítima do furto), estranho à relação contratual entre as partes, dentro do inquérito policial aberto para apuração dos fatos. Tratava-se, portanto, de um problema concernente à legitimidade do direito transferido (evicção) e não à existência de vícios materiais que tornassem a coisa imprópria para seu uso (vício redibitório). Acerca da evicção, ensina N. Rosenvald:
+Relativamente à evicção, cuida-se de dever de garantia diante de eventual perda da coisa em virtude de decisão judicial ou administrativa que conceda o direito ? total ou parcial ? sobre ela a um terceiro estranho à relação contratual em que se deu a aquisição. O terceiro demonstra a anterioridade de seu direito, por deter a condição de real proprietário ou possuidor do bem, através de titulação anterior ao negócio que concedeu o direito ao adquirente. Com a perda da coisa, este passa a se chamar evicto (excluído). Incumbirá ao evicto dirigir-se ao alienante, pleiteando a indenização pelos prejuízos decorrentes da transferência de um direito que não lhe pertencia quando formalizado o contrato (Código Civil Comentado, Corrd. Min. Cézar Peluso, p. 341). 
+Tratando-se de evicção, o prazo prescricional é de 10 (dez) anos (prazo geral do art. 205, caput, do CC). Assim, considerando que o prazo prescricional decenal começou a correr com o arquivamento do inquérito policial em 14 de janeiro de 2010 (fl. 48), evidente a não ocorrência da prescrição. Nesse sentido, já decidiu o Eg. TJSP:
+BEM MÓVEL - ANULATÓRIA C/C INDENIZATÓRIA - Aquisição de automóvel seminovo - Suspeita de motor com numeração adulterada - Decadência não consumada - Anulação da sentença para regular prosseguimento - O fato de o veículo estar com chassi remarcado e por isto ter sido apreendido pela autoridade policial, não caracteriza vício oculto que teria sido descoberto pelo autor em determinado momento; ao caso aplica-se o artigo 447 do CC, que estabelece que nos contratos onerosos, o alienante responde pela evicção, cujo prazo prescricional de 10 anos, conforme artigo 205 do CC, não foi atingido. Anula-se a sentença que reconheceu a decadência, para que o feito tenha regular prosseguimento. - Recurso provido (TJSP, Ap. 990092908332)
+Apelação. Ação de rescisão contratual por evicção. Veículo automotor. Prazo prescricional decenal (art. 205, 'caput', CC). Preliminar de impossibilidade jurídica do pedido afastada. Denunciação da lide. Impossibilidade. Hipótese alheia ao art. 70, I, CPC. Evicção configurada. Responsabilidade ex lege da revendedora de veículos. Danos morais e materiais suficientemente comprovados nos autos. Sentença mantida. Apelo desprovido. (TJSP, Ap. 7129420108260048)
+IV ? Passo à análise do mérito. 
+No mérito, a ação deve ser julgada parcialmente procedente. 
+Passo a analisar separadamente cada um dos pedidos formulados.
+(a) Danos Materiais
+Conforme laudo pericial de fls. 31/33, "a numeração do motor do veículo em questão (AFZ 035 617), apesar de não apresentar adulteração, não corresponde àquela consignada na ficha de montagem do veículo de chassi supramencionado".  
+Após tal constatação, o motor foi devolvido ao real proprietário, ficando os autores com um veículo sem motor.
+Era ônus da requerida, em face do disposto no art. 6º, VIII, do CDC, comprovar que o veículo foi alienado aos autores regularmente, sem o motor furtado. A requerida, no entanto, não se desincumbiu desse ônus probatório. 
+O fato de a transferência do veículo ter sido autorizada pelo órgão de trânsito não assegura que o motor estava regular por ocasião da alienação. 
+Ressalto que o motor foi furtado em 12/04/2005 (fl. 30), antes, portanto, de a requerida ter vendido o veículo para os autores em 26/12/2005.
+Deve-se salientar, ainda, que foi o próprio autor Tercílio que procurou espontaneamente a delegacia de polícia para noticiar que o motor não correspondia ao veículo, o que indica boa-fé de sua parte. Isso torna pouco verossímil a tese da requerida de que o motor teria sido trocado quando o veículo já estava na posse dos autores. 
+Importante ressaltar que não é relevante saber, no caso, se o motor foi trocado justamente no período em que esteve na posse da requerida (fl. 85, 1º parágrafo). A questão central é outra: se o motor furtado já estava ou não no veículo no momento da alienação aos autores.  Como já dito, era ônus da requerida comprovar que não, porém a requerida não se desincumbiu desse ônus probatório (art. 6º, VIII, do CDC). 
+Nada impede, porém, que a requerida se volte contra a pessoa que lhe alienou o veículo para obter ressarcimento de seus prejuízos. 
+A responsabilidade da requerida pela evicção decorre diretamente da lei. Dispõem os artigos 447, 450 e 455 do CC:
+
+Art. 447. Nos contratos onerosos, o alienante responde pela evicção. Subsiste esta garantia ainda que a aquisição se tenha realizado em hasta pública.
+
+Art. 450. Salvo estipulação em contrário, tem direito o evicto, além da restituição integral do preço ou das quantias que pagou:
+I - à indenização dos frutos que tiver sido obrigado a restituir;
+II - à indenização pelas despesas dos contratos e pelos prejuízos que diretamente resultarem da evicção;
+(...)
+Parágrafo único. O preço, seja a evicção total ou parcial, será o do valor da coisa, na época em que se evenceu, e proporcional ao desfalque sofrido, no caso de evicção parcial.
+O ressarcimento não pode, contudo, se dar na forma pretendida na inicial. 
+Os autores afirmam que a instalação de um motor completo, com acessórios, custaria R$ 20.935,00 (fls. 08/09). Tal orçamento não foi impugnado especificamente pela requerida. 
+É evidente, no entanto, que o valor da reparação não pode superar o valor do próprio veículo (R$ 10.796,00, conforme Tabela FIPE), sob pena de ocorrer evidente enriquecimento sem causa em favor dos autores, o que não se pode admitir. 
+A tal valor (R$ 10.796,00) devem ser acrescidos os custos de IPVA, DPVAT e taxas mencionados à fl. 10 (com exclusão das multas, obviamente), no total de R$ 2.386,09. Estando o veículo parado, sem poder trafegar, em virtude da ausência de motor, nada mais justo do que repassar tais custos à requerida, causadora do dano. 
+Assim, a reparação por danos materiais deve corresponder, no total, a R$ 13.182,09 (treze mil, cento e oitenta e dois reais e nove centavos).
+(b) Danos Morais
+O pedido de indenização por dano moral, por sua vez, deve ser afastado. 
+A hipótese é de mero desacordo contratual, o que, como regra geral, não enseja indenização por dano moral. 
+Nesse sentido, a jurisprudência do STJ: REsp 729.456-MG, DJ 3/10/2005; REsp 173.190-SP, DJ3/4/2006; REsp 930.307-RJ, DJ 14/8/2007; REsp 222.642-SP, DJ 9/4/2001; REsp 854.325-PR, DJe 25/9/2009; REsp 153.209-RS, DJ 2/2/2004; REsp 562.336-ES, DJ 3/5/2004, e REsp 337.083-SP, DJ 18/2/2002; REsp 746.087-RJ, DJ 1º/6/2010.
+Não restou comprovada qualquer lesão à dignidade dos autores. Ensina Sérgio Cavalieri Filho que ?só deve ser reputado como dano moral a dor, vexame, sofrimento ou humilhação que, fugindo à normalidade, interfira intensamente no comportamento psicológico do indivíduo, causando-lhe aflições, angústia e desequilíbrio em seu bem-estar. Mero dissabor, aborrecimento, mágoa, irritação ou sensibilidade exacerbada estão fora da órbita do dano moral, porquanto, além de fazerem parte da normalidade do nosso dia-a-dia, no trabalho, no trânsito, entre amigos e até no ambiente familiar, tais situações não são intensas e duradouras, a ponto de romper o equilíbrio psicológico do indivíduo. Se assim não se entender, acabaremos por banalizar o dano moral, ensejando ações judiciais em busca de indenizações pelos mais triviais aborrecimentos? (Programa de Responsabilidade Civil, 6ª ed., São Paulo: Malheiros, p. 105).
+DECIDO.
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a ação, para CONDENAR a requerida a pagar aos autores a quantia de R$ 13.182,09 (treze mil, cento e oitenta e dois reais e nove centavos), com correção monetária, conforme a Tabela Prática do TJSP, a partir do ajuizamento da demanda, e juros de mora de 1% ao mês a partir da citação.
+Sem condenação em custas, despesas processuais e honorários advocatícios nesta fase.
+P.R.I.C.
+São Paulo, 12 de junho de 2012.
+
+Ricardo Dal Pizzol ? Juiz de Direito

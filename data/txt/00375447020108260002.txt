@@ -1,0 +1,53 @@
+
+
+SENTENÇA
+
+Processo nº:0037544-70.2010.8.26.0002
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Moral
+Requerente:New Point Hotel Ltda - ME
+Requerido:Eletropaulo Metropolitana Eletricidade de São Paulo S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Adriana Borges de Carvalho
+
+
+
+VISTOS.
+
+
+NEW POINT HOTEL LTDA.-ME ajuizou ação indenizatória em face de ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S/A, alegando que efetuou a reforma em seu estabelecimento e solicitou à ré a troca do medidor de energia elétrica. Relata que, na hora da troca, os prepostos da requerida constataram a violação do lacre, acarretando a cobrança no valor de R$ 30.439,84, posteriormente reduzida para R$ 5.268,45, cujo pagamento lhe foi exigido, sob pena de suspensão no fornecimento de energia elétrica. Assim, requer seja declarada a inexigibilidade do débito, com a condenação da ré na indenização no valor equivalente a 50 salários mínimos, ao argumento de que sofreu danos à sua imagem.
+Citada, a ré contestou o feito a fls. 94/105, arguindo preliminar de inépcia da inicial. No mérito, enfatizou que a relação entre as partes não se enquadra na lei consumerista e que nenhum ato ilícito foi cometido para ensejar o direito à indenização pelos danos morais pretendidos pela autora. Ao final, impugnou o valor pedido, aguardando a improcedência da ação. 
+Na mesma oportunidade, apresentou reconvenção (fls. 120/133), sustentando que apurou a irregularidade no medidor, tendo a autora-reconvinda se beneficiado do faturamento inferior de consumo. Assim, constatada a fraude, o valor apurado é devido, acrescido do custo administrativo no equivalente a 30%, consoante Resolução 456/2000 da ANEEL. Ao final, requereu seja a reconvinda condenada no valor de R$ 5.268,45, sem prejuízo das verbas de sucumbência.
+Especificadas as provas, sobreveio despacho saneador, que afastou a preliminar e delimitou o ponto controvertido, deferindo a realização de perícia técnica (fls. 151/153). Laudo pericial juntado a fls. 185/201, seguido de manifestação da ré.
+Encerrada a instrução, sobrevieram memoriais. 
+É o relatório.
+DECIDO.
+Consoante despacho saneador ? irrecorrido ? de fls. 151/153, o ponto controvertido restou delimitado na existência de violação dos ajustes de calibração interna do medidor de energia instalado nas dependências do hotel autor, capaz de gerar a apontada diferença de consumo a menor.
+Para dirimir a controvérsia, foi realizada perícia de engenharia, a fim de vistoria o medidor que deu origem ao Termo de Ocorrência de Irregularidade (TOI) impugnado pela demandante.
+ Em suas conclusões, o perito ressaltou que, apesar de os prepostos da autora terem verificado que o lacre do vidro do medidor estava quebrado, possibilitando com isso a manipulação dos ajustes, é certo que ?não foi constatado evidência de utilização de dispositivo fraudulento ou manipulação de ajustes internos. Essa situação contraria a análise do consumo após a normalização da medição que registrou um incremento na média de 24,04% para uma comparação entre períodos equivalentes de 12 meses? (fl. 198).
+Além disso, segundo o expert, os cálculos elaborados pela Eletropaulo para apurar o valor devido contrariam cabalmente o disposto na Resolução 456/2000 da ANEEL, vez que utilizado como parâmetro o valor equivalente ao consumo de junho/julho de 2002. Na verdade, se utilizado o maior valor medido no intervalo entre julho/2007 e junho/2008, ou ainda, considerando o índice de 24,04% sobre o período de julho/2008 a março/2009 (data da elaboração do TOI), o valor supostamente devido pelo consumidor é expressivamente inferior ao cobrado pela Eletropaulo.
+Importa frisar que o assistente técnico indicado pela Eletropaulo ofereceu parecer técnico concordante, entendendo ser a diferença de consumo após a troca do medidor suficiente para dar como provada a violação dos ajustes no relógio.
+No entanto, o parecer sequer menciona a ênfase dada pelo perito judicial, de que ?O medidor não apresentou erro de medição e também nenhuma evidência de manipulação dos ajustes internos? (fl. 201).
+Em resumo, nenhuma violação nos ajustes do relógio medidor foi constatada pela perícia, contrariando o conteúdo do Termo de Ocorrência de Irregularidade, impondo-se reconhecer a inexigibilidade do débito cobrado pela Eletropaulo, no valor de R$ 5.268,45, conforme documento de fl. 26.
+No que tange ao dano moral, a solução é diversa. Embora o direito à indenização por danos morais não esteja restrito às pessoas físicas, tanto que a jurisprudência já pacificou entendimento neste sentido, com a edição da Súmula 227 do STJ, é certo que, para fazer jus à reparação pretendida é necessária a prova cabal da violação da honra objetiva da pessoa jurídica. 
+Consoante lição de Sérgio Cavalieri Filho, ?a pessoa jurídica, embora não seja passível de sofrer dano moral em sentido estrito ofensa a? dignidade, por ser esta exclusiva da pessoa humana, pode sofrer dano moral em sentido amplo ? violação de algum direito da personalidade -, porque e? titular de honra objetiva, fazendo jus à indenização sempre que seu bom nome, credibilidade ou imagem forem atingidos por algum ato ilícito. Modernamente fala-se em honra profissional como uma variante da honra objetiva, entendida como valor social da pessoa perante o meio onde exerce sua atividade.?  (Programa de Responsabilidade Civil. 7a ed., São Paulo: Atlas, 2007, p. 94).
+No caso em tela, não há prova de que a autora tenha sofrido qualquer restrição capaz de macular sua imagem no meio comercial. Ao que parece, a questão debatida nos autos ficou restrita ao âmbito das partes, inexistindo repercussão negativa ao nome comercial da demandante, a ensejar o direito à reparação nos moldes pretendidos. 
+Ademais, a própria demandante reconhece que o medidor de energia antigo necessitava ser trocado, vez que, em seus dizeres, estava em estado precário de conservação. Logo, nenhuma irregularidade cometeu a requerida ao efetuar a troca ? solicitada pela própria autora ? e, na ocasião, verificar que o lacre encontrava-se quebrado. A eventual violação dos ajustes era matéria que dependia de prova, o que foi efetivamente feito. 
+Por consequência, a reconvenção não merece acolhimento. Conforme fundamentação supra, não restou provada a violação dos ajustes no relógio medidor, razão pela qual o débito originado da irregularidade apontada pela ré-reconvinte é inexigível.
+Diante do exposto e do mais que dos autos consta, JULGO PROCEDENTE EM PARTE a ação ajuizada por NEW POINT HOTEL LTDA.-ME em face de ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S/A, para declarar a inexigibilidade do débito no valor de R$ 5.268,45, originado do Termo de Ocorrência de Irregularidade n° 7213032. Em consequência, julgo extinto o processo, nos termos do art. 269, I, do CPC. 
+Em razão da sucumbência recíproca tipificada no art. 21 do Código de Processo Civil, as partes ratearão as custas e despesas processuais corrigidas desde o desembolso, arcando cada qual com os honorários de seus respectivos patronos. 
+Na mesma oportunidade, JULGO IMPROCEDENTE a reconvenção proposta pela ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S/A em face de NEW POINT HOTEL LTDA.-ME.
+Pela sucumbência na reconvenção, a ré-reconvinte arcará com as custas e despesas processuais, além dos honorários advocatícios, ora arbitrado em R$ 1.000,00.
+Após o trânsito em julgado, aguarde-se por 30 dias. Nada sendo requerido, arquivem-se os autos, com as cautelas de praxe.
+Para cálculo da taxa de preparo recursal, considerar-se-á o valor histórico atribuído à causa. 
+P.R.I.
+São Paulo, 05 de dezembro de 2013.
+
+ADRIANA BORGES DE CARVALHO
+   Juíza de Direito
+         (assinatura digital)
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

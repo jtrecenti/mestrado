@@ -1,0 +1,55 @@
+
+
+SENTENÇA
+
+Processo nº:002.05.106395-6
+Classe - AssuntoProcedimento Sumário - Assunto Principal do Processo >
+Requerente:Unifec - União para Formação, Educação e Cultura do Abc
+Requerido:Totvs S.a.
+
+
+
+Juiz(a) de Direito: Dr(a). Adriana Borges de Carvalho
+
+
+
+
+VISTOS.
+
+
+UNIFEC ? UNIÃO PARA FORMAÇÃO, EDUCAÇÃO E CULTURA DO ABC ajuizou ação declaratória de rescisão contratual cumulada com inexigibilidade de títulos e indenização por danos em face de TOTVS S/A alegando que, em 21/06/2002, assinou instrumento particular para a licença de uso de produtos de softwares, que seriam implantados pela ré no prazo de oito meses, mediante pagamentos mensais. Decorridos quatorze meses da assinatura do contrato, a autora já havia pago a quantia aproximada de R$ 200.586,87, sem que os serviços tivessem sido concluídos. Posteriormente, a autora comunicou à ré que os pagamentos seriam efetuados mediante a regularização dos serviços já quitados. Mesmo assim, a ré deixou de concluir a instalação dos softwares e levou as faturas a protestos, acarretando inúmeros prejuízos materiais à autora. Assim, requer a procedência da ação, para ver declarada a rescisão do contrato e a inexigibilidade das faturas emitidas, além da condenação da ré na restituição dos valores recebidos, sem prejuízo das verbas de sucumbência. Na mesma oportunidade, pleiteou a concessão de liminar para sustar os efeitos dos protestos lançados em seu nome, deferida a fls. 463/464.
+Citada, a ré apresentou contestação (fls. 297/309), asseverando que os serviços não puderam ser concluídos, pois a autora se negou a dar prosseguimento à implantação dos sistemas, deixando de prestar as devidas informações e de efetuar os pagamentos das faturas, em razão de dificuldades financeiras. Enfatizou que as cobranças foram feitas conforme os serviços prestados, caracterizando exercício regular de um direito. Aduziu a inaplicabilidade do Código de Defesa do Consumidor ao caso e impugnou os documentos juntados com a inicial, aguardando a improcedência da ação e a condenação da autora nas penas por litigância de má-fé, sem prejuízo da inversão do ônus da sucumbência.
+Houve réplica (fls. 427/435).
+Em seguida, as partes especificaram as provas que pretendiam produzir (fls. 478/479 e fl. 485). Saneado o feito (fls. 489/493), foram fixados os pontos controvertidos e deferidas as provas documental e pericial, cujo laudo foi juntado a fls. 540/585, com posterior ciência e manifestações das partes.
+Encerrada a instrução (fl. 798), a ré interpôs agravo retido, alegando cerceamento de defesa (fls. 825/829).
+Sem prejuízo, ambas as partes apresentaram seus memoriais, sustentando as teses inicialmente esposadas.
+É o relatório.
+DECIDO. 
+Admito o agravo retido interposto pela requerida a fls. 825/829, contudo mantenho a decisão guerreada. Consoante despacho saneador, irrecorrido, foi deixada para momento oportuno a análise da conveniência da produção da prova oral. Considerando os elementos presentes nos autos, a instrução foi encerrada, ante a desnecessidade da produção da referida prova, mormente pelo resultado do trabalho técnico realizado e pela farta documentação acostada, como adiante se demonstrará. 
+Ademais, "sendo o juiz o destinatário da prova, somente a ele cumpre aferir sobre a necessidade ou não de sua realização." (TRF - 5ª Turma, Ag. 51.774-MG, rel. Min. Geraldo Sobral). 
+Neste mesmo sentido:
+"Constantes dos autos elementos de prova documental suficientes para formar o convencimento do julgador, inocorre cerceamento de defesa se julgada antecipadamente a controvérsia" (STJ-4ª Turma, Ag. 14.952-DF-AgRg, rel. Min. Sálvio de Figueiredo, j. 4.12.91, negaram provimento, v.u., DJU 3.2.92).
+Assim, passo ao exame do mérito.
+O objeto do contrato consiste na instalação e implantação de um sistema informatizado na escola-autora composto de dez módulos. Para a conclusão dos trabalhos foi previsto o prazo de oito meses, sendo necessária a disposição, pela requerente, de equipamentos e sistemas operacionais compatíveis com o produto contratado. Reside a controvérsia em apurar se os serviços foram concluídos no prazo contratado e, se não o foram, quais os motivos do descumprimento, consoante o decidido a fls. 489/493.
+Para dirimir a questão, foi produzida prova pericial, a única, aliás, capaz de apurar os fatos alegados pela autora e negados pela ré.
+Segundo o perito que realizou o trabalho técnico, a requerida deixou de cumprir o prazo inicialmente estipulado, tanto para a instalação como para a implantação dos sistemas contratados pela demandante. Além disso, dos dez módulos contratados, apenas nove foram instalados, sendo certo que apenas quatro já estavam implantados e vinham sendo utilizados. Apurou-se, ainda, que não havia sequer indícios de que os demais sistemas pudessem ser implantados, não constatando o perito que a autora tenha impedido ou dificultado a consecução dos serviços pela ré. 
+Entretanto, concluiu o perito que, apesar do esforço, não houve o gerenciamento necessário por parte da requerida, que deveria ter realizado uma prévia análise dos recursos a serem disponibilizados pela demandante, visando avaliar os custos reais da implantação, antes da formalização do contrato. Em decorrência das falhas de planejamento na execução do projeto, as alterações realizadas elevaram os custos, que poderiam ter sido minimizados, evitando, assim, a perda de confiança e o consequente encerramento do contrato. Considerou, ainda, que a não utilização de uma metodologia adequada por parte da requerida acarretaria um constante atraso na implantação dos sistemas, mesmo com a concessão de prazo suplementar. 
+Por fim, estimou um percentual de implantação no montante de 50% (cinquenta por cento) do sistema em litígio na autora, sendo que a referida implantação se deu entre outubro de 2002 e abril de 2004. (fl. 578).
+Conforme o prazo estabelecido no contrato, todos os módulos deveriam ter sido concluídos até junho de 2003, uma vez que a ré deu início aos trabalhos em outubro de 2002. No entanto, o laudo pericial esclareceu que em abril de 2004, nem todos os sistemas haviam sido implantados. Considerando que a perícia não encontrou qualquer irregularidade causada pela autora para justificar o atraso na execução dos trabalhos, pelo contrário, constatou que o atraso é decorrente da falta de planejamento e gerenciamento da demandada, emerge cristalino o descumprimento desta nas obrigações pactuadas. Esta quebra, com certeza, prejudicou o trabalho da autora, trazendo transtornos e perdas, que são suficientes para justificar a rescisão contratual. 
+Logo, o trabalho técnico atingiu a finalidade para o qual foi elaborado, posto que enfrentou todos os pontos controvertidos delimitados no despacho saneador de fls. 489/493 (irrecorrido). Resta apurar, portanto, quais as consequências advindas da rescisão contratual para cada uma das partes.
+A autora pretende a inexigibilidade das faturas emitidas, além da restituição de todos os valores pagos à requerida. 
+Excluindo-se as mensalidades (R$ 1.500,00), os demais valores estipulados no contrato (fls. 34/35), que se referem à licença, treinamento e implantação dos sistemas, atingem o montante de R$ 196.135,00. Os documentos de fls. 63/190 demonstram que houve regular pagamento das notas fiscais e de débito emitidas em nome da demandante, que somados, resultam na quantia de R$ 159.403,80, sem correção monetária. Além disso, há depósito nos autos do montante correspondente às faturas enviadas a protesto, no valor de R$ 38.214,59. A somatória do valor paro resulta no valor histórico de R$ 197.618,39.
+Em que pese a inobservância dos prazos de início e conclusão dos serviços, é certo que houve a implantação de parte dos módulos contratados, que foram efetivamente utilizados pela autora. Assim, não se justifica a restituição de todo o montante pago, sob pena de caracterizar evidente desequilíbrio entre as partes. 
+Entendo razoável a restituição, pela requerida, do percentual de 50% (cinquenta por cento) do montante pago pela requerente, a ser feita em uma única oportunidade. Sobre aludido valor deverá incidir correção monetária a partir do ajuizamento da ação. Os juros serão computados a partir da citação. 
+No que tange aos protestos efetivados por ordem da requerida, a sustação deverá se dar de forma definitiva, consagrando a decisão já antecipada a fl. 463, que concedeu a liminar. 
+Por fim, não está configurada a má-fé da demandante. Pelo contrário. A condenação por litigância de má fé pressupõe a ocorrência de alguma das hipóteses previstas no artigo 17 do CPC e configuradoras do dano processual, o que no caso dos autos não ocorreu. Ao contrário do que entende a ré, não houve impedimento para que ela pudesse realizar os serviços para os quais foi contratada; se assim o fosse, não se justificaria o alto investimento feito pela autora, relembrando que a maioria das faturas foi quitada em seus respectivos vencimentos e a quantia despendida ultrapassa o valor nominal do contrato. 
+Diante do exposto e do mais que dos autos consta, JULGO PROCEDENTE EM PARTE a ação ajuizada por UNIFEC ? UNIÃO PARA FORMAÇÃO, EDUCAÇÃO E CULTURA DO ABC em face de TOTVS S/A, para declarar rescindido o contrato entabulado entre as partes e seus anexos, bem como para tornar inexigíveis os valores descritos na certidão de fls. 192/195. 
+Condeno a ré na restituição à autora do montante equivalente a 50% (cinquenta por cento) dos valores comprovadamente pagos, incluindo-se a quantia depositada nos autos para cômputo do quantum devido, cujo levantamento poderá ser efetuado pela autora. Este valor deverá ser corrigido desde o ajuizamento da ação e acrescido de juros legais (12% ao ano) a partir da citação. 
+Na mesma oportunidade, confirmo a liminar concedida e determino à ré a baixa definitiva nos protestos lavrados em nome da autora junto ao Tabelião de Protesto de Letras e Títulos de Santo André, arcando com eventuais taxas administrativas pendentes para este fim.
+Tendo a autora sucumbido apenas no pedido condenatório e de forma parcial, arcará a ré com a totalidade das custas e despesas processuais, corrigidas desde o desembolso, além de honorários advocatícios que ora fixo em 10% (dez por cento) do valor atualizado da condenação. 
+Desde logo, fica a parte condenada ao pagamento de quantia certa intimada a cumprir a sentença e satisfazer a obrigação de pagamento, no prazo de 15 dias, contado da data em que o título judicial (sentença e acórdão) se tornar exigível, sob pena de acréscimo de multa de 10%, nos termos do artigo 475-J do Código de Processo Civil.
+Após o trânsito em julgado, aguarde-se por 30 dias. Nada sendo requerido, arquivem-se os autos, com as cautelas de praxe.
+Para cálculo do preparo de apelação, considerar-se-á o valor histórico atribuído à causa (R$ 200.586,87).
+P.R.I.
+
+São Paulo, 16 de agosto de 2010.

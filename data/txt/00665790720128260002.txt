@@ -1,0 +1,105 @@
+
+
+SENTENÇA
+
+Processo nº:0066579-07.2012.8.26.0002
+Classe - AssuntoEmbargos À Execução - Efeito Suspensivo / Impugnação / Embargos à Execução
+Embargante:Lirassilva Braile Pedroso
+Embargado:Banco Citibank S/A
+
+
+Justiça Gratuita
+
+Juiz(a) de Direito: Dr(a). Alexandre Batista Alves
+
+
+Vistos.
+
+
+
+LIRASSILVA BRAILE PEDROSO apresentou embargos à execução que lhe move o BANCO CITIBANK S/A. Requer a denunciação à lide de Ademir Zardo Pedroso, com quem é casada no regime da comunhão parcial de bens. Sustentou, no mérito, que: a) há cobrança abusiva de juros, acarretando lesão enorme, bem como a prática indevida de capitalização; b) os juros devem ser limitados ao percentual de 1% ao ano; d) é indevida a cobrança cumulada de comissão de permanência com juros moratórios e correção; e) a multa moratória não pode exceder 2%.
+
+A inicial veio instruída com documentos (fls. 48/72).
+
+Intimado, o embargado não apresentou impugnação.
+
+É o relatório.
+Fundamento e Decido.
+
+A matéria debatida nos autos é somente de direito e de fato comprovável por meio de prova documental, prescindindo-se da realização de outras provas, razão pela qual é de rigor o julgamento antecipado da lide.
+
+A falta de impugnação aos embargos não acarreta revelia, mormente porque as questões suscitadas são eminentemente de direito.
+
+Rejeito o pedido de denunciação da lide, visto que, além de incabível em processo de execução, não estão presentes as hipóteses previstas no art. 70 do Código de Processo Civil.
+
+No mérito, os embargos procedem em parte.
+
+Ressalte-se que as instituições bancárias incluem-se no conceito de fornecedor, para fim de aplicação do Código de Defesa do Consumidor nas relações entre estas e os usuários de serviços, matéria pacificada na jurisprudência (Súmula 297 do STJ).
+
+Dito isso, o art. 5º da MP 1.963-17, de 30/03/2000, substituída pela MP n. 2.170/36, admite a prática de capitalização de juros em periodicidade inferior a um ano nos contratos celebrados por instituições financeiras integrantes do Sistema Financeiro Nacional.
+
+Em relação às instituições financeiras, as taxas de juros e outros encargos não se sujeitam às restrições do Decreto 22.626/33 (Lei de Usura), mas à Lei 4595/64, ou seja, às deliberações do Conselho Monetário Nacional e às limitações e disciplinas ditadas pelo Banco Central. Nesse sentido é a Súmula 596 do STF.
+
+Como não há norma no Conselho Monetário Nacional limitando os juros em operações de crédito nos moldes daquela realizada entre as partes, conclui-se que legislação especial afasta a incidência do art. 4°, ?a?, da Lei 1.521/51, que se refere à taxa máxima prevista em lei.
+
+E não havendo demonstração de que a taxa de juros excede em muito a taxa média para as operações similares, o que caracteriza ofensa ao art. 4°, ?b?, da citada lei, é válida a taxa de juros cobrada pelo embargado, motivo pelo qual é descabido falar em spread abusivo.
+
+Vale acentuar que a embargante, quando da contratação, tinha a exata noção dos juros e encargos praticados, de maneira que poderia procurar outra instituição bancária para contratar se considerasse as taxas elevadas.
+
+É oportuno reproduzir os seguintes trechos do AgRg no Recurso Especial n. 688.627- RS (2004/012651-3), relatado pelo Min. Aldir Passarinho Júnior:
+
+?Por outro lado, ainda que aplicável às instituições bancárias a Lei n. 8.078/1990, a Segunda Seção desta Corte, em 12.03.2003, no julgamento do Resp n. 407.097/RS, relator para acórdão Ministro Ari Pargendler, sedimentou o entendimento de que o pacto referente à taxa de juros só pode ser alterado se reconhecida sua abusividade em cada hipótese, desinfluente para tal fim a estabilidade inflacinonária no período, imprestável o patamar de 12% ao ano já que sequer a taxa média de mercado, que não é potestativa, se considera excessiva, para efeitos de validade da avença?.
+
+Quanto ao limite de juros ao percentual de 12% ao ano, o Supremo Tribunal Federal, ao julgar a ADIn n. 4-DF, decidiu que a norma inscrita no § 3º do art. 192 da Constituição Federal não é de eficácia plena, dependendo, portanto, de regulamentação. 
+
+Por qualificar-se como estrutura normativa aberta e incompleta, não se reveste de auto-aplicabilidade, daí a necessidade da edição de lei complementar exigida pelo texto constitucional.
+
+Essa orientação veio cristalizada na Súmula 648 do STF, devendo ser acentuado que a emenda constitucional n. 40 revogou o parágrafo 3º do artigo 192 da Constituição Federal, tornando a discussão inócua.
+
+Quanto à comissão de permanência, cuja cobrança é instituída cumulativamente com juros de mora de 1% ao mês e multa de 2% (cláusula 8.1), cabem algumas ponderações.
+
+A Resolução n. 1.129/86 do BACEN faculta aos bancos e outras instituições a cobrança de seus devedores por dia de atraso no pagamento ou na liquidação de seus débitos, além de juros de mora na legislação em vigor, comissão de permanência, a ser calculada às mesmas taxas pactuadas no contrato original ou à taxa de mercado do dia do pagamento.
+
+Consta ainda da referida Resolução que, além desses encargos, nenhuma outra quantia compensatória pelo atraso poderia ser cobrada.
+
+Contudo, o Superior Tribunal de Justiça, em vários julgados, distinguindo a natureza jurídica desses institutos, tem assentado a impossibilidade, após o inadimplemento, da cobrança de comissão de permanência com correção monetária (Súmula 30) e outros encargos (juros moratórios ou remuneratórios e multa).
+
+A propósito, confira-se:
+
+?Agravo regimental. Recurso Especial. Ação de cobrança. Contrato de abertura de crédito em conta-corrente. Cumulação da comissão de permanência com juros moratórios e multa contratual. Precedentes da Corte.
+1. Confirma-se a jurisprudência da Corte que veda a cobrança de comissão de permanência com os juros moratórios e com a multa contratual, ademais de vedada a sua cumulação com a correção monetária e com os juros remuneratórios, a teor das Súmulas n° 30, n° 294 e n° 296 da Corte.
+2. Agravo regimental desprovido? (AgRg no Recurso Especial N° 712.801-RS (2004/0183802-4), rel. Ministro Carlos Aberto Menezes Direito).
+
+No mesmo sentido:
+
+?Contratos bancários. Comissão de permanência. Cumulação com os juros de mora e multa contratual. Vedação. Procedentes.
+I-  A recente orientação da Segunda Seção, contudo, é no sentido de não permitir a cumulação da comissão de permanência com correção monetária, juros remuneratórios ou de mora, multa com qualquer outro encargo moratório.
+II- Recurso especial parcialmente provido? (Resp 660684/RS; Recurso Especial 2004/0071117-0, Ministro Antônio de Pádua Ribeiro, 3a Turma, j. 24.05.2005, DJ 20.06.2005 p. 282).
+
+Ao estipular a taxa de comissão de permanência, o BACEN estima e prefixa os prejuízos decorrentes do inadimplemento dos débitos e insere na taxa as perdas e danos resultantes do não pagamento das dívidas no seu vencimento. Em outras palavras, a comissão de permanência, por si só, compensa o banco pelos prejuízos advindos da inadimplência, já que tem em sua taxa embutidos índices que permitem ao mesmo tempo a remuneração do capital mutuado e atualização do valor de compra da moeda.
+
+Nesse contexto, tem-se entendido que a cobrança cumulada da comissão de permanência com outros encargos configura bis in idem, pois estar-se-ia pagando por encargos contratuais que possuem a mesma natureza jurídica e desempenham a mesma função no contrato.
+
+Vale a pena reproduzir os fundamentos extraídos do Agravo Regimental no Resp n° 451.233/RS, Terceira Turma, da relatoria da Ministra Nancy Andrighi, DJ 29.09.03, com o seguinte teor:
+
+?Porquanto o cálculo da taxa de comissão de permanência se faz em consideração ao índice de inadimplência existente no mercado, com prefixação das perdas e danos sofridos pelas instituições financeiras em razão do inadimplemento das obrigações assumidas por seus devedores, com soa ocorrer com multa contratual, conclui-se que esses encargos desempenham a mesma função.
+Por essa razão não se justifica a cobrança cumulada da comissão de permanência com a multa contratual, sob ocorrência de dupla incidência de um mesmo encargo, como ocorre com os juros remuneratórios, a correção monetária e os juros moratórios?.
+
+A doutrina não destoa desse entendimento: ?Sendo a cláusula penal uma prefixação aos prejuízos do credor, tornou-se inaplicável pelas instituições financeiras, no momento em que ser permitiu, justamente cobrir os seus prejuízos a cobrança da comissão de permanência; o mesmo devendo ser dito dos juros de mora, pois aquela cobre a correção monetária e os juros de mercado? (Waldírio Bulgarelli, ?A mora e Resolução 1129 do Banco Central, in RDM 67/79).
+
+Assim sendo, a despeito de não ser potestativa a cláusula que prevê a comissão de permanência, calculada pela taxa média de mercado apurada pelo Banco Central do Brasil, limitada à taxa do contrato (Súmula 294 do STJ), não pode ser cumulada com correção monetária, nem com juros de mora ou remuneratórios e multa.
+
+Deve, assim, ser declarada ilegal a cobrança cumulada, admitindo-se apenas, no caso de mora, a incidência de comissão de permanência.
+
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTES os embargos para reconhecer a impossibilidade de cobrança de comissão de permanência cumulativamente com juros de mora e outros encargos, cabendo ao embargado apresentar novo demonstrativo de débito.
+
+Tendo em vista a sucumbência recíproca, as custas serão rateadas igualmente entre as partes e cada qual arcará com a verba honorária de seu patrono, já operada a compensação e observando-se que a embargante é beneficiária da justiça gratuita.
+
+P.R.I.
+
+São Paulo, 15 de março de 2013.
+
+CERTIDÃO PUBLICAÇÃO
+Certifico e dou fé que a r. sentença foi enviada ao DJE. Disponibilização em 20/03/2013 (publ. 24). Considera-se a data da publicação o primeiro dia útil subseqüente à data da disponibilização no DJE. Eu _______, Escrevente subsc. 
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

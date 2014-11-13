@@ -1,0 +1,72 @@
+
+
+SENTENÇA
+
+Processo nº:0019106-22.2012.8.26.0003
+Classe - AssuntoProcedimento Ordinário - Protesto Indevido de Título
+Requerente:Luiz Carlos da Silva
+Requerido:HSBC  Bank Brasil S/A Banco Múltiplo
+
+
+
+
+Juiz(a) de Direito: Dr(a). Fábio Fresca
+
+
+Vistos.
+
+
+LUIZ CARLOS DA SILVA ajuizou a presente ação declaratória de inexistência de débito combinada com anulação de protesto e danos morais em face de HSBC BANK BRASIL S/A ? BANCO MÚLTIPLO. Alega que possuía uma conta empresa com o requerido, mas está inativa, portanto, encerrada. Postula, em apertada síntese, liminarmente, sustação de protesto e exclusão do seu nome nos órgãos de proteção ao crédito, e, preliminarmente, inversão do ônus da prova, e, no mérito, declaração de inexistência de débito, nulidade de cobrança do título e respectivo protesto e danos morais.
+
+Com a inicial vieram documentos, fls. 18/46.
+
+Às fls. 47 foi deferida a liminar almejada.
+
+O requerido devidamente citado, apresentou contestação (fls. 58/66) e documentos (fls. 67/122), alegando, em síntese, em preliminar, que é indevida a liminar e a inversão do ônus da prova, no mérito, culpa exclusiva do requerente, ausência de danos morais, e, por fim a improcedência da demanda.
+
+Houve réplica (fls. 126/8).
+
+EIS O RELATÓRIO. 
+
+DECIDO.  
+
+Conheço diretamente da demanda, nos termos do artigo 330, inciso I, eis que apenas questões de direito, as de fato já solucionáveis através dos documentos juntados aos autos, desnecessária a dilação probatória.
+
+Inicialmente, cumpre esclarecer que o Código de Defesa do Consumidor é aplicável nos imbróglios que envolvam instituições financeiras, nos termos da súmula 297 do Superior Tribunal de Justiça, que aduz:
+
+Sum. 297.    O Código de Defesa do Consumidor é aplicável às instituições financeiras.
+Superada tal questão imperioso aplicar, no caso em tela, a inversão do ônus da prova, pois, presentes os seus requisitos e um dos baluartes do Código de Defesa do Consumidor, insculpido em seus art. 6.º, inc. VIII,  que prevê ?a facilitação da defesa de seus direitos, inclusive com a inversão do ônus da prova, a seu favor, no processo civil, quando, a critério do juiz, for verossímil a alegação ou quando for ele hipossuficiente, segundo as regras ordinárias de experiências;?
+ Ao requerido cabia o ônus de comprovar que a culpa se deve exclusivamente ao requerente, ônus que não se desincumbiu, pelo contrário, trouxe aos autos o contrato da aludida conta (fls. 86/91), e seus extratos (92/121), que comprovam que se trata realmente de conta/empresa.
+
+Às fls. 86 há expressamente um campo, preenchido, do CNPJ da empresa responsável pelo crédito do salário e às fls. 87 outro campo que autoriza a transferência de eventual saldo de sua conta ?aberta por sua entidade pagadora, para a sua conta corrente?. 
+
+Logo, resta-se incontroverso que a conta se trata de conta/empresa.
+
+Com efeito, descortina-se dos autos que o requerido não seguiu as instruções da FEBRABAN, que preveem expressamente a obrigação da instituição de notificar o cliente, quando da constatação da paralisação da conta por um prazo superior a 90 dias, com as advertências de praxe e suspensão da cobrança de tarifas e taxas, vejamos:
+
+3. Tratamento de contas sem saldo ou com saldo devedor e sem movimentação espontânea por mais de 6 meses: 
+(...)
+3.2. Constatada a situação de paralisação da conta, pela falta de movimentação espontânea do cliente, por 90 dias, deverá ser emitida uma comunicação sobre esse fato, contendo também um alerta sobre a incidência de tarifa de manutenção, mesmo que a conta continue sem movimentação e saldo e informação de que a conta poderá ser encerrada, quando completados os 6 meses de inatividade, sem prejuízo do envio de extrato mensal, na hipótese de haver lançamentos no período. 
+(...)
+3.2.2. Concomitantemente à emissão da comunicação sobre a paralisação da conta, o banco deverá suspender o débito de tarifa de manutenção de conta caso o lançamento gere saldo devedor na conta. O objetivo é evitar que o débito possa gerar uma dívida crescente, decorrente tão somente de tarifas e encargos, e que o nome do cliente seja incluído em cadastros negativos.
+http://www.febraban.org.br/7Rof7SWg6qmyvwJcFwF7I0aSDf9jyV/sitefebraban/encerr_contas.pdf. Acesso em 24/09/2012).
+
+Portanto, cabia ao Banco comprovar que seguiu todas as instruções normativas emitidas pela FEBRABAN, como a notificação e suspensão da cobrança das tarifas, o que não fez; quiçá com o intuito de gerar um ?crédito? maior; destarte, inexigível o aludido débito.
+
+Quanto aos danos morais, verifico que estão presentes, pois a conduta do requerido foi ilícita, vez que indevida a anotação do nome do requerente nos órgãos de proteção ao crédito (fls. 38/41), o que se deve pela sua própria conduta (requerido) de não cumprir as instruções normativas.
+
+Em se tratando de danos morais, a responsabilidade do agente causador opera-se por força do simples fato da violação (?damnum in re ipsa?). Uma vez verificado o evento danoso, surge a necessidade de reparação, não havendo que se cogitar da prova do prejuízo. Neste sentido, a jurisprudência de nossa E. Corte Paulista:
+
+Indenização. Danos morais e materiais. Negativação. Falso. Responsabilidade objetiva. Risco da atividade econômica. Damnum in re ipsa. Verba proporcional e razoável. Sentença mantida. Recurso improvido. (TJSP. APL 792706420098260000. Rel. Sérgio Rui. 24ª Câmara de Direito Privado. Pub. 03/03/2012).
+
+Na fixação do quantum debeatur, devido a título de indenização, deve-se levar em conta as condições econômicas das partes, o dano e a sua extensão, para que não gere enriquecimento ilícito de uma parte e nem a geração de uma pena civil. Sem, contudo, olvidar os princípios da razoabilidade e proporcionalidade. Esse é o entendimento do Superior Tribunal de Justiça:
+
+"O valor da indenização por dano moral sujeita-se ao controle do Superior Tribunal de Justiça, sendo certo que, na fixação da indenização a esse título, recomendável que o arbitramento seja feito com moderação, proporcionalmente ao grau de culpa, ao nível socioeconômico do autor e, ainda, ao porte econômico dos réus, orientando-se o juiz pelos critérios sugeridos pela doutrina e pela jurisprudência, com razoabilidade, valendo-se de sua experiência e do bom senso, atento à realidade da vida e às peculiaridades de cada caso". (STJ, 4a T., REsp 145.358/MG, Rei. Min. SÁLVIO DE FIGUEIREDO TEIXEIRA, j . 29/10/1998, DJ 01/03/1999, p. 325).
+
+Considerando o tempo da restrição indevida, fixo a indenização em R$6.000,00 (Seis mil reais), o que é suficiente para assumir um caráter pedagógico (e não punitivo) ao requerido, a fim de que evite novos fatos danosos como este, sem, contudo, significar enriquecimento ilícito em favor do requerente.
+
+Diante do exposto, JULGO PROCEDENTE, com resolução de mérito, a presente ação, com fundamento no art. 269, inciso I do Código de Processo Civil, para DECLARAR a inexistência do débito protestado (fls.37/41), e indevida a cobrança do título protestado, consolidando a liminar deferida (fls.47), por consequência o imediato encerramento da conta, e, CONDENAR o requerido ao pagamento a título de danos morais que arbitro em R$ 6.000,00, atualização monetária a partir do arbitramento (súmula 362- STJ), devidamente atualizados pelos índices de atualização dos débitos judiciais, e juros de 1% a partir da citação,. Por força da sucumbência, condeno o requerido, ao pagamento das custas, despesas processuais e honorários advocatícios, que arbitro em 10% do valor da condenação (art. 20, par. 3.º do Código de Processo Civil).
+
+P.R.I.
+
+São Paulo, 24 de setembro de 2012.

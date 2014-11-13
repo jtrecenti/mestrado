@@ -1,0 +1,41 @@
+
+
+CONCLUSÃO
+Aos  09/08/2013, promovo a conclusão destes autos ao Dr(a). Antonio Carlos de Figueiredo Negreiros, MM(ª). Juiz(a) de Direito da 7ª Vara Cível Central. Eu, _________, Escrevente, subscrevi.  
+
+SENTENÇA
+
+Processo nº:0076920-89.2012.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Perdas e Danos
+Requerente:Primostransp Transporte Ltda - Me
+Requerido:Zatix Tecnologia S/A
+
+Juiz(a) de Direito: Dr(a). Antonio Carlos de Figueiredo Negreiros
+
+VISTOS,
+PRIMOSTRANSP TRANSPORTE LTDA ? ME ajuizou a ação de INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS contra ZATIX TECONOLOGIA S.A. Alega, em síntese, que atua no ramo de transportes rodoviários de cargas intermunicipais e interestaduais e que para tanto possuía um veículo Caminhão Basculante, marca VW/26.310, ano/modelo 2002, placas DAJ304; que celebrou junto com a ré um contrato de prestação de serviços para rastreamento do veículo por satélite; que a mesma prometia segurança total do veículo por meio do rastreamento; que foi firmado um contrato de comodato do equipamento instalado no referido caminhão e efetuava o pagamento dos serviços mensalmente; que em 26/01/2011 por volta das 17:00 horas o motorista do veículo em questão foi abordado por quatro indivíduos armados que roubaram o caminhão; que o motorista acionou o botão para o veiculo ser rastreado; que a ré não respondeu ao acionamento, não bloqueou o veículo, o que acabou por facilitar a fuga dos meliantes e o roubo. Juntou os documentos de fls. 08/48.
+A ré citada apresentou a contestação de fls. 53/77. Em preliminar alega ilegitimidade ativa. No mérito, alega, que inaplicável o Código de Defesa do Consumidor; que o contrato firmado não prevê qualquer dispositivo que impeça o roubo/furto do veículo, nem a recuperação do veiculo ou indenização integral em caso de sinistro. Requereu a improcedência do pedido. Juntou os documentos de fls. 78/132. 
+O autor manifestou-se em réplica às fls. 139/144.
+Tentada a conciliação a mesma restou frustrada às fls. 153.
+É o relatório.
+DECIDO.
+O julgamento antecipado se impõe porque as questões controvertidas são exclusivamente de direito.
+Afasto a preliminar de ilegitimidade ativa, posto que a autora era a proprietária do veículo (fls. 18) no qual foi instalado o equipamento para  monitoramento contratado, caracterizando-se assim como a efetiva destinatária (usuária) do serviço contratado em nome de seu sócio-administrador.
+As partes celebraram um contrato de prestação de serviços para rastreamento 24 horas do veiculo de propriedade do autor e que em 26/01/2011 ocorreu o sinistro do veículo.
+O contrato celebrado entre as partes foi exclusivamente de monitoramento do veículo, sem qualquer garantia (seguro) do bem.
+Assim, a autora ao contratar o serviço de monitoramento tinha ciência de que este não há eximia da contratação de um seguro, casa pretendesse se colocar a cobro do risco de furto/roubo do veículo.
+O serviço contratado permite o rastreamento do veículo, o que representa um recurso para facilitar a recuperação do veículo subtraído. 
+A obrigação da ré, todavia é de disponibilizar o recurso de localização (contrato meio) e não de resultado ou mesmo de garantia, tanto que o  contrato é textual quanto à isenção de responsabilidade em caso de furto de roubo do veículo por conta de ações externas, conforme descrito na cláusula nona e seguintes do contrato de prestação de serviços (fls. 109).
+Nesse sentido o entendimento do STJ, sendo oportuno aqui destacar trecho da decisão proferida no Agravo de Instrumento nº 1232162, Relator Min. Sidnei Beneti:
+?Restou como incontroversa a existência de negócio jurídico entre as partes, com vistas à instalação de aparelhagem de monitoramento de veículos através de sistema via satélite. Alegou a apelante que o rastreador foi instalado em caminhão de sua propriedade, inicialmente para testes, sendo que depois de negociada a forma de pagamento, passou-se à forma definitiva. E conforme se depreende das alegações e documentos aportados pela apelante, o dispositivo foi instalado para testes em data anterior ao roubo. E se assim o foi é porque teve conhecimento das cláusulas e condições contratuais que vigorariam, caso contrário não teria aceitado a instalação. Quanto a divergência de datas do roubo e do contrato de fls. 56/57, esta se torna irrelevante na medida em que as partes já mantinham relação antes do ilícito, e repito a apelante tinha conhecimento das cláusulas contratuais e deveria saber quais as hipóteses de exclusão da responsabilidade da apelada. Por elas, a apelada evidencia que não poderá responder integralmente pela eficiência de seu serviço, isto porque sua prestação, de acordo com sua própria natureza, depende de fatores externos (disponibilidade de sinais de comunicação), topografia, estrutura dos edifícios, condições atmosféricas, pane no sistema público de telecomunicações, paralisação dos serviços públicos e tempestades. Quando do conhecimento do contrato, tais cláusulas já estavam ali estipuladas e foram aceitas, sem restrições, pela apelante. Havendo diferença entre aquilo que estava sendo oferecido e o que rezava o instrumento do contrato, deveria ela ter discutido as cláusulas no momento em que tomou conhecimento das mesmas, e não aguardar a ocorrência de um evento prejudicial a ela para depois reclamar. E mais: ciente de que o serviço não estaria cem por cento garantido, assumiu o risco do prejuízo por não ter firmado contrato de seguro.?
+O documento juntado às fls. 113 pela ré prova que o veículo, na data do sinistro, era efetivamente monitorado pela empresa.
+A cláusula 9.2 do contrato especifica uma série de hipóteses que prejudicam a eficiência do serviço.
+Por outro lado, são frequentes os relatos em processos que tratam de roubo a veículos rastreados sobre a atuação dos meliantes nas denominadas nuvens de sinal de celular, o que impede que o acionamento do botão de pânico seja identificado na Central e, consequentemente, permite que a ação dos assaltantes não seja imediatamente identificada.
+De qualquer forma, a formal reclamação de subtração do veículo foi realizada somente às 19h25min, quando o equipamento instalado no veículo não mais funcionava (o equipamento parou de funcionar às 18h12min).
+Em suma, pelo que consta dos autos o serviço contratado pela autora foi regularmente prestado inclusive no dia do roubo perpetrado e não há evidência alguma nos autos de alguma falha da ré que tenha contribuído para a prática ilícita ou dificultado a localização do bem subtraído.
+Ante o exposto, JULGO IMPROCEDENTE o pedido.
+O autor arcará com o pagamento de custas, de despesas processuais e de honorários advocatícios, que fixo, com fundamento no aartigo 20, § 4º do CPC, em R$ 4.000,00, com as ressalvas dos artigos 11 e 12 da Lei n° 1.060/50 por ser a autora beneficiária da assistência judiciária.
+P.R.I.
+São Paulo,  28/11/2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

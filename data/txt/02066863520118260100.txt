@@ -1,0 +1,74 @@
+
+
+SENTENÇA
+
+Processo nº:0206686-35.2011.8.26.0100
+Classe - AssuntoProcedimento Sumário - Indenização por Dano Material
+Requerente:Anna Trotta Yaryd
+Requerido:Banco Santander (brasil) S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Wander Benassi Junior
+
+
+
+
+Vistos,
+
+ANNA TROTTA YARYD propôs ação indenizatória por danos materiais e morais em face de BANCO SANTANDER BRASIL S.A.. Alega que possui conta junto ao réu e que, mesmo desprovida de saldo suficiente ? embora positivo ?, foi objeto de ordem judicial de bloqueio online, oriunda de processo que corre perante a 5ª Vara Cível Central da Capital, no valor de R$ 14.150,52, detalhado a fls. 04, início. Assim, o réu retirou de sua conta o saldo possível, e ainda, de seu limite de crédito (cheque especial), a diferença necessária a fim de que atendesse integralmente à ordem judicial de bloqueio. Ocorre que não só o réu não apontou para o juízo que cumprira a ordem ? ao contrário, apontou que não encontrara valores a bloquear ?, como também praticou o ilícito acima descrito. E, mais ainda, mesmo depois de o juízo ter deferido o desbloqueio de contas da autora, por não entendê-la devedora daquele feito ? já que seu falecido pai, devedor principal, não havia deixado herança ?, não ultimou a providência, privando a autora do valor, e cobrando-lhe juros e demais encargos decorrentes do bloqueio indevido de saldo negativo. Pede-se a devolução dos valores relativos aos juros cobrados e descontados do aludido valor, e condenação da ré em danos morais, no mesmo montante. Juntou documentos (fls. 21/112).
+
+Citado, o réu contestou, sem preliminares (fls. 204/218). No mérito, alegou inexistência de má-fé e inexistência de danos materiais ou morais a indenizar. Subsidiariamente, bateu-se pelo quantum da indenização.
+
+Réplica (fls. 227/231).
+
+É o relatório. Fundamento e decido.
+
+Julgo antecipadamente o pedido, nos termos do art. 330, inciso I, do CPC, uma vez que as questões relevantes são de direito e de fato, estando estas últimas suficientemente comprovadas pelos documentos juntados, desnecessária a produção de prova em audiência.
+
+Da prova colhida, a ação é procedente.
+
+Inexistindo controvérsia quanto à existência do contrato de conta corrente mantido entre as partes, bem como aos bloqueios efetuados, a questão cinge-se à licitude, ou não, da conduta operada pelo réu ao cumprir a ordem eletrônica de bloqueio judicial.
+
+Nesse diapasão, em primeiro lugar, patente que o réu deu resposta negativa ao comando emanado do Juízo da 5ª Vara Cível Central, não tendo encontrado quaisquer valores nas contas da autora (v. fls. 90). Todavia, em segundo lugar, tal bloqueio foi efetivado, separando-se da conta corrente o montante de R$ 10.036,46, que consta nos extratos mensais como saldo bloqueado (v. fls. 19, extrato relativo a dezembro de 2009).
+
+Em terceiro lugar, em seguida, o réu passou a cobrar juros e encargos do cheque especial sobre tal quantia, mesmo tendo a autora mantido saldo positivo durante o período, e utilizado normalmente tanto a conta corrente como o cartão, inclusive em sua função de débito.
+
+Em quarto lugar, o réu, tardiamente, retificou informação prestada ao juízo do outro processo, informando que realmente realizara o bloqueio nas contas corrente e poupança da autora, da forma como descrito na inicial.
+
+Diante desse panorama, patente o defeito do serviço prestado pelo réu, por falta de informação e segurança necessárias que devia apresentar, nos termos do art. 14, § 2º, incisos I e II, do Código de Defesa do Consumidor, a parte autora, consumidora, não podendo ser vulnerada nem lesada por providência que diz respeito exclusivamente à ré. Vale dizer, tomar todas as cautelas necessárias para se certificar do cumprimento correto da providência eletrônica via Bacenjud.
+
+Responde o réu, assim, objetivamente pelos danos causados.
+
+A uma, a ordem judicial, pelo sistema Bacenjud, se presta à localização e bloqueio de saldo positivo encontrado em ativos dos devedores indicados, não sendo o Banco autorizado a retirar valores de qualquer limite de crédito para atender ao comando.
+
+A duas, se sustenta licitude de sua conduta por ter agido em cumprimento à ordem judicial e, depois, por ter sanado o erro de informação, era igualmente responsável por restituir os valores quando da ordem de desbloqueio, sua a responsabilidade de manter conexão direta com o sistema para tomar ciência da nova ordem eletrônica.
+
+Não o fazendo, deve restituir à autora todos os valores cobrados a título de encargos sobre o montante bloqueado, quaisquer que sejam.
+
+Ainda, o dano moral também restou configurado, decorrente dos próprios fatos.
+
+O bloqueio de montantes indevidos, porquanto não constituíam saldo positivo da autora, consiste em ilícito, no mínimo por ter o réu contraído dívida em nome da autora ? junto ao cheque especial ? sem autorização para tanto. Feridos, assim, direitos fundamentais de propriedade e de sigilo bancário. Ainda, a informação errada prestada ao juízo cível, discrepante da conduta efetivamente tomada ? que foi o bloqueio ? demonstram a absoluta incompetência do réu no serviço prestado, sem qualquer preocupação com a pessoa ou patrimônio da contraparte, em flagrante violação da cláusula geral de boa-fé objetiva.
+
+Diante extensão quantitativa e temporal do prejuízo, a gerar aflição e expectativa desnecessárias, necessária punição exemplar do réu, à luz da teoria do desestímulo.
+
+Considerado esse parâmetro, e também que a indenização não pode enriquecer indevidamente a vítima, nem, de outro lado, consistir em quantia insuficiente à compensação do dano sofrido, hei por bem fixar a quantia global sugerida, do equivalente ao dano material sofrido, e com os mesmos indicadores de juros e correção monetária.
+
+Assim, diante de todo o exposto, com resolução de mérito, nos termos do art. 269, inciso I, do Código de Processo Civil, JULGO PROCEDENTE o pedido inicial para CONDENAR o réu BANCO SANTANDER BRASIL S.A.. a pagar a ANNA TROTTA YARYD: 
+
+a) a titulo de danos materiais, todo o montante descontado a título de juros, e quaisquer outros encargos que incidiram sobre os valores bloqueados, corrigidos monetariamente e acrescidos de juros de mora nos mesmos moldes em que cobrados pelo réu, desde cada desconto indevido;
+
+b) a titulo de danos morais, a mesma quantia apurada no item anterior, bastando, em sede de cumprimento de sentença, dobrar o valor daquela condenação.
+
+A sucumbência do réu é total. Assim, arcará com a totalidade das custas e todas as demais despesas processuais, e verba honorária em favor dos advogados da autora, que arbitro em 15% (quinze por cento) do valor global das condenações ora deferidas, com fundamento no art. 20, § 3º do Código de Processo Civil.
+
+Anoto que embora a autora também fizesse jus aos rendimentos de caderneta de poupança que lhe foram tolhidos com os bloqueios indevidos realizados também naquelas contas, não houve pedido nesse sentido.
+
+Liquidação por cálculos aritméticos.
+
+P.R.I.C.
+São Paulo, 04 de fevereiro de 2013.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

@@ -1,0 +1,75 @@
+
+
+SENTENÇA
+
+Processo:0016735-32.2005.8.26.0003 - Procedimento Ordinário
+
+Requerente:Itaú Seguros S/A
+Requerido:Celg Companhia Energética de Goiás
+
+
+Processo nº 1384/05
+
+
+
+
+
+
+
+
+
+
+
+
+Vistos.
+
+
+ITAU SEGUROS S/A propôs a presente ação regressiva de ressarcimento contra CELG COMPANHIA ENERGÉTICA DE GOIÁS alegando que celebrou contrato de seguro tendo como objeto segurado o imóvel de uma empresa e os bens e equipamentos que se encontram em seu interior. Ocorrendo sinistro, o autor foi comunicado de tal fato e indenizou o segurado em R$ 30.000,00, sub-rogando-se em seus direitos. Alega que em 10/05/2004, por volta das 15h00, um caminhão que transportava uma colheitadeira de cana, ao passar em frente a empresa segurada, esbarrou no fio terra de rede de alta tensão que fica esticado por sobre a rodovia, vindo a rompê-lo, o que ocasionou um curto circuito na rede elétrica da empresa e danificou vários equipamentos. Pelo que se apurou o caminhão com a carga tinha 5,51m, dentro das normas da ABNT e DNIT. Contudo, o fio terra estava a 5,40m, fora dos padrões da ABNT que é de 5,90m. Assim, o autor ingressou com a presente ação visando a condenação da requerida ao pagamento do valor de R$ 30.000,00 com os acréscimos legais (fls. 02/06). Com a inicial vieram os documentos de fls. 07/84.
+
+Citada (fls. 98), a requerida apresentou contestação alegando que não há prova dos danos alegados pela autora. Alega que devem ser apresentados os aparelhos danificados com numero de serie de cada um. Argumenta que não foram apresentados os negativos das fotografias, impugnando as mesmas. Alega a inexistência de nexo de causalidade, pois o rompimento do fio neutro não poderia causar um curto circuito, sendo necessário, para tanto, ser encostado aos outros fios de fase. Alega que um curto circuito de tal magnitude teria danificado os medidores de consumo da empresa, o que não ocorreu. Sustenta que não houve culpa da requerida, pois a altura dos fios nesses casos deve ser 5000 milimetros sobre ruas e avenidas e o cabo encontrava-se a 6000 milimetros de altura. Alega que como o cabo sofreu impacto do caminhão ele não voltou mais ao seu estado original. Alega que o autor já recebeu o premio da segurada para assumir o risco do contrato de seguro e agora pretende receber indenização da requerida pelo mesmo fato, o que caracteriza enriquecimento ilícito. Alega que não há nenhum documento comprovando a sub-rogação dos direitos da segurada à autora (fls. 100/108). Com a contestação vieram os documentos de fls. 109.
+
+Réplica do autor (fls. 111/113). Juntou os documentos de fls. 114/115.
+
+A audiência de tentativa de conciliação restou prejudicada em face da ausência da requerida (fls. 128).
+
+Despacho saneador as fls. 132.
+
+Foi ouvida uma testemunha (fls. 160/161).
+
+Vieram aos autos os documentos de fls. 168/170.
+
+A instrução foi encerrada (fls. 199), vindo aos autos as alegações finais de fls. 204/205 e 213/217.
+
+É o relatório. Fundamento e decido.
+
+O boletim de ocorrência de fls. 33, o mapa de fls. 34, e os documentos de fls. 168/170 comprovam que o local do acidente foi a Rodovia GO-330, dentro do Município de Anápolis, no Estado de Goiás.
+
+O próprio documento apresentado pela requerida as fls. 109 comprova que os cabos aterrados sobre rodovias devem ter no mínimo 6000 milímetros de altura (fls. 109).
+
+Nos Boletins de Ocorrência de fls. 32/33 ficou evidente que o fio não respeitava a altura exigida.
+
+O motorista do caminhão envolvido no acidente foi ouvido e disse que estava conduzindo o caminhão com a prancha sobre o qual estava a colheitadeira e em certa altura da rodovia, próximo a um posto policial, a mesma enroscou num fio de alta tensão. Disse que a colheitadeira em cima da prancha mede de uns 4,80 até uns 5 metros. Disse que um representante da empresa esteve no local e disse que o fio tinha estourado e que havia causado danos na empresa. Afirmou que o policial rodoviário mediu a carga e concluiu que estava dentro das normas estabelecidas (fls. 160/161).
+
+Assim, não resta dúvida que o caminhão com sua carga estava dentro da altura determinada nas normas e que a fiação é que estava abaixo do exigido para uma rodovia, o que ocasionou o acidente.
+
+Por outro lado, o relatório de vistoria e o laudo de vistoria de fls. 19/26, a relação de bens sinistrados de fls. 28/29, a relação dos equipamentos danificados de fls. 31, o boletim de ocorrência de fls. 32/33, o laudo técnico da NEC do Brasil (fls. 41), o laudo técnico da MP informática (fls. 42/43), as notas fiscais de fls. 45/46 e 48/51, e principalmente, as fotografias juntadas as fls. 58/84 não deixam duvida dos danos causados aos equipamentos de informática e telecomunicação da empresa Beraca Sabara.
+
+O requerido, por sua vez, não produziu ou trouxe qualquer prova de que o rompimento do fio neutro não poderia causar tal estrago nos equipamentos da empresa ou de que o fato do medidor não ter sido danificado significaria que não teria existido o curto que danificou os aparelhos.
+
+Ademais, o recibo de fls. 16 comprova que a autora quitou o sinistro do seguro junto à empresa Beraca Sabara Quimicos e Ingredientes Ltda.
+
+Assim, não resta duvida da obrigação da requerida ressarcir a autora dos gastos que esta teve com o pagamento do sinistro à empresa segurada.
+
+Além disso, o fato da empresa segurada ter pago o prêmio não exclui o direito da seguradora obter do responsável pelo acidente o ressarcimento do valor pago a titulo de sinistro, haja vista que sua sub-rogação, como seguradora, decorre da própria lei.
+
+Posto isto, JULGO PROCEDENTE a presente ação, nos termos do artigo 269, inciso I, do CPC e o faço para CONDENAR a requerida a pagar à autora o valor de R$ 30.000,00 (trinta mil reais), sobre o qual haverá a incidência de correção monetária a partir da data do desembolso do valor pela autora e juros de mora legais a partir da citação.
+
+Em razão da sucumbência, a requerida arcará com o pagamento de custas, despesas processuais e honorários advocatícios, fixados estes últimos em 10% do valor da condenação.
+
+P.R.I.C.
+
+De Getulina para São Paulo, 18 de outubro de 2012.
+
+
+Adilson Russo de Moraes
+         Juiz de Direito

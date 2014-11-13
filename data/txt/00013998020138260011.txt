@@ -1,0 +1,79 @@
+
+
+SENTENÇA
+
+CONCLUSÃO
+
+Em 02 de abril de 2013 faço estes autos conclusos ao(à) Juiz(a) de Direito Dr(a) Eduardo Tobias de Aguiar Moeller.  Eu, escrev, subscrevi.
+
+Processo nº:0001399-80.2013.8.26.0011
+Requerente:Edilson Caetano dos Santos
+Requerido:Sul América Seguro Saúde S.A.
+
+Juiz(a) de Direito: Dr(a). Eduardo Tobias de Aguiar Moeller
+
+
+Vistos.
+
+Trata-se de ação de obrigação de fazer cumulada com pedido de indenização por danos morais.
+Alegou o autor Edilson Caetano dos Santos que é segurado da ré Sul América Saúde S/A e que lhe foi indicada cirurgia (artrodese por via póstero lateral).  A ré, porém, recusou-se a custear os materiais vinculados à cirurgia.  Pleiteou a autora obrigação de fazer e indenização por danos morais.
+A inicial de fls. 2/15 veio instruída com o relatório médico (fls. 19) e prova da negativa da ré (fls. 23/24).
+Deferiu-se a liminar (fls. 30/31).
+A ré contestou (fls. 55/68).  Alegou que a cláusula 4.23 excluiu cobertura contratual para procedimentos não previstos em Rol da ANS.  Sustentou a ré que a restrição contratual é válida na forma do art. 757 do Código Civil ao limitar os riscos da seguradora. Impugnou o pedido indenizatório.
+Réplica às fls. 88/108.
+
+É o Relatório.
+DECIDO.
+
+Julgo antecipadamente esta lide na forma do art. 330, I, do Código de Processo Civil, pois a matéria é exclusivamente de direito.
+O documento de fls. 18 prova o vínculo contratual entre as partes e o documento de fls. 19 (Relatório Médico de 24.1.2013 emitido por Marco Tulio Sette dos Santos CRM 68.376) prova a indicação de cirurgia urgente para o tratamento da dor lombar irradiada para os membros inferiores, sob pena de paralisia de movimentos e perda de sensibilidade de membro inferior.  Os documentos de fls. 23/24 comprovam os materiais de que o autor necessitou.
+Em que pese o teor da contestação da ré, entendo que a exclusão da cláusula 4.23 (contrato não comprovado nos autos; teor da cláusula mencionada pela ré no corpo da contestação, fls. 57) não possa prevalecer.  A cláusula suportamente exclui cobertura contratual para procedimentos e materiais não previstos em rol da ANS.  O contrato vigente entre as partes é de trato sucessivo, cujos efeitos e cumprimentos prorrogam-se no tempo.  Tal característica impõe, a meu ver, interpretação mais favorável ao consumidor, na forma do art. 47 do Código de Defesa do Consumidor (lei federal nº 8.078/90), de forma que eventuais procedimentos médico-hospitalares, mais recentes e não previstos no rol, devam ser paulatinamente incorporados ao contrato, com imperiosa cobertura pela empresa requerida.
+Há que se observar que o art. 5º, inc. XXXII, da Constituição Federal, impõe que a defesa do consumidor constitui direito fundamental do cidadão. Assim, devem as cláusulas contratuais ser interpretadas de forma favorável ao consumidor.
+Entendo que uma interpretação contrária à natural evolução da ciência, com a limitação das obrigações da ré a um rol taxativo ou tabela unilateral, implicaria na negação da própria finalidade do contrato que é assegurar a continuidade da vida e da saúde da parte autora.  Se o procedimento necessitado pelo autor é indispensável para a recuperação de sua saúde, impõe-se reconhecer que a ré deva custeá-lo a fim de que o contrato tenha sua finalidade garantida.
+Neste sentido veja-se recente julgado do Tribunal de Justiça de São Paulo:
+
+PLANO DE SAÚDE - Tutela antecipada ? Obrigação imposta à ré de custear sessão de radioterapia modulada (IMRT) - Exclusão de cobertura por não constar do rol de procedimentos da ANS doença coberta pelo plano - Abusividade reconhecida Não cabe à ré nem ao paciente a escolha dos procedimentos - Presença dos requisitos formais do art. 273 do CPC para a concessão da tutela antecipada - Decisão mantida Recurso não provido.
+(TJSP Tribunal de Justiça de São Paulo, Agravo de Instrumento nº 0027091-51.2012.8.26.0000, 5ª Câmara de Direito Privado, Relator Des. Moreira Viegas, j. em 6.6.2012, v.u.)
+
+PLANO DE SAÚDE AÇÃO DE OBRIGAÇÃO DE FAZER C.C. INDENIZAÇÃO POR DANOS MORAIS Parcial procedência ? Cobertura para exame 'PET/CT' - Alegação de que o contrato firmado entre as partes não cobre referido procedimento e que não está previsto no rol da ANS - Inadmissibilidade Cláusula que está em desacordo com o artigo 51, IV e § 1º, II, do CDC A prevalecer somente a cobertura prevista no rol da ANS, estar-se-ia ?congelando? procedimentos médicos, privando o consumidor dos avanços da medicina Necessidade da paciente incontroversa Cobertura devida - Danos morais - Inocorrência Negativa da ré fundada em interpretação de cláusula contratual Ausência de dolo ou culpa da requerida (que cumpriu a tutela antecipada deferida) afasta a pretensão indenizatória a esse título - Sentença mantida Recursos improvidos.
+(TJSP Tribunal de Justiça de São Paulo, Apelação nº 0186978-96.2011.8.26.0100, 8ª Câmara de Direito Privado, Relator Des. Salles Rossi, j. em 16.1.2013, v.u.)
+
+Por outro lado, em relação aos materiais, o documento de fls. 25 contém a justificativa médica para os materiais indicados para o autor e não foi objeto de qualquer impugnação pela empresa requerida.
+Tratando-se de materiais indispensáveis para o ato cirúrgico e para a continuidade da saúde e da vida do paciente, neste caso entendo que os materiais e implantes constituem obrigação básica da empresa operadora do plano de saúde, não sendo válida a restrição contratual.
+A jurisprudência do Superior Tribunal de Justiça já se manifestou diversas vezes reconhecendo a obrigatoriedade de as próteses indispensáveis à vida e à saúde serem custeadas pelas operadoras de planos de saúde.  Neste sentido:
+
+CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PLANO DE SAÚDE. PROCEDIMENTO CIRÚRGICO. PRÓTESE IMPORTADA. 
+1. Abusiva a cláusula restritiva de direito que exclui do plano de saúde o custeio de prótese em procedimento cirúrgico coberto pelo plano e necessária ao pleno restabelecimento da saúde do segurado, sendo indiferente, para tanto, se referido material é ou não importado. Precedentes.
+2. Agravo regimental desprovido. 
+(STJ Superior Tribunal de Justiça , AgRg no Ag 1139871 / SC 2008/0284137-6, Relator Ministro João Otávio de Noronha, 4ª Turma, j. em 27.4.2010, DJe DE 10.5.2010, v.u.)
+
+RECURSO ESPECIAL - PLANO DE SAÚDE - EXCLUSÃO DA COBERTURA O CUSTEIO OU O RESSARCIMENTO DE IMPLANTAÇÃO DE PRÓTESE IMPORTADA IMPRESCINDÍVEL PARA O ÊXITO DA INTERVENÇÃO CIRÚRGICA COBERTA PELO PLANO - INADMISSILIDADE - ABUSIVIDADE MANIFESTA DA CLÁUSULA RESTRITIVA DE DIREITOS -  RECURSO ESPECIAL PROVIDO. 
+I - Ainda que se admita a possibilidade do contrato de plano de saúde conter cláusulas que limitem direitos do consumidor, desde que estas estejam redigidas com destaque, permitindo sua imediata e fácil compreensão, nos termos do § 4º do artigo 54 do CDC, mostra-se abusiva a cláusula restritiva de direito que prevê o não custeio de prótese, imprescindível para o êxito do procedimento cirúrgico coberto pelo plano, sendo indiferente, para tanto, se referido material é ou não importado;
+II - Recurso provido. 
+(STJ Superior Tribunal de Justiça, REsp 1046355 / RJ 2008/0075471-3, Relator Ministro Massami Uyeda, 3ª Turma, j. em 15.5.2008, DJe de 5.8.2008, v.u.)
+
+PLANO DE SAÚDE. PROSTATECTOMIA RADICAL. INCONTINÊNCIA URINÁRIA. COLOCAÇÃO DE PRÓTESE: ESFÍNCTER URINÁRIO ARTIFICIAL.
+1. Se a prótese, no caso o esfíncter urinário artificial, decorre de ato cirúrgico coberto pelo plano, sendo conseqüência possível da cirurgia de extirpação radical da próstata, diante de diagnóstico de câncer localizado, não pode valer a cláusula que proíbe a cobertura. Como se sabe, a prostatectomia radical em diagnóstico de câncer localizado tem finalidade curativa e o tratamento da incontinência urinária, que dela pode decorrer, inclui-se no tratamento coberto, porque ligado ao ato cirúrgico principal.2. Recurso especial conhecido e desprovido.
+(RESP 519940 / SP 2003/0063287-0, Relator Ministro CARLOS ALBERTO MENEZES DIREITO, 3ª Turma, j. em 17.6.2003, in DJU de 1.9.2003, pág. 288, v.u.)
+
+O próprio TJSP, ao emitir a Súmula 93, que considerou o ?stent? material inerente à cirurgia e de cobertura obrigatória, endossa o entendimento jurisprudencial acima mencionado.
+O autor também formulou pedido de indenização por danos morais.   Neste aspecto entendo que sua pretensão deva ser rejeitada pois, a rigor, a discussão contratual dá ensejo a mero aborrecimento não indenizável.
+Neste sentido já se manifestou o Tribunal de Justiça:
+
+Assistência médica - Plano de saúde - Aumento das mensalidades em razão de mudança de faixa etária - Reajuste abusivo - Aplicação harmônica da Lei 9.656/98 e Estatuto do Idoso - Precedentes - Restituição dos valores pagos a maior, com correção monetária a partir do desembolso e juros legais desde a citação - Afastada a ocorrência de danos morais - Ônus da sucumbência que deverá ser suportado em sua totalidade pela empresa apelada - Recurso provido em parte.
+(TJSP Tribunal de Justiça de São Paulo, Apelação nº 0015336-95.2010.8.26.0292, 4ª Câmara de Direito Privado, Relator Des. Fábio Quadros, j. em 26.4.2012, v.u.)
+
+Conforme expressamente mencionado pelo Relator Des. Fábio Quadros no recurso de apelação supra mencionado (Apel. 0015336-95.2010.8.26.0292), não se justifica o pedido de indenização por danos morais em razão de divergência contratual: ?Por fim, não se vislumbra a ocorrência de dano moral a ensejar indenização, pois o desconforto com o descumprimento de cláusula contratual revela-se como mero aborrecimento que não dá suporte a pedido de danos morais como ensina Yussef Cahali in Dano Moral (RT, 3ª edição).
+Por estas razões, JULGO PARCIALMENTE ROCEDENTE esta ação que EDILSON CAETANO DOS SANTOS ajuizou contra SUL AMÉRICA SEGURO SAÚDE S/A e TORNO DEFINITIVA a liminar de fls. 30/31 e CONDENO a ré a custear, integralmente, todos os procedimentos cirúrgicos e materiais necessários para a cirurgia de artrodese indicada para o autor (fls. 19), especialmente os materiais indispensáveis à cirurgia (Cage Banana Tlif em Peek), sob pena de multa diária de R$ 1.000,00.
+Entretanto, JULGO IMPROCEDENTE o pedido de indenização por danos morais.
+Ante a sucumbência mínima do autor, CONDENO a ré ao pagamento das custas processuais e honorários advocatícios, os quais fixo em 10% (dez por cento) sobre o valor da causa.
+P.R.I.
+São Paulo, 02 de abril de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA
+
+D A T A
+
+Em _____________, recebi estes autos em cartório. Eu, ________, escrev.
+
+Rem. Dje:

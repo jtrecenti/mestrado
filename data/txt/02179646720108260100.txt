@@ -1,0 +1,58 @@
+
+
+SENTENÇA
+
+Processo nº:0217964-67.2010.8.26.0100
+Classe - AssuntoProcedimento Sumário - Assunto Principal do Processo >
+Requerente:Banyan Serviços de Teleconferencias Ltda
+Requerido:Epsilon Informatica e Telecomunicações Ltda
+Data da Audiência:Data e Hora da Audiência Selecionada >
+
+
+
+Juiz(a) de Direito: Dr(a). Henrique Maul Brasilio De Souza
+
+
+
+
+Vistos.
+
+
+
+BANYAN SERVIÇOS DE TELECONFERÊNCIAS LTDA propôs ação declaratória c/c indenização por danos materiais em face de ÉPSILON INFORMÁTICA E TELECOMUNICAÇÕES LTDA.
+Causa de pedir: no exercício de sua atividade fim, necessitou alocar equipamento de teleconferências de sua propriedade em empresa que possuía a tecnologia citada; no caso em exame, a autora firmou com a requerida contrato de parceria em serviços de telecomunicações, comprometendo-se a última a prover à primeira ?até três E1s, equipamento que utiliza e distribui linhas digitais, com capacidade para recebimento de chamadas através de números locais de sua propriedade...? (fl. 03); alega, porém, que a demandada deixou de prestar os serviços contratados de forma eficaz, pois suspendeu suas atividades por prazo superior a cinco dias tendo se demonstrado incapaz tecnicamente para atendimento das exigências pactuadas; ao final da relação jurídica, as partes se desentenderam quanto à extensão das responsabilidades, não tendo a reclamada lhe devolvido objetos a si pertencentes.
+Pedido: resolução do contrato.
+Tutela antecipada deferida à fl. 90.
+Contestação: inexistência de caução e injustiça na concessão da liminar; no mérito, aduz possuir autorização na ANATEL para prestar os serviços contratados e nunca suspendeu imotivadamente suas atividades por período superior a cinco dias, sendo a alegação autoral inverídica; descendo a minúcias de ordem técnica, concluiu à fl. 106 que a autora foi quem descumpriu o contrato ora em discussão, já ?que não forneceu os equipamentos necessários para a operacionalidade contratada, após a devolução dos gateways para a empresa OCTET e a não reposição dos mesmos?; quanto às notas promissórias, substituíram o depósito bancário para garantia do pagamento da locação das interconexões. Noutras palavras, os valores apostos nas cártulas são exigíveis; imputa à autora culpa pela frustração na venda dos cartões.
+Apresentou-se reconvenção (fls. 143/147), por meio da qual alega a reconvinte que a execução do contrato ora sindicado foi frustrado porque a reconvinda não havia fornecido os equipamentos corretos e destinados à operacionalização pactuada. Anexa à peça autônoma distrato de parceria comercial concretizado com empresa terceira onde se comprometeu a pagar determinada quantia, cujo adimplemento era de obrigação da autora. Postula sua condenação nesses termos.
+Resposta à reconvenção às fls. 190/195, defendendo a inexistência de causa jurídica suficiente à procedência do pedido, competindo à ré/reconvinte prova de suas assertivas.
+Réplica às fls. 203/208.
+Ofício da companhia de telefonia acostado à fl. 270.
+É o relato do essencial.
+Fundamento e DECIDO.
+O presente feito comporta julgamento antecipado, nos termos do art. 330, inciso I, do Código de Processo Civil, valendo notar que nenhuma das partes postulou a produção de outras provas (fls. 272, item 01 e 275, penúltimo parágrafo).
+Primeiramente, necessário ressaltar que o negócio jurídico firmado pelas partes tinha por objeto ?a prestação de serviços recíprocos no ramo de telecomunicações entre a OPERADORA e a CLIENTE...? (fl. 36, cláusula I).
+A autora acusou a ré de não possuir capacidade técnica necessária ao correto adimplemento de suas obrigações, infringindo assim a cláusula 11.3.?v? do instrumento copiado às fls. 41/42 (v. notificação de fl. 65). É certo que na inicial houve inclusão de um novo fundamento: ?suspensão das atividades da autora por prazo superior a cinco dias?, violando a cláusula 11.3.?iii? (ibidem) ? fl. 04, item 07.
+Não há prova alguma dessas alegações.
+O ofício encaminhado pela concessionária do serviço público de telefonia (fl. 270, verso) é claro ao afirmar o seguinte: ?... em atendimento à determinação consignada no ofício acima referenciado, informamos que após levantamentos efetuados em nossos sistemas, verificamos que não consta contrato de interconexão de rede de sinais firmado com a empresa Épisilon Informática e Telecomunicações Ltda... Ademais, informamos que localizamos outros contratos firmados com a referida empresa, sendo que caso seja entendimento desse MM. Juízo o envio dos mesmos, respeitosamente, rogamos nos seja enviado novo ofício contendo tal determinação?.
+Apega-se a autora na primeira parte do texto transcrito (fl. 272, item 02), contrapondo-se a ré à fl. 274, onde afirma que ?o contrato solicitado junto àquela empresa por meio de ofício, já se encerrou, conforme sua resposta e o Réu acredita que o contrato anexado já seja suficiente para corroborar com os argumentos de defesa?.
+Correto o raciocínio, pois nada indica que o aditivo copiado às fls. 120/139 não se encontrava em vigor na época da assinatura do pacto ora sindicado (fl. 44: 1º/03/2010) ? ver fl. 121.
+Cumpria à autora provar que a ré paralisou o serviço prometido por mais de cinco dias. Isso não está nos autos.
+Os documentos juntados às fls. 225/231 não são nada esclarecedores: o diálogo de fls. 225/228 é truncado e ininteligível; a missiva eletrônica de fl. 229 é um tanto obscura, não estando contextualizada; os documentos juntados às fls. 230/231 não foram traduzidos, em obediência ao art. 157 do CPC; e o de fl. 232 é um recibo de taxi.
+No tocante aos cartões fornecidos com esteio na cláusula 3.3 (fl. 37), a exordial, pese muito bem elaborada, pouco elucida no ponto sobre em que consistiria o tal inadimplemento. O item 13 de fl. 05 é sucinto demais, dando à impressão de que a situação se colocou justamente pela paralisação das atividades da requerida, fato improvado conforme asseverado acima. A petição de fls. 203/208 nada acresce acerca desse ponto.
+Em suma, aplicável o disposto no art. 333, inciso I, do Código de Processo Civil.
+Observa-se que a peça primeira limita o pedido desta ação à declaração de resolução do contrato de prestação de serviços (item 43, fl. 13), sequer postulando a título definitivo o quanto requerido em sede antecipatória (item 42).
+Já decidi de forma distinta em outras oportunidades. Hoje, contudo, penso que esse formalismo exacerbado pode gerar alguma injustiça, como no caso em exame.
+Com efeito.
+A notificação de fls. 67/68 encaminhada pela ré à autora não está assinada, porém não houve impugnação do seu teor na resposta, ao menos quanto ao item inaugural, onde a reclamada se prontifica a devolver o servidor da marca ?Dell?. Aliás, a contestação reitera esse ponto, conforme se vê no último parágrafo de fl. 112. Por ser de propriedade da requerente (fls. 49/50), é justo que seja devolvido, confirmando-se, nesse ponto, a liminar de fl. 90.
+Finalmente, há de se aplicar a mesma regra processual à reconvenção. Nada indica que o distrato de parceria comercial copiado às fls. 185/187 tenha, de algum modo, sido motivado em qualquer atitude da autora/reconvinda, ou mesmo que os equipamentos ali mencionados tivessem sido utilizados em benefício dela. Vale destacar aspecto bem considerado na petição de fl. 193, itens 13 e 14: o tal distrato foi firmado em 21/09/2010 (fl. 187), dias antes da comunicação, pela reconvinda, de seu interesse em por um fim na relação com a reconvinte (v. fls. 65 e 103, parágrafo terceiro: 29/09/2010).
+Improcedente a reconvenção.
+CONCLUSÃO
+Por todo o exposto:
+Julgo parcialmente procedente a demanda formulada por BANYAN SERVIÇOS DE TELECONFERÊNCIAS LTDA em face de ÉPSILON INFORMÁTICA E TELECOMUNICAÇÕES LTDA, condenando a requerida a devolver à autora o servidor descrito às fls. 49/50, confirmando ? apenas nesse ponto ? a tutela antecipada de fl. 90, revogando a suspensão da exigibilidade das notas promissórias. Desnecessária a caução: quando da apreciação da liminar, deixou o Juízo de fixá-la. Se a parte não concorda, deve recorrer e não arguir a questão em sede preliminar. Ademais, inexiste controvérsia acerca da correção da devolução do equipamento à sua proprietária.
+Julgo improcedente a reconvenção proposta por ÉPSILON INFORMÁTICA E TELECOMUNICAÇÕES LTDA em face de BANYAN SERVIÇOS DE TELECONFERÊNCIAS LTDA.
+Considerando a proporção da sucumbência, cada parte arcará com metade das custas, compensando-se a verba honorária.
+Extingo o processo com julgamento de mérito nos termos do art. 269, inciso I, do CPC.
+P. R. I.
+
+São Paulo, 03 de abril de 2013.

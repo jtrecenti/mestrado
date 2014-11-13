@@ -1,0 +1,68 @@
+
+
+SENTENÇA
+
+CONCLUSÃO
+Em 30 de novembro de 2010, faço estes autos conclusos ao MM. Juiz de Direito, Exm. Sr. Dr. Andrea Ferraz Musa Haenel. Eu ___, subscrevi.
+
+
+
+Processo nº:0105594-29.2007.8.26.0011 - Procedimento Ordinário
+Requerente:Net Cap Internet Provider Ltda Me
+Requerido:Universo On Line - Uol
+
+
+
+Juiz(a) de Direito: Dr(a). Andrea Ferraz Musa Haenel
+
+
+Vistos.
+
+Trata-se de ação indenizatória movida por NET CAP INTERNET PROVIDER LTDA.  ME em face de UNIVERSO ON LINE  UOL.
+Alega a autora que tem seu funcionamento na cidade de Capivari/SP, registrando suas atividades desde 1998, prestando serviços de acesso à internet a população local.
+Aduz que quando do inicio de suas atividades não existia o sistema de banda larga. O acesso era somente discado, sendo que à época era possível, ao montar um servidor, optar pelo sistema analógico ou digital, sendo este último mais custoso.
+Para prestar um serviço de melhor qualidade aos usuários, afirma que optou pelo sistema digital. Afirma que a utilização de tal sistema aumentou muito o número de seus assinantes e em razão disso foi procurada pela ré para firmar parceria na prestação de serviços na região.
+Aduz que em 26/01/2003 recebeu correspondência da ré denunciando o contrato, justificando-se em prejuízos em seu balanço, onerosidade excessiva nos preços e condições contratados com a autora se comparados com outros fornecedores de grande escala.
+Segundo alega, a ré advertiu que pela cláusula 6ª do contrato firmado a carteira de assinantes passava a pertencer a UOL, ficando a autora vedada de utilizá-la a qualquer tempo, durante ou após o período de aviso prévio do contrato. E, ainda, enviou novos números aos assinantes para acesso local, o que desviou o tráfego da autora, que recebia por tráfego. Assim, todos os assinantes passaram a se conectar pelo novo número fornecido pela ré e a autora passou a registrar tráfego zero, o que implicou em sérios prejuízos a autora, pois perdeu toda a sua clientela.
+Apresenta um prejuízo material no valor de R$ 188.980,00. Alega que o contrato previa o prazo de 24 meses, sendo que a denuncia da ré ocorreu aos 14 meses. Assim, entende que deve receber, ainda, indenização por dano moral e por lucros cessantes referentes ao período restante da contratação.
+Requer a procedência da ação condenando a ré ao pagamento de indenização por dano material no valor de R$ 188.980,00, bem como indenização por dano moral arbitrada em 300 salários mínimos. Requer, ainda, a condenação da ré ao pagamento de R$ 140.776,84 referentes aos lucros cessantes do período de 24/01/2003 a 14/11/2003, bem como ao pagamento da multa contratual no valor de R$ 58.797,52.
+Por fim, requer a condenação da ré ao pagamento das custas e honorários advocatícios, bem como o deferimento da gratuidade processual.
+Foi indeferido o pedido de justiça gratuita (fls. 223). Desta decisão a autora agravou de instrumento (fls. 239/242), sendo negado provimento ao recurso (fls. 148/150).
+A ré foi citada e apresentou contestação. Nesta, aduz que as obrigações da autora decorrentes do contrato não envolviam qualquer tipo de relacionamento com clientes e/ou assinantes e, muito menos, o uso da marca UOL. Afirma que a autora prestava serviços diretamente à ré a quem cabia todo o relacionamento com os assinantes, realização de novas assinaturas, publicidade e divulgação.
+Aduz que a partir do contrato firmado, a autora passou a prestar serviços diretamente à ré, que lhe remunerava, deixando de existir perante os seus consumidores, que passaram a ser assinantes da ré.
+No tocante a rescisão do contrato, entende que apenas fez uso de um direito previsto em contrato, fazendo-o conforme previsão deste, isto é, mediante o envio de notificação prévia de 90 dias a autora.
+Afirma que enviou novos números de acesso aos assinantes para evitar uma paralisação dos serviços em razão da rescisão do contrato com a autora. Aduz que o usuário mesmo ao utilizar o Discador UOL, poderia optar pelo acesso com os números de conexão da autora, durante o período em que esteve vigente o contrato.
+Alega que as horas trafegadas da autora não foram reduzidas a zero e que houve apenas uma diminuição em razão dos novos números fornecidos. Assim, entende não ter havido deslealdade comercial e que o pleito indenizatório da autora é descabido, razão pela qual requer a improcedência da ação.
+Houve réplica (fls. 318/332).
+A ação foi inicialmente proposta perante a 1ª Vara Cível da Comarca de Capivari, sendo que por determinação do Egrégio Tribunal de Justiça, os autos foram remetidos a este Juízo (fls. 335).
+Pela autora foi requerida a produção de prova oral e pericial contábil em seus balanços a fim de apurar os danos materiais (fls. 359/360).
+Em conciliação esta restou infrutífera. O feito foi saneado sendo deferida a produção de prova oral, documental e pericial (fls. 408).
+As partes indicaram assistentes técnicos (fls. 416/424).
+O laudo foi elaborado (fls. 433/548) e as partes se manifestaram sobre ele (fls. 562 e 626/635). O assistente técnico da ré apresentou seu parecer (fls. 563/624).
+Em audiência de instrução foi ouvida uma testemunha da ré (fls. 674/675).
+Em memoriais as partes reiteraram seus termos anteriores (fls. 684/716).
+É o relatório.
+DECIDO.
+Primeiramente, observo que as partes firmaram contrato de prestação de serviços no qual a autora, provedora de acesso a internet local se obrigou a fornecer a ré (provedora de acesso a rede mundial) todos os meios técnicos necessários para o acesso aos assinantes dos serviços da UOL, bem como aos assinantes do serviço de acesso da autora (cláusula 1ª).
+O contrato prevê a duração de 24 meses, podendo ser rescindido a qualquer tempo e por qualquer das partes, sem qualquer ônus ou aplicação de multa, mediante aviso prévio com 90 dias de antecedência (cláusula 3ª).
+A autora alega ter sido notificada no dia 26/01/2003 acerca da rescisão do contrato pela ré que suspendeu o acesso pelos assinantes com o código da autora a partir das 00h00 do dia seguinte. Assim, aduz não ter sido respeitado o prazo de 90 dias de antecedência entre a notificação e a efetiva rescisão.
+Compulsando os autos verifico às fls. 44/45, cópia da notificação informando a rescisão do contrato em 90 dias. Tal correspondência data de 24/01/2003. Às fls. 46 há nova comunicação enviada após o decurso dos 90 dias noticiando a efetiva rescisão do contrato em 26/04/2003.
+Assim, não vislumbro qualquer irregularidade praticada pela ré na rescisão efetuada. Assim, improcede o pedido de aplicação de multa por infração contratual, visto que a ré agiu conforme as determinações contratuais. Ademais, a cláusula 3ª do contrato estabelece a rescisão nos termos efetuados pela ré não implica no pagamento de multa.
+Os pedidos indenizatórios da autora também não procedem. 
+Insurge-se a autora quanto a integralização de sua carteira de clientes à carteira de assinantes da ré após o término do contrato. Todavia, tal integralização é mera conseqüência da extinção do contrato, tal como prevê a cláusula 6ª:
+Findo o prazo estabelecido no presente Contrato ou no caso de rescisão, seja a que título for, acordam as partes que a carteira de assinantes, sejam eles pessoas físicas ou jurídicas em acesso exclusivamente discado, assinantes de serviços da contratada ou usuários que vierem a se cadastrar como assinante dos serviços de acesso do UOL, é integral e exclusivamente de propriedade do UOL, sendo expressamente vedado à ACESSONET ou a contratada, utilizar para si ou de qualquer forma ceder a terceiros quaisquer dados, cadastros, mailing list, etc., referentes à carteira de assinantes dos serviços do UOL.
+Ora, a força obrigatória do contrato entre as partes decorre da previsão expressa no Código Civil, devendo ser excepcionada somente quando verificada situação que coloque uma das partes em situação de extrema onerosidade, o que não se verifica no presente caso.
+O contrato é claro ao estabelecer o tipo de prestação de serviços bem como as conseqüências no caso de rescisão. Ao assumir o compromisso de contratar com a ré, a autora sabia dos riscos que estava correndo, notadamente no tocante a integralização da carteira de clientes à carteira da ré com o fim do contrato. 
+Desta forma, entendo que a pretensão da autora, se deferida, resultaria em evidente desrespeito ao princípio do pacta sunt servanda, cuja finalidade é garantir a validade e o cumprimento do que se contratou. Assim, em se tratando do princípio da força obrigatória, o que se faz é garantir que o contrato é lei entre as partes, já que repousa na autonomia da vontade.
+Desta forma, entendo ser a improcedência é de rigor.
+Ante o exposto JULGO IMPROCEDENTE o pedido e julgo extinto o processo, com fundamento no art. 269, inciso I, do Código de Processo Civil. 
+Em face da sucumbência, condeno a autora ao pagamento de custas e despesas processuais, bem como honorários advocatícios, que arbitro em 10% do valor da causa.
+
+P.R.I.
+
+ São Paulo, 30 de novembro de 2010.
+
+                D  A  T  A
+Em _______ de _______ de 2010
+recebi estes autos em Cartório.
+Eu,______________, Escr., subsc.

@@ -1,0 +1,101 @@
+
+
+SENTENÇA
+
+CONCLUSÃO
+
+Em 22 de maio de 2012 faço estes autos conclusos ao(à) Juiz(a) de Direito Dr(a) Eduardo Tobias de Aguiar Moeller.  Eu, escrev, subscrevi.
+
+Processo nº:0001322-08.2012.8.26.0011
+Requerente:Bartolomeu Lopes de Souza
+Requerido:Banco Ibi S/A e outro
+
+Juiz(a) de Direito: Dr(a). Eduardo Tobias de Aguiar Moeller
+
+
+
+
+
+
+Vistos.
+
+Dispensado o relatório, na forma do art. 38 da lei 9099/95.
+Trata-se de ação de indenização cumulada com pedido declaratório.
+Alegou o autor que não possui qualquer cartão de crédito ativo perante o réu que justifique as dívidas e a negativação contra seu nome.  Pleiteia a baixa dos débitos, das negativações, e indenização por danos morais.
+O réu, em sua contestação de fls. 44/54, alegou que já providenciou o cancelamento dos débitos em nome do autor em razão da procedência de sua reclamação.  Impugnou o pedido de indenização por danos morais pois a fraude teria sido cometida por terceiros, o que excluiria a sua responsabilidade.
+Em que pesem os argumentos do banco requerido, entendo que não tenha razão.
+O réu, na forma do art. 14 do Código de Defesa do Consumidor, responde objetivamente por vícios de seus serviços, dentre os quais fraudes de cartão de crédito.  Não é possível acolher a genérica alegação do réu de que seus sistemas sejam perfeitos e absolutamente seguros pois, na prática, não é o que se constata nas milhares de ações judiciais e notícias divulgadas pela mídia, sempre com notícias crescentes de fraudes e outras adulterações envolvendo cartões bancários e de crédito.
+O réu não pode invocar a causa excludente de responsabilidade civil, consistente em culpa exclusiva de terceiro (art. 14, § 3º, do CDC), tendo em vista que as fraudes somente ocorrem porque os sistemas e procedimentos internos do réu são inseguros e falhos o suficientes para permitir que cartões sejam indevidamente confeccionados e ativados e que dívidas sejam constituídas em nome de consumidores.
+O Tribunal de Justiça de São Paulo já decidiu que a instituição bancária tem responsabilidade objetiva.  Vale a pena reproduzir, aqui, o inteiro teor da ementa e acórdão.
+
+EMENTA
+INDENIZAÇÃO - Danos morais e materiais - Saques da conta-corrente não autorizados pelo cliente - Suposta clonagem de cartão - Responsabilidade objetiva do banco - Artigo 14 do CDC ? Dever da instituição financeira de restituir os valores indevidamente sacados - A responsabilidade do prestador de serviços independente de culpa, razão pela qual os danos morais são presumidos - Fixação de indenização por danos morais em 30 salários mínimos vigentes à época do efetivo pagamento, patamar razoável, acrescidos de juros de mora a partir da citação ?Sentença de improcedência - Recurso provido.
+
+ACÓRDÃO
+Trata-se de ação de indenização por danos materiais e morais, cumulada com condenação de obrigação de fazer, ajuizada por Alex Sandra da Silva contra Banco Santander Brasil S/A, objetivando a exclusão de dados junto aos órgãos de proteção ao crédito e condenação a indenização no importe de R$ 19.600,00, julgada improcedente, pela r. sentença de fls. 140/142, cujo relatório se adota.
+Recorreu o autor (fls. 146/156), alegando, em síntese, que os saques indevidos em sua conta corrente, mediante clonagem de cartão de crédito, geraram a necessidade de contratação de financiamento, haja vista a estipulação prévia de negócio de compra e venda.
+Porém, o inadimplemento do crédito rotativo, de valor inferior ao constante em sua conta corrente, redundou na inclusão de seus dados junto ao cadastro de inadimplentes. 
+Sustentou que sua conta poupança está vinculada à conta corrente.
+Alegou que não teve acesso a eventual sindicância para apuração dos fatos.
+Disse também, que o financiamento foi contraído em 14/12/2002 porque já havia firmado contrato de venda e compra de bem, e quando surpreendido pelo sumiço de valores, o banco se comprometeu a ressarci-lo. Assim, a negativação de dados somente aconteceu porque o banco não ressarciu no tempo combinado o valor subtraído de sua conta.
+Pretendeu fosse invertido o ônus da prova, ante a hipossuficiência técnica e financeira da parte, aplicando o Código de Defesa do Consumidor também para imputação de responsabilidade objetiva do banco prestador de serviços. Assim, requereu o provimento do recurso, reformando-se a r. sentença.
+Recurso tempestivo, isento de preparo, e impugnado (fls. 161/164).
+Este é o relatório.
+O autor busca a restituição de valores descontados diretamente de sua conta corrente pelo réu, supostamente resultado da clonagem de seu cartão magnético por terceiro, e de financiamento que precisou realizar em virtude de saldo negativo pelos saques indevidos ocasionado, bem como, pretende reparação por danos morais sofridos em face do indevido desconto.
+Apesar da alegação do réu de que não foi o responsável pelos saques na conta do autor, tendo eles sido feitos mediante a utilização do cartão magnético e da senha pessoal do mesmo, o réu não foi capaz de demonstrar a veracidade de sua tese.
+Todavia, não há como negar, já que se trata de fato notório, a existência da denominada "clonagem de cartões", cada dia mais freqüente no cotidiano bancário.
+A disponibilidade de cartão de crédito é serviço próprio das instituições financeiras. Ocorrendo retirada de numerário da conta corrente do cliente, por este não reconhecida, impõe-se a aplicação da responsabilidade objetiva do fornecedor do serviço, nos termos do artigo 14, do Código de Defesa do Consumidor.
+Neste sentido:
+
+PRIMEIRO TRIBUNAL DE ALÇADA CIVIL DE SÃO PAULO
+PROCESSO: 1222466-7
+RECURSO: Apelação Sum
+ORIGEM: São Paulo
+JULGADOR: 12a Câmara de Férias de Janeiro de 2004
+JULGAMENTO: 17/02/2004
+RELATOR: Andrade Marques
+RESPONSABILIDADE CIVIL - Indenização por danos materiais e morais - Serviços bancários - Saque irregular da conta de titularidade da autora - Relação de consumo - Incidência dos ditames do Código de Defesa do Consumidor - Responsabilidade objetiva do banco - Indenizações devidas, tanto a material quanto a moral, com base na responsabilidade objetiva do banco réu - Exclusão, entretanto, de juros relativos à possibilidade da quantia subtraída ter sido aplicada - Mera hipótese - Valor da indenização por dano moral fixada em valor certo, sendo indevido o critério pretendido pela autora ? Ação procedente em parte - Recursos providos em parte. 
+
+Em suma, existiram saques da conta do autor, por ele não reconhecidos.
+Os documentos acostados a fls. 23/43 são suficientes para demonstrar a veracidade das alegações do autor.
+O autor comunicou ao banco, por escrito, a ocorrência de saques indevidos (fls.24 e 26).
+Lavrou até mesmo boletim de ocorrência (fls. 28/29), visando resguardar direitos.
+Observa-se do extrato a fls. 23 saques reiterados no mesmo dia, 17/11/2002, cujo limite para retirada não seria possível através de caixa 24 horas, demonstrando que ou o sistema estava completamente viciado ou ineficiente.
+Constata-se que o valor do apontamento (fl. 41), é inferior ao importe da transação não reconhecida (fl. 27), demonstrando que não houve máfé do autor quanto ao inadimplemento.
+Assim, invertido o ônus da prova, caberia ao banco réu a comprovação de fato extintivo ou modificativo do direito do autor, nos termos do artigo 333, II, do Código de Processo Civil.
+Na hipótese, os danos morais são presumidos, em que pese ter o autor sofrido efetivo constrangimento decorrente da impossibilidade de utilizar integralmente seus créditos ante os débitos não autorizados em sua conta-corrente.
+Nesse sentido:
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO
+Apelação 991080390947 (7254122300)
+Relator(a): Rubens Cury
+Comarca: Assis
+Órgão julgador: 18a Câmara de Direito Privado
+Data do julgamento: 10/11/2009
+Data de registro: 10/12/2009
+Ementa: RESPONSABILIDADE CIVIL - Dano moral - Hipótese de transferências e débitos indevidos de valores da conta corrente do autor, sem prova da necessária autorização - Responsabilidade objetiva - Aplicabilidade da teoria do risco profissional - Obrigação de ressarcimento caracterizada ? Pedido procedente em parte - Recursos, do autor e do réu, não providos. 
+
+No presente caso, fixa-se indenização por danos materiais no importe de R$ 4.000,00 (fl. 27), acrescidos de juros de mora e correção monetária desde o evento danoso (levantamento de importâncias da conta do apelante).
+Outrossim, a fim de compensar os transtornos sofridos pelo autor, fixa-se a indenização por danos morais em R$ 15.300, (quinze mil e trezentos reais), equivalente a 30 salários mínimos, valor que vem sendo fixado por esta Câmara para casos semelhantes, acrescido de juros de mora desde a citação e corrigidos desde o julgamento desta Câmara.
+Arcará o réu, ainda, com as custas, despesas processuais e honorários advocatícios arbitrados em 10% sobre o valor da condenação.
+Deram provimento ao recurso.
+
+(TJSP Tribunal de Justiça de São Paulo, Apelação nº 991.07.029559-2, Relator Windor Santos, 16ª Câmara de Direito Privado, j. em 17.8.2010, v.u.)
+
+
+O pedido de indenização por danos morais deve ser acolhido tendo em vista que a parte autora teve o seu nome injustamente negativado (fls. 9).
+A jurisprudência, há bastante tempo, tem entendido que a simples negativação, por si só, implica em presunção de prejuízos ao consumidor ante os notórios efeitos negativos dos cadastros de devedores.  Neste sentido: 
+
+CIVIL E PROCESSUAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS 7CUMULADA COM PEDIDO DE CANCELAMENTO DE INSCRIÇÃO EM CADASTRO DE CRÉDITO E PROTESTO INDEVIDOS. PROCEDÊNCIA. PROVA DO PREJUÍZO. DISPENSA. FATO OBJETIVO. RESPONSABILIDADE ATRIBUÍDA AO BANCO. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7-STJ. VALOR. RAZOABILIDADE. I. Desnecessária a prova do prejuízo moral causado em caso de inscrição negativa em entidade cadastral e protesto indevido de título, por óbvio os efeitos nocivos do ato perante o meio social e comercial em que vive a vítima. II. Reconhecida a responsabilidade do banco pelo protesto do título e também pela inscrição, esta, aliás, decorrente do primeiro, a questão demanda o reexame dos fatos, vedado ao STJ, nos termos da Súmula n. 7  .III. Fixado o valor da indenização em montante razoável, não se justifica a excepcional intervenção do STJ para evitar enriquecimento sem causa, aqui não acontecido. IV. Recurso especial não conhecido. (RESP 536980 / MT 2003/0062015-6, Relator Ministro ALDIR PASSARINHO JUNIOR, 4ª. Turma, j. em 10.8.2004, in DJU de 25.10.2005, pág. 350, v.u.).  
+
+Na forma do art. 6º da lei 9099/95, arbitro a indenização em R$ 12.440,00.
+Por estas razões, JULGO PROCEDENTE esta ação que BARTOLOMEU LOPES DE SOUZA ajuizou contra BANCO IBI S/A e CONDENO o réu a pagar à autora indenização por danos morais de R$ 12.440,00.
+Ainda, DECLARO a inexigibilidade dos débitos em nome do autor e DETERMINO ao réu que providencie, em 10 (dez) dias, a baixa dos débitos e das negativações contra o autor.  Deixo de arbitrar multa astreinte tendo em vista a notícia pelo réu de espontânea baixa dos débitos.
+O valor deverá ser corrigido monetariamente desde o ajuizamento da ação conforme Tabela Prática do TJSP e acrescido de juros de mora de 1% ao mês desde a citação, na forma dos artigos 405 e 406 do Código Civil de 2002, bem como do artigo 219 do Código de Processo Civil.
+Sem custas ou honorários advocatícios, na forma do art. 55 da lei 9099/95.
+O devedor, se nesta sentença foi condenado a pagar, fica advertido, na forma do art. 52, inc. III, da lei 9.099/95, de que deverá cumprir a sentença e efetuar o pagamento no prazo de 15 dias após o trânsito em julgado da sentença (ou seja, quando não puder mais recorrer), sob pena de pagar a multa de 10% do art. 475-J do Código de Processo Civil.  Caso o devedor tenha sido condenado a fazer ou deixar de fazer algo, poderá pagar a multa diária fixada se não cumprir imediatamente a obrigação após o trânsito em julgado.
+As partes poderão interpor recurso inominado contra esta sentença, no prazo de 10 (dez) dias, por meio de advogado, mediante o pagamento do preparo recursal, na forma do art. 42 da Lei Federal 9.099/95 e do art. 4º. da Lei Estadual nº 11.608/2003.  O preparo recursal corresponde ao valor de R$ 373,20 (art. 4º, inc. I a III, lei estadual nº 11.608/03) e o porte de remessa e retorno corresponde ao valor de R$ 25,00.
+P.R.I.C.
+São Paulo, 22 de maio de 2012.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

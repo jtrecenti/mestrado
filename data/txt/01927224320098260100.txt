@@ -1,0 +1,61 @@
+
+
+SENTENÇA
+
+Processo nº:0192722-43.2009.8.26.0100
+Classe - AssuntoProcedimento Sumário - Fornecimento de Energia Elétrica
+Requerente:Camilo Rodrigues Nascimento
+Requerido:Aes Eletropaulo Eletricidade de São Paulo
+
+
+Juiz(a) de Direito: Dr(a). Vincenzo Bruno Formica Filho
+
+
+Vistos, etc.
+
+
+
+Camilo Rodrigues do Nascimento propôs demanda declaratória de inexigibilidade de débito contra Eletropaulo Metropolitana eletricidade de São Paulo s.a.
+Afirma que, em 15.7.09, a ré esteve em sua residência e lavrou termo de ocorrência de irregularidade. Por conta disso, a ré atribui-lhe débito de R$1.100,00, cujo inadimplemento poderá acarretar a interrupção do fornecimento de energia elétrica. Impugna o débito e quer a declaração de sua inexigibilidade (fls.2/5).
+A tutela antecipada foi indeferida (fls.23).
+A ré ofereceu contestação, alegando existir presunção de veracidade do termo de ocorrência de irregularidade, sustenta a validade da apuração do débito, porquanto observada a resolução n°456/00 da Agência Nacional de Energia Elétrica. Aduz, ainda, ser legítima a interrupção do fornecimento nesses casos. Pede a improcedência da demanda (fls.36/49).
+A ré formula, ainda, reconvenção, pedindo a condenação do autor ao pagamento do valor de R$2.265,92 (fls.67/71).
+Resposta à demanda reconvencional está a fls.63/66.
+O feito foi saneado, determinando-se a produção de provas (fls.99).
+O laudo pericial está a fls.134/178.
+É o relatório.
+Passo a decidir.
+Inicialmente, destaco serem aplicáveis, ao caso, as disposições do Código de Defesa do Consumidor, porque se está diante de uma relação travada entre fornecedor e consumidor.
+O autor enquadra-se nessa qualidade, porquanto destinatário final fático e econômico do produto ou serviço fornecido pela ré.
+A despeito disso, a medição menor do consumo foi constatada pela perícia, conforme se depreende da leitura do laudo.
+O expert constatou indiretamente a ocorrência de desvio de cabos de entrada da energia elétrica pela alvenaria, furtando-se à medição do consumo.
+Em decorrência disso, apurou-se um degrau de consumo de 23,67%, arbitrando-se a ausência de medição de três mil e três quilowatts hora, em oposição aos cinco mil e sessenta e cinco apontados pela ré.
+O arbitramento do senhor perito deve ser acolhido, porquanto levou em consideração a carga instalada na unidade de consumo do autor.
+Portanto, a demanda é parcialmente procedente para declara a exigibilidade da cobrança de três mil e três quilowatts hora, corrigidos e acrescidos de juros de mora desde 9.4.09 por se tratar de ato ilícito.
+A demanda reconvencional, por ostentar a mesma causa de pedir, não necessita de maior fundamentação, pois, comprovada a existência de crédito ainda que menos, o autor-reconvindo deve ser condenado ao seu pagamento.
+Isso porque apuração ou não da ocorrência de fraude é tema mais ligado à seara criminal, em que os elementos essenciais do tipo devem estar abrangidos pelo dolo do agente.
+Para se atribuir a responsabilidade por crime de estelionato ou furto mediante fraude devem estar presentes todos os elementos do tipo e o dolo do agente deve abrangê-los. Portanto, a autoria e materialidade devem ser comprovadas.
+Na seara cível, a responsabilidade civil obedece a regras diversas. Basta a comprovação de uma conduta culposa ou dolosa, um dano emergente ou lucro cessante e um nexo de causalidade entre eles.
+No caso em tela, não se está a discutir quem procedeu à violação do aparelho medidor, mas, sim, a uma irregularidade constatada pela empresa concessionária de serviços públicos, segundo normas do órgão técnico competente (resolução n°456/00 da Agência Nacional de Energia Elétrica) e pelo senhor perito.
+A ré, mercê da constatação de irregularidade no medidor, teve um dano, caracterizado pelo lucro cessante, ou seja, um valor que ela razoavelmente deixou de lucrar (art.402 do Código Civil).
+O que causou lucro cessante à ré não foi o ato, específico no tempo, daquele que manipulou o aparelho medidor, mas, sim, a utilização desse aparelho irregular para a medição do consumo. Esta conduta não pode ser atribuída a outra pessoa senão ao próprio autor, que se utilizava do relógio para a aferição da energia consumida.
+Essa conduta pode ser tachada de culposa. Ao autor incumbia a manutenção do aparelho medidor de seu imóvel em perfeitas condições de uso. A sua negligência não o pode beneficiar em detrimento da ré (nemo auditur propriam turpitudinem allegans).
+A conduta culposa do autor causou um dano (lucro cessante) para a ré, que precisa ser indenizado.
+Os critérios de liquidação desse lucro cessante, que serão sempre estimados, porque se trata daquilo que razoavelmente se deixou de ganhar, foram bem arbitrados pelo senhor perito, que se utilizou do consumo medido após a troca do relógio medidor.
+Quanto à validade da estimação dos lucros cessantes já se manifestou o Egrégio Tribunal de Justiça de São Paulo pela sua validade:
+CONTRATO ? Prestação de serviços ? Fornecimento de energia elétrica ? Ajuizamento de ação declaratória de nulidade do débito cumulada com obrigação de fazer ? Reconhecimento da existência de irregularidade na instalação elétrica da consumidora, decorrente de instalação clandestina para o barracão nos fundos de sua residência ? Montagem, no local, de fábrica de móveis, gerando considerável aumento do consumo, não contabilizado no relógio medidor ? Determinação judicial de não interrupção de corte do fornecimento, inobstante o reconhecimento da irregularidade ? Necessidade de promoção de competente ação de cobrança do débito ? Débito pretérito, único existente, não justificando o corte de fornecimento de serviço essencial - Pretensão ao reconhecimento da nulidade do débito com a fornecedora rejeitada, em face da existência de consumo de energia ? Cálculo do consumo arbitrado por estimativa ? Validade ? Ação parcialmente procedente, assegurada a continuidade do fornecimento ? Recursos de ambas as partes improvidos (Apelação Civil n.913.122-0/2 - Araras - 30º Câmara de Direito Privado - Relator: Marcos Ramos - 05/04/06 - VU - voto n.3898).
+O valor a ser acolhido é aquele apontado pelo senhor perito ? três mil e três quilowatts hora -, afastando-se o valor apontado pela ré, porque normas infralegais não podem criar direitos ou obrigações.
+A matéria está regulada por lei (art.402 do Código Civil) e a liquidação do dano deve ser realizada judicialmente mediante a produção de provas sem critérios adrede estabelecidos.
+Portanto, a demanda declaratória é parcialmente procedente e parcialmente procedente a reconvenção.
+Decido.
+Assim sendo e considerando o que mais dos autos consta, julgo procedente, nos termos o art.269, inc.I, do Código de Processo Civil, a demanda proposta por Camilo Rodrigues do Nascimento contra Eletropaulo Metropolitana eletricidade de São Paulo s.a. para declarar a existência de débito equivalente a três mil e três quilowatts hora, corrigidos e acrescidos de juros de mora a partir de 9.4.09.
+Em razão da sucumbência recíproca, condeno a ré ao pagamento de 50% das custas e das despesas processuais; sem pagamento de honorários de advogado, porque compensados entre si.
+Outrossim, julgo parcialmente procedente, nos termos do art.269, inc.I, do Código de Processo Civil, a demanda reconvencional proposta por Eletropaulo Metropolitana eletricidade de São Paulo s.a. contra Camilo Rodrigues do Nascimento para condenar o autor-reconvindo ao pagamento de três mil e três quilowatts hora corrigidos e acrescidos de juros de mora a partir de 9.4.09.
+Em razão da sucumbência recíproca, condeno a autor-reconvindo ao pagamento de 50% das custas e despesas processuais da reconvenção, observada a gratuidade; sem a condenação ao pagamento de honorários advocatícios, porque compensados entre si.
+Publique-se. Registre-se. Intimem-se.
+São Paulo, 19 de dezembro de 2012.
+Vincenzo Bruno Formica Filho
+juiz de direito
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

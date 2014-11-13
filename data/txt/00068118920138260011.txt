@@ -1,0 +1,52 @@
+
+
+SENTENÇA
+
+CONCLUSÃO
+Em 13 de dezembro de 2013, faço estes autos conclusos ao(a) MM. Juiz(a) de Direito, Exmo(a). Sr(a). Dr(a). Luciana Leal Junqueira Vieira Rebello da Silva. Eu ___ Luciana Leal Junqueira Vieira Rebello da Silva, subscrevi.
+
+
+
+Processo nº:0006811-89.2013.8.26.0011 - Procedimento Sumário
+Requerente:Weymar Mavignier Filho
+Requerido:Universo Online S/A
+
+
+
+Juiz(a) de Direito: Dr(a). Luciana Leal Junqueira Vieira Rebello da Silva
+
+
+Vistos.
+
+WEYMAR MAVIGNIER FILHO, qualificado nos autos, ingressou com a presente AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE ANTECIPAÇÃO DE TUTELA em face de UNIVERSO ONLINE S/A, também devidamente identificada no feito em questão, alegando, em síntese, receber periodicamente e-mails provindos do endereço eletrônico elsonbraga2012@bol.com.br, com insultos e xingamentos a ele direcionados, os quais são enviados também para outros moradores do condomínio do qual o autor é sindico. Afirmou, neste passo, que em outras demandas requisitou junto às empresas TNL PCL e Net, o endereço de IP do qual foram enviados os referidos e-mails. Contudo, o IP identificado localiza-se em Manaus-AM, onde se encontra uma ?lan house? que não procede a prévio cadastro de seus clientes usuários, de modo que, dessa forma, inútil a informação ali obtida para identificação do responsável pelas ofensas que sofre. Daí porque requereu fosse a requerida compelida a apresentar, no prazo de 24 horas, os dados e informações da conta de e-mail em questão, desde sua criação, bem como dos Logs e Ips utilizados pelo usuário ao utilizá-la, sob pena de aplicação de multa diária, no valor de R$ 1.000,00 (um mil reais), assim como, no caso de impossibilidade material de ser cumprida a obrigação na forma especificada, sejam determinadas as providências, incluindo a conversão em perdas e danos. A inicial (fls. 02/11) foi instruída com documentos (fls. 12/72).
+Deferida parcialmente a liminar pretendida (fls. 73/74), a requerida foi citada e apresentou contestação (fls. 84/96), afirmando que não se opõe a fornecer os dados que possui acerca da conta de email, e que podem levar à identificação do referido usuário, desde que haja determinação expressa do Poder Judiciário, posto serem sigilosas as informações solicitadas, à luz do disposto no artigo 5º da Carta Magna. Impugnou o pedido de conversão em perdas e danos, posto que, como já afirmado, possuiria os dados e informações pretendidos, dependendo apenas de ordem judicial para apresentá-los, de modo que não haveria que se falar em impossibilidade de cumprimento da obrigação. Impugnou, ainda, o pedido de condenação nos ônus sucumbenciais, posto serem indevidos, uma vez que não deu causa ao ajuizamento da demanda. Juntou documentos (fls. 97/102).
+Réplica a fls. 115/120. 
+A requerida apresentou as informações solicitadas (fls. 121/122).
+Ambas as partes se manifestaram no sentido de não possuírem mais provas a produzir, bem como não possuem interesse na realização de audiência de conciliação, requerendo o julgamento antecipado da lide.
+
+É o relatório.
+Fundamento e decido.
+
+Conheço diretamente do pedido, na forma do artigo 330, inciso I, do Código de Processo Civil, pois a questão a ser dirimida é exclusivamente de direito.
+ Ademais, os dados pretendidos bem podem ser fornecidos pela requerida, o que, de fato, acabou ocorrendo. 
+No mérito o pedido é procedente. 
+Segundo restou demonstrado nos autos, o autor vem sofrendo agressões morais por parte do usuário do e-mail: elsonbraga2012@bol.com.br
+Dessa forma, incide na espécie a regra prevista no artigo 5.º, inciso IV, da Constituição da República: "é livre a manifestação do pensamento, sendo vedado o anonimato" g.n.
+Deste modo, o autor tem direito de obter as informações necessárias para identificação do autor dos e-mails que lhe foram encaminhados, ofensivos a sua honra. 
+De outro vértice, a proteção constitucional ao sigilo das comunicações não tem o condão de impedir o fornecimento de informações cadastrais pelo administrador da rede social, porquanto necessárias para impedir a continuidade da prática, em tese, dos atos ilícitos descritos na inicial.
+Realmente, quando em conflito liberdades públicas, cabe ao aplicador da lei harmonizar os dispositivos constitucionais.  
+Corroborando o aduzido, confira-se o seguinte julgado:
+?Obrigação de fazer. Decisão determinando o fornecimento de informações cadastrais de acesso a conta de dados 'hotmail.com', a fim de identificar o usuário. Alegação de inexistência de vínculo com a agravada. Insubsistência. Questão envolvendo a ilegitimidade passiva que deverá ser analisada pelo juízo 'a quo', sob pena de supressão de instância. Agravante que, em análise perfunctória, possui condições de fornecer os dados requeridos, porquanto faz parte do mesmo grupo econômico que a Microsoft Corporation. Impossibilidade técnica de acesso afastada. Inaplicabilidade da cláusula constitucional da inviolabilidade de dados. Agravo desprovido? (TJSP, Agravo de Instrumento nº 0285965-79.2011.8.26.0000, Relator(a): Natan Zelinschi de Arruda, Comarca: São Paulo, Órgão julgador: 4ª Câmara de Direito Privado, Data do julgamento: 15/03/2012, Data de registro: 16/03/2012).
+ Pelo exposto, JULGO PROCEDENTE o pedido, resolvendo o mérito da ação, nos termos do artigo 269, inciso I, do CPC, para condenar a requerida ao cumprimento de obrigação de fazer consistente em exibir os dados cadastrais e outras informações que possua em seu banco de dados sobre o responsável pelo e-mail elsonbraga2012@bol.com.br, desde sua criação, bem como os Logs e IPs utilizados pelo usuário ao utilizá-la, tornando definitiva a tutela deferida a fls. 73/74, cujo cumprimento ora reconheço.
+A despeito do sigilo da informação, o fato é que a resistência da ré ensejou a necessidade da propositura da ação.   
+Logo, pelo princípio da causalidade, condeno a requerida no pagamento das custas, despesas processuais e honorários advocatícios da parte adversa, os quais arbitro em R$ 1.500,00, nos termos do artigo 20, § 3.º, do CPC. 
+
+P.R.I.C.
+São Paulo, 13 de dezembro de 2013.
+
+
+
+                D  A  T  A
+Em _______ de _______ de 2013.
+recebi estes autos em Cartório.
+Eu,______________, Escr., subsc.

@@ -1,0 +1,79 @@
+
+
+SENTENÇA
+
+Processo nº:0103985-93.2011.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Assunto Principal do Processo >
+Requerente:Ofelia Maia Peres Sabbagh
+Requerido:Planner Corretora de Valores S/A
+
+
+
+Juiz(a) de Direito: Dr(a). Rodrigo Garcia Martinez
+
+
+
+
+
+     
+Vistos.
+
+
+
+
+
+
+
+Trata-se de ação indenizatória, alegando-se, em síntese, que contratou a ré como corretora de ações, para compra  e venda no mercado, conforme instruções da autora. Contudo, durante o período de 18 de janeiro a 06 de agosto de 2008, a ré realizou investimentos do tipo ?day trade?, contrariando o contrato. Assim, considerando a comissão de corretagem, impostos e demais despesas, a autora deixou de auferir um rendimento aproximado de trinta por cento do seu investimento inicial. Pleiteia a restituição em dobro de todas o valor de todas as comissões debitadas em sua conta, dos impostos e ?taxas? referentes às operações ?day trade? que não foram solicitadas ou autorizadas pela autora. Ainda, a devolução de R$ 130.880,21 referentes aso gastos com operações não autorizadas. 
+A ré foi citada e apresentou contestação, sustentando a legitimidade de todas as operações de compra e venda de ações e  a ciência da autora.  
+
+
+          É o Relatório.
+DECIDO.
+Desnecessária a produção de prova oral e a designação de audiência de instrução e julgamento.
+Não há violação aos princípios do contraditório e da ampla defesa, pois os documentos e o laudo pericial que instruem os autos são suficientes à delineação da matéria fática, restando tão somente a matéria de direito, motivo pelo qual passo a enfrentar o mérito.
+Como cediço, ao julgador cabe decidir sobre a utilidade ou necessidade das provas, indeferindo as diligências inúteis ou meramente protelatórias, nos exatos termos do art. 130 do CPC.
+
+Nesse sentido:
+
+AGRAVO DE INSTRUMENTO -  ERCEAMENTO DE DEFESA EM FACE DO JULGAMENTO ANTECIPADO DA LIDE - INOCORRÊNCIA - HIPÓTESE QUE NÃO ENVOLVE A VALORAÇÃO JURÍDICA DA PROVA, MAS EVIDENTE PRETENSÃO AO REEXAME E À INTERPRETAÇÃO DO ACERVO PROBATÓRIO - IMPOSSIBILIDADE - SÚMULA 279/STF ? AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO RECURSO DE AGRAVO IMPROVIDO.
+- A decisão judicial que considera desnecessária a realização de determinada diligência probatória, desde que apoiada em outras provas e fundada em elementos de convicção resultantes do processo, não ofende a cláusula constitucional que assegura a plenitude de defesa. Precedentes. 
+- A via excepcional do recurso extraordinário não permite que nela se proceda ao reexame do acervo probatório produzido perante as instâncias ordinárias. Precedentes. (Ag. Reg. no Agravo de Instrumento nº 153467, STF, 2ª Turma, Rel. Min. CELSO DE MELLO, DJ 18.05.2001)
+
+Destarte, o julgamento é de rigor, sendo certo que outras provas pretendidas consistem em diligências inúteis e desnecessárias que em nada contribuirão para o deslinde do feito.
+
+A autora ingressou com pedido de indenização por danos materiais, sob o argumento de que a requerida providenciou a venda de ações, sem a sua autorização, fato que lhe acarretou prejuízos financeiros, bem como transtornos e aborrecimentos. Insiste na má-prestação dos serviços pela corretora: primeiro, porque jamais enviou ordem para negociação das ações pela forma ?day trade?," segundo, porque perdeu quantia elevada de valores consistente nos tributos, comissão de corretagem e outros encargos; além dos valores gastos com as ações.
+A Bolsa de Valores é o local onde são oferecidos condições e sistemas necessários para negócios de compra e venda de títulos e valores mobiliários de forma clara e transparente, havendo regulamentação específica para preservar padrões dito ?éticos de negociação? (cf. ?site? da Bm&bovespa), constituindo-se as corretoras como instituições autorizadas pelo Banco Central e pela Comissão de Valores Mobiliários a executar operações de compra e venda de ações ou derivativos na Bolsa de Valores, podendo atuar em nome de clientes e denominados de ?investidores?, exigindo, porém, que as corretoras ?executem ordens?, dispondo de profissionais capacitados a orientar, receber ordens e executá-las.
+A questão, assim, decide-se no campo probatório, sendo inegável incidência da Lei 8.078/90, existindo vínculo de consumo e enquadrando-se a autora como destinatária final dos serviços e a ré como prestadora dos serviços. Entre corretora e cliente deve existir vínculo de confiança, mas não a ponto de liberar aquela de cautelas necessárias para demonstração das autorizações nos diversos negócios realizados. Por isso existem várias Instruções da Comissão de Valores Imobiliários (CVM).
+Resumidamente, em termos gerais, quando se opera no Mercado de Ações, temos dois tipos de operações. A ?operação à vista?, na qual a liquidação ocorre no terceiro dia útil após a realização do negócio (D+3). A outra, a ?operação a termo?, na qual o vendedor se compromete a vender certa quantidade de papeis por um preço fixado, para liquidação em data futura. A liquidação de tais operações (à vista ou a termo) se dá junto a CBLC (Cia. Brasileira de Liquidação e Custódia), entidade responsável pelos serviços de guarda centralizada, compensação e liquidação das operações realizadas nos mercados da BM&FBOVESPA, segmento Bovespa (à vista, derivativos, balcão organizado, renda fixa privada, etc.). (Conforme http://www.cblc.com.br/cblc/ACBLC/QuemSomos.asp?tit=). E assim, mensalmente são enviados extratos de todas as ordens de compra e venda aos investidores do mercado, sem prejuízo das correspondências da corretora.
+No caso dos autos, conforme se verifica nos extratos de ativos em custódia e nas notas de corretagem, as vendas das ações da autora ocorreram no âmbito das operações ?à vista?.
+No tocante à ausência de autorização da autora para venda das ações, tem-se que os documentos juntados, demonstram que no período descrito na inicial houve grande movimentação na carteira da autora e em sua conta, com depósitos efetivados pela corretora, dando conta das transações mobiliárias, tacitamente aceitas. Tais fatos estão corroborados pelas notas de corretagem juntadas com a contestação e pelo laudo pericial, que a fls. 425 informa que em média eram realizadas treze operações no mercado de ações. Aliás, verifica-se que a autora fez um grande aporte de capital na compra de ações, num total de R$ 490.000,00, próprio de quem está disposto a realizar grande movimentação nas transações mobiliárias, em expectativa de lucro, seja no curto ou no longo prazo. 
+Assim, considerando: (i) a grande quantidade de operações executadas em nome da autora, (ii) a sistemática de envio de ANA (Aviso de Negociação de Ações) e Extrato Mensal de Custódia adotada pela CBLC (Companhia Brasileira de Liquidação e Custódia), (iii) que o endereço para recebimento de tais documentos por parte do investidor é de imóvel de propriedade da autora, (iv) que a CBLC não detectou nenhuma ocorrência de devolução de ANA e Extrato Mensal de Custódia enviados ao investidor; é de ser inferir que se a autora não soube, teve todas as condições para tomar conhecimento do que estava ocorrendo com sua carteira de investimentos custodiadas em sua Corretora de Valores.
+Urge acrescentar que a autora movimentou recursos financeiros vultosos juntamente com a ré. Não pode, portanto, alegar ignorância e ingenuidade quanto ao mercado financeiro e ao risco inerente a esta modalidade de investimentos, ainda mais quando se verifica a fls. 33 que investia em outros tipos de fundos.
+Cabe destacar ser irrelevante a apreciação da tese sobre a transmissão verbal das ordens transmitidas (que nem a perícia soube responder), seja pela autorização expressa da autora em assim proceder, conforme se observa em sua ficha cadastral (fls. 32 e 220), seja diante do ponto central: a existência ou não de autorização para a operação do tipo ?day trade? que teria dado causa ao prejuízo aduzido na inicial.
+Inicialmente, percebe-se pelas alegações da inicial e pela resposta ao quesito sétimo da requerida (fls. 439) que a autora era inexperiente com a negociação no mercado de ações. Consequentemente, ela acabou por deixar nas mãos da requerida toda a estratégia do investimento de ações no mercado mobiliário. E assim permaneceu por vários meses, com a ciência da autora. Assim, não há como acolher sua alegação de que a ré somente deveria acatar suas ordens de compra e venda. 
+Na realidade, a autora procurou a ré, pois esta é quem tinha o conhecimento técnico de operação neste tipo de mercado, com o escopo de auferir lucro. E como é cediço, quem aplica no mercado de ações de forma conservadora é aquele tipo de investidor que aguarda longo período, de vários anos, apostando em ações ?blue chips?, percebendo dividendos e contando com  a alta inesperada do mercado.
+Além disto, fato é que as transações eram feitas e cientificadas à autora, que sempre entendeu que os serviços foram prestados a contento pela corretora até ser constatado o montante gasto com a comissão de corretagem e tributos. Contudo, não se pode alegar abuso ou ilicitude destes valores, principalmente, quando se trata de investimento em bolsa de valores. Aliás, todos os tipos de jornais alertam ao público que antes de investir em qualquer tipo de mercado mobiliário, compare-se estes investimentos com a caderneta de poupança, descontados daqueles os encargos contratuais e legais, para aferir a vantagem real da aplicação. 
+No presente caso, caso a autora agisse com um pouco de zelo, com a ajuda de terceiros (ante a sua inexperiência), investigando o valor final do investimento  descontado os encargos e tributos, provavelmente sequer a lide existiria, ou porque não investiria em ações, ou porque ainda estaria apostando neste tipo de investimento. 
+Nem se alegue falta de informação no presente caso, pois as corretoras e agentes autônomos são obrigados a informar a respeito das negociações mobiliárias, inclusive guardando o registro destas obrigações conforme se verifica na Instrução 387 de 28 de abril de 2003, da CVM, que estabelece normas e procedimentos a serem observados nas operações realizadas com valores mobiliários, em pregão e em sistemas eletrônicos de negociação e de registro em bolsas de valores e de bolsas de mercadorias e futuros.
+Os registros de movimentação mobiliária da autora, juntados aos autos, demonstram as transações acionárias, sem que a autora se insurgisse sobre os valores depositados em sua conta corrente no período de janeiro a agosto de 2008, bem como contra as notas de corretagem. Aliás, é conseqüência lógica deste tipo de contrato a autorização implícita para venda e compra de ações, diante do inquestionável e notório dinamismo das bolsas de valores, impossibilitando, por vezes, gravações telefônicas para comprovar autorização dos investidores. Assim, para demonstrar a idoneidade das transações, são emitidas quinzenalmente as ANA's (Aviso de Negociação de Ações) e, mensalmente, os extratos mensais de custódia processados pela CBLC (Companhia Brasileira de Liquidação e Custódia), conforme expressamente confirmado pela CVM (Comissão de Valores Mobiliários).
+Ademais, a operação de investimento é conhecidamente de risco cuja rentabilidade é influenciada por diversos fatores. Não se pode imputar responsabilidade a assessoria que não garante resultados.
+Neste sentido, ?PRESTAÇÃO DE SERVIÇO - CORRETAGEM DE VALORES MOBILIÁRIOS - AÇÃO DE REPARAÇÃO DE DANOS MORAIS E MATÉRIAS - RESPONSABILIDADE SUBJTETIVA - PREJUÍZOS NO MERCADO DE AÇÕES - AUSÊNCIA DE CULPA DA 1CORRETORA - INVESTIMENTO DE ALTO RISCO ? RECURSO IMPROVIDO. Nos casos de responsabilidade subjetiva, não será devida indenização por danos morais e materiais quando não se constatar a culpa do agente?. (Apelação n° 992.05.060390-5, LUÍS DE CARVALHO 29a Câmara de Direito Privado do Tribunal de Justiça de São Paulo)
+"INDENIZAÇÃO - Danos material e moral ? Aplicação em fundo de investimento financeiro atrelado à variação da cotação do dólar norte americano - Risco de investimento ? Rentabilidade influenciada por diversos fatores - Inexistência de propaganda enganosa e de prova de má-gestão do fundo - Não configuração da responsabilidade objetiva do fornecedor de serviço - Ausência de dever de indenizar - Recurso improvido" (TJSP-208 Câmara de Direito Privado, Apelação n° 1.241.701-3-São Paulo, J. 18.05.2009, vu, Rei. Des. MIGUEL PETRONI NETO, voto n° 4.189). 
+A atividade do corretor de valores não é de resultado para o investidor. A relação jurídica estabelecida entre as partes, segundo a doutrina de Orlando Gomes, é uma forma particular de mediação:
+?São contratos que têm de ser celebrados por sociedades corretoras, que assumem, com autonomia, a sua execução, a partir do momento que o cliente lhes dá a ordem para agir. Tem como objeto a compra e venda de títulos de valores mobiliários. (...) Não é aceitável a tese de que se trata de responsabilidade objetiva?. (Contratos. Coordenador Edvaldo Brito. Atualizadores Antonio Junqueira de Azevedo e Francisco Paulo de Crescenzo, Forense Universitária, 26ª edição, p. 477 grifo nosso)
+Conforme se depreende dos autos, não há elementos seguros de que a ré tenha agido com induzimento intencional visando unicamente lucro apenas com a comissão das operações de compra e venda de ações. Tampouco se vislumbra omissão ou falha na prestação de serviços em prejuízo da autora, que acompanhava as negociações.
+Desta forma, o que se observa é que a autora pretende o reconhecimento de êxito dos contratos firmados com a corretora, fato impossível diante da notória operação de risco que envolve o mercado mobiliário. Assim, inexistindo qualquer prova efetiva de irregularidade no procedimento da corretora, não há que se falar em indenização; quer material, quer moral (ainda que se fosse pleiteada).
+Logo, não se entrevê qualquer ilicitude nas vendas das ações, realizadas pela requerida, no âmbito de tais operações.
+Diante do exposto e pelo mais que dos autos consta, julgo IMPROCEDENTES os pedidos da inicial, nos termos da art. 269, I, do CPC.
+Deverá a autora suportar as despesas processuais e os honorários advocatícios que fixo em 10% do valor da causa, atualizada pela Tabela Prática do TJ.
+P.R.I.
+
+
+São Paulo, 24 de janeiro de 2013.    
+                        
+
+RODRIGO GARCIA MARTINEZ                                                                   Juiz de Direito
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

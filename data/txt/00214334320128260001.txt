@@ -1,0 +1,96 @@
+
+
+SENTENÇA
+
+Processo nº:0021433-43.2012.8.26.0001 - Procedimento Ordinário
+Requerente:Flavia dos Santos Vasconcelos
+Requerido:BV Financeira S/A Crédito, Financiamento e Investimento
+
+
+Juiz(ª) de Direito Dr.(ª): Enéas Costa Garcia
+
+
+Vistos. 
+
+
+1. FLAVIA DOS SANTOS VASCONCELOS, qualificada nos autos, ingressou com ação revisional de contrato bancário contra BV FINANCEIRA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTO, alegando, em síntese, que: a) o contrato contém indevida capitalização de juros por meio da Tabela Price; b) o valor das prestações é superior ao que seria devido se aplicados os juros de forma linear; c) os juros deveriam incidir no percentual de 1% a.m; d) haveria lesão, considerando a discrepância entre os juros cobrados e pagos pela instituição financeira, com ofensa à Lei de Usura; e) aplicável o limite constitucional de juros; f) indevida a incidência de comissão de permanência e sua cumulação com multa. 
+Pretende o acolhimento do pedido para revisão do contrato e condenação do réu ao pagamento de indenização de dano material e moral. 
+
+2. Foi indeferida a tutela antecipada (fls. 102/103).
+
+3. O réu foi citado e apresentou contestação (fls. 111/149). Alega em defesa que são lícitas as disposições contratuais, sendo admissível a capitalização de juros, inexistindo os limites sustentados pela autora. 
+
+4. Veio aos autos a réplica (fls. 161/166).
+É o relatório. 
+
+DECIDO.
+
+5. O feito comporta julgamento antecipado, sendo dispensável a produção de prova oral, nos termos do art. 330, I do Código de Processo Civil.
+
+6. A ação é PARCIALMENTE PROCEDENTE.  
+As teses sustentadas não estão em sintonia com a jurisprudência relativa aos contratos bancários, sendo incabível a revisão pleiteada. 
+Nos contratos bancários não incide a revogada limitação constitucional de juros (Súmula nº 648 e Súmula Vinculante nº 7 do STF), nem a Lei de Usura (STJ ? REsp. nº 1.061.530/RS, Rel. Min. NANCY ANDRIGHI, j. 22/10/2008 [com incidente de recurso repetitivo]; AgRg no REsp. nº 886.220/RS, Rel. Min. PAULO DE TARSO SANSEVERINO, j. 15/03/2011; AgRg no REsp. nº 1.093.000/MS, Rel. Min. SIDNEI BENETI,  j. 08/02/2011) ou o limite estabelecido no Código Civil/02 (STJ ? REsp. nº 1.061.530/RS, Rel. Min. NANCY ANDRIGHI, j. 22/10/2008 [com incidente de recurso repetitivo]).
+As taxas de juros nos contratos bancários foram liberadas, inexistindo necessidade de autorização do Conselho Monetário Nacional. Nesse sentido a jurisprudência do Superior Tribunal de Justiça:
+
+PROCESSUAL CIVIL - EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL - CONTRATO BANCÁRIO - ABERTURA DE CRÉDITO - LIMITAÇÃO DE TAXA DE JUROS - CONSELHO MONETÁRIO NACIONAL - COMPETÊNCIA - AUTORIZAÇÃO PRÉVIA - DESNECESSIDADE - OMISSÃO - OCORRÊNCIA - EMBARGOS ACOLHIDOS - EFEITO MERAMENTE ACLARADOR.
+1 - Esta Corte firmou entendimento no sentido de que a Lei nº 4.595/64 continua em vigência, persistindo no nosso ordenamento jurídico a autorização conferida ao Conselho Monetário Nacional para limitar os juros praticados pelas instituições financeiras.
+Precedentes.
+2 - A autorização do Conselho Monetário Nacional para a livre contratação dos juros remuneratórios só se faz necessária em hipóteses específicas, decorrentes de expressa exigência legal, tais como nas cédulas de crédito rural, industrial ou comercial. Assim, dispensada a prova de prévia autorização do CMN para fixar a taxa de juros além do patamar legal no caso em concreto. Precedentes.
+3 - Embargos de declaração acolhidos, para sanar omissão, nos termos explicitados. (STJ - EDcl no AgRg no REsp 679.211/RS, Rel. Ministro  JORGE SCARTEZZINI, j. 13.12.2005)
+
+REGIMENTAL ADMINISTRADORA DE CARTÃO DE CRÉDITO.INSTITUIÇÃO FINANCEIRA. TAXA DOS JUROS REMUNERATÓRIOS.
+? É desnecessária a prévia autorização do Conselho Monetário Nacional para a cobrança dos juros remuneratórios à taxa acima de 12% ao ano.
+? As empresas administradoras de cartão de crédito são instituições financeiras e, por isso, os juros remuneratórios por elas cobrados não sofrem as limitações da Lei de Usura (Súmula n. 283-STJ).
+Recurso improvido, com aplicação de multa. (STJ - AgRg no REsp 399.549/RS, Rel. Min.  BARROS MONTEIRO, j. 14.02.2006).
+
+(...) Juros. Instituição financeira. Salvo nos casos de crédito rural, industrial e comercial, em que há legislação própria, a não incidência da limitação imposta pelo Decreto 22.623 não se condiciona a autorização do Conselho Monetário Nacional.
+(STJ - Resp 113356/RS, Rel. Min. EDUARDO RIBEIRO, j. 11.05.1999)
+
+AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS.
+A limitação da taxa de juros estabelecida pela Lei de Usura não se aplica às operações realizadas por instituições financeiras. Precedentes do STJ.
+Excetuando-se os créditos incentivados - crédito ruraI, comercial e industrial -, é desnecessária a comprovação de prévia autorização do CMN para a cobrança de juros remuneratórios acima do limite legal.
+Eventual abusividade da pactuação dos juros remuneratórios deve ser cabalmente demonstrada em cada caso, com a comprovação do desequilíbrio contratual ou de lucros excessivos, sendo insuficiente o só fato de a estipulação ultrapassar 12% ao ano ou de haver estabilidade inflacionária do período (REsp's ns. 271.214/RS, 407.097/RS e 420.111/RS).
+Subsistentes os fundamentos do decisório agravado, nega-se provimento ao agravo.
+(STJ - AgRg no REsp 703058/RS, Rel. Mini. CESAR ASFOR ROCHA, j. 17.03.2005)
+
+
+O controle da abusividade das taxas de juros não se dá intrinsicamente no contrato, tampouco com análise do spread bancário (STJ ? REsp. nº 292.893/SE - Rel. Min. CARLOS ALBERTO MENEZES DIREITO ? j. 15/08/02 ? LEX-STJ 163/61). 
+A jurisprudência do Superior Tribunal de Justiça fixou entendimento de que a taxa de juros somente é passível de controle quando discrepa significativamente dos juros praticados no mercado (STJ - AgRg no REsp. nº 1.009.512/MS, Rel. Min. MARIA ISABEL GALLOTTI, j. 15/02/2011; STJ - AgRg no REsp. nº 1.052.866/MS, Rel. Min VASCO DELLA GIUSTINA (DESEMBARGADOR CONVOCADO DO TJ/RS), j. 23/11/2010), o que não se demonstrou no caso sub judice.
+Nos termos da Súmula nº 382 do Superior Tribunal de Justiça: ?A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade?. 
+A capitalização mensal de juros não é vedada nos contratos bancários em razão da Medida Provisória nº 1963-17/2000, de 31/03/2000, atualmente reeditada como Medida Provisória 2170-36/2001 (STJ - AgRg no REsp. nº 1.038.363/RS, Rel. Min. PAULO DE TARSO SANSEVERINO,  j. 02/08/2011; STJ ? AgRgAg. nº 562.712/RS - Rel. Min.  HUMBERTO GOMES DE BARROS ? j. 30/11/04;  STJ ? REsp. nº  629.487/RS - Rel. Min. FERNANDO GONÇALVES ? j. 22/6/04; STJ ? AgRgResp. nº 615.136/RS - Rel. MIN. HUMBERTO GOMES DE BARROS ? j. 18/11/04; STJ ? AgRgResp. nº 655.350/RS - Rel. Min.  NANCY  ANDRIGHI ? j. 16/12/04; STJ-AgRg no REsp 1.009.512/MS, Rel. Min. MARIA ISABEL GALLOTTI,  j. 15/02/2011; STJ - AgRg no REsp 1.052.866/MS, Rel. Min VASCO DELLA GIUSTINA (DESEMBARGADOR CONVOCADO DO TJ/RS), j. 23/11/2010; STJ  AgRg no Ag 1.371.651/RS, Rel. Min. NANCY ANDRIGHI,  j. 18/08/2011; STJ - AgRg no REsp 1.231.210/RS, Rel. Min. RAUL ARAÚJO, j. 14/06/2011), cuja validade não foi infirmada pelo STF (STJ - AgRg no REsp. nº 1.231.210/RS, Rel. Min. RAUL ARAÚJO, j. 14/06/2011). 
+Ademais, a previsão contratual de taxa de juros mensal (1,79%) e anual (28,62% - fls. 155) cumpre a exigência legal para a capitalização dos juros. 
+A jurisprudência do Superior Tribunal de Justiça tem reconhecido que a indicação da taxa de juros mensal e anual, com valor que supera o duodécuplo da taxa mensal, atua como válida convenção a respeito da capitalização de juros. 
+Nesse sentido:
+
+?(...) Quanto à ausência de pactuação da capitalização no contrato firmado entre as partes, tenho que a alegação não merece prosperar.
+Com efeito, muito embora tenha  o  v.  aresto  impugnado  assentado que não houve pacto expresso, o fez com base no fundamento de que a indicação das taxas de juros mensal e anual não configura a expressa previsão contratual.
+Todavia, esta Corte Superior de Justiça já decidiu que há previsão expressa de cobrança de juros capitalizados em  periodicidade  mensal  quando  a  taxa  de  juros  anual ultrapassa o duodécuplo da taxa mensal.
+Nesse sentido: REsp  1.220.930/RS, Rel. Min. MASSAMI  UYEDA,  DJe  de 9.2.2011; AgRg no REsp 735.140/RS, Rel. Min. JORGE SCARTEZZINI, 4ª Turma, DJ de 5.12.2005; AgRg no REsp 735.711/RS, Rel. Min. FERNANDO GONÇALVES, 4ª Turma, DJ  de  12.9.2005;  AgRg  no  REsp  714.510/RS,  Rel.  Min.  JORGE  SCARTEZZINI,  4ª Turma,  DJ  de  22.8.2005;  AgRg  no REsp  809.882/RS, Rel. Min.  ALDIR  PASSARINHO JUNIOR, DJ de 24.4.2006.
+No caso dos autos, colhe-se do aresto impugnado que a taxa anual pactuada foi de 27,04%, e que a taxa mensal prevista no  contrato  é de 2,01%, de modo que a partir do confronto entre tais percentuais, percebe-se que houve expressa pactuação. De outra parte, o v. julgado estadual afirma que o contrato foi firmado em 10.10.2007 (e-STJ, fl. 132), ou seja, após a vigência da Medida Provisória referida.
+Nesse contexto, tendo sido firmado o contrato  quando  vigente  norma permissiva para a cobrança de capitalização mensal dos juros, bem como estando previsto no contrato  a  incidência  desta  forma  de  cobrança,  é  de  rigor  a  manutenção  da  decisão  ora agravada que reformou o v. acórdão estadual.?
+(STJ - AgRg no REsp. nº 1.231.210/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/06/2011, DJe 01/08/2011).
+
+Inclusive recentemente o Superior Tribunal de Justiça apreciou recurso com incidente de Recurso Repetitivo, fixando a tese supra:
+
+1) É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31/3/2000, data da publicação da medida provisória nº 1.963-17/2000, em vigor como MP nº 2.170-01, desde que expressamente pactuada; 2) a capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada. (STJ ? Resp. nº 973.827/RS - Rel. Min. Luiz Felipe Salomão  ? j. 08/08/2012)
+
+Em relação à comissão de permanência não se considera ilícita sua cobrança, que pode levar em consideração os juros de mercado. 
+Apenas assiste razão à autora quando invoca a impossibilidade de comissão de permanência e multa, tal como consta na cláusula 16 do contrato (fls. 156).
+Assim, optando o credor pela cobrança da comissão de permanência, e não os encargos legais de mora, não há lugar para incidência da multa moratória. 
+O acolhimento desta pequena parte do pedido não afasta a mora da autora, pois não se trata do período normal do contrato, consistindo em pequena irregularidade nos encargos moratórios. 
+Inexiste ato ilícito a ensejar indenização de dano material ou moral, ausentes os pressupostos da responsabilidade civil. 
+
+7. Diante do exposto, JULGO PARCIALMENTE PROCEDENTE o pedido para declarar nula a cláusula que admite cobrança cumulada da multa moratória com comissão de permanência. 
+Condeno a autora, sucumbente na quase integralidade do pedido, ao pagamento de custas, despesas processuais e honorários advocatícios, que arbitro em R$ R$ 1.000,00, observado o disposto no art. 12 da Lei de Assistência Judiciária.  
+
+P. R. I
+
+
+   São Paulo, 21 de agosto de 2012.
+
+
+
+ ENÉAS COSTA GARCIA
+        JUIZ DE DIREITO
+
+         (assinatura digital)

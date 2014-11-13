@@ -1,0 +1,90 @@
+
+
+SENTENÇA
+
+Processo nº:0077319-58.2011.8.26.0002
+Classe - AssuntoProcedimento Ordinário - Interpretação / Revisão de Contrato
+Requerente:José Carlos Pereira da Silva
+Requerido:BV Financeira S/A Crédito, Financiamento e Investimento
+
+
+Justiça Gratuita
+Juiz de Direito: Dr(a). Alexandre Batista Alves
+
+
+Vistos.
+
+
+JOSÉ CARLOS PEREIRA DA SILVA moveu ação de revisão cumulada com pedido de repetição de indébito e antecipação de tutela contra BV FINANCEIRA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTO alegando, em síntese, que: a) firmou com o réu contrato de crédito bancário para financiamento de veículo; b) o réu cobrou juros capitalizados, praticada vedada (Súmula 121 do STF), e juros abusivos; c) as tarifas cobradas (TEC e TAC) são abusivas à luz do CDC.
+
+Por essas razões, pleiteou a revisão do contrato para expurgar as ilegalidades apontadas, bem assim antecipação de tutela para depositar o valor das prestações que reputa devido e para permanecer na posse do veículo.
+
+ A inicial veio instruída com documentos (fls. 28/35) e foi emendada.
+
+Negada a antecipação de tutela (fl. 36), o réu foi citado e ofertou contestação (fls. 113/182), na qual suscitou preliminares de ilegitimidade passiva e falta de interesse de agir. No mérito, sustentou basicamente a legalidade dos juros e demais encargos cobrados.
+
+O autor deixou de apresentar réplica.
+
+É o relatório.
+Fundamento e Decido.
+
+A matéria debatida nos autos é somente de direito e de fato comprovável por meio de prova documental, autorizando o julgamento antecipado da lide (CPC, art. 330, I).
+
+As preliminares de ilegitimidade passiva e falta de interesse de agir, em verdade, ferem o mérito da causa, de sorte que a sua apreciação conduzirá à procedência ou não do pedido, mas não ao decreto de carência.
+
+Improcede a pretensão.
+
+Ressalte-se inicialmente que as instituições bancárias incluem-se no conceito de fornecedor, para fim de aplicação do Código de Defesa do Consumidor nas relações entre estas e os usuários de serviços, matéria pacificada na jurisprudência (Súmula 297 do STJ).
+
+Assentada essa premissa, anote-se que o art. 5º da MP 1.963-17, de 30/03/2000, substituída pela MP n. 2.170/36, admite a prática de capitalização de juros em periodicidade inferior a um ano nos contratos celebrados por instituições financeiras integrantes do Sistema Financeiro Nacional.
+
+Ademais, o art. 28, §1º, I, da Lei n. 10.931/04 permite a capitalização de juros. Mas não se trata de capitalização ilegal a incorporação de juros vencidos decorrente de saldo devedor ao capital. Os juros vencidos se convertem e se incorporam naturalmente ao capital, ao final de cada período de capitalização expresso na taxa de juros.
+
+?Quem assim entende confunde capital com renda. Capital, em um mútuo financeiro, na acepção adequada a esta exposição, é o valor atual do saldo de um débito, expresso pelo montante que resultar do capital original, acrescido dos juros vencidos, convertidos e incorporados periodicamente ao capital, abatidos os valores eventualmente pagos (parte dos juros, total dos juros, total dos juros e amortização). Juro  ou  renda  é o fruto deste capital que, após ser gerado, pelo decurso do período de geração (e se tornar, assim, juro vencido  ou  renda vencida)  - independentemente de haver ou não sido pago ? se converte e se incorpora ao capital inicial  do período, transformando-o em capital final  do período.
+A única peculiaridade da renda vencida paga, em relação  à  renda vencida não paga,  é que esta última fica aplicada com o mesmo mutuário, elevando o saldo devedor de capital. Daí o equívoco comum de se considerar o juro de um segundo período como sendo representado por dois diferentes tipos de juros: o juro do capital  e o juro do juro? (Juros. Correção Monetária. Danos Financeiros irreparáveis. Uma abordagem jurídico econômica /   Romualdo Wilson Cançado e Orlei Claro de Lima ? 3.ed.rev.atual.e ampl. ? Belo Horizonte: Del Rey, 2003. pág. 27/28).
+
+De outa parte, anote-se que, em relação às instituições financeiras, as taxas de juros e outros encargos não se sujeitam às restrições do Decreto 22.626/33 (Lei de Usura), mas à Lei 4595/64, ou seja, às deliberações do Conselho Monetário Nacional e às limitações e disciplinas ditadas pelo Banco Central. Nesse sentido é a Súmula 596 do STF.
+
+Como não há norma no Conselho Monetário Nacional limitando os juros em operações de crédito nos moldes daquela realizada entre as partes, conclui-se que legislação especial afasta a incidência do art. 4°, ?a?, da Lei 1.521/51, que se refere à taxa máxima prevista em lei.
+
+E não havendo demonstração de que a taxa de juros excede em muito a taxa média para as operações similares, o que caracteriza ofensa ao art. 4°, ?b?, da citada lei, é válida a taxa de juros cobrada pelo réu, motivo pelo qual é descabido falar em spread abusivo.
+
+Não se perca de vista que o autor, quando da contratação, tinha a exata noção dos juros e encargos praticados, de maneira que poderia procurar outra instituição bancária para contratar se considerasse as taxas elevadas.
+
+É oportuno reproduzir os seguintes trechos do AgRg no Recurso Especial n. 688.627- RS (2004/012651-3), relatado pelo Min. Aldir Passarinho Júnior:
+
+?Por outro lado, ainda que aplicável às instituições bancárias a Lei n. 8.078/1990, a Segunda Seção desta Corte, em 12.03.2003, no julgamento do Resp n. 407.097/RS, relator para acórdão Ministro Ari Pargendler, sedimentou o entendimento de que o pacto referente à taxa de juros só pode ser alterado se reconhecida sua abusividade em cada hipótese, desinfluente para tal fim a estabilidade inflacinonária no período, imprestável o patamar de 12% ao ano já que sequer a taxa média de mercado, que não é potestativa, se considera excessiva, para efeitos de validade da avença?.
+
+Quanto ao limite de juros ao percentual de 12% ao ano, o Supremo Tribunal Federal, ao julgar a ADIn n. 4-DF, decidiu que a norma inscrita no § 3º do art. 192 da Constituição Federal não é de eficácia plena, dependendo, portanto, de regulamentação. 
+
+Por qualificar-se como estrutura normativa aberta e incompleta, não se reveste de auto-aplicabilidade, daí a necessidade da edição de lei complementar exigida pelo texto constitucional.
+
+Essa orientação veio cristalizada na Súmula 648 do STF, devendo ser acentuado que a emenda constitucional n. 40 revogou o parágrafo 3º do artigo 192 da Constituição Federal, tornando a discussão inócua.
+
+No que concerne à cobrança das tarifas apontadas na inicial, melhor sorte não resta ao autor.
+
+A Resolução nº 3.693/2009, que alterou a Resolução nº 3.518/2007, do Banco Central, em seu art. 1º, dispõe que ?a cobrança de tarifas pela prestação de serviço por parte das instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil deve estar prevista no contrato firmado entre a instituição e o cliente ou ter o respectivo serviço previamente autorizado ou solicitado pelo cliente ou pelo usuário?.
+
+No caso vertente, não diviso ilegalidade ou abuso na cobrança das tarifas impugnadas, visto que foram expressamente previstas no contrato e têm respaldo em atos normativos do BACEN, razão pela qual deve prevalecer o princípio da autonomia da vontade.
+
+Ademais, conquanto haja dissenso jurisprudencial, comungo da orientação segundo a qual há de ser demonstrada, de forma cabal e objetiva, a vantagem exagerada auferida pelo banco em detrimento do consumidor.
+
+A propósito, assim decidiu recentemente o STJ:
+
+?No tocante à cobrança de taxa de abertura de crédito, concluiu o Tribunal de origem pela ilegalidade do repasse de tais custos ao financiado, uma vez que não esclarece sua finalidade. Ocorre que, este Tribunal já decidiu que, no mesmo passo dos juros remuneratórios, ?em relação à cobrança das tarifas de abertura de crédito, emissão de boleto bancário e IOF financiado, há de ser demonstrada de forma objetiva e cabal a vantagem exagerada extraída por parte do recorrente que redundaria no desequilíbrio contratual da relação jurídica, e por conseqüência, na ilegalidade de sua cobrança? (AgRG no REsp 1.003.911/RS, Rel. Mini. João Otávio de Noronha, DJe 11.2.2010, o que não ocorre no presente caso?.
+
+À míngua de demonstração de que as tarifas questionadas oneraram excessivamente o consumidor, gerando desequilíbrio contratual, a improcedência do pedido neste particular é medida criteriosa que se impõe.
+
+Ante o exposto, JULGO IMPROCEDENTE o pedido e EXTINGO o processo com resolução de mérito, nos termos do art. 269, I, do Código de Processo Civil. 
+
+Vencido autor, pagará as custas, despesas e honorários advocatícios, arbitrados estes em 10% do valor da causa, sobrestada a execução, nos termos dos arts. 11 e 12 da Lei nº 1.060/50.
+
+P.R.I.
+
+São Paulo, 13 de fevereiro de 2013.
+
+CERTIDÃO PUBLICAÇÃO
+Certifico e dou fé que o r. despacho foi enviado ao DJE.  Disponibilização em __18.02.2013_____ (publ.__13___) . Considera-se a data da publicação o primeiro dia útil subseqüente à data da disponibilização no DJE. Eu _______, Escrevente subsc. 
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

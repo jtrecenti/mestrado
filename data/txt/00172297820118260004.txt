@@ -1,0 +1,57 @@
+
+
+SENTENÇA
+
+Processo nº:0017229-78.2011.8.26.0004
+Classe - AssuntoProcedimento Ordinário - Obrigação de Fazer / Não Fazer
+Requerente:Geraldo Souto Carneiro Junior
+Requerido:Vivo S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Flavia Poyares Miranda
+
+
+Vistos.
+
+
+
+
+Geraldo Souto Carneiro Junior, ajuizou ação de obrigação de fazer com pedido de tutela antecipada contra Vivo S/A, alegando, em síntese, que é identificado na Internet por meio do e-mail geraldosoutocj@ig.com.br e seu provedor é Internet Group do Brasil S/A ? IG desde 15 de junho de 2008. Todavia, em 27 de setembro de 2010 o autor ficou impossibilitado de acessar seu endereço eletrônico, tomando conhecimento da alteração de sua senha, tendo o autor solicitado o fornecimento da relação de acessos em seu e-mail. Acrescenta que foi funcionário por mais de cinco anos da empresa Wurth do Brasil Peças de Fixação Ltda., sendo noticiado à Delegacia de Polícia que o autor estaria praticando atos de concorrência desleal, daí a necessidade de identificação do invasor de seu e-mail, viabilizando-se o exercício do direito de defesa, responsabilizando-se aquele que adentrou seu sigilo pessoal. A requerida tem o dever de manter os dados relativos aos usuários de serviços. Termina por requerer a concessão de tutela antecipada para que a ré disponibilize as informações necessárias fornecendo dados identificatórios das conexões com o referido IP, sob pena de cominação de multa diária, fornecendo dados do cadastro dos usuários ou sua localização que utilizaram os números de IP declinados. Com a inicial (fls. 02/08), vieram documentos (fls. 09/18).
+A tutela antecipada foi indeferida e determinada a citação (fl.20).
+Citada (fl.27), a requerida deixou transcorrer in albis o prazo para oferecimento de resposta (certidão fl. 28).
+Foi proferida sentença a fls. 29/30.
+A fls. 35/47 sobreveio contestação da requerida impugnando a pretensão autoral, sendo arguida preliminar de inépcia, eis que o sistema de IP refere-se ao acesso de um indivíduo na internet, gerando dados que somente são realizados por empresas provedoras de acesso a internet, devendo ser verificado o acesso junto ao provedor de origem. Arguiu também carência pela falta de interesse processual, eis que não compete à requerida o pleito deduzido na petição inicial. No mérito afirma que a empresa Vivo está impedida legalmente de prestar serviços de acesso à internet, o que somente é realizado por provedoras de acesso. Invocou os princípios constitucionais da preservação da intimidade e do sigilo das comunicações, não sendo possível a divulgação para terceiros de dados cadastrais. Termina por requerer o acolhimento das preliminares ou a improcedência, com os consectários legais.
+Réplica acostada a fls. 58/66.
+A fl.67 foi certificada a tempestividade da contestação.
+É o relatório.
+Fundamento e Decido.
+Tendo em vista a contestação tempestivamente apresentada, torno sem efeito a sentença anteriormente proferida.
+O feito comporta o julgamento antecipado que ora se profere, porquanto encerra questão de fato e de direito que dispensa a produção de provas em audiência, nos termos dos artigos 130, 131 e 330 inciso I, todos do Código de Processo Civil, sendo certo que o magistrado deve se valer da persuasão racional para valorar provas imprescindíveis à prestação jurisdicional e para dispensar a realização de provas desnecessárias, inúteis e protelatórias, sem que isto importe em cerceamento de defesa, sendo certo que, na hipótese de ser entabulado acordo extrajudicial, bastará sua comunicação para posterior homologação.
+Neste sentido:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE CERCEAMENTO DE DEFESA.INDEFERIMENTO. PROVA TESTEMUNHAL. 1. No sistema de persuasão racional adotado pelo Código de Processo Civil nos arts. 130 e 131, em regra, não cabe compelir o magistrado a autorizar a produção desta ou daquela prova, se por outros meios estiver convencido da verdade dos fatos, tendo em vista que o juiz é o destinatário final da prova, a quem cabe a análise da conveniência e necessidade da sua produção. Desse modo, não há incompatibilidade entre o art. 400 do CPC, que estabelece ser, via de regra, admissível a prova testemunhal, e o art. 131 do CPC, que garante ao juiz o poder de indeferir as diligências inúteis ou meramente protelatórias. 2. Agravo regimental desprovido. (STJ, AgRg no Ag 987.507/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/12/2010, DJe 17/12/2010) grifos nossos
+PROCESSO CIVIL. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. IMPRESCINDIBILIDADE DA PROVA POSTULADA. REEXAME. MATÉRIA FÁTICA. SÚMULA 7/STJ. RECURSO NÃO PROVIDO. 1- Sendo o magistrado destinatário final das provas produzidas, cumpre-lhe avaliar quanto à sua suficiência e necessidade, indeferindo as diligências consideradas inúteis ou meramente protelatórias (CPC, art. 130, parte final). 2- A mera alegação de haver o juízo sentenciante julgado antecipadamente a lide, com prejuízo da produção das provas anteriormente requeridas, não implica, por si só, em cerceamento de defesa. 3- Indagação acerca da imprescindibilidade da prova postulada que suscita reexame de elementos fático-probatórios da causa (Súmula n° 7). Precedentes do STJ. 4- Agravo regimental a que se nega provimento. (STJ, AgRg no Ag 1351403/PE, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 21/06/2011, DJe 29/06/2011) grifos nossos
+ Ora, estando em termos o processo, o Juiz deve julgá-lo desde logo:
+"Presentes as condições que ensejam o julgamento antecipado da causa, é dever do juiz, e não mera faculdade, assim proceder". (STJ, 4a T., REsp n° 2.832-RJ, rel. Min. Sálvio de Figueiredo, j . 14.8.1990) No mesmo sentido: RSTJ 102/500 e RT 782/302.
+As preliminares arguidas se confundem com o mérito e serão com ele examinadas.
+Cumpre deixar consignado, desde logo, que a relação jurídica travada entre as partes e que constitui o substrato do objeto desta ação, possui natureza consumerista, uma vez que a autora é a destinatária final dos serviços prestados pela empresa-ré, que o faz de forma contínua e habitual no desenvolvimento de sua atividade comercial, fazendo com que as partes se enquadrem perfeitamente nos conceitos de consumidor e fornecedor previstos nos arts. 2º e 3º do Código de Defesa do Consumidor. 
+Tal conclusão possui como conseqüência jurídica a incidência na hipótese das regras e princípios previstos na Lei nº 8.078/90, notadamente quanto à boa-fé objetiva que, em relação ao consumidor, é presumida por aquele Diploma Legal, a qual não foi elidida pela ré durante a instrução do feito, como lhe competia, em virtude da inversão do ônus da prova também autorizada pela Legislação Consumerista. 
+Além disto, a documentação acostada a fls. 13/15 demonstra o interesse do autor em obter as informações de que necessita para resguardar direitos.
+Portanto, em que pese o entendimento da requerida, merece acolhimento o pleito deduzido na petição inicial.
+Outrossim, como bem restou decidido no processo nº 0053137-08.2011.8.26.0002 na sentença proferida em caso análogo pela Magistrada Liliane Keyko Hioki da 3ª Vara Cível do Foro Regional de Santo Amaro, há também nestes autos indícios de que houve violação de direitos do autor por terceiro não identificado:
+(...) E assim decido porque o autor demonstrou de modo suficiente que o acesso aos dados pleiteados na inicial há que lhe ser franqueado, ante os indícios de violação a direito seu promovido por pessoa cuja identificação somente se mostrava possível com o fornecimento de informações pela requerida, deles detentora. Some-se a isso o fato de a requerida não ter apresentado resistência ao pedido inicial, reconhecendo o direito do autor ao acesso buscado, escusando-se pelo não fornecimento administrativo dos dados à proibição constitucional, que impõe a prévia ordem judicial a tanto. Assim, inexistindo questões a serem dirimidas, porquanto o direito do autor é incontroverso, despiciendas outras motivações para justificar o acolhimento do pedido inicial. Finalmente, descabida a condenação da requerida ao pagamento das verbas de sucumbência, eis que a recusa em fornecer os dados pleiteados administrativamente está amparada por norma constitucional, que a proíbe de fornecê-los sem ordem judicial. De mais a mais, ela forneceu, tão logo instada, as informações pleiteadas. Também injusto que o autor suporte o pagamento isolado daquelas verbas, porque foi compelido a valer-se de ação para obter os dados que necessita para defender direito seu. Assim, as partes, por equidade, suportarão em igualdade de condições as verbas de sucumbência. Ante o exposto, JULGO PROCEDENTE o pedido formulado por GERALDO SOUTO CARNEIRO JUNIOR em face de CLARO S/A, com fundamento no artigo 269, inciso II, do CPC, de modo a tornar definitiva a tutela deferida a fls. 23. As custas e as despesas processuais serão suportadas por ambas partes em igualdade de condições, nos termos da fundamentação, e cada parte arcará com os honorários de seu patrono. P.R.I.
+Outrossim, pelo teor da contestação apresentada, realmente a Constituição Federal veda a divulgação dos dados, conforme preceitua o artigo 5º incisos X e XII in verbis:
+X - são invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas, assegurado o direito à indenização pelo dano material ou moral decorrente de sua violação;
+XII - é inviolável o sigilo da correspondência e das comunicações telegráficas, de dados e das comunicações telefônicas, salvo, no último caso, por ordem judicial, nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal ou instrução processual penal;
+Portanto, se por um lado a Carta Magna protege o direito à intimidade, também abarcou o princípio do direito à informação, inclusive habeas data, sendo que o acesso às informações solicitadas pelo autor somente é possível com determinação judicial, informações estas necessárias para preservação de seus direitos, legalmente tutelados.
+Ante o exposto e o que mais dos autos consta, JULGO PROCEDENTE a ação de obrigação de para que a requerida disponibilize as informações necessárias fornecendo dados identificatórios das conexões com o IP nº 189.99.67.132, sob pena de cominação de multa diária no valor de R$100,00 até o limite de 120 dias, fornecendo dados do cadastro dos usuários ou sua localização, nos termos pleiteados na inicial.
+Arcará a vencida ainda, com o pagamento das custas, despesas processuais e honorários advocatícios, que fixo por equidade e com amparo no artigo 20, parágrafo 4º, do Código de Processo Civil, em R$500,00.
+P.R.I.C.
+
+
+São Paulo, 24 de outubro de 2012.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

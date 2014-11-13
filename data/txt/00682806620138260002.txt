@@ -1,0 +1,83 @@
+
+
+SENTENÇA
+
+Processo nº:0068280-66.2013.8.26.0002
+Classe - AssuntoEmbargos À Execução - Valor da Execução / Cálculo / Atualização
+Embargante:Sempre Comércio de Softwares Ltda
+Embargado:Itaú Unibanco S/A.
+
+
+
+
+Juiz(a) de Direito: Dr(a). Alexandre Batista Alves
+
+
+Vistos.
+
+
+
+SEMPRE COMÉRCIO DE SOFTWARES LTDA apresentou embargos à execução que lhe move o BANCO ITAÚ UNIBANCO S/A alegando, em resumo, que: a) é ilegal a cobrança de juros capitalizados, nos termos da Súmula 121 do STF; b) foi reconhecida a inconstitucionalidade do art. 5º da Medida Provisória n. 2.170/2001; c) a comissão de permanência não pode ser cobrada cumulativamente com correção monetária; d) deve haver a devolução em dobro dos valores indevidamente cobrados.
+
+A inicial veio instruída com documentos (fls. 34/73).
+
+O embargado apresentou impugnação (fls. 80/89), na qual sustentou a legalidade dos encargos e juros cobrados.
+
+É o relatório.
+
+Fundamento e Decido.
+
+A matéria debatida nos autos é somente de direito e de fato comprovável por meio de prova documental, prescindindo-se da realização de outras provas, razão pela qual é de rigor o julgamento antecipado da lide.
+
+Improcedem os embargos.
+
+Frise-se, de início, que a execução está calcada em cédula de crédito bancário, documento dotado de liquidez, certeza e exigibilidade, nos termos do art. 28 da Lei n. 10.931/04.
+
+Por outro lado, anote-se que o art. 5º da MP 1.963-17, de 30/03/2000, substituída pela MP n. 2.170/36, admite a prática de capitalização de juros em periodicidade inferior a um ano nos contratos celebrados por instituições financeiras integrantes do Sistema Financeiro Nacional.
+
+Colhe-se da Cédula de Crédito Bancário (fls. 25/29) que as partes pactuaram a capitalização em periodicidade inferior ao um ano, de modo que nada há de ilegal.
+
+Ademais o art. 28, §1º, I, da Lei n. 10.931/04 permite a capitalização de juros. Mas não se trata de capitalização ilegal a incorporação de juros vencidos decorrente de saldo devedor ao capital. Os juros vencidos se convertem e se incorporam naturalmente ao capital, ao final de cada período de capitalização expresso na taxa de juros.
+
+?Quem assim entende confunde capital com renda. Capital, em um mútuo financeiro, na acepção adequada a esta exposição, é o valor atual do saldo de um débito, expresso pelo montante que resultar do capital original, acrescido dos juros vencidos, convertidos e incorporados periodicamente ao capital, abatidos os valores eventualmente pagos (parte dos juros, total dos juros, total dos juros e amortização). Juro  ou  renda  é o fruto deste capital que, após ser gerado, pelo decurso do período de geração (e se tornar, assim, juro vencido  ou  renda vencida)  - independentemente de haver ou não sido pago ? se converte e se incorpora ao capital inicial  do período, transformando-o em capital final  do período.
+A única peculiaridade da renda vencida paga, em relação à  renda vencida não paga,  é que esta última fica aplicada com o mesmo mutuário, elevando o saldo devedor de capital. Daí o equívoco comum de se considerar o juro de um segundo período como sendo representado por dois diferentes tipos de juros: o juro do capital  e o juro do juro? (Juros. Correção Monetária. Danos Financeiros irreparáveis. Uma abordagem jurídico econômica /   Romualdo Wilson Cançado e Orlei Claro de Lima ? 3.ed.rev.atual.e ampl. ? Belo Horizonte: Del Rey, 2003. pág. 27/28).
+
+Em relação às instituições financeiras, as taxas de juros e outros encargos não se sujeitam às restrições do Decreto 22.626/33 (Lei de Usura), mas à Lei 4595/64, ou seja, às deliberações do Conselho Monetário Nacional e às limitações e disciplinas ditadas pelo Banco Central. Nesse sentido é a Súmula 596 do STF.
+
+Como não há norma no Conselho Monetário Nacional limitando os juros em operações de crédito nos moldes daquela realizada entre as partes, conclui-se que legislação especial afasta a incidência do art. 4°, ?a?, da Lei 1.521/51, que se refere à taxa máxima prevista em lei.
+
+E não havendo demonstração de que a taxa de juros excede em muito a taxa média para as operações similares, o que caracteriza ofensa ao art. 4°, ?b?, da citada lei, é válida a taxa de juros cobrada pelo réu, motivo pelo qual é descabido falar em spread abusivo.
+
+Não se perca de vista que a embargante, quando da contratação, tinham a exata noção dos juros e encargos praticados, de maneira que poderiam procurar outra instituição bancária para contratar se considerassem as taxas elevadas.  
+
+É oportuno reproduzir os seguintes trechos do AgRg no Recurso Especial n. 688.627- RS (2004/012651-3), relatado pelo Min. Aldir Passarinho Júnior:
+
+?Por outro lado, ainda que aplicável às instituições bancárias a Lei n. 8.078/1990, a Segunda Seção desta Corte, em 12.03.2003, no julgamento do Resp n. 407.097/RS, relator para acórdão Ministro Ari Pargendler, sedimentou o entendimento de que o pacto referente à taxa de juros só pode ser alterado se reconhecida sua abusividade em cada hipótese, desinfluente para tal fim a estabilidade inflacionária no período, imprestável o patamar de 12% ao ano já que sequer a taxa média de mercado, que não é potestativa, se considera excessiva, para efeitos de validade da avença?.
+
+No que concerne à comissão de permanência, vale assinalar que a Resolução n. 1.129/86 do BACEN faculta aos bancos e outras instituições a cobrança de seus devedores por dia de atraso no pagamento ou na liquidação de seus débitos, além de juros de mora na legislação em vigor, comissão de permanência, a ser calculada às mesmas taxas pactuadas no contrato original ou à taxa de mercado do dia do pagamento.
+
+Assim sendo, não se afigura potestativa a cláusula que prevê a comissão de permanência, calculada pela taxa média de mercado apurada pelo Banco Central do Brasil, limitada à taxa do contrato (Súmula 294 do STJ).
+
+No caso vertente, o contrato não prevê a incidência de comissão de permanência e não há um mínimo de prova documental a comprovar que o réu cobrou este encargo cumulativamente com correção monetária, prática vedada pela Súmula 30 do STJ
+
+Vale acentuar que a embargante nem sequer apontou o valor do débito que reputa devido, conforme exigência do art. 739 A, § 5º, do CPC, o que impede o reconhecimento da alegada cobrança exorbitante de encargos financeiros e afasta a realização de prova pericial.
+
+A propósito, cabe transcrever Acórdão nesse sentido:
+
+?A versão trazida aos autos pelo embargante deve ser coerente, aceitável, pormenorizada, com demonstrativo evidente de indicação precisa e até de molde a invalidar a presunção de que goza o título representativo do débito. Não basta a genérica e indemonstrada alegação de excesso de cobrança que viriam a  invalidar  o  título. Não houve impugnação das cláusulas da cédula exeqüenda, onde os índices de verba de atualização, juros e multa estão previstos. São eles públicos, oficiais, amplamente divulgados, onde por simples cálculo aritmético pode-se chegar a resultados evidentes. Assim, incumbia ao apelante tal demonstração? ( JTACSP RT 118/171-238; 119/104).
+
+Ante o exposto, JULGO IMPROCEDENTES os embargos. Vencido o embargante, arcará com o pagamento das custas, despesas processuais e honorários advocatícios, arbitrados estes em 10% do débito.
+
+Certifique-se o desfecho nos autos principais, lá prosseguindo-se.
+
+P.R.I.
+
+São Paulo, 04 de fevereiro de 2014.
+
+
+
+
+CERTIDÃO PUBLICAÇÃO
+Certifico e dou fé que a r. sentença foi enviada ao DJE. Disponibilização em 07/02/2014 (publ. 11). Considera-se a data da publicação o primeiro dia útil subseqüente à data da disponibilização no DJE. Eu, G.F.F., Escrevente subsc. 
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

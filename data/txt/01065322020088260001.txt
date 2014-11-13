@@ -1,0 +1,109 @@
+
+
+SENTENÇA
+
+Processo nº:001.08.106532-5 - Procedimento Sumário
+Requerente:F.c.m. Comercial de Confecções Ltda - Epp
+Requerido:Citepar Parafusos e Ferramentas Ltda.epp e outros
+
+
+
+
+Juiz(ª) de Direito Dr.(ª): Enéas Costa Garcia
+
+
+
+
+Vistos. 
+
+
+
+1. F.C.M COMERCIAL DE CONFECÇÕES LTDA - EPP, qualificada nos autos, ingressou com ação contra CITEPAR PARAFUSOS E FERRAMENTAS LTDA. EPP, BANCO SAFRA S/A e HSBC BANK BRASIL S.A. ? BANCO MÚLTIPLO, alegando, em síntese, que: a) o representante da autora foi surpreendido pela informação do gerente do banco quanto a existência de protestos de títulos em nome da empresa; b) realizado levantamento junto aos Cartórios de Protesto foi constatada a existência do protesto de quatro duplicatas (2781-A, 2781-B, 2780-A e 2780-B), sacadas pela ré CITEPAR e apresentada a protesto pelos bancos co-réus; c) é irregular a emissão das duplicatas, pois não manteve negócio causal com a requerida, apto a justificar o saque dos títulos; d) houve falsa indicação do endereço da autora por ocasião da apresentação dos títulos a protesto, sendo as notificações encaminhadas para endereço diverso da sua sede.  
+Pretende o acolhimento do pedido para cancelamento dos protestos e negativação de crédito, declaração de nulidade dos títulos e condenação dos réus ao pagamento de indenização de dano moral. 
+
+2. Foi deferida tutela antecipada para suspensão dos protestos e respectivas negativações (fls. 58).
+
+3. Os réus BANCO SAFRA e HSBC BANK foram citados pessoalmente e apresentaram contestação (fls. 87/98 e 118/132).
+O réu BANCO SAFRA alega ilegitimidade passiva ad causam, afirmando que recebeu os títulos em razão de contrato de abertura de crédito celebrado com a co-ré, garantido por cessão fiducicária de duplicatas, tendo promovido o protesto na condição de endosso-mandato. Impugna, outrossim, o cabimento da indenização de dano moral. 
+O co-réu HSBC BANK invoca a ilegitimidade passiva em razão do endosso translativo do título, devendo responder a sacadora por eventual irregularidade, invocando sua condição de terceiro de boa-fé. Também impugna o cabimento de indenização.
+ 
+4. A co-ré CITEPAR foi citada por edital (fls. 200/202), tornando-se revel (fls. 203), sendo-lhe nomeado curador (art. 9º, II do CPC), que contestou por negativa geral (fls. 206/207).
+É o relatório. 
+
+DECIDO.
+
+5. O feito comporta julgamento antecipado, sendo desnecessária produção de outras provas, nos termos do art. 330, I do Código de Processo Civil. 
+
+6. A ação é PROCEDENTE. 
+
+6.1 ? Inegável a responsabilidade da ré CITEPAR. 
+Cabia à requerida demonstrar a higidez do título de crédito, para tanto juntando os comprovantes documentais (nota fiscal, documento de entrega da mercadoria) que autorizariam o saque da duplicata. 
+Porém, a requerida não se desincumbiu do ônus que lhe competia. Insuficiente a contestação por negativa geral, pois a prova do saque regular do título é exclusivamente documental, sendo inviável prova oral supletiva. 
+De outro lado, constata-se que as duplicatas foram protestadas por indicação (fls. 45/46 e 49), o que demonstra que sequer houve concreta apresentação do título de crédito para aceite, como exige a lei específica. 
+E mesmo que se fosse aceitar duplicata por indicação ? quando não seria no caso hipótese legal de sua emissão ? caberia ao credor apresentar a nota fiscal e o comprovante de entrega da mercadoria, o que não ocorreu. 
+Por fim, informou a autora que até o endereço de sua sede encontrava-se equivocadamente indicado, o que vem corroborar a alegação de emissão irregular dos títulos. 
+Assim, deve ser acolhido o pedido de declaração de nulidade dos títulos, com o conseqüente cancelamento dos protestos e negativações, respondendo a ré pela indenização reclamada. 
+
+6.2 ? Passo a análise da defesa dos bancos, analisando em primeiro lugar a preliminar de ilegitimidade passiva, por ambos argüida. 
+A matéria deduzida a título de preliminar, na verdade, diz respeito ao mérito. 
+As condições da ação ? e especialmente a legitimidade ad causam ? são aferidas, conforme a teoria da asserção, de acordo com o alegado pela parte. O juiz deve verificar, de forma hipotética, se as pessoas indicadas seriam aquelas titulares da relação material discutida no processo, pressupondo como verdadeiros os fatos alegados pelo autor. É o quanto basta para o reconhecimento da legitimidade ad causam. Verificar, in concreto, se realmente são verdadeiros os fatos alegados é matéria do mérito e eventual incongruência gera a improcedência do pedido. 
+Neste sentido a lição de JOSÉ CARLOS BARBOSA MOREIRA (Legitimidade para agir. Indeferimento de petição inicial, in Temas de direito processual, primeira série, p. 200): O exame da legitimidade, pois ? como o de qualquer das 'condições da ação' ?, tem de ser feito com abstração das possibilidades que, no juízo de mérito, vão deparar-se ao julgador: a de proclamar existente ou a de declarar inexistente a relação jurídica que constitui a res in iudicium deducta. Significa isso que o órgão judicial, ao apreciar a legitimidade das partes, considera tal relação jurídica in statu assertionis, ou seja, à vista do que se afirmou. Tem ele de raciocinar como quem admita, por hipótese, e em caráter provisório, a veracidade da narrativa, deixando para a ocasião própria (o juízo de mérito) a respectiva apuração, ante os elementos de convicção ministrados pela atividade instrutória.
+ No caso sub judice os réus foram apontados como responsáveis pelo protesto indevido, o que basta para atribuir-lhes legitimidade passiva ad causam. 
+Determinar se há esta responsabilidade, conforme os argumentos expostos, é matéria que concerne ao mérito e não às condições da ação. 
+
+6.3 ? O réu BANCO SAFRA fundamenta sua defesa na alegação de que havia endosso-mandato, que recebeu os títulos em garantia de contrato de abertura de crédito, razão pela qual não poderia ser responsabilizado pela irregularidade das duplicatas e pelo protesto. 
+É certo que a jurisprudência isenta o banco de responsabilidade quando existe endosso-mandato. Porém, quando há falha do endossatário ? mesmo no endosso-mandato ? há responsabilidade civil. 
+Nesse sentido a orientação do Superior Tribunal de Justiça:
+
+CIVIL E PROCESSUAL. AÇÃO DECLARATÓRIA C/C CANCELAMENTO DE PROTESTO E INDENIZATÓRIA. DUPLICATAS ENDOSSADAS. LEGITIMIDADE PASSIVA DO BANCO ENDOSSATÁRIO CONFIGURADA. NEGLIGÊNCIA.
+I. Na ação declaratória de inexistência de relação jurídica, cancelamento de protesto e indenizatória, devem figurar no pólo passivo tanto a empresa emitente da cártula, como o banco endossatário que enviou o título a protesto, eis que, quanto a este, impossível o processamento da demanda no que tange, pelo menos, ao cancelamento do título, sem a sua presença na lide.
+II. A responsabilidade da instituição bancária que recebe a cártula em endosso-mandato, entretanto, no que tange ao pagamento de eventual indenização e verba sucumbencial, dependerá da sua atuação, considerando-se que pratica ato gerador do dever de ressarcir os danos materiais e morais quando ou atua culposa ou dolosamente, enviando a cártula a protesto inobstante previamente advertida a respeito de possível irregularidade na cobrança, ou quando resiste, no mérito, ao pedido. Ao inverso, se não há defeito no título, não é antecipadamente cientificado sobre qualquer possível vício, e não apresenta obstáculo ao cancelamento em si, agindo com integral boa-fé e no exercício do direito assegurado no art. 17, I, da Lei Uniforme de Genebra, aprovada pelo Decreto n. 57.663/66, c/c o art.
+25, da Lei n. 5.474/68, e, ainda, o art. 43 do Decreto n.
+2.044/1908, não deve ser condenada a ressarcir, nem, tampouco, ao pagamento das custas e honorários advocatícios, imputáveis apenas à emitente.
+III. Quanto ao endosso-translativo, hipótese dos autos, o banco, advertido ou não, é automaticamente responsável pelos atos de cobrança do título, posto que o adquire com os vícios que contém, e pela sua cobrança, como titular, arca pelos danos causados perante terceiros.
+IV. Caso em que as duplicatas não possuíam aceite e nem estavam acompanhadas do comprovante de entrega das mercadorias, tendo sido levadas a protesto por falta de pagamento, inobstante tais circunstâncias que denotavam a sua irregularidade, a comprometer a higidez das cártulas havidas pelo banco mediante endosso-translativo.
+V. Recurso especial conhecido, mas improvido."
+
+(STJ - REsp 332813/MG, Rel. Ministro  ALDIR PASSARINHO JUNIOR, QUARTA TURMA, julgado em 09/10/2001, DJ 27/06/2005 p. 395 RSTJ vol. 197 p. 363).
+
+Ocorre no caso sub judice que a posição do banco não é de puro mandatário e não agiu o requerido com as cautelas exigíveis na operação de crédito. 
+Os títulos são duplicatas por indicação. Não há sinal da concreta existência do título de crédito, considerado como duplicata efetivamente emitida e encaminhada para o devedor para aceite. 
+Tratando-se de duplicata por indicação a cautela mínima que se exigia do banco, ainda que na condição de endosso-mandato, era a conferência dos documentos comprobatórios da existência do negócio causal. 
+Em outras palavras, cabia ao requerido juntar cópia da nota fiscal e do comprovante de entrega da mercadoria, demonstrando que realmente o título tinha lastro, que fora regularmente sacado. 
+A falta de aferição da regularidade do título, sua aceitação em garantia sem a mínima preocupação com os documentos comprobatórios do negócio causal, caracterizam indesculpável omissão. 
+Ademais, existe outra peculiaridade do negócio existente entre o réu e a empresa emitente do título que afasta a condição de mero mandatário. 
+As duplicatas, segundo o réu, foram entregues em caução (cessão fiduciária dos títulos) para garantir operação de abertura de crédito em favor da sacadora. 
+Neste contexto, apesar da denominação de endosso-mandato, o banco não agiu como verdadeiro mandatário, mas atuou na defesa do seu próprio interesse como credor, excutindo a garantia. 
+Conforme o item 1 do contrato celebrado entre o banco e a co-ré, esta cede fiduciariamente ao SAFRA, neste ato, a propriedade e titularidade dos Bens conforme definidos no Quadro V (etc) (fls. 106 verso).
+Portanto, o banco se tornou proprietário fiduciário dos títulos, agindo no seu próprio interesse e não como mero mandatário. Sua situação é semelhante à do credor do endosso translativo, o que lhe atribui responsabilidade no caso sub judice. 
+Em síntese, seja pela condição de proprietário fiduciário ? o que lhe coloca na mesma condição do endosso-translativo-, seja pela culpa ao receber títulos sem assegurar-se da sua higidez [inexistência do título físico (duplicata por indicação), falta de nota fiscal, comprovante de entrega de mercadoria], responde o réu pelo dano causado. 
+
+6.4 ? Inegável a responsabilidade do co-réu HSBC BANK, pois na condição de endossatário-translativo do título também suporta os efeitos da irregular emissão da duplicata. 
+Como exposto anteriormente:
+
+(...) III. Quanto ao endosso-translativo, hipótese dos autos, o banco, advertido ou não, é automaticamente responsável pelos atos de cobrança do título, posto que o adquire com os vícios que contém, e pela sua cobrança, como titular, arca pelos danos causados perante terceiros.
+IV. Caso em que as duplicatas não possuíam aceite e nem estavam acompanhadas do comprovante de entrega das mercadorias, tendo sido levadas a protesto por falta de pagamento, inobstante tais circunstâncias que denotavam a sua irregularidade, a comprometer a higidez das cártulas havidas pelo banco mediante endosso-translativo.
+V. Recurso especial conhecido, mas improvido.
+
+(STJ - REsp 332813/MG, Rel. Ministro  ALDIR PASSARINHO JUNIOR, QUARTA TURMA, julgado em 09/10/2001, DJ 27/06/2005 p. 395 RSTJ vol. 197 p. 363).
+
+
+7. O pedido de indenização de dano moral deve ser acolhido. 
+O protesto injustificado e a indevida restrição de crédito, por si só, caracterizam o dano moral, independentemente de outras consequências. 
+Desnecessária a produção de prova da existência do dano. Ampliado, porém o conceito de abalo de crédito, para compreender também as suas projeções na esfera subjetiva dos direitos da personalidade do indivíduo, já então, e contrariamente ao decidido por alguma jurisprudência, a existência do dano moral não reclama rigorosa demonstração probatória. (YUSSEF SAID CAHALI, Dano moral, p. 361).
+Como salientou o Ministro Castro Filho: Cabe ainda ressaltar que, em casos que tais, faz-se desnecessária a prova do prejuízo, que é presumido, uma vez que o dano moral decorre da própria inclusão indevida do nome do autor no cadastro de inadimplentes. (STJ ? AgRg no Ag. nº 470538/SC  - Rel. Min. Castro Filho ? j. 6/11/03)
+No mesmo sentido: Resp. nº 389.879/MG -   Rel. Min. Sálvio de Figueiredo Teixeira; Resp. nº 332.622/RJ - Rel. Min. César Asfor Rocha; Resp. nº 285.854/PB - Rel. Min. Carlos Alberto Menezes Direito; Resp. nº 51.158/ES - Rel. Min. Ruy Rosado de Aguiar.
+Passo a fixar a indenização. 
+Considerando as circunstâncias do caso, a extensão do dano e a condição econômica dos envolvidos, fixo a indenização em R$ 7.000,00 (sete mil reais), o que equivale a aproximadamente quinze salários. 
+Incide correção monetária desde a sentença (Súmula nº 362 do STJ) e juros de mora, à taxa legal, desde a citação.
+Os réus respondem solidariamente pela indenização, nos termos do art. 942 do Código Civil. 
+
+8. Diante do exposto, JULGO PROCEDENTE o pedido para: a) declarar a inexigibilidade dos títulos indicados na inicial (2781-A, 2781-B, 2780-A e 2780-B); b) determinar o cancelamento dos protestos e negativações, tornando definitiva a tutela antecipada; c) condenar os requeridos, solidariamente, ao pagamento de indenização de dano moral, no montante de R$ 7.000,00 (sete mil reais), com correção monetária desde a sentença (Súmula nº 362 do STJ) e juros de mora, à taxa legal, desde a citação. 
+Condeno os réus ao pagamento de custas, despesas processuais e de Cartório para cancelamento dos protestos, bem como dos honorários advocatícios, que arbitro em  15% do valor da condenação.  
+
+
+P. R. I
+
+
+
+São Paulo, 30 de julho de 2010.

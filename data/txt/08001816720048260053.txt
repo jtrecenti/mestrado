@@ -1,0 +1,105 @@
+
+
+SENTENÇA
+
+Processo nº:053.04.800181-6
+Classe - AssuntoProcedimento Ordinário - Assunto Principal do Processo >
+Requerente:Matrix Sistemas e Serviços Ltda.
+Requerido:Hospital das Clinicas da Faculdade de Medicina da Universidade de São Paulo-usp e outros
+
+
+
+Juiz(a) de Direito: Dr(a). Kenichi Koyama
+
+VISTOS.
+Cuida-se de Procedimento Ordinário movido por Matrix Sistemas e Serviços Ltda. em face de Hospital das Clinicas da Faculdade de Medicina da Universidade de São Paulo-usp e outros alegando ter implantado um Sistema de Informações Laboratoriais MXM/LAB nas dependências do Hospital das Clínicas da FMUSP e que esta usaria esse sistema ininterruptamente desde 1990. Mais tarde, embora o Hospital das Clínicas fosse o usuário do sistema, se convencionou inserir nos contratos firmados, a Fundação Faculdade de Medicina, que passou a remunerar o uso da licença. Contudo, quando da proximidade do término da vigência das contratações, já no ano de 2003, a autora foi informada de que a Prodesp assumiria a gestão do sistema de laboratório da ré, devendo a autora passar a tratar diretamente com esta empresa. Ocorre que a partir desse evento, a licença de uso do programa não foi renovada e, apesar das provocações formais para regularização do uso e migração do sistema, os corréus permaneceram em silêncio, usando a propriedade intelectual sem remuneração à empresa criadora. Requer a abstenção do uso não licenciado do sistema, a sua destruição e de todas as cópias, a devolução da documentação no prazo de 30 dias, sob pena de multa diária de R$5.000,00. Também se pediu indenização por danos materiais no importe de R$260.045,40 por danos emergentes e R$65.011,35 por lucros cessantes.
+Foi indeferida a tutela antecipada. Irresignada, a autora interpôs agravo de instrumento. Mais tarde, o E.Tribunal de Justiça negou provimento ao recurso.
+Citada, Fundação Faculdade de Medicina contestou o feito, trazendo aos autos preliminar de ilegitimidade passiva. No mérito, alegou que conveniou com o Hospital das Clínicas o uso do sistema para melhor atendimento à população carente, tendo sido a estipulação do contrato feito em favor de terceiro, atendendo ao princípio da boa-fé. Aduziu, ademais, abuso de poder cometido pela autora, que estava ciente da não prorrogação do contrato por seu alto custo. Requereu  a extinção do feito sem julgamento do mérito ou sua improcedência. 
+Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo também ofertou contestação, alegando que os equipamentos utilizados para o sistema não pertencem à autora e que os custos para sua utilização sempre oneraram o HCFMUSP. Ademais, a autora não teria ofertado serviços de manutenção, sendo necessário sua busca no mercado. Também teria praticado abuso do poder econômico ao ameaçar paralisação do serviço prestado. Requereu a improcedência da ação. 
+Oportunizou-se réplica para ambas as contestações, na qual a autora repisou os termos anteriores e sustentou revelia dos corréus, negada por ambos. Tal preliminar foi posteriormente afastada pelo MM. Juiz.  
+O Ministério Público deixou de apresentar manifestação.
+Foi facultada às partes especificação de provas. O corréu HCFMUSP pretendeu a oitiva de testemunhas. A autora sustentou juntada de documentos e oitiva de testemunhas. A corré Fundação Faculdade de Medicina pediu provas pericial e testemunhal. A autora reiterou seu pedido de antecipação de tutela, posteriormente indeferido pelo MM Juiz. Foi designada audiência de conciliação, que restou infrutífera. 
+Reconheceu-se conexão da presente causa com o processo nº053.04.021463-6, o qual foi apensado aos autos. Nesse processo,  HCFMUSP propôs ação contra Matrix Sistemas e Serviços Ltda. objetivando acesso ao sistema MXM/LAB.
+A ré apresentou contestação, impugnando todos os pedidos do autor e quanto à declaração de ameaças tratou-se de aviso sobre o descaso e a irresponsabilidade da administração do hospital, deixando o sistema entregue a riscos. No mais, trouxe aos autos preliminares de falta de interesse processual, de impossibilidade jurídica do pedido, de ilegitimidade ad causam do autor, de conexão, de necessidade de suspensão do processo e de dolo processual. Requereu a extinção do feito sem julgamento do mérito ou sua improcedência.
+A ré pediu produção de prova testemunhal e apresentação pelo autor do contrato firmado com a PRODESP e seu cronograma de desenvolvimento e implantação.  O réu sustentou prejuízo na conexão das duas ações. Entretanto, os autos foram remetidos à 5ª Vara da  Fazenda Pública.
+Relatados. FUNDAMENTO e DECIDO.
+Diante da conexão, julgo os feitos conjuntamente. É caso de julgamento antecipado da lide, nos termos do artigo 330, inciso I, do Código de Processo Civil, na medida em que apesar da causa denotar relevância sobre fatos e direitos, apenas nesse último há alguma controvérsia, de sorte que a causa cuida exclusivamente de interpretação do direito posto aplicável, dispensando de pronto qualquer necessidade de dilação probatória. Significa dizer, os documentos encartados nos autos são suficientes para conhecimento e julgamento da demanda.
+Calha anotar apenas por amor ao discurso que o artigo 330, inciso I, do Código de Processo Civil ao determinar o julgamento antecipado trilha o caminho saudável da razoável duração do processo, da celeridade e da economia processual, notadamente porque é preceito ínsito as causas sumamente de direito, ou de direito e fatos quando apenas aquele for ainda controverso, que seja quanto antes proferida a solução vindoura com dispensa de protelatória dilação probatória.
+Apesar de já enfrentado em r. despacho saneador, reitero.
+O feito principal se ressente da prejudicial de carência de ação por ilegitimidade passiva da Fundação Faculdade de Medicina. Em harmonia com os argumento do MM. Juiz, em que pesem os argumentos trazidos, considerando que a Fundação da Faculdade de Medicina figurou no contrato de licenciamento de software, e que admite ser contrato que tenha firmado, ainda que estipulado em favor de terceiro, reputo suficiente a pertinência subjetiva para manutenção do pólo passivo, na medida em que espontaneamente assumiu responsabilidade contratuais ao participar da relação entabulada pela Matrix Sistemas e Serviços Ltda e o Hospital das Clínicas da FMUSP. O mais, se o caso, deve ser resolvido diretamente entre a FMUSP e a Fundação Faculdade de Medicina, porque alheio à esfera da autora.
+No que toca a revelia apontada pela autora em relação ao protocolo das contestações trazidas, em tudo reitero a suspensão dos prazos ocorrida dentro do panorama de greve dos servidores públicos do Poder Judiciário ocorrida no ano de 2004.
+Na ação apensa fala-se em carência de ação por falta de interesse de agir. Sem razão. Ante as notícias versadas por ambas as partes, e mesmo diante do pedido da peça inicial que requer cessação uso, existe mínimo de necessidade a autorizar prosseguimento do feito.
+O mais das preliminares está insitamente imbricada no mérito.
+Os autos estão prontos para julgamento. A celeuma está inserida no universo da responsabilidade civil contratual. A autora responsabiliza o réu pelo uso de software de sua propriedade após cessação do contrato. Amparado pelas normas atinentes, aprecio.
+
+DA RESPONSABILIDADE CIVIL
+RESPONSABILIDADE CONTRATUAL.
+RESPONSABILIDADE EXTRACONTRATUAL.
+
+Para tanto, antes de dar ao direito, situo as balizas do tema. Cumpre lembrar das lições de ROGER PRISON e ALBERT DE VILLÉ que a responsabilidade se investiga sob o prisma da obrigação imposta pelas normas, visando a que as pessoas respondam pelas conseqüências prejudiciais de suas ações ou omissões. Em sábia observação, JOSÉ DOS SANTOS CARVALHO FILHO destacou com propriedade algo geralmente não sentido ao lecionar que
+
+no que diz respeito ao fato gerador da responsabilidade, não está ele atrelado ao aspecto da licitude ou ilicitude. Como regra, é verdade, o fato lícito é que acarreta a responsabilidade, mas, em ocasiões especiais, o ordenamento jurídico faz nascer a responsabilidade até mesmo de fatos lícitos. Nesse ponto, a caracterização do fato como gerador da responsabilidade obedece ao que a lei estabelecer a respeito.
+
+Sob esse vértice, estendendo o raciocínio preconiza RUI STOCCO que
+
+a responsabilidade civil, desde longa data, vem sendo dividida em sua fonte originária em contratual e extracontratual. Distinguiu a doutrina a responsabilidade decorrente do contrato ou das relações contratuais da responsabilidade decorrente do ato ilícito.
+
+Para o último caso, entre nós a norma tradicional invocada era contida pelo artigo 159 do antigo Código Civil, prescrição preconizada atualmente pelo artigo 186 do atual diploma, diga-se de passagem, com maior precisão e extensão, que hoje assinala o seguinte teor:
+
+Aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito.
+
+Norma mais a frente reforçada pelo artigo 927 do Código Civil quando disciplina que,
+
+Aquele que por ato ilícito (arts. 186 e 187), causar dano a outrem, fica obrigado a repará-lo.
+
+No que toca especificamente o objeto da demanda, responsabilidade civil contratual, calha emprestar as palavras de SAVATIER:
+
+A responsabilidade contratual é a inexecução previsível e evitável, por uma parte ou seus sucessos de obrigação nascida de contrato, prejudicial à outra parte ou seus sucessores.
+
+ Em outras palavras, é a infração a um dever especial estabelecido pela vontade dos contraentes, por isso decorrente de relação obrigacional preexistente.
+
+Tem-se, por primeiro, que para que se possa falar em responsabilidade contratual impõe-se, evidentemente, que exista um contrato entre contratante e contratado ou credor e dever. (...). Estabelecido o contrato, mediante formalização ou sem ela, impõe-se que cada uma das partes cumpra os deveres ali estabelecidos, por força daquela vinculação, salvo se o contrato for nulo ou seu objeto impossível ou ilegal. Ocorrendo a inexecução por quaisquer das partes, nasce o ilícito contratual, que se materializa com o inadimplemento propriamente dito ou com a constituição em mora, salvo se restar demonstrado que essa inexecução se deu em razão de causa excludente da responsabilidade, ou seja, em razão de fatores alheios à vontade da parte (art. 393 do CC). Do que se infere que a responsabilidade da parte contratante encontra supedâneo no fato de não ter ela cumprido, total ou parcialmente, a avença, o que também dá ensancha à rescisão do contrato, além das demais obrigações previstas em lei, como juros, multa, correção monetária, perdas e danos e, ainda, o dano moral em algumas circunstâncias especiais.
+
+Entre nós o tema está disciplinado no Título V, do Livro I, da Parte Especial do Código Civil Brasileiro, nos artigos 421 e seguintes. Dos dispositivos é dever sempre ter como princípio, o teor do artigo 421 e 422, desse diploma:
+
+Art. 421. A liberdade de contratar será exercida em razão e nos limites da função social do contrato.
+Art. 422. Os contratantes são obrigados a guardar, assim na conclusão do contrato, como em sua execução, os princípios de probidade e boa-fé.
+
+DA SITUAÇÃO CONCRETA.
+DO CONTRATO ENTABULADO.
+DA CESSAÇÃO DO CONTRATO
+
+Com efeito, as partes entabularam contratos, acordaram cláusulas, e determinaram penas. À cognição resta apenas aferir a existência e validade do negócio jurídico, suposta cláusula leonina, interpretação dos termos avençados, assim como eventual mora relativa ou absoluta, verdadeiramente a configurar a infração do dever especial estabelecido pela vontade dos contraentes, e se constatada, fazer cumprir o pacto celebrado. Cumpre advertir que toda a dinâmica de possibilidades não se confunde com re-celebração do contrato, porque judicialmente é tão somente cabível a re-ratificação da legalidade ampla dos termos entabulados, sem qualquer crivo de conveniência e oportunidade, em (dês) favor de qualquer das partes.
+
+Tecidas as balizas, torno ao contrato.
+
+Para fins de transparência, e para evitar dúvida no ânimo dos contratantes, identifico que o contrato administrativo firmado pelas partes para uso de software parece válido, tanto no que toca os contratos firmados, quanto os aditivos. A bem verdade, ao tempo do cumprimento ou execução contratual, tanto no que toca o uso do software MXM/Lab, quanto no pagamento das mensalidades acordadas, inexiste verdadeira discussão. Portanto, por incontroverso, reputo que o contrato existe. Constata-se não apenas do fato de ser incontroverso, mas do instrumento encartado com a inicial. Seus termos são válidos e eficazes juridicamente. As partes são capazes, o objeto é lícito, possível e determinado, e foi versado na forma escrita, consoante prescrito em lei, dentro do que prevê o artigo 104 do Código Civil, assim como os artigos 60 e 62 da Lei Federal 8.666/93.  Não há quina que mereça maior aparo. 
+
+O debate entre os contratantes se dá no campo da pós-execução contratual. Nesse aspecto, como já traçado anteriormente na introdução do tema, é de rigor lembrar que por força legal, Os contratantes são obrigados a guardar, assim na conclusão do contrato, como em sua execução, os princípios de probidade e boa-fé. Alega-se justamente no feito que na conclusão do contrato e período subsequente, haveria injustificada quebra da boa-fé.
+
+Com razão.
+
+De tudo que se verifica nos autos, tem-se seguro que os contratos firmados pelas partes, seja no momento original entre o HCFMUSP e Matrix Sistemas e Serviços Ltda, seja mais tarde, quando Fundação da Faculdade de Medicina assume contratação com Matrix Sistemas e Serviços Ltda em favor do HCFMUSP, tinha por objeto o licenciamento por parte da CONTRATADA para a CONTRATANTE, em caráter não-exclusivo, não transferível, de uma cópia do código fonte do MXM/LAB para uso em computadores do tipo IBM 4381 e MUMPS Micronetics multiusuário. Trata-se, portanto, de contrato de licenciamento de software. Os termos aditivos, dentro do que se verifica na documentação, não modificaram os lindes do objeto, mas se resumiram a modificar cláusulas de vigências e econômico-financeiras. Os novos contratos firmados, cujos instrumentos também se verificam, não mudaram tal panorama. Portanto, sob os limites tecidos pela vontade das partes, é de rigor observar que não houve transferência da propriedade intelectual sobre o software MXM/LAB em favor de qualquer das corrés, que se resumiram durante todo o período a tão somente a licenciar seu uso, limitadas por cláusulas de tempo que definiam a vigência do direito. Significa dizer, dentro das regras do licenciamento do software contratado com a Matrix Sistemas e Serviços Ltda, as corrés tinham direito efêmero que fruíram na plenitude enquanto vigente o contrato, sem que jamais, a propriedade e os direitos sobre o software tenham em qualquer parte ou proporção se transferidos em favor de qualquer das contratantes.
+
+Nalguns momentos se fala em parceria, o que dentro dos documentos não reflete qualquer verdade. As corrés Fundação Faculdade de Medicina e HCFMUSP mostram-se em vários momentos orgulhosas de terem contribuído para o aperfeiçoamento do sistema informatizado, garantindo melhorias que atenderam às suas necessidades. Ainda que não se duvide da valiosa contribuição, não encontra o argumento qualquer ressonância de fundo, na medida em que se verifica a atualização do contrato, a partir do segundo firmado, de cláusula de atualizações e melhorias, cujo teor é explícito em admitir flexibilidade do software em se atualizar durante execução do contrato, realidade que autorizaria a Matrix Sistemas e Serviços Ltda a comerciar as melhorias com quaisquer outros clientes, porque, expressamente convervava integrais seus direitos intelectuais sobre o software. Ora, desde sempre, verifica-se que, ainda que houvesse melhorias no MXM/LAB, as atualizações de maior ou menos relevância, jamais poderia incorporar aos direitos das contrantes, o que joga por terra parte das contestações.
+
+Em face disso, e dentro da própria dinâmica dos fatos contada nas contestações, é seguro confirmar por absoluta demonstração documental e comportamental das partes, que finda a vigência do contrato de licenciamento, advertidamente as corrés permaneceram usando o MXM/LAB, enquanto desejavam a criação de sistema informatizado pela PRODESP e a migração dos dados armazenados pela autora. Em defesa dessa prática levantam uma nuvem de princípios e premissas que em nada convencem o Juízo. Vale dizer que é sabido e ninguém dos autos desconhece a supremacia do interesse público, a função social do contrato, do direito de livre contratar imanente não apenas a HCFMUSP c da Fundação Faculdade de Medicina ? assim como da Matrix Sistemas e Serviços Ltda ? e a sensibilidade dos dados tratados pelo contrato. No entanto, é de rigor realçar, que tais princípios não autorizam subjugar o direito dos particulares, dos contratados, ou quiçá se apropriar da propriedade de bens materiais e imaterial. O direito desde sempre jamais tolerou o arbítrio, intuito que parece ter orientado as práticas negociais das rés.
+
+Com efeito, é de tudo louvável que se tenha apercebido que os valores de licenciamento e manutenção do software MXM/LAB escapavam aos planos de gestão do Hospital das Clínicas, e que se fazia necessário, dentro da capacidade de autogestão da autarquia, com ou sem convênio da Fundação, a busca de nova opção que gerasse ao menos concorrência, ou mesmo, que aperfeiçoado dentro das necessidades públicas da contratantes, alcançasse o grau de excelência e satisfação através da PRODESP. Ocorre que, tal decisão não se coaduna com a simples ruptura e uso inadvertido da propriedade imaterial alheia. Açodada e irresponsável a conduta do HCFMUSP que preferiu fazer ouvidos surdos aos apelos e direitos da contratada, que caro ou barato, tinha direito legítimo a ser atendido. Suas preocupações, ainda que importantes, dependiam de melhor planejamento, cronograma que incluisse preparação e testes do novo sistema e prazo de migração, quando então, dentro da liberdade de contratar, poder-se-ia, ao fim da vigência ou com pagamento de eventual multa contratual, romper o negócio jurídico, dando por fim o licenciamento do sistema.
+
+Afinal, o que verdadeiramente se verifica é a quebra da boa-fé objetiva das contratantes, que apossaram-se maliciosamente de sistema que nunca lhes pertenceu, mascarando seu arbítrio sob a falsa face do interesse público, chamando para si direito pelo manto da colaboração com as melhorias do sistema, assim como impugnando custos abusivos que por mais de década contratou livremente. Falou-se em função social do contrato e tratativas de pré-contrato, assim como de outros elevados princípios de direito, tudo enquanto a autora perseguia irresignadamente a regularização do licenciamento de software de sua propriedade, situação infelizmente, manejada despida de boa-fé da contratante, obrigando-se, por longo período, que a autora gerisse sistema à revelia de contraprestação, seja pelo licenciamento, seja pela simples manutenção dos dados.
+
+Procede o pedido de Matrix Sistemas e Serviços Ltda e Improcede o Pedido do HCFMUSP.
+Ante o exposto, julgo PROCEDENTE a ação promovida por Matrix Sistemas e Serviços Ltda, com supedâneo no artigo 269, inciso I, do Código de Processo Civil para determinar que as corrés Fundação Faculdade de Medicina e Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo se abstenham do uso não licenciado do sistema MXM/LAB, assim como determino a destruição do SISTEMA e de todas as cópias sob guarda das rés. Determino ainda a devolveram toda documentação alusiva ao sistema MXM/LAB. Condeno, por fim, as rés solidariamente a indenizarem a autora pelos danos materiais decorrente do uso irregular do sistema nos meses de janeiro a abril de 2004, no importe de R$ 260.045,40, assim como a pagar o valor mensal de R$ 65.011,35 por cada mês que ainda tiverem usado inadvertidamente o software, até termo em que efetivamente cessado o uso, tudo acrescido de correção pela Tabela Prática do E. TJSP e por juros de 6% ao ano, tudo desde a citação. Em relação à ação promovida pelo Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo, julgo IMPROCEDENTE, na forma do artigo 269, inciso I, do Código de Processo Civil.
+Custas e despesas ex lege.
+Por força do princípio da causalidade, dentro do processo promovido pela Matrix Sistemas e Serviços Ltda condeno ainda Hospital das Clinicas da Faculdade de Medicina da Universidade de São Paulo-usp e outros em honorários advocatícios. A verba honorária fica fixada em 10% sobre o valor da condenação, tudo conforme artigo 20, § 3º, do Código de Processo Civil, em favor da autora, salvo se concedida gratuidade judiciária. A seu turno, na ação ordinária promovida pelo Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo, condeno a autora em 10% sobre o valor da causa.
+P.R.I.C.
+São Paulo, 31 de agosto de 2010.
+
+
+
+
+
+Kenichi Koyama
+Juiz(a) de Direito
+Documento Assinado Digitalmente

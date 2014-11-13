@@ -1,0 +1,60 @@
+
+
+SENTENÇA
+
+Processo Digital nº:4000825-13.2013.8.26.0003
+Classe - AssuntoProcedimento Ordinário - Interpretação / Revisão de Contrato
+Requerente:Vilson Pereira dos Passos
+Requerido:Banco Itaú S/A
+
+
+Justiça Gratuita
+
+Juiz(a) de Direito: Dr(a). Samira de Castro Lorena
+
+Vistos.
+
+VILSON PEREIRA DE PASSOS propôs ação revisional de contratos com pedido de tutela antecipada contra o BANCO ITAÚ S/A, alegando, em suma, que celebrou com o réu 02 contratos de empréstimos nos valores de R$ 5.522,16 e R$ 3.705,30. Destacou que recebe uma renda mensal bruta R$ 1.015,00 e os contratos estabelecem parcelas mensais e sucessivas no patamar superior a 30% da renda (R$ 397,96 e R$ 170,07 = 568,03), sendo que o pagamento é feito com desconto em conta salário, o que reputa abusivo, por caracterizar vantagem manifestamente excessiva em favor do banco. Mencionou que o primeiro contrato estabelece, ainda, a capitalização mensal de juros, o que não foi pactuado por se tratar de contratação firmada no caixa eletrônico, além de cobrança de seguro no valor de R$ 361,60, também não solicitado pelo autor e que configura venda casada. Requereu a tutela antecipada para suspensão dos descontos referentes aos empréstimos, além de revisão do contrato com declaração de nulidade das cláusulas abusivas, limitando-se os juros simples à taxa legal sem a capitalização mensal de juros e repetição do valor pago a título de seguro. Com a inicial vieram documentos.
+A liminar foi indeferida (fls. 42).
+O réu foi citado (fls. 46) e apresentou contestação (fls. 57/71), alegando, em suma, que os contratos de empréstimo formalizados por meio de caixa eletrônico não apresentam qualquer abusividade em suas cláusulas, sendo regular a cláusula que prevê débito em conta das prestações dos empréstimos em percentual superior a 30%, configurando garantia do credor que haverá adimplemento automático por parte do devedor, o que permite à instituição financeira e ao contratante uma menor taxa de juros. Salientou que a conta do autor não é salário, mas conta corrente que não está restrita ao recebimento e saque de salários. Destacou também que os juros cobrados estão de acordo com os praticados no mercado financeiro e legalidade da capitalização de juros, bem assim da contratação de seguro. Enfim, impugnou o pedido de repetição do indébito e o cálculo apresentado. Juntou documentos.
+Houve réplica (fls. 75/78).
+Manifestação do réu (fls. 85/86).
+O autor juntou documentos (fls. 87/92). 
+
+É o relatório.
+Fundamento e Decido.
+
+Passo ao julgamento antecipado em conformidade com o artigo 330, I do Código de Processo Civil, pois o processo está devidamente instruído com documentos sendo desnecessária a produção de outras provas. 
+Com efeito, trata-se de ação de revisão de dois contratos de empréstimos firmados entre as partes (fls. 26/28 e 34/36), objetivando a limitação dos descontos efetuados, bem assim exclusão da capitalização mensal de juros e declaração de abusividade, bem assim a repetição do valor pago a título de seguro (R$ 361,60), previsto no segundo negócio mencionado.
+Pois bem. 
+Analisando a documentação carreada aos autos, em especial fls. 20/23 e 88/92, verifica-se que as parcelas dos empréstimos celebrados entre as partes, que totalizam R$ 568,03, debitados na conta corrente que o autor recebe seu salário, superam, de fato, o montante de 30% de seus rendimentos líquidos (rendimentos menos INSS e IR), que variam de R$ 597,00 a R$ 1.813,20.
+Todavia, a retenção pelo banco depositário de parte substancial do salário do consumidor é conduta de manifesta ilegalidade, seja por implicar constrição indireta de bem impenhorável (art. 649, inciso IV, do CPC), seja por afrontar ao princípio constitucional de proteção ao salário (art. 7°, inciso X, da CF).
+Logo, afigura-se medida de justiça a limitação da retenção efetuada pelo banco ao percentual de 30% do salário líquido.
+Confira-se a jurisprudência do STJ e TJSP:
+"CONTRATO DE MÚTUO BANCÁRIO - DÉBITO EM CONTA CORRENTE - LIMITAÇÃO DO DESCONTO - DECISÃO AGRAVADA MANTIDA - IMPROVIMENTO.
+I - "Ante a natureza alimentar do salário e do princípio da razoabilidade, os empréstimos com desconto em folha de pagamento (consignação facultativa/voluntária) devem limitar-se a 30% (trinta por cento) dos vencimentos do trabalhador" (STJ REsp 1.186.965/RS, Rel. Min. MASSAMI UYEDA, DJe 03.02.2011).
+II - O Agravante não trouxe nenhum argumento capaz de modificar a conclusão do julgado, a qual se mantém por seus próprios fundamentos. Agravo Regimental improvido. (AgRg no Ag 1381307 / DF, Ministro SIDNEI BENETI, 3ª Turma, j. 12/04/2011, DJe 27/04/2011);
+RECURSO ESPECIAL - NEGATIVA DE PRESTAÇÃO JURISDICIONAL - ALEGAÇÃO GENÉRICA - APLICAÇÃO, POR ANALOGIA, DA SÚMULA N. 284/STF - EMPRÉSTIMO DESCONTO EM FOLHA DE PAGAMENTO/CONSIGNADO - LIMITAÇÃO EM 30% DA REMUNERAÇÃO RECEBIDA - RECURSO PROVIDO?. (...)
+2. ?Ante a natureza alimentar do salário e do princípio da razoabilidade, os empréstimos com desconto em folha de pagamento (consignação facultativa/voluntária) devem limitar-se a 30% (trinta por cento) dos vencimentos do trabalhador. (STJ REsp 1186965 / RS - Recurso Especial 2010/0052382-7  Relator: Ministro Massami Uyeda Terceira Turma Julgado em 07/12/2010 Data da Publicação/Fonte: DJe 03/02/2011);
+CONTA CORRENTE - VENCIMENTOS ? FUNCIONÁRIO PÚBLICO - RETENÇÃO DE SALDO PARA AMORTIZAÇÃO DE DÉBITO RESCISÃO UNILATERAL DO CONTRATO DE CHEQUE ESPECIAL - INADMISSIBILIDADE - É ilegal a retenção dos vencimentos na conta corrente do consumidor, para o fim de pagamento de débito existente junto à instituição financeira, acaso não exista cláusula expressa presente no débito ou desconto. Possibilidade, em casos excepcionais, da retenção em percentual de 30% do salário - Medida tomada que impede o correntista, devedor e consumidor, de discutir eventuais ilegalidades em ação própria, além de contornar a não incidência da penhora sobre salário - Art. 649, IV do CPC, art. 7°, inciso X, da CF, e arts. 39, V, 42, 51, IV e 51, § 1°, II, do CDC ? Apelo provido. INDENIZAÇÃO - DANOS MORAIS - OCORRÊNCIA RESPONSABILIDADE - VALOR -Responsabilidade do banco caracterizada - Autor que não conseguiu efetuar o pagamento de suas obrigações, em face da errônea conduta do réu - Ainda que não houvesse comprovação, o dano moral puro é presumível (...)- Apelo provido (TJSP Apelação n° 991050275748 24ª Câmara de Direito Privado Rel. Salles Vieira Data do Julgamento: 04/02/2010).
+Outrossim, irrelevante que as parcelas dos empréstimos não sejam pagas mediante desconto em folha de pagamento ou conta exclusivamente salarial, mas por desconto em conta corrente, já que restou comprovado que nesta o autor percebe seu salário. 
+Destaco, ainda, que a limitação imposta para os descontos não importa modificação dos termos contratuais.
+Por outro lado, o questionamento sobre a capitalização de juros em período inferior a um ano não merece acolhida, uma que a prática passou a ser expressamente permitida às instituições financeiras, desde que expressamente pactuada, a partir da edição da Medida Provisória nº 1.963-17 (art. 5o, caput), de 30/03/2000 e atualmente em vigor por força da Medida Provisória nº 2.170-36, tendo em conta o estatuído pelo artigo 2º da Emenda Constitucional nº 32, de 11/09/2001.
+Nesse sentido: 
+?CIVIL. MÚTUO. INSTITUIÇÃO BANCÁRIA. SISTEMA FINANCEIRO NACIONAL. JUROS REMUNERATÓRIOS. LIMITAÇÃO. 12% AO ANO IMPOSSIBILIDADE. CAPITALIZAÇÃO. PERIODICIDADE MENSAL. MEDIDA PROVISÓRIA Nº. 2.170-36/2001. INCIDÊNCIA.
+1. O STJ, quanto aos juros remuneratórios, tem entendimento assente no sentido de que, com a edição da Lei 4.595/64, não se aplicam as limitações fixadas no Decreto 22.626/33 de 12 % ao ano, aos contratos celebrados com as instituições integrantes do Sistema Financeiro Nacional, ut súmula 596/STF, salvo nas hipóteses previstas na legislação específica.
+2. Aos contratos de mútuo bancário, celebrados a partir de 31 de março de 2000, data da primitiva publicação do art. 5º, da MP nº. 1963-17/2000,  atualmente reeditada sob o nº. 2.170-36/2001, incide a capitalização mensal, desde que pactuada. A perenização da sua vigência deve-se ao art. 2º da Emenda Constitucional nº. 32 de 12 de setembro de  2001.? (Resp. 629487/RS, 4ª T, Relator Ministro Fernando Gonçalves). Grifo nosso.
+Desta feita, no caso concreto, verifica-se que há previsão expressa nos contratos em análise da periodicidade mensal da capitalização de juros por meio das taxas de juros remuneratórios prefixadas (contrato de fls. 26/28: custo efetivo mensal de 3,70% e anual de 55,67% ano e contrato de fls. 34/36: custo mensal de 6,55% e anual 116,50%), sendo relevante transcrever o que restou recentemente decidido pelo Superior Tribunal de Justiça no REsp nº 973.827/RS:
+?Para os efeitos do artigo 543, C, do CPC, foram fixadas as seguintes teses:
+1) É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31/3/2000, data da publicação da Medida Provisória nº 1.963-17/2000, em vigor como MP nº 2.170-01, desde que expressamente pactuada;
+2) A capitalização dos juros em periodicidade inferior à anual deve pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada.?  (Grifo nosso).
+Assim sendo, reputa-se lícita a cobrança de juros capitalizados mensalmente nos empréstimos celebrados entre as partes.
+Por fim, também não há nenhuma irregularidade na cobrança do seguro (R$ 361,60) , porquanto expressamente pactuado, sem que se verifique a existência de quaisquer indícios de que referido encargo foi contratado como condição precípua para concessão do empréstimo. Note-se a respeito disso que apenas em um contrato foi contratado o seguro.
+Logo, a ação é procedente em parte apenas para limitar os descontos dos empréstimos ao percentual de 30% dos rendimentos líquidos do autor. 
+Ante o exposto e pelo mais que dos autos consta, julgo PROCEDENTE EM PARTE o pedido inicial, para o fim de limitar os valores das parcelas dos empréstimos de fls. 26/28 e 34/36 em 30% dos rendimentos líquidos do autor, extinguindo-se o processo nos termos do artigo 269, inciso I, do Código de Processo Civil.
+Em razão da sucumbência recíproca, cada uma das partes arcará com as custas e despesas que deram causa em com os honorários advocatícios dos seus patronos.
+P.R.I.
+São Paulo, 24 de abril de 2014.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

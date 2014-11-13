@@ -1,0 +1,47 @@
+
+
+INCLUDEPICTURE "brasoes\\2.bmp" MERGEFORMAT \d \w1350 \h1425TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO
+COMARCA de SÃO PAULO
+Foro Regional I - Santana
+8ª Vara Cível
+Avenida Engenheiro Caetano Álvares, 594, 2º andar, sala 242, Casa Verde - CEP 02546-000, Fone: (11) 3951-2525, São Paulo-SP - E-mail: santana8cv@tjsp.jus.br 0021053-54.2011.8.26.0001
+
+DECISÃO INTERLOCUTÓRIA
+
+Processo nº:0021053-54.2011.8.26.0001 - Procedimento Sumário
+Requerente:Ana Valeriano Amarães
+Requerido:Seguradora Líder dos Consórcios do Seguro DPVAT S.A.
+
+Exma. Sra. Dra. Juíza Ana Luiza Queiroz do Prado
+
+
+Vistos.
+
+Cuida-se de embargos à declaração visando sanar contradição apontada na sentença de fls. 83/84, a qual reconheceu a prescrição do direito de ação para obtenção da indenização advinda do SEGURO DPVAT, nos termos do relatório e documentos juntados com a inicial.
+
+Considerando os efeitos infringentes perseguidos nos embargos de declaração, a parte contrária foi intimada a se manifestar a fls. 97, quedando-se inerte, todavia, nos termos de fls. 99.
+
+É o relatório, decido.
+
+Com efeito, a contradição apontada merece reparos na medida em que sendo causa de pedir um óbito ocorrido em 1987, certo é que o prazo prescricional se regula pelo Código Civil anterior, ou seja, 20 anos. 
+
+E assim, sendo, notório que a ação ajuizada em 2006, como se depreende do primeiro processo em apenso, teve o condão de interromper o aludido prazo vintenário, de modo que, com efeito, fica afastada a hipótese de prescrição. 
+
+Inicialmente, no tocante à prescrição, tem-se que o fato gerador da pretensão da parte autora ocorreu na vigência do Código Civil de 1916 (05/12/1987), que não previa expressamente o prazo prescricional para as ações de seguro obrigatório, aplicando-se a regra geral contida no art. 177, referente às ações pessoais, que prescreviam ordinariamente em vinte anos.
+
+Na hipótese dos autos, tendo o acidente ocorrido antes da entrada em vigor do Código Civil atual, para os efeitos das normas supramencionadas relativas à prescrição, tem-se que deveria ter decorrido, para incidência de prazo prescricional de vinte anos (lei revogada), período superior a dez anos até dezembro de 2006.
+
+Afastada a hipótese de prescrição, portanto, resta a analise do mérito do pedido.
+
+Destarte, a parte autora faz jus ao recebimento da indenização securitária, conforme o disposto no art. 3º, a, da Lei 6.194/74 na forma vigente à época do sinistro, cuja literalidade dispunha: Os danos pessoais cobertos pelo seguro estabelecido no art. 2o desta Lei compreendem as indenizações por morte, por invalidez permanente, total ou parcial, e por despesas de assistência médica e suplementares, nos valores e conforme as regras que se seguem, por pessoa vitimada: a) - 40 (quarenta) vezes o valor do maior salário-mínimo vigente no País - no caso de morte. A jurisprudência continua admitindo a fixação da indenização pelo seguro obrigatório no equivalente a salários mínimos, merecendo ser invocada, a propósito, a observação de Carlos Roberto Gonçalves:
+
+Apesar da discussão em torno da Lei 6.205/75, que desvinculou do salário mínimo os reajustes de valores em geral, o Superior Tribunal de Justiça acabou direcionando a sua jurisprudência no sentido de que As leis nºs 6.205 e 6.423 não revogaram o critério de fixação da indenização (Lei n. 6.194/74, art. 3º) em salários mínimos, quer pelo marcante interesse social e previdenciário deste tipo de seguro, quer porque a lei anterior estabeleceu critério de fixação do valor indenizatório, não se constituindo em fatos de correção monetária a que se referem as leis supervenientes. Recurso especial não conhecido (Resp 12.145-SP, 4ª T., Rel. Min. Athos Carneiro, j. 8-12-1991, DJU, 11 nov. 1991, p. 16151, Seção I, ementa).
+
+Nesse sentido:
+DPVAT. Ação de cobrança de seguro obrigatório por morte julgada parcialmente procedente. Indenização correspondente a 40 salários mínimos. Recursos de ambas as partes. Ilegitimidade passiva da seguradora afastada. Qualquer seguradora participante do consórcio pode responder pelo pagamento da indenização do seguro obrigatório, independentemente do pagamento administrativo inferior ter sido realizado por outra seguradora. Quitação que se limita à quantia efetivamente recebida. Possibilidade do recebimento da diferença, calculada com base no salário mínimo vigente à época do óbito, em razão de não poder, o salário mínimo, ser usado como fator de correção monetária, por inteligência do inciso IV, do art. 7º da Constituição Federal. Aplicação dos juros de mora desde a citação, nos termos da Súmula 426 do STJ. Mantida a sucumbência recíproca imposta da sentença. Recursos não providos. (Apelação nº 9080647- 48.2008.8.26.0000). 
+
+Assim, provado o óbito e sua causa, bem como patente na jurisprudência a desnecessidade de prova de requerimento administrativo, dou provimento aos embargos para MODIFICAR a sentença de fls. 83/84, mantendo apenas o respectivo relatório, para JULGAR PROCEDENTE O PEDIDO INICIAL a fim de condenar a parte ré ao pagamento de 40 salários mínimos vigentes à época do óbito, corrigidos monetariamente desde a propositura da ação e acrescidos de 1% de juros mensais desde a citação. Com a sucumbência, fica a parte ré condenada ao pagamento das custas e honorários que fixo em 10% sobre o valor atualizado da condenação.
+
+PRIC. 
+
+São Paulo, 12 de dezembro de 2011.

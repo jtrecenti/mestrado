@@ -1,0 +1,84 @@
+
+
+SENTENÇA
+
+Processo nº:0011173-08.2013.8.26.0053
+Classe ? Assunto:Procedimento Ordinário - Indenização por Dano Moral
+Requerente:Misrael Desenvolvimento de Softwares Ltda - Me
+Requerido:Prefeitura do Municipio de São Paulo
+
+
+C O N C L U S Ã O
+
+Em 18 de julho de 2013, encaminho estes autos para conclusão. 
+Alexandre Ismail Miguel, Assistente Judiciário, subscrevi.
+
+
+Juiz(a) de Direito: Dr(a). Cristiane Vieira
+
+
+Vistos.
+
+Relatório dispensado, nos termos do art. 38 da Lei n.º 9.099/95.
+DECIDO. 
+
+A autora teve suspensa sua autorização para emissão de nota fiscal eletrônica, com fulcro na Instrução Normativa SF/SUREM nº 19/2011, em razão da existência de débitos de ISS. Pretende em juízo a cassação do ato administrativo que determinou essa suspensão, alegando que a mesma ofende a Constituição Federal  e a jurisprudência do Supremo Tribunal Federal, bem como impede o exercício de atividade econômica.
+
+A demanda é parcialmente procedente.
+
+Trata-se de demanda contra ato da Administração Pública que suspendeu a emissão de nota fiscal eletrônica pela impetrante, em razão de sua condição de inadimplente com relação ao ISS, com fulcro na Instrução Normativa SF/SUREM nº 19, de 16/12/2.011, que assim estabeleceu:
+________________________________
+Art. 1º. A emissão da Nota Fiscal de Serviços Eletrônica NFS-e para pessoas jurídicas e condomínios edilícios residenciais ou comerciais estabelecidos no Município de São Paulo terá sua autorização suspensa quando o contribuinte, pessoa jurídica domiciliada no Município de São Paulo, estiver inadimplente em relação ao recolhimento do Imposto sobre Serviço de Qualquer Natureza ISS.
+Art. 2º Para fins de suspensão da autorização da emissão da NFS-e de que trata o artigo 1º, considera-se inadimplente em relação ao recolhimento do ISS o contribuinte, pessoa jurídica domiciliada no Município de São Paulo, que alternativamente: I deixar de recolher o ISS devido por 4 (quatro) meses de incidência consecutivos; II - deixar de recolher o ISS devido por 6 (seis) meses de incidência alternados dentro de um período de 12 (doze) meses. 
+Art. 3º A autorização para emissão da NFS-e ocorrerá sempre que a regularização de débitos pelo contribuinte desenquadre das condições previstas nos incisos I e II do artigo 2º."
+Finalizando, o artigo 4º estabelece que, nestes casos, os tomadores de serviço emitirão a Nota Fiscal Eletrônica do Tomador/Intermediário de Serviços, recolhendo o tributo e retendo-o na fonte. Com razão a parte autora, eis que a Instrução referida é inconstitucional.
+Em primeiro lugar, ela de fato ofende jurisprudência consolidada dos nossos Tribunais, especialmente da Corte Suprema, no sentido de considerar ilegais quaisquer atos do fisco que importem em restrição ao livre exercício da atividade econômica, bem como da utilização de medidas coercitivas para compelir o contribuinte ao pagamento dos tributos.
+
+Este entendimento foi claramente estampado nas Súmulas 323 e 547, do STF, e especialmente na Súmula 70, assim descrita: "É inadmissível a interdição do estabelecimento como meio coercitivo para cobrança do tributo." Ora, é inegável que a suspensão da autorização do prestador de serviços para a emissão da nota fiscal eletrônica lhe causa um constrangimento desmesurado diante de seus clientes, que ameaça o seu bom nome e a regularidade de suas atividades.
+Com efeito, o prestador de serviços deverá obrigatoriamente informar ao tomador que está impedido de emitir a nota fiscal eletrônica, em razão de débitos de ISS que mantém junto à Prefeitura, circunstância que, por si só, pode colocar sob suspeita a sua idoneidade e, eventualmente, impedir, obstaculizar, ou até mesmo desfazer uma negociação já estabelecida.
+Não se olvide que nem todo devedor é sonegador, nem deixa de honrar seus compromissos tributários por vontade própria. De fato, muitas vezes a condição de inadimplente decorre de um revés comercial, ou ainda de uma dificuldade transitória do mercado ou de cunho pessoal, sendo que este constrangimento imposto ao prestador de serviços certamente agravará ainda mais sua situação financeira já delicada.
+Ademais, o prestador de serviços ainda dependerá da "boa vontade" do tomador/intermediário, que deverá anuir com a emissão da nota fiscal de tomador/intermediário, retendo o ISS na fonte e recolhendo-o junto ao Fisco. Isto porque, diante de tal "transtorno", é bastante plausível que o tomador de serviços simplesmente busque contratar outro prestador que não apresente tal dificuldade, e possa, ele próprio, emitir a nota fiscal eletrônica e recolher o tributo.
+Não há como ignorar que, embora a transferência desta obrigação ao tomador/intermediário não impeça o exercício da atividade econômica, ela certamente acarretará consideráveis dissabores e constrangimentos ao prestador de serviços, pois inegavelmente prejudicará o bom andamento de seus negócios e lhe trará prejuízos.
+
+Sobre o tema, oportuno transcrever trecho de acórdão da lavra do Des. Paulo Magalhães Coelho, do TJSP, sobre o tema:
+
+"Com efeito, muito embora não se pretenda aqui adentrar ao mérito da causa, que será enfrentado pelo d. magistrado de 1º grau quando do proferimento da sentença, tenho que, numa análise perfunctória, a Instrução Normativa SF/SUREM nº 19/2011, em que pese, em tese, permita, como forma de manutenção do exercício da atividade econômica, a emissão da Nota Fiscal Eletrônica do Tomador/Intermediário de Serviços NFTS, em verdade, a alternativa obriga o prestador de serviço a ter de convencer o tomador a emiti-la em seu lugar, tratando, pois, a regra, uma forma de coagir o devedor ao pagamento, pena de inibir-lhe a clientela e, por consequência lógica implicar, se não na inviabilização de sua atividade, ao menos na sua obstaculização, uma vez que é da própria prática de mercado a necessidade da apresentação da Nota Fiscal como forma de receber pelo serviço prestado."
+
+Nesta toada, conclui-se que a Instrução Normativa referida contraria as Súmulas do Supremo Tribunal Federal supra descritas, pois ofende o livre exercício da atividade comercial e, por conseqüência, viola o disposto no artigo 170, parágrafo único, e artigo 5º, inciso XII, ambos da Constituição Federal, que asseguram ser livre o exercício de qualquer trabalho, ofício ou profissão, desde que atendidas as qualificações profissionais que a lei estabelecer, sendo assegurado a todos o exercício de qualquer atividade econômica, independentemente de autorização dos órgãos públicos, salvo nos casos previstos em lei.
+
+Não prospera, outrossim, o argumento de que o caso é de mera responsabilidade do tomador de serviços por substituição tributária estabelecida pelo Fisco Municipal.
+Com efeito, alega a autoridade coatora que a instrução tem como missão a regulamentação da Lei Municipal 13.701/03, que estabeleceu a responsabilidade tributária do tomador de serviços em casos específicos como o presente.
+Não se desconhece que tanto o Código Tributário Nacional, quanto a Lei Complementar Federal 116/03, estabelecem a responsabilidade tributária por substituição, ou seja, a possibilidade de que os Estados e Municípios "transfiram" a responsabilidade pelo recolhimento do tributo do contribuinte de fato para terceira pessoa, que de alguma forma esteja ligada à relação tributária respectiva.
+E, a fim de viabilizar a aplicação destes dispositivos, o Município de São Paulo editou em 2.003 a Lei 13.701, que assim dispõe: 
+________________________________
+Art. 7º - O tomador de serviço deverá exigir Nota Fiscal de Serviços, Nota Fiscal-Fatura de Serviços, ou outro documento exigido pela Administração, cuja utilização esteja prevista em regulamento ou autorizada por regime especial. 
+§ 1º - O tomador de serviço é responsável pelo Imposto sobre Serviços de Qualquer Natureza - ISS, e deve reter e recolher o seu montante, quando o prestador: 
+I - obrigado à emissão de Nota Fiscal de Serviços Eletrônica, Cupom Fiscal Eletrônico, ou outro documento exigido pela Administração, não o fizer; 
+II - desobrigado da emissão de Nota Fiscal de Serviços, Nota Fiscal-Fatura de Serviços, ou outro documento exigido pela Administração, não fornecer; (...)
+B) comprovante de que tenha sido recolhido o Imposto correspondente ao exercício anterior, salvo se inscrito posteriormente." (grifos nossos)
+Afirma, pois, o réu, que a Instrução Normativa 19 foi editada com fundamento na Lei Municipal referida. Entretanto, razão não lhe assiste, pois a Lei supra transcrita não abarca a hipótese discutida neste feito.
+Isto porque, o contribuinte com débitos de ISS é literalmente proibido de emitir a nota fiscal eletrônica enquanto não quitar integralmente o débito tributário, de forma que não convence o argumento de que a administração tributária simplesmente o "desobrigou" do cumprimento da obrigação acessória referida.
+Como já exposto acima, a utilização da expressão "suspensão da autorização de emissão da NFS-e" não permite dúvidas quanto à verdadeira vedação temporária de emissão do documento pelo prestador de serviços, com inegável caráter sancionatório e coercitivo, porquanto a autorização é restabelecida assim que os débitos de ISS são integralmente quitados junto ao fisco municipal.
+Esta natureza punitiva da medida não se coaduna com o termo "desobrigado", utilizado no artigo 7º, § 1º, inciso II, da Lei Municipal referida, cujo significado leva obrigatoriamente à conclusão de que se aplica de forma exclusiva ao contribuinte que efetivamente deixa de ter a aludida obrigação por qualquer outro motivo, que não a imposição de uma verdadeira sanção administrativa.
+Em outras palavras, o prestador de serviços não se torna "desobrigado" de emitir a nota fiscal eletrônica, e sim proibido de fazê-lo até que pague todos os tributos, situações absolutamente distintas e inconfundíveis.
+Outrossim, o caso igualmente não está abrangido pelo texto do inciso I, porquanto o prestador de serviços não deixou de emitir a nota fiscal por vontade própria, mas sim por proibição da própria administração tributária, como já exaustivamente exposto.
+Denota-se, pois, que a Lei Municipal 13.701/03 não previu a hipótese criada pela Instrução Normativa 19, a saber, a suspensão da autorização de emissão de nota fiscal eletrônica pelo prestador de serviços com débitos de ISS. E, nesta toada, restaram também descumpridos os artigos 128, do CTN, e 6º, da Lei 116/03, porquanto ambos exigem que a responsabilização por substituição tributária seja estabelecida por meio de Lei.
+Desta feita, conclui-se que a Instrução Normativa nº 19 desbordou os limites da sua função meramente regulamentar, tendo criado hipótese de responsabilidade por substituição tributária não prevista na legislação de regência.
+Releva notar, outrossim, que a hipótese não cuida de mera "substituição tributária" quanto ao cumprimento de simples obrigação acessória, a saber, a emissão do documento fiscal, como infirma a impetrada, pois ao tomador/intermediário incumbe, nestes casos, não apenas a emissão da nota fiscal, mas também o cumprimento da obrigação principal, a saber, o recolhimento do tributo em favor do fisco, e a retenção do imposto quando do pagamento do serviço, circunstância que infirma a ilegalidade verificada no tratamento da questão por meio de simples Instrução Normativa.
+Assim, em se tratando de disposição inconstitucional, que igualmente desobedece a legislação complementar federal acima descrita, não pode prevalecer, devendo ser restabelecida a autorização da parte autora para a emissão de notas fiscais eletrônicas, independentemente da existência de débitos de ISS.
+
+Por outro lado, não há que se falar em ocorrência de danos morais. Ausentes nos autos elementos que comprovem danos à reputação da pessoa jurídica. A Lei 12.767/12 deixou claro ser possível protesto de Certidão de Dívida Ativa, meio extrajudicial que muitas vezes é eficaz para cobrança de débitos com a Fazenda Pública, devendo ser incentivado em benefício da eficiência e celeridade processual.
+
+Posto isto, julgo a demanda PARCIALMENTE PROCEDENTE para o fim de cassar o ato da autoridade coatora que suspendeu a autorização da parte autora para emitir a nota fiscal eletrônica, em razão de débitos de ISS, pela aplicação da Instrução Normativa SUREM 19/2011. 
+
+Fica mantida a tutela antecipada concedida.
+
+Custas indevidas nos termos do art. 54 da Lei 9.099/95.
+
+P.R.I.
+
+São Paulo, 18 de julho de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

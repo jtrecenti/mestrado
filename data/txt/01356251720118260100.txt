@@ -1,0 +1,96 @@
+
+
+SENTENÇA
+
+Processo nº:0135625-17.2011.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Direito de Imagem
+Requerente:Jose Claudio Martarelli
+Requerido:Google Brasil Internet Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Og Cristian Mantuan
+
+
+Vistos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+JOSÉ CLÁUDIO MARTARELLI, devidamente qualificado nos autos em epígrafe, move ação ordinária de obrigação de fazer com indenização por danos morais contra GOOGLE BRASIL INTERNET LTDA, alegando em síntese, que a requerida vem de forma direta, repetitiva e consciente divulgando e reproduzindo uma vasta série de matérias em uma campanha contínua e eterna de injúrias, difamações e calúnias que já destruíram a vida do autor, bem como sua reputação pessoal e profissional.
+
+Relata o requerente que notificou a ré judicialmente, mas de nada adiantou.
+
+Liminar indeferida conforme fls. 29.
+
+Citada a ré conforme fls. 35, apresentou contestação conforme fls. 37/65, alegando em preliminar ilegitimidade passiva e no mérito defendeu a legalidade de sua conduta.
+
+Réplica às fls. 96/111.
+
+Saneador conforme fls. 212.
+
+Laudo pericial juntado conforme fls. 227/262, e seguiram manifestações das partes conforme fls. 265/266 e 267/270.
+
+É o relatório.
+
+FUNDAMENTO E DECIDO.
+
+Os pedidos são improcedentes.
+
+O autor juntou nos autos às fls. 25/26 impressos de resultado de pesquisas com seu nome 'Jose Claudio Martarelli' e apareceram informações de sites públicos como STJ, Tv Justiça, Diários Oficiais, bem como de sites privados como Conjur, JusBrasil e etc, só que o requerente não comprovou nos autos que as veiculações era abusivas, inverídicas ou ofensivas.
+
+O laudo pericial não indicou responsabilidade da ré.
+
+Com efeito, às fls. 233, em resposta ao quesito 2 o D.Perito assim afirmou: ?...A ferramenta de buscas denominada Google Search é um organizador das informações disponibilizadas por terceiros na internet, ou seja, a Google não edita os conteúdos das informações e não os armazena em seus servidores, apenas as coleta e organiza...?
+
+Na sequência o Perito conclui às fls. 236: ?...A requerida não possui um mecanismo de monitoramento e varredura de conteúdo para bloqueio das informações de sites de terceiros...?
+
+Desse modo, em remate apontou às fls. 237: ?...A requerida não tem mecanismos de controle das informações que são exibidas no Google Search, pois estas informações são inseridas na rede por terceiros e a Google Search apenas  as coleta e as cataloga, não havendo mecanismos de filtragem por conteúdo...?
+
+(...)
+
+?...Não se conhece nenhuma tecnologia disponível e eficiente que possa ser utilizada como filtros ou mecanismos automatizados que poderiam interpretar o contexto e o sentido dos conteúdos inseridos na rede Internet pelo usuário...? (fls. 238)
+
+Note-se que a edição, filtragem seria uma espécie de censura prévia à liberdade de informação e de expressão, não havendo lei que imponha tal dever à ré.
+
+                   A ré não responde por eventuais danos morais sofridos pelo autor, uma vez que não é responsável pela edição do conteúdo das informações supostamente ofensivas.
+
+                  Em caso similar, decidiu o des. relator Egídio Gicócia ?patente que a ferramenta de buscas das rés não é, por si mesma, capaz de normalmente causar o dano alegado pelos autores, não tendo interferência decisiva para tanto. Se houve dano, este decorre do conteúdo dos websites, o que apenas pode ser imputado aos seus respectivos proprietários. As ferramentas de busca das rés não passam de condições que concorrem para o resultado lesivo alegado pelos autores; ainda assim, não chegam a configurar uma causa adequada à produção deste e, portanto, não são capazes de gerar responsabilidade civil. Só haveria que se falar na responsabilidade civil da GOOGLE ou da YAHOO em virtude dos resultados encontrados em suas ferramentas de busca na hipótese de, antecipados os efeitos da tutela obrigacional, fosse descumprida a determinação para a retirada de determinados links do índice de seus respectivos sistemas?.(TJSP - 3ª Câmara de Direito Privado ? Apelação nº. 9084538-43.2009.8.26.0000, rel. Des. JESUS LOFRANO, j. 19.02.2013)
+
+Não é o caso dos autos, pois a ré não estava obrigada por liminar a excluir os conteúdos impugnados pelo autor.
+
+Desse modo, o STJ, no REsp nº. 1316921/RJ, de relatoria da Exma. Sra. Dra. Ministra NANCY ANDRIGHI entende que não há responsabilidade civil da ré: 
+
+CIVIL E CONSUMIDOR. INTERNET. RELAÇÃO DE CONSUMO. INCIDÊNCIA DO CDC. GRATUIDADE DO SERVIÇO. INDIFERENÇA. PROVEDOR DE PESQUISA. FILTRAGEM PRÉVIA DAS BUSCAS. DESNECESSIDADE. RESTRIÇÃO DOS RESULTADOS NÃO-CABIMENTO. CONTEÚDO PÚBLICO. DIREITO À INFORMAÇÃO.
+1. A exploração comercial da Internet sujeita as relações de consumo daí advindas à Lei nº 8.078/90.
+2. O fato de o serviço prestado pelo provedor de serviço de Internet ser gratuito não desvirtua a relação de consumo, pois o termo "mediante remuneração", contido no art. 3º, § 2º, do CDC, deve ser interpretado de forma ampla, de modo a incluir o ganho indireto do fornecedor. 
+3. O provedor de pesquisa é uma espécie do gênero provedor de conteúdo, pois não inclui, hospeda, organiza ou de qualquer outra forma gerencia as páginas virtuais indicadas nos resultados disponibilizados, se limitando a indicar links onde podem ser encontrados os termos ou expressões de busca fornecidos pelo próprio usuário. 
+4. A filtragem do conteúdo das pesquisas feitas por cada usuário não constitui atividade intrínseca ao serviço prestado pelos provedores de pesquisa, de modo que não se pode reputar defeituoso, nos termos do art. 14 do CDC, o site que não exerce esse controle sobre os resultados das buscas. 
+5. Os provedores de pesquisa realizam suas buscas dentro de um universo virtual, cujo acesso é público e irrestrito, ou seja, seu papel se restringe à identificação de páginas na web onde determinado dado ou informação, ainda que ilícito, estão sendo livremente veiculados. Dessa forma, ainda que seus mecanismos de busca facilitem o acesso e a consequente divulgação de páginas cujo conteúdo seja potencialmente ilegal, fato é que essas páginas são públicas e compõem a rede mundial de computadores e, por isso, aparecem no resultado dos sites de pesquisa. 
+6. Os provedores de pesquisa não podem ser obrigados a eliminar do seu sistema os resultados derivados da busca de determinado termo ou expressão, tampouco os resultados que apontem para uma foto ou texto específico, independentemente da indicação do URL da página onde este estiver inserido. 
+7. Não se pode, sob o pretexto de dificultar a propagação de conteúdo ilícito ou ofensivo na web, reprimir o direito da coletividade à informação. Sopesados os direitos envolvidos e o risco potencial de violação de cada um deles, o fiel da balança deve pender para a garantia da liberdade de informação assegurada pelo art. 220, § 1º, da CF/88, sobretudo considerando que a Internet representa, hoje, importante veículo de comunicação social de massa. 
+8. Preenchidos os requisitos indispensáveis à exclusão, da web, de uma determinada página virtual, sob a alegação de veicular conteúdo ilícito ou ofensivo - notadamente a identificação do URL dessa página - a vítima carecerá de interesse de agir contra o provedor de pesquisa, por absoluta falta de utilidade da jurisdição. Se a vítima identificou, via URL, o autor do ato ilícito, não tem motivo para demandar contra aquele que apenas facilita o acesso a esse ato que, até então, se encontra publicamente disponível na rede para divulgação. 
+9. Recurso especial provido.
+
+Pelo exposto e tudo mais que consta dos autos JULGO IMPROCEDENTES os pedidos formulados na inicial formulados por JOSÉ CLÁUDIO MARTARELLI, nos autos da ação ordinária de obrigação de fazer com indenização por danos morais que move contra GOOGLE BRASIL INTERNET LTDA, considerando não haver responsabilidade civil da ré no presente caso conforme fundamentação, julgando extinto o processo com resolução do mérito nos termos do art. 269, inciso I do Código de Processo Civil.
+
+Condeno o requerido ao pagamento das custas, despesas processuais e honorários advocatícios em R$ 2.000,00 (dois mil reais) com base no art. 20, §4º do Código de Processo Civil.
+P.R.I.C.
+São Paulo, 10 de abril de 2013.
+
+OG CRISTIAN MANTUAN
+JUIZ DE DIREITO
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

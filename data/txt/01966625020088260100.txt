@@ -1,0 +1,53 @@
+
+
+SENTENÇA
+
+Processo nº:0196662-50.2008.8.26.0100
+Classe - AssuntoProcedimento Sumário - Indenização por Dano Material
+Requerente:Léa Schwery Abdalla
+Requerido:Empresa Brasileira de Telecomunicações S/A - Embratel
+
+
+
+
+Juiz(a) de Direito: Dr(a). Lúcia Caninéo Campanhã
+
+
+
+
+Vistos.
+
+
+LÉA SCHWERY ABDALLA moveu Ação Declaratória de Inexigibilidade de Débito cumulada com Reparação de Danos contra EMPRESA BRASILEIRA DE TELECOMUNICAÇÕES S/A- EMBRATEL alegando que contratou os serviços da requerida para transmissão e recepção de dados, via satélite, em duas fazendas; no mês de abril de 2008, recebeu cobrança no valor de R$ 5.509,63, relativo aos dois pontos, montante esse muito superior ao contratado; as faturas anteriores demonstram valor médio de R$ 627,91 pelos serviços utilizados; na data de 25 de abril de 2008, pediu desmembramento das faturas, suspensão dos valores pertinentes ao tráfego excedente até que lhe fosse apresentado extrato detalhado do tráfego de informações, o que não foi providenciado; em maio de 2008, recebeu fatura de R$ 3.255,27, relativa aos dois pontos, não reconhece como devido o montante de R$ 2.678,94 relativo a ?taxa de desativação? e ?tráfego excedente?; recebeu faturas com valores indevidos também nos meses de junho, julho e agosto de 2008; do total de R$ 17.088,08, a requerida cobrou indevidamente o valor de R$ 8.415,87 mais R$ 561,64 de assinatura cobrada depois da suspensão do serviço, em 23 de junho de 2008; apesar das suas sucessivas reclamações, inclusive perante a Anatel, seu nome foi incluído no cadastro dos órgãos de proteção ao crédito; reportou-se ao Código de Defesa do Consumidor; requereu a condenação da requerida no equivalente do montante cobrado a mais (R$ 8.977,51), nos termos do art.940 do Código Civil. Requereu a antecipação da tutela e no final a declaração de inexigibilidade do débito no valor de R$ 8.977,51, lançado nas faturas de abril a agosto de 2008, confirmação da tutela antecipada para religação dos serviços contratados, condenação da requerida no pagamento dos danos materiais no valor de R$ 8.977,51 e dos danos morais, além das verbas de sucumbência.
+Deferido pedido de antecipação da tutela para exclusão do nome da autora do cadastro dos órgãos de proteção ao crédito e para fins de religação do serviço, mediante caução idônea (fls.80).
+Aditada a petição inicial para constar que recebeu fatura no valor de R$ 1.156,61, com vencimento em 25 de setembro de 2008, mesmo com os serviços interrompidos. Requereu seja declarado inexigível o débito no valor de R$ 10.134,15, majorado os danos materiais para essa quantia, mantidos os demais pedidos.
+A ré foi citada e contestou a ação, alegando que dentro do prazo fixado, reativou os serviços contratados nos seus sistemas, mas deparou-se com problemas nas antenas da autora, encaminhou um técnico ao local; excluída a sua responsabilidade em caso fortuito ou força maior; a prestação do serviço em questão está voltada para empresas situadas em locais remotos, que necessitem acessar internet, consultar e-mails e transmitir arquivos pequenos; a autora paga os valores mensais de R$ 561,60 e R$ 595,00 por cada ponto, mais o tráfego excedente; devido o valor do tráfego excedente, posto que a autora usufruiu do serviço prestado; as faturas não foram quitadas, os serviços foram suspensos; inexistiu defeito na prestação do serviço e sim culpa exclusiva da vítima que deixou de quitar seus débitos; os serviços somente foram suspensos em 31 de outubro de 2008; os danos materiais não podem ser presumidos e não foram demonstrados; inseriu o nome da autora no cadastro dos órgãos de proteção ao crédito no exercício regular de um direito; inexistência de prova dos danos morais.
+Frustrada a tentativa de conciliação.
+Realizada prova pericial.
+Designada audiência de instrução e julgamento, foi ouvida uma testemunha.
+As partes manifestaram-se em alegações finais.
+É o relatório.
+DECIDO.
+Trata-se de ação declaratória de inexigibilidade de débito cumulada com pedido de indenização, sob alegação de cobrança excessiva com posterior interrupção na prestação de serviço e inclusão do nome da autora no cadastro dos órgãos de proteção ao crédito.
+A autora contratou os serviços da requerida de transmissão e recepção de dados, via satélite, para as fazendas localizadas em Itatinga-SP e Nova Andradina-MS e impugnou as faturas lançadas a partir de abril de 2008, com cobrança por tráfego excedente, com valores em torno de R$ 5.000,00.
+Apresentou as faturas dos meses de dezembro de 2006 até agosto de 2007 para comprovar que seu consumo médio, com outra operadora, girava em torno de R$ 628,00 (fls.37/46).
+O perito apontou em seu laudo a regularidade formal da cobrança e a impossibilidade de adotar a média de consumo anterior porque os serviços foram prestados por outra empresa em modalidade diversa (fls.480/481).
+Posteriormente, esclareceu que realizou perícia indireta porque produzida mais de dois anos depois dos fatos e para uma perícia técnica direta poderia instalar equipamentos medidores de tráfego de dados diretamente nas linhas e monitorar em tempo real o efetivo volume de tráfego de dados utilizados. O perito baseou-se nos documentos apresentados, sem diligenciar nas fazendas (fls.620/626).
+O funcionário das fazendas informou que nos locais sempre teve a mesma quantidade de computadores, depois de receberem as contas impugnadas, solicitaram senha para que pudessem acompanhar o volume de tráfego, mas não foi concedido. Após o restabelecimento dos serviços, as faturas vieram com valores corretos até o encerramento do contrato (fls.599/600).
+Apesar das faturas anteriores reportarem-se a outra operadora, nota-se enorme discrepância entre os valores cobrados, a requerida passou a cobrar por um serviço similar quase dez vezes mais que a outra operadora.
+Ademais, a ré celebra contrato com assinatura mensal de R$ 561,00 e R$ 595,00, depois cobra por tráfego excedente um total de R$ 5.509,63 (fls.49), ou seja, no final o consumidor paga uma conta aproximadamente cinco vezes maior do que o esperado.
+Consiste em direito básico do consumidor a informação adequada e clara do serviço e seu preço, nos termos do art.6º, inciso III, do Código de Defesa do Consumidor.
+A cobrança pelo tráfego excedente mostrou-se abusiva pela comparação de valores e porque o consumidor não tinha condição alguma de mensurar o consumo e o preço cobrado, surpreendendo-se com os valores lançados nas faturas.
+ O mínimo que se esperava era que o consumidor pudesse de alguma forma ter acesso ao volume de tráfego de dados efetivamente utilizados ou então que recebesse algum comunicado de que utilizado o mínimo contratado para início de cobrança das tarifas excedentes.
+Na impossibilidade da realização da perícia direta, não se tem conhecimento nem mesmo se o volume de tráfego de dados realmente utilizados corresponde com aquele lançado nas faturas.
+ Desta forma, procedente o pedido declaratório de inexigibilidade de débito.
+Em tese a requerida poderia suspender a prestação de serviço e incluir o nome da autora no cadastro dos órgãos de proteção ao crédito, na ausência de pagamento. No entanto, os valores informados não são devidos e a autora impugnou a cobrança e tentava negociar o pagamento de uma forma razoável (fls.50 e 68/69). Assim, abusiva a conduta da requerida.
+ A mera inclusão indevida do nome da autora no cadastro dos maus pagadores já demonstra a existência de dano moral. Violado um dos direitos da personalidade consistente na honra da pessoa, pois terceiros tiveram-na como insolvente sem que houvesse motivo para tanto.
+No que diz respeito ao valor do dano, observa-se que inexistiam outros apontamentos em nome da autora (fls.78/79), assim, razoável a fixação da indenização no valor de R$ 8.000,00, suficiente para reparação do dano sem consistir em enriquecimento ilícito.
+Afasto, por outro lado, o pedido de indenização por danos materiais. A requerida não ingressou com ação para cobrança da dívida, em consequência, não se aplica o art.940 do Código Civil. A autora não desembolsou valores indevidos para fins de repetição do indébito nem comprovados danos materiais.
+Diante do exposto, JULGO PARCIALMENTE PROCEDENTE o pedido, confirmando decisão que antecipou os efeitos da tutela, para declarar a inexigibilidade do débito no valor apontado de R$ 10.134,15 e condenar a ré no pagamento de indenização por danos morais no valor de R$ 8.000,00 (oito mil reais), acrescido de correção monetária, a partir da presente data, e juros de 1% ao mês desde a citação, improcedente o pedido de indenização por danos materiais. Considerando que a autora sucumbiu de parte mínima do pedido, arcará a ré com o pagamento das custas, despesas processuais e com os honorários advocatícios que fixo em 10% sobre o valor da condenação por danos morais.
+Após o trânsito em julgado, expeça-se mandado de levantamento em favor da autora quanto à multa aplicada (fls.316).
+P.R.I.C.
+São Paulo, 03 de julho de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

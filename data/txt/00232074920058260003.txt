@@ -1,0 +1,95 @@
+
+
+SENTENÇA
+
+Processo nº:0023207-49.2005.8.26.0003
+Classe - AssuntoProcedimento Sumário - Assunto Principal do Processo >
+Requerente:Tapeçaria Jabaquara Ltda
+Requerido:Fernando Belini Martins e outro
+
+
+Justiça Gratuita
+
+Juiz(a) de Direito: Dr(a). Alexandre Batista Alves
+
+
+
+Vistos.
+
+
+
+TAPEÇARIA JABAQUARA LTDA ajuizou ação pelo rito sumário contra ESTRATÉGIA COMÉRCIO E SERVIÇOS TLDA e FERNANDO BELINI MARTINS alegando, em resumo, que: a) firmou com a ré contrato de prestação de serviços, por meio do qual seria desenvolvido um site empresarial de ecommerce, loja virtual, em que a autora operaria sob o nome fantasia Colchão Express; b) o projeto seria executado em oito semanas, tendo a autora efetuado o pagamento do preço; c) em virtude de um vício do programa, o projeto não foi concluído e autora não teve a sua loja virtual exposta na internet.
+
+Por essas razões, imputando responsabilidade à ré, pleiteia a restituição em dobro das quantias pagas, bem como indenização por danos morais. Juntou documentos (fls. 13/50).
+
+Infrutífera a conciliação (fl. 96), os réus ofertaram contestação (fls. 97/122), na qual suscitaram preliminares de ilegitimidade passiva do corréu Fernando, inépcia da petição inicial e ausência de representação válida da autora. No mérito, sustentou basicamente que: a) o cronograma para a execução do projeto foi estipulando levando-se em conta os pré-requisitos a cargo da autora, nos termos da cláusula 3.4; b) a autora não disponibilizou no prazo previsto nenhum dos itens previstos no contrato, essenciais ao desenvolvimento do projeto, implicando alteração do cronograma; c) os serviços foram entregues em conformidade com o contrato; d) o site foi disponibilizado em perfeitas condições de operação, tanto assim que um cliente da autora adquiriu um produto por meio da loja virtual; e) eventual inadimplemento contratual não gera indenização por danos morais.
+
+A ré, afirmando que arcou com despesas de hospedagem do site no período entre fevereiro a abril de 2006, formulou pedido contraposto objetivando a condenação da autora ao pagamento de R$3.035,79. Juntou documentos (fls. 123/217).
+
+Sobreveio réplica (fls. 219/227).
+
+Extinta a ação, foi deferida a realização de prova pericial (fls. 254/255). Foi afastada a extinção da ação (fl. 264).
+
+Laudo a fls. 427/449 e esclarecimentos (fls. 515/535).
+
+Foram inquiridas testemunhas e, por fim, as partes apresentaram memoriais, cada qual mantendo seu ponto de vista.
+
+É o relatório.
+Fundamento e Decido.
+
+Rejeito, de início, a preliminar de cerceamento de defesa invocada pelos réus em memoriais.
+
+Foram inquiridas as testemunhas arroladas pela defesa, à exceção de Dyonísio da Silva Filho, o qual não logrou ser intimado no endereço declinado, conforme certidão de fl. 696.
+
+Embora intimados sobre a não intimação da aludida testemunha, os réus não se manifestaram, consoante certidão de fl. 699, motivo pelo qual se operou a preclusão e, por conseguinte, foi declarada encerrada a instrução processual.
+
+Por outro lado, o corréu Fernando tem legitimidade para ocupar o pólo passivo da lide, pois, conquanto não tenha figurado na contratação, é certo que recebeu em sua conta particular os pagamentos efetuados pela autora (fls. 33/39).
+
+Assim, na medida em que a autora pleiteia a devolução em dobro das quantias pagas, Fernando tem legitimidade para suportar as consequências de eventual acolhimento da pretensão, ao menos no que tange ao pedido de restituição.
+
+Não há que se falar em inépcia, porquanto a petição inicial preencheu os requisitos do art. 282 do CPC, tanto assim que o réu se defendeu com invulgar proficiência.
+
+Enfrentadas essas questões, a controvérsia reside em aferir se a ré prestou ou não adequadamente os serviços para os quais foi contratada, questão que demandou a realização de prova pericial.
+
+Com efeito, consta que a ré foi contratada para o desenvolvimento de uma loja virtual (e- commerce), utilizando como meio de pagamento operadora de cartões de crédito, com previsão de conclusão do cronograma em oito semanas (fls. 21/31). 
+
+Consta, ainda, que a plena execução das fases do cronograma depende da estrutura tecnológica (hardware e software) e do material cedido pelo cliente (texto, fotos etc), conforme cláusula 3.4 do contrato.
+
+Postas essas questões, infere-se do laudo pericial que sistematicamente não foi finalizado o projeto. A despeito da existência do site, salientou o perito que não há evidências das funcionalidades das páginas, tais como vitrine de produtos, link para registrar uma compra (carrinho), dentre outras (fl. 436). Afirmou o perito que é possível ao desenvolvedor preparar telas para apresentação com botões, labels, entre outros objetos, sem que haja o seu funcionamento operacional (fl. 532).
+
+O fato de pessoas terem visitado a loja até maio de 2006, segundo o perito, não é um indicativo de que página estivesse pronta, conforme a proposta. Além disso, não há documentação de treinamento de pessoal e acompanhamento da operação inicial (fl. 437).
+
+Acrescente-se que a compra de Dyonísio da Silva Filho foi um teste, não havendo evidências de que foi feita com a home page Colchões Express concluída (fl. 438).
+
+Em suma, a prova pericial leva a concluir que houve o inadimplemento contratual da ré. Em contrapartida, não há elementos indicando que a autora contribuiu para a inexecução do contrato.
+
+Não colhe, por primeiro, a alegação de que a autora não teria enviado o logo da empresa à ré. Há informações nos e-mails trocados entre as partes no sentido de que o logotipo tinha sido redirecionado diversas vezes à ré que, questionada a respeito, não deu uma resposta direta, limitando-se a declarar que iria alterar a loja para novas cores (fl. 530).
+
+De outra parte, malgrado a homologação com o Bradesco somente tenha ocorrido em dezembro de 2005, essa situação não seria impeditivo para que o site desenvolvido fosse utilizado como mais uma canal de vendas, uma vez que em fevereiro de 2005 já estava disponível a modalidade de pagamento por boleto bancário (fl. 531).
+
+Nessa conformidade, procede o pedido de restituição, mas de forma simples, visto que não se trata de cobrança indevida, mas de inexecução contratual, além do que não há prova de má fé da ré.
+
+Os danos morais, contudo, são indevidos.
+
+Mero descumprimento contratual, por si só, não gera o dever de indenização, além do que, tratando-se a autora de pessoa jurídica, cabia-lhe demonstrar que se nome foi tisnado no meio comercial.
+
+Conforme adverte Sérgio Cavalieri Filho: 
+
+Nessa linha de princípio, só deve ser reputado como dano moral a dor, vexame, sofrimento ou humilhação que, fugindo à normalidade, interfira intensamente no comportamento psicológico do indivíduo, causando-lhe aflições, angústia e desequilíbrio em seu bem-estar. Mero dissabor, aborrecimento, mágoa, irritação ou sensibilidade exagerada estão fora da órbita do dano moral, porquanto, além de fazerem parte da normalidade do nosso dia-a-dia, no trabalho, no trânsito, entre os amigos e até no ambiente familiar, tais situações não são intensas e duradouras, a ponto de romper o equilíbrio psicológico do indivíduo. Se assim não se entender, acabaremos por banalizar o dano moral, ensejando ações judiciais em busca de indenizações pelos mais triviais aborrecimentos (Programa de Responsabilidade Civil, 7ª edição, Atlas, p. 80).
+
+Nesse sentido, confiram-se os seguintes precedentes jurisprudenciais do STJ:
+
+A descrição dos fatos para justificar o pedido de danos morais está no âmbito de dissabores, sem abalo à honra e ausente situação que produza no consumidor humilhação ou sofrimento na esfera de sua dignidade, o dano moral não é pertinente (Resp 554.876-RJ, Rel. Min. Carlos Alberto Menezes Direito, j. em 17.2.2004, v.u).
+
+O inadimplemento do contrato, por si só, pode acarretar danos materiais e indenização por perdas e danos, mas, em regra, não dá margem ao dano moral, que pressupõe ofensa anormal à personalidade. Embora a inobservância das cláusulas contratuais por uma das partes possa trazer desconforto ao outro contratante ? e normalmente o traz ? trata-se, em princípio, do desconforto a que todos podem estar sujeitos, pela própria vida em sociedade. Com efeito, a dificuldade financeira, ou a quebra da expectativa de receber valores contratados, não tomam a dimensão de constranger a honra ou a intimidade, ressalvadas situações excepcionais (STJ ? 4.ª T. ? REsp 202.564 ? Rel. Sálvio de Figueiredo Teixeira ? j. 02.08.2001 ? DJU 01.10.01 e RSTJ 152/392).
+
+Por decorrência lógica do exposto, improcede o pedido contraposto.
+
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTES os pedidos para condenar os réus solidariamente à restituição das quantias recebidas (fls. 33/39), que serão atualizadas desde os desembolsos e acrescidas de juros de mora de 1% a contar da notificação extrajudicial (02.08.2005). JULGO IMPROCEDENTE o pedido contraposto.
+
+Tendo em vista a sucumbência recíproca, as custas serão rateadas igualmente entre as partes e cada qual arcará com a verba honorária de seu patrono, observando-se que os réus são beneficiários da justiça gratuita.
+
+P.R.I.
+
+
+São Paulo, 21 de maio de 2012.

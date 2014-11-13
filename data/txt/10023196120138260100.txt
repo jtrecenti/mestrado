@@ -1,0 +1,54 @@
+
+
+SENTENÇA
+
+Processo nº:1002319-61.2013.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Defeito, nulidade ou anulação
+Requerente:LUIZ ROBERTO CAMPS
+Requerido:Aymoré Crédito, Financiamento e Investimento S/A
+
+
+Juiz de Direito: Dr. Rodrigo Garcia Martinez
+
+
+Vistos,
+
+
+
+
+
+Trata-se de ação cominatória cc indenizatória, alegando-se, em síntese, que adquiriu o veículo noticiado na inicial diretamente de um terceiro e ao tentar licencia-lo constatou a presença de um gravame de alienação judiciária em favor da requerida, com a qual nunca celebrou qualquer negócio jurídico. Pleiteia a retirada desta constrição nos cadastros nacionais de veículos e a condenação por danos morais. 
+Devidamente citada, a ré contestou, alegando inúmeras teses, desde a existência da alienação fiduciária e ausência de fraude, como a impossibilidade de dar baixa no gravame.
+
+É o relatório.
+DECIDO.
+
+Julgo o processo no estado da lide, em razão da matéria de direito e de fato prescindir de dilação probatória em audiência, nos termos do artigo 330, inciso I, do Código de Processo Civil.
+O autor  ajuizou a ação com o fim de compelir a ré a proceder à baixa do gravame fiduciário que pesa sobre o veículo no órgão de trânsito.
+No caso em exame, não restou demonstrado a existência  do contrato de alienação fiduciária em garantia do veículo que a empresa ré sustenta existir.
+No curso da instrução probatória ficou bem demonstrado que a alienação fiduciária foi contratada junto à instituição financeira mediante fraude, pois o certificado de registro de veículo original junto ao DETRAN, acompanhado da autorização para transferência do veículo (?DUT?), veio carreado a aos autos, e dele não consta a assinatura do autor, autorizando a  mencionada alienação do veículo. Logo, sem a assinatura do autor na ?DUT? e a existência de gravame, revela-se que a celebração deo contrato de alienação fiduciária foi forjada por terceiro. 
+Desta forma,  de rigor a liberação do gravame que pendia sobre o bem junto aos cadastros do DETRAN.
+Quanto a responsabilidade da instituição financeira pelo registro de seus contratos, inserção e baixa de gravames ante o Departamento de Trânsito, a Resolução n° 320/2009 do Contran (que estabelece os procedimentos para o registro de contratos de financiamento de veículos com cláusula de alienação fiduciária, arrendamento mercantil, reserva de domínio ou penhor, nos órgãos ou entidades executivos de trânsito dos Estados e do Distrito Federal) determina que a atualização das informações e registros dos contratos de financiamentos deve ser feita eletronicamente pela própria instituição financeira credora, estabelecendo: 
+Art. 7º O repasse das informações para registro do contrato, inserções e liberações de gravames será feito eletronicamente, mediante sistemas ou meios eletrônicos compatíveis com os dos órgãos ou entidades executivos de trânsito, sob a integral responsabilidade técnica de cada instituição credora da garantia real, inclusive quanto ao meio de comunicação utilizado, não podendo tal fato ser alegado em caso de mau uso ou fraude nos sistemas utilizados. 
+Art. 8º Será da inteira e exclusiva responsabilidade das instituições credoras, a veracidade das informações repassadas para registro do contrato, inclusão e liberação do gravame de que trata esta Resolução, inexistindo qualquer obrigação ou exigência, relacionada com os contratos de financiamento de veículo, para órgãos ou entidades executivos de trânsito, competindo-lhes tão somente observar junto aos usuários o cumprimento dos dispositivos legais pertinentes às questões de trânsito, do registro do contrato e do gravame. 
+O art. 9º da referida resolução ainda estabelece que ?após o cumprimento das obrigações por parte do devedor, a instituição credora providenciará, automática e eletronicamente, a informação da baixa do gravame ante o órgão ou entidade executivo de trânsito no qual o veículo estiver registrado e licenciado, no prazo máximo de 10 (dez) dias.? 
+Ou seja, cabia à própria instituição financeira, responsável pelas informações, ainda que no caso de fraude, de forma eletrônica, dar baixa nos gravames,nos termos do art. 8º da mencionada Resolução. Assim, não se justifica a resistência em proceder a baixa do gravame, simplesmente porque, aleatoriamente por diversos fatores administrativos, afirma a necessidade de prazo mais elástico.
+Neste sentido:
+?Alienação fiduciária. Veículo automotor. Pagamento integral do financiamento. Permanência de gravame. Ação de obrigação de fazer. Concessão de tutela antecipada. 1. Cabe à instituição financeira proceder à baixa do gravame referente à alienação, quando integralmente quitada a dívida pelo devedor fiduciário, nos termos da Resolução do Contran n° 320/2009 . 2. Não se revela exíguo o prazo de 10 dias para cumprimento da obrigação, quando a própria Resolução estabelece esse prazo, além de a instituição financeira ter se quedado inerte por aproximadamente três anos. 3. Não há falar-se em inaplicabilidade da multa para cumprimento da obrigação, sob o argumento de que a baixa do gravame pode ser providenciada por ofício judicial, uma vez que a incumbência é da parte. 4. Negaram provimento ao recurso.? (AI nº 0195842-98.2012.8.26.0000, 25ª Câmara de Direito Privado, Rel. Des. Vanderci Álvares, j. 26.09.2012).
+Apesar do caso tratado nos autos ser sobre financiamento fraudulento, uma vez que não realizado o financiamento entre a Instituição Financeira e o autor, que nada deve, o prazo do artigo acima deve ser respeitado, ante a determinação legal que não restringe o dever nem o prazo somente aos casos de contrato existente e válido.
+Por fim, merece alusão a Portaria DETRAN nº 1.070/2001, que instituiu no Estado de São Paulo o Sistema Nacional de Gravames, segundo a qual a liberação do gravame ou intenção de gravame passou a ocorrer exclusivamente a pedido do credor.
+Certo, ainda, que a partir de 31 de janeiro de 2002 essa liberação passou a ser feita por meio eletrônico, sendo então dispensável a exibição do contrato e do próprio documento de liberação (art. 5º e 6º).
+Segundo a referida portaria, os antigos documentos de liberação de gravame fornecidos pelas instituições aos devedores poderiam ser ainda utilizados, mas apenas durante os primeiros seis meses após a publicação daquela norma (artigo 10 ?caput?).
+Após aquele termo, portanto, os interessados deveriam ?obrigatoriamente, procurar a instituição financeira ou empresa credora conveniada para exigir a substituição do documento físico por comunicação eletrônica, via SNG? (artigo 10, par. único). 
+Logo, sequer ação seria necessária, caso a ré houvesse cumprido as regras previstas nas Portarias acima.
+Por outro lado, na situação em julgamento, a inscrição de gravame junto ao DETRAN, impedindo ao autor o licenciamento ou a venda do veículo a terceiros, constitui, na realidade, mero dissabor do cotidiano e dos negócios a que todos estão sujeitos. 
+Não houve sequer alegação de que o resultado foi capaz de gerar abalo à imagem ou a honra, inexistindo prova de que a financeira ré chegou a incluir apontamento nos órgãos de restrição ao crédito. Tampouco, a ocorrência de um sofrimento extraordinário.
+Os transtornos enfrentados pela parte autora, portanto, não atingem estatura suficiente para merecer compensação por danos morais. 
+Em suma, a ação é parcialmente procedente, apenas para confirmar a tutela cominatória já concedida em sede de liminar, afastada a a condenação por danos morais.
+Ante o exposto, JULGO PROCEDENTE o pedido cominatório da ação, determinando que o réu proceda a baixa do gravame, em razão da inexistência do contrato em que conste o autor como parte, confirmando-se a liminar, inclusive a multa cominatória. JULGO IMPROCEDENTES os demais pedidos. Assim, julgo extinto o processo nos temos do artigo 269, I do CPC. 
+Em razão da sucumbência recíproca, custas, despesas processuais e honorários advocatícios compensados entre as partes.
+ 
+PRI
+
+
+             São Paulo, 20 de agosto de 2013.

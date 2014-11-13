@@ -1,0 +1,84 @@
+
+
+SENTENÇA
+
+Processo nº:0192230-46.2012.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Planos de Saúde
+Requerente:Sonia Levinbuk
+Requerido:Bradesco Saúde S.a
+
+
+
+
+Juiz(a) de Direito: Dr(a). Marcelo Barbosa Sacramone
+
+Vistos.
+
+I ? Relatório:
+SONIA LEVINBUK, qualificada nos autos, ajuizou AÇÃO DE COBRANÇA, pelo rito sumário, em face de BRADESCO SAÚDE S/A, representado nos autos. 
+Afirmou que em 30/07/2003 a autora firmou contrato junto à ré para a prestação de serviços de assistência à saúde, na modalidade empresarial, apólice nº 49150.
+ Afirmou que no final de 2011 foi diagnosticada com Carcinoma Ductal Invasivo na mama direita e teve que se submeter a vários procedimentos: ressecção segmentar radiológica D, biopsia do linfonódulo sentinela e exame intra operatório por congelação no valor de R$ 21.800,00; roll no valor R$ 1.500,00; reconstrução mamária no valor de R$ 11.700,00; e exame genético para avaliação de riscos no valor de R$ 1.210,97.
+Alegou que o réu recusou-se a pagar o valor integral, justificando que alguns procedimentos não constam no rol da ANS. Também não existiria na tabela de reembolso descrição exata dos procedimentos, de modo que foram levados em conta procedimentos similares. Defendeu a aplicação do Código de Defesa do Consumidor bem como abusividade e ilegalidade na conduta da ré. 
+Requereu a condenação da ré ao pagamento de R$ 24.227,40. 
+Devidamente citada, a ré contestou (fls. 50/60). Alegou que já efetuou o reembolso do que era devido conforme o contrato, que limita a responsabilidade do plano de saúde.
+Demonstrou os cálculos feitos para efetuar o reembolso parcial às fls. 53/55. Afirmou ter apurado uma diferença de R$ 259,42, que reembolsará à autora.
+Alegou que o exame para avaliação de riscos no valor de R$ 1.210,97 não é especificado no recibo de fls. 39, em que consta apenas exames laboratoriais. Há no contrato expressa exclusão para exame regular na cláusula 5ª, q. Sustentou que o procedimento não consta no rol da ANS e é excluído pelo contrato na cláusula 5ª, r.
+Defendeu a inexistência de conduta ilícita ou abusiva e que a responsabilidade do segurador é limitada ao risco assumido pelo contrato.
+Requereu a improcedência da ação.
+Houve réplica (fls. 101/102).
+ 
+É, em síntese, o relatório.
+
+II ? Fundamentação:
+A lide comporta julgamento antecipado. Embora haja questões de fato e direito, os autos encontram-se bem instruídos, pelo que não se faz necessária a dilação probatória, nos termos dos artigos 278, § 2º e 330, I do Código de Processo Civil.
+Antes, anoto que a lide será julgada sub a égide do Código de Defesa do Consumidor, pois o réu é prestador de serviços finais à autora.
+O cerne da questão debatida consiste na responsabilidade do plano de saúde réu de reembolsar as despesas da autora com os seguintes procedimentos: ressecção segmentar radiológica D, biopsia do linfonódulo sentinela e exame intra operatório por congelação no valor de R$ 21.800,00; roll no valor R$ 1.500,00; reconstrução mamária no valor de R$ 11.700,00; e exame genético no valor de R$ 1.210,97.
+O réu se defende, alegando a existência de cláusula restritiva no contrato (cláusula 5º, letras q e r, do doc. 03). 
+Pois bem. 
+Analisando o contrato, este é dividido em duas partes: condições gerais e condições. No entanto, nenhuma das duas cláusulas 5ª tratam da limitação de cobertura. A primeira regulamenta os prazos de carência e a segunda as coberturas disponíveis exclusivamente no exterior.
+Em verdade, a primeira parte, condições gerais, é aplicável aos membros que tiveram sua adesão compulsória ou automática em razão da sua incorporação ao grupo segurável, portanto ao caso da autora que aderiu ao seguro de saúde pela empresa de seu marido. 
+Nessa parte, em linhas gerais, as cláusulas 1ª a 4ª tratam das coberturas do seguro e das despesas não cobertas, sendo o que nos interessa. A cláusula 3 define que serão cobertos todos os procedimentos previstos na Classificação Estatística Internacional de Problemas e Doenças relacionados com a Saúde, da OMS, obedecido o rol de Procedimentos Médicos, previsto na regulamentação da ANS. A 3.1.3 elenca quais procedimentos são considerados despesas médicas e a 3.2.2 quais exames clínicos e laboratoriais são cobertos. Em seguida, a cláusula 4 define quais despesas não são cobertas, incluindo no item d a cirurgia plástica de reconstrução mamária.
+Primeiro, pretende a autora ser ressarcida das despesas da cirurgia para retirada do nódulo na mama. Com base no documento de fls. 35, referente ao procedimento ressecção segmentar radiológica D, biopsia do linfonódulo sentinela e exame intra operatório por congelação, foram gastos R$ 21.800,00 de honorários para a equipe médica. Sendo R$ 15.000,00 com o cirurgião, R$ 2.000,00 com o 1º auxiliar, R$ 1.500,00 com o 2º auxiliar, R$ 2.700,00 com o anestesista e R$ 600,00 com instrumentalização.
+Observando a cláusula 3 e seus sub itens, depreende-se que há cobertura para este procedimento de retirada do tumor. Há na cláusula 3.1.a a previsão de cobertura para internações cirúrgicas, e na cláusula 4 não há qualquer limitação, sendo as únicas restrições tratamento cirúrgico experimental e com fins estéticos.
+A cirurgia não foi estética mas em razão da moléstia diagnosticada. Tampouco é experimental. Logo, assiste razão à autora.
+Em seguida, pretende a autora ser ressarcida pelo procedimento ROLL no valor de R$ 1.500,00. O procedimento é realizado durante a cirurgia de retirada do tumor, destinado a localizar o linfonodo sentinela e determinar seu volume, conforme documento de fls. 37/38. 
+Este procedimento é acessório à cirurgia principal e portanto deve ser coberto também, pois imanente ao procedimento principal coberto. Além do mais, não há qualquer restrição contratual a sua cobertura.
+
+Plano de saúde contrato cirurgia de ressecção segmentar da mama colocação de prótese cobertura cabimento, por estar em linha de acessoriedade decorrente da realização do ato cirúrgico principal exclusão descabida, na forma do disposto no art 10, inc. VII, da Lei n° 9.656/98 sentença de procedência mantida. Apelo improvido.
+(9092121-84.2006.8.26.0000 Apelação Sem Revisão; Relator(a): Testa Marchi; Órgão julgador: 10ª Câmara de Direito Privado; Data do julgamento: 12/08/2008)
+
+Logo, quanto a este procedimento também assiste razão à autora.
+Pretende, ainda, a autora ser ressarcida das despesas do procedimento de reconstrução mamária. Com base no documento de fls. 36, temos que foram gastos R$ 11.700,00 de honorários médicos, sendo R$ 7.800,00 para o cirurgião, R$ 1.000,00 para o 1º auxiliar, R$ 800,00 para o 2º auxiliar, R$ 400,00 para a instrumentador e R$ 1.700,00 para o anestesista.
+Na cláusula 4, letra d há a exclusão expressa deste procedimento. Tal cláusula, contudo, deve ser reputada abusiva. Há conduta abusiva do plano de saúde, que coloca a segurada em posição excessivamente desfavorável.
+A reconstrução mamária não é um procedimento estético, é consequência direta da cirurgia de retirada do nódulo, coberta pelo réu. Portanto, conforme os Acórdãos acima e abaixo, deve ser afastada.
+
+PLANO DE SAÚDE - AÇÃO DE OBRIGAÇÃO DE FAZER - Reembolso e custeio de despesas médico-hospitalares - Cirurgia de reconstrução bilateral mamaria - Extirpação de uma das mamas (em decorrência de câncer) - Procedimento que não pode ser considerado estético, mas sim reparador de deformidade que passou a existir diante da extirpação realizada - Recusa da seguradora abusiva - Exclusão invocada que contraria a finalidade do contrato e representa abusividade que afronta ao CDC - Cobertura devida, sendo correto o reembolso integral das despesas havidas a esse título - Restrição de reembolso, ademais, injustificada, porque a critério exclusivo da seguradora - Alegação de que o médico que realizou a cirurgia reconstrutiva não pertence à rede credenciada - Circunstância que não afasta a obrigação da seguradora, no tocante ao reembolso integral, já que sequer indicou outro profissional credenciado, apto a realizar o mesmo procedimento - Quanto mais não fosse, os documentos acostados aos autos comprovam que tanto o médico quanto o Hospital A.C. Camargo fazem parte da chamada 'rede referenciada' da seguradora ré - Sentença mantida - Recurso improvido.
+(0140231-93.2008.8.26.0100 Apelação; Relator(a): Salles Rossi; Órgão julgador: 8ª Câmara de Direito Privado; Data do julgamento: 16/06/2010)
+
+Assiste razão à autora.
+Por fim, pretende a autora ser ressarcida por exames genéticos que teria feito para avaliação de riscos, no valor de R$ 1.210,97, com base no documentos de fls. 39. Alegou a ré que o documento não é preciso acerca de quais exames teriam sido feito, o que dificulta sua defesa e a análise de reembolso, uma vez que há previsão expressa para exame regular.
+Analisando o contrato, há previsão de não cobertura, na cláusula 4ª q, para exames admissionais, periódicos, demissionais, bem como check-up preventivo.
+Ainda que os exames não tenham sido especificados no recibo, é possível concluir que foram feitos cerca de 15 dias após a cirurgia, em clínica especializada em tipagem e análise de genoma. Assim, não estão inclusos na cláusula 4ª q. Outrossim, o exame é decorrente da moléstia e, se a cura desta é assegurada, o exame também deveria ser.
+Assiste razão à autora.
+Ademais, é pertinente fazer duas ponderações. O réu efetuou pagamento parcial de todos os itens elencados nas fls. 53/55, o que por si só já indica que nenhum dos procedimentos ao qual a autora fora submetida estão excluídos da cobertura do contrato. E o réu reporta-se a todo momento ao Rol de Procedimentos da ANS, no entanto este não pode ser considerado taxativo.
+
+AÇÃO DE OBRIGAÇÃO DE FAZER C.C. INDENIZAÇÃO POR DANO MORAL. Autora beneficiária da ré, necessitando realizar o exame "mamotomia em mama esquerda as 2hs guiada por ultrassom", após mamografia e ultrassonografia mamária, com constatação de nódulo sólido na mama esquerda, além de achados radiológicos benignos, categoria 2 pelo sistema BIRADS. Constatação de forte sombra acústica posterior ao nódulo, aliada a antecedentes familiares da autora, a motivar o pedido do exame, negado pela ré, mesmo após nova solicitação elucidativa. Obtenção da informação, via telefone, da cobertura somente em caso de constatação de câncer (BIRADS 4-5). Concessão da tutela antecipada. Sentença de parcial procedência, fixando indenização por danos morais em R$ 10.000,00. Data da distribuição da ação: 16.08.2011. Valor da causa: R$ 25.000,00. Valor da condenação: R$ 10.000,00. Apela a ré, alegando inexistência de obrigatoriedade do custeio de procedimentos não elencados no rol constantemente editado pela ANS; ausência de cobertura para o procedimento requerido, pois a autora sequer seria portadora de patologia que o justificasse; a Resolução nº 211 da ANS, de 12.01.2010 apresenta diretriz de utilização, não prevendo a exigibilidade do exame no caso da autora; o deferimento do pedido lhe imporia uma obrigação que não possui; a assistência ilimitada é responsabilidade estatal, sendo as entidades privadas com fins lucrativos obrigadas a cobrir somente os riscos contratualmente previstos; inexistência de violação ao CDC; possibilidade da restrição de cobertura no contrato de seguro, desde que clara, visível e inteligível, como é o caso; inexistência de ato ilícito e de responsabilidade civil; descabimento da indenização por danos morais, cuja mantença comportaria minoração do quantum; pertinência da responsabilização da autora pelos ônus sucumbenciais e da redução dos honorários advocatícios para R$ 1.000,00. Descabimento. Negativa de custeio de exame. Impossibilidade da obtenção de diagnóstico pela autora, em continuidade à investigação que já vinha sendo custeada pela ré, objetivando afastar suspeita de câncer. Consumidora posta em desvantagem exagerada. Abusividade. Inteligência do art. 51, IV, CDC. Reconhecimento de que compete ao profissional qualificado a indicação dos exames e tratamentos mais adequados ao paciente. Descabimento da possibilidade de realização do exame somente após o diagnóstico efetivo de câncer. Garantia constitucional à vida digna. Impedimento do acesso às inovações da Medicina, indo de encontro com o objetivo do contrato. Rol ANS, cuja última edição (nº 262) data de agosto de 2011 e não pode ser reputado taxativo. Garantia à saúde de obrigação estatal, todavia possibilitada a atuação de empresas particulares, descabendo a tentativa da ré se eximir nesta oportunidade. Danos morais. Manutenção. Autora obrigada a demandar em juízo, a fim de obter a continuidade da investigação iniciada com cobertura da ré, tendo condições de realizá-la somente após a concessão da tutela antecipada. Quantum indenizatório apto a atender o escopo satisfatório e punitivo da reparação. Sucumbência. Responsabilização exclusiva da ré, única sucumbente na demanda. Inexistência de justificativa plausível para modificação dos honorários advocatícios. Recurso improvido
+(0034108-72.2011.8.26.0001 Apelação; Relator(a): James Siano; Órgão julgador: 5ª Câmara de Direito Privado; Data do julgamento: 28/08/2013)
+
+
+Nas cláusulas 2.1.1, 2.25 e 8.4 há a limitação do reembolso, reportando-se à CRS-DH e coeficientes de reembolsos. O reembolso de honorários e serviços é limitado à THSM com coeficiente 4 e o reembolso de despesas hospitalares ocorridas no Brasil limitado à TSH com coeficiente 1,4.
+Não há qualquer especificação no contrato dos referidos coeficientes, os quais são, ademais, ininteligíveis. 
+O contrato não traz explicação clara do que são esses coeficientes e como funcionam. Assim, por falta de informação ao consumidor, afasto essas cláusula e determino o reembolso integral.
+A autora teve despesas no montante de R$ 36.210,97. O réu alega ter pago R$ 13.064,11 (soma dos valores de fls. 53/55), no entanto não trouxe comprovante de pagamento. Conforme os comprovantes trazidos pela autora, fls. 41/42, foram reembolsados R$ 11.187,64, R$ 795,93 e R$ 150,00, totalizando R$ 12.133,54.
+Portanto, o réu deve reembolsar à autora R$ 24.077,43.
+III ? Decisão
+Ante o exposto, julgo PARCIALMENTE procedente a AÇÃO DE COBRANÇA ajuizada por SONIA LEVINBUK em face de BRADESCO SAÚDE S/A. 
+Faço-o para condenar o réu a pagar ao autor R$ 24.077,43, atualizado monetariamente desde a propositura. Os valores serão corrigidos com juros de mora de 1% ao mês a contar da citação.
+Diante da sucumbência mínima da parte autora, o requerido arcará ainda com as custas e despesas processuais, bem como os honorários advocatícios da outra parte que, nos termos do artigo 20, § 3º do Código de Processo Civil, fixo em 10% (quinze por cento) da condenação.
+
+P. R. I. C.
+
+
+São Paulo, 26 de setembro de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

@@ -1,0 +1,43 @@
+
+
+SENTENÇA
+
+Processo nº:1028092-11.2013.8.26.0100
+Classe - AssuntoProcedimento Sumário - Espécies de Contratos
+Requerente:BUG SP COMERCIO DE INFORMÁTICA LTDA-ME
+Requerido:Cielo S.A.
+
+
+
+
+Juiz(a) de Direito: Dr(a). Márcio Teixeira Laranjo
+
+Vistos.
+BUG SP COMÉRCIO DE INFORMÁTICA LTDA-ME., representada nos autos, ajuizou a presente ação contra CIELO S.A, narrando ter firmado contrato de filiação ao sistema de pagamento eletrônico da ré. Após certo tempo de utilização do serviço, foi surpreendida com correspondências da ré informando o não reconhecimento de transações efetuadas, nas quais já havia a autora, inclusive, enviado a mercadoria correspondente. Devido a tais transações não reconhecidas, a requerida debitou indevidamente da autora, em recebimentos posteriores, o valor de R$ 3.624,40. Assim, requer a concessão de tutela antecipada para que se abstenha a ré de debitar quaisquer quantias da conta bancária da autora. Requer, ainda, a condenação da requerida na restituição dos valores indevidamente debitados, declarando-os inexigíveis, bem como no pagamento de indenização de cunho compensatório pelos danos morais sofridos. Com a petição inicial vieram os documentos de fls. 14/124.
+O Juízo indeferiu a antecipação dos efeitos da tutela (fls. 125).
+Citada, a requerida ofertou resposta (fls. 139/153), na qual aduz que agiu de forma regular, em observância ao pacto firmado, devendo a autora suportar o ônus por operações fraudulentas. Acostou os documentos de fls. 154/228.
+Réplica a fls. 231/235.
+Tréplica a fls. 239/240. 
+É o relatório. 
+D E C I D O.
+Julgo o feito antecipadamente porque desnecessária a produção de prova em audiência nos termos do art. 330, inciso I, do C.P.C.
+O pedido improcede.
+Não há relação de consumo entre as partes. A requerida disponibiliza à requerente um serviço, uma opção de modo de pagamento, hodiernamente bastante utilizada, que se caracteriza com o insumo à atividade comercial desenvolvida pela autora
+Pois bem, claramente foi a autora vítima da ação de estelionatários, que se valeram dos dados de cartões de crédito válidos, em nome de terceiros, para realizar a aquisição de mercadorias.
+Os negócios foram realizados pela rede mundial de computadores, por meio de sítio mantido pela autora, e os pagamentos mediante o uso de cartões de crédito. Os produtos foram encaminhados para os endereços fornecidos pelos adquirentes. 
+Como os dados dos cartões de crédito eram válidos, o sistema fornecido pela requerida realizou as operações normalmente. Entretanto, posteriormente as operações foram impugnadas pelos portadores dos cartões.
+Contudo, os dados dos cartões foram fornecidos à requerente, pelas informações lançadas em seu sítio na rede mundial de computadores, mas não foram apresentados os cartões e as operações não foram realizadas mediante a assinatura do usuário ou a aposição de sua senha eletrônica no equipamento.
+A questão aqui discutida é: de quem é o risco do negócio realizado nestes moldes?
+Do usuário do cartão de crédito não poderia ser, já que, como acima exposto, a operação financeira realizada não estava condicionada à apresentação do cartão, sua assinatura ou uso de senha eletrônica pessoal.
+Quanto à operadora do cartão de crédito ou à fornecedora do meio de pagamento eletrônico, não participaram do negócio causal, mas apenas disponibilizaram às partes da compra e venda um modo alternativo de pagamento. Logo, se os dados dos cartões de crédito usados no negócio eram verdadeiros e correspondiam a cartões efetivamente válidos, não haveria como a operadora recusar o serviço. Não nos parece, portanto, que sejam delas o risco do negócio realizado. 
+Aliás, assim como ocorre no pagamento do cheque, o pagamento por cartão de crédito é pro solvendo, contrariamente das operações de débito de conta corrente, com uso do cartão, realizadas on line. 
+Pois bem, o risco é do comerciante, a quem cabe observar a cautela necessária para a realização da operação de modo seguro. Entretanto, conforme vimos, a autora arriscou-se em demasia, sujeitando-se à venda pela rede mundial de computadores, sem apresentação dos cartões, assinaturas ou senhas eletrônicas do usuário. 
+Ora, basta o simples conhecimento, pelo estelionatário, dos dados do cartão de crédito do terceiro (nome, número, data de validade e código de segurança) para ter sucesso na empreitada criminosa, sem qualquer dado confidencial, como a assinatura eletrônica ou as informações contidas no chip. 
+Se avaliadas e aceitas as contestações apresentadas pelos usuários dos cartões, são indevidos os repasses dos créditos ao comerciante, que, por sua exclusiva responsabilidade, não pode contrapor as impugnações com a apresentação dos comprovantes das operações sem as firmas ou o uso de senhas eletrônicas dos usuários.
+Logo, o pedido não merece acolhimento.
+Pelo exposto, julgo IMPROCEDENTES os pedidos da presente ação e, em consequência, condeno a requerente no pagamento das despesas processuais e dos honorários advocatícios do patrono dos requeridos, que arbitro, por equidade, em R$ 500,00. 
+Para efeito de recolhimento do preparo recursal, deverá ser adotado o valor da causa atualizado.
+P. R. I.
+São Paulo, 21 de novembro de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

@@ -1,0 +1,69 @@
+
+
+C O N C L U S Ã O
+
+Em  30 de outubro de 2009
+faço estes autos conclusos ao (à) MM(ª). Juiz (a) de Direito
+DR (ª)Douglas Iecco Ravacci 
+Eu, Deborah Del Papa,  escrev., digitei.
+
+
+SENTENÇA
+
+Processo nº:002.09.106602-1 - Procedimento Ordinário
+Requerente:Stb - Student Travel Bureau Viagens e Turismo Ltda
+Requerido:Hart - Hanks do Brasil Consultoria e Serviços Ltda
+
+
+
+Juiz(a) de Direito: Dr(a). Douglas Iecco Ravacci
+
+
+        Vistos.
+
+
+    STB  STUDENT TRAVEL BUREAU VIAGENS E TURISMO LTDA. ajuizou ação contra HART-HANKS DO BRASIL CONSULTORIA E SERVICOS LTDA, pretendendo a rescisão de contrato celebrado com a ré para higienização da base de dados com padronização, deduplicação interna externa entre arquivos, sob argumento de os serviços não foram realizados no prazo inicialmente ajustado, nem nas dilações seguintes, embora tenha sido adiantada a quantia de R$ 15.000,00. Requereu, ainda, a condenação da ré ao pagamento da quantia já recebida e composição de perdas e danos.
+
+A ré contestou e reconviu (fls. 99/119 e 232/250) alegando que os serviços contratados compreendiam três etapas. Na primeira, receberia o banco de dados da autora para o tratamento, padronizando-a e excluindo as duplicidades e, posteriormente, inserindo-o novamente no sistema da autora que, por fim, daria sua concordância. Alegou que a demora decorreu de culpa da autora por não restar as informações necessárias para a correta padronização dos dados, justificando a dilação de prazo. Entretanto, e, dezembro de 2008 já havia concluído 73% do tratamento dos dados. Concluída primeira fase, procedeu à atualização do banco de dados da autora, a qual deveria imediatamente dar um retorno sob pena de inserção de novos dados, o que de fato ocorreu, acarretando a renovação da primeira fase. Ademais, a autora solicitou serviços diversos que foram prestados para fim de manter o bom relacionamento, mas em abril de 2008 resolveu suspender a prestação do serviço por falta de pagamento, dando ensejo ao aditivo e adiantamento de metade do preço. Asseverou que os serviços foram concluídos, e que eventual desatualização do banco de dados decorreu de reiteração da conduta da autora que não deu retorno imediato após a atualização do banco de dados da autora. Invocou a culpa da autora pela rescisão e se insurgiu contra a pretensão indenizatória. Requereu no pedido reconvencional a condenação da autora ao pagamento do saldo contratual de R$ 15.000,00.
+
+Apresentada réplica e contestação da reconvinda (fls. 370/374).
+
+É o relatório.
+Decido.
+
+Conheço diretamente do pedido, nos termos do artigo 330, I, do Código de Processo Civil.
+
+Conforme se verifica dos autos, a prestação dos serviços foi encerrada há quase dois anos, de modo que a prova pericial parece-nos prejudicada pelo decurso do tempo, alimentação contínuo da base de dados da autora, em prejuízo da preservação da real situação dos serviço contemporâneo à relação jurídica encerrada com as notificações e contra-notificações. E, melhor que a prova oral, são as inúmeras mensagens eletrônicas trocadas entre as partes, sobre a natureza dos serviços e progressão.
+
+ Nesse passo, a mensagem datada de 31/10/2007 (fls. 131/132), no qual a autora explicita dúvida sobre quais serviços seriam prestados, nos termos da proposta (36/44), obtendo expressa concordância da ré, nos dá conta das obrigações.
+
+A seguir temos a juntada da troca de mensagens eletrônicas entre as partes, e tantas outras que acompanharam a contestação, sendo possível a reconstituição dos serviços executados, problemas apresentados e soluções.
+
+Seguiram-se inúmeras trocas de mensagens eletrônicas e, embora o linguajar empregado seja eminentemente técnico, resta evidente que o prazo inicial não foi cumprido, tanto que em 01/04/2008, o General Manager da Harte-Hanks Latin America, Sr. Sílvio Ramos comunicou a suspensão dos serviços (fls. 58).
+
+  Na ocasião o gerente salientou que a suspensão foi motivada pelo valor do contrato abaixo do custo, emprego de mais 200 horas com tarefas intermináveis e ausência de qualquer pagamento, motivando o aditivo contratual celebrado em 28/04/2008 com o pagamento de quinze mil reais, por mera liberalidade, já que mantida a condição de pagamento do preço ao final do contrato ? conclusão e aceitação da autora de 100% dos serviços, considerada a margem de tolerância de 15% de erro.
+
+   Na oportunidade também traçaram cronograma dos serviços realizados e próximos passos, dentre os quais a criação de uma cópia da base de dados da autora, à disposição do Sr. William Profita (funcionário da ré e presente da reunião), procedendo-se testes até que os códigos estivessem ... em condições de serem aplicados na base principal sem riscos ou perdas de tempo. Após isso, o Sr. William homologaria os testes e a autora os aprovaria, passando-os então para a base de dados principal, competindo à autora dar um feedback sobre a adaptação feita pela ré no software da autora, no que diz respeito à inclusão de métodos de padronização de deduplicação o de registros (fls. 33/35).
+
+Por fim, o prazo de conclusão seria de quarenta e cinco dias após a disponibilidade da autora, ou seja, a entrega da base de dados teste e paralisação do ambiente de trabalho para autora para processamento da nova carga de dados.
+
+Em linguagem mais simples, independente dos problemas surgidos na primeira fase, tanto assim que expressamente delinearam as etapas já concluídas, é certo que a conclusão dos serviços contratados dependeria de mais horas empregadas para que o banco de dados da autora não tivesse mais dados em duplicidade, bem como criar mecanismos de otimização de pesquisas.
+
+Pois bem, as mensagens eletrônicas trocadas a partir de então nos dão conta de que a ré não foi capaz de cumprir as obrigações assumidas. Veja-se, por exemplo, que o encerramento da relação entre as partes decorreu de impasse na aprovação da base de dados pelos motivos melhor descritos na mensagem datada de 18/08/2008 mas, em resumo, informando inconsistência nas tabelas, realização de nova deduplicação em prejuízo de registros já tratados ou adicionados ao longo do primeiro período, e ausência de retorno da ré sobre o programa que fará a migração dos nos dados para o banco principal da autora (fls. 219/223).
+
+A partir daí as partes passaram o caso para seu advogados com notificações e contra-notificações. Ou seja, todo o trabalho realizado em nada aproveita autora, pois seu banco de dados principal não chegou a ser atualizado, com a exclusão dos dados em duplicidades e adaptação do sistema para pesquisa segundo parâmetros acertados.
+
+A alegação da ré de que os serviços somente não foram concluídos pela ausência de retorno da autora parece-nos frágil diante dos problemas relatados por fim, e que nem chegaram a ser corrigidos ou contestados. A atividade comercial da autora implica na constante atualização de seu banco de dados, de modo que deveria a ré proceder à prévia inspeção do sistema, previsão de prazos e esclarecimento acerca da inclusão de novos dados durante o processo, observando que tal obrigação já constava do contrato inicial.
+
+Parece-nos que a ré desistiu do término de seu serviço, considerando a remuneração e o total de horas empregadas, provavelmente bem superior à previsão inicial.
+
+Também não lhes socorre a assertiva de terem prestado outros serviços que não tinham sido combinados, uma vez que não tinha se comprometido a tanto, de modo que o motivo (manutenção do bom relacionamento) diz respeito a aspectos de ordem comercial sem influência no campo obrigacional.
+
+Por tais considerações, impõe-se mesmo a procedência do pedido principal de devolução da quantia já adimplida, mas sem fixação de perdas e danos, pela generalidade da alegação e mesmo impossibilidade de sua apuração, pois o banco de dados da autora nem chegou a ser alterado. 
+
+Ante o exposto JULGO PROCEDENTE EM PARTE o pedido principal  e IMPROCEDENTE o pedido reconvencional, e extintos os processos, com resolução do mérito, nos termos do artigo 269, I, do Código de Processo Civil. Condeno a ré/reconvinte ao pagamento da quantia de R$ 15.000,00, com atualização monetária pela tabela DEPRE desde o desembolso e juros de mora de 1% ao mês a contar da citação.
+
+  Pela  maior sucumbência, arcará a ré/reconvinte com o pagamento das custas e despesas processuais, além de honorários advocatícios arbitrados fixados em 15% do valor atualizado da condenação.
+
+P. R. I.
+De Carapicuíba para São Paulo, 17 de maio de 2010.

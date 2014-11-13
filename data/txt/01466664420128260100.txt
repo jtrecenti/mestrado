@@ -1,0 +1,116 @@
+
+
+C O N C L U S Ã O
+
+Em 29 de novembro de 2013, faço estes autos conclusos à MM. Juíza de Direito da 15ª Vara Cível Central, Dra. Daise Fajardo Nogueira Jacot. Eu, Evander Correa Fragoso, Escrevente Técnico Judiciário, subscrevi.
+
+SENTENÇA
+
+Processo nº:0146666-44.2012.8.26.0100
+Classe - AssuntoProcedimento Ordinário 
+Requerente:Smp Automotive Produtos Automotivos do Brasil Ltda
+Requerido:Telefonica Brasil S/A
+
+
+
+Juíza de Direito: Dra. Daise Fajardo Nogueira Jacot 
+
+
+Vistos.
+
+
+1.- SMP AUTOMOTIVE PRODUTOS AUTOMOTIVOS DO BRASIL LTDA., qualificada na inicial, ajuizou esta ação DE OBRIGAÇÃO em face de TELEFÔNICA BRASIL S.A., também qualificada na inicial, visando, mediante antecipação da tutela, compelir a ré ao cumprimento do contrato firmado entre as partes, com a instalação do serviço ?VPN IP? em perfeitas condições de funcionalidade e, no final, a confirmação da decisão antecipada, permitindo a integração do centro de distribuição da autora ao centro de telecomunicações da Volkswagen do Brasil, para possibilitar a utilização do serviço com qualidade. 
+
+A autora alega, em resumo, que é conceituada empresa do setor automotivo; estabeleceu relação comercial com a Volkswagen do Brasil; para adimplir o contrato com a Volkswagen e otimizar seu serviço, contratou o sistema de comunicação da ré; foi orientada pela ré à aquisição de um ?link de comunicação VPN IP (Rede Virtual Privada) para interligação de seu centro de distribuição... à Volkswagen do Brasil?; a ?VPN IP? foi instalada em sua sede no dia 31 de janeiro de 2012, com a ativação do serviço por volta de 12 de fevereiro seguinte; não foi possível a realização dos testes naquele momento porque não faltavam as configurações na Volkswagen; liberadas as rotas, iniciaram-se os testes de comunicação, todos infrutíferos; estabeleceu vários contatos com a ré para solução do problema, sem sucesso; a tecnologia vendida não tem qualquer funcionalidade; a ré, por si ou por seu preposto, afirmou que a Telefônica havia prestado serviço de conexão sem verificar a viabilidade técnica do local; suas atividades ficaram paradas em razão da falta de comunicação com a Volkswagen, com risco de mácula a relacionamento comercial importantíssimo e de vultosa cobrança. Por fim, requereu a citação da ré para os termos do pedido e que, julgado procedente, sejam a ela impostos os ônus de sucumbimento. Protestou por prova e à causa deu o valor de R$ 10.000,00 (fls. 2/16). Juntou documentos (fls. 17/132).
+
+O pedido de antecipação de tutela foi deferido para determinar à ré os procedimentos de instalação do serviço de ?VPN IP? contratado (fls. 133/134).
+
+Citada (fl. 138), a ré contestou o feito sustentando a improcedência da ação, sob a argumentação de que não constatou nenhuma irregularidade na prestação dos serviços, que já estão disponíveis à autora; o caso não se sujeita ao Código de Defesa do Consumidor (fls. 148/152). Juntou documentos (fl. 153/158). 
+
+A autora apresentou réplica, refutando o alegado e insistindo no pedido (162/174).
+
+Facultada a especificação de provas (fl. 194), apenas a autora manifestou-se a propósito, pugnando pelo julgamento antecipado da lide (fls. 202/204, 205/207 e 221/222).
+ 
+É o Relatório.
+
+Fundamento e Decido.
+
+
+2.- A autora visa, mediante antecipação da tutela, compelir a ré ao cumprimento do contrato firmado entre as partes, com a instalação do serviço ?VPN IP? em perfeitas condições de funcionalidade e, no final, a confirmação da decisão antecipada, permitindo a integração do centro de distribuição da autora ao centro de telecomunicações da Volkswagen do Brasil, para possibilitar a utilização do serviço com qualidade.
+
+O feito comporta julgamento antecipado, nos termos do artigo 330, inciso I, do Código de Processo Civil, com base na prova documental e ainda tendo em conta o desinteresse das partes na produção de outras provas.
+
+Conforme já relatado, a autora alega que é conceituada empresa do setor automotivo. Estabeleceu relação comercial com a Volkswagen do Brasil. Para adimplir o contrato com a Volkswagen e otimizar seu serviço, contratou o sistema de comunicação da ré. Foi orientada pela ré à aquisição de um ?link de comunicação VPN IP (Rede Virtual Privada) para interligação de seu centro de distribuição... à Volkswagen do Brasil?; a ?VPN IP? foi instalada em sua sede no dia 31 de janeiro de 2012, com a ativação do serviço por volta de 12 de fevereiro seguinte. Não foi possível a realização dos testes naquele momento porque não faltavam as configurações na Volkswagen. Liberadas as rotas, iniciaram-se os testes de comunicação, todos infrutíferos. Estabeleceu vários contatos com a ré para solução do problema, sem sucesso. A tecnologia vendida não tem qualquer funcionalidade. A ré, por si ou por seu preposto, afirmou que a Telefônica havia prestado serviço de conexão sem verificar a viabilidade técnica do local. Suas atividades ficaram paradas em razão da falta de comunicação com a Volkswagen, com risco de mácula a relacionamento comercial importantíssimo e de vultosa cobrança. (fls. 2/16). 
+
+A ré, por sua vez, contestou o feito sustentando a improcedência da ação, sob a argumentação de que não constatou nenhuma irregularidade na prestação dos serviços, que já estão disponíveis à autora. O caso não se sujeita ao Código de Defesa do Consumidor (fls. 148/152).
+
+A prova dos autos, que se constitui apenas de documentos, favorece a autora.
+
+Ao que se colhe dos autos, a autora, com sede em Taubaté, neste Estado, é fabricante de para-choques para montadoras de veículos no Brasil e no Exterior. Mantém contrato de fornecimento com a Volkswagen do Brasil, também sediada em Taubaté, neste Estado. Contratou a ré para otimização do serviço, visando a aquisição de uma ?Rede Virtual Privada? para interligação de seu centro de distribuição à Volkswagen do Brasil.
+
+Contudo, os testes de comunicação foram negativos, estabelecendo-se entre as partes o impasse, principalmente porque surgiu a suspeita de que a ré assumiu a obrigação contratual sem a verificação prévia da viabilidade técnica do local, mesmo porque esse serviço funcionava bem em São Bernardo do Campo, também neste Estado. 
+
+A instalação da ?VPN IP? se deu em 31 de janeiro de 2012, mas passados mais de quatro meses sem solução para o funcionamento adequado do serviço, a autora promoveu esta Ação. Somente após a determinação judicial mediante antecipação da tutela (fls. 133/134), o serviço foi efetivamente disponibilizado à autora.
+
+Malgrado a resistência da ré, a ela incumbia promover todas as providências necessárias para a implantação do serviço, a teor da cláusula 4.1 do contrato firmado entre as partes, que ?in verbis?, estabelece: 
+
+?Na hipótese de serviços de telecomunicações, fornecer à Contratante todas as especificações técnicas relativas à infra-estrutura e às condições necessárias nas dependências da Contratante para a implantação dos serviços contratados por força do presente Contrato? (v. fls. 49/63 v.)
+
+
+Demais, a própria ré admitiu a responsabilidade contratual, deixando de impugnar de modo específico as alegações da inicial.
+
+Não bastasse, a autora comprovou as tratativas havidas entre as partes desde a instalação até o ajuizamento da ação, mediante os seguidos e-mails trocados antes do ajuizamento da ação (fls. 88/128). 
+
+Impõe-se, pois, o acolhimento do pedido de cumprimento de obrigação de fazer mediante a confirmação da decisão antecipada nas fls. 133/134, porquanto bem demonstrado pela autora o fato constitutivo do direito que ela reclama na petição inicial.
+
+A propósito de casos que guardam relação de semelhança com o dos autos, já se decidiu: 
+
+
+9173968-06.2009.8.26.0000   Apelação    
+Relator(a): Marcondes D'Angelo 
+Comarca: Jundiaí 
+Órgão julgador: 25ª Câmara de Direito Privado 
+Data do julgamento: 04/05/2011 
+Data de registro: 09/05/2011 
+Outros números: 992090441329 
+Ementa: PRESTAÇÃO DE SERVIÇOS TELEFONIA - Declaratória de Inexigibilidade de débito cumulada com rescisão contratual - Defeitos na prestação de serviços de telefonia - Provas acostadas pela autora que demonstram as inúmeras tratativas para reparo - Requerida que p ir seu turno nada apresentou que as refutasse, como lhe competia à luz do artigo 333, incho II, do Código de Processo Civil - Dever , te manutenção adequada dos serviços prestadas que decorre do dever anexo de boa-fé objetiva - Demanda declaratória - Honorários advocatícios que devem ser fixados na regra do artigo 20, parágrafo Código de Processo Civil reformada. Recurso parcialmente apenas no tocante aos advocatícios.
+
+
+0242041-14.2008.8.26.0100   Apelação     
+Relator(a): Francisco Thomaz  
+Comarca: São Paulo  
+Órgão julgador: 29ª Câmara de Direito Privado  
+Data do julgamento: 25/09/2013  
+Data de registro: 26/09/2013  
+Outros números: 2420411420088260100  
+Ementa: ... DE OBRIGAÇÃO DE FAZER C.C. PEDIDO DE RESTITUIÇÃO DE VALORES E DE REPARAÇÃO POR DANOS MORAIS CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE TELEFONIA E INTERNET DE BANDA LARGA MANUTENÇÃO DO VALOR DO CONTRATO POR TEMPO INDEFINIDO INADMISSIBILIDADE AVENÇA QUE PODE SOFRER REAJUSTE ANUAL DANO MORAL NÃO CARACTERIZADO ...  
+Ementa: AÇÃO DE OBRIGAÇÃO DE FAZER C.C. PEDIDO DE RESTITUIÇÃO DE VALORES E DE REPARAÇÃO POR DANOS MORAIS CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE TELEFONIA E INTERNET DE BANDA LARGA MANUTENÇÃO DO VALOR DO CONTRATO POR TEMPO INDEFINIDO INADMISSIBILIDADE AVENÇA QUE PODE SOFRER REAJUSTE ANUAL DANO MORAL NÃO CARACTERIZADO SENTENÇA MANTIDA RECURSO IMPROVIDO.
+
+
+0134127-21.2013.8.26.0000   Agravo de Instrumento     
+Relator(a): Marino Neto  
+Comarca: São Paulo  
+Órgão julgador: 11ª Câmara de Direito Privado  
+Data do julgamento: 19/09/2013  
+Data de registro: 20/09/2013  
+Outros números: 1341272120138260000  
+Ementa: ... OBRIGAÇÃO DE FAZER CUMULADA COM DANOS MORAIS - TELEFONE MÓVEL CANCELADO SEM QUALQUER EXPLICAÇÃO - Tutela antecipada deferida para que a ré, no prazo de 48 horas, religue a linha telefônica móvel ou justifique seu cancelamento, sob pena de multa diária de meio ...  
+Ementa: TUTELA ANTECIPADA - AGRAVO DE INSTRUMENTO -AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM DANOS MORAIS - TELEFONE MÓVEL CANCELADO SEM QUALQUER EXPLICAÇÃO - Tutela antecipada deferida para que a ré, no prazo de 48 horas, religue a linha telefônica móvel ou justifique seu cancelamento, sob pena de multa diária de meio salário mínimo, pelo prazo de trinta dias - Pretensão da agravante de obter maior prazo para o cumprimento da ordem, bem como reduzir o valor da penalidade estabelecida para o caso de descumprimento da tutela - Hipóteses que não se admitem - Presença dos elementos do artigo 273 do CPC - Prazo estabelecido para o cumprimento da tutela que não se mostra exíguo, mas suficiente para a ré atender à determinação judicial com segurança e presteza - Aplicação da multa que somente ocorrerá em caso de eventual descumprimento da decisão judicial pela agravante, sendo que sua irresignação quanto ao valor apenas demonstra a intenção de descumprir a ordem - Valor da multa fixado de modo adequado, considerada sua finalidade e a condição das partes - Inteligência do art. 461, parágrafo 5º, do CPC - Decisão mantida. Recurso não provido.
+
+Ficam rejeitadas todas as alegações em sentido contrário por conseguinte, sem embargo do empenho profissional dos ilustres Patronos da ré.
+
+
+3.- Diante do exposto e à luz de tudo o mais que dos autos consta, julgo PROCEDENTE esta ação DE OBRIGAÇÃO DE FAZER que SMP AUTOMOTIVE PRODUTOS AUTOMOTIVOS DO BRASIL LTDA. moveu contra TELEFÔNICA BRASIL S.A. e o faço para o efeito de condenar a ré a cumprir a obrigação de fazer consistente na instalação do serviço de ?VPN IP? em perfeitas condições de funcionalidade, tornando definitiva a decisão antecipada nas fls. 133/134.
+
+Em consequência, EXTINGO o processo na fase de conhecimento, com base no artigo 269, inciso I, do Código de Processo Civil.
+
+Arcará a ré, por força do princípio do sucumbimento, com o pagamento das custas e despesas processuais, e com os honorários advocatícios, que são arbitrados na quantia correspondente a vinte por cento (20%) do valor atualizado da causa (v. artigo 20, §§ 3º e 4º, do Código de Processo Civil). 
+
+Para o caso de Recurso, o recorrente deverá recolher a quantia de R$ 217,65, a título de preparo e a quantia de R$ 25,00, a título de porte de retorno para cada volume dos autos principais e para cada um dos volumes referentes aos incidentes processuais em Apenso porventura existentes (v. Lei Estadual n° 11.608/2003, Provimento n° 833/2004 e Provimento nº 14/2008). 
+P.R.I.C.
+
+São Paulo, 29 de novembro de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

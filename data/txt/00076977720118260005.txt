@@ -1,0 +1,137 @@
+
+
+SENTENÇA
+TERMO DE CONCLUSÃO
+Em 25 de setembro de 2012, faço estes autos conclusos ao (à) MM.(ª) Juiz(a) de Direito da 1ª Vara Cível do Foro Regional V - São Miguel Paulista Dr.(a.) Lucilia Alcione Prata. Eu, Lucilia Alcione Prata, _____, escrevente, subscrevo.
+Processo nº:0007697-77.2011.8.26.0005 - Procedimento Ordinário
+Requerente:Antonio Alves de Oliveira
+Requerido:Eletropaulo Metropolitana Eletricidade de São Paulo S/A
+
+
+
+Vistos.
+
+ANTONIO ALVES DE OLIVEIRA ajuizou a presente ação contra ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S/A, alegando, em síntese:
+
+A) Em 19/10/2010 funcionários da ré realizaram vistoria no relógio de medição e constataram suposta fraude no relógio medidor, lavrando o Termo de Ocorrência de Irregularidade;
+
+B) O autor efetuou o pagamento do débito, regularizou o medidor do imóvel e passou a apresentar um consumo médio de 376 Kwh para os dias atuais; entretanto na conta de outubro de 2010 foram cobrados valores acima do consumo médio, indicando a conta o consumo de 896 Kwh com valor de R$ 363,83, repetindo-se o fato nas faturas dos meses seguintes;
+
+C) o autor pediu revisão na ré e foram novamente constatados os sistemas de registro. Entretanto, o autor sofreu novo TÓI, sendo-lhe exigido o pagamento de R$ 16.614,82;
+
+D) Tal valor é abusivo e não há irregularidade a ser sanada pelo autor
+
+Requer a procedência dos pedidos para que seja mantido o fornecimento de energia e indenização por danos morais.
+
+
+A petição inicial veio acompanhada dos documentos de fls. 08/27.
+
+A tutela antecipada foi deferida (fls.28).
+
+Contestação às fls.  36/57  rebatendo os argumentos da inicial e postulando pela improcedência dos pedidos deduzidos.
+
+Réplica às fls. 101/103.
+
+Reconvenção às fls. 81/85 postulando a condenação do autor/reconvindo ao pagamento do débito de R$ 16.780,19.
+
+Contestação à reconvenção às fls. 104/106.
+
+Audiência de tentativa de conciliação às fls. 130 restou infrutífera.
+
+Laudo pericial às fls.168/226.
+
+Parecer divergente pela ré às fls.240/248.
+
+É o que de relevante havia a relatar.
+
+Passo a fundamentar e a decidir:
+
+Verifica-se nos autos que:
+
+O autor sofreu uma primeira inspeção em 2003, sendo lavrado o TÓI nº 12854/2003, por suposto desvio de energia de duas fases, embutido na parede, com valor a recuperar de 15490 kWh, no valor de R$ 6.046,71 (fls.23/25).
+
+Tal procedimento encontra-se devidamente quitado junto a ré.
+
+
+
+Em 19/05/2009 sofreu um novo TÓI nº7268180 onde foi constatada  irregularidade diversa, consistente em fixação de parafusos no elemento frenador do medidor, gerando um débito a recuperar de 34.926 kWh, referente ao período de 19/05/2007 a 19/05/2009 (fls.13/16).
+
+Portanto, não há qualquer vínculo entre as duas irregularidades, sendo que no presente caso a ação visa a segunda irregularidade.
+
+Sobre  o valor a recuperar foi incluída  multa administrativa de 30%.
+
+O relógio medidor do imóvel não foi preservado pela ré, sendo certo que o autor não foi o responsável pelo acompanhamento do TÓI mas sim seu filho Edmar Xavier Andrade.
+
+A suposta dispensa da perícia pelo consumidor é condição abusiva imposta unilateralmente pela ré, conforme consta no TÓI de fls. 63 e deste modo não dispensa a prova pericial judicial.
+
+Energia elétrica Ação declaratória de nulidade de débito - Termo de ocorrência de irregularidade Falta de prova da alegada adulteração do medidor de consumo Retirada deste pela concessionária Necessidade de preservação do local e oportunidade de perícia técnica por terceiro habilitado Hipótese de inversão do ônus da prova em favor do consumidor, nos termos do art. 6º, inc. VIII, do CDC Inexigibilidade da dívida reconhecida Presunção de legitimidade do Termo de Ocorrência de Irregularidade elidida Corte no fornecimento de energia elétrica por inadimplemento de débito passado Inadmissibilidade Dever de reparar configurado Procedência da ação Recurso do autor provido, restando improvido o da ré.(TJSP.APELAÇÃO Nº 9266390-34.2008.8.26.0000).
+
+
+O laudo pericial aponta que a instalação refere-se a imóvel comercial destinado a uma pequena serralheria, com carga total instalada de 8.608 w (fls.177), sendo que no TÓI consta carga instalada bem superior (17.108 W).
+
+Houve regularização a instalação com troca do medidor de consumo (fls.187).
+
+O laudo aponta, fundado em prova indireta, vestígios ruptura dos lacres da tampa do medidor pelos técnicos da ré (fls.188), entretanto diante da não preservação da prova pela ré, o laudo concluiu que não há como asseverar que o medidor foi manipulado internamente ou ainda que existam vestígios da suposta irregularidade apontada no TÓI (fls.196).
+
+O laudo também afasta a hipótese de consumo irregular por degrau de consumo conforme evolução de fls.200, verificando-se que o autor mantém consumo regular e compatível com a carga instalada, apurando um consumo médio de 321kWh (fls.206).
+
+Deste modo, a ação é procedente, posto que não há prova da suposta fraude imputada ao autor e que deu origem ao débito cobrado na reconvenção.
+
+A violação dos lacres é procedimento ínsito ao próprio momento da inspeção e é feita pelos próprios técnicos da ré para analisar a parte interna do medido.
+
+Ademais, a fraude imputada ao autor consistente em fixação de parafusos de fixação do elemento frenador do medidor não foi apurada ou constatada pelo perito judicial (fls.13/14).
+
+Sem a devida preservação da prova pela ré seus argumentos não podem prevalecer.
+
+ENERGIA ELÉTRICA - Ação declaratória de inexigibilidade de débito e confissão de dívida c.c. repetição de indébito e indenização por danos morais - Apuração de débito do consumidor por irregularidade no relógio medidor de consumo - Aplicação do CDC (Lei nº 8.078/90) ao caso - Concessionária não comprovou a alegada fraude no medidor.
+
+Prova pericial prejudicada em razão da não preservação do aparelho inadmissível a cobrança de valores apurados unilateralmente pela ré. Nulidade da confissão de dívida firmada pelo autor em ato de coação. Danos morais caracterizados, independente do corte de fornecimento de energia. Cabível repetição em dobro do indébito. Demanda procedente. Recurso improvido.(TJSP - APL nº 9.182.283-57.2008.8.26.0000 - Ac. 5.684.685 - São Simão - 16ª Câm. de Direito Privado - Rel. Des. Jovino de Sylos Neto - J. 29.11.2011 - DJESP 24.02.2012).
+
+A ré na condição de fornecedora de serviço público essencial sujeita-se ao regramento do Código de Defesa do Consumidor que prevê em seu artigo 22 a obrigação da ré em fornecer um serviço adequado, eficiente, seguro e contínuo dada a sua essencialidade.
+
+
+Ninguém pode sobreviver nos dias atuais sem o devido fornecimento de energia elétrica e o consumidor tem o direito constitucional de que lhe seja garantida a possibilidade de discutir os termos do contrato firmado com a ré, concessionária de serviço público.
+
+Com efeito, o que se observa, na verdade, é a intenção da ré de suspender o fornecimento de energia elétrica para compelir o pagamento do valor que ela unilateralmente estipulava, como sanção ao autor, sem lhe conceder direito de ampla defesa ainda que dentro da esfera administrativa.
+
+Essa conduta deve ser condenada e danosa ao consumidor, como bem demonstra a jurisprudência de tribunais estaduais.
+
+?Corte no fornecimento de energia ? Inadimplência do consumidor  - Ilegalidade ? 1. É ilegal a interrupção no fornecimento de energia elétrica, mesmo que inadimplente o consumidor, à vista das disposições do Código de Defesa do Consumidor que impedem seja o usuário exposto ao ridículo. 2. Deve a concessionária de serviço público utilizar-se dos meios próprios para receber os pagamentos em atrasos?. (Resp 122812/ES., Min. LUIZ PEREIRA, j. 05.12.2000)
+
+
+A Lei 8.987/95 que dispõe sobre o regime de concessão e permissão de serviços públicos, estabelece no art. 6º que ? toda concessão ou permissão pressupõe a prestação de serviço adequado ao pleno atendimento dos usuários? afirmando no § 1 o conceito de serviço adequado como  sendo ? o que satisfaz as condições de regularidade, continuidade, eficiência, segurança, atualidade, generalidade, cortesia na sua prestação e modicidade das tarifas?.
+
+Portanto, o serviço público de fornecimento de energia elétrica é essencial e deve ser prestado de forma contínua pela permissionária.
+
+Ademais, a ameaça de corte como forma de coagir o consumidor anuir ao termo de confissão de dívida macula de total nulidade o termo de confissão. O art. 42 do CDC  dispõe que nenhum consumidor será exposto a ridículo, nem será submetido a qualquer tipo de constrangimento ou ameaça.
+
+Tanto é que o art. 71 do CDC tipifica como criminosa a conduta que expõe o consumidor a constrangimento em razão de dívida.
+
+Art. 71- Utilizar, na cobrança de dívidas, de ameaça, coação, constrangimento físico ou moral, afirmações falsas, incorretas ou enganosas ou de qualquer outro procedimento que exponha o consumidor, injustificadamente ou interfira com seu trabalho, descanso ou lazer.
+
+Pena- Detenção de 3 (três) meses a 1 (um) ano e multa.
+
+
+Disso tudo resulta que a forma de cobrança e imposição do débito pela ré viola frontalmente o Código de Defesa do Consumidor, cujos direitos têm status de garantia constitucional.
+
+O que implica no reconhecimento de dano moral ao consumidor indevidamente acusado de fraude e submetido ao constrangimento, ainda que potencial, de ter sua energia cortada por um débito não provado.
+
+Nesse passo fixo o valor dos danos morais em R$ 15.000,00.
+
+Por fi, diante da não comprovação da fraude, a reconvenção é improcedente.
+
+
+Ante o exposto JULGO PROCEDENTE a presente lide para condenar a ré ao pagamento de indenização por danos morais correspondente a R$ 15.000,00, corrigidos desde a presente decisão. (Superior Tribunal de Justiça - Súmula nº 362"A correção monetária do valor da indenização do dano moral incide desde a data do arbitramento". (Corte Especial, em 15.10.2008). Torno definitiva a tutela concedida.
+
+
+JULGO IMPROCEDENTE A RECONVENÇÃO para afastar a pretensão da ré/reconvinte ao recebimento do débito referente ao TÓI nº 7268180, no valor de R$ 16.718,99.
+
+Diante da sucumbência, condeno a ré ao pagamento das custas, despesas processais, honorários periciais já despendidos e honorários advocatícios da parte contrária que fixo em 15% sobre o valor da indenização, conforme Súmula  STJ nº 326:"Na ação de indenização por dano moral, a condenação em montante inferior ao postulado na inicial não implica sucumbência recíproca." (Corte Especial, em 23.05.2006)
+
+P.R.I.C.
+
+São Paulo, 25 de setembro de 2012.
+
+
+Lucilia Alcione Prata
+Juiz(a) de Direito

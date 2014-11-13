@@ -1,0 +1,108 @@
+
+
+SENTENÇA
+
+Processo nº:0025616-23.2013.8.26.0001
+Classe - AssuntoProcedimento Ordinário - Obrigação de Fazer / Não Fazer
+Requerente:Gilson Lopes da Silva
+Requerido:Telefonica Brasil  S/A.
+
+
+Juiz de Direito: Dr. Raphael Garcia Pinto
+
+
+Vistos.
+
+
+
+
+
+
+Trata-se de ação de obrigação de fazer cumulada com indenização por danos morais, com pedido de antecipação parcial dos efeitos da tutela, proposta por GILSON LOPES DA SILVA em face de TELEFÔNICA BRASIL S.A, ambos qualificados nos autos.
+
+Alega o autor que contratou os serviços de internet da requerida para uso pessoal e também para atender a instituição beneficente "MUDAR" da qual é presidente.
+
+Em fevereiro de 2013, teria recebido uma ligação da requerida para troca de modem, tendo autorizado este procedimento.
+
+Contudo, em abril de 2013, além da fatura com vencimento em 06/04, referente a cobrança de serviços de telefonia e internet, que pagou pontualmente,  o autor recebeu mais outra fatura com vencimento em 15/04/2013, com cobrança exclusiva de internet. Em contato com a requerida, esta teria solicitado ao autor que desconsiderasse a segunda fatura  (protocolo n.º 20130020273739 do dia 16/04/2013).
+
+A situação teria se repetido no mês de maio e, pensando se tratar de novo equívoco, o autor desconsiderou a fatura com cobrança exclusiva de internet, já que tal serviço já havia sido pago na fatura com vencimento anterior no mesmo mês.
+
+Porém, em 16/05/2013 o serviço de internet foi interrompido por suposta falta de pagamento, causando enormes prejuízos ao autor.
+
+Várias foram as tentativas amigáveis para solucionar o imbróglio, porém sem sucesso, razão pela qual, o autor vem requerer, em sede de tutela, o restabelecimento do serviço de internet no prazo de 24 horas, sob pena de multa diária de R$ 500,00. No mérito, pleiteou a inversão do ônus da prova, para que a ré junte aos autos as gravações telefônicas dos protocolos 20130020273739, 20130026078232 e 56237029, além de indenização por danos morais no importe de R$ 15.000,00.
+
+Com a petição inicial (fls 02/13), que atribuiu à causa o valor de R$ 15.000,00,  juntou documentos a fim de fundamentar a sua pretensão.
+
+A tutela pleiteada foi concedida, conforme fls 32.
+
+Regularmente citada (fls 78), a requerida apresentou contestação afirmando que compareceu por duas vezes no endereço do autor nos dias 21/06/2013 e 05/07/2013, sem, contudo, conseguir autorização para realizar a manutenção na linha do autor.
+
+No tocante ao mérito, afirma que não houve interrupção do serviço speedy, o qual se encontra ativo na linha do autor com a atual configuração desde 10/03/2012. Ademais, a requerida teria realizado verificação em sua rede externa sem constatar nenhuma irregularidade. Assevera que se houve alguma falha, seria decorrente de defeito na rede interna do autor e não de problemas na rede da requerida. Nessa esteira, a culpa exclusiva do autor caracterizaria a isenção de sua responsabilidade de eventual falha no serviço contratado. No mais, afirma que não foram comprovados os danos morais alegados e, em caso de acatamento, o valor deve ser moderado. Pugnou, por fim, pela improcedência da ação.
+
+Houve réplica (fls 118/121), tendo o requerente pretendido a colheita do depoimento do representante da ré, a condenação da empresa requerida ao pagamento da totalidade da multa por descumprimento da liminar além de sua condenação por litigância de má fé.
+
+Ao seu turno, a requerida informa não ter mais prova a produzir, requerendo o julgamento antecipado da lide.
+
+É o que basta relatar.
+Fundamento e decido.
+
+O pedido é parcialmente procedente.
+
+Inicialmente, cabe destacar que o presente feito comporta julgamento antecipado, nos moldes do artigo 330, I, do CPC, pois a controvérsia incide apenas quanto à matéria de direito.
+
+O juiz deve sempre impedir a realização de provas ou diligências inúteis (art.130).
+
+Esse poder de indeferimento de provas inúteis ou protelatórias é, na verdade, um dever do magistrado, porque não há nenhum motivo para retardar a prestação jurisdicional quando já tiver nos autos todos os elementos para resolver o litígio, dando-lhe a solução adequada, matéria de ordem pública, portanto, salvo se num primeiro momento não percebeu que as provas até então produzidas já eram suficientes para o julgamento do mérito (Apelação Cível nº 726.241-5, rel. Juiz Roberto Midolla, j.19/05/97).
+
+No mérito, não há como negar a inequívoca relação consumerista entre as partes, devendo ser aplicada a regra de inversão do ônus da prova, prevista no artigo 6.º, VIII, do CDC.
+
+Desta feita, deveria a requerida comprovar que os serviços prestados estavam disponíveis ao autor e em pleno funcionamento.
+
+Se não o fez, deve arcar com sua desídia, presumindo-se que o inadimplemento contratual.
+
+Nem se diga que a requerida não teria como fazer tal prova, pois o autor em sua petição inicial apresenta o protocolo das conversas mantidas com funcionários da empresa tratando do assunto. Além disso, bastava que trouxesse aos autos prova de eventual transferências de dados ou acessos efetivados pelo autor.
+
+Como esta prova não existe, deve-se ter como irregular o serviço prestado pela requerida, consubstanciando-se verdadeiro inadimplemento contratual.
+
+Portanto, de rigor a confirmação da tutela antecipada concedida, julgando-se procedente o pedido obrigacional, sendo ausente de comprovação idônea a alegação da requerida de que prestou a contento os serviços contratados.
+
+Contudo, atento a todos os acontecimentos, tenho que a conduta da ré não foi grave suficiente a causar ao requerente dano moral indenizável.
+
+Trata-se de acontecimento corriqueiro e habitual na sociedade moderna, que não tem o condão de gerar qualquer ofensa aos direitos da personalidade.
+
+A jurisprudência em caso análogo já decidiu:
+
+INDENIZAÇÃO - DANOS MORAIS ? Contrato de compromisso de compra e venda - Cobrança indevida, por carta, de parcelas já quitadas - Mero aborrecimento que não configura agressão à personalidade ou ofensa à dignidade - Sentença mantida - Recurso improvido. Apelação cível n° 010878-61.2010.8.26.0348. 7ª.Câmara de Direito Privado do Tribunal de Justiça de São Paulo.
+
+Não se dúvida que o autor aborreceu-se com o episódio, mas o mero dissabor, o aborrecimento, a mágoa, a irritação ou a sensibilidade exacerbada estão fora da órbita do dano moral, porquanto, além de fazerem parte da normalidade do dia a dia não são intensas e duradouras a ponto de romper o equilíbrio psicológico do indivíduo.
+
+A dor indenizável é exclusivamente aquela que afeta sobremaneira a vítima, que atinge sua esfera legítima de afeição, que agride seus valores, que a humilha, expõe, fere, causando danos, na maior parte das vezes irreparável, devendo a indenização ser fixada apenas como forma ate aplacar a dor (cf. STJ - AgRg no RE 387.014-9-SP, Rei/ Min. Carlos Velloso, em RT 829/129).
+
+Ação declaratória de inexistência de relação jurídica cumulada com danos morais. Inovação em sede recursal. Inviabilidade. Cobrança indevida por carta. Fato que por si só não gera dano. Ausência de negativaçáo em nome da autora. Dano moral não comprovado. Indenização indevida. Sentença mantida. Recurso desprovido. (APELAÇÃO com REVISÃO n° 9191414-90.2007.8.26.0000, Rel. Adilson de Andrade, 3a Câmara de Direito Privado, TJSP, J. 02/11/08).
+
+Ação de indenização por danos morais - Improcedência ? O dano moral afere-se segundo o senso comum do homem médio - Ausência de dano imaterial. Os aborrecimentos decorrentes de equivocada cobrança, efetuada de modo não vexatório, por carta a cujo conteúdo somente a autora teve acesso, constituem meros dissabores, incapazes de desencadear tormentos psicológicos em um indivíduo cuja sensibilidade enquadra-se no padrão de normalidade. Recurso desprovido. (Apelação n° 9179594-40.2008.8.26.0000, Rei. César Lacerda, 28ª Câmara de Direito Privado, TJSP, 22/03/11).
+
+Nas palavras de Antônio Jeová Santos, simples desconforto não justifica indenização. Leciona o autor:
+
+Conquanto existam pessoas cuja suscetibilidade aflore na epiderme, não se pode considerar que qualquer mal-estar seja apto para afetar o âmago, causando dor espiritual. [...] Para que exista dano moral é necessário que a ofensa tenha alguma grandeza e esteja revestida de certa importância e gravidade. ("Dano moral indenizável", São Paulo: Editora RT, 2003, 4a edição, p. 111).
+
+Imperioso que se diga que o requerente não teve seu patrimônio imaterial atingido ou constrito pelos fatos ocorridos. Ademais, as alegações de que o autor é diretor de instituição beneficente e que a incompetência da requerida lhe gerou transtornos no exercício de sua atividade não merece acolhida.
+
+Não há indicativos de que a associação presidida pelo autor tem sede na sua residência. Outrossim, conforme o documento de fls. 15/17 tem-se que inúmeras outras pessoas compõe a direção e o conselho do movimento, não sendo crível que sua atividade tenha sofrido qualquer prejuízo.
+
+Finalmente, não vislumbro prova suficiente da má-fé da requerida, devendo ser afastado o pedido de imposição de sanção processual.
+
+Quanto à multa pelo suposto descumprimento da liminar concedidade, trata-se de matéria que deverá se objeto de eventual execução, caso haja impugnação pela executada, após o trânsito em julgado desta sentença.
+
+Por ora, nada a deliberar quanto a este aspecto de direito processual.
+
+Ante todo o exposto, JULGO PARCIALMENTE PROCEDENTE O PEDIDO, e extingo o feito, com julgamento do mérito, nos termos do artigo 269, I, do CPC, apenas para confirmar a tutela antecipada concedida, obrigando a empresa ré a oferecer e manter os serviços contratados pelo autor, mantendo-se a multa já fixada, afastando-se, contudo, o pedido indenizatório.
+
+Tendo em vista a causalidade recíproca, custas repartidas pelas partes, arcando cada qual com os honorários de seus respectivos patronos.
+
+P.R.I.
+
+São Paulo, 23 de setembro de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

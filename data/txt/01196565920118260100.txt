@@ -1,0 +1,51 @@
+
+
+SENTENÇA
+
+Processo nº:0119656-59.2011.8.26.0100
+Classe ? Assunto:Execução de Título Extrajudicial - Assunto Principal do Processo > 
+Requerente:Itaú Unibanco S/A
+Requerido:Bari Engenharia e Empreendimentos Ltda e outro
+
+
+
+
+Juiz(a) de Direito: Dr(a). Lígia Maria Tegão Nave
+
+
+
+
+
+Vistos.
+BARI ENGENHARIA E EMPREENDIMENTOS LTDA e MAURO DE CAMARGO BARI opuseram embargos à execução que lhes é movida por ITAÚ UNIBANCO S/A, aduzindo a ilegalidade da cumulação da comissão de permanência com demais encargos moratórios (fls. 02/15). Juntaram documentos (fls. 16/75).
+O embargado manifestou-se às fls. 81/86, aduzindo a regularidade da contratação.
+É o relatório.
+Fundamento e Decido.
+O feito comporta julgamento antecipado, nos termos dos artigos 740 e 330, inciso I, do Código de Processo Civil.
+Antônio Carlos Marcato ensina que:
+?Constatando ser o caso de julgamento do pedido (art. 269, I), o juiz avaliará a necessidade, ou não, de produção de provas tendentes à formação de seu convencimento sobre a pertinência da pretensão deduzida em juízo, provas essas respeitantes, exclusivamente, às questões de fato (da mihi facto, dabo tibi ius). Concluindo pela negativa, conhecerá diretamente do pedido, proferindo sentença de mérito, dispensada, assim, a fase instrutória, sem dúvida alguma a mais demorada e onerosa de todas as demais fases processuais.?
+A jurisprudência também entende da mesma forma:
+
+?Julgamento antecipado da lide. Perícia. Cerceamento de defesa (improcedência). Recurso (deficiência). 1. É lícito ao juiz conhecer diretamente do pedido, 'quando a questão de mérito for unicamente de direito, ou, sendo de direito e de fato, não houver necessidade de produzir prova em audiência' (Cód. De Pr. Civil, art. 330, I). Em tal sentido, é-lhe lícito assim proceder, em estando o processo 'suficientemente instruído para julgamento, tanto assim que realmente não tive dificuldades para apreciar o mérito', ou porque só se justificaria a perícia se assegurado o direito, a saber, 'como o pedido é genérico, essa apuração de danos teria, necessariamente, no caso de procedência do pedido, de ser delegada para a fase liquidatória'. (...) 3. Inocorrência de ofensa aos arts. 130 e 330, I do Cód. Pr. Civil. Dissídio inexistente, nem sequer regularmente comprovado. 4. Recursos especiais não conhecidos? (STJ, Resp 20277/MG, 3ª Turma, rel. Min. Nilson Naves, j. 18.11.1999, DJ 8.3.2000, p. 106 ? in Informa Jurídico 25).
+No mérito, o pedido procede em parte. 
+A comissão de permanência, por si só, não é ilegal, desde que calculada pela taxa média de mercado apurada pelo Banco Central e limitada à taxa do contrato. Nesse sentido, a Súmula 294 do STJ. 
+Tal entendimento, de que a comissão de permanência deve ser limitada à taxa de juros remuneratórios prevista no contrato, também foi adotado pelo Eg. TJSP. Confira-se: 
+COMISSÃO DE PERMANÊNCIA ? Contrato ? Limitação da sua taxa máxima aos juros nele pactuados ? Aplicação da Súmula 294 do Superior Tribunal de Justiça ? Sentença de improcedência dos embargos ao mandado monitório parcialmente reformada - Recurso parcialmente provido. (Apelação Cível n. 929.680-8 - Relator: Cunha Garcia ? 30.05.06)
+COMISSÃO DE PERMANÊNCIA - Contrato - Mútuo - Limitação desta à taxa da normalidade do contrato - Súmula 294 do E.STJ - Cobrança admissível porém limitada - Verba devida - Recurso desprovido. (Apelação Cível n. 957384-2 - Nuporanga - 15ª Câmara de Direito Privado - 25/10/05 - Rel. Des. Waldir de Souza José - V.U. - V. 9531)
+COMISSÃO DE PERMANÊNCIA - Contrato - Serviços bancários - Incidência da taxa após o vencimento - Cláusula que autoriza sua cobrança, não potestativa - Atualização com base na taxa média apurada pelo Banco Central - Possibilidade - Entendimento da Súmula n. 294 do Superior Tribunal de Justiça - Limitação à taxa contratual prevista para os juros remuneratórios - Recurso parcialmente provido (Apelação Cível n. 983.014-8 - Comarca de Araçatuba - 22ª Câmara de Direito Privado - Relator: Roberto Bedaque - J. 9.5.2006 - V.U. - Voto n. 11.924)
+Contudo, não é possível a cumulação da comissão de permanência com nenhum outro encargo de natureza moratória (correção monetária, juros moratórios, multa moratória, por exemplo). Tal prática foi vedada pelo Colendo Superior Tribunal de Justiça por meio das Súmulas 30 e 296.
+Em outras palavras, o valor do débito executado deverá ser recalculado, de modo a incidir, tão-somente, a comissão de permanência no período de inadimplência da embargante, afastando-se a aplicação dos demais encargos. 
+Assim tem entendido o Egrégio Tribunal de Justiça do Estado de São Paulo:
+?COMISSÃO DE PERMANÊNCIA - Impossibilidade de ser cobrada com outros encargos moratórios - Súmulas 30, 294 e 296 do Colendo Superior Tribunal de Justiça - Recurso parcialmente provido.
+... quanto à comissão de permanência importante salientar que ela possui natureza tríplice funciona como índice de remuneração do capital mutuado [juros remuneratórios); atualiza o valor da moeda (correção monetária) e compensa o credor pelo inadimplemento contratual e o remunera pelos encargos decorrentes da mora Desse modo, qualquer cumulação da comissão de permanência com os encargos previstos pelo Código Civil, sejam estes moratórios ou não, representa bis in idem) observada a natureza jurídica dos institutos em questão.
+... Em nenhuma hipótese a aludida comissão pode ser cumulada com outros acréscimos moratórios É o que já deixou assentado o E STJ. "É admitida a incidência da comissão de permanência após o vencimento da dívida, desde que não cumulada com juros remuneratórios, juros moratórios, correção monetária e/ou multa contratual" (cf. AgRg no Resp 828290-RS, rei. Min. Nancy Andnghi, T3, DJ 26 6.06, p. 145).? (Apelação n° 7.283.370-4 ? Ilha Solteira, Vigésima Primeira Câmara de Direito Privado do Tribunal de Justiça de São Paulo, Relator SILVERA PAULILO, 15/10/2008).
+Assim, é caso de: ( a ) limitar a comissão de permanência à taxa média de mercado apurada pelo Banco Central; ( b ) limitar a comissão de permanência à taxa prevista para os juros remuneratórios; ( c ) afastar outros encargos moratórios que estejam cumulados com a comissão de permanência (multa moratória, correção monetária, juros moratórios, por exemplo), mantendo apenas a comissão de permanência.
+Por fim, não restaram demonstradas quaisquer outras irregularidades praticadas pelo embargado, inexistindo violação aos princípios da função social dos contratos e da boa-fé objetiva.
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTES os embargos à execução para determinar a exclusão dos encargos moratórios cumulados com a comissão de permanência, conforme definido na fundamentação supra.
+Prossiga-se a execução nos termos desta decisão. 
+Em virtude da sucumbência recíproca, cada parte arcará com metade das custas e despesas processuais e com a integralidade dos honorários dos respectivos patronos.
+P.R.I.
+São Paulo, 09 de maio de 2013.
+
+LÍGIA MARIA TEGÃO NAVE
+            Juíza de Direito

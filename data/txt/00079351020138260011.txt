@@ -1,0 +1,54 @@
+
+
+SENTENÇA
+
+CONCLUSÃO
+Em 25 de julho de 2013, faço estes autos conclusos à MMª. Juíza de Direito, Dra. PAULA LOPES GOMES. 
+Eu_________Escrev. Subscrevi.
+
+
+Processo nº:0007935-10.2013.8.26.0011
+Classe - AssuntoProcedimento do Juizado Especial Cível - Indenização por Dano Material
+Requerente:Diego Jorge Gonçalves
+Requerido:Mercado Libre S.R.L. - Ebazar.com.br Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Paula Lopes Gomes
+
+Vistos.
+
+Dispensado o relatório, nos termos da Lei 9.099/95.
+
+Trata-se de ação de indenização por danos materiais e morais. Segundo a inicial, em abril de 2013, o autor anunciou a venda de um IPAD RETINA no site da corré Mercadolivre. Em 03 de abril de 2013, recebeu e-mail da empresa "MercadoPago" informando que o usuário BUSINESSSP2008(59) havia realizado a compra do produto e que a empresa havia recebido a quantia de R$2.200,00. Após o recebimento da mensagem, enviou o produto ao comprador. Contudo, jamais recebeu qualquer quantia, sob o argumento de que o e-mail enviado era falso e que era seu o dever de verificar a existência do depósito na conta mantida no "MercadoPago". Tentou resolver a questão, sem sucesso. 
+
+O pedido é improcedente.
+
+É incontroverso que a ré é responsável pela administração do site www.mercadolivre.com.br, no qual são feitas intermediações de transações patrimoniais entre vendedores e compradores previamente cadastrados.  
+A empresa "MercadoPago", por sua vez, é uma plataforma de pagamentos pela internet. No sistema administrado pela empresa "MercadoPago", não há a retenção dos valores pagos pelo comprador.  O dinheiro é repassado automaticamente ao vendedor que tem o dever de acessar sua conta no site "MercadoPago" para verificar se os valores foram efetivamente creditados antes do envio do produto ao comprador. 
+
+O regulamento é detalhado e acessível aos usuários do sistema.
+
+Assim, é evidente que a mensagem eletrônica da suposta confirmação de pagamento (fls. 09/10) e que tem como remetente "info@marcadopago.com" é falsa. A mensagem encaminhada ao autor foi criada de forma fraudulenta pelo suposto comprador com a finalidade de que o produto fosse enviado, sem a necessidade do pagamento. É o que se denomina de phishing. Phishing ocorre quando alguém altera o remetente de um e-mail, fazendo com que se pareça com um endereço oficial, quando não é. Facilmente golpistas podem falsificar sua identidade de remetente como alguém ou alguma instituição de confiança. Não é necessário sequer ter conhecimentos profundos de informática.
+
+O autor ignorou o regulamento do Sistema "MercadoPago" ao qual aderiu, não se certificou de que o pagamento havia sido creditado e, sem o cuidado necessário, enviou o produto ao responsável pela fraude.
+
+Forçoso reconhecer, diante disso, que houve culpa exclusiva do próprio autor, que não observou as regras do Sistema "MercadoPago"  e de terceiro, que praticou ato fraudulento e encaminhou e-mail falso ao autor, a excluir a responsabilidade da ré pelos prejuízos experimentados. 
+
+Não é demais observar que houve o cumprimento do dever de prestar informações claras e precisas a respeito do sistema de compra e venda, bem como do sistema de pagamento "MercadoPago". A forma de funcionamento dos Sistemas é clara e direta. Além disso, são destacadas dicas de segurança para a realização de compras e vendas através do site. 
+
+Nenhuma empresa e nenhum órgão tem como evitar a circulação de e-mails falsos aos usuários da internet, já que não existe um sistema de controle da rede mundial de computadores. 
+
+Aos usuários incumbe o dever de observarem, de forma rigorosa, o regulamento dos sites que acessam, garantindo a segurança das transações realizadas pela internet. 
+
+Em suma, como não houve falha nos serviços prestados, tampouco a prática de ato ilícito pela ré, não se cogita do dever de indenizar.
+
+Ante o exposto, JULGO IMPROCEDENTE a pretensão inicial.
+Sem custas ou honorários advocatícios, na forma do art. 55 da Lei 9099/95.
+
+As partes poderão interpor recurso inominado contra esta sentença, no prazo de 10 (dez) dias, por meio de advogado, mediante o pagamento do preparo recursal, na forma do art. 42 da Lei Federal 9.099/95 e do art. 4º. da Lei Estadual nº 11.608/2003.  O preparo recursal corresponde ao valor de R$ 193,70 (art. 4º, inc. I a III, lei estadual nº 11.608/03) e o porte de remessa e retorno corresponde ao valor de R$ 29,50.
+P.R.I.
+São Paulo, 25 de julho de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

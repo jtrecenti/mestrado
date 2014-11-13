@@ -1,0 +1,49 @@
+
+
+SENTENÇA
+
+Processo nº:0213937-07.2011.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Arrendamento Mercantil
+Requerente:Roberto de Mello
+Requerido:Banco Itau S/A
+ 
+Vistos.
+
+ROBERTO DE MELO move ação revisional de contrato de arrendamento mercantil c/c indenização por danos morais contra BANCO ITAÚ S.A., alegando, em síntese, que em 15/04/2009 firmou com o réu contrato de financiamento para aquisição do veículo automotor para ser pago em 60 prestações mensais no valor de R$ 577,04, sendo pago o valor de R$ 4.000,00 a título de VRG antecipado, e que compunha a parcela mensal. Ocorre que o réu lhe cobrou juros abusivos, além de taxas ilegais de que não tinha conhecimento, inviabilizando o adimplemento do contrato. Foram cobradas tarifas não esclarecidas, tais como, tarifa de cadastro no valor de R$ 350,00; inclusão de gravame eletrônico no valor de R$ 42,85; tarifa de avaliação de bens no valor de R$ 198,00, tudo somando R$ 590,85, sem que nenhuma dessas tarifas lhe fosse informada no momento da contratação. Ademais, a despeito do índice de juros moratórios utilizado no contrato ser de 1,78%, o réu acabou por aplicar uma taxa de juros no valor de 2,31% ao mês, totalizando 31,99% ao ano, através da utilização da Tabela Price, com a cobrança de juros mensalmente capitalizados. Alegou, ainda, a cobrança indevida de comissão de permanência. Assim, havendo relação de consumo entre as partes, argumentou que faz jus à revisão do contrato e a repetição do indébito em dobro, na forma de compensação. Pleiteou, por fim, a condenação do réu ao pagamento por danos morais em razão da prática de anatocismo.
+Pelo que expôs requereu a final procedência da ação, com a revisão do contrato nos termos acima.
+Juntou os documentos de fls. 32/71.
+O pleito antecipatório bem como o pedido de justiça gratuita foram indeferidos a fls. 79. O autor interpôs agravo de instrumento, o qual não teve efeito suspensivo e ainda está pendente de julgamento. 
+O réu foi regularmente citado e contestou a fls. 105/125, sustentou a legalidade das cláusulas contratuais e dos encargos moratórios cobrados do autor e argumentou com o posicionamento do Superior Tribunal de Justiça nos julgamentos do recurso repetitivo nº 1.061.530/RS, quanto aos juros. Negou a existência de abusividade ou desequilíbrio contratual que levasse ao afastamento da cobrança da tarifa de cadastro, da inclusão de gravame eletrônico e da tarifa de avaliação de bens, tendo em vista tais cobranças correspondiam a serviço efetivamente prestados pelo réu, além de estar de acordo com a regulamentação bancária. Insistiu na validade da capitalização mensal dos juros, tendo em vista a Medida Provisória 2180-36/2001, acrescentando que as instituições financeiras não se sujeitam à lei da usura, inexistindo taxas de juros acima da média de mercado ou comissão de permanência cobrada simultaneamente com correção monetária ou juros remuneratórios, aplicando-se assim as súmulas 296 e 294 do STJ. 
+Réplica a fls. 130/150.
+É o relatório. Decido.
+
+-I- 
+Trata-se de ação revisional de contrato de arrendamento mercantil.
+O feito comporta julgamento imediato, na forma prevista no artigo 330, inciso I, do Código de Processo Civil, porquanto suficiente a prova documental que instrui os autos.
+Alega o autor, em suma, que o réu lhe cobrou juros abusivos, de 2,31% ao mês, e portanto 31,99% ao ano, além de tarifas ilegais não esclarecidas quando da contratação, tais como tarifa de cadastro no valor de R$ 350,00; inclusão de gravame eletrônico no valor de R$ 42,85; tarifa de avaliação de bens no valor de R$ 198,00, tudo somando R$ 590,85. Além disso, houve cobrança de comissão de permanência cumulativamente a outros encargos .
+ Contudo, a estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade. 
+Isso porque a Súmula 596 do C. Supremo Tribunal Federal prevê que as disposições do Decreto 22.626 de 1933, que limitam a cobrança de juros a 12% ao ano, não se aplicam às taxas de juros e aos outros encargos cobrados nas operações realizadas por instituições públicas ou privadas, que integram o sistema financeiro nacional. 
+A abusividade, portanto, não se presume pela circunstância de os juros terem sido estabelecidos em patamar superior ao limite previsto na Lei de Usura, mas deve ser demonstrada pelas circunstâncias do caso concreto, especialmente, segundo a orientação do C. Superior Tribunal de Justiça, tomando como parâmetro as taxas médias praticadas pelas instituições financeiras à época do contrato, para a mesma praça de  pagamento e de acordo com a mesma espécie contratual, o que, no caso dos autos, não se comprovou.
+No que diz respeito à alegação de aplicação de juros capitalizados, a capitalização passou a ser permitida pela medida provisória nº 1963-17, nos contratos celebrados a partir da sua vigência, portanto posteriores a 31/3/2000, como no caso dos autos, apenas nas hipóteses em que fosse pactuada de forma expressa, exatamente como ocorre na presente ação, em que o contrato expressamente a contempla, de modo que não há como se reconhecer a ilegalidade pretendida.
+
+Ainda,   não se demonstrou a cobrança de comissão de permanência cumulada com outras verbas decorrentes da mora,  hipótese em que a cobrança é vedada pela legislação. Isso porque ao analisar o contrato celebrado pelas partes (fls. 33/37), bem como o parecer técnico apresentado pelo autor (fls. 50/70), não se verifica a cobrança da referida comissão de permanência.  
+ Finalmente, curvo-me ao entendimento do E. STJ, no sentido da possibilidade da cobrança de tarifas bancárias contratualmente estipuladas pelas partes, tais como as citadas na inicial.  Nesse sentido:
+  CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. CÉDULA DE CRÉDITO BANCÁRIO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. EMBARGOS DE DECLARAÇÃO. NULIDADE. AUSÊNCIA. TAXA DE ABERTURA DE CRÉDITO (TAC).TAXA DE EMISSÃO DE CARNÊ (TEC). EXPRESSA PREVISÃO CONTRATUAL.COBRANÇA. LEGITIMIDADE.
+1. Não viola a norma de regência dos embargos de declaração o acórdão que apenas decide a lide contrariamente aos interesses da parte.
+2. As normas regulamentares editadas pela autoridade monetária facultam às instituições financeiras, mediante cláusula contratual expressa, a cobrança administrativa de taxas e tarifas para a prestação de serviços bancários não isentos.
+3. As tarifas de abertura de crédito (TAC) e emissão de carnê (TEC), por não estarem encartadas nas vedações previstas na legislação regente (Resoluções 2.303/1996 e 3.518/2007 do CMN), e ostentarem natureza de remuneração pelo serviço prestado pela instituição financeira ao consumidor, quando efetivamente contratadas, consubstanciam cobranças legítimas,  sendo certo que somente com a demonstração cabal de vantagem exagerada por parte do agente financeiro é que podem ser consideradas ilegais e abusivas, o que não ocorreu no caso presente (REsp 1.246.622/RS, Rel. Ministro LUÍS FELIPE SALOMÃO, unânime, DJe de 16.11.2011) 4. Recurso especial conhecido e provido. (REsp 1270174/RS, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 10/10/2012, DJe 05/11/2012)
+Daí a improcedência da ação.
+
+
+-II- 
+Ante o exposto, JULGO IMPROCEDENTE a presente ação e condeno o autor ao pagamento das custas processuais e honorários advocatícios de 15% do valor da causa. A taxa judiciária para apelação é de R$ 392,15, e o porte de remessa e retorno para 1 volume é de R$ 25,00.
+
+P.R.I.
+São Paulo, 26 de novembro de 2012.
+CELINA DIETRICH TRIGUEIROS TEIXEIRA PINTO
+Juíza de Direito
+
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

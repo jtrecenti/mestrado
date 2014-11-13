@@ -1,0 +1,40 @@
+
+
+SENTENÇA
+
+Processo:0010047-49.2013.8.26.0011 - Embargos À Execução
+Embargante:Universo Online S/A
+Embargado:Horus Soluções em Prevenção a Fraudes Ltda
+
+Juiz(a) de Direito: Dr(a). Régis Rodrigues Bonvicino
+
+Vistos.
+Universo Online S/A, qualificado(a), interpôs Embargos À Execução que lhe move Horus Soluções em Prevenção a Fraudes Ltda, igualmente qualificado(a).
+Alega o embargante falta de liquidez, exigibilidade e certeza da obrigação contida no título levado à execução. 
+Juntou documentos.
+O efeito suspensivo foi concedido a fls. 252.
+A embargada impugnou os embargos a fls. 256/284.
+Houve réplica a fls. 523/535.
+Audiência de conciliação a fls. 538, na qual as partes desistiram da produção de provas. 
+É a síntese.
+Decido.
+Os embargos procedem.
+O embargado equivocou-se de ação: deveria ter ajuizado uma ação ordinária de rescisão ilegal de contrato cumulada com eventuais lucros cessantes, danos materiais e até morais, ou uma ação de obrigação de fazer.
+O contrato juntado na inicial de execução é título que representa obrigação  ilíquida e incerta. Considere-se o seguinte conceito: A certeza de uma obrigação diz respeito à sua existência; decorre da perfeição formal da obrigação e da ausência de reservas quanto sua plena regularidade. Para que uma obrigação seja certa deve haver a definição de seus elementos, ou seja, seus sujeitos e seu objeto.
+A liquidez de uma obrigação diz respeito ao seu objeto, ou seja, a prestação. Portanto, não é liquida a obrigação que não contenha a descrição e o detalhamento da extensão da  prestação. Se se tratar de obrigação de pagar quantia, será líquido o título que indicar o valor da prestação. 
+O título em debate não tem a definição clara da dos elementos da obrigação, notadamente sua extensão.
+O contrato em debate é vago, prevendo exclusivamente obrigações a serem apuradas em eventual processo de conhecimento. Ainda que haja, para efeitos de raciocínio, previsão de reajuste anual, previsão de multa e previsão de indenização por prejuízos, tais verbas não são líquidas em tal documento, o que impede serem executadas. Houve um erro por parte do embargado que macula o interesse de agir. A via eleita é absolutamente inadequada, inclusive, por cercear a defesa do embargante. 
+A avença prevê multa contratual de 10% do valor do contrato. Mas, o instrumento não prevê o mencionado valor total da avença. Verifica-se que o embargado calculou o valor da multa da seguinte maneira: multiplicou por 12 o valor mensal dos serviços, conforme anexo III, e extraiu a porcentagem de 10%. Como a não há previsão contratual de tal cálculo, ainda é ilíquida a obrigação de pagar a multa. Leia-se a jurisprudência:
+"Como se observa, tratando-se de exigência de multa contratual, o contrato mantido entre as partes não pode ser considerado título executivo extrajudicial por falta de liquidez, exigibilidade e certeza. Isto porque, (...) os requisitos da certeza, liquidez e exigibilidade devem estar ínsitos no titulo" (TJ-SP - APL: 2179894620118260100 SP 0217989-46.2011.8.26.0100, Relator: Eduardo Siqueira, Data de Julgamento: 05/09/2012, 38ª Câmara de Direito Privado, Data de Publicação: 12/09/2012)
+O débito reclamado a título de reajuste também não é líquido, já que a cláusula 12.2 do contrato (fls. 56 da execução) prevê que 80% do valor do preço será reajustado pelo índice do dissídio coletivo. Sendo assim, a liquidez de tal verba também demanda apuração em processo de conhecimento.
+Por outro lado, a indenização por danos materiais carece de certeza e de liquidez. Isso porque há que se demonstra a rescisão dos contratos de trabalho da equipe da embargada, bem como todas as verbas trabalhistas efetivamente quitadas. Além disso, há que se demonstrar o nexo de causalidade entre a rescisão do contrato das partes e a demissão dos empregados da embargada.
+Em suma, a verificação dos direitos dos embargados depende da apuração de fatos que não estão ínsitos no título executivo, o que torna inadequada a via executiva, sendo necessária a propositura de uma ação de conhecimento. Leia-se:
+"A apuração de fatos, a atribuição de responsabilidades, a exegese de cláusulas contratuais tornam necessário o processo de conhecimento, e descaracterizam o documento como titulo executivo.? (STJ; REsp 39567/MG)
+
+Com razão o embargante ao afirmar que: "Desse modo, a primeira coisa que se vê é: a execução proposta pela embargada HORUS não está amparada por título executivo representativo de obrigação certa, líquida e exigível. Com a devida vênia, não é porque o referido instrumento contratual está 'assinado pelos Representantes legais da empresa e por duas testemunhas', que a execução poderia ser manejada para a cobrança de valores decorrentes de supostos descumprimentos contratuais, tal como pretendido".
+Para a propositura da execução direta, tanto o título como a obrigação nele representada deve conter os requisitos legais. Ainda que o embargante tenha em mãos um título executivo, o instrumento de contrato assinado, a obrigação nele representada não cumpre os requisitos de certeza e liquidez.
+Por fim, os argumentos lançados pelo UOL no que toca ao descumprimento do contrato por parte da Horus são pueris. O Uol tenta incluir no volume de "Charge Back" cancelamentos lícitos de compras, entretanto, este tema e outros só podem ser tratados na ação de conhecimento.
+Ante o exposto, JULGO PROCEDENTES os embargos à execução, com base no art. 269, I, do Código de Processo Civil, para determinar a extinção da execução de título extrajudicial nº 0007689-14.2013.8.26.0011. Condeno o embargado ao pagamento de custas, despesas processuais e honorários de advogado que fixo em R$ 20.000,00, por equidade, nos termos do art. 20, § 4º, do Código de Processo Civil.
+P.R.I.C.
+  
+São Paulo, 07 de novembro de 2013.

@@ -1,0 +1,62 @@
+
+
+SENTENÇA
+
+Processo nº:0044564-56.2010.8.26.0053
+Classe - AssuntoProcedimento Ordinário - Anulação de Débito Fiscal
+Requerente:André Luis dos Santos
+Requerido:Fazenda do Estado de São Paulo - FESP
+
+
+
+
+Juiz(a) de Direito: Dr(a). Simone Gomes Rodrigues Casoretti
+
+
+
+
+VISTOS.
+
+
+
+
+
+ANDRÉ LUIS DOS SANTOS moveu ação contra a FAZENDA DO ESTADO DE SÃO PAULO alegando, em resumo,  que foi incluído injustamente no polo passivo da ação de execução fiscal nº 565.01.1995.012940-0 da Vara de Execuções Fiscais Federais da Comarca de São Caetano do Sul (FESP x METAL SWISS IND MET USIN PREC IMP EXP LTDA e outro). Alegou a existência de prescrição intercorrente do débito e ausência de comprovação da dissolução irregular da empresa executada. Ainda, afirmou que não se configurou a responsabilidade do sócio em relação às dívidas contraídas, pois não ocupava posição de gerência ou qualquer outro cargo na empresa. Discorreu sobre a Lei Federal nº 11.941/2009 (afirmando que não há responsabilidade dos sócios de empresa quanto aos débitos com o INSS) e sobre a obrigação de reparar o dano, com base no artigo 940 do Código Civil. Requereu a tutela antecipada para suspender a execução fiscal e, ao final, a declaração de inexigibilidade do débito fiscal, com a condenação da ré ao pagamento em dobro da quantia por ela cobrada indevidamente, bem como danos morais; subsidiariamente, requereu a aplicação do Decreto nº 56.179/2010, declarando a extinção da execução fiscal, levantando-se eventuais penhoras efetivadas.
+Com a inicial vieram documentos (fls. 21/60).
+Indeferida a antecipação de tutela (fl. 65).
+Citada, a ré apresentou contestação (fls. 75/84). Alegou impossibilidade jurídica do pedido, falta de interesse de agir, inépcia da inicial e ausência de documentos indispensáveis à propositura da ação e, ainda, inexistência de causa para o pedido de indenização por danos materiais e morais.
+Houve réplica (fls. 87/88).
+
+É o relatório.
+FUNDAMENTO E DECIDO 
+
+Antecipo o julgamento, pois suficientes os documentos, nos termos do art. 330, I do Código de Processo Civil.
+As preliminares de falta de possibilidade jurídica do pedido e falta de interesse de agir devem ser afastadas em razão do V. Acórdão que deu provimento ao recurso do autor em processo entre as mesmas partes e derivado da mesma execução fiscal:
+APELAÇÃO - Ação declaratória de inexigibilidade de débito fiscal - Extinção da ação pelo reconhecimento da carência da ação por falta de interesse de agir - Execução fiscal já ajuizada quando da propositura da presente ação - Irresignação ? Cabimento. O ajuizamento da ação executiva não impede que o devedor exerça o direito constitucional de ação declaratória ou desconstitutiva. Precedente. Decisão reformada. Recurso provido. (TJSP, Apelação nº 0001545-63.2011.8.26.0053, relator Des. Danilo Panizza, j. 07/08/2012).
+A inicial é inepta, pois: não se consegue extrair uma ligação entre os tópicos ?princípio da dignidade humana? e ?da violação ao princípio da segurança jurídica? com os fatos e os pedidos; ademais, como bem apontado pela ré, o tópico ?o sócio e sua responsabilidade com o INSS? foge da matéria em discussão (débito tributário); e, finalmente, a abordagem superficial ? alega prescrição intercorrente no processo de execução fiscal, mas não fornece os fatos que fundamentam tal alegação ? impede o exercício da defesa. Em abono:
+(?) não se verifica inépcia da inicial quando há estrita consonância entre os fatos narrados e o pedido, constituindo este decorrência lógica dos fatos e fundamentos jurídicos e permitindo o exercício pleno do direito de defesa dos representados. (TSE, REsp nº 27.550, rel. Min. Marcelo Ribeiro, j. 15/09/2009)
+Assim, ultrapassada a fase de emenda, conforme disposto no artigo 295, inciso I, do Código de Processo Civil, a inicial deve ser indeferida,em razão da inépcia e extinto o processo sem resolução de mérito.
+Mesmo desconsiderada a preliminar anterior, persiste a extinção sem julgamento de mérito, pois é manifesta a ausência de documentos essenciais à propositura desta ação.
+Trata-se de demanda diretamente relacionada à ação de execução fiscal nº 565.01.1995.012424-0, sendo que os pedidos ? suspensão, extinção, prescrição e indenização ? dependem exclusivamente da juntada de documentos, senão de cópia completa, daquela ação de execução.
+A ausência de tais documentos, ônus do autor, impede o exercício da defesa, que foi claramente incapaz de contestar os pedidos (como rebater a alegação de prescrição intercorrente, por exemplo, sem conhecimento do termo inicial?).
+Conclui-se que o autor falhou em cumprir o disposto no artigo 283, do CPC. Nesse sentido:
+Consideram-se indispensáveis os documentos que a lei expressamente exige para que a demanda seja proposta (título executivo, na execução; prova escrita, na ação monitória; certidão de casamento, na separação judicial etc.) ? documentos substanciais, na classificação de Amaral Santos ?, como também aqueles que se tornam indispensáveis porque o autor a eles se referiu na petição inicial, como fundamento do seu pedido ou pretensão ? documentos fundamentais, na classificação de Amaral Santos. (DIDIER JR, Fredie. Curso de direito processual civil. Volume 1. 11ª ed. Salvador: Jus Podvm, 2010. p. 428). (g.n.)
+
+Portanto, a exordial deve ser indeferida e o feito extinto sem julgamento de mérito.
+Porém, ainda que vencidas as preliminares, o mérito é desfavorável ao autor.
+A comprovação do quanto alegado depende de prova documental preexistente ? autos do processo de execução fiscal nº 565.01.1995.012424-0 ? que deveria ser produzida com a inicial, como ensina Cassio Scarpinella Bueno:
+O próprio Código de Processo Civil estabelece que a prova documental será produzida com a petição inicial (art. 396) e com a contestação (art. 297, v. n.2 do Capítulo 3), admitindo, o art. 397, a juntada de outros documentos a qualquer tempo quando novos ou quando destinados a fazer prova de fatos articulados durante o processo (fatos novos, portanto). Por isso, reiterando as considerações do número anterior, não há espaço para duvidar de que o sistema processual brasileiro é bastante rígido quanto ao momento da produção da prova documental que preexiste ao início do processo. O que a lei admite ser diferente à luz do modelo constitucional do processo civil e nem poderia é que, para fatos novos, novos documentos sejam apresentados. O mesmo quanto aos documentos novos, que por sê-los, têm origem após o início do processo. Nunca, entretanto, quando os documentos preexistem à elaboração da petição inicial e sua entrega ao Estado-juiz? (Curso Sistematizado de Direito de Processual Civil. Procedimento Comum: ordinário e sumário. Volume 2 Tomo I. Editora Saraiva, 2007. p. 105).
+
+Como o autor não se desincumbiu do ônus de comprovar o alegado, conforme estabelece o art. 333, I do CPC, é de rigor a improcedência dos pedidos.
+Ante o exposto e que mais consta dos autos, JULGO EXTINTA a ação, nos termos do artigo 267, inciso I, do Código de Processo Civil.
+Condeno o autor ao pagamento de custas e honorários de advogado, que fixo em 10% do valor dado à causa.
+
+P.R.I.
+
+São Paulo, 31 de outubro de 2013.
+
+Simone Gomes Rodrigues Casoretti
+                 Juíza de Direito
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

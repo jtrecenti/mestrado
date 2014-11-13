@@ -1,0 +1,96 @@
+
+
+SENTENÇA
+
+Processo nº:0001357-67.2004.8.26.0004
+Classe - AssuntoProcedimento Ordinário - Perdas e Danos
+Requerente:Grupo Ser Desenvolvimento das Relações Interpessoais. e de Mercado S/c Ltda - Me
+Requerido:Otto Luiz Ferreira de Aguiar - Me e outro
+
+
+
+
+Juiz(a) de Direito: Dr(a). Maria de Lourdes Lopez Gil Cimino
+
+
+JUIZO DE DIREITO DA 3ª VARA CÍVEL DO FORO REGIONAL DA LAPA.
+Processo n. 004.04.001357-3
+Ação cautelar n. 004.03.041759-0.
+
+
+
+VISTOS.
+
+
+
+GRUPO SER DESENVOLVIMENTO DAS RELAÇÕES INTERPESSOAIS E DE MERCADO S/C LTDA ME ingressou com ação cautelar, antes da propositura da presente ação ordinária, cujos autos foram alvo de restauração, por força de roubo cometido contra a patrona da autora, e do qual se lavrou Boletim de ocorrência. 
+
+Restaurados os autos mediante juntada de cópias, passa este Juízo a relatar os autos.
+
+Esta ação foi movida em face das pessoas de OTTO LUIZ FERREIRA DE AGUIAR E OTTO LUIZ FERREIRA DE AGUIAR ME alegando, em síntese, que estes receberam, em nome próprio valores referentes aos serviços prestados pela autora além de terem se apropriado indevidamente de ?software? de sua titularidade; locupletando-se, dessarte, de forma indevida. Para provarem o alegado aos autos colacionaram trechos retirados de ação trabalhista relativo ao depoimento prestado pelo réu, onde confessa ter montado o  site denominado Aporte, pelo mesmo desenvolvido(sic). Pugnaram pela procedência da ação com a condenação dos réus a pagaram indenização.
+
+Os réus, citados,  invocaram ilegitimidade passiva. É que os autores nada alegaram sobre a empresa ter divulgado na net o conteúdo do ?software?. Na realidade, imputam à pessoa física de Otto a apropriação indevida.
+
+No mérito assevera que sua função na empresa era justamente captar clientes e, para tanto, utilizava-se do computador da autora. Não existe nos autos nenhum documento demonstrando que a empresa tenha se apropriado de valores da autora, ou dado e recebido quitação junto aos seus clientes. De forma que pede seja ação julgada extinta em relação à empresa.
+
+Quanto ao mérito alegou ter sido contratado pela autora para atuar na área de recursos humanos, onde já possuía vasta experiência adquirida por força de trabalho desenvolvido em outras empresas do setor. Assim, o representante da autora o contratou para terminar de desenvolver (sic) o programa já existente da autora e vertê-lo para a internet. Daí seu acesso ao software. Após dissertar sobre o tema concluiu que a formatação dos testes são semelhantes, porém, não iguais, motivo pelo qual nada dela copiou. No tocante ao recebimento de valores, a autora fez um acordo com o réu concedendo-lhe o direito de receber R$ 7.200,00, em três parcelas, que seria pago pela empresa ?Wieland Metalúrgica Ltda". A primeira parcela foi emitida pela Top Work enquanto as demais à Otto Ferreira ME. E isto como forma de quitar os débitos que a autora possuía junto ao réu. Na iminência de sua saída da empresa, ajustaram serviços que seriam executados pelo réu, que nada recebeu. As acusações feitas contra os réus não encontram aparo nos autos e nenhum nexo causal existe de forma a justificar pedido genérico de indenização, razão pela  qual pedem a improcedência da ação.
+
+Aos autos juntou documentos de fls. 104/208.
+
+Réplica às fls. 216 e seguintes onde os autores juntam cópia da decisão que reformou a sentença criminal proposta contra o réu. Afirmam que o réu copiou o programa e até os erros que nele havia de português. Mais: silenciaram acerca desse fato assim como sobre os documentos de fls. 12/23, que identificam os usuários do programa dos autores. Outrossim, na ação cautelar o réu afirmou que desenvolveu um software denominado ?teste de perfil de personalidade? mediante emprego de material de fundo fornecido pelo Grupo Ser (sic) (fls.221). Quanto à cessão alega que o réu não a colacionou aos autos, e nenhum documento provando indigitado acordo. Pugnou pela procedência da ação.
+
+No curso da ação várias petições foram juntadas pelas partes inclusive cópia da inicial (fls. 304/318.
+
+Designada audiência de instrução, após saneado o feito, foi ouvida uma testemunha arrolada pela autora (fls.328).
+
+Este Juízo converteu o julgamento em diligência (fls.384) para realização de perícia técnica. Dessa decisão não se tirou recurso.
+
+Laudo foi juntado às fls. 402/410, sem que as partes, não obstante instadas a se manifestam.
+
+RELATEI
+DECIDO.
+
+Alega a autora ter criado e desenvolvido, para seu uso exclusivo, ?software? para analise do perfil e competência de empregados de determinada empresa.
+
+E contratou o réu, de forma informal para lhe prestar serviços no sentido de captar clientes que necessitassem desses serviços. A remuneração era realizada segundo os serviços prestados. 
+
+Todavia, a autora alega que o réu teria, sorrateiramente, copiado o denominado ?código fonte?, com o intuito de obter o banco de dados daquela.
+
+Por meio de um de seus clientes tomou conhecimento de que o réu estaria comercializando em seu próprio nome bens da autora, e recebendo dos clientes dela a remuneração desses serviços. O réu teria apenas alterado o lay out. Essa conduta foi alvo de queixa-crime promovida conta o réu, que se apoderou de quantias que não lhe pertenciam, e ainda deu quitação à uma cliente da ordem de R$ 4.800,00, totalizando um prejuízo à autora de R$ 7.200,00. Mais: ainda vendeu ao cliente da autora um aplicativo pelo valor de R$ 480,00, embolsando-o.
+
+Esse é o cenário da questão controvertida.
+
+E para dirimi-la, este Juízo determinou a realização de prova pericial cujo laudo não sofreu impugnação de nenhuma das partes.
+
+O perito, analisando os dados colacionados aos autos  verificou que a aplicação da ?web? da autora está no domínio ?gruposer.com.br?, enquanto a do réu no domínio ? aporte.com.br?.
+
+Cotejando ambas as aplicações, o perito constatou semelhanças entre elas e, não obstante mais adiante tenha escrito não ser possível comparar a linha do código fonte das aplicações da autora e réu, de forma a determinar se são semelhantes ou não, os demais elementos coligidos aos autos revelam que o réu valeu-se da estrutura da autora para desenvolver  um ?software?, como confessou às fls. 31 dos autos da ação cautelar em apenso, segundo trecho que ora se transcreve:
+
+Durante a época laboral, em seus momentos de folga já que não fora contatado para tal fim, visando a criação de um produto que fosse por ele mais facilmente ?vendável?, efetivamente desenvolveu o ?software? denominado Teste de Perfil de Personalidade, mediante emprego de material de ?fundo? fornecido pelo Grupo Ser e tendo por base o questionário ?NEO?.´
+
+Portanto, não resta dúvida de que o réu, que então prestava serviços à autora que lhe depositava confiança, a sua revelia, valeu-se de instrumento que não lhe pertencia para obtenção de vantagem patrimonial exclusiva.
+
+Aliás, não existe nos autos nenhum documento demonstrando que o réu pediu autorização à autora para usar seu material de ? fundo?.
+
+Essa utilização indevida aliada a criação de um site com características semelhantes e com o mesmo propósito da autora, evidente autorizam acolher a versão estampada na inicial.
+
+Mais: não existe nos autos prova de que a autora tenha cedido os valores mencionados pelo réu a título de serviços prestados. Logo, o mesmo se apoderou, a exemplo de sua empresa, que após sua saída passou a prestar serviços aos clientes da autora,  de valores que não lhe eram devidos.
+
+Outrossim, de relevo destacar que o réu não provou que detinha poderes para, em nome da autora receber e dar quitação, e ainda que tivesse, seu dever era repassar àquela os valores recebidos dos clientes, e não deles se apossar como forma de se remunerar por eventual serviço que não lhe teria sido pago.
+
+No tocante ao pedido de indenização por danos morais, estes são devidos, pois, aproveitando-se da ?folga? durante o período em que prestava serviços à autora, e nas dependências desta, valendo-se da confiança que lhe fora depositada, utilizou indevidamente material de titularidade daquela para desenvolver software com o intuito, como se soube após, concorrer com a autora no mercado.
+
+A luz dessas circunstâncias, fixo o valor da indenização em R$10.000,00, suficiente para minimizar os transtornos causados à autora.
+
+Isto posto, JULGO PROCEDENTES ambas as ações, nos termos do art. 269, I, do CPC, tornando definitiva a liminar concedida, condenando os réus pagarem à autora a quantia de R$ 7.200,00 com correção monetária a  partir da data  da propositura da ação, acrescida de juros legais de mora e a título de indenização por danos morais a quantia de R$ 10.000,00 com correção monetária a partir desta data acrescida de juros legais de mora contados da citação. Em razão da sucumbência, suportarão, os réus, o pagamento das custas do processo e verba honorária que fixo em vinte por cento sobre o valor total da condenação com observação do disposto no art. 12 da Lei n. 1060/50.
+PRIC.
+São Paulo, 19 de Abril de 2013.
+
+
+MARIA DE LOURDES LOPEZ GIL CIMINO
+Juíza de Dir eito.
+
+
+São Paulo, 19 de abril de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

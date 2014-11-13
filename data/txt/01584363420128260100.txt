@@ -1,0 +1,52 @@
+
+
+SENTENÇA
+
+Processo nº:0158436-34.2012.8.26.0100
+Classe - AssuntoExibição - Liminar
+Requerente:H-buster do Brasil Indústria e Comércio Ltda
+Requerido:Google Brasil Internet Ltda
+
+Juiz(a) de Direito: Dr(a). Miguel Ferrari Junior
+
+Vistos.
+
+Trata-se de demanda proposta por H-BUSTER DO BRASIL INDÚSTRIA E COMÉRCIO LTDA. em face de GOOGLE BRASIL INTERNET LTDA. em que pretende a condenação da ré à prestação de informações a respeito do titular da conta de e-mail pcnoticas@gmail.com. A autora afirma ser indústria renomada e que tomara ciência a respeito da existência de mensagens eletrônicas (e-mail) com conteúdo ofensivo à sua honra. Apurou que as mensagens eram veiculadas por meio do endereço pcnoticas@gmail.com. Em razão disso, pleiteia que a ré, detentora do domínio, seja compelida a fornecer os dados cadastrais do referido usuário, bem como o endereço de IP utilizado. Com a petição inicial vieram os documentos de folhas 12/19.
+
+Citada para os termos da demanda, a ré apresentou contestação às folhas 32/51. Sustenta, em linhas gerais, a impossibilidade técnica de fornecimento dos dados cadastrais referentes ao usuário da conta de e-mail. Defende a necessidade de preservação das informações dos usuários de e-mail. Assim, pugna pela rejeição da demanda inicial. Com a contestação vieram os documentos de folhas 53/68. 
+
+Réplica encartada às folhas 92/93.
+
+É o relatório do essencial.
+
+Fundamento e decido.
+
+A causa está madura para julgamento, porquanto a matéria versada nos autos é de fato e de direito, todavia não há necessidade da produção de outras provas, o que autoriza o conhecimento direto do pedido, na forma do artigo 330, inciso I, do Código de Processo Civil.
+
+Em primeiro lugar, é imperioso destacar que não obstante a presente demanda tenha sido nominada de cautelar de exibição de documentos, em verdade o seu conteúdo material revela uma pretensão de condenação ao cumprimento de obrigação de fazer. Como é cediço, a natureza jurídica de uma demanda é extraída do pedido e da causa de pedir (próxima e remota). No escólio do insigne processualista MOACYR AMARAL SANTOS: ?Fundamento jurídico do pedido não é a norma de direito em que este se apóia. A norma jurídica em que se tutela a pretensão poderá e mesmo convirá seja indicada. Mas não se impõe ao autor a indicação. A exposição dos fatos é suficiente para deles o juiz extrair o direito aplicável: da mihi factum, dabo tibi ius; iura novit curia.? Por fundamento jurídico do pedido se entende a declaração da natureza do direito pleiteado. Assim, se o pedido é de pagamento de dívida (direito obrigacional), dir-se-á: ?que sendo credor...?; ou, nas ações em que o pedido se funda em direito real: ?que sendo senhor...?.? (Primeiras Linhas de Direito Processual Civil, 2º. Volume, Editora Saraiva, 17ª. edição, página 136). Consoante se depreende da leitura do pedido formulado, a autora pretende a condenação da ré ao cumprimento de uma obrigação de fazer consistente na prestação de informações a respeito do titular de uma determinada conta de e-mail. Apenas ocasionalmente estas informações podem vir materializadas em um documento, circunstância a qual, porém, não transmuda a natureza jurídica da demanda que tem nítido conteúdo condenatório. Daí por que, desde já, ressalta-se a inaplicabilidade do súmula 372 do Superior Tribunal de Justiça.
+
+Prestados esses esclarecimentos preliminares, passemos à análise do mérito da demanda.
+
+Verte-se dos autos que uma pessoa até agora desconhecida utilizou a conta de e-mail pcnoticas@gmail.com para veicular fatos ofensivos à reputação da autora, conforme mensagem documentada às folhas 17. Em razão disso, a autora pretende que a ré Google, detentora do domínio, seja compelida a fornecer os dados pessoais do titular da referida conta de e-mail para o fim de demandá-la.
+
+E a pretensão deduzida pela autora se mostra legítima.
+
+Cabe enfatizar que a Constituição Federal, em seu artigo 5º, inciso IV, textualmente estabelece que: ?é livre a manifestação do pensamento, sendo veado o anonimato.? Esta cláusula constitucional desmancha por completo a tese exposta pela ré a respeito de sua política de privacidade dos seus usuários. Não há dúvidas que a ré tem o dever de manter em sigilo os dados de seus usuários; não, porém, quando o seu domínio é utilizado para praticar ilícitos e há ordem judicial para a prestação de informações pessoais do infrator. 
+
+É cediço que quando se cria uma conta de e-mail em qualquer provedor, alguns dados pessoais são exigidos. Não se sabe de antemão se estes dados são verdadeiros ou falsos. No caso em questão, a ré Google tem a obrigação de prestar todas as informações que foram registradas pelo criador da referida conta de e-mail ? falsos ou verdadeiros - a fim de que a autora possa tomar as medidas conducentes à defesa de sua honra objetiva, conforme iterativa jurisprudência do Superior Tribunal de Justiça:
+
+Ao oferecer um serviço por meio do qual se possibilita que os usuários externem livremente sua opinião, deve o provedor de correio eletrônico ter o cuidado de propiciar meios para que se possa identificar cada um desses usuários, coibindo o anonimato e atribuindo a cada manifestação uma autoria certa e determinada. Sob a ótica da diligência média que se espera do provedor, deve este adotar as providências que, conforme as circunstâncias específicas de cada caso, estiverem ao seu alcance para a individualização dos usuários, sob pena de responsabilização subjetiva por culpa in omittendo. 8. Por mais que se intitule um site de seguro, a Internet sempre estará sujeita à ação de hackers, que invariavelmente conseguem contornar as barreiras que gerenciam o acesso a dados e informações. Assim, a impossibilidade de identificação da pessoa responsável pelo envio de mensagem ofensiva não caracteriza, necessariamente, defeito na prestação do serviço de provedoria de e-mail, não se podendo tomar por legítima a expectativa da vítima, enquanto consumidora, de que a segurança imputada a esse serviço implicaria a existência de meios de individualizar todos os usuários que diariamente encaminham milhões de e-mails. 9. Mesmo não exigindo ou registrando os dados pessoais dos usuários do HOTMAIL, a MICROSOFT mantém um meio suficientemente eficaz de rastreamento desses usuários, que permite localizar o seu provedor de acesso (esse sim com recursos para, em tese, identificar o IP do usuário), medida de segurança que corresponde à diligência média esperada de um provedor de correio eletrônico. (REsp 1300161/RS - Ministra NANCY ANDRIGHI - T3 - TERCEIRA TURMA - DJe 26/06/2012 - RSTJ vol. 227 p. 504)
+
+RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. PROVEDOR. MENSAGEM DE CONTEÚDO OFENSIVO. RETIRADA. REGISTRO DE NÚMERO DO IP. DANO MORAL. AUSÊNCIA. PROVIMENTO. 1.- No caso de mensagens moralmente ofensivas, inseridas no site de provedor de conteúdo por usuário, não incide a regra de responsabilidade objetiva, prevista no art. 927, parágrafo único, do Cód. Civil/2002, pois não se configura risco inerente à atividade do provedor. Precedentes. 2.- É o provedor de conteúdo obrigado a retirar imediatamente o conteúdo ofensivo, pena de responsabilidade solidária com o autor direto do dano. 3.- O provedor de conteúdo é obrigado a viabilizar a identificação de usuários, coibindo o anonimato; o registro do número de protocolo (IP) dos computadores utilizados para cadastramento de contas na internet constitui meio de rastreamento de usuários, que ao provedor compete, necessariamente, providenciar. 4.- Recurso Especial provido. Ação de indenização por danos morais julgada improcedente. (REsp 1306066/MT - Ministro SIDNEI BENETI - T3 - TERCEIRA TURMA - DJe 02/05/2012 - RDDP vol. 112 p. 133)
+
+6. Ao oferecer um serviço por meio do qual se possibilita que os usuários externem livremente sua opinião, deve o provedor de conteúdo ter o cuidado de propiciar meios para que se possa identificar cada um desses usuários, coibindo o anonimato e atribuindo a cada manifestação uma autoria certa e determinada. Sob a ótica da diligência média que se espera do provedor, deve este adotar as providências que, conforme as circunstâncias específicas de cada caso, estiverem ao seu alcance para a individualização dos usuários do site, sob pena de responsabilização subjetiva por culpa in omittendo. 7. Ainda que não exija os dados pessoais dos seus usuários, o provedor de conteúdo que registra o número de protocolo (IP) na internet dos computadores utilizados para o cadastramento de cada conta mantém um meio razoavelmente eficiente de rastreamento dos seus usuários, medida de segurança que corresponde à diligência média esperada dessa modalidade de provedor de serviço de internet. (REsp 1186616/MG - Ministra NANCY ANDRIGHI - T3 - TERCEIRA TURMA - DJe 31/08/2011 - LEXSTJ vol. 267 p. 140)
+
+Consoante se dessume da leitura dos arestos acima colacionados, o Superior Tribunal de Justiça expressamente reconhece a responsabilidade dos provedores de internet pela prestação de informações judiciais a respeito dos usuários de contas de e-mail, dentre elas o número de protocolo (IP) na internet. 
+ 
+Em face do exposto, julgo procedente a demanda para o exato fim de condenar a ré ao cumprimento da obrigação de fazer consistente na prestação de todas as informações que possuir a respeito do titular da conta de e-mail pcnoticas@gamail.com, bem como o número de protocolo (IP) na internet, no prazo de 10 (dez) dias, sob pena de multa diária que fixo em R$ 2.000,00 (dois mil reais) ? (CPC, artigo 461, § 5º). Em razão da sucumbência, condeno a ré ao pagamento das despesas processuais e honorários advocatícios que arbitro consoante apreciação equitativa (CPC, artigo 20, § 4º) em R$ 1.500,00 (um mil e quinhentos reais).
+
+P.R.I.C.
+
+São Paulo, 03 de julho de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

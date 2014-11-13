@@ -1,0 +1,40 @@
+
+
+SENTENÇA
+
+Processo nº:0155319-35.2012.8.26.0100
+Classe - AssuntoProcedimento Sumário - Pagamento com Sub-rogação
+Requerente:Bradesco Auto/re Companhia de Seguros
+Requerido:Caiuá Distribuidora de Energia S/A
+Juiz(a) de Direito: Dr(a). Carmen Lúcia da Silva
+
+
+VISTOS.
+
+BRADESCO AUTO/RE COMPANHIA DE SEGUROS ajuizou ação de em face de CAIUÁ DISTRIBUIDORA DE ENERGIA S/A, objetivando a condenação da ré ao pagamento de indenização por danos materiais, decorrentes de sub-rogação.
+Disse a autora que indenizou o seu segurado Hospital e Maternidade Presidente Prudente, por força de contrato de seguro firmado entre eles. Comunicada do sinistro, passou a regular o sinistro e a investigar os aspectos fáticos e contratuais relacionados à cobertura. Disponibilizou ao segurado indenização securitária no importe de R$19.526,21, razão pela qual se sub-rogou no direito de ressarcimento dessa importância. Asseverou que era ineficiente e inadequada a prestação de serviço público de energia realizada pela empresa-ré, em razão da interrupção, oscilações e sobrecargas de energia elétrica, o que causou a queima do aparelho do Hospital, que foi indenizado pelo prejuízo. A responsabilidade da demandada é objetiva, motivo pelo qual deve arcar com o pagamento da quantia de R$ 19.526,21 (indenização), paga ao segurado, e de R$ 874,40, referente à regulação do sinistro.
+Citada, a ré ofereceu contestação (fls. 104/130), ocasião em que sustentou, em síntese, que a demandante não tem direito à indenização. Destacou que o Relatório de Atendimento da Unidade Consumidora do Hospital segurado aponta que havia fornecimento de alta tensão, tanto é que o ressarcimento decorrente de dano elétrico somente é previsto nos casos em que a unidade consumidora é de baixa tensão. Mencionou a ausência do dever de indenizar, diante do rompimento do nexo causal, pois não se pode afirmar que o evento danoso tenha ocorrido por causa das oscilações e quedas de energia. Requereu a improcedência do pedido.
+Réplica a fls. 132/151.
+Não se obteve êxito na conciliação das partes (fls. 174).
+É o relatório.
+DECIDO.
+Nos termos do artigo 330, inciso I, do Código de Processo Civil, o pedido comporta julgamento, na fase em que o processo se encontra.
+Trata-se de ação de ressarcimento por prejuízos materiais, no valor de R$19.526,21, em razão de sub-rogação, quantia que foi paga pela autora ao  Hospital e Maternidade Presidente Prudente, em razão de dano verificado em equipamento queimado devido à falha na prestação de serviço de fornecimento de energia elétrica.
+De acordo com a versão da demandante, o aparelho foi queimado devido a interrupção, oscilações e sobrecargas de energia elétrica, decorrentes de  ineficiente e inadequada prestação de serviço público realizada pela empresa-ré, o que gerou o dever de indenizar.
+Entretanto, cumpre primeiramente destacar que a Resolução nº 414/2010 determina que as disposições sobre ressarcimento dos danos elétricos ?se aplicam, exclusivamente, aos casos de dano elétrico causado a equipamento instalado na unidade consumidora atendida em tensão igual ou inferior a 2,3 kV? (artigo 203).
+Por conseguinte, verifica-se, no caso em exame, que não é cabível o ressarcimento previsto no Capítulo XVI da referida Resolução, porquanto a situação do segurado da demandante não se enquadrava, à época dos fatos, como consumidora de alta tensão, tendo em vista que o Relatório de Atendimento da Unidade Consumidora do Hospital e Maternidade segurado dispõe que a Tensão Mínima é de 11.400 V (fls. 121), ou 11,4 kV, valor bem superior a 2,3 kV. 
+A hipótese foi devidamente explicada ao Hospital segurado pela demandada (fls. 124/126 e 128) e, por tal razão, é de rigor a improcedência do pedido.
+E, ainda que assim não fosse, o parco conteúdo probatório existente nos autos não permite que se afirme que o equipamento do Hospital segurado tenha sido danificado por fatos imputáveis à ré, motivo que também leva à inexorável improcedência do pedido.  Nã há sequer indício de provas que tragam verossimilhança às alegações da demandante no sentido da existência de nexo de causalidade entre prestação de serviço público e o dano suportado pelo seu cliente, segurado. 
+O ônus da prova é daquele que alega, e cabia à parte autora demonstrar a existência de seu direito, nos termos do artigo 333, I, do Código de Processo Civil, pois as provas são os motivos produtores de certeza, e consistem na demonstração da existência ou da veracidade daquilo que se alega em Juízo.
+Não basta simplesmente alegar; é necessário comprovar, e, no caso "sub judice", à evidência, testemunhas em nada esclareceria o ponto controvertido do processo, qual seja, o motivo técnico da queima do aparelho do segurado da demandante.
+Humberto Theodoro Júnior ensina que: ?Esse ônus consiste na conduta processual exigida da parte para que a verdade dos fatos por ela arrolados seja admitida pelo juiz. Não há um dever de provar, nem à parte contrária assiste o direito de exigir a prova do adversário. Há um simples ônus, de modo que o litigante assume o risco de perder a causa se não provar os fatos alegados e do qual depende a existência do direito subjetivo que pretende resguardar através da tutela jurisdicional. Isso porque, segunda máxima antiga, fato alegado e não provado é o mesmo que fato inexistente? (Curso de Direito Processual Civil, vol I, 25ª ed. São Paulo: Forense. 1998. p. 423).
+Nesse sentido Vicente Greco Filho diz que, ?a finalidade da prova é o convencimento do juiz, que é o seu destinatário. No processo, a prova não tem um fim em si mesma ou um fim moral ou filosófico: sua finalidade prática, qual seja, convencer o juiz. Não se busca a certeza absoluta, a qual, aliás, é sempre impossível, mas a certeza relativa suficiente na convicção do magistrado?. 
+E conforme Liebman, em sua obra 'Manuale de direito processuale Civil, 1973, Milano': ?Por maior copioso e relevante o material probatório disponível, o resultado ao qual o juiz poderá chegar conservará, sempre, um valor essencialmente relativo: estamos no terreno da convicção subjetiva, da certeza meramente psicológica, não da certeza lógica, daí tratar-se sempre de um juízo de probabilidade, ainda que muito alta, de verossimilhança (como é próprio a todos os juízos históricos)?. 
+Posto isso, JULGO IMPROCEDENTE o pedido ressarcimento, por sub-rogação, formulado por BRADESCO AUTO/RE COMPANHIA DE SEGUROS em face de CAIUÁ DISTRIBUIDORA DE ENERGIA S/A.
+Sucumbente, a autora arcará com custas, despesas processuais e honorários advocatícios fixados em 10% sobre o valor atualizado da causa.
+
+P.R.I.C.
+
+São Paulo, 28 de junho de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

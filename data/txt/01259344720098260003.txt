@@ -1,0 +1,69 @@
+
+
+SENTENÇA
+
+Processo nº:003.09.125934-0
+Classe - AssuntoProcedimento Ordinário - Assunto Principal do Processo >
+Requerente:Ace Seguradora S.A.
+Requerido:TAM - Linhas Aéreas S/A
+
+
+
+Juiz(a) de Direito: Dr(a). Alexandre Batista Alves
+
+
+Vistos.
+
+ACE SEGURADORA S.A., qualificada nos autos, ajuizou a presente AÇÃO DE INDENIZAÇÃO REGRESSIVA POR DANOS MATERIAIS contra TAM LINHAS AÉREAS S.A., objetivando, em resumo, a condenação da ré por inadimplemento defeituoso de contrato de transporte aéreo nacional, considerando a avaria de cargas, que levaram a autora a suportar indenizações securitárias no valor de R$12.672,31, que pretende seja a ré compelida a lhe ressarcir.
+
+Citada, a requerida ofereceu contestação, alegando a preliminar de cerceamento de defesa, tendo em vista que as cópias dos conhecimentos de transportes acostadas à inicial estariam ilegíveis. No mérito, que eventual indenização deveria se ater ao limite previsto no art. 262 do Código Brasileiro de Aeronáutica, já que não houve o recolhimento da taxa ad valorem, tendo sido o frete do transporte pago de acordo com o peso da carga despachada. Sustentou, por fim, a inaplicabilidade do CDC à espécie.
+
+Houve réplica a fls. 99/105.
+
+Foi determinado à requerida a exibição de cópia legível dos instrumentos pertinentes emitidos em 25/09/07 e 04/10/07, já que emitente do conhecimento de transporte (fls. 106).
+
+A ré apresentou referidos documentos a fls. 109, 111, 120 e 122. A autora manifestou-se a fls. 126/127.
+
+É o relatório.
+
+D E C I D O .
+
+A matéria é de fato e de direito, sendo, contudo, desnecessária a produção de outras provas em audiência, comportando o feito julgamento no estado em que se encontra (CPC, art. 330, I), pois bastantes os documentos constantes dos autos. Improvável a conciliação, tendo em vista o que ordinariamente se observa em casos semelhantes.
+
+A preliminar de cerceamento de defesa suscitada pela ré, em razão da ilegibilidade dos conhecimentos de transporte constantes da inicial, já restou afastada pela r. decisão de fls. 106 que determinou à própria requerida a exibição de cópia legível dos instrumentos, pois emitente, sendo o conhecimento de transporte documento comum às partes por ambas terem interesse jurídico relativamente a tal.
+
+Presentes, assim, as condições da ação e os pressupostos processuais, satisfeito está o juízo de admissibilidade. 
+
+Pois bem. Cuida-se no caso vertente, da responsabilidade contratual do transportador em conduzir e fazer chegar a seu destino, incólume, a carga que tenha pagado o respectivo frete de viagem.
+
+Segundo o saudoso Pontes de Miranda, quando cuidou do transporte remunerado de PASSAGEIROS (cuja lição, contudo, mutatis mutandi também tem co-relação com o transporte de cargas) a obrigação do transportador pode ser definida como o contrato pelo qual alguém se vincula, mediante retribuição, a transferir de um lugar para outro pessoa ou bens.
+
+Completa o referido Jurista afirmando que o transporte pode não ser em distância geográfica, isto é, em latitude e longitude, mas também de um andar para o outro, ou da rua para o andar, ou para o teto, ou para o cume da montanha.
+
+A culpa será sempre presumida, só se admitindo em contrário alguma das seguintes provas:
+
+I - caso fortuito ou força maior;
+
+II -culpa do viajante, não concorrendo culpa da estrada.
+
+Logo constatamos que o legislador adotou a responsabilidade objetiva com relação ao transportador. Como a própria lei determina, a culpa será sempre presumida, presunção esta que somente poderá ser elidida pela alegação de algum dos fatos descritos nos dois incisos do referido artigo. 
+
+Isto pelo fato de o legislador estabelecer, de forma quase absoluta, a obrigação de custódia por parte do devedor, que tem que resguardar o credor dos riscos contratuais. A cargo do devedor fica toda a álea do contrato, salvo raras exceções.
+
+No caso concreto, vê-se que restou demonstrado pelos documentos juntos com a inicial, bem como por aqueles apresentados pela própria ré, que algumas mercadorias foram avariadas, sem que se possa falar em culpa grave ou dolo da requerida. Comprovada, através da ressalva constante dos conhecimentos de transporte aéreo, a avaria: "Retiramos 2 vol. Com a caixa amassada e os termômetros estão todos vermelhos" (fls. 24 e 122) e, pelas notas fiscais e recibo de sinistro (fls. 20/22 e 30), o pagamento de indenização à segurada.
+
+Certo, ainda, que os conhecimentos de transporte foram emitidos pela própria requerida.. Sendo assim, o art. 349 do Código Civil não agasalha restrição alguma ao direito da seguradora, sub-rogada, a ingressar com ação de regresso contra a ré. A propósito, ver Súmula 188 do E. STF.
+
+No entanto, Código de Defesa do Consumidor inaplicável no caso. A Lei nº 8.078/90 somente se aplica às relações típicas de consumo, quais sejam, aquelas entre consumidor e fornecedor. No caso presente, tal situação não se afigura, pois o segurado não pode ser considerado consumidor, uma vez que ausente a característica de destinatário final. 
+
+Claro está que na atividade profissional dos segurados (prestadores de serviço) os custos do serviço de transporte são repassados aos seus respectivos clientes, quando da venda de seus produtos ou da prestação dos seus serviços. Logo, não são destinatários finais, não são consumidores; são insumidores.
+
+Dito isso, tem-se que, embora a responsabilidade da transportadora seja objetiva, não é ela integral (extensão dessa responsabilidade), pois, o Código Brasileiro de Aeronáutica (Lei 7.565/86), legislação aplicável à espécie, pela especialidade da matéria que trata, dispõe que a indenização, in casu, será tarifada se o expedidor optar por pagar o frete normal, sem a declaração especial de valor e o pagamento da taxa ad valorem. Diz o artigo 262 da supracitada lei: "No caso de atraso, perda, destruição ou avaria de carga, ocorrida durante a execução do contrato do transporte aéreo, a responsabilidade do transportador limita-se ao valor correspondente a 3 (três) Obrigações do Tesouro Nacional( OTN )por quilo, salvo declaração especial de valor feita pelo expedidor e mediante o pagamento de taxa suplementar, se for o caso" ( artigos 239, 241 e 244 ). Vale dizer, se a expedidora não declarar o valor da mercadoria transportada, a transportadora apenas se responsabilizará pelo valor correspondente a 3 OTNS, por peso, só assumindo a responsabilidade de indenização pelo valor da mercadoria, se houver a declaração especial de tal com a cobrança da taxa correlata exigida, pelo risco que assume com esse transporte especial.
+
+No caso, tal não ocorreu. Restou demonstrado pelos conhecimentos de transporte que a expedidora pagou o frete normal, sem a declaração especial de valor e o pagamento da taxa ad valorem (fls. 111 e 122), de modo que o valor da indenização é mitigado.
+
+Diante do exposto, julgo PARCIALMENTE PROCEDENTE o pedido veiculado na inicial para o fim de CONDENAR a requerida a ressarcir à autora a importância correspondente a três obrigações do tesouro nacional por quilo de mercadoria avariada ou perdida na data do efetivo cumprimento da sentença, objeto de mera liquidação por cálculo, mais juros de mora de 1% ao mês devidos desde a citação. Porque sucumbiram em parte, condeno cada qual das partes em metade das custas e despesas processuais, ficando os honorários advocatícios compensados (STJ, Súmula 306). Ponho fim ao processo, com resolução de mérito, nos termos do art. 269, I, do CPC.
+
+P.R.I.C.
+
+São Paulo, 29 de julho de 2010.

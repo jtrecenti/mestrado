@@ -1,0 +1,48 @@
+
+
+SENTENÇA
+
+Processo nº:0169978-49.2012.8.26.0100
+Classe - AssuntoProcedimento Sumário - Defeito, nulidade ou anulação
+Requerente:João Rycardo Haddad Serrano
+Requerido:Banco do Brasil S/A e outro
+
+
+
+
+Juiz(a) de Direito: Dr(a). Marina Miranda Belotti
+
+
+Vistos.
+
+Trata-se de ação de nulidade de restrições c.c. pedido liminar e danos morais, proposta por JOÃO RYCARDO HADDAD SERRANO contra BANCO DO BRASIL S.A. e ATIVOS S.A. CIA SECURITIZADORA DE CRÉDITO, alegando, em síntese, que teve seu nome enviado para os órgãos de proteção ao crédito por um débito existente com o primeiro réu, em meados de 2006. Após a sua retirada de tal  cadastro pelo decurso do prazo de 5 anos, o débito foi cedido para a segunda ré, sem a sua anuência, tendo ela enviado novamente seu nome para os cadastros de inadimplentes. Requer a inversão do ônus da prova, a nulidade da cessão do crédito, a prescrição dos débitos e a indenização por danos morais, além de medida liminar para retirada de seu nome dos cadastros do SCPC. Juntou documentos de fls. 24/32.
+A medida liminar foi concedida e o oferecimento de caução determinado (fls. 52), o que foi cumprido às fls. 103/105.
+Citada, a empresa Ativos S.A. ? Securitizadora de Créditos Financeiros apresentou contestação alegando, em síntese, que é credora cessionária da dívida, a dívida é existente, é desnecessária a comunicação do réu da cessão de crédito realizada, o autor foi notificado do envio de seu nome para os cadastros de créditos, a prescrição não ocorreu, a inscrição do débito se deu de forma legal e não há o dever de indenizar (exercício regular de direito, mero aborrecimento e Súmula 385 do STJ). Juntou documentos de fls. 80/97.
+O autor apresentou réplica às fls. 110/120.
+A ré Ativos S.A. ? Securitizadora de Créditos Financeiros apresentou novos documentos (fls. 131/138).
+O réu Banco do Brasil S.A. ofereceu contestação aduzindo, em preliminar, sua ilegitimidade passiva e, no mérito, que não há dever de indenizar, pois a cessão do crédito se deu de forma regular e não houve a comprovação do dano. Juntou documentos de fls. 165/167.
+RELATEI.
+DECIDO.
+A lide comporta imediato julgamento, com fundamento no artigo 330, inciso I, do Código de Processo Civil, por ser a questão de direito e a prova documental suficiente para a solução das questões de fato suscitadas.
+Inicialmente, não merece acolhida a tese de ilegitimidade passiva do Banco do Brasil. No plano abstrato das asserções iniciais, como devem ser analisadas as condições da ação, a legitimidade de parte resta nitidamente balizada, pois o banco fez parte da cadeia de cessão de crédito discutida no processo. O que remanesce é mérito e como tal deve ser apreciado.
+No mérito, a ação é parcialmente procedente.
+A cessão de crédito realizada entre os réus restou comprovada pelo documento de fls. 138. Em que pese não estar claro, pelos documentos juntados aos autos, se o autor foi ou não informado a respeito deste negócio jurídico, pois os documentos de fls. 131/133 não atestam, de forma inequívoca, o envio de carta e o seu recebimento pelo devedor, é certo que tal fato não gerou prejuízos ao requerente, pois este não tentou solver a dívida, ainda que perante o credor originário. Além disso, o artigo 290 do Código Civil estabelece ser ineficaz a cessão de crédito ? e não nula ?, em relação ao devedor, enquanto este não for notificado. 
+Alega o autor que a mesma dívida, datada de julho de 2006, teria gerado uma segunda negativação de seu nome em julho de 2012, quando o crédito já estaria prescrito. Ocorre que o documento apresentado pelo próprio autor, de fls. 31, demonstra que os débitos se originaram em agosto e dezembro de 2007, e que a ré Ativos S.A. enviou seu nome para o cadastro de inadimplentes em março de 2010.
+Assim, quando a cessão de crédito foi realizada, bem como quando a ré Ativos S.A. enviou o nome do autor para o cadastro de inadimplentes, a dívida era existente e, portanto, não há qualquer irregularidade. Além disso, não há que se falar em bis in idem, pois os mesmos débitos não deram origem a negativações tanto pelo Banco do Brasil, como pela Ativos S.A. no mesmo período. Ou seja, em fevereiro de 2010 não havia outros apontamentos realizados pelo Banco do Brasil, referente às mesmas dívidas, conforme documento de fls. 91. 
+Portanto, com relação à negativação do nome do autor no ano de 2010, em razão de dívida objeto de cessão de crédito, não há qualquer reparo a ser feito. O próprio autor assume que a dívida era lícita, sendo que a falta de notificação daquele negócio jurídico não é suficiente para torná-lo nulo e impedir a produção de seus efeitos, vale dizer, a consequente negativação. 
+Neste quadro, não há que se falar em qualquer responsabilidade do réu Banco do Brasil S.A.. O contrato celebrado entre ele e o autor da ação não está sendo questionado (fls. 28), a dívida oriunda dele também não é contestada, a cessão de crédito foi lícita e, portanto, não deu causa a qualquer prejuízo.
+De igual forma, não há que se falar em dano moral. Assiste razão à ré Ativos S.A. ao apontar ter agido no exercício regular de um direito, em consonância ao artigo 188, inciso II, do Código Civil. De fato, a reunião dos devedores inadimplentes em cadastros como garantia de proteção do crédito a ser concedido mostra-se, evidentemente, como um imperativo das relações comerciais, contanto que a inclusão limite-se aos maus pagadores. Nesse sentido, trilha a jurisprudência do Egrégio Tribunal de Justiça do Estado de São Paulo:
+
+INDENIZAÇÃO - DANO MORAL - CONTRATO - CARTÃO DE CRÉDITO - INADIMPLÊNCIA - INSCRIÇÃO EM ÓRGÃOS DE PROTEÇÃO AO CRÉDITO - LEGALIDADE - EXERCÍCIO REGULAR DE DIREITO - INEXISTÊNCIA DE DANO MORAL. Quando o devedor encontra-se em inadimplência, é lícita a inserção do nome perante os órgãos de proteção ao crédito, inexistindo, desta forma, qualquer dano à moral da autora. Na verdade, mostra-se inadequada a inversão da situação, ou seja, de que o devedor de uma obrigação, legalmente contraída, torne-se, por meio de uma ação indenizatória, credor daquele que não recebeu o valor devido na data aprazada e que também suportou os efeitos da inadimplência contratual, ainda mais, quando, na verdade, os fatos que levaram a realização de apontamento em órgão de proteção ao crédito não se revestiram de qualquer ilegalidade. Apesar de legitimidade para tanto, a autora, que não cumpriu com sua obrigação na data aprazada, agora sob o palio da existência de acordo, ao invés de diligenciar no sentido de promover a exclusão de seu nome do cadastro de órgão de proteção crédito, preferiu ajuizar a presente demanda, visando o recebimento de danos morais. Assim, é possível verificar que autora apelante preferiu promover ação visando o recebimento de valores do que promover o restabelecimento de seu nome em órgão de proteção ao crédito, o que, com certeza, é totalmente, inadmissível. Obrigação do devedor em promover a exclusão de seu nome dos cadastros de órgão proteção ao crédito. Recurso de apelação não provido (Apelação no 7123146800, 24ª Câmara de Direito Privado, rel. Roberto Mac Cracken, j. em 10/04/2008).
+
+ Procedente, assim, somente a alegação de que o crédito está prescrito. Conforme documentos de fls. 31 e 91/92, os débitos tiveram origem nas datas de 12/08/2007 e 12/12/2007; o prazo prescricional incidente neste caso é regido pelo artigo 206, §5, inciso I, do Código Civil, ou seja, cinco anos, tendo sido completado respectivamente em agosto e dezembro de 2012. Trata-se, portanto, de dívida inexigível na presente data e imprestável para embasar o envio do nome do autor aos cadastros de inadimplentes.
+Ante o exposto, com relação à ré Ativos S.A. Cia Securitizadora de Crédito, julgo PARCIALMENTE PROCEDETE o pedido para declarar a inexigibilidade, em razão da prescrição, dos débitos descriminados às fls. 31, em que figura como credora. Confirmo, outrossim, a liminar concedida para retirada do nome do autor, no que se refere a tais débitos, dos cadastros de proteção ao crédito. Em razão da sucumbência recíproca, cada parte arcará com metade das custas processuais e com os honorários dos respectivos advogados. 
+No que toca ao corréu Banco do Brasil S.A., julgo IMPROCEDENTE os pedidos. Condeno o autor no pagamento das custas processuais no que se refere a este réu e nos honorários advocatícios, que fixo em R$500,00 (quinhentos reais).
+
+P.R.I. 
+
+São Paulo, 05 de abril de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

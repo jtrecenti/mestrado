@@ -1,0 +1,53 @@
+
+
+CONCLUSÃO
+
+Em 20 de maio de 2010, faço estes autos conclusos à MMa. Juíza de Direito da 4ª Vara Cível do Foro Regional de Itaquera, Dra. DEBORAH LOPES. Eu,________ , Escr., subscrevi.
+
+SENTENÇA
+
+Processo nº:007.09.234412-3 - Procedimento Sumário
+Requerente:Eder Carlo Jacondino
+Requerido:Ka Solution Tecnologia Em Software Ltda
+
+
+
+
+Juíza de Direito: Dra. Deborah Lopes
+
+Vistos.
+EDER CARLO JACONDINO promove a presente AÇÃO DE RESCISÃO CONTRATUAL C.C. ANULAÇÃO DE TÍTULOS, INDENIZAÇÃO E PEDIDO DE TUTELA ANTECIPADA em face de KA SOLUTION. Alegou o autor, em síntese, que contratou com a ré cursos online de certificação, sendo emitidos, para tanto, quinze cheques no valor de R$ 333,34 cada. Alegou ainda que cinco cheques já haviam sido compensados, quando fora cancelada a certificação SQL SERVER, o que enseja a rescisão contratual. Os cheques restantes foram sustados, e então a ré procedeu à cobrança dos títulos não compensados. Requereu a concessão de medida liminar e a procedência da ação. Com a petição inicial, vieram documentos (fls. 13/45).
+A petição inicial foi emendada (fls. 52/53).
+A antecipação da tutela foi deferida (fls. 55).
+A ré foi citada (fls. 61), e em audiência de conciliação (fls. 62/63) apresentou contestação (fls. 64/71) alegando, em síntese, que o autor poderia ter realizado o curso, o que na época lhe daria a certificação em SQL SERVER 2000 e que não houve quebra de contrato porque a própria Microsoft procedeu à alteração da certificação. Alegou, ainda, que a certificação foi atualizada para o SQL 2005 e 2008, e poderia ter sido normalmente realizada pelo autor, que optou em não realizá-los, não sendo possível o cancelamento dos cursos tendo em vista os custos gerados com a contratação. Requereu a improcedência. Com a contestação, vieram documentos (fls. 72/79).
+O autor se manifestou em réplica (fls. 98/103).
+Instadas as partes a especificarem provas (fls. 105), a ré requereu a produção de prova oral (fls. 107) e o autor não se manifestou (fls. 108).
+É o relatório.
+Fundamento e decido.
+Não há necessidade de produção de provas em audiência, posto que questões apresentadas pelas partes são unicamente de direito, razão pela qual conheço diretamente do pedido, em julgamento antecipado da lide, com fundamento no artigo 330, inciso I, do Código de Processo Civil. 
+Inicialmente, ressalta-se que a relação jurídica firmada entre as partes rege-se pelas normas aplicáveis às relações de consumo, na forma como dispõe a lei 8.078, de 11.09.1990 - Código de Defesa do Consumidor- CDC. 
+De acordo com os artigos 2° e 3° do CDC consumidor é toda pessoa física ou jurídica que adquire ou utiliza produto ou serviço como destinatário final e fornecedor é toda pessoa física ou jurídica que desenvolva atividade de produção, montagem, criação, construção, transformação, importação, exportação, distribuição ou comercialização de produtos ou prestação de serviços. 
+Nestes termos, são aplicáveis as disposições materiais e processuais específicas às relações de consumo, o que inclui o benefício apresentado no artigo 6°, inciso VIII, do CDC, que permite a inversão do ônus da prova, em favor do consumidor, diante de sua hipossuficiência ou verificada a verossimilhança de suas alegações, bem como a responsabilidade objetiva do réu, nos termos do artigo 14 do mesmo diploma legal.  
+Pois bem.
+Afirma o autor que a ré foi contratada para a prestação de serviços educacionais e que no decorrer do cumprimento do contrato a oferta apresentada não foi cumprida. Diante disso, a ré afirma que o requerente contratou a realização de exame de certificação do SQL Server 2000 e que este serviço deixou de ser prestado em razão de atualização feita pela Microsoft. Entende que não há irregularidade neste fato em especial porque o exame estava a disposição do autor na data da contratação. Tais argumentos, entretanto, não podem ser acolhidos. 
+Em primeiro lugar, a ré tinha o dever legal de informar o consumidor a respeito da possibilidade de cancelamento do serviço contratado em virtude de atualização, sob pena de ofensa ao disposto no artigo 6°, inciso III, da Lei 8.078/90, segundo o qual é direito básico do consumidor a informação clara sobre os diferentes produtos e serviços. Este esclarecimento, entretanto, não ocorreu observando-se que o contrato juntado às fls.14 nada menciona a respeito.
+Em segundo lugar, o contrato de fls.14 é claro ao indicar que o autor poderia realizar o exame de certificação no prazo de 1 (um) ano contado da data da contratação. Desta forma, considerando-se que o contrato foi assinado em 1/10/2008, era obrigação da ré disponibilizar até 1/10/2009 o exame contratado, o que não ocorreu. 
+Além disso, não beneficia a ré a alegação no sentido de que o exame deixou de ser prestado por imposição da Microsoft, fato que excluiria sua responsabilidade. Note-se que a ré é fornecedora do serviço contratado, decorrendo deste fato sua responsabilidade pessoal pelo cumprimento da obrigação assumida.  Da mesma forma, não pode a ré exigir o pagamento sem que a obrigação assumida seja cumprida, nos exatos termos do artigo 476 do Código Civil segundo o qual nos contratos bilaterais, nenhum dos contratantes, antes de cumprida a sua obrigação, pode exigir o implemento da do outro.
+Além disso, não há possibilidade de exclusão da responsabilidade da ré por fato de terceiro. Isto porque a ré assumiu pessoalmente a obrigação de realização do exame de certificação, nada esclarecendo ao aluno a possibilidade de cancelamento deste serviço. Além disso, conforme mencionado, o contrato previa o prazo de um ano para realização do exame, o que não foi cumprido.
+Por fim, não pode o autor ser compelido a freqüentar os cursos sem a realização do exame de certificação. Note-se que para o autor era importante realizar os cursos com a posterior certificação, tanto que todos os serviços foram contratos na mesma data (fls.14). Desta forma, sendo o contrato formalizado em um único instrumento e não garantindo a ré a realização do exame de certificação  dos cursos comprados pelo consumidor, a este garante-se o desfazimento do negócio como forma de respaldar sua boa-fé no momento da contratação.
+Prosseguindo, o alto custo do material disponibilizado não justifica a imposição de cumprimento do contrato. Isto porque a responsabilidade pela impossibilidade de fornecimento do serviço é da ré, que assumiu a obrigação de disponibilizar o exame no prazo de um ano a contar da contratação. Desta forma, não praticou o autor qualquer conduta que tenha motivado a rescisão do negócio, notadamente porque sua indignação é justa ao se deparar com empresa que assume a obrigação de fornecimento de serviço sem garantir sua efetiva prestação no prazo pactuado.
+Neste contexto, há que ser reconhecida a resolução do contrato por ausência de fornecimento do serviço contratado (exame de certificação). Assim, desfeito o negócio, cabível a restituição do preço, ressarcindo-se o autor do prejuízo suportado com o inicio dos cursos sem que o prometido exame de certificação fosse realizado. Neste ponto, a conduta ilícita da ré consistiu na assunção da obrigação de realizar o exame com a posterior indisponibilidade deste serviço sem que o cliente tivesse contribuído para este fato. O dano decorre do pagamento parcial do contrato sem que o autor obtivesse o certificado em questão, sendo todos elementos tipificados no artigo 475 do Código Civil segundo o qual a parte lesada pelo inadimplemento pode pedir a resolução do contrato, se não preferir exigir-lhe o cumprimento, cabendo, em qualquer caso, indenização por perdas e danos.    
+Portanto, cabível a devolução do preço pago assim como a devolução dos cheques entregues no momento do pagamento, ou, na hipótese de circulação dos títulos, da devolução do valor equivalente.
+Por fim, o pedido de condenação a pagamento de multa não pode ser acolhido pois o contrato não prevê este encargo, observando-se que o valor de 20% do contrato cobrado do aluno, na hipótese de cancelamento, refere-se a ressarcimento de despesas administrativas (fls.14).
+Por fim, também é indevida a condenação da empresa ré no pagamento de indenização por danos morais pois os fatos relatados, em que pese demonstrem o descumprimento do contrato por parte da prestadora do serviço, não indicam a ocorrência de constrangimento ou humilhação do autor.
+Conforme verificado, não foi o autor submetido a constrangimento, não houve protesto dos títulos assim como seu nome não foi inserido em cadastros de proteção ao crédito. Ademais, os e-mails juntados às fls.14/19 indicam que as partes mantiveram cordial tratamento na tentativa de solução extrajudicial da lide, não havendo elementos fáticos que embasem pretendida condenação, considerados os requisitos indicados no artigo 186 do Código Civil.
+ANTE O EXPOSTO, E CONSIDERANDO O QUE TUDO MAIS DOS AUTOS CONSTA, JULGO PARCIALMENTE PROCEDENTES OS PEDIDOS PARA O FIM DE DECLARAR A RESOLUÇÃO DO CONTRATO INDICADO NA PETIÇÃO INICIAL CONDENANDO A RÉ: 
+A) NA DEVOLUÇÃO DO PREÇO PAGO, DEVIDAMENTE CORRIGIDO PELA TABELA PRÁTICA DO TRIBUNAL DE JUSTIÇA A PARTIR DAS DATAS DAS COMPENSAÇÕES DOS CHEQUES E ACRESCIDOS DE JUROS LEGAIS DE 1% AO MÊS DESDE A CITAÇÃO;
+B) NA DEVOLUÇÃO DOS CHEQUES QUE AINDA NÃO FORAM COMPENSADOS OU DO VALOR EQUIVALENTE EM DINHEIRO, DEVIDAMENTE ATUALIZADO A PARTIR DA PRESENTE DATA E ACRESCIDO DE JUROS LEGAIS DE 1% AO MÊS DESDE A CITAÇÃO.
+Nos termos do artigo 475-J do Código de Processo Civil, caso o devedor não efetue o pagamento no prazo de 15 dias, o montante da condenação será acrescido de multa no percentual de dez por cento.
+Diante da sucumbência recíproca, cada parte arcará com 50% do pagamento das custas processuais, compensando-se os honorários advocatícios, nos termos do artigo 21 do Código de Processo Civil.
+P.R.I.
+São Paulo, 23 de junho de 2010.
+
+DEBORAH LOPES
+   Juíza de Direito

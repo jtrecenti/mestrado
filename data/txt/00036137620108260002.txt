@@ -1,0 +1,82 @@
+
+
+SENTENÇA
+
+Processo nº:0003613-76.2010.8.26.0002
+Classe - AssuntoProcedimento Ordinário - Expurgos Inflacionários / Planos Econômicos
+Requerente:Jacob Zwipp
+Requerido:HSBC  Bank Brasil S/A Banco Múltiplo
+
+
+
+
+Juiz(a) de Direito: Dr(a). Vanessa Vaitekunas Zapater
+
+
+Vistos.
+
+
+JACOB ZWIPP move a presente ação de COBRANÇA em face de BANCO HSBC S/A aduzindo, em síntese, que mantinha junto ao Banco Bamerindus conta poupança nos meses de março de 1990 a fevereiro de 1991.
+
+Diz que, no referido período, os depósitos mantidos junto ao réu não foram corrigidos corretamente, pelos índices oficiais vigentes até então, de modo a assegurar a plena correção dos valores. Com tais fundamentos, pede o julgamento de procedência do pedido. Junta documentos.
+
+Pede a condenação do réu ao pagamento das diferenças de remuneração do saldo das contas poupança. Junta documentos (fls. 15/25).
+
+Citado, o réu apresentou contestação (fls. 74/119), na qual suscita preliminares de ilegitimidade passiva.
+
+
+No mérito, sustenta a correta aplicação dos índices de correção monetária aos valores constantes nas contas poupança nos meses mencionados na inicial, diante da inexistência de direito adquirido relativo à aplicação da legislação revogada.
+
+Réplica a fls. 136/146.
+
+Relatados, decido.
+
+Passo ao julgamento antecipado da lide, visto que a controvérsia instaurada encerra questão eminentemente de direito, mostrando-se, de outro lado, despicienda a produção de outras provas (artigo 330, inciso I, do CPC).
+
+Não merece acolhida a preliminar lançada pelo réu. A legitimidade passiva do HSBC Bank Brasil S/A - Banco Múltiplo, por atos do Banco Bamerindus do Brasil S/A, é matéria já decidida pelo Eg. Tribunal de Justiça de São Paulo, tendo o eminente Desembargador Antônio Marson assinalado, em voto proferido nos autos do Agravo de Instrumento n° 1.268.751- 7, da 21ª Câmara de Direito Privado:
+
+?Como se sabe, foi decretada a liquidação extrajudicial do Banco Bameríndus do Brasil S.A., por Ato n° 791, de 26.03.97, do Banco Central do Brasil, publicado no Diário Oficial da União de 27.03.97, sendo certo que todas as atividades bancárias por ele exercidas foram assumidas pelo HSBC Bameríndus do Brasil S.A., que incorporou todas as suas agências e contas correntes, dando continuidade à atividade operacional bancária, o que configurou real e verdadeira sucessão de empresas, presumindo-se a ocorrência de incorporação, de acordo com o art. 227, da Lei n° 6.404/75, com sucessão nos direitos e obrigações.
+Nem mesmo a limitação das obrigações perante terceiros do Banco sucessor é motivo para manter a sentença recorrida, por isso, o crédito objeto da ação não consta da relação de exclusão prevista na cláusula 14.1, alíneas "a" a "j" daquele ajuste (fls. 28/34). 
+Com efeito, entre os passivos descritos nas referidas alíneas não se inclui a obrigação de pagamento de crédito decorrente de fato gerador verificado durante a administração do Banco Bameríndus.
+Além disso, na cláusula 18.1 e em seu item "b" estão expressamente previstas a transferência de "outras obrigações" assumidas pelo Bameríndus para o HSBC, sendo importante transcrevê-las para evidenciar a correção do entendimento aqui esposado e não deixar qualquer margem de dúvida sobre a legitimidade do apelado na presente ação:
+"18.1 Sem prejuízo de outras indenizações previstas neste Contrato, o Banco Bameríndus obriga-se a indenizar o Banco HSBC por quaisquer prejuízos, custos, danos, despesas e obrigações sofridos ou incorridos pelo Banco HSBC, assim como por pagamentos por ele efetuados(incluindo juros, penalidades e correção monetária, despesas advocatícias e custas processuais) (cada um deles referido como "Prejuízo") decorrentes:
+b. de insubsistências ativas ou superveniências passivas resultantes de ações ou omissões cujos fatos geradores tenham ocorrido na gestão do Banco Bamerindus e no caso de cada Companhia adquirida até a data de sua aquisição. "
+
+Não há, pois, como afastar a legitimidade passiva do apelado, na presente ação de cobrança das diferenças de remuneração em caderneta de poupança. O apelante não promove a presente demanda contra terceiro, mas contra pessoa jurídica que assumiu, conforme os termos claros do ajuste referido, o passivo aqui representado por omissão cujo fato gerador ocorreu na gestão do Banco Bamerindus, devendo, em conseqüência, responder pela ação, na qualidade de sucessor do devedor originário. "
+O contrato de abertura de caderneta de poupança foi celebrado entre o Banco e o Autor, de modo que o Réu é parte legítima para figurar no pólo passivo da demanda e, consequentemente, deve cumprir a obrigação constante no contrato.
+
+A outra preliminar de ilegitimidade passiva será analisada junto com o mérito. 
+
+Vencida esta fase, passo à análise do mérito.
+
+Com relação ao cerne da questão, qual seja, o valor dos índices aplicáveis aos períodos consignados na inicial, o intenso debate da matéria no âmbito dos Tribunais tornou induvidoso que, iniciado o ciclo mensal de remuneração da caderneta de poupança, não mais é dado ao legislador ousar modificar o índice estabelecido para o fim de atualizar monetariamente o numerário depositado, sob pena de ferimento às magnas garantias do direito adquirido e do ato jurídico perfeito (CR, artigo 5º, XXXVI).
+
+No tocante ao chamado ?Plano Collor I?, a Medida Provisória n.º 168/90, posteriormente convertida na Lei Federal nº 8.024/90, em seu artigo 6º, determinou que as quantias que excedessem NCz$ 50.000,00 (cinqüenta mil cruzados novos) seriam transferidas ao Banco Central do Brasil e atualizadas pela variação do BTN Fiscal, após a data do crédito de rendimento se seguisse e a data do efetivo pagamento das parcelas referidas no dito parágrafo, acrescidas de juros equivalentes a seis por cento ao ano ou fração pro rata.
+
+Todavia, apenas os valores transferidos para uma conta individualizada junto ao BACEN deveriam ser atualizados de acordo o BTNF, já que a Medida Provisória n.º 172/90 não foi convertida em lei, de maneira que os valores mantidos em conta-poupança junto à instituição financeira deveriam continuar a ser atualizados pelo IPC, de acordo com a Lei 7.730/89, até o advento da Medida Provisória 189, de 30.05.1990, convertida na Lei n.º 8.088/90, que instituiu o BTN Fiscal para a correção monetária dos saldos de cadernetas de poupança.
+
+Com efeito, a Medida Provisória n.º 172, de 17.03.1990, alterava o artigo 6º, da Medida Provisória n.º 168/90, determinando que ?os saldos das cadernetas de poupança serão convertidos em cruzeiros na data do próximo crédito de rendimento ou a qualquer tempo, neste caso fazendo jus o valor sacado à atualização monetária pela variação do BTN Fiscal verificada entre a data do último crédito de rendimento até a data do saque, segundo a paridade estabelecida no § 2º do art. 1º, observado o limite de NCZ$ 50.000,00 (cinqüenta mil cruzados novos)?.
+
+O banco requerido aplicou tal índice após o crédito do rendimento que se seguiu. Todavia, com a rejeição da referida medida provisória, tornou-se plenamente aplicável, inclusive nos períodos durante o qual a medida vigorou, a Lei n.º 7.730/89, que previa como índice de correção monetária o IPC. Por tal razão, tal índice é o aplicável às contas de poupança que iniciaram seu ciclo de capitalização até 29 de maio de 1990, sendo que a partir de 30.05.1990, passou a vigorar o índice previsto na Medida Provisória n.º 189, qual seja, o BTN.
+
+Dessa forma, havia de ser aplicado o IPC verificado nos meses de março, no percentual de 84,32%, de abril, no percentual de 44,80%, e de maio, no percentual de 7,87% (EDREsp nº 37.225/94; REsp 68.993/95; REsp 68.006/95; REsp 69.290/95; REsp 73.754/95), referentes aos valores existentes na poupanças mantidas junto ao banco depositário no mês de março de 1990 e dos valores que permaneceram no banco depositário nos meses de abril e maio de 1990, assim entendido como o valor disponível na poupança após o repasse do valor excedente a Cr$50.000,00 ao Banco Central, não socorrendo à parte autora o pedido de aplicação do índice de 12,92% referente ao mês de junho de 1990. Neste sentido: RESP 44626/SP (199400057580). Por conseguinte, deve o requerido pagar:
+
+1) as diferenças entre o índice de 84,32% e o índice efetivamente aplicado a título de correção monetária, para a remuneração referente ao mês de março de 1990; 
+
+2) as diferenças entre os índices de 44,80% em abril e 7,87% em maio de 1990 e os índices efetivamente aplicados a título de correção monetária, para a remuneração referente aos meses de abril e maio de 1990, todos incidentes somente sobre os fundos existentes em caderneta de poupança junto ao banco depositário (excluídos, portanto os fundos transferidos ao Banco Central).
+
+Finalmente, com relação ao ?Plano Collor II? (Lei Federal nº 8.177/91), o entendimento é o de que as cadernetas de poupança devem ser corrigidas monetariamente em fevereiro de 1991 com o percentual de 21,87%.
+
+Deve o requerido pagar as diferenças entre o índice de 21,87% e o índice efetivamente aplicado a título de correção monetária, para a remuneração referente ao mês de fevereiro de 1991,  corrigindo-se, a partir de então, o valor devido desde quando deveriam ter sido creditados pelos índices da Tabela Prática do TJSP, e acrescendo-se os juros remuneratórios de 0,5% ao mês até o efetivo cumprimento da obrigação, os quais devem ser capitalizados, pois assim seriam creditados se aplicado o índice corretamente à época, na forma da Lei.
+
+Após a citação, além dos juros remuneratórios e da correção monetária pela tabela do Tribunal de Justiça do Estado de São Paulo, incidirão juros da mora de 1% ao mês até o efetivo cumprimento da obrigação.
+
+Posto isto, julgo PROCEDENTE a pretensão inicial para condenar o réu a pagar à parte autora as diferenças entre o valor da correção monetária creditada na conta de poupança, nos períodos indicados na inicial, e o que resultaria da aplicação do IPC nos seguintes percentuais aos saldos existentes nos respectivos meses: no percentual de 84,32% ao saldo de março de 1990; de 44,80% ao saldo de abril de 1990, no percentual de 7,87% ao saldo de maio de 1990; 21% em fevereiro de 1991 e 11,79% em março de 1991, incidentes somente sobre os fundos existentes em caderneta de poupança junto ao banco depositário (excluídos, portanto os fundos transferidos ao Banco Central). Em todas as hipóteses, os valores deverão ser corrigidos a partir de cada mês em que deveriam ter sido creditados, pelos índices da Tabela Prática do TJSP, acrescidos de juros remuneratórios de 0,5% ao mês até o efetivo cumprimento da obrigação, os quais devem ser capitalizados mensalmente. No cálculo do valor devido incidirá também, após a citação, juros da mora na importância de 1% ao mês até o efetivo cumprimento da obrigação.
+Arcará a parte requerida com o pagamento dos honorários advocatícios do patrono da parte autora, que ora fixo em 10% do valor da condenação, nos termos do artigo 20, § 3º, do Código de Processo Civil, bem assim com as custas e despesas judiciais.
+P.R.I.C.
+
+São Paulo, 19 de fevereiro de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

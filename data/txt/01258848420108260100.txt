@@ -1,0 +1,62 @@
+
+
+SENTENÇA
+
+Processo nº:0125884-84.2010.8.26.0100
+Classe - AssuntoProcedimento Sumário - Prestação de Serviços
+Requerente:Marisa Luzia Aparecida Matsuda
+Requerido:Prompt Brasil Soluções Em Tecnologia de Informação Limitada
+
+
+
+
+Juiz(a) de Direito: Dr(a). João Omar Marçura
+
+
+
+
+
+                                                        Vistos.
+
+
+
+
+
+MARISA LUZIA APARECIDA MATSUDA ajuizou ação declaratória de nulidade de título de crédito, com pedidos cumulados de rescisão do contrato de prestação de serviços, repetição de indébito e condenação a indenização por danos morais, com requerimento de antecipação dos efeitos da tutela em face de PROMPT BRASIL SOLUÇÕES EM TECNOLOGIA DE INFORMAÇÕES LTDA, alegando que as partes celebraram contrato em 06.05.2009 para prestação de serviços de informática, com o pagamento inicial de R$850,00 e pagamentos mensais de R$200,00 para os seis primeiros meses de contrato e R$230,00 para os demais meses do contrato, com vencimento da primeira parcela trinta dias após a assinatura do contrato e as demais a cada trinta dias.
+Ocorre que os serviços contratados não eram satisfatórios, apresentando defeitos de acessibilidade, não se enquadrando nas necessidades da autora.
+A autora pagou a parcela inicial e as mensalidades de junho a outubro de 2009 e, valendo-se de cláusula contratual expressa, resiliu o contrato, sendo que os serviços foram suprimidos a partir de outubro de 2009.
+Todavia, a ré sacou duplicatas e as enviou ao protesto, de forma indevida, pois não houve a correspondente prestação de serviços.
+A autora pediu a declaração de nulidade das duplicatas, da rescisão contratual e a condenação da ré a repetição de indébito e indenização por dano moral. Pediu ainda a antecipação dos efeitos da tutela para sustar os protestos ou seus efeitos e impor à ré obrigação de abstenção de sacar novos títulos e de enviá-los ao protesto.
+Com a inicial vieram os documentos de fls. 20/33, com o aditamento de fls. 36/44.
+Decisão antecipando os efeitos da tutela a fls. 45.
+Precederam a esta demanda duas ações cautelares para sustação de protesto, nas quais foi concedida a liminar, mediante caução, sendo os feitos reunidos para julgamento simultâneo.
+Citada, a ré apresentou contestação (fls. 56/64, com os documentos de fls. 65/98). Alegou que o contrato celebrado entre as partes tem prazo mínimo de fidelidade, sendo que os serviços foram regularmente prestados e os títulos sacados encontram lastro na prestação dos serviços, de forma que os protestos foram licitamente efetuados, não se cogitando de dano material ou moral, nem de repetição de indébito. Sustentou a legalidade dos títulos de crédito.
+Réplica a fls. 105/113.
+Determinada a especificação de provas, a ré disse ter interesse na conciliação e pediu prova oral (fls. 115/116), enquanto a autora manifestou interesse na conciliação, pediu prova pericial e testemunhal (fls. 118/119).
+Convocadas as partes para tentativa de conciliação, restou infrutífera (fls. 121/122). 
+Decisão saneadora irrecorrida a fls. 124/128.
+Nomeado perito, apresentou o laudo (fls. 185/198), sobre o qual manifestou-se a ré (fls. 208/209), sobrevindo a manifestação da autora (fls. 211/215) e as criticas de seu assistente técnico (fls. 216/220).
+Encerrada a instrução, foi concedido prazo para memoriais (fls. 231).
+Alegações finais da ré a fls. 233/236 e da autora a fls. 238/244. 
+É o relatório. 
+Fundamento. 
+DECIDO.
+O pedido é procedente.
+A prova documental e pericial revelou que os serviços contratados apresentaram falhas, tornando-se imprestáveis para a autora.
+A autora adquiriu em 06.05.2009 a licença de uso de software de propriedade da ré, voltado ao ramo imobiliário, que permite o cadastramento de imóveis à venda, busca no banco de dados, emissão de relatórios, controle de atendimento e um website para acesso pelos clientes. O controle do sistema era feito de forma remota pela ré, a quem cabia a obrigação de preservar a funcionabilidade do mesmo.
+A perícia restou parcialmente prejudicada porque a ré não manteve versão do programa adquirido pela autora, apresentando apenas versão atualizada, dois anos depois daquela adquirida pela autora e também não há registros das manutenções e alterações feitas no programa na época dos fatos. A ré também não manteve registro dos chamados técnicos feitos pela autora.
+Note-se que a fls. 28 dos autos há documento que prova a reclamação da autora quanto ao mau funcionamento do sistema, que impedia o uso do programa.
+O contrato de licença de uso celebrado entre as partes não especifica a conexão de banda larga de internet necessária para o correto funcionamento do programa. Trata-se de falha de informação ao consumidor.
+Desta forma, a autora tinha direito de resolver o contrato, pela má prestação dos serviços e tem direito a repetir o que pagou, mas não em dobro, pois não se trata de ato de má-fé ou pelo menos não houve prova da ocorrência dela.
+O apontamento indevido dos títulos ao protesto causou ofensa à honra objetiva e subjetiva da autora, passível de indenização, tratando-se de dano in re ipsa.
+Considerando-se as pessoas envolvidas, a natureza e extensão do dano, bem como a finalidade da indenização, fixo-a em R$10.000,00.
+A condenação em valor inferior ao pleiteado não importa sucumbência recíproca. Neste sentido a Sumula 326 do STJ: 
+Na ação de indenização por dano moral, a condenação no montante inferior ao postulado na inicial, não implica sucumbência recíproca.
+Posto isso, julgo PROCEDENTE o pedido das ações cautelares e da ação principal, torno definitivas as liminares concedidas e a decisão que antecipou os efeitos da tutela, declaro resolvido o contrato celebrado entre as partes por culpa da ré e condeno esta a restituir a autora os valores por ela pagos, corrigidos monetariamente pela tabela prática do TJSP e acrescidos de juros de 1% ao mês a partir dos respectivos desembolsos, bem como a pagar indenização por dano moral no valor de R$10.000,00 (dez mil reais) corrigidos monetariamente pela tabela prática do TJSP a partir de hoje e acrescidos de juros de 1% ao mês a partir do primeiro apontamento para protesto.
+A ré arcará com as custas, despesas processuais, inclusive honorários do assistente técnico da autora, já adiantados por ela que deverão ser reembolsados e honorários advocatícios arbitrados em 20% sobre o valor da condenação, já consideradas as demandas cautelares e principal. 
+P.R.I.
+
+São Paulo, 24 de janeiro de 2013.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

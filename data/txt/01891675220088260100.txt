@@ -1,0 +1,48 @@
+
+
+SENTENÇA
+
+Processo nº:0189167-52.2008.8.26.0100
+Classe - AssuntoProcedimento Sumário - Protesto Indevido de Título
+Requerente:Indústria de Tecidos Daronyl Ltda
+Requerido:Textil Cryb Ltda e outros
+
+
+
+
+Juiz(a) de Direito: Dr(a). Andre Pasquale Rocco Scavone
+
+
+
+Vistos.
+
+
+INDÚSTRIA DE TECIDOS DARONYL LTDA, qualificado(a) nos autos, ajuizou ação contra TEXTYL CRYB LTDA, BANCO SANTANDER S/A, BANCO DO BRASIL S/A, BANCO SAFRA S/A, FUNDO DE INVESTIMENTO EM CRED MULT V, e, posteriormente, FUTURE FOMENTO alegando, em apertada síntese, que sofre cobranças indevidas de duplicatas sem negócio subjacente. 
+A autora desistiu da ação contra BANCO DO BRASIL e FUNDO DE INVESTIMENTO EM CRED MULT V (sentenças de extinção a fls. 323 e 507).
+Acordo entre a autora e FUTURE FOMENTO MERCANTIL, homologado a fls. 536.
+Banco SANTANDER contestou o pedido a fls. 347 e Banco SAFRA contestou o pedido a fls. 329, sustentando que se trata de endosso mandato. 
+Banco Indusval S/A contestou a fls. 386, arguindo que suspendeu o protesto.
+É o Relatório.
+Fundamento e decido.
+O feito dispensa a produção de outras provas e comporta julgamento antecipado nos termos do artigo 330, inciso I, do Código de Processo Civil.
+A prova do crédito compete a quem o exige e a ré TEXTYL CRYB LTDA emitente dos títulos não comprovou qualquer negócio jurídico com a autora.
+Quanto aos bancos, vale destacar que se trata de endosso-mandato e não translativo (cessão do crédito ou desconto das duplicatas), razão pela qual a responsabilidade dependeria da prova de culpa por ato próprio, que não veio aos autos.
+O endosso-mandato não se equipara ao endosso caução ou translativo, tampouco à cessão de crédito, uma vez que o ato da cobrança é praticado pelo credor mandante, apenas por intermédio de terceiro, que é, em linha de princípio, parte ilegítima para a declaratória da inexigibilidade, e só responderá por eventuais danos do ato ilícito se caracterizada a culpa por ato próprio. Precendentes: AgRg no REsp 1107933/RS, Rel. Ministro  HONILDO AMARAL DE MELLO CASTRO (Conv. TJ/AP), 4ª TURMA, julgado em 01/06/2010, DJe 15/06/2010).
+DUPLICATA. NEGÓCIO JURÍDICO SUBJACENTE. INEXISTÊNCIA. PROTESTO. ENDOSSO-MANDATO. RESPONSABILIDADE DO BANCO ENDOSSATÁRIO. - No endosso-mandato, somente responde o banco endossatário pelo protesto indevido de duplicata quando comprovada a sua negligência por ato próprio. Não lhe é exigível averiguar previamente a causa da duplicata. Recurso especial conhecido e provido. (REsp 541477/RS, Rel. Ministro  BARROS MONTEIRO, QUARTA TURMA, julgado em 18/10/2005, DJ 19/12/2005 p. 413)
+RECURSO ESPECIAL. PROTESTO INDEVIDO DE DUPLICATA. ENDOSSO-MANDATO. ILEGITIMIDADE PASSIVA DA INSTITUIÇÃO FINANCEIRA. PRECEDENTES. SÚMULA 83/STJ. 1. No que tocante à ilegitimidade do recorrente para figurar no pólo passivo da demanda, razão não lhe assiste. O acórdão recorrido acompanha entendimento mais recente desta Corte quando reconhece a legitimidade passiva do banco endossatário que realiza protesto indevido de título de crédito, no caso de endosso-mandato, em ação de indenização por danos morais. 2. Incidência da Súmula 83/STJ. 3. Agravo regimental a que se nega provimento. (AgRg no REsp 1107933/RS, Rel. Ministro  HONILDO AMARAL DE MELLO CASTRO (DESEMBARGADOR CONVOCADO DO TJ/AP), QUARTA TURMA, julgado em 01/06/2010, DJe 15/06/2010)
+É certo que o banco recebe pelo serviço prestado. Mas há que se diferenciar o ato praticado por mandato, ainda que oneroso, daquele que envolve a transferência do crédito, quando o favorecido deve certificar-se acerca da legitimidade. Nesse caso, o cessionário que realiza atos ilegítimos de cobrança, em especial, restrições públicas contra o crédito, responde solidariamente com o cedente pelos danos causados.
+INDENIZAÇÃO - Dano moral - Protesto - Duplicata. Trata-se de ação de indenização movida por empresa de importação e exportação contra banco (ora recorrente) e empresa distribuidora, em razão de protesto de duplicata sem aceite recebida em endosso translativo vinculado a contrato de desconto. Ressalta o Min. Relator que a hipótese dos autos é a de endosso translativo em que o banco adquire a cártula com seus direitos e, também, vícios, sendo o maior deles a ausência de causa à emissão da duplicata, por não ser representativa de dívida real. Nessas circunstâncias, a decisão do Tribunal a quo quanto à responsabilização do banco, resguardada a ação regressiva contra sacadora (a empresa distribuidora), harmoniza-se com a orientação jurisprudencial deste Superior Tribunal. (...) Precedentes citados: REsp 473.127-MT, DJ 25/2/2004, e REsp 234.592-MG, DJ 21/2/2000. (STJ - REsp nº 976.591 - ES - Rel. Min. Aldir Passarinho Junior - J. 04.10.2007).
+Quanto ao Banco INDUSVAL S/A cabe observar, ainda, que o ato foi sustado por iniciativa do próprio réu.
+DANO MORAL. Não há como se negar que a inclusão de informações sobre existência de débitos contra a pessoa constitui gravame que lhe obsta a prática de atos negociais. É para esse fim que o serviço foi criado visando a minimizar os riscos das atividades financeiras e mercantis. A inserção indevida de restrições causa dano relevante que está sujeito, em tese, à reparação. Indevida é a inserção que não tem causa, ou aquela a que não deu causa o prejudicado. O dano decorrente do protesto e anotações indevidas é presumido, uma vez que é da natureza do instituto dar publicidade ao nome do devedor. Se caracterizado, é de rigor a reparação. Na fixação do valor desta reparação, deve-se observar um complexo de vetores que inclui a situação econômica das partes, a abrangência da lesão, o grau de culpa, eventual concorrência de culpa e o contexto no qual se desenvolve a conduta lesiva. Entendemos não haver fundamento para a fixação tomando por base o valor do prejuízo ou do protesto, uma vez que a divulgação da restrição ou o dano não se relaciona de modo direto com o valor do débito. Em atenção a tais componentes, fixa-se o valor de R$7.000,00, que se considera adequado em face do objeto do litígio, do que se pode aferir da capacidade econômica das partes, e que representa justa sanção à conduta culposa da(o) ré(u).
+Do exposto, julgo IMPROCEDENTE o pedido condenatório contra BANCO SANTANDER S/A, BANCO SAFRA S/A e BANCO INDUSVAL S/A, e PROCEDENTE o pedido declaratório e condenatório contra a ré TEXTYL CRYB LTDA, com a extinção da ação com fundamento no art. 269, inciso I, para declarar inexigíveis as duplicatas indicadas a fls. 03, 04, 63, 92, 107, 117, 137, 140, 263 e 288 e condenar a ré TEXTYL CRYB LTDA a pagar o valor de R$7.000,00, atualizado desde a publicação da sentença pela tabela do Tribunal de Justiça do Estado de São Paulo, sobre o qual incidirá juros de mora de 1% ao mês a partir da citação, no prazo de quinze dias contados do trânsito em julgado, pena de multa nos termos do art. 475-J, CPC, e execução forçada a requerimento do credor. Arcará a(o) ré(u) v com custas, despesas processuais e honorários advocatícios que fixo em 20% (vinte por cento) do valor atualizado da condenação em favor da autora.
+Em atenção ao princípio da causalidade e, pelos mesmos motivos que isentam os mandatários da responsabilidade (ciência das circunstâncias), deixo de condenar a autora em verbas de sucumbência contra os bancos réus.
+Libero a caução de fls. 115.
+Com o trânsito em julgado, oficie-se para o cancelamento definitivo dos protestos, carreando à ré TEXTYL CRYB LTDA as custas e despesas dos atos.
+Nos termos da Lei n.º 11.608/03, o valor do preparo para eventual interposição de recurso em relação à condenação da requerida TEXTIL importa em R$ 140,00 e em relação às demais condenações em R$ 8.412,10, mais a taxa de remessa e retorno dos autos (R$29,50por volume), conforme Prov. 833/04.
+P. R. I. C.
+
+São Paulo, 24 de abril de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

@@ -1,0 +1,76 @@
+
+
+SENTENÇA
+
+Processo nº:0019947-27.2013.8.26.0053
+Classe - AssuntoProcedimento Ordinário - Anulação de Débito Fiscal
+Requerente:Evanilza Ines de Freitas
+Requerido:Fazenda do Estado de São Paulo
+
+
+
+
+Juiz(a) de Direito: Dr(a). Luiz Fernando Rodrigues Guerra
+
+
+Vistos.
+
+EVANILZA INES DE FREITAS ajuíza ação civil contra a FAZENDA PÚBLICA DO ESTADO, pelo procedimento comum ordinário.
+
+Aduz a autora que foi proprietária de veículo automotor, marca Ford, modelo Fiesta, com demais dados trazidos pela petição inicial, e que adquiriu esse veículo em 2007. Diz ter sido notificada quanto à inscrição de débitos tributários referentes ao Imposto sobre a Propriedade de Veículos Automotores ? IPVA, tributo vencido em 2001, com inscrição do passivo no CADIN estadual. Defende a ausência de responsabilidade diante do pagamento dos tributos na data correta e, subsidiariamente, a prescrição tributária do débito. 
+
+Ao final, pleiteia a declaração de inexigibilidade do valor de IPVA, com a exclusão do apontamento junto ao CADIN. 
+
+Foi deferida medida liminar.
+
+Devidamente citada, a ré ofereceu resposta, sob a forma de contestação. No mérito, aduziu que não há que se falar prescrição tributária, já que, na sua ótica, o IPVA seria modalidade de tributo sujeito ao lançamento por homologação e o prazo de prescrição somente poderia ser contado a partir do decurso do prazo para homologação do pagamento.
+
+É o relatório.
+
+FUNDAMENTO e DECIDO.
+
+Considerando que a matéria tratada nos autos possui conteúdo exclusivamente jurídico, o feito comporta julgamento antecipado (artigo 330, inciso I, do Código de Processo Civil).
+
+No mérito, a presente ação deve ser julgada procedente.   
+
+A questão candente nos autos diz respeito à verificação da prescrição do débito tributário que fora escrito na devida ativa e lançado como apontamento negativo no CADIN em desfavor da autora.
+
+Primeiramente, é de se afirmar que o IPVA, como regra, deve ser caracterizado como um tributo sujeito a lançamento de ofício.
+
+Segundo a lição de Paulo de Barros Carvalho, lançamento de ofício seria ...aquele em que a participação do contribuinte é inexistente, uma vez que todas as providências preparatórias são feitas nos cancelos da Administração. (Curso de Direito Tributário. Saraiva: São Paulo, 1999, p. 283/284). Assim, a definição do lançamento do tributo como sendo de ofício não decorre da existência de eventual notificação para pagamento, como crer fazer crer a ré, mas da participação maior ou menor do contribuinte na constituição do débito tributário.
+
+Logo, diante da realidade fática, não há como se entender o IPVA como um tributo cujo lançamento por homologação, já que, como regra, o contribuinte não participa da definição da obrigação tributária. 
+
+Excluindo-se os casos de recolhimento de IPVA sobre veículos sem quilometragem, onde o contribuinte participa ativamente da definição dos parâmetros definidores da obrigação tributária, a regra é a de que cabe à Administração a definição da base de cálculo, atualizando ou não o valor monetário do veículo automotor, define a alíquota incidente e calcula o tributo devido. 
+
+É verdade que a comunicação anual não tem a natureza de notificação para o pagamento do tributo, já que ela possui conteúdo meramente informativo. Porém, é certo se reconhecer que tal comunicação é a prova inconteste de que o IPVA é um tributo cujo lançamento é feito de ofício pela Administração.
+
+Pois bem, segundo preceitua o artigo 173, inciso I, do Código Tributário Nacional, o direito da Administração constituir o crédito tributário se extingue em cinco anos contados do primeiro dia do exercício financeiro em que o tributo poderia ter sido lançado. E a chamada decadência tributária, que, obviamente, não se confunde com a prescrição tributária tão debatida nos autos.
+
+Tomando-se por base o exercício financeiro de 2001, mais recente em discussão nos autos, pergunta-se: o que impedia a Administração de efetuar o lançamento do tributo no ano de 2001. Absolutamente nada. A Administração dispunha de todos os dados necessários para a promoção do lançamento tributário, não necessitando de qualquer intervenção direta da autora. Logo, no entender desse magistrado, o prazo de decadência tributária passou a correr a partir de 1º de janeiro de 2002 e em 1º de janeiro de 2007 operou-se juridicamente a decadência do direito de lançar o tributo em comento.
+
+No sentido de todo o decidido, consignem-se julgados do Egrégio Tribunal de Justiça de São Paulo:
+
+Ementa: EXECUÇÃO FISCAL. IPVA. Reconhecimento da prescrição com relação ao imposto dos anos de 2001, 2002, 2003, 2004, 2005 e 2006. Tributo sujeito a lançamento de ofício. Fato gerador ocorrido em 1º de janeiro de cada exercício. Prescrição configurada de acordo com o art. 174 do CTN. Extinção da execução fiscal. Observância do art. 219, § 5º, do CPC. Recurso não provido. (Apelação n° 0044585-41.2011.8.26.0071, 2ª Câmara de Direito Público, Rel. CLAUDIO AUGUSTO PEDRASSI, j. em 19.2.2013) 
+
+Ementa: ANULATÓRIA DE DÉBITO FISCAL. Imposto sobre a propriedade de veículos automotores. IPVA. Exercício de 2001 a 2005, inscritos na Dívida Ativa em 01.03.2011. Inscrição do perante o CADIN Estadual. Inativação do CPF e impossibilidade do processamento e pagamento de benefício, vinculado ao Sistema SIAFEM. PRESCRIÇÃO. O IPVA é imposto cujo lançamento se opera de ofício, de forma que sua constituição se dá com a notificação recebida pelo contribuinte no início de cada ano. Prescrição configurada na hipótese dos autos. Artigo 174 do Código Tributário Nacional. INDENIZAÇÃO. Dano moral configurado. Restou demonstrado nos autos que a inscrição do nome do autor no CADIN por dívida já prescrita causou-lhe abalo psicológico, na medida em que teve o seu CPF inativado e a suspensão do processamento e pagamento de benefício de caráter alimentar. O "quantum" fixado a título de indenização por dano moral deve ser mantido, pois fixado dentro dos princípios da razoabilidade e proporcionalidade. Sentença mantida. Recurso não provido. (Apelação n° 0024768-45.2011.8.26.0053, 3ª Câmara de Direito Público, Rel. Des. RONALDO DE ANDRADE, j. em 29.1.2013)
+
+Assim, a procedência do feito é media de rigor.
+
+Nestes termos, JULGO PROCEDENTES os pedidos formulados pela autora, o que faço com fundamento no artigo 269, inciso I, do Código de Processo Civil, para declarar inexigível o débito de IPVA e demais valores acessórios (multas, juros, correção monetária, taxas de licenciamento e seguro DPVAT) referentes ao exercício financeiro de 2001, que tenha como fato gerador a propriedade do veículo automotor descrito na petição inicial.
+
+Como consequência, condeno a ré em custas processuais, atualizadas a partir do desembolso pela autora, e honorários advocatícios, estes fixados em R$ 500,00, por equidade.
+
+P.R.I.C.
+
+São Paulo, 04 de julho de 2013.
+
+
+
+LUIZ FERNANDO RODRIGUES GUERRA
+                       Juiz de Direito
+
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

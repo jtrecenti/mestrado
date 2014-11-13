@@ -1,0 +1,320 @@
+
+
+SENTENÇA 
+
+
+Processo:0038559-06.2012.8.26.0002 - Procedimento Ordinário
+Requerente:Carlito José dos Santos
+Requerido:Banco B G N S/A
+
+
+
+
+
+Vistos.
+
+
+
+
+Constou da petição inicial, em resumo, que a autora ajustou contrato de empréstimo com o banco réu, o qual dela cobrou taxas abusivas. Segundo o autor, após um primeiro empréstimo no BANCO PANAMERICANO no valor de R$ 9.848,40 para quitação em 60 prestações de R$ 307,00, houve um telefonema da representante do banco réu que lhe ofertou um novo e segundo empréstimo. Esse novo contrato teria as seguintes finalidades: (a) quitação do primeiro empréstimo e (ii) redução dos juros e da prestação. Mas diferente da oferta, o banco réu fez anotar no contrato o valor de crédito de R$ 9.503,37 para pagamento também em 60 prestações de R$ 307,00, provocando um prejuízo ao autor ? já que ele havia quitado 07 prestações no primeiro empréstimo e, agora, no segundo teria que pagar um novo período de 60 meses com o mesmo valor de prestação mensal. Também mencionou que a taxa de juros violava a orientação normativa do INSS. Após invocar o Código de Defesa do Consumidor, o autor deduziu os seguintes pedidos: (a) declaração de nulidade do contrato celebrado entre as partes, (b) sucessivamente, no caso de manutenção do contrato, a redução do número de parcelas (para 53) e a diminuição da taxa de juros, cumprindo-se a oferta, (c) indenização por danos morais. 
+
+
+Na contestação (fls. 50/57), em apertada síntese, o banco réu sustentou a legalidade dos juros cobrados e a validade do negócio jurídico ? inexistência de onerosidade excessiva. 
+
+
+Houve réplica.
+
+
+É O BREVE RELATO.
+
+FUNDAMENTO E DECIDO.
+
+
+
+O processo comporta imediato julgamento, dispensando-se a produção de outras provas, nos termos do artigo 330, inciso I do Código de Processo Civil. 
+
+
+Passo a apreciar o mérito. 
+
+
+A discussão do contrato limita-se à validade do contrato e sua eficácia, diante da abusividade dos juros praticados pelo banco réu, no contrato ajustado entre as partes. Trata-se de um contrato de empréstimo consignado e que serviu para quitação de um primeiro empréstimo do consumidor idoso em outra instituição financeira.
+
+
+Observo que está pacificada a incidência do CDC às instituições financeiras pela edição da súmula 297 do Superior Tribunal de Justiça:
+
+?O Código de Defesa do Consumidor é aplicável às instituições financeiras?.
+
+
+No Supremo Tribunal Federal, o assunto também acabou abordado com igual conclusão: ADI n. 2591, Pleno, relator designado o Ministro EROS GRAU, julgado em 07.6.2006, DJ 29.9.2006.  
+
+
+O julgamento da lide tem como premissa: os contratos bancários e as próprias atividades das instituições financeiras  ficam sujeitos às disposições do Código de Defesa do Consumidor.
+
+I ? DA ABUSIVIDADE DA TAXA DE JUROS.
+
+
+O controle judicial da abusividade dos juros foi tratado com maestria no julgamento do Recurso Especial n. 1.161.530-RS, incidente de julgamento de processos repetitivos, relatora a Ministra NANCY ANDRIGHI, julgado em 22.10.2008, DJ 10.3.2009, destacando-se:
+
+
+"1. JUROS REMUNERATÓRIOS.
+
+"Juros remuneratórios são aqueles que representam o preço da disponibilidade monetária, pago pelo mutuário ao mutuante, em decorrência do negócio jurídico celebrado entre eles.
+
+"1.1. Juros Remuneratórios Pactuados.
+
+"O entendimento hoje vigente nesta 2ª Seção indica que a regra, no Sistema Financeiro Nacional, é a liberdade na pactuação dos juros remuneratórios. Isso implica, mais especificamente, reconhecer que:
+
+(i) As instituições financeiras não se sujeitam à limitação dos juros remuneratórios que foi estipulada na Lei de Usura (Decreto 22.626/33), como já dispõe a Súmula 596/STF.
+
+"...
+
+"(ii) A simples estipulação de juros remuneratórios superiores a 12% ao ano não indica abusividade.
+
+"...
+
+"iii) São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02 (Único voto encontrado: Resp 680.237/RS, 2ª Seção, Rel. Min. Aldir Passarinho Junior, DJ de 15.03.2006).
+"(iv) É inviável a utilização da Selic - taxa do Sistema Especial de Liquidação e Custódia - como parâmetro de limitação de juros remuneratórios.
+
+"...
+
+"1.2. A Revisão dos Juros Remuneratórios Pactuados.
+
+"Fixada a premissa de que, salvo situações excepcionais, os juros remuneratórios podem ser livremente pactuados em contratos de empréstimo no âmbito do Sistema Financeiro Nacional, questiona-se a possibilidade de o Poder Judiciário exercer o controle da liberdade de convenção de taxa de juros naquelas situações que são evidentemente abusivas.
+
+"A dificuldade do tema, que envolve o controle do preço do dinheiro é enorme. Isso não é, entretanto, suficiente para revogar o art. 39, V, CDC, que veda ao fornecedor, dentre outras práticas abusivas, ?exigir do consumidor vantagem manifestamente excessiva? , e o art. 51, IV, do mesmo diploma, que torna nulas as cláusulas que ?estabeleçam obrigações consideradas iníquas, abusivas, que coloquem o consumidor em desvantagem exagerada, ou sejam incompatíveis com a boa-fé ou a eqüidade? .
+
+"As premissas básicas de solução foram lançadas no julgamento do Resp 407.097/RS, DJ de 29.09.2003, quando a 2ª Seção estava diante da cobrança de taxa de juros de 10,90% ao mês em contrato de abertura de crédito em conta corrente. Naquela oportunidade, a maioria dos Ministros manifestou o entendimento de que os juros não deveriam ser limitados, salvo em hipóteses excepcionais.
+
+"A excepcionalidade pressupunha: (i) aplicação do CDC ao contrato e (ii) taxa que comprovadamente discrepasse, de modo substancial, da média do mercado na praça do empréstimo, salvo se justificada pelo risco da operação (no mesmo sentido, vide Resp 420.111/RS, Segunda Seção, Rel. Min. Pádua Ribeiro, Rel. p. Acórdão Min. Ari Pargendler, DJ de 06.10.2003).
+
+"Acompanhando tais precedentes, os Ministros que atualmente compõem esta 2ª Seção têm admitido a possibilidade de controle dos juros manifestamente abusivos naqueles contratos que se inserem em uma relação de consumo.
+
+"O Min. Aldir Passarinho Junior vem considerando ?que a pactuação [dos juros] é livre entre as partes, somente se podendo falar em taxa abusiva se constatado oportunamente por prova robusta que outras instituições financeiras, nas mesmas condições, praticariam percentuais muito inferiores? (Resp 915.572/RS, Quarta Turma, DJe 10.03.2008).
+
+
+"Por isso, o Ministro Aldir defende que essa abusividade seja demonstrada em ?perícia que propicie a comparação com as taxas praticadas por outras instituições financeiras, desde que coincidentes o produto, a praça e a época da firmatura do pacto? (AgRg no Resp 935.231/RJ, Quarta Turma, DJ de 29.10.2007).
+
+"No mesmo sentido, o Min. João Otávio de Noronha tem asseverado que ?a alteração da taxa de juros pactuada depende da demonstração cabal de sua abusividade em relação à taxa média do mercado? (AgRg no Resp 939.242/RS, Quarta Turma, DJe de 14.04.2008).
+
+"O Min. Luis Felipe Salomão, por sua vez, afirma que ?a abusividade da pactuação dos juros remuneratórios deve ser cabalmente demonstrada em cada caso, com a comprovação do desequilíbrio contratual ou de lucros excessivos, sendo insuficiente o só fato de a estipulação ultrapassar 12% ao ano ou de haver estabilidade inflacionária no período, o que não ocorreu no caso dos autos? (AgRg no Resp 881.383, DJ de 27.08.2008).
+
+"O Min. Fernando Gonçalves sustenta que ?a alteração da taxa de juros pactuada depende da demonstração cabal da sua abusividade em relação à taxa média de mercado? (AgRg no Resp 1.041.086/RS, Quarta Turma, DJe de 01.09.2008).
+
+"O Min. Massami Uyeda entende ser ?firme o entendimento desta augusta Corte no sentido de que, não obstante a inequívoca incidência da lei consumerista nos contratos bancários, a abusividade da pactuação dos juros remuneratórios deve ser cabalmente demonstrada em cada caso, com a comprovação do desequilíbrio contratual ou de lucros excessivos (...)? e, com base nesse argumento e na Súmula 7/STJ, já manteve acórdão que reduziu uma taxa de juros de 45,65% ao ano, em contrato de alienação fiduciária, para o patamar da taxa média de 37,42% ao ano (Resp 1.036.857/RS, Terceira Turma, DJe de 05.08.2008).
+
+"O Min. Sidnei Beneti reconheceu que ?para o período da inadimplência, permite-se o controle judicial dos juros remuneratórios, com base nas regras do Código de Defesa do Consumidor, quando ficar comprovado que o percentual cobrado destoa da taxa média do mercado para a mesma operação financeira? .
+
+"Assim, conclui o Min. Beneti que, como ?o Acórdão recorrido apurou que a taxa de juros remuneratórios cobrada pela instituição financeira recorrida encontra-se acima do dobro da taxa média do mercado para a modalidade do negócio jurídico efetivado ?, na inadimplência, os juros deveriam variar ?segundo a taxa média do mercado, para a operação de mútuo, apurada pelo Banco Central do Brasil, na forma da Circular da Diretoria n° 2.957, de 28 de dezembro de 1999 (...)? (Resp 977.789/RS, Terceira Turma, DJe de 20.06.2008). 
+
+"Ressalte-se, para fins ilustrativos, que nessa hipótese havia dois contratos de mútuo, um com taxa de 9,9% ao mês e outro de 8,8% ao mês. Aponta-se, ainda, precedente de minha lavra, com o qual manifestaram concordância os Min. Ari Pargendler, Massami Uyeda e Sidnei Beneti, no qual, diante de empréstimo pessoal a juros de 249,85% ao ano, superiores ao dobro da taxa média apurada pelo Banco Central, ficou estabelecido que ?cabalmente demonstrada pelas instâncias ordinárias a abusividade da taxa de juros remuneratórios cobrada, deve ser feita sua redução ao patamar médio praticado pelo mercado para a respectiva modalidade contratual? (Resp 1.036.818, Terceira Turma, DJe de 20.06.2008).
+
+"Por sua importância, ainda vale mencionar a posição de alguns Ministros que não mais integram esta 2ª Seção:
+
+"O Ministro César Asfor Rocha, diante de juros remuneratórios pactuados à taxa de 34,87% ao mês contra uma taxa média, apurada por perícia, de 14,19% ao mês, entendeu que, estando ?cabalmente comprovada por perícia, nas instâncias ordinárias, que a estipulação da taxa de juros remuneratórios foi aproximadamente 150% maior que a taxa média praticada no mercado, nula é a cláusula do contrato? (Resp 327.727/SP, Segunda Seção, DJ de 08.03.2004).
+"O Min. Pádua Ribeiro, por seu turno, constatando cobrança de taxa superior ao triplo da média (380,78% ao ano contra 67,81% ao ano), reduziu-a para o ?patamar médio praticado pelo mercado para a respectiva modalidade contratual? (Resp 971.853/RS, Quarta Turma, DJ de 24.09.2007).
+
+"O Ministro Ari Pargendler consignou que ?evidentemente, pode-se, em casos concretos reconhecer a existência de juros abusivos. Por exemplo, no Agravo de Instrumento nº 388.622, MG, tive ocasião de decidir que, 'se o acórdão, confortado por laudo pericial, dá conta de que os juros praticados na espécie excediam em quase 50% à taxa média de mercado, não há como fugir da conclusão de que são, mesmo, abusivos' (DJ, 10.08.2001). O tema, com certeza, é complexo, porque o risco de cada operação influi na respectiva taxa de juros. Mas o peso desse componente, e de outros, no custo do empréstimo deve, então, caso a caso, ser justificado pela instituição financeira, o juiz saberá decidir as controvérsias a propósito, se respeitar a racionalidade econômica, representada pelo mercado" (voto proferido no Resp 271.214/RS, Rel. p. Acórdão Min. Menezes Direito, DJ de 04.08.2003; no mesmo sentido, vide Resp 420.111/RS, Segunda Seção, Rel. Min. Pádua Ribeiro, Rel. p. Acórdão Min. Ari Pargendler, DJ de 06.10.2003; Resp 1.061.512, Rel. Min. Ari Pargendler, DJ de 07.08.2008).
+
+"Logo, diante desse panorama sobre o posicionamento atual da 2ª Seção, conclui-se que é admitida a revisão das taxas de juros em situações excepcionais, desde que haja relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada ? art. 51, §1º, do CDC) esteja cabalmente demonstrada.
+
+"Necessário tecer, ainda, algumas considerações sobre parâmetros que podem ser utilizados pelo julgador para, diante do caso concreto, perquirir a existência ou não de flagrante abusividade. Inicialmente, destaque-se que, para este exame, a meta estipulada pelo Conselho Monetário Nacional para a Selic ? taxa do Sistema Especial de Liquidação e Custódia ? é insatisfatória. Ela apenas indica o menor custo, ou um dos menores custos, para a captação de recursos pelas instituições que compõem o Sistema Financeiro Nacional. Sua adoção como parâmetro de abusividade elimina o 'spread' e não resolve as intrincadas questões inerentes ao preço do empréstimo. Por essas razões, conforme destacado, o STJ em diversos precedentes tem afastado a taxa Selic como parâmetro de limitação de juros.
+
+"Descartados índices ou taxas fixos, é razoável que os instrumentos para aferição da abusividade sejam buscados no próprio mercado financeiro.
+
+"Assim, a análise da abusividade ganhou muito quando o Banco Central do Brasil passou, em outubro de 1999, a divulgar as taxas médias, ponderadas segundo o volume de crédito concedido, para os juros praticados pelas instituições financeiras nas operações de crédito realizadas com recursos livres (conf. Circular nº 2957, de 30.12.1999).
+
+"As informações divulgadas por aquela autarquia, acessíveis a qualquer pessoa através da rede mundial de computadores (conforme http://www.bcb.gov.br/ecoimpom - no quadro XLVIII da nota anexa; ou http://www.bcb.gov.br/?TXCREDMES, acesso em 06.10.2008), são segregadas de acordo com o tipo de encargo (prefixado, pós-fixado, taxas flutuantes e índices de preços), com a categoria do tomador (pessoas físicas e jurídicas) e com a modalidade de empréstimo realizada ('hot money', desconto de duplicatas, desconto de notas promissórias, capital de giro, conta garantida, financiamento imobiliário, aquisição de bens, 'vendor', cheque especial, crédito pessoal, entre outros).
+
+"A taxa média apresenta vantagens porque é calculada segundo as informações prestadas por diversas instituições financeiras e, por isso, representa as forças do mercado. Ademais, traz embutida em si o custo médio das instituições financeiras e seu lucro médio, ou seja, um 'spread' médio. É certo, ainda, que o cálculo da taxa média não é completo, na medida em que não abrange todas as modalidades de concessão de crédito, mas, sem dúvida, presta-se como parâmetro de tendência das taxas de juros. Assim, dentro do universo regulatório atual, a taxa média constitui o melhor parâmetro para a elaboração de um juízo sobre abusividade.
+
+"Como média, não se pode exigir que todos os empréstimos sejam feitos segundo essa taxa. Se isto ocorresse, a taxa média deixaria de ser o que é, para ser um valor fixo. Há, portanto, que se admitir uma faixa razoável para a variação dos juros.
+
+"A jurisprudência, conforme registrado anteriormente, tem considerado abusivas taxas superiores a uma vez e meia (voto proferido pelo Min. Ari Pargendler no Resp 271.214/RS, Rel. p. Acórdão Min. Menezes Direito, DJ de 04.08.2003), ao dobro (Resp 1.036.818, Terceira Turma, minha relatoria, DJe de 20.06.2008) ou ao triplo (Resp 971.853/RS, Quarta Turma, Min. Pádua Ribeiro, DJ de 24.09.2007) da média.
+
+"Todavia, esta perquirição acerca da abusividade não é estanque, o que impossibilita a adoção de critérios genéricos e universais. A taxa média de mercado, divulgada pelo Banco Central, constitui um valioso referencial, mas cabe somente ao juiz, no exame das peculiaridades do caso concreto, avaliar se os juros contratados foram ou não abusivos.
+
+"1.3. Taxa aplicável quando reconhecida a abusividade na contratação dos juros remuneratórios.
+
+"A questão final atinente a este tópico procura responder ao seguinte problema: constatada a abusividade, qual taxa deve ser considerada adequada pelo Poder Judiciário?
+
+"Muitos precedentes indicam que, demonstrado o excesso, deve-se aplicar a taxa média para as operações equivalentes, segundo apurado pelo Banco Central do Brasil (vide, ainda, Edcl no AgRg no Resp 480.221/RS, Quarta Turma, Rel. Min. Hélio Quaglia Barbosa, DJ de 27.3.2007; e Resp 971853/RS, Terceira Turma, Rel. Min. Pádua Ribeiro, DJ de 24.09.2007).
+
+"Esta solução deve ser mantida, pois coloca o contrato dentro do que, em média, vem sendo considerado razoável segundo as próprias práticas do mercado. Não se deve afastar, todavia, a possibilidade de que o juiz, de acordo com seu livre convencimento racional, indicar outro patamar mais adequado para os juros, segundo as circunstâncias particulares de risco envolvidas no empréstimo.
+
+"CONSOLIDAÇÃO DA JURISPRUDÊNCIA.
+
+"Portanto, no que diz respeito aos juros remuneratórios, a 2ª Seção do STJ consolida o entendimento de que:
+"a) As instituições financeiras não se sujeitam à limitação dos juros remuneratórios que foi estipulada na Lei de Usura (Decreto 22.626/33), como dispõe a Súmula 596/STF;
+
+"b) A estipulação de juros remuneratórios superiores a 12% ao ano por si só não indica abusividade;
+
+"c) São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02;
+
+"d) É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada ? art. 51, §1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do caso concreto." (negrito do texto).
+
+
+O caso sob exame deve ser analisado de acordo com o tipo de empréstimo ajustado entre as partes. É possível o exame de sua abusividade. Trata-se de empréstimo consignado dirigido a aposentado e que deveria seguir os parâmetros normativos de proteção ao consumidor idoso. Em julho de 2010 (época do contrato), vigorava portaria do INSS 1.102/2009 (fls. 28) que fixava em 2,34% ao mês com taxa máxima dos juros mensais. 
+
+
+Concluindo-se, entendo que houve abusividade na taxa de juros ajustada entre as partes. 
+
+
+II ? DA PRÁTICA ABUSIVA ADOTADA PELO BANCO RÉU.
+
+
+Mas não é só!
+
+
+Conforme resulta dos autos, até porque a versão apresentada pelo autor não foi objeto de impugnação específica dos fatos (a defesa limitou-se a exibir documentos padronizados), a representante (ou correspondente) do banco réu descumpriu a oferta feita ao consumidor. 
+
+
+A prova documental (fls. 23,27/28, 33, 35, 58/62) é mais do que suficiente para aferição da ilegalidade da conduta do banco réu. O consumidor idoso possuía um empréstimo consignado, no BANCO PANAMERICANO. A ele (autor) formulou-se uma oferta irresistível de novo empréstimo e que serviria para as seguintes finalidades: (i) quitação daquele primeiro empréstimo no Banco Panamericano e (ii) redução do valor do empréstimo ? diminuição da taxa de juros e das parcelas.
+
+
+No lugar de verificar o cumprimento da oferta, o autor viu o banco réu averbar na folha de pagamento da aposentadoria do INSS um novo e segundo empréstimo, transferindo-se a dívida do Banco Panamericano, em piores condições: mesmo valor mensal de R$ 307,00 e com novas 60 prestações (fls. 27).
+
+
+Em outras palavras, o banco réu agiu com manifesta violação da oferta à qual estava vinculado (artigos 30 e 35 do CDC) e contrariou o princípio da boa-fé (art. 4º, inciso III CDC). Ninguém pode aceitar que o consumidor idoso ora autor tenha piorada sua situação financeira num segundo contrato de empréstimo.
+
+A sociedade brasileira reconheceu a necessidade da proteção do cidadão, enquanto consumidor. Tanto que fez inserir no texto da Constituição Federal de 1988 a defesa do consumidor como  obrigação do Estado (art. 5º, XXXII CF) e como princípio da ordem econômica (art. 170, V CF).
+
+Pode-se dizer que a proteção constitucional do consumidor tem razão de ser: assegurar a dignidade da pessoa humana naquela face econômica do cidadão. 
+
+
+Além disso, importante reconhecer uma outra proteção necessária: do consumidor idoso. Conjuga-se a tutela do consumidor, agora em idade avançada ? além dos 60 anos.
+
+
+A Constituição Federal de 1988 estabeleceu a proteção do idoso como dever da sociedade, frisando a necessidade de assegurar-lhe participação na comunidade, dignidade, bem-estar e direito à vida (art. 230).
+
+
+Sem pretensão de exaurir o assunto, pode-se dizer que a tutela  do consumidor idoso traduz uma imposição Constitucional, como garantia da própria dignidade da pessoa humana. 
+
+
+No plano infra-constitucional, o Código de Defesa do Consumidor reconheceu o princípio da vulnerabilidade do consumidor (art. 4º, inciso I), que deve ser compreendido como verdadeiro estado de sujeição e fraqueza do consumidor no mercado de consumo. Ele recepciona as ofertas ? de toda ordem ? do fornecedor, exercitando a liberdade contratual de uma maneira limitada e condicionada. 
+
+
+Por isso, reconheceram-se em favor do consumidor direitos básicos ? direitos fundamentais para a obtenção do equilíbrio da relação de consumidor. Destacam-se os direitos à informação adequada e clara sobre os produtos e serviços (art. 6º,  III CDC) e a proteção contra métodos comerciais desleais e práticas abusivas (art. 6º, IV CDC).
+
+
+O Código de Defesa do Consumidor deu contornos às práticas comerciais adotadas pelos fornecedores e criou verdadeiras obrigações de "não fazer" (art. 39 CDC). Dentre elas, vedou qualquer prática que traduzisse prevalência do fornecedor sobre a fraqueza do consumidor, considerando-se sua ignorância, condição social ou sua idade, para lhe impingir produtos ou serviços.
+
+
+Ou seja, na parte da Lei nº 8.078/90, vedou-se ao fornecedor  a criação de mecanismos comerciais que possa consubstanciar o aproveitamento da falta de julgamento pelo consumidor acerca da conveniência ou não da aquisição dos serviços.
+
+
+No caso sob julgamento, insisto, houve desrespeito a inúmeras normas protetivas do consumidor idosos, notadamente aquelas que dizem respeito à boa-fé, ao direito básico à informação verdadeira e ao cumprimento da oferta. 
+
+
+III ? CONSEQUÊNCIAS SOBRE O CONTRATO. REDUÇÃO DOS JUROS E DAS PRESTAÇÕES. INDENIZAÇÃO DOS DANOS MORAIS.
+
+
+Entendo que o caso não é de declaração de nulidade de todo o contrato. Não se pode perder de vista que o autor terminou por se beneficiar do empréstimo, diante da quitação do primeiro contrato com o Banco Panamericano. A nulidade é parcial e atinge apenas aquilo que se verificou em termos de descumprimento da oferta e da violação do direito de informação.
+
+
+Sendo assim, reduzo as taxas de juros, o valor das parcelas, mantido o número de parcelas (considerando-se o primeiro contrato, o segundo deveria ter 53 parcelas). Repito: se assim não for, estaremos diante da aceitação de uma prática abusiva engendrada pelo banco réu. Será considerada a oferta (narrativa da inicial não impugnada) de que haveria uma economia total de R$ 1.820,00 com redução do valor de cada uma das 53 parcelas e respeitando-se o limite da taxa de juros imposto pelo INSS (2,39% ao mês), redundando-se numa diminuição de R$ 60,92 em cada parcela.
+
+
+Isso posto, fixo as seguintes condições do contrato, dando-se cumprimento à oferta: (i) serão devidas apenas 53 prestações e (ii) cada uma terá o valor fixo de R$ 246,08.
+
+
+Acolho o pedido de devolução em dobro de tudo o que foi cobrado pelo banco réu em desacordo com a prestação ora fixada, nos moldes do artigo 42 do Código de Defesa do Consumidor.
+
+
+Também procede o pedido de reparação de danos morais. O banco réu adotou grave conduta violadora de princípios e regras do Código de Defesa do Consumidor. Provocou no autor  consumidor idoso  prejuízo material e danos extrapatrimoniais, estes manifestados nos aborrecimentos e em toda epopéia vivida (basta ver os telefonemas feitos e anotados na prova documental, fls. 27) e sem solução ao descumprimento da oferta.
+
+
+Oportuno o magistério de José de Aguiar Dias sobre o dano moral (in ?Da Responsabilidade Civil?, Forense, Tomo II, 4a. ed., 1960, pág. 775):
+"Ora, o dano moral é o efeito não patrimonial da lesão do direito e não a própria lesão, abstratamente considerada. O conceito de dano é único, e corresponde a lesão de direito. Os efeitos da injúria podem ser patrimoniais ou não, e acarretam, assim, a divisão dos danos em patrimoniais e não patrimoniais. Os efeitos não patrimoniais da injúria constituem os danos não materiais."
+
+No mesmo sentindo, sobressai a lição do professor Carlos Alberto Bittar (in ?Reparação Civil por Danos Morais?, RT, 1993, págs. 41 e 202) sobre a extensão jurídica dos danos morais:
+
+"Qualificam-se como morais os danos em razão da esfera da subjetividade, ou do plano valorativo da pessoa na sociedade, em que repercute o fato violador, havendo-se, portanto, como tais aqueles que atingem os aspectos mais íntimos da personalidade humana (o da intimidade e da consideração pessoal), ou o da própria valoração da pessoa no meio em que vive e atua (o da reputação ou da consideração social).
+
+?...
+
+?Na concepção moderna da teoria da reparação de danos morais prevalece, de início, a orientação de que a responsabilidade do agente se opera por força do simples fato da violação. Com isso, verificado o evento danoso, surge, ipso facto, a necessidade da reparação, uma vez presentes os pressupostos de direito. Dessa ponderação, emergem duas conseqüências práticas de extraordinária repercussão em favor do lesado: uma, é a dispensa de análise da subjetividade do agente; outra, a desnecessidade de prova do prejuízo em concreto.? (negrito nosso).
+
+
+As lições dos ilustres juristas servem de ponderação no caso presente. Em alguns acontecimentos, provado o fato danoso, surge como conclusão inafastável e independente de outras provas a obrigação de reparação dos danos morais. É o que ocorre, por exemplo, com a perda de um ente querido. 
+
+
+Do mesmo modo, entendo que se pode  concluir que, uma vez provada a violação de direitos do consumidor, surgirá em seu benefício,  ipso facto, o reconhecimento da indenização dos danos morais independente da análise subjetiva do sentimento do ofendido ou da produção de outras provas. Ademais, numa sociedade de massa em que se privilegia o consumo e o crédito ao consumidor, torna-se fato notório a importância dada à existência de eventos danosos aos consumidor. 
+
+
+
+Preocupa-me a tese esposada por alguns intérpretes do Direito, diferenciando o dano moral dos transtornos causados pelo cotidiano, que não seriam indenizáveis. A Constituição Federal concebeu a indenização dos danos morais sem qualquer restrição, não cabendo ao Estado (legislador ordinário ou juiz) diminuir o alcance de tão importante direito fundamental. 
+
+
+Por isso, como regra ampla e geral, onde existir o desconforto, o transtorno, o incômodo, etc. haverá lugar para a indenização por dano moral. Logicamente, como exceção, os abusos (a patologia) deverão ser extirpados e combatidos, sem preconceitos e sem a preocupação com uma ?indústria do dano moral?, pensamento, ?data venia?, sem qualquer fundamento jurídico. 
+
+
+Sobre esta parte, colhe-se a magnífica manifestação do Min. FRANCISCO REZEK (participando do julgamento do recurso extraordinário já citado, RT 740/205), que vê na tímida atuação do foro cível - ao lado do foro criminal - uma das causas da sensação de impunidade do país: 
+
+
+?Volto agora ao que nos interessa: receio que seja também ideológica a leniência do foro cível - que responde, tanto quanto o foro criminal, pela imagem do ?país da impunidade? - no domínio das relações do cidadão, visto na sua qualidade de consumidor, com todas as forças estabelecidas no plano econômico: o comerciante, o industrial, o prestador de serviços, o banqueiro, o próprio Estado-empresário. A tendência do Poder Público diante dos reclamos do consumidor sempre foi - neste país mais do que nos outros - a de reagir com surpresa. O que é isso ? Que história é esta ? Não é caso de indenização; não é caso da pessoa sentir-se tão lesada; não é caso de pedir em juízo reparação alguma. Parece-me que essa forma de leniência no foro cível deveria finalmente, à luz da CF/88, encontrar seu paradeiro, produzindo uma situação nova, condizente com os termos da Carta.? (negrito nosso).
+
+
+Na verdade, o que se depreende dos autos é a falta de controle da instituição financeira ré sobre o procedimento de cumprimento da obrigação contratual. Um completo e absurdo descaso com os consumidores idosos, submetidos a práticas abusivas na ofertas de empréstimos consignados!
+
+
+A função da indenização oriunda do dano moral tem dividido as opiniões dos autores. Clayton Reis (in ?Dano Moral?, Forense, 2a. ed., 1.992, págs. 78/82) afirma que ?todos os doutrinadores são uniformes em defender a tese de que a função da reparação de danos morais é meramente compensatória?, porém também diz que ?a compensação da vítima tem um sentido punitivo para o lesionador, que encara a pena pecuniária como uma diminuição do seu patrimônio material em decorrência do seu ato lesivo?. Augusto Zenun (in ?Dano Moral?, Forense, 6a. ed., 1.997., págs. 109/139) reserva à reparação dos danos morais a finalidade compensatória pelos ?derivativos?, sugerindo ?o arbitramento de derivativos suficientes e capazes de minorar a dor, ou por melhor explicar, as seqüelas que a dor moral causa (sentimentos, depressão, desvios da normalidade de vida, alheiamento parcial ou total)?. Pela tese do mencionada autora, os derivativos serviriam para compensar e consolar o ofendido.  O professor Caio Mário da Silva Pereira (in ?Responsabilidade Civil?, Forense, 3a. ed., 1.992, págs.  56/62) mostra-se amplamente favorável à indenização por dano moral,  sublinhando que ?a par do caráter punitivo imposto ao agente, tem de assumir sentido compensatório?.
+
+
+Na jurisprudência, colhe-se o brilhante voto do Desembargador Walter Moraes (RT 650/63) que destaca a finalidade compensatória da reparação do dano moral, negando sua função punitiva mas admitindo que deva ter o condão de inibir o ofensor:
+
+
+"O dano moral não se avalia mediante cálculo matemático-econômico das repercussões patrimoniais negativas da violação - como se tem feito às vezes - porque tal cálculo já seria a busca exatamente do minus ou do detrimento patrimonial, ainda que aproximativa estimação. E tudo isso já esta previsto na esfera obrigacional da indenização por dano propriamente dito (CC, art. 1553). A reparação pecuniáriapelo dano moral, descartada já a impossibilidade da eqüiponderância de valores, tem outro sentido, como anota Windscheid acatando opinião de Wichter: compensar a sensação de dor da vítima com uma sensação agradável em contrário (nota 31 ao parágrafo 455 das Pandette, trad. Fadda e Bensa). Assim, tal paga em dinheiro deve representar para a vítima uma satisfação, igualmente moral, ou, que seja, psicológica, capaz de neutralizar ou anestesiar em alguma parte o sofrimento impingido; como diz Roberto Brebbia (El Daño Moral, p. 28), "uma soma de dinheiro ao danificado para que este possa proporcionar-se uma satisfação equivalente ao desassossego sofrido", pois "o dano moral (diz noutro ponto) compreende a estimação dos padecimentos, o temor das conseqüências definitivas ou transitórias do dano emergente" (p. 154). A eficáciada contrapartida pecuniárianão esta na aptidão para proporcionar a satisfação em justa medida, de modo que tão pouco signifique um enriquecimento sem causa da vítima, mas esta em produzir no causador do mal, impacto bastante para dissuadi-lo de igual ou novo atentado. Trata-se, então, de uma estimação prudência, que não dispensa sensibilidade para as coisas da dor e da alegria, para os estados d'alma humana, e que deve ser feita pelo mesmo juiz ou, quando muito, por outro jurista; inútil sempre por em ação a calculadora do economista ou do técnico em contas. É nesse sentido que o citado Brebbia, na sua excelente monografia sobre o dano moral, assinala alguns elementos que se devem levar em conta na fixação do reparo: a gravidade objetiva do dano, a personalidade da vítima (situação familiar e social, reputação), a gravidade da falta  (conquanto não se trate de pena, a culpa da ação implica na gravidade da lesão), a personalidade (as condições) da autora do ilícito (p. 119)". 
+
+(negrito nosso).
+
+
+
+Concluindo,  também entendo que a finalidade principal da reparação centra-se na compensação destinada à vítima, como forma de aliviar (se não for possível eliminar) a lesão experimentada. Todavia, em determinados casos, também a função inibitória (uma idéia aproximada à da sanção civil) assume relevante papel, a fim de que o ofensor seja punido de tal forma a não praticar atos similares. 
+
+
+Nas ofensas cometidas contra os consumidores, a função inibitória assume destacada importância, sendo imprescindível que a indenização possa persuadir - desestimular - o fornecedor (ofensor); afinal, para grandes empresas uma condenação em valores ínfimos poderá representar um risco assumido na adoção de posturas ilegais contra os consumidores (todos sabem que nem todos os ofendidos ingressam em Juízo na defesa dos seus direitos e interesses).
+
+
+Na hipótese sob exame, revelando-se significativa ambas as funções compensatória e inibitória, entendo que a indenização do dano moral deve ser fixado em R$ 5.000,00  (cinco mil  reais). O valor será acrescido de juros de mora de 1% ao mês (capitalizados anualmente, a partir da citação) e de correção monetária (calculada pelos índices adotados pelo TJSP, a partir da presente data). 
+
+
+
+A repercussão do dano foi levada em conta, na medida em que se situou dentro de padrões intensos. A função compensatória estará bem atendida, porque o autor disporá de quantia suficiente a neutralizar os negativos efeitos do constrangimento experimentado, inclusive para quitar antecipadamente o empréstimo. A ré terá mais atenção com os consumidores e poderá facilitar a solução dos litígios em Juízo, trazendo propostas de acordo e, quem sabe, até procurando a parte contrária para uma breve composição. Diante de um equívoco manifesto do fornecedor, sua postura em relação às lides forenses deveria ser outra!
+
+
+DISPOSITIVO.
+
+
+Ante o exposto, JULGO PROCEDENTE  a ação promovida por  Carlito José dos Santos contra o Banco B G N S/A, nos seguintes termos: 
+
+1) acolher o pedido sucessivo e manter o contrato com as seguintes condições, dando-se cumprimento à oferta: (i) serão devidas apenas 53 prestações e (ii) cada uma terá o valor fixo de R$ 246,08.
+
+
+2) determinar a devolução pelo banco réu em dobro de tudo o que foi cobrado da autora em desacordo com a prestação ora fixada, nos moldes do artigo 42 do Código de Defesa do Consumidor. O valor do excesso será acrescido de juros de mora de 1% ao mês (capitalizados anualmente, a partir da citação) e de correção monetária (calculada pelos índices adotados pelo TJSP, a partir de cada desembolso). 
+
+
+3) condenar o banco réu ao pagamento de indenização dos danos morais no valor de R$ 5.000,00  (cinco mil  reais). O valor será acrescido de juros de mora de 1% ao mês (capitalizados anualmente, a partir da citação) e de correção monetária (calculada pelos índices adotados pelo TJSP, a partir da presente data). 
+
+
+Considerando-se a sucumbência, o banco réu ainda arcará com o pagamento das custas judiciais, despesas processuais e dos honorários advocatícios, estes fixados, para a fase de conhecimento, em 10% (dez por cento) do valor integral do débito (itens 2 e 3 do dispositivo, principal com juros e correção). Se não houver cumprimento voluntário da sentença, na fase de execução os honorários serão elevados para 20% (vinte por cento) ? para abranger as duas fases, numa única incidência.
+
+
+Diante da gravidade da conduta adotada pelo banco réu, que pode traduzir a violação de direitos coletivos (outros consumidores idosos podem se encontrar na mesma situação), ordeno a comunicação ao Ministério Público do consumidor. Expeça-se ofício (acompanhado de cópia integral dos autos), imediatamente, independente da interposição de recurso, uma vez que se trata de efeito imediato da sentença: o juiz poderá comunicar o Ministério Público sobre a suposta violação de direitos coletivos. 
+
+
+
+Base de cálculo da taxa judiciária na fase recursal: R$  18.920,00 ? sem acréscimos. 
+
+P.R.I.
+
+São Paulo, 22 de outubro de 2012.
+
+ALEXANDRE DAVID MALFATTI
+             Juiz de Direito
+           (assinatura digital)
+
+
+CERTIDÃO ? PUBLICAÇÃO
+
+            Certifico e dou fé que a  sentença supra foi enviada ao D.J.E. Disponibilização_em _____/____/2012. Considera-se data da publicação o primeiro dia útil subseqüente à data acima mencionado.
+Eu, .............................. escr. , digitei e subscrevo.

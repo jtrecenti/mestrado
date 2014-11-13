@@ -1,0 +1,100 @@
+
+
+TERMO DE AUDIÊNCIA
+
+Processo:0620754-10.2011.8.26.0007 - Procedimento do Juizado Especial Cível
+
+IDENTIFICAÇÃO DAS PARTES
+
+Autor(a)(es)(as):Jeferson Lopes da Silva
+Réu(é)s:Banco Itaú S/A 
+
+DATA, HORA E LOCAL
+
+Data e horário: 20/09/2011 às 16:00h 
+Local: Sala de Audiências da Vara do JUIZADO ESPECIAL CÍVEL DE ITAQUERA
+
+PRESENÇAS
+
+MM. Juiz de Direito: Eduardo Francisco Marcondes
+Escrevente: José Carlos Ferreira de Medeiros
+
+Autor desacompanhado de Advogado. O MM. Juiz nomeou para o ato a Dra. ADELINA APARECIDA DO NASCIMENTO, OAB/SP nº 269.696 (Lei nº 9.099/95, art. 9º, § 1º).
+
+Réu representado pelo Sr. LUCAS DA SILVA SOUZA, RG nº 49.113.031-4 (SSP/SP) e assistido pelo Dr.  WESLEY CERQUEIRA PAZ, OAB/SP nº 278.869.
+
+CONCILIAÇÃO
+
+A tentativa de conciliação resultou infrutífera.
+
+DEFESA
+ 
+O(s) réu(é)(s) apresentou(aram) defesa escrita.
+
+RÉPLICA
+
+A réplica foi apresentada oralmente, nos seguintes termos: ?MM. Juiz, reitero os termos da inicial, que não restaram abalados pela(s) defesa(s) apresentada(s)?.
+
+INSTRUÇÃO
+
+Não foram colhidos depoimentos.
+
+Pelas partes foi dito que não havia outras provas a produzir.
+
+JULGAMENTO
+
+Pelo MM. Juiz foi proferida a seguinte SENTENÇA:
+Vistos.
+Dispensado o relatório, conforme o art. 38 da Lei nº 9.099/95,
+D E C I D O.
+O réu tenta tirar o foco da discussão processual resumindo-o à circunstância do cartão possuir chip, para assim demonstrar a inviabilidade de sua clonagem de maneira a transferir ao autor toda a responsabilidade pela segurança do sistema eletrônico.
+Só que o réu não tem razão.
+O réu não demonstrou que todos os terminais nos quais foram realizadas as movimentações exigissem o uso do chip e devemos lembrar que o cartão ainda possui tarja magnética.
+Além disso, não é só através do acesso às informações do chip que as quadrilhas agem, até mesmo porque a tecnologia para essa finalidade específica é muito cara. Essas quadrilhas, também conhecida como "carders" se aproveitam de fragilidades em outros pontos do processo de autorização, tais como interceptação de senha no momento em que essa é transmitida ao sistema da empresa para verificação durante uma transação. Ainda que a tecnologia do chip com padrão ENV busque evitar a autenticação on line, fazendo uso em regra da autenticação off line, não se pode deixar de observar que houve a utilização intensiva de caixas do tipo 24 horas e terminais de comerciantes que utilizaram o sistema Visa Eletron.
+Por tudo isso é que não se pode desprezar a versão do autor em favor da versão do réu.
+Acrescente-se que o réu não comprovou que para a conta do autor tenha sido emitido um único cartão, pois não é fora de propósito se cogitar da emissão fraudulenta de outro cartão para a mesma conta, o que, por óbvio, traria envolvimento de funcionários do proprio réu, o que não é despropositado, bastando, por analogia, verificar quantas fraudes já ocorreram, por exemplo, em vários bancos, com a emissão de talões de cheques fantasmas ou até mesmo a subtração de folhas de cheques em talões que aguardavam a retirada pelo cliente.
+Além disso tudo, chama a atenção a quantidade de movimentações a débito da conta em uma mesma data, sem observar qualquer forma de limite de segurança.
+Em resumo: a questão da segurança do sistema bancário não se resume ao chip do cartão, que é apenas um dos elementos de segurança e que, bem por isso, não pode representar um salvo conduto ao réu para transferir ao consumidor toda a responsabilidade pelo risco do negócio, que é seu.
+É por isso que o réu deve promover o estorno, tanto sa crédito, quanto a débito, conforme o caso, de todos os lançamentos especificados e questionados pelo autor às fls. 13 e 14.
+E isso deve ocorrer em 48 horas contadas desta audiência, dado o gritante transtorno que a pendência dessa regularização vem causando ao autor.
+Dada a singularidade da questão envolvida neste processo, não faz jus o autor a indenização por danos morais, bastando para satisfação de sua pretensão a regularização de sua conta corrente.
+DISPOSITIVO:
+Em razão do exposto, JULGO PARCIALMENTE PROCEDENTE a ação para condenar o réu a promover, no prazo de 48 horas contado desta audiência, a regularização da conta corrente do autor, mediante o estorno, seja a débito ou a crédito, conforme o caso, de todos os lançamentos impugnados pelo autor e que estão relacionados às fls. 13 e 14, sob pena de multa diária, desde já arbitrada em R$ 1.000,00 (um mil reais).
+Honorários, custas  e despesas processuais: não há condenação ao pagamento de honorários e de custas e despesas processuais, porque incabíveis nesta fase processual do Juizado Especial Cível (Lei nº 9.099/95, arts. 54 e 55).
+
+PUBLICAÇÃO, INTIMAÇÃO E ENCERRAMENTO
+
+Publicada a sentença em audiência, ficam as partes intimadas: 
+(a) do prazo de dez dias para apresentação de recurso, que não possui efeito suspensivo do julgado (art. 43, da Lei 9099/95); 
+(b) do prazo de 48 horas para efetuar o pagamento do preparo do recurso, a partir da interposição, sob pena de deserção (art. 42, § 1º, da Lei 9099/95), bem como pagamento do porte de remessa e retorno (item 66, do Provimento CSM nº 806/2003, de 10.11.03, com a redação do Provimento  884/2004, DJE 23.09.2004). O valor do preparo deve ser a soma de 1% (um por cento) do valor da causa ou cinco UFESPS, o que for maior, mais 2% (dois por cento) do total da condenação ou cinco UFESPS, o que for maior, ressalvada a gratuidade da justiça deferida à parte recorrente, quando efetivamente concedida nos autos. 
+REGISTRE-SE. 
+Eu, ___________________, escrevente acima identificado, digitei, providenciei a impressão e subscrevi.
+
+ATENÇÃO: este documento, que foi produzido eletronicamente na forma da Lei nº 11.419/2006, contém a assinatura digital do(a) MM. Juiz(a) de Direito no original e a(s) assinatura(s) física(s) da(s) parte(s) na 1ª cópia juntada aos autos.
+
+
+ASSINATURAS:
+
+
+
+ASSINADO DIGITALMENTE
+
+Eduardo Francisco Marcondes
+Juiz de Direito
+
+
+
+
+
+Autor(a)
+
+
+Advogado(s) do(a) Autor(a)
+
+
+
+
+Réu(é)
+
+
+Advogado do(a) Réu(é)

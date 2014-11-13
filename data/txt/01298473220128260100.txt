@@ -1,0 +1,60 @@
+
+
+SENTENÇA
+
+Processo nº:0129847-32.2012.8.26.0100
+Classe - AssuntoProcedimento Sumário - Títulos de Crédito
+Requerente:Global Distribuidora de Produtos Siderúrgicos Ltda
+Requerido:Banco Sofisa S/A e outro
+
+
+
+
+
+Juiz(a) de Direito: Dr(a). João Omar Marçura
+
+
+
+
+
+
+
+                                                         Vistos.
+
+
+
+
+
+
+GLOBAL DISTRIBUIDORA DE PRODUTOS SIDERÚRGICOS LTDA ajuizou ação declaratória de inexigibilidade de título com pedidos cumulados de cancelamento de protestos e indenização por danos morais em face de BANCO SOFISA S/A e PERSICO PIZZAMIGLIO S/A, alegando que celebrou contrato de compra e venda de mercadorias com a segunda ré e as mercadorias não foram entregues, sendo sacadas três duplicatas no valor de R$2.065,00, cada uma, com vencimentos para 20.02.2012, 27.02.2012 e 05.03.2012, as quais foram transmitidas por endosso para o banco réu que levou a primeira delas ao protesto, de forma indevida, pois a segunda ré enviou e-mail informando que providenciaria a baixa dos títulos.
+Precedeu a esta demanda a cautelar inominada para sustação dos protestos, na qual foi concedida liminar mediante caução, sendo os feitos reunidos para julgamento simultâneo.
+Com a inicial vieram os documentos de fls. 08/32.
+Citado, o banco apresentou contestação (fls. 42/59, com os documentos de fls. 60/82). Alegou ilegitimidade passiva de parte por ser mero mandatário e no mérito, pediu a improcedência da pretensão, dizendo que o protesto não chegou a se concretizar.
+A co-ré apresentou contestação (fls. 84/88, com os documentos de fls. 89/108). Alegou que houve negócio entre as partes e que a nota fiscal 040.194 que gerou as duplicatas objeto da demanda foi substituída pela nota fiscal 042.200, a pedido da autora, tendo sido entregue a mercadoria, pois os produtos das notas fiscais são os mesmos e a mercadoria foi retirada em 16.02.2012 pelo motorista da autora, Sr. Wellington da Silva. Disse não haver dano moral porque o protesto foi imediatamente sustado. Pediu a improcedência da pretensão.
+Réplica a fls. 113/122, com os documentos de fls. 123/133.
+Tréplica a fls. 144/148.
+Determinada a especificação de provas, a ré Persico pediu depoimento pessoal, prova testemunhal e documental (fls. 152/153), o banco pediu julgamento antecipado (fls. 155/158) e a autora também (fls. 160). 
+É o relatório. 
+Fundamento. 
+DECIDO.
+Julgo o feito antecipadamente porque desnecessária a produção de prova em audiência nos termos do art. 330, inciso I do CPC.
+Não obstante a alegação da co-ré Persico Pizzamiglio S/A de que teria havido substituição da nota fiscal a pedido da autora, tal fato não corresponde à realidade. O que houve foi a emissão da nota fiscal e das respectivas duplicatas sem que a mercadoria tivesse sido entregue, sendo a primeira duplicata apontada ao protesto antes da entrega da mercadoria. Ao se dar conta desse fato, por reclamação da autora, a ré providenciou nova nota fiscal em substituição à primeira, entregando as mercadorias.
+Todavia, a essa altura o dano já estava caracterizado, pois o título já havia sido apontado ao protesto, que só não foi lavrado porque concedida liminar na ação cautelar.
+E havia perigo na demora e aparência do bom direito justificadores da concessão da liminar e agora da procedência do pedido cautelar.
+Quanto ao banco, é parte legítima para figurar no pólo passivo da demanda, por ser o responsável pela indicação dos títulos ao protesto sem a devida cautela. 
+Ainda que se trate de endosso-mandato, o Colendo STJ tem entendido que o banco é responsável pelos efeitos de eventual protesto indevido, se exceder os poderes do mandato, agir de modo negligente ou, caso alertado sobre falha do título, levá-lo a protesto (STJ, AgRg no Ag 1161507/RS, Rel. Min. Raul Araújo, 4ª Turma, DJ. 1/3/2011). 
+No caso, o réu agiu de modo negligente ao apontar o título ao protesto, que é necessário, como já dito, sem se certificar de que ele correspondia a um negócio jurídico subjacente e se já havia sido quitado o título, isto é, na ausência de dados, deveria o banco exigir da endossante comprovante da efetiva prestação de serviços ou entrega de mercadorias, mediante as respectivas notas fiscais e confirmar se já não ocorrera o pagamento. 
+Nesse sentido: Direito empresarial. Duplicata sem causa. Endosso-mandato. Protesto indevido. Ação anulatória. Legitimidade passiva da instituição financeira. 1. A instituição financeira endossatária de duplicata sem causa responde perante o sacado no caso de protesto indevido, mesmo nas hipóteses de endosso-mandato, possuindo legitimidade passiva para a ação de anulação do título e cancelamento do protesto. 2. Agravo regimental desprovido. ? negritei (STJ, AgRg no Ag 624717/RS, Rel. Min. Paulo de Tarso Sanseverino, 3ª Turma, DJ. 16/9/2010). 
+Portanto, procedente a pretensão da autora de ver cancelado o protesto e declarada a inexigibilidade do título pela não entrega das mercadorias. 
+Tendo em conta que se trata de protesto necessário, a sentença ora prolatada substitui a publicidade exigida pelo protesto, ficando assegurado o direito de regresso do endossatário do título. 
+Quanto ao dano moral, restou caracterizado, pois a apresentação de título ao protesto, ainda que não efetivado este por ordem judicial, representa ofensa a honra objetiva da empresa e pode provocar abalo ao seu crédito.
+Quanto ao valor da indenização pleiteada (R$3.025,00), afigura-se razoável para o caso.
+Posto isso, julgo PROCEDENTES os pedidos cautelar e principal, torno definitiva a liminar, declaro inexigível a duplicata relacionada na inicial, determino o cancelamento do protesto, assegurado ao endossatário o direito de regresso em face da sacadora do título, bem como condeno os réus, solidariamente, a pagarem à autora, a título de indenização por danos moral, a importância de R$3.025,00 (três mil e vinte e cinco reais) corrigidos monetariamente pela tabela prática do TJSP a partir da data do fato e acrescidos de juros de 1% ao mês a partir de hoje. 
+Os réus arcarão com as custas, despesas processuais e honorários advocatícios arbitrados em R$1.000,00 (mil reais) para cada réu, incluindo-se nas despesas processuais aquelas advindas do cancelamento do protesto. 
+Oficie-se ao tabelionato de protesto determinando o cancelamento do protesto, cabendo à autora diligenciar o cumprimento do ofício e comprovar o protocolo. 
+P. R. I.
+
+São Paulo, 14 de março de 2013.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

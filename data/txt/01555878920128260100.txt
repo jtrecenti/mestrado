@@ -1,0 +1,77 @@
+
+
+SENTENÇA
+
+Processo nº:0155587-89.2012.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Obrigação de Fazer / Não Fazer
+Requerente:Valter Boneli Silva
+Requerido:Amil Saude Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Guilherme Silveira Teixeira
+
+
+
+
+Vistos.
+Valter Boneli Silva ajuizou a presente ação de conhecimento em face de Amil Saúde Ltda., visando compeli-la ao cumprimento de obrigação de fazer consistente no custeamento de todas as despesas médicas e hospitalares relacionadas a tratamento de infarto agudo de miocárdio, sofrido pelo autor em 28 de fevereiro de 2012. Cumula, ainda, pedido indenizatório de danos morais. Em resumo, alega que estava no Município de São Pedro da União, Estado de Minas Gerais, quando sentiu fortes dores no peito e, procurando atendimento médico emergencial, teve notícia desse diagnóstico. Foi encaminhado ao Hospital Santa Lúcia, no Município de Poços de Caldas, no mesmo Estado, onde foi internado e submetido aos procedimentos de cateterismo e ecocardiograma. Em 15 de março de 2012, foi submetido a cirurgia de revascularização miocárdica. Por diversas vezes o nosocômio solicitou autorização de cobertura à ré, que somente em 30 de março comunicou sua negativa, fundando-a na limitação territorial do atendimento ao Estado de São Paulo. As despesas médicas e hospitalares alcançaram o montante de R$ 68.000,00, tendo sido cobrados do autor pelo hospital. Sustenta a falta de boa-fé objetiva da requerida, reputando abusiva sua conduta à luz da urgência dos procedimentos. Nesse passo, requer a procedência dos pedidos. Juntou documentos.
+Citada, a requerida contestou (fls. 76/84). Em resumo, sustenta a legalidade da negativa e a validade da cláusula contratual que estipula limitação territorial da cobertura. Invoca a força vinculante dos contratos. Alega que o dano material não está comprovado. Refuta a ocorrência de danos morais. Nesses termos, requer a improcedência dos pedidos. Juntou documentos.
+Réplica a fls. 121/5.
+É o relatório.
+DECIDO.
+A lide comporta julgamento antecipado, uma vez que as questões fáticas já estão suficientemente comprovadas pelos documentos acostados aos autos, sendo desnecessária a produção de prova em audiência (art. 330, I, CPC).
+Ao contrato em tela não se aplica a Lei nº 9.656/98, vez que celebrado em 28 de dezembro de 1989 (fl. 25), antes da vigência da nova legislação, inexistindo notícia de que a ela tenha posteriormente se adaptado, nos termos de seu artigo 35.
+Tal adaptação, contudo, é indiferente para os presentes fins, tendo em vista a aplicação do Código de Defesa do Consumidor. Embora igualmente posterior, o microssistema consumerista, por conter normas de ordem pública (art. 1º, CDC), submete à sua proteção as relações de consumo de trato sucessivo renovadas em sua vigência.
+Nos contratos de plano de assistência à saúde, sua renovação ocorre sucessivas vezes ao término de cada período de cobertura ? em geral de um mês ?, ao qual corresponde o prêmio pago pelo segurado. Descabido falar, nesse contexto, em ofensa ao ato jurídico perfeito ou à garantia constitucional da irretroatividade das leis.
+Nesse sentido posiciona-se, pacificamente, a jurisprudência do Superior Tribunal de Justiça:
+
+DIREITO CIVIL E CONSUMIDOR. SEGURO SAÚDE. CONTRATAÇÃO ANTERIOR À VIGÊNCIA DO CDC E À LEI 9.656/98. EXISTÊNCIA DE TRATO SUCESSIVO. INCIDÊNCIA DO CDC, MAS NÃO DA LEI 9.656/98. BOA-FÉ OBJETIVA. PRÓTESE NECESSÁRIA À CIRURGIA DE ANGIOPLASTIA. ILEGALIDADE DA EXCLUSÃO DE STENTS DA COBERTURA SECURITÁRIA. DANO MORAL CONFIGURADO. DEVER DE REPARAR OS DANOS MATERIAIS.
+- As disposições da Lei 9.656/98 só se aplicam aos contratos celebrados a partir de sua vigência, bem como para os contratos que, celebrados anteriormente, foram adaptados para seu regime. A Lei 9.656/98 não retroage, entretanto, para atingir o contrato celebrado por segurados que, no exercício de sua liberdade de escolha, mantiveram seus planos antigos sem qualquer adaptação.
+- Embora o CDC não retroaja para alcançar efeitos presentes e futuros de contratos celebrados anteriormente a sua vigência, a legislação consumerista regula os efeitos presentes de contratos de trato sucessivo e que, por isso, foram renovados já no período de sua vigência.
+- Dada a natureza de trato sucessivo do contrato de seguro saúde, o CDC rege as renovações que se deram sob sua vigência, não havendo que se falar aí em retroação da lei nova.
+- A cláusula geral de boa-fé objetiva, implícita em nosso ordenamento antes da vigência do CDC e do CC/2002, mas explicitada a partir desses marcos legislativos, impõe deveres de conduta leal aos contratantes e funciona como um limite ao exercício abusivo de direitos.
+- O direito subjetivo assegurado em contrato não pode ser exercido de forma a subtrair do negócio sua finalidade precípua. Assim, se determinado procedimento cirúrgico está incluído na cobertura securitária, não é legítimo exigir que o segurado se submeta a ele, mas não instale as próteses necessárias para a plena recuperação de sua saúde.
+- É abusiva a cláusula contratual que exclui de cobertura a colocação de stent, quando este é necessário ao bom êxito do procedimento cirúrgico coberto pelo plano de saúde. Precedentes.
+- Conquanto geralmente nos contratos o mero inadimplemento não seja causa para ocorrência de danos morais, a jurisprudência desta Corte vem reconhecendo o direito ao ressarcimento dos danos morais advindos da injusta recusa de cobertura de seguro saúde, pois tal fato agrava a situação de aflição psicológica e de angústia no espírito do segurado, uma vez que, ao pedir a autorização da seguradora, já se encontra em condição de dor, de abalo psicológico e com a saúde debilitada.
+Recurso especial a que se dá parcial provimento.
+(REsp 735168/RJ, T3, rel. Min. Nancy Andrighi, j. 11.3.2008).
+
+Em sentido parcialmente concordante está a recém-editada Súmula nº 100 da Seção de Direito Privado do Egrégio Tribunal de Justiça do Estado de São Paulo (DJE 28/02/2013): O contrato de plano/seguro saúde submete-se aos ditames do Código de Defesa do Consumidor e da Lei n. 9.656/98 ainda que a avença tenha sido celebrada antes da vigência desses diplomas legais.
+Inexiste controvérsia acerca da cobertura contratual dos procedimentos levados a cabo para tratamento do infarto de miocárdio sofrido pelo autor. A contestação restringe-se a sustentar a legalidade da cláusula que delimita geograficamente a assistência médica e hospitalar ao Estado de São Paulo.
+Em princípio, a limitação territorial da cobertura constitui estipulação contratual lícita, não se podendo, a priori, taxa-la de abusiva.
+A legalidade da restrição, no entanto, está condicionada à observância das regras consumeristas, simplesmente ignoradas pela requerida no caso concreto.
+Primeiramente, o instrumento contratual está todo redigido em letras minúsculas, formulário produzido unilateralmente, sem manifestação de ciência do aderente em relação às regras pactuadas (fl. 26).
+Não consta, ademais, qualquer ato posterior à vigência do Código de Defesa do Consumidor por meio do qual a operadora tenha oportunizado ao consumidor o pleno acesso ao conteúdo do contrato, em especial no que toca às restrições contratuais.
+Verifica-se, nesse cenário de obscuridade, que a requerida faltou com seu dever de informação, o que gera como consequência a não-vinculação do requerente às obrigações sonegadas (art. 46, CDC).
+Em segundo lugar, ainda que tivesse sido devidamente informada, a limitação geográfica não poderia abranger procedimentos de urgência, sob pena de exposição do consumidor a situação de exagerada desvantagem, configurada pela restrição de seu pleno acesso a direitos fundamentais inerentes à natureza do contrato ? a proteção da vida e da saúde.
+Ao contrário do que se passa com os procedimentos eletivos, em que o paciente tem a possibilidade de escolher instituições e profissionais da saúde dentro da base territorial da cobertura, nos casos de urgência não lhe é dada tal opção, à falta de tempo hábil ou de meio de transporte eficaz para assegurar o necessário deslocamento.
+É evidente que, diante dessa imprevisibilidade e urgência, o beneficiário não pode ser privado de assistência médica e hospitalar da qual usufruiria se por ventura estivesse dentro dos limites geográficos da cobertura.
+A restrição é, pois, abusiva, sendo de rigor a declaração de sua nulidade (art. 51, IV, e §1°, II, CDC), com a consequente imposição à ré do custeamento das despesas geradas para o tratamento da enfermidade do autor.
+Tendo em conta que os procedimentos já foram realizados, a efetivação da cobertura deve se dar por meio de reembolso. A extensão dos gastos ? R$ 68.000,00 (fl. 51) ? não foi objeto de impugnação pela requerida.
+Quanto ao pedido indenizatório de danos morais, oportuno consignar que, embora inadimplemento contratual não dê causa, regra geral, à sua ocorrência ? resolvendo-se, por seu turno, em perdas e danos ?, as circunstâncias do caso em tela traduzem distinta reprovabilidade da conduta da operadora e significativo transtorno sofrido pelo paciente.
+Com efeito, o aborrecimento experimentado pelo autor em decorrência da negativa de cobertura e das frustradas tentativas de ver satisfeito seu direito sem recorrer ao Judiciário ultrapassa aquilo que, ordinariamente, deve ser entendido como mero dissabor das relações de consumo em geral.
+Observe-se, em especial, a peculiar condição de vulnerabilidade física e emocional do requerente, às voltas com o desamparo contratual justo no momento em que mais precisava da cobertura.
+A conduta da requerida, abusiva e desrespeitosa, extrapolou a esfera meramente patrimonial do contrato, atingindo direitos de personalidade e dando ensejo à sua compensação pecuniária. Nessa linha:
+
+AGRAVO REGIMENTAL. PLANO DE SAÚDE. INTERNAÇÃO PARA TRATAMENTO DE DEPRESSÃO. RECUSA DA COBERTURA. INDENIZAÇÃO POR DANO MORAL. CABIMENTO.
+I.- Configura-se o dano moral indenizável, em determinadas situações em que caracterize comportamento abusivo por parte da operadora de Plano de Saúde, extrapolando o simples descumprimento de cláusula contratual ou a esfera do mero aborrecimento ao segurado, e nas quais, ainda, se agrave situação de aflição psicológica e de angústia no espírito do segurado, já combalido pela própria doença. Nesse sentido é a jurisprudência deste Tribunal. 
+II.- Agravo Regimental conhecido e provido o Recurso Especial, julgando-se procedente o pedido. 
+(STJ, AgRg no Ag 913432/SP, T3, rel. Min. SIDNEI BENETI, j. 28.9.2010)
+
+Civil. Ação de indenização por danos materiais e compensação por danos morais. Negativa ilegal de cobertura, pelo plano de saúde, a atendimento médico de emergência. Configuração de danos morais. 
+- Na esteira de diversos precedentes do STJ, verifica-se que a recusa indevida à cobertura médica pleiteada pelo segurado é causa de danos morais, pois agrava a situação de aflição psicológica e de angústia no espírito daquele. Recurso especial provido.
+(STJ, REsp 907718/ES, T3, rel. Min. NANCY ANDRIGHI, j. 20.10.2008)
+
+Caracterizada, nesses termos, a responsabilidade civil da ré, arbitro compensação pecuniária por danos morais no valor equivalente a 10 salários mínimos, vigentes à época do fato.
+Leva-se em conta, como parâmetros judiciais de arbitramento, a condição econômica das partes, a dimensão econômica do fato que acarretou o dano moral, a reprovabilidade da conduta da ofensora e o princípio da vedação do enriquecimento sem causa, com vistas à concretização das funções compensatória (primordial) e dissuasiva (secundária) da condenação.
+Ante o exposto, julgo PROCEDENTES os pedidos (art. 269, I, CPC) para condenar a requerida a pagar ao requerente a quantia de R$ 68.000,00, incidindo juros moratórios de 1% ao mês a partir da citação e atualização monetária pela Tabela Prática do TJSP a partir de maio de 2012 (fl. 51). Condeno-a, ainda, ao pagamento de compensação pecuniária de danos morais no correspondente a 10 salários mínimos nacionais vigentes à época do ajuizamento, incidindo juros moratórios de 1% ao mês a partir da citação e atualização monetária pela Tabela Prática do TJSP a partir da sentença (STJ 362). 
+Pela sucumbência, condeno a ré no custeamento das despesas processuais e de honorários advocatícios que arbitro no equivalente a 10% do valor total da condenação.
+Após o trânsito em julgado, proceda o autor nos termos do artigo 475-B do Código de Processo Civil.
+PRI.
+São Paulo, 27 de março de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

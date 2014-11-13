@@ -1,0 +1,59 @@
+
+
+SENTENÇA
+
+Processo nº:1003954-31.2014.8.26.0007
+Classe - AssuntoProcedimento Ordinário - Inclusão Indevida em Cadastro de Inadimplentes
+Requerente:MANOEL SIMÕES DOS SANTOS e outro
+Requerido:AMERICAN EXPRESS TEMPO E CIA
+
+
+
+
+Juiz(a) de Direito: Dr(a). Daniel Fabretti
+
+Vistos.
+Trata-se de ação que tramitou pelo rito ordinário visando obter declaração de inexistência de relação jurídica. Alega que um dos cartões de crédito sob sua titularidade foi furtado e foram efetuadas compras por terceiros. A requerida efetuou negativação em seu nome, embora tenha sido informada do furto e dos valores indevidos.
+O pedido de antecipação de tutela foi deferido.
+Em sua contestação, sustenta-se a existência de relação jurídica entre as partes e a inadimplência da parte autora. Afirma que agiu dentro dos limites da legalidade e que não deu causa aos danos morais alegados na inicial. As transações foram efetuadas com leitura do chip e digitação de senha pessoal. O cartão com chip é notoriamente seguro. 
+Houve réplica.
+É o relatório. Fundamento e decido.
+Julgo antecipadamente o feito, nos termos do artigo 330, I, do CPC, tendo em vista que é desnecessária a produção de provas em audiência.
+Inicialmente, afasto as preliminares suscitadas, que dizem respeito aos fatos em tese constitutivos do direito da parte autora, ou seja, se referem ao mérito.
+Observo ainda que a ação é movida contra American Express Tempo e Cia e não contra a contestante.
+A ação deve ser julgada procedente.
+Incumbiria à parte requerida demonstrar que de fato foi o autor quem realizou as compras pelo cartão de crédito que são objeto de impugnação.
+Evidentemente, o ônus da prova da inexistência de relação jurídica contratual entre as partes, por se referir a fato negativo, não pode ser atribuído à autora, já que essa prova seria considerada diabólica.
+Nessa perspectiva, incumbiria à ré o ônus da prova dos fatos impeditivos do direito da parte autora, ou seja, de que ela própria celebrou o negócio jurídico impugnado nestes autos, a teor do disposto no art. 333, inciso II, do Código de Processo Civil.
+A tese segundo a qual o sistema de cartão de crédito com chip requer o uso de senha pessoal e que o cartão não pode ser clonado não deve ser acolhida.
+Primeiro porque as compras efetuadas estão muito longe do perfil de compras do autor. As compras supostamente efetuadas, como se observa a fls. 33, são de elevadíssimo valor, pois em apenas dois dias foram gastos mais de sete mil reais no cartão de crédito. Estas compras, na verdade, não estão de acordo com o perfil de ninguém, pois houve seguidos débitos no mesmo estabelecimento, em mais de uma ocasião, em situação claramente indicativa de fraude.
+Além disso, diante dos repetidos débitos no mesmo estabelecimento, a própria requerida deveria haver bloqueado o cartão.
+E não sendo as compras reconhecidas pelo autor, não haveria razão para que a requerida as pagasse ao estabelecimento comercial na qual foram feitas. Com efeito, havendo impugnação do consumidor, o estabelecimento deixa de receber os valores da operadora do cartão de crédito. Da mesma forma, não há razão para que a requerida, agora, venha cobrar a dívida do autor.
+Quanto à alegada impossibilidade de clonagem do cartão, os argumentos também não convencem, pois o cartão pode ser objeto de furto e usados rapidamente, sem que perceba o consumidor. Além disso, não há provas seguras de que o cartão não possa, de fato, ser clonado. A senha, por sua vez, é normalmente digitada em local de fácil acesso, de forma que alguém poderia captar a senha digitada pelo autor e usá-la depois.
+Por fim, incumbe ao estabelecimento comercial certificar-se da identidade da pessoa que estão usando o cartão, ou seja, exigir documento de identificação.
+Diante de tal conjunto probatório, verifica-se que a ré não demonstrou que a parte autora efetuou as compras referidas na inicial a justificar a negativação, que é, portanto, indevida.
+Não há que se falar, ainda em eventual ocorrência de culpa exclusiva de terceiro.
+Para definir se esse fato ? celebração de negócio jurídico de forma fraudulenta ? pode ser caracterizado como culpa exclusiva de terceiro, deve ser feita uma distinção entre fortuito interno e externo, pois que somente este, como se verá, tem o condão de romper o nexo de causalidade e, portanto, afastar a responsabilidade civil da fornecedora.
+Segundo SERGIO CAVALIERI FILHO, ?Entende-se por fortuito interno o fato imprevisível, e, por isso, inevitável, que se liga à organização da empresa, que se relaciona com os riscos da atividade desenvolvida pelo transportador. O estouro de um pneu do ônibus, o incêndio do veículo, o mal súbito do motorista etc. são exemplos do fortuito interno, por isso que, não obstante acontecimentos imprevisíveis, estão ligados à organização do negócio explorado pelo transportador? (Programa de Responsabilidade Civil, 4ª ed. rev., aument. e atual., São Paulo: Malheiros Editores, 2003, p. 298).
+Embora o conceito de fortuito interno tenha sido dado à luz do contrato de transporte, a lição é perfeitamente aplicável à hipótese vertente, porquanto o que importa é a idéia de evento ligado ao risco da atividade empresarial.
+Fortuito externo ? continua o citado autor ? ?é também fato imprevisível e inevitável, mas estranho à organização do negócio. É o fato que não guarda nenhuma ligação com a empresa, como fenômenos da Natureza ? tempestades, enchentes etc. Duas são, portanto, as características do fortuito externo: autonomia em relação aos riscos da empresa e inevitabilidade, razão pela qual alguns autores o denominam de força maior? (Op. cit., loc. cit.).
+In casu, o uso fraudulento do cartão de crédito faz parte do risco da atividade empresarial desenvolvida pela ré, devendo ser considerada, pois, fortuito interno, não havendo de se falar, por via de conseqüência, em rompimento do nexo de causalidade. 
+Nesse sentido já decidiu o Colendo Superior Tribunal de Justiça, como se verifica da ementa a seguir transcrita, in verbis:
+
+?RECURSO ESPECIAL. DANO MORAL. INCLUSÃO INDEVIDA EM CADASTRO RESTRITIVO DE CRÉDITO. ABERTURA DE CONTA CORRENTE E FORNECIMENTO DE CHEQUES MEDIANTE FRAUDE. FALHA ADMINISTRATIVA DA INSTITUIÇÃO BANCÁRIA. RISCO DA ATIVIDADE ECONÔMICA. ILÍCITO PRATICADO POR TERCEIRO. CASO FORTUITO INTERNO. REVISÃO DO VALOR. VIOLAÇÃO DOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. RECURSO PARCIALMENTE PROVIDO.
+1. Inescondível a responsabilidade da instituição bancária, atrelada ao risco da própria atividade econômica que exerce, pela entrega de talão de cheques a terceiro, que mediante fraude, abriu conta bancária em nome do recorrido, dando causa, com isso e com a devolução do cheque emitido, por falta de fundos, à indevida inclusão do nome do autor em órgão de restrição ao crédito.
+2. Irrelevante, na espécie, para configuração do dano, que os fatos tenham se desenrolado a partir de conduta ilícita praticada por terceiro, circunstância que não elide, por si só, a responsabilidade da instituição recorrente, tendo em vista que o panorama fático descrito no acórdão objurgado revela a ocorrência do chamado caso fortuito interno.
+3. A verificação da suficiência da conduta do banco no procedimento adotado para abertura de contas, além de dispensável, na espécie, demandaria reexame do conjunto fático-probatório, o que é vedado no âmbito do recurso especial, à luz do enunciado 7 da Súmula desta Corte.
+4. O entendimento deste Superior Tribunal de Justiça é firme no sentido de que evidente exagero ou manifesta irrisão na fixação, pelas instâncias ordinárias, viola os princípios da razoabilidade e da proporcionalidade, tornando possível, assim, a revisão da aludida quantificação.
+5. Recurso conhecido em parte e, no ponto, provido, para reduzir a indenização a R$ 12.000,00 (doze mil reais), no limite da pretensão recursal.? (REsp 774.640/SP, 4ª Turma, rel. Min. Hélio Quaglia Barbosa, j. 12.12.2006, DJ 5.2.2007, p. 247. Fonte: www.stj.gov.br).
+Bem por isso, fica afastada a alegação de culpa exclusiva de terceiro pela fraude de que a parte autora foi vítima, não havendo de se falar, portanto, na incidência da causa excludente da responsabilidade civil.
+Demonstrada, portanto, a responsabilidade da ré pelos prejuízos causados, devendo ser considerados inexigíveis os valores impugnados apontados na petição inicial.
+Isto posto, julgo PROCEDENTE o pedido para tornar definitiva a antecipação de tutela deferida, declarar inexistente a dívida referida na petição inicial, determinando o cancelamento da cobrança no valor de R$ 7.660,12.
+Condeno a parte requerida ao pagamento das custas e despesas processuais, corrigidas do desembolso, e honorários advocatícios que arbitro em 10% do valor da causa, corrigido monetariamente desde a propositura da ação e acrescido de juros de 1% ao mês.
+No mais, julgo extinto o processo, com apreciação do mérito, nos termos do artigo 269, inciso I, do Código de Processo Civil. 
+P.R.I.C.
+
+São Paulo, 28 de maio de 2014.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

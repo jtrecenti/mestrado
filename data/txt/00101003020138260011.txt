@@ -1,0 +1,59 @@
+
+
+SENTENÇA
+
+Processo nº:0010100-30.2013.8.26.0011
+Classe - AssuntoProcedimento Ordinário - Planos de Saúde
+Requerente:Joao Gilberto da Silva Ferreira
+Requerido:Sul America Companhia de Seguro Saude S/a
+
+
+
+
+Juiz(a) de Direito: Dr(a). Francisco Carlos Inouye Shintate
+
+Vistos etc.
+
+JOÃO GILBERTO DA SILVA FERREIRA promoveu ação cominatória em face de SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE S.A., alegando em síntese: a) é beneficiário de contrato de seguro de assistência de saúde celebrado antes da Lei nº9.656/98; b) teve diagnosticado miocardiopatia grave (miocardiopatia dilatada com disfunção ventricular esquerda grave); c) teve indicação médica para tratamento cirúrgico com implante de órtese (marcapasso ? cardioversor/desfribilador); d) a ré negou cobertura; e) a exclusão é ilícita. Pretende a condenação da ré condenação da ré a custear o tratamento cirúrgico com implante de prótese (marcapasso), até a alta definitiva, com os consectários de lei, e a pagar indenização por danos morais. Com a inicial juntou documentos. Houve pedido de antecipação de tutela, que foi deferido (fls. 73).
+
+A ré foi citada e contestou a ação (fls. 83/93), alegando em síntese que a cobertura do tratamento não era devida, pois no plano de saúde há explícita cláusula de exclusão, ausente dano moral a ser indenizado, e excessivo o valor pleiteado. Com a contestação juntou documentos.
+
+É o relatório.
+
+D E C I D O.
+
+Cabe o julgamento antecipado da lide, pois os fatos estão provados pelos documentos já juntados aos autos, e as questões suscitadas são de direito.
+
+No mérito, a presente ação é procedente em parte.
+
+A questão central refere-se à legalidade da exclusão da cobertura para a cirurgia com implante de marcapasso, em tratamento de cardiopatia.
+
+Verifica-se que a exclusão de cobertura para o implante de prótese foi ilícita, pois quando da contratação ele deveria ter sido alertado para a exclusão no caso de uso da prótese ou órtese, pois não se tem finalidade estética, e seu uso é essencial ao tratamento cirúrgico da doença que acometeu o autor, sob pena do órgão perder a função. A cláusula contratual, nesse sentido, é abusiva e viola direito básico do consumidor (Código de Defesa do Consumidor, artigo 51, IV), pois o leigo não tem condições de identificar, quando da celebração do contrato, quais são os tratamentos e próteses excluídos pela cláusula 6.11 (fls. 165). 
+
+A existência de cláusula a restringir o direito do autor deveria ser expressa, possibilitando ao leigo dela tomar ciência, interpretá-la e discuti-la, pois não há como se exigir que a parte autora tivesse ciência, quando da contratação da empresa seguradora, que se no futuro necessitasse de tratamento da cardiopatia haveria exclusão de acordo com o medicamento prescrito e exames necessários. Quando há obscuridade, a interpretação deve ser a mais favorável ao consumidor-aderente, hipossuficiente que é. 
+
+Portanto, incide a norma individual e concreta construída a partir do enunciado da cláusula geral de cobertura, que estabelece a obrigação da ré custear o tratamento cirúrgico. 
+
+Por fim, a alegação de que a exclusão é legítima não se sustenta à vista da Lei nº 8.078/90, além do que há entendimento do c. STJ segundo o qual há contrato de trato sucessivo, e assim as normas da Lei nº 9.656/98 seriam aplicáveis para fatos posteriores à sua entrada em vigor:
+
+?DIREITO CIVIL E CONSUMIDOR. SEGURO SAÚDE. CONTRATAÇÃO ANTERIOR À VIGÊNCIA DO CDC E À LEI 9.656/98. EXISTÊNCIA DE TRATO SUCESSIVO.
+INCIDÊNCIA DO CDC, MAS NÃO DA LEI 9.656/98. BOA-FÉ OBJETIVA. PRÓTESE NECESSÁRIA À CIRURGIA DE ANGIOPLASTIA. ILEGALIDADE DA EXCLUSÃO DE ?STENTS? DA COBERTURA SECURITÁRIA. DANO MORAL CONFIGURADO. DEVER DE REPARAR OS DANOS MATERIAIS.
+- As disposições da Lei 9.656/98 só se aplicam aos contratos celebrados a partir de sua vigência, bem como para os contratos que, celebrados anteriormente, foram adaptados para seu regime. A Lei 9.656/98 não retroage, entretanto, para atingir o contrato celebrado por segurados que, no exercício de sua liberdade de escolha, mantiveram seus planos antigos sem qualquer adaptação.
+- Embora o CDC não retroaja para alcançar efeitos presentes e futuros de contratos celebrados anteriormente a sua vigência, a legislação consumerista regula os efeitos presentes de contratos de trato sucessivo e que, por isso, foram renovados já no período de sua vigência.
+- Dada a natureza de trato sucessivo do contrato de seguro saúde, o CDC rege as renovações que se deram sob sua vigência, não havendo que se falar aí em retroação da lei nova.
+- A cláusula geral de boa-fé objetiva, implícita em nosso ordenamento antes da vigência do CDC e do CC/2002, mas explicitada a partir desses marcos legislativos, impõe deveres de conduta leal aos contratantes e funciona como um limite ao exercício abusivo de direitos.
+- O direito subjetivo assegurado em contrato não pode ser exercido de forma a subtrair do negócio sua finalidade precípua. Assim, se determinado procedimento cirúrgico está incluído na cobertura securitária, não é legítimo exigir que o segurado se submeta a ele, mas não instale as próteses necessárias para a plena recuperação de sua saúde.
+- É abusiva a cláusula contratual que exclui de cobertura a colocação de ?stent?, quando este é necessário ao bom êxito do procedimento cirúrgico coberto pelo plano de saúde. Precedentes.
+- Conquanto geralmente nos contratos o mero inadimplemento não seja causa para ocorrência de danos morais, a jurisprudência desta Corte vem reconhecendo o direito ao ressarcimento dos danos morais advindos da injusta recusa de cobertura de seguro saúde, pois tal fato agrava a situação de aflição psicológica e de angústia no espírito do segurado, uma vez que, ao pedir a autorização da seguradora, já se encontra em condição de dor, de abalo psicológico e com a saúde debilitada.
+Recurso especial a que se dá parcial provimento.?
+(REsp 735.168/RJ, Rel. Ministra  NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 11/03/2008, DJe 26/03/2008)
+
+O pedido de danos morais fica afastado, pois não foi alegada na inicial nenhuma situação concreta de constrangimento, caracterizado apenas o descumprimento de contrato, o que por si só não gera direito à indenização. 
+
+Em face do exposto, JULGO PROCEDENTE EM PARTE a ação cominatória movida por JOÃO GILBERTO DA SILVA FERREIRA  em face de SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE S.A., com resolução do mérito nos termos do artigo 269, I, do Código de Processo Civil, para condenar a requerida no cumprimento da obrigação consistente na autorização e pagamento das despesas médico-hospitalares do tratamento cirúrgico acima descrito, reembolsando os valores despendidos, observados os limites contratuais. Em conseqüência, mínima a sucumbência do autor, a requerida arcará com as custas e despesas processuais corrigidas desde o efetivo desembolso, e honorários advocatícios que arbitro em 10% sobre o valor da causa atualizado a partir do ajuizamento da ação.
+
+Transitado em julgado, requeira a vencedora em termos de prosseguimento; no silêncio a qualquer tempo, ao arquivo.
+
+P. R. I.
+
+São Paulo, 30 de JULHO de 2013.

@@ -1,0 +1,48 @@
+
+
+CONCLUSÃO
+      Em 16 de julho de 2014
+      Faço estes autos conclusos ao(à)
+      MM(a.). Juiz(a) de Direito 
+      Dr(a). Luciane Cristina Silva Tavares
+      Eu,          , Luciane Cristina Silva Tavares, digitei e subscrevi.
+
+
+SENTENÇA
+
+       
+Processo nº:0023041-21.2013.8.26.0008 - Procedimento do Juizado Especial Cível
+Requerente:Marcio Henrique Camara da Rocha
+Requerido:Michel Agostinho de Assis - ME
+
+
+Vistos.
+
+Trata-se de ação de indenização.
+Dispensado o relatório nos termos do artigo 38 da Lei 9099/95.
+O autor afirma que contratou com a ré a realização de um site denominado Geração Cupom que seria uma vitrine virtual para a exibição de produtos comercializados por lojas virtuais. O preço avençado foi de R$4.000,00 e o prazo de 90 dias. No entanto, o site nunca foi ao ar por falhas de desenvolvimento do projeto. Afirma que não foi possível cadastrar um produto e que as falhas eram tão graves que outros programadores recusaram-se a modificar o site. Alega que despendeu as quantias de US$25,00 e US$99,00 para criar contas na Apple e no Google para gerenciar os aplicativos do site, mas estes também nunca funcionaram. Requer a condenação da ré à devolução do preço, acrescido de multa contratual de 30%, e ao pagamento de R$1.500,00 a título de indenização por danos materiais.
+A ré alega que o site existiu e funcionou regularmente, mas não foi ao ar por opção do autor. Alega, ainda, que também desenvolveu para o autor o site "Turma do Click", que o autor solicitou a senha da configuração FTP e os layouts das páginas porque pretendia trocar o servidor do site. No entanto, a ré não aceitou dar suporte técnico a este novo servidor e, nesta oportunidade, o autor esclareceu que estava falido. Afirma que o desejo do autor de rescindir o contrato tem relação com a esta situação financeira de sua empresa e não com falhas do produto. Sustenta, por fim, que não há provas dos danos materiais e que não pode ser responsabilizado pelo ressarcimento de despesas havidas pelo autor com outras empresas.
+O pedido é parcialmente procedente.
+O autor afirma, em síntese, que o site nunca foi ao ar porque o projeto era falho, razão pela qual o site não funcionava. De outra parte, o réu alega que o site funcionava adequadamente e só não foi ao ar por opção do autor. Evidentemente, o autor não tem condições de fazer a prova de fato negativo; de outra parte, a ré alega a funcionalidade do produto que ela mesma desenvolveu, ou seja, um fato que pode provar. Logo, cabia à ré a prova do fato extintivo do direito do autor, nos termos do artigo 333, inciso II do Código de Processo Civil. 
+No entanto, a ré não produziu provas nesse sentido. 
+Os documentos as fls. 113/137 são páginas do site impressas em agosto de 2013. Porém, tais documentos não provam que o site efetivamente funcionou, ou seja, que era possível inserir dados e cadastrar produtos nele. Tal prova seria facilmente produzida por empresa especializada no desenvolvimento de sítios eletrônicos, inclusive em audiência. Com efeito, conforme depoimento pessoal do representante da ré, o site rodou em link alternativo e na rede mundial de computadores por quatro meses. Logo, era de se esperar que a ré conseguisse, também em audiência, fazer com que o site rodasse, ao menos, no mencionado link alternativo, especialmente porque o depoente declarou que seria possível "a averiguação do site desenvolvido pela ré para o Geração Cumpom". 
+Assim, considerando-se a plena possibilidade da produção da prova pela ré em audiência e a inexistência desta, conclui-se que a requerida não provou sua alegação e, portanto, o pleito é procedente, ainda que em parte.
+Há que se acrescentar que as alegações do representante da ré de que o site não foi ao ar por opção exclusiva do autor e de que ele requereu a retirada do site porque não tinha condições de arcar com a taxa de manutenção não estão corroboradas pela prova documental produzida. 
+Verifica-se que o o contrato foi celebrado em 30 julho de 2011; consequentemente, o site deveria estar concluído até o dia 30 de outubro de 2011. Porém, em junho de 2012 o autor ainda se queixava à ré, afirmando que não tinha conseguido cadastrar um parceiro (e-mail as fls. 17 e 19). Não é crível que o autor tenha simplesmente optado por não colocar no ar um site em funcionamento por aproximadamente 08 meses. Na realidade, o referido e-mail demonstra que o site nunca funcionou a contento e, portanto, não pôde ser colocado na rede.
+Ademais, o representante da ré declarou que o autor requereu a retirada do site do ar, por telefone, entre o final de 2012 e o começo de 2012. Mais uma vez, o e-mail supramencionado rechaça tal alegação, uma vez que o autor não se queixaria em junho de 2012 do funcionamento de um site cuja retirada do ar havia requerido no início daquele ano. 
+A ré alega também que o verdadeiro motivo pelo qual o autor pretende a rescisão do contrato é o fato de sua empresa ter falido. No entanto, tal notícia é de setembro de 2012 (fls. 52), ao passo que a desfuncionalidade do serviço oferecido pela ré foi muito anterior. Além disso, os e-mails as fls. 52/60 indicam que o autor pretendia a mudança de servidor do site "Turma do Click" (que seria vendido) e não do site "Geração Cupom".
+Assim, pelo que consta dos autos, tem-se que, realmente, o site Geração Cupom não chegou a funcionar, o que justifica a rescisão do contrato e a devolução do preço. 
+Improcedente o pleito atinente à multa contratual, pois a cláusula 12ª aplica-se apenas na hipótese de desistência da avença por parte do contratante. Destaque-se que, no caso em tela, inaplicável o Código de Defesa do Consumidor, uma vez que o autor adquiriu da ré serviço como insumo para o desenvolvimento de atividade de sua própria empresa e, portanto, não é consumidor, nos termos do artigo 2º do referido Diploma Legal. Também não se pode afirmar que o contrato em questão seja de adesão. Logo, não cabe interpretação em benefício exclusivo do autor. 
+Procedente o ressarcimento das quantias despendidas para o cadastramento de aplicativos ligados ao site que nunca chegaram a funcionar. A condenação a este título fundamenta-se no artigo 389 do Código Civil. Logo, integra a condenação a quantia de US$124,00 despendida em março de 2012. Conforme documento em anexo, em 30.03.2012, US$1,00 correspondia a R$1,82. Assim, o dano demonstrado do autor foi de R$225,68. 
+O autor não demonstrou a perda das demais quantias pretendidas a título de danos materiais.
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE O PEDIDO.
+Condeno o réu a pagar ao autor os montantes de R$4000,00, atualizados pela Tabela Prática do Tribunal de Justiça desde a celebração do contrato, com juros legais de 1% ao mês desde a citação e de R$225,68, atualizados pela Tabela Prática do Tribunal de Justiça desde março de 2012, com juros legais de 1% ao mês desde a citação.
+Deixo de condenar a vencida nas verbas da sucumbência nos termos do artigo 55 da Lei 9.099/95. a) O prazo para interposição de recurso é de 10 (dez) dias, contado da intimação; b) efetuado o pagamento voluntário, fica desde já deferida a expedição de guia de levantamento em favor do credor, devendo ser intimado para retirada, no prazo de 10 dias, sob pena de cancelamento. Com o trânsito em julgado, comunique-se ao Distribuidor. Registre-se. 
+Em caso de recurso: Valor do preparo = R$ 201,40 (Guia DARE-SP, Código 230-6). Despesas de porte de remessa e retorno por volume de autos = R$ 29,50 (Guia FEDTJ, código 110-4).
+P.R.I.C..  
+São Paulo, 16 de julho de 2014.
+
+
+
+Luciane Cristina Silva Tavares
+     Juiz(íza) de Direito

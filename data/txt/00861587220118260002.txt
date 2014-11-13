@@ -1,0 +1,46 @@
+
+
+SENTENÇA
+
+Processo nº: - Procedimento do Juizado Especial Cível
+:Gustavo Cirellli Dalle Vedove
+:Banco Bradesco SA - agência 1188
+         Vistos.
+                           Relatório dispensado nos termos do artigo 38 da Lei nº9.099/95. 
+Decido. 
+De início, ressalto que a relação jurídica estabelecida entre as partes qualifica-se como de consumo e, portanto, está regida pelo Código de Defesa do Consumidor, que consagrou a responsabilidade objetiva dos fornecedores pelo risco inerente ao produto ou ao serviço que realizam. 
+Tal entendimento restou consagrado na Súmula 297 do STJ: "O Código de Defesa do Consumidor é aplicável às instituições financeiras". 
+No mesmo sentido, a  Segunda Seção do Colendo Superior Tribunal de Justiça publicou recente súmula (479) com os seguintes dizeres: "As instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias".
+Colocada essa premissa, passo à análise dos pedidos, analisando, juntamente com o mérito, também a preliminar de ilegitimidade passiva de parte, pois com ele se confunde. 
+O fato de que a parte autora foi vítima de roubo, no qual os meliantes a obrigaram a fornecer o cartão e senha para realização de saques (e empréstimo) de sua conta corrente, mantida junto à ré, é incontroverso, ante a ausência de impugnação específica em contestação. 
+Assim, comprovado o evento danoso, resta analisar a responsabilidade do Banco no caso em apreço. 
+Dispõe o artigo 14 do Código de Defesa do Consumidor, que: "O fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos. Parágrafo primeiro - O serviço é defeituoso quando não fornece a segurança que o consumidor dele pode esperar, levando-se em consideração as circunstâncias relevantes, entre as quais: I - o modo de seu fornecimento; II - o resultado e os riscos que razoavelmente dele se esperam; III - a época em que foi fornecido" (destaquei). 
+É exatamente essa a hipótese dos autos, uma vez que, por ter prestado serviço falho, que não ofereceu a segurança que dele seria razoavelmente esperável, deve o Banco responder pelo prejuízo causado à parte autora. 
+E não há cabimento na tentativa da ré em se eximir de responsabilidade, invocando as excludentes de caso fortuito e fato de terceiro. 
+Isso porque, o banco lucra ao vender a idéia de facilidade adicional representada pela prestação de serviço 24 horas, cujas operações são realizadas por intermédio de máquinas à disposição do consumidor, com evidente facilitação para o consumo dos produtos bancários e conseqüente aumento da lucratividade. 
+Há, porém, o reverso da moeda: se o serviço fornecido se mostra falho, permitindo a ação de marginais, o fornecedor responde objetivamente por danos causados aos consumidores por tal ação. 
+E tal responsabilidade deriva da obrigação imposta ao fornecedor de garantir a plena segurança na utilização do serviço, o qual, por sua própria natureza, reveste-se de periculosidade, ante a facilitação do uso do dinheiro, que expõe o consumidor à vulnerabilidade em alto grau, fato que se comprova diariamente em qualquer meio de notícias. 
+Tal periculosidade, aliás, já é reconhecida pelo ordenamento jurídico, em especial pela Lei nº 7.102/83, que estabeleceu a obrigatoriedade de prestação de sistema de segurança em razão dos riscos inerentes às atividades bancárias.
+Ademais, em nítida evolução à teoria clássica da responsabilidade civil, a ciência jurídica passou a adotar a teoria do risco-criado, entre nós abraçada pelo acima citado dispositivo do CDC, bem como pelo CC/02, parágrafo único do artigo 927, responsabilizando objetivamente o agente, quando a atividade por ele desenvolvida revestir-se de periculosidade.
+Para esta teoria, basta a prova do dano para que surja a obrigação de indenizar, que não é excluída, sequer, pelo fato de terceiro, o qual está abrangido pela noção de perigo, intrínseca à atividade. 
+Por outras palavras, impõe-se que, em virtude da atual interpretação que se confere à responsabilidade objetiva decorrente do risco-criado da atividade profissional (art. 927, parágrafo único, do CC/02), o fato de terceiro não rompe o nexo causal entre a atividade lucrativa e o dano. 
+Ao invés, demonstra a falha no dever de desenvolver sua atividade com garantias de segurança. 
+Assim, o Banco, ao disponibilizar cartão magnético aos consumidores, sem, contudo, promover segurança integral no uso de serviço, expõe o usuário aos riscos inerentes às atividades bancárias, por isso deve responder pelos danos. 
+E a segurança integral não se resume à fiscalização e monitoramento dos terminais de auto-atendimento. Deve-se estender também ao incremento da tecnologia aplicada aos cartões de débito, a fim de impedir que terceiros consigam utiliza-los sem anuência do titular. 
+Apenas o sistema de senhas não tem se mostrado eficaz para coibir a ação de meliantes, como demonstrado no presente caso, denotando a insegurança do serviço. 
+Sobre o assunto, transcrevo a jurisprudência firmada em caso semelhante no Tribunal de Justiça do Estado de São Paulo: ?Assalto nas dependências de caixa eletrônico. Dever da entidade bancária de zelar pela segurança de sua clientela. Direito de regresso, em tese, contra o Estado. Recurso provido, em parte, para julgar parcialmente procedente a ação. Voto vencido. - 'Ninguém pode esquecer que os Bancos, ao colocarem os caixas eletrônicos a saque, fora do horário comercial, fazem-no não só para atrair clientela, mas também para obter lucros. Levam vantagem com isso. E, por isso mesmo, têm o dever de dar integral segurança aos que se valem daquele serviço' (...) (TJSP, 5ª Câmara de Direito Privado, AP 73.932-4, relator, Desembargador Rodrigues de Carvalho, j. 29/04/1999). (Destaquei). 
+De igual forma, não há que se falar em isenção de responsabilidade por caso fortuito externo, porquanto, embora imprevisto, o roubo a que foi submetida a parte autora, é fato previsível e guarda relação direta, além de ter ocorrido no âmbito da relação jurídica contratual que une o Banco-fornecedor e o usuário do cartão magnético. 
+Portanto, é de rigor a condenação do Banco-réu a indenizar a parte autora pelos danos materiais que sofreu em decorrência dos saques (e empréstimo) realizados em sua conta-corrente, por força do roubo. 
+E, quanto ao valor da indenização, esta deve se dar de forma singela, e não em dobro, pois evidenciada a ressalva contida no art. 42, parágrafo único do CDC.
+Finalmente, no que tange ao dano moral, este deve ser afastado.
+Na lição abalizada de SÉRGIO CAVALIERI FILHO, ?dano moral é a lesão de bem integrante da personalidade, tal como a honra, a liberdade, a saúde, a integridade psicológica, causando dor, sofrimento, tristeza, vexame e humilhação à vítima? (in Programa de Responsabilidade Civil, 2ª Edição, Malheiros Editores, p. 78).
+A lesão a bem personalíssimo, contudo, para caracterizar o dano moral, deve revestir-se de gravidade que, segundo ANTUNES VARELA, citado por Sérgio Cavalieri Filho, ?há de medir-se por um padrão objetivo e não à luz de fatores subjetivos?.
+Assim, para que se configure o dano moral indenizável, a dor, o sofrimento, a tristeza, o vexame impingidos, devem ser tais que, fugindo à normalidade, interfiram intensamente no comportamento e no bem estar psíquicos do indivíduo.
+No caso sub judice, não se vislumbra como os fatos descritos na inicial possam ter ocasionado sensações mais duradouras e perniciosas ao psiquismo humano, além do aborrecimento, do transtorno ou do contratempo, característicos da vida moderna e que não configuram o dano moral. 
+Diante do exposto, com fundamento no art. 269, I, do Código de Processo Civil, JULGO PROCEDENTE EM PARTE o pedido inicial para condenar a ré a pagar à parte autora, a título de indenização por danos materiais, a quantia de R$ 1.844,00 (um mil, oitocentos e quarenta e quatro reais), devidamente atualizada pela Tabela do E. Tribunal de Justiça, desde o ajuizamento da demanda, e acrescida de juros, de 1% ao mês, a contar da data da citação. 
+Consoante artigos 54 e 55, da Lei n.º 9.099/95, as partes estão isentas do pagamento de custas, taxas, despesas e honorários, salvo na hipótese de recurso. 
+O prazo para interposição de recurso é de 10 dias e o valor do preparo é de R$ 193,7. 
+O valor do porte de remessa e retorno é de R$ 29,50, por volume de autos, nos termos do Provimento 833/2004 do CSM. Em razão do art. 52, III da Lei 9099/95, c/c art. 475, J, ?caput? do CPC, fica a ré instada a cumprir a sentença, advertida também de que o prazo de quinze dias a que alude a segunda norma passará a fluir automaticamente a partir do trânsito em julgado desta sentença, independentemente de nova intimação. 
+
+P.R.I.
+ São Paulo, 09 de dezembro de 2013

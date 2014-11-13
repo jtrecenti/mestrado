@@ -1,0 +1,92 @@
+
+
+SENTENÇA
+
+Processo nº:001.10.021117-9 - Procedimento Ordinário
+Requerente:Silmara Augusto Bernal
+Requerido:Associação de Beneficência e Filantropia São Cristóvão
+
+
+
+
+Juiz(ª) de Direito Dr.(ª): Enéas Costa Garcia
+
+
+
+
+Vistos. 
+
+
+1. SILMARA AUGUSTO BERNAL, PAULA AUGUSTO RAMOS e MARIA THEREZA PRADO AUGUSTO, qualificadas nos autos, ingressaram com ação contra ASSOCIAÇÃO DE BENEFICÊNCIA E FILANTROPIA SÃO CRISTÓVÃO, alegando, em síntese, que: a) são filhas e esposa de JOSÉ AUGUSTO, o qual foi atendido no hospital da requerida, com o qual mantinha plano de saúde; b) o paciente foi diagnosticado com aneurisma da artéria aorta, sendo necessária realização de intervenção cirúrgica; c) seria possível realizar a cirurgia convencional, com grande incisão abdominal, ou cirurgia endovascular, efetivada por meio de micro incisões e introdução de pequenos cateteres; d) a cirurgia endovascular ostentava técnica mais segura e com pós operatório menos traumático; e) após a realização de alguns exames, foi designada data para cirurgia, mas antes as autoras foram informadas que deveriam arcar com o pagamento do procedimento médico, despesa orçada em R$ 72.812,50; f) a realização da cirurgia foi condicionada à assinatura de um termo por parte da autora.
+Sustentam as autoras que é ilícita a recusa do plano em arcar com o custeio do tratamento, sendo inválida a cláusula contratual que restringe prótese.
+Pretendem o acolhimento do pedido para declaração de nulidade da cláusula contratual e, por conseguinte, declaração de inexigibilidade do débito, com cancelamento da cobrança e condenação da ré ao pagamento de indenização de dano moral. 
+
+2. Não foi deferida tutela antecipada (fls. 71).
+
+3. A ré foi citada e apresentou contestação (fls. 82/100). Alega em defesa que: a) a cobrança tem por objeto apenas o material empregado na cirurgia e não coberto pelo plano de saúde (prótese); b) não havia necessidade da cirurgia realizada, podendo o tratamento ser efetuado por meio da cirurgia tradicional; c) há cláusula de exclusão do custeio de prótese, devendo prevalecer a disposição contratual; d) inaplicabilidade da Lei nº 9.656/98; e) deveria a parte pleitear o pagamento do material necessário para a cirurgia junto ao Estado; f) não há dano moral indenizável e não cabe dano moral em razão de inadimplemento contratual.  
+É o relatório. 
+
+DECIDO.
+
+4. Defiro a assistência judiciária à requerida. Anote-se.
+
+5. O feito comporta julgamento antecipado, sendo dispensável a produção de outras provas, nos termos do art. 330, I do Código de Processo Civil.
+
+6. A ação é PROCEDENTE. 
+Independentemente da aplicação da legislação especial que regula os planos de saúde ou o Código de Defesa do Consumidor, a recusa da requerida esvazia o conteúdo mínimo do contrato celebrado, caracterizando ilícito contratual, mesmo sob a égide do Código Civil. 
+Na realidade a requerida pretende compelir o associado a se submeter a cirurgia com maior risco e de recuperação mais difícil e dolorosa em lugar de outra que pode alcançar o mesmo efeito curativo de forma mais segura e com menores conseqüências para o paciente. 
+Não cabe à requerida contestar a orientação médica e deliberar a respeito do meio técnico a ser empregado na realização do tratamento. 
+Nem se pode admitir que, por questão econômica, a prestadora do serviço pretenda submeter o paciente a tratamento mais arriscado e doloroso, quando existe sucedâneo que melhor atende à situação de saúde do paciente. 
+Nesse sentido, como bem argumentou a autora, existe precedente do Superior Tribunal de Justiça, que vem bem a calhar no caso sub judice:
+
+Seguro saúde. Cobertura. Câncer de pulmão. Tratamento com quimioterapia. Cláusula abusiva.
+1. O plano de saúde pode estabelecer quais doenças estão sendo cobertas, mas não que tipo de tratamento está alcançado para a respectiva cura. Se a patologia está coberta, no caso, o câncer, é inviável vedar a quimioterapia pelo simples fato de ser esta uma das alternativas possíveis para a cura da doença. A abusividade da cláusula reside exatamente nesse preciso aspecto, qual seja, não pode o paciente, em razão de cláusula limitativa, ser impedido de receber tratamento com o método mais moderno disponível no momento em que instalada a doença coberta.
+2. Recurso especial conhecido e provido. 
+
+(STJ - REsp 668216/SP, Rel. Ministro  CARLOS ALBERTO MENEZES DIREITO, TERCEIRA TURMA, julgado em 15/03/2007, DJ 02/04/2007 p. 265)
+
+Bastante elucidativa a argumentação exposta pelo Ministro CARLOS ALBERTO MENEZES DIREITO no mencionado acórdão:
+
+De fato, não se pode negar o direito do contrato de estabelecer que tipo de doença está ao alcance do plano oferecido.
+Todavia, entendo que deve haver uma distinção entre a patologia alcançada e a terapia. Não me parece razoável que se exclua determinada opção terapêutica se a doença está agasalhada no contrato. Isso quer dizer que se o plano está destinado a cobrir despesas relativas ao tratamento, o que o contrato pode dispor é sobre as patologias cobertas, não sobre o tipo de tratamento para cada patologia alcançada pelo contrato. Na verdade, se não fosse assim, estar-se-ia autorizando que a empresa se substituísse aos médicos na escolha da terapia adequada de acordo com o plano de cobertura do paciente. E isso, pelo menos na minha avaliação, é incongruente com o sistema de assistência à saúde, porquanto quem é senhor do tratamento é o especialista, ou seja, o médico que não pode ser impedido de escolher a alternativa que melhor convém à cura do paciente. Além de representar severo risco para a vida do consumidor. Foi nessa linha que esta Terceira Turma caminhou quando existia limite de internação em unidade de terapia intensiva (REsp n° 158.728/RJ, da minha relatoria, DJ de 17/5/99), reiterado pela Segunda Seção (REsp n° 251.024/SP, Relator o Ministro Sálvio de Figueiredo Teixeira, DJ de 4/2/02). Isso quer dizer que o plano de saúde pode estabelecer que doenças estão sendo cobertas, mas não que o tipo de tratamento está alcançado para a respectiva cura. Assim, por exemplo, se está coberta a cirurgia cardíaca, não é possível vedar a utilização de stent, ou, ainda, se está coberta a cirurgia de próstata, não é possível impedir a utilização de esfíncter artificial para controle da micção. O mesmo se diga com relação ao câncer. Se a patologia está coberta, parece-me inviável vedar a quimioterapia pelo simples fato de que a quimioterapia é uma das alternativas possíveis para a cura da doença. Nesse sentido, parece-me que a abusividade da cláusula reside exatamente nesse preciso aspecto, qual seja, não pode o paciente, consumidor do plano de saúde, ser impedido de receber tratamento com o método mais moderno do momento em que instalada a doença coberta em razão de cláusula limitativa. É preciso ficar bem claro que o médico, e não o plano de saúde, é responsável pela orientação terapêutica. Entender de modo diverso põe em risco a vida do consumidor.(...) (STJ - REsp 668.216/SP, Rel. Ministro  CARLOS ALBERTO MENEZES DIREITO, j. 15/03/2007).
+
+Portanto, nula a disposição contratual que pretende excluir tratamento compatível com o plano, não se podendo validar cláusula de exclusão de prótese quando esta consiste na própria forma como  a  intervenção cirúrgica é prestada. 
+Deve ser acolhido o pedido, pois, para declarar a inexistência do débito, afastando a cobrança. 
+
+7. O pedido de dano moral também deve ser acolhido.
+O ato ilícito ficou caracterizado com a recusa injustificada do tratamento. O dano moral existe in re ipsa.
+Dada a natureza especial do contrato ? que envolve direito personalíssimo da vítima (vida, saúde) ? o inadimplemento acarreta conseqüências ensejadoras de dano moral. 
+Não bastasse o desconforto, a dor e o abalo emocional que a doença naturalmente acarreta, o paciente e as autoras ainda foram submetidos a sofrimento adicional por conta da recusa indevida do plano de saúde em custear o tratamento que se mostrava imprescindível para recuperação da saúde. 
+Aquele que contrata este tipo de serviço busca justamente resguardar-se do risco de não ter como arcar com os caríssimos custos dos tratamentos médico- hospitalares. 
+Quem está doente, já combalido com seu estado de saúde, não deve ser submetido ao desgaste adicional de ter que litigar com o seu plano de saúde, enfrentando rotinas burocráticas e recusas infundadas, colocando em risco o prosseguimento do tratamento ? e, por conseguinte, a saúde do paciente ? e desgastando ainda mais a vítima e seus familiares, num momento especial em que esta mais precisa de tranqüilidade e cuidado. 
+Perfeitamente identificável a frustração, o abalo emocional, a sensação de impotência e de revolta suportada por aquele que contratou o plano de saúde, cumpriu rigorosamente sua obrigação, vê-se doente e não conta com o respaldo médico a que faria jus. 
+O mesmo se diz em relação aos familiares, que assistem impotente a recusa ao tratamento e são obrigados a assumir obrigações contratuais muito além de suas posses.
+Este dano moral é palpável, dispensa outro tipo de prova, decorre da natureza das coisas (in re ipsa).
+Aliás, este entendimento foi consagrado pelo Superior Tribunal de Justiça:
+
+CIVIL. INDENIZAÇÃO. PLANO DE SAÚDE. CIRURGIA. AUTORIZAÇÃO. AUSÊNCIA. LEGITIMIDADE. ESPÓLIO. DANOS MORAIS. CONFIGURAÇÃO. QUANTUM. DISSÍDIO. AUSÊNCIA DE DEMONSTRAÇÃO E COMPROVAÇÃO.
+(...) 2. É possível a reparação moral quando, como no caso presente, os danos não decorrem de simples inadimplemento contratual, mas da própria situação de abalo psicológico em que se encontra o doente ao ter negada injustamente a cobertura do plano de saúde que contratou. (STJ - AgRg no Ag 797.325/SC - Rel. Min. Fernando Gonçalves ? j. 04/09/2008).
+
+DIREITO CIVIL E CONSUMIDOR. SEGURO SAÚDE. CONTRATAÇÃO ANTERIOR À VIGÊNCIA DO CDC E À LEI 9.656/98. EXISTÊNCIA DE TRATO SUCESSIVO. INCIDÊNCIA DO CDC, MAS NÃO DA LEI 9.656/98. BOA-FÉ OBJETIVA. PRÓTESE NECESSÁRIA À CIRURGIA DE ANGIOPLASTIA. ILEGALIDADE DA EXCLUSÃO DE STENTS DA COBERTURA SECURITÁRIA. DANO MORAL CONFIGURADO. DEVER DE REPARAR OS DANOS MATERIAIS.
+(...) Conquanto geralmente nos contratos o mero inadimplemento não seja causa para ocorrência de danos morais, a jurisprudência desta Corte vem reconhecendo o direito ao ressarcimento dos danos morais advindos da injusta recusa de cobertura de seguro saúde, pois tal fato agrava a situação de aflição psicológica e de angústia no espírito do segurado, uma vez que, ao pedir a autorização da seguradora, já se encontra em condição de dor, de abalo psicológico e com a saúde debilitada.
+Recurso especial a que se dá parcial provimento. (STJ - REsp 735.168/RJ, Rel. Ministra  NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 11/03/2008, DJe 26/03/2008)
+
+Passo a fixar a indenização.
+Considerando a gravidade do caso, a intensidade da situação aflitiva a que submetida a família, fixo a indenização em R$ 10.000,00 (dez mil reais). 
+Incide correção monetária desde a sentença (Súmula 362 do STJ) e juros de mora, à taxa legal, desde a citação.
+
+8. Ainda não há fato que justifique tutela antecipada. O envio de carta de cobrança não caracteriza dano irreparável. 
+As partes estão litigando e o fato de a requerida entender que há débito é direito que lhe assiste.  
+Naturalmente não deve a ré promover medidas de negativação de crédito ou protesto de títulos, caso em que haveria motivo para tutela antecipada.  
+
+9. Diante do exposto, JULGO PROCEDENTE o pedido para declarar a nulidade da cláusula contratual que exclui custeio de prótese e, por conseguinte, inexigível o crédito relativo ao custeio do tratamento, sendo vedada cobrança, bem como condeno a requerida ao pagamento de indenização de dano moral no montante de R$ 10.000,00 (dez mil reais), com correção monetária desde a sentença (Súmula 362 do STJ) e juros de mora, à taxa legal, desde a citação.
+Condeno a requerida ao pagamento de custas, despesas processuais e honorários advocatícios, que arbitro em 10% do valor da condenação, observado o disposto no art. 12 da Lei de Assistência Judiciária.
+
+
+P. R. I
+
+
+
+
+
+São Paulo, 20 de agosto de 2010.

@@ -1,0 +1,73 @@
+
+
+SENTENÇA
+
+Processo nº:0017847-89.2012.8.26.0003
+Classe - AssuntoProcedimento Ordinário - Rescisão do contrato e devolução do dinheiro
+Requerente:PROJECT CENTRAL DE MANUTENÇÃO SUPRIMENTOS INDUSTRIAIS E COMÉRCIO LTDA
+Requerido:Tim Fiber SP Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Fábio Fresca
+
+Vistos.
+
+PROJECT CENTRAL DE MANUTENÇÃO SUPRIMENTOS INDUSTRIAIS E COMÉRCIO LTDA. ajuizou a presente ação rescisória, cumulada com pedido de indenização por danos morais, em face de GLOBAL VILLAGE TELECOM ? GVT, alegando que contratou os serviços de internet e de telefonia da empresa ré; porém, desde 26/06/2012, os serviços pararam de funcionar. Alega que o não funcionamento dos serviços denegriu a sua imagem perante clientes e fornecedores. Requer a rescisão do Contrato, com o pagamento da respectiva multa, e a condenação ao pagamento de indenização por danos morais. Com a inicial vieram documentos (fls. 14/58).
+Citada (fls. 58), a ré apresentou contestação (fls. 60/78), alegando, preliminarmente, a sua ilegitimidade passiva para a demanda e a denunciação da lide em face TIM FIBER SP LTDA. No mérito, alega que prestou o auxílio técnico que estava sob seu alcance, mas que a responsabilidade pelo conserto do problema é da denunciada. Insurge-se contra o pedido de danos morais. Com a contestação vieram documentos (fls. 79/194).  
+Houve réplica (fls. 201/207), acompanhada de documentos (fls. 208/210).
+Às fls. 213, foi deferida a portabilidade da linha telefônica, tendo em vista a resistência da ré e o direito de consumidor da autora. 
+Citada (fls. 256), a denunciada TIM FIBER SP LTDA. apresentou contestação (fls. 258/271), alegando, preliminarmente, a sua ilegitimidade passiva para a demanda. No mérito, alega a inexistência de qualquer relação contratual com a denunciante ou com a autora. Insurge-se contra o pedido de danos morais. Com a contestação vieram documentos (fls. 272/310).
+Houve réplica (fls. 317/319).
+Às fls. 388/389, a autora esclarece que a portabilidade da linha telefônica foi realizada, devendo-se prosseguir a demanda pela condenação da empresa ré.
+É o relatório.
+DECIDO
+O presente feito comporta julgamento antecipado (artigo 330, inc. I do Cód. Proc. Civil), por se tratar de matéria de direito, e, de fato, provada por documentos.
+Inicialmente, afasto a preliminar de ilegitimidade passiva da ré.
+O Contrato juntado às fls. 21/34 torna incontroversa a legitimidade passiva da ré para figurar na demanda, uma vez que os serviços de internet e de telefonia foram diretamente contratados com ela pela autora. 
+A legitimidade processual deve ser buscada na relação jurídica de direito material, de modo que o Contrato de Prestação de Serviços é suficiente para comprovar a legitimidade passiva da ré, pela própria responsabilidade objetiva que lhe é imposta pelo Código de Defesa do Consumidor (artigo 14, CDC).
+Por outro lado, acolho a preliminar de ilegitimidade passiva da denunciada TIM FIBER SP LTDA.
+A relação jurídica ensejadora dos prejuízos é entre a autora e a ré denunciante, conforme restou demonstrado às fls. 21/34. 
+Não há qualquer vínculo entre as partes e a denunciada que justifique a legitimidade dessa para a demanda. A autora é clara ao afirmar que ?em nenhum momento firmou qualquer contrato com a empresa TIM FIBER, razão pela qual não há em que se falar em legitimidade para que a mesma figure no polo passivo, não havendo qualquer motivo para que a mesma seja denunciada à lide?. 
+No mais, a hipótese não se enquadra em quaisquer dos casos de denunciação da lide do artigo 70 do Código de Processo Civil, sendo inclusive vedada pelo artigo 88 do Código do Consumidor, por se tratar de relação de consumo entre autora e ré.
+No mérito, é incontroverso que as partes firmaram Contrato de Prestação de Serviços, tendo por objeto os serviços de telefonia e de internet da requerida (fls. 21/34). 
+O ponto controvertido reside na responsabilidade da ré pelos prejuízos que decorreram da falha no fornecimento de seus serviços. 
+E, nesse ponto, é importante ressaltar que o pedido de rescisão do Contrato restou prejudicado, ante a comprovação de portabilidade da requerente para outra operadora, conforme documentos de fls. 390/391. 
+Sendo assim, a presente análise se limita à multa por cancelamento do contrato e à indenização por danos morais pleiteados pela autora. 
+Com relação à multa pelo cancelamento antecipado, a Cláusula 5.5 do Contrato estabelece (fls. 23):
+
+?5.5. Cancelamento de Serviços
+Em caso de cancelamento dos produtos e/ou serviços antes de completado os meses de vigência do contrato ou pelo inadimplemento do Cliente, será devido à GVT, a título de indenização o valor correspondente de acordo com o cálculo a ser realizado:
+5.5.1 Em caso de cancelamento total ou parcial dos serviços de Dados/Internet do contrato em referência, antes de completado o prazo definido de vigência do presente contrato ou pelo inadimplemento do Cliente, será devido à GVT, a título de indenização, 40% da assinatura mensal e/ou da (s) mensalidade (s) dos serviços cancelados multiplicado pelos meses remanescentes do contrato.
+5.5.2 Em caso de cancelamento total ou parcial dos serviços de VOZ antes de completado os meses de vigência do contrato definido de vigência do presente contrato ou pelo inadimplemento do Cliente, será devido à GVT, a título de indenização, o valor correspondente a soma das assinaturas de VOZ e/ou da (s) mensalidade (s) multiplicada pelos meses remanescentes do contrato e sem aplicação dos descontos.? 
+Como pode ser observado, o Contrato de Prestação de Serviços determina que a multa por rescisão contratual só cabe em casos de cancelamento dos serviços antes do prazo ou de inadimplemento do Cliente, sendo que, em ambas as hipóteses, a multa é devida à GVT, e não à autora contratante. 
+Sendo assim, não há como atribuir interpretação diversa ao Contrato, de modo a aceitar que a multa seja estabelecida em favor da requerente, sob pena de comprometer o próprio princípio do pacta sunt servanda. 
+No tocante à indenização por danos morais, conquanto passível de sofrê-lo a pessoa jurídica, reclama demonstração plausível de ofensa à sua honra objetiva.
+E no caso concreto, não houve dano ou desprestígio da empresa pelos contratempos narrados aos autos. 
+Nesse sentido, a jurisprudência:
+Telefonia. Indenização por dano moral. Interrupção dos serviços prestados. Ausente indício de que as circunstâncias tenham caracterizado dano moral à empresa autora, sendo indevida respectiva indenização. Manutenção do decreto de improcedência. Recurso desprovido. Não foi comprovada inclusão do nome da autora em órgãos de proteção ao crédito, nem outras situações que ultrapassassem o mero dissabor da vida comercial em sociedade e se configurassem dano moral à pessoa jurídica empresária. Necessário observar que, de acordo com doutrina e jurisprudência recentes, a pessoa jurídica pode, em tese, sofrer danos morais. Porém, dada a complexidade de sua natureza, e profunda diferença entre seu fundamento e o do dano moral à pessoa física, tem-se que o causado à pessoa jurídica dependa de indícios que demonstrem real ofensa ao seu patrimônio imaterial, a justificar seu reconhecimento para fins de indenização. Isso considerado, e ausentes maiores indícios de que a empresa autora tenha sido abalada pelo erro da prestadora, forçoso reconhecer improcedente o pedido de indenização por danos morais, mantendo-se a sentença declaratória de inexigibilidade do débito apontado. (Apel. nº 0004284-34.2008/TJSP). 
+
+?PRESTAÇÃO DE SERVIÇOS INTERNET BANDA LARGA. FALHA NA PRESTAÇÃO DO SERVIÇO AÇÃO INDENIZATÓRIA - DANO MORAL INOCORRENTE Pessoa jurídica que está sujeita a dano moral, porém não da mesma forma que a pessoa física. Fatos narrados na inicial que, por si sós, não acarretam dano à imagem da autora no meio em que atua. O dano moral da pessoa jurídica deve ser encarado sob o ponto de vista da mácula à honra objetiva, à reputação, situação que não transpareceu no caso em exame Sentença mantida - RECURSO NÃO PROVIDO.? (Apel. nº 0002425-74.2009/TJSP)
+
+Ante o exposto:
+A) com resolução de mérito (art. 269, inc. I do Cód. Proc. Civil), JULGO IMPROCEDENTE a ação. Por força da sucumbência, CONDENO a autora ao pagamento das custas processuais e honorários advocatícios que fixo, por equidade, em R$ 700,00 (art. 20, § 4º, Cód. Proc. Civil);
+B) sem resolução de mérito (art. 267, inc. VI do Cód. de Proc. Civil), JULGO EXTINTA a denunciação da lide em face da denunciada TIM FIBER SP LTDA. Por força da sucumbência, condeno a ré denunciante ao pagamento das custas processuais e honorários advocatícios que fixo, por equidade, em R$ 200,00 (art. 20 § 4º Cód Proc. Civil).
+PRI
+
+São Paulo, 04 de julho de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA
+
+C E R T I D Ã O
+Certifico que nesta data fiz o registro da r. sentença retro dos presentes autos no Sistema SAJ/PG5 e baixo-os em Cartório. São Paulo, 04 de julho de 2013. Eu,..............., Escrevente, subscrevi.
+
+D A T A
+Em São Paulo, 04 de julho de 2013, recebi estes autos em Cartório.Eu,...............Escrevente, subscrevi.
+C E R T I D Ã O
+Certifico e dou fé, em cumprimento à Lei 11.608 de 29.12.2003, que o valor do preparo, para o caso de recurso, é de R$ ..................... (valor singelo) e R$ .......................... (valor corrigido) - Cód. 230- Guia GARE e o valor do porte de remessa e retorno dos autos conforme Prov. 833/2004 é de R$ ........................  (0.... Volume(s ))- Cód. 110-4- FEDTJ. São Paulo, 04 de julho de 2013.
+______________________________________________
+p/Escrivã(ão).
+
+R E M E S S A
+Certifico e dou fé haver remetido à imprensa oficial a sentença/certidão de fls. retro e supra. São Paulo, 04 de julho de 2013. Eu, .............., Escrevente, subscrevi.

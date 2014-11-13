@@ -1,0 +1,71 @@
+
+
+SENTENÇA
+
+Processo Físico nº:0031905-06.2012.8.26.0001
+Classe - AssuntoProcedimento Ordinário - Interpretação / Revisão de Contrato
+Requerente:Maria Zelia de Miranda Macedo
+Requerido:Itaú Unibanco S/A.
+
+
+
+
+Juiz(a) de Direito: Dr(a). Marcus Vinicius Rios Gonçalves
+
+
+
+Vistos.
+
+
+MARIA ZÉLIA DE MIRANDA MACEDO, qualificada nos autos, ajuizou ação revisional de contrato, cumulada com consignação em pagamento e indenização por danos morais, pelo procedimento ordinário, em face de ITAÚ UNIBANCO S/A.
+
+Narra a petição inicial que a autora firmou com a empresa ré um contrato de financiamento para aquisição do veículo descrito na inicial. O valor total financiado foi de R$ 65.130,74, o qual deveria ser pago em 36 parcelas, no valor de R$ 2.672,89. 
+
+Porém, o contrato estava eivado de nulidades. Os juros pactuados, de 2,28% ao mês, são abusivos e foram calculados de forma capitalizada, em detrimento da súmula 121 do Supremo Tribunal Federal, configurando-se a prática de anatocismo, uma vez que fora aplicada a tabela PRICE como sistema de amortização da dívida. Requer que tais encargos abusivos sejam afastados e que seja aplicado o método GAUSS, como sistema de amortização. Insurge-se ainda contra a cobrança de comissão de permanência e contra os juros de mora superiores a 2%.
+
+Em decorrência dos abuso, a autora teria sofrido danos morais, decorrentes da cobrança de valor superior ao que era devido.
+
+Com esses argumentos, requereu a autora a revisão do contrato, afastando-se as cláusulas abusivas, com a consignação do valor incontroverso e a devolução, em dobro, dos valores pagos a maior. 
+
+Regularmente citado, o réu apresentou contestação, alegando que as tarifas estabelecidas no contrato são lícitas, nos termos do acórdão proferido pelo Superior Tribunal de Justiça em Recurso Especial repetitivo. O contrato foi livremente pactuado, e o autor tinha conhecimento prévio de seu conteúdo. As cláusulas que cuidam da capitalização de juros e da cobrança de tarifas foram postas em evidência no instrumento. Como o réu é instituição financeira, não há a limitação aos juros remuneratórios prevista na Lei de Usura e a capitalização é expressamente autorizada pela Medida Provisória no. 2.170 ? 36. Alega, por fim, que não houve dano moral.
+
+Diante disso requereu a improcedência do pedido.
+
+Réplica às fls.  172 e ss.
+
+É o relatório.
+
+DECIDO. 
+
+A questão controvertida é exclusivamente de direito, razão pela qual conheço diretamente do pedido, em julgamento antecipado da lide (art. 330, I, do Código de Processo Civil).
+
+Trata-se de ação revisional de cláusulas contratuais em que não consta dos autos o contrato de financiamento objeto da revisão pretendida. Foi determinado ao banco réu que exibisse o contrato. No entanto, ele não o fez e, conforme petição de fls. 235, informou que não mais o possui. 
+
+A autora informa que os juros foram calculados de forma capitalizada. A capitalização de juros é, em princípio, permitida, desde que expressamente pactuada, conforme jurisprudência pacificada do Superior Tribunal de Justiça, no Resp 973827/RS (em que foi proferida decisão para os fins do art. 543-C do Código de Processo Civil): "É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados antes de  31/3/2000, data da publicação da Medida Provisória nº 1.963-17/2000, em vigor como MP nº 2.170-01, desde que expressamente pactuada; 2) A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada".
+
+Entretanto, ante a ausência do contrato, que não foi apresentado pelo réu, não há como se apurar se a capitalização, mensal ou anual, fora convencionada. Sendo incerta sua estipulação, e uma vez não comprovada a pactuação expressa, deve ser afastada sua incidência.
+
+Sob o mesmo argumento e diante da impossibilidade de se verificar a taxa de juros contratada pela ausência do instrumento contratual, os juros remuneratórios devem ser limitados à taxa média de mercado, divulgada pelo Banco Central e praticada nas operações semelhantes no período, exceto se mais vantajosa a aplicada pela instituição financeira no período da normalidade.
+
+Os juros de mora devem incidir de acordo com a taxa legal de 1% ao mês.
+
+No que tange à comissão de permanência, fica também afastada sua incidência no período da inadimplência, tendo em vista a inexistência da comprovação de pactuação expressa. Sobre os valores efetivamente devidos, não poderá incidir multa superior a 2%, como postulado pela autora na inicial.
+
+Nesse sentido: 
+
+"Revisional de contrato de financiamento ? Julgamento pelo colegiado nos termos do art. 515, § 1.º, do Código de Processo Civil ? Ausência do contrato ? Inexigibilidade das tarifas de análise de crédito e emissão de boletos ? Limitação dos juros remuneratórios à taxa média de mercado, exceto se mais vantajosa a aplicada pela instituição financeira no período da normalidade ? Precedentes do Superior Tribunal de Justiça ? Impossibilidade da incidência do anatocismo e da comissão de permanência pela incerteza da estipulação ? Recurso conhecido, em parte, e parcialmente provido, prejudicado o agravo retido. (APELAÇÃO nº 0024578-98.2012.8.26.0004 APELANTE: ANDRÉ RUBENS DE SOUZA APELADO: ITAÚ UNIBANCO S/A COMARCA: SÃO PAULO. Julgado em 23 de julho de 2014 - 38ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo VOTO Nº 3344)"
+
+Por fim, não há como acolher o pedido de indenização por danos morais, uma vez que eles só se caracterizam quando a ilícito capaz de macular a honra e a moral da autora. Não há provas de que a autora tenha sofrido danos, uma vez que não há indícios de que  seu nome tenha sido incluído no cadastro dos órgãos de proteção ao crédito. Ademais, a simples discussão de cláusulas contratuais não enseja danos morais. 
+
+Também não é caso de repetição em dobro do indébito, que pressupõe má-fé por parte do credor, que não ficou caracterizada no presente processo, em que há divergências sobre cláusulas de contrato. A repetição só seria devida se o réu, ciente de que determinados valores fossem indevidos, promovesse a respectiva cobrança, e isso não ficou demonstrado.
+
+Isto posto, e pelo mais que dos autos consta, JULGO PARCIALMENTE PROCEDENTE a ação, para o fim de afastar a incidência da capitalização, devendo os juros remuneratórios limitarem-se à taxa média de mercado, divulgada pelo Banco Central e praticada nas operações semelhantes no período, salvo se mais vantajosa a aplicada pela instituição financeira. Fica ainda afastada qualquer cobrança de comissão de permanência e multa superior a 2%. Condeno o réu a restituir à autora, de forma simples, os valores que a autora tenha comprovadamente pago a maior a esse título, ficando autorizada eventual compensação com saldo devedor remanescente, afastado o pedido indenizatório. Como a sucumbência do réu foi muito maior, ele arcará com as custas e despesas do processo, bem como honorários advocatícios de 15% do valor da causa corrigido.
+
+
+P.R.I.
+
+
+São Paulo, 31 de julho de 2014.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

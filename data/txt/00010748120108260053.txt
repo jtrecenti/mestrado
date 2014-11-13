@@ -1,0 +1,210 @@
+
+
+SENTENÇA
+
+
+Processo:0001074-81.2010.8.26.0053 - Procedimento Ordinário
+Requerente:CLARO S/A
+Requerido:Fundação de Proteção e Defesa do Consumidor - Procon/sp
+
+
+ C O N C L U S Ã O
+Em 5 de agosto de 2011, vieram estes autos conclusos.
+
+
+
+
+Vistos.
+
+CLARO S/A, qualificada na inicial, ingressou com ação anulatória, com pedido de antecipação dos efeitos da tutela, contra a Fundação de Proteção e Defesa do Consumidor de São Paulo, com o objetivo de obter a anulação do Auto de Infração nº 1649-D7, no valor de R$ 3.192.300,00 (três milhões cento e noventa e dois mil e trezentos reais).
+Relata que a autuação decorreu de denúncias de apenas dezenove consumidores, que representariam 0,0001404219% dos clientes da Autora.
+Dentre as denúncias relatadas estão:
+1. Condicionar o atendimento ao consumidor ao fornecimento de dados do mesmo, infringindo o art. 4º, § 3º, do Decreto-Federal nº 6.523/2008;
+2. Repetição da demanda do consumidor após seu registro pelo primeiro atendente, infringindo o art. 12, do Decreto-Federal nº 6.523/2008;
+3. Tempo máximo de espera para contato com atendente é maior do que 60 segundos, infringindo o art. 4º, do § 4º, do Decreto-Federal nº 6.523/2008, combinado com art. 1º, da Portaria nº 2.014/2008;
+4. Pedido de cancelamento não realizado de imediato, infringindo o art. 18, do Decreto-Federal nº 6.523/2008; e
+5. Reclamação do consumidor não solucionada em cinco dias úteis, a contar da data de emissão do protocolo, infringindo o art. 17, do Decreto-Federal nº 6.523/2008.
+A Autora, na esfera administrativa, obteve êxito em afastar as autuações em razão da violação dos arts. 12, 17 e 18, do Decreto-Federal nº 6.523/2008, restando apenas três infrações.
+Argumentou que teve apenas quatro meses para se adequar às exigências do Decreto-Federal nº 6.523/2008, promovendo a contratação de empresa terceirizada para prestar o serviço de Call Center, e que a adaptação ao tempo exigido é extremamente difícil, a considerar que o próprio PROCON não consegue efetuar o atendimento em menos de 60 segundos.
+Refutou que seu atendimento seja condicionado ao fornecimento prévio de dados do cliente, porque a Autora apenas possibilitaria ao cliente um atendimento personalizado. Caso o cliente não apresente seu número de telefone ou CPF/CNPJ, a ligação é automaticamente transferida para um atendente. Ou seja, na visão da Autora, não haveria condicionamento ao fornecimento de dados.
+Quanto ao tempo para atendimento, argumentou que eventos isolados, que fogem da previsibilidade, ocorreram, enquadrando-se a situação em caso fortuito por culpa exclusive de terceiro.
+Disse, também, que o art. 1º estabelece que o tempo deve ser contado a partir da solicitação do consumidor, e não a partir da conexão telefônica.
+Entende, ainda, que haveria nulidade no ato administrativo, na medida em que estaria desprovido de motivação, pois apenas faz remissão a parecer técnico.
+Lembrou que, apesar de terem sido afastadas três infrações das cinco supostamente praticadas pela Autora, a penalidade foi mantida no mesmo valor.
+Sustentou, por fim, que as falhas no atendimento do SAC ocorreram por fator exclusivo de terceiro (Embratel) e/ou por motivo de força maior (excesso absolutamente imprevisível de ligações).
+Subsidiariamente, postulou a redução do valor da multa, em face da desproporcionalidade.
+A tutela foi concedida a fls. 235, mas, em razão de agravo de instrumento interposto pelo PROCON, o Eg. Tribunal de Justiça reformou a decisão.
+O PROCON, em contestação, sustentou que o Decreto-Federal nº 6.523/2008, em consonância com a Lei Federal nº 8.078/90, tem o intuito de assegurar os direitos básicos do consumidor de obter informação adequada e clara sobre os serviços que contrata e a proteção contra práticas abusivas ou ilegais impostas no fornecimento desses serviços.
+Disse, também, que o direito de defesa foi assegurado no procedimento e que as infrações foram verificadas por meio de denúncias espontâneas dos consumidores.
+Entende, ainda, ter sido regular o procedimento e proporcional a multa em face da gravidade da infração.
+Houve réplica.
+É o relatório.
+
+Decido.
+
+1. A considerar que a Autora não postulou dilação probatória, nos termos determinados a fls. , passo ao imediato julgamento.
+2. Diante, então, da ausência de provas, resta afastada a alegação de ter havido fato fortuito ou culpa exclusiva de terceiros, nos termos do art. 333, inc. I, do CPC.
+Vejamos, então, a ocorrência das infrações, com base nos documentos trazidos aos autos, e lembrando que as autuações, por serem atos administrativos, gozam de presunção de veracidade e de legalidade.
+3. A primeira delas diz respeito ao condicionamento do atendimento ao prévio fornecimento de dados pelo consumidor, infração esta prevista no art. 4º, § 3º, do Decreto-Federal nº 6.523/2008, assim, redigido: O acesso inicial ao atendente não será condicionado ao prévio fornecimento de dados pelo consumidor.
+A mensagem inaugural do atendimento do Call Center, de acordo com a atuação, é a seguinte: Bom dia, bem vindo à Claro. Se você é um cliente Claro, digite o DDD e, em seguida, o número do seu celular. Se você é um cliente banda larga, digite o número do CPF ou CNPJ. Se ainda não é cliente, por favor, aguarde.
+A mensagem não é muito diferente da referida pela Autora na inicial: Bom dia, bem vindo à Claro. Para que possamos personalizar o seu atendimento, digite o número do seu celular, com DDD. Se você é um cliente banda larga, digite o número do CPF/ CNPJ. Se ainda não é cliente, por favor, aguarde.
+Nas duas situações, o consumidor, que já é cliente Claro, fica, sim, condicionado ao fornecimento prévio de dados, na medida em que a opção aguarde somente está disponibilizada para quem não é cliente Claro.
+Houve, portanto, a infração.
+4. A segunda autuação decorre do descumprimento do art. 4º, § 4º, do Decreto-Federal nº 6.523/2008, c.c art. 1º, § 1º, da Portaria MJ nº 2.014/08, que estabelece prazo máximo de sessenta segundos para contato direto com atendente.
+Primeiro, não calha o argumento de que a Autora não teria tido tempo suficiente para adequar o atendimento à nova exigência legal.
+Ora, a Autora, como empresa de grande porte, não poderia considerar que o prazo de vacatio legis de quatro meses não seria suficiente para adequação. Vale lembrar que a vigência da exigência ocorreu depois de amplo debate sobre as novas regras, de modo que as empresas estavam cientes de que deveriam melhorar o atendimento do Call Center muito antes.
+A Autora indicou, ainda, que ampliou o atendimento, de 290 (duzentos e noventa) funcionários, para cerca de 780 (setecentos e oitenta).
+Não obstante a ampliação do serviço, a medida não foi suficiente para evitar a ocorrência da infração, até porque, conforme a própria Autora lembrou, tem mais de treze milhões e meio de clientes.
+Ora, será que seria suficiente a colocação de 780 (setecentos e oitenta) atendentes diante desta gama de clientes?
+Parece que não, ou pelo menos parece que não foi suficiente, até porque cada funcionário seria responsável, em média, pelo atendimento de mais de dezessete mil clientes.
+E, pelos documentos trazidos aos autos, além de reclamações de clientes, houve fiscalização feita pelo PROCON no período de sete dias, em dias e horários diferentes, ocorrendo irregularidade em cerca de 37% das chamadas, com tempo de espera girando em torno de três a quatro minutos.
+Embora a Autora tenha certa razão em dizer que a infração somente ocorre quando ultrapassado o prazo de sessenta segundos a partir de o consumidor selecionar a opção de atendimento pessoal, a Autora não fez prova alguma no sentido de demonstrar que o prazo, a partir da opção, teria sido respeitado.
+5. O valor da multa imposta, porém, extrapola o limite do razoável.
+Não se diga que não poderia o Poder Judiciário rever o valor aplicado, porque, conforme já decidido, não socorre à apelante a alegação de que a fixação do valor da multa constitui-se em ato discricionário da Administração, impassível de revisão pelo Judiciário, pois 'erro é considerar-se o ato discricionário imune à apreciação judicial, pois só a Justiça poderá dizer da legalidade da invocada discricionariedade e dos limites da opção do agente administrativo' (Hely Lopes Meirelles in, Direito Administrativo Brasileiro, 26a edição, pág. 112). No mesmo sentido, a Jurisprudência do STJ: 'ADMINISTRATIVO - SUNAB - AUTO DE INFRAÇÃO - REDUÇÃO DE MULTA - COMPETÊNCIA DO JUDICIÁRIO - LEI DELEGADA 04/62 - INVASÃO DA ESFERA ADMINISTRATIVA - INOCORRÊNCIA ? DISSÍDIO JURISPRUDENC1AL NÃO CONFIGURADO - PRECEDENTES. É da competência do Judiciário a redução de multa aplicada na esfera administrativa, desde que o ato tenha exorbitado o princípio da legalidade. Não configurada qualquer violação de lei federal ou dissídio pretoriano, não se conhece do recurso especial' (Rec. Esp. n° 112.132/DF, rei Min. Francisco Peçanha Martins, DJ. 17.12.1999)" (TJSP, Ap. 994.05.105413-0, 8ª Câm. de Dir. Público, Rel. José Santana, v.u., j. 5.5.2010).
+De acordo com o disposto no art. 57, do Código de Defesa do Consumidor, a multa será em montante não inferior a duzentas (200) e não superior a três milhões (3.000.000) de vezes o valor da Unidade Fiscal de Referência (UFIR), ou índice equivalente que venha a substituí-lo, sendo que a graduação deve seguir o critério pertinente à gravidade da infração.
+A Portaria Normativa nº 26/06, por sua vez, estabelece os seguintes critérios para a fixação da multa:
+
+Artigo 14 - A fixação dos valores das multas nas infrações ao Código de Defesa do Consumidor (artigo 57 da Lei nº 8.078, de 11.09.90), dentro dos limites legais de 200 a 3.000.000 UFIRs, será feita de acordo com a gravidade da infração, vantagem auferida e condição econômica do fornecedor na forma da presente portaria e seu anexo.
+
+Parágrafo único - A dosimetria da pena de multa será feita em duas fases: na primeira, proceder-se-á à fixação da pena-base que será calculada em função dos critérios definidos pelo artigo 57 da Lei 8.078, de 11.09.90; em seguida, serão consideradas as circunstâncias atenuantes e agravantes previstas no artigo 19, incisos I e II, desta Portaria.
+
+Artigo 15 - As infrações serão classificadas de acordo com sua natureza e potencial ofensivo em quatro grupos (I, II, III e IV) pelo critério constante do Anexo I.
+
+Parágrafo único - Consideram-se infrações de maior gravidade, para efeito do disposto no artigo 59da Lei8.078, de 11.09.90,aquelas relacionadasnosgrupos III e IV do ANEXO I da presente Portaria Normativa. 
+
+Artigo 16 - Com relação à vantagem, serão consideradas as seguintes situações: 
+I -Vantagem não apurada ou não auferida, assim consideradas, respectivamente, as hipóteses em que não restar comprovada a obtenção de vantagem com a conduta infracional ou a infração, pelas próprias circunstâncias, não implicar na auferição desta.
+II -Vantagem apurada, assim considerada aquela comprovadamente auferida em razão da prática do ato infracional.
+
+Artigo 17- A condição econômica do infrator será aferida pela média de sua receita bruta, apurada preferencialmente com base nos 3 (três) meses anteriores à data da lavratura do auto de infração, podendo a mesma ser estimada pelo órgão.
+
+§1º - A média da receita mensal bruta estimada pela Fundação PROCON-SP poderá ser impugnada até o trânsito em julgado no processo administrativo, mediante a apresentação de ao menos um dos seguintes documentos: 
+
+I? Guia de informação e apuração de ICMS ? GIA;
+II? Declaração de arrecadação do ISS;
+III - Demonstrativo de resultado do exercício ? DRE;
+IV ? Declaração de Imposto de Renda.
+V ? Sistema Integrado de Pagamento de Impostos e Contribuições das Micro Empresas e das Empresas de Pequeno Porte ? DARF SIMPLES. 
+
+§ 2º - Na hipótese de fornecedor que desenvolva atividade de fornecimento de produto e serviço, será necessária a apresentação de documentos que comprovem a receita bruta auferida com ambas as atividades, observada a relação constante do parágrafo anterior.
+
+§ 3º - A receita considerada será referente à do estabelecimento onde ocorrer a infração, salvo nos casos de infrações que atinjam outros estabelecimentos do mesmo titular, caso em que suas receitas também deverão ser computadas.
+
+Artigo 18 -A dosimetria da pena de multa será definida através da fórmula abaixo, a qual determinará a Pena Base:
+" PE + (REC . 0,01) . (NAT) . (VAN) = PENA BASE " 
+Onde:PE- definido pelo porte econômico da empresa;REC ? é o valor da receita bruta;NAT - representa o enquadramento do grupo da gravidade da infração (Natureza);VAN ? refere-se à vantagem. 
+
+§ 1° -O porte econômico da empresa será determinado em razão de sua receita e obedecerá aos critérios de classificação para arrecadação fiscal, recebendo um fator fixo, a saber:
+a)Micro Empresa = 220;b)Pequena Empresa = 440;c)Médio Porte = 1000;d)Grande Porte = 5000.
+
+§ 2º - O elemento REC será a receita bruta da empresa, aplicando-se um fator de correção de curva progressivo quando superior a R$ 120.000,00 (cento e vinte mil reais), assim determinado:
+REC = [(VALOR DA RECEITA ? R$ 120.000,00) x 0,10] + R$ 120.000,00
+
+§ 3° - O fator Natureza será igual ao grupo do enquadramento da prática infrativa classificada no Anexo I.
+
+§ 4º - A Vantagem receberá o fator abaixo relacionado, determinado pela vantagem com a prática infrativa:
+a) Vantagem não apurada ou não auferida = 1b) Vantagem apurada = 2
+
+Artigo 19 - A Pena Base poderá ser atenuada de 1/3 (um terço) à metade ou agravada de 1/3 (um terço) ao dobro se verificadas no decorrer do processo a existência das circunstâncias abaixo relacionadas:
+
+I ? Consideram-se circunstâncias atenuantes: 
+
+a) ser o infrator primário; 
+b) ter o infrator, de imediato, adotado as providências pertinentes para minimizar ou reparar os efeitos do ato lesivo.
+
+II ? Consideram-se circunstâncias agravantes:
+a) ser o infrator reincidente, considerada para tanto decisão administrativa irrecorrível contra o fornecedor nos cinco anos anteriores à constatação do fato motivador da autuação, observando-se o disposto no § 3º, artigo 59 da Lei n.º 8.078, de 11.09.90; 
+b) trazer a prática infrativa conseqüências danosas à saúde ou à segurança do consumidor, ainda que potencialmente;
+c) ocasionar a prática infrativa dano coletivo ou ter caráter repetitivo;
+d) ter a prática infrativa ocorrido em detrimento de menor de dezoito ou maior de sessenta anos ou de pessoas portadoras de deficiência física, mental ou sensorial, interditadas ou não e ocorrido em detrimento da condição cultural, social e econômica do consumidor; 
+e) ser a conduta infrativa praticada em período de grave crise econômica ou por ocasião de calamidade.
+
+Artigo 20 - O valor da multa será reduzido nos seguintes casos, respeitados os limites do artigo 57 da Lei n.º 8.078, de 11.09.90:
+
+a) de 25% (vinte e cinco por cento) do seu valor, caso ocorra o pagamento no prazo de 30 (trinta) dias após o recebimento do Auto de Infração pelo autuado;
+b) de 15% (quinze por cento) do seu valor, caso ocorra o pagamento no prazo de 15 (quinze) dias depois de publicada primeira decisão que julgar subsistente a infração;
+c) de 5% (cinco por cento) do seu valor, caso ocorra o pagamento no prazo máximo de 15 (quinze) dias depois de publicada decisão definitiva, proferida pela Diretoria Executiva, da qual não caiba mais recurso administrativo.
+
+Parágrafo único ? Na hipótese de mera impugnação da condição econômica, os prazos acima contar-se-ão a partir da decisão desta impugnação. 
+
+No caso, a Administração justificou o valor da seguinte forma: cada uma das infrações da Autuada ao artigo 39, caput do CDC, corresponderia ao valor de R$ 3.554.738,00, levando-se em consideração apenas o porte econômico da Autuada e a gravidade da infração, já que sob a rubrica vantagem auferida não houve acréscimo algum à multa... considerando o disposto no parágrafo único do artigo 21 da Portaria Normativa do Procon nº 26/2006, ao invés de somar o valor das cinco infrações, ao valor de uma delas (já que são iguais) seria acrescido de 1/3, beneficiando a Autuada. Entretanto, em virtude da limitação da multa imposta pelo artigo 57, parágrafo único do Código de Defesa, o valor ficou aquém daquele inicialmente calculado para cada infração, de modo que o total da pena base ficou apenas em R$ 3.192.300,00. Ao contrário do que alega a Autuada, o fato de não ter sido apurada a vantagem auferida foi devidamente considerado no cálculo da multa. Tanto o é que, caso houvesse sido apurada, o valor, em tese, da pena relativa a cada infração seria bem superior a R$ 3.554.738,00... Ressalte-se que um dos objetivos da pena pecuniária é desestimular os infratores e, se a multa tiver valor irrisório, muito provavelmente o transgressor não se sentiria incomodado e o ato punitivo não atingiria seu fim: demovê-lo da reiteração das condutas que afrontem o Código de Defesa do Consumidor. É por isso que seu valor deve ser proporcional ao porte econômico da empresa, enquanto forma de tratar desigualmente os desiguais, corolário do princípio da igualdade material prescrito no art. 5º, caput, da Constituição Federal... Cumpre mencionar que o Anexo I da Portaria Normativa 26/2006 que cuida da classificação das infrações ao Código de Defesa do Consumidor é expresso, no item C.17, ao enquadrar no grupo III de gravidade as práticas abusivas decorrentes do artigo 39, como é o caso da Autuada.
+Não há prova de que a média da receita mensal estimada pelo PROCON estivesse equivocada, de modo que pertinente o valor utilizado (R$ 1.182.166.000,00).
+Porém, o ato administrativo classificou as autuações no grupo III, mas não apresentou nenhum fundamento para o enquadramento.
+Os atos passíveis de enquadramento no grupo III estão abaixo especificados:
+
+c) Infrações enquadradas no grupo III:
+
+1. deixar de reparar os danos causados aos consumidores por defeitos decorrentes de projeto, fabricação, construção, montagem, fórmulas, manipulação, apresentação ou acondicionamento de seus produtos ou serviços, bem como prestar informações insuficientes ou inadequadas sobre sua utilização e riscos (art. 12);
+
+
+2. deixar de reparar os danos causados aos consumidores por defeitos relativos à prestação dos serviços, bem como prestar informações insuficientes ou inadequadas sobre sua fruição
+e riscos (art. 14);
+
+3. colocar no mercado de consumo produtos ou serviços em desacordo com as normas regulamentares de fabricação, distribuição ou apresentação ou, se normas específicas não existirem, pela Associação Brasileira de Normas Técnicas ou outra entidade credenciada pelo Conselho Nacional de Metrologia, Normalização e Qualidade Industrial ? CONMETRO (arts. 18, § 6º, II, e 39, VIII);
+
+4. colocar no mercado de consumo produtos ou serviços inadequados ao fim a que se destinam ou que lhe diminuam o valor (arts. 18, § 6º, III, e 20);
+
+5. colocar no mercado de consumo produtos ou serviços em desacordo com as indicações constantes do recipiente, da embalagem, da rotulagem ou mensagem publicitária, respeitadas as variações decorrentes de sua natureza (art. 19);
+
+6. deixar de empregar componentes de reposição originais, adequados e novos, ou que mantenham as especificações técnicas do fabricante, salvo se existir autorização em contrário do consumidor (art. 21);
+
+7. deixar as concessionárias ou permissionárias de fornecer serviços públicos adequados, eficientes, seguros e, quanto aos essenciais, contínuos (art. 22);
+
+8. deixar de cumprir a oferta, publicitária ou não, suficientemente precisa, ou obrigação estipulada em contrato (arts. 30 e 48); acrescentado  pela Portaria Normativa Procon 36, de 15 de outubro de 2010.
+
+9. deixar de assegurar a oferta de componentes e peças de reposição enquanto não cessar a fabricação ou importação do produto (art. 32); renumeradopela Portaria Normativa Procon 36, de 15 de outubro de 2010.
+
+10. impedir ou dificultar o acesso gratuito do consumidor às informações existentes em cadastros, fichas, registros e dados pessoais e de consumo arquivados sobre ele, bem como sobre as suas respectivas fontes (art. 43); renumeradopela Portaria Normativa Procon 36, de 15 de outubro de 2010.
+
+11. manter cadastro de consumidores sem serem objetivos, claros, verdadeiros e em linguagem de fácil compreensão, ou contendo informações negativas referentes a período superior a cinco anos (art. 43, § 1º); renumeradopela Portaria Normativa Procon 36, de 15 de outubro de 2010.
+
+12. inserir ou manter registros, em desacordo com a legislação, nos cadastros ou banco de dados de consumidores (artigos 43 e §§ e 39, caput); renumeradopela Portaria Normativa Procon 36, de 15 de outubro de 2010.
+
+13. inserir ou causar a inserção de informações negativas não verdadeiras ou imprecisas em cadastro de consumidores (art. 43, § 1º); renumeradopela Portaria Normativa Procon 36, de 15 de outubro de 2010.
+
+14. deixar de comunicar por escrito ao consumidor a abertura de cadastro, ficha, registro e dados pessoais de consumo, quando não solicitada por ele (art. 43, § 2º); renumeradopela Portaria Normativa Procon 36, de 15 de outubro de 2010.
+
+15. deixar de retificar, quando exigidos pelo consumidor, os dados e cadastros nos casos de inexatidão ou comunicar a alteração aos eventuais destinatários no prazo legal (art. 43, § 3º); renumeradopela Portaria Normativa Procon 36, de 15 de outubro de 2010.
+
+16. fornecer quaisquer informações que possam impedir ou dificultar acesso ao crédito junto aos fornecedores, após consumada a prescrição relativa à cobrança dos débitos do
+consumidor (art. 43, § 5º); renumeradopela Portaria Normativa Procon 36, de 15 de outubro de 2010.
+
+17. deixar o fornecedor de manter em seu poder, na publicidade de seus produtos ou serviços, para informação dos legítimos  interessados, os dados fáticos, técnicos e científicos que dão sustentação à mensagem (art. 36, parágrafo único); ou deixar de prestar essas informações ao órgão de defesa do consumidor quando notificado para tanto (art. 55, § 4º); renumeradopela Portaria Normativa Procon 36, de 15 de outubro de 2010.
+
+18. promover publicidade enganosa ou abusiva (art. 37 e §§ 1º, 2º e 3º); renumeradopela Portaria Normativa Procon 36, de 15 de outubro de 2010.
+
+19. realizar prática abusiva (art. 39); renumeradopela Portaria Normativa Procon 36, de 15 de outubro de 2010.
+
+20. deixar de entregar orçamento prévio discriminando o valor da mão-de-obra, dos materiais e equipamentos a serem empregados, as condições de pagamento, bem como as datas de início e término dos serviços (art. 40); renumeradopela Portaria Normativa Procon 36, de 15 de outubro de 2010.
+
+21. deixar de restituir quantia recebida em excesso nos casos de produtos ou serviços sujeitos a regime de controle ou tabelamento de preços (art. 40, § 3º); renumeradopela Portaria Normativa Procon 36, de 15 de outubro de 2010.
+
+22. desrespeitar os limites oficiais estabelecidos para o fornecimento de produtos ou serviços sujeitos ao regime de controle ou de tabelamento de preços (art. 41); renumeradopela Portaria Normativa Procon 36, de 15 de outubro de 2010.
+
+23. submeter, na cobrança de débitos, o consumidor inadimplente a ridículo ou qualquer tipo de constrangimento ou ameaça (art. 42); renumeradopela Portaria Normativa Procon 36, de 15 de outubro de 2010.
+
+24. apresentar ao consumidor documento de cobrança de débitos sem informação sobre o nome, endereço e o número de inscrição no Cadastro de Pessoas Físicas ? CPF ou no Cadastro Nacional de Pessoa Jurídica ? CNPJ do fornecedor do produto ou serviço correspondente (art. 42-A acrescido pela Lei Federal nº 12.039, de 1ª de outubro de 2009); renumeradopela Portaria Normativa Procon 36, de 15 de outubro de 2010.
+
+25. deixar de restituir ao consumidor quantia indevidamente cobrada pelo valor igual ao dobro do excesso (art. 42, parágrafo único); renumeradopela Portaria Normativa Procon 36, de 15 de outubro de 2010.
+
+26. inserir no instrumento de contrato cláusula abusiva (art. 51); renumeradopela Portaria Normativa Procon 36, de 15 de outubro de 2010.
+
+27. exigir multa de mora superior ao limite legal (art. 52, § 1º); renumeradopela Portaria Normativa Procon 36, de 15 de outubro de 2010.
+
+28. deixar de assegurar ao consumidor a liquidação antecipada do débito, total ou parcialmente, mediante redução proporcional dos juros e demais acréscimos (art. 52, § 2º); renumeradopela Portaria Normativa Procon 36, de 15 de outubro de 2010.
+
+29. inserir no instrumento de contrato cláusula que estabeleça a perda total das prestações pagas em benefício do credor que, em razão do inadimplemento, pleitear a resolução do contrato e a retomada do produto alienado (art. 53); renumeradopela Portaria Normativa Procon 36, de 15 de outubro de 2010.
+
+30. deixar de prestar informações sobre questões de interesse do consumidor descumprindo notificação do órgão de defesa do consumidor (art. 55, § 4º). renumeradopela Portaria Normativa Procon 36, de 15 de outubro de 2010.
+
+Ora, não encontro tipicidade nos itens acima mencionados, valendo lembrar que as infrações foram descumprir o prazo de sessenta segundos para atendimento pessoal e exigir dados para o atendimento prévio.
+Na verdade, não verifiquei tipicidade fechada em nenhum dos itens, também em relação aos demais grupos, de modo que as infrações devem ser enquadradas no grupo I em face do disposto no item 7: prática infrativa não enquadrada em outro grupo.
+Sobre o tema, ensina Celso Antonio: o fato de a lei conferir ao administrador certa liberdade (margem de discrição) significa que lhe deferiu o encargo de adotar, ante a diversidade de situações a serem enfrentadas, a providência mais adequada a cada qual delas. Não significa, como é evidente, que lhe haja outorgado o poder de agir ao sabor exclusivo de seu líbito, de seus humores, paixões pessoais, excentricidades ou critérios personalíssimos e muito menos significa que liberou a Administração para manipular a regra de direito de maneira a sacar dela efeitos não pretendidos nem assumidos pela lei aplicanda.... o excesso acaso existente, não milita em benefício de ninguém. Representa, portanto, apenas um agravo inútil aos direitos de cada qual. Percebe-se, então, que as medidas desproporcionais ao resultado legitimamente alvejável são, desde logo, condutas ilógicas, incongruentes. Ressentindo-se desde defeito, além de demonstrarem menoscabo pela situação jurídica do administrado, traindo a persistência da velha concepção de uma relação soberano-súdito (ao invés de Estado-cidadão), exibem, ao mesmo tempo, sua inadequação ao escopo legal. Ora, já se viu que inadequação à finalidade da lei é inadequação à própria lei. Donde, atos desproporcionais são ilegais e por isso fulmináveis pelo Poder Judiciário, que, em sendo provocado, deverá invalidá-los quando impossível anular unicamente a demasia, o excesso detectado (Curso de Direito Administrativo, Malheiros, 8ª ed., pp. 63/66).
+O Princípio da Proporcionalidade deve ser respeitado até mesmo quando do exercício do Poder de Polícia, conforme oriente Hely Lopes: As condições de validade do ato de polícia são as mesmas do ato administrativo comum, ou seja, a competência, a finalidade e a forma, acrescidas da proporcionalidade da sanção e da legalidade dos meios empregados pela Administração... A proporcionalidade entre a restrição imposta pela Administração e o benefício social que se tem em vista, sim, constitui requisito específico para a validade de ato de polícia, como também a correspondência entre a infração cometida e a sanção aplicada, quando se tratar de medida punitiva. Sacrificar um direito ou uma liberdade do indivíduo sem vantagem para a coletividade invalida o fundamento social do ato de polícia, pela desproporcionalidade da medida... A desproporcionalidade de um ato de polícia ou o seu excesso, equivale a abuso de poder, e, como tal, tipifica ilegalidade nulificadora da ordem ou da sanção (Direito Administrativo Brasileiro, 17ª ed., Malheiros, pp. 348/349).
+
+Com esses fundamentos, julgo procedente, em parte, a pretensão, para, mantendo a autuação por duas infrações e a receita média mensal, seja o cálculo da multa considerado como Gravidade Grupo I.
+Em face da sucumbência recíproca, cada parte deverá arcar com suas despesas e verba honorária.
+Sentença sujeita ao reexame obrigatório.
+Publique-se. Registre-se. Intimem-se.
+São Paulo, 09 de agosto de 2011.
+Marcelo Sergio - Juiz de Direito

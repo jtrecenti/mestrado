@@ -1,0 +1,85 @@
+
+
+SENTENÇA
+
+Processo nº:0168719-19.2012.8.26.0100
+Classe ? Assunto:Procedimento Sumário - Interpretação / Revisão de Contrato 
+Requerente:Vigna Advogados Associados
+Requerido:Md Tech Assessoria Em Informática Ltda
+
+
+Juiz(a) de Direito: Dr(a). Maria Fernanda Belli
+
+
+
+
+
+
+
+
+VISTOS. 
+
+
+
+
+
+
+
+
+VIGNA ADVOGADOS ASSOCIADOS, pessoa jurídica qualificada nos autos, ajuizou a presente ação, com pedido de tutela antecipada, contra MD TECH ASSESSORIA EM INFORMÁTICA LTDA., pessoa jurídica também qualificada, alegando, em síntese, que em 04.04.2012 as partes celebraram contrato de implantação e treinamento de software denominado ?Future CRM ? CRM nas nuvens?, composto pela hospedagem das informações em ambiente compartilhado na Microsoft Azure e software MDTECH SYSTEMS, comprometendo a ré à implantação e ao treinamento do sistema, à importação de dados do sistema anterior, além da manutenção e hospedagem em ambiente compartilhado, mediante a contraprestação descrita na inicial e, no entanto, o contrato não foi cumprido a contento, não apenas em razão do atraso no início de seu cumprimento, como também em virtude de inúmeros problemas técnicos apresentados. Afirma que, mesmo após inúmeras solicitações, não houve solução viável e requer a rescisão do negócio jurídico, uma vez comprovada a inexecução contratual. Pretende, em sede de cognição sumária, suspender os pagamentos mensais e, ao final, a restituição do valor pago e a condenação da ré no pagamento de indenização por danos materiais (lucros cessantes) e indenização por danos morais.
+
+A petição inicial veio instruída com documentos (fls. 21/93). 
+
+O pedido de antecipação de tutela foi deferido a fls. 95. 
+
+Citada, a ré apresentou contestação e reconvenção. Em sua defesa, argumentou, em resumo, o integral cumprimento do contrato e, ao contrário do alegado, os problemas técnicos tem origem no software anterior do autor, que dificultou a importação de dados. Sustentou que todas as solicitações técnicas formuladas pela autora foram atendidas. Insurgiu-se contra os pedidos indenizatórios, porque a autora não demonstrou os prejuízos sofridos e, ao final, requereu a improcedência de todos os pedidos. Juntou documentos (fls. 132/170). 
+
+Em sua reconvenção, pretende a ré/reconvinte a condenação da autora no pagamento da multa contratual pactuada, reafirmando a integral prestação de serviços.  
+
+Réplica a fls. 173/183.
+
+Contestação à reconvenção a fls. 184/193.
+
+Decisão saneadora a fls. 212/213. 
+
+Em audiência de instrução e julgamento, foram inquiridas duas testemunhas arroladas pelo autor (fls. 226/244).
+
+As partes ofertaram memoriais (fls. 247/249 e 250/259). 
+
+
+É O RELATÓRIO. 
+DECIDO.  
+
+
+Os pedidos são parcialmente procedentes. Conforme mencionado na decisão de fls. 212/213, o ponto nevrálgico da demanda é o descumprimento das obrigações assumidas em contrato pela ré, o que restou demonstrado após a instrução processual.
+
+Em primeiro lugar, a ré aduz que na petição inicial a parte demandante reconheceu a implantação do sistema. Contudo, a prestação de serviços não se restringe somente à implantação de software, mas também treinamento, manutenção e importação de dados. E justamente neste aspecto reside a divergência entre as partes, ou seja, invoca o autor a deficiente prestação de serviços. Neste particular, a ré não nega as dificuldades técnicas, mas atribui sua origem ao antigo software do escritório autor, fato que, no entanto, não restou comprovado; ao contrário, os revezes técnicos não foram solucionados. 
+
+De fato, a testemunha Caio Camargo Godoy asseverou que os problemas com históricos de dados e comunicação com ?Outlook? não foram resolvidos; afirmou que a ré ?tinha que fazer a exportação do nosso banco atual e importar para o deles, só que essa importação eles não conseguiram, foi o que foi vendido também? (fls. 232). No mesmo sentido, é o depoimento da testemunha Tereza Cristina Moreira da Silva.  
+Diante da inexecução contratual pela ré, de rigor a aplicação do artigo 475 do Código Civil, ou seja, a resolução contratual, de pleno direito, com efeitos ex tunc, ou seja, ?a resolução tem efeito retroativo e com a extinção decretada por essa causa devem as partes ser repostas na situação em que estavam antes de celebrarem o contrato. Significa dizer: as partes devem restituir o que receberam em razão do contrato, tanto o credor, autor da ação, como o devedor inadimplente, apenas que sobre esse ainda pesará a condenação de indenizar perdas e danos sofridos pela outra parte? (in ?Fundamentos e Princípios dos Contratos Empresariais?, coordenador Wanderley Fernandes, 2ª edição, 2012, editora Saraiva, série GV Law). Assim, o autor faz jus à restituição dos valores pagos. 
+
+Não obstante, o descumprimento do contrato culminou por inviabilizar o desenvolvimento da atividade regular do autor, para o qual resta evidente a imprescindibilidade do pleno funcionamento das ferramentas eletrônicas contratadas. Neste particular, é verdade que as perdas e danos, nos termos do artigo 402 do Código Civil, incluem os prejuízos efetivos e os lucros cessantes por efeito direto e imediato da inexecução (além do que se perdeu, o que razoavelmente deixou de ganhar). Em relação aos lucros cessantes, para que haja deferimento de indenização nesse sentido, impõe-se que fique demonstrado que a parte, em razão de determinada conduta, deixou de auferir valor certo, demonstrando, ainda, o quanto deixou de lucrar. A respeito, é a lição de Carlos Roberto Gonçalves (Responsabilidade Civil, São Paulo: Saraiva, 8ª ed., p. 630-641): "Lucro cessante é a frustração de lucro. É a perda de um ganho esperado. No entender de Ficher, 'não basta, pois, a simples possibilidade de realização do lucro, mas também é indispensável a absoluta certeza de que este teria verificado sem a interferência do evento danoso. O que deve existir é uma probabilidade objetiva que resulte no curso normal das coisas, e das circunstanciais especiais do caso concreto' (A reparação dos danos no direito civil, p. 48)". Assim, os lucros cessantes comportam ressarcimento quando comprovados, não bastando a mera expectativa. 
+A alegação genérica de que existem lucros cessantes não é suficiente. A aplicação do artigo 402 do CC não autoriza a condenação à indenização em decorrência de lucros cessantes hipotéticos. ?Ao contrário, devem ser previsíveis já na celebração do contrato, ou seja, são indenizáveis os lucros que o contratante obteria com a execução direta do contrato, e não os que seriam obtidos em decorrência de fatores diversos ou indiretos aos efeitos do contrato? (STJ, REsp n. 440.500, 2ª Turma, j. 23-10-2007, rel. Min. João Otávio). 
+
+Em suma, quando se fala em lucros cessantes, refere-se ao valor que a parte provavelmente auferiria e não a ganhos imaginários e hipotéticos, consoante ocorreu in casu. Não se trata, ademais, de perda de uma chance. Sobre o tema, já se decidiu:
+
+?A simples perda de uma chance, obter uma promoção, ganhar um concurso, etc., normalmente não é indenizável. Somente se indeniza se a chance perdida tiver algum valor, do qual a vítima se privou, dentro de um critério de razoabilidade e plausibilidade, como, por exemplo, deixar de adquirir um imóvel por culpa do tabelião, ou de ganhar um processo por falha do advogado. Assim, a perda de uma chance só é indenizável de houver a probabilidade que seria realizada e a certeza de que a vantagem perdida resultou em prejuízo (Caio Mário da Silva Pereira, Responsabilidade Civil, 2a, Edição Forense, Rio de Janeiro, p. 42). Na lição de Geneviève Viney, autora que admite a indenização pela perda de uma chance, a figura tem linhas limitadoras: a chance deve ser real e séria; o lesado deve estar efetivamente em condições pessoais de concorrer à situação futura esperada; deve haver proximidade de tempo entre a ação do agente e o momento em que seria realizado o ato futuro; a indenização deve ser menor do que o valor da chance perdida (La Responsabilité, in Traité de Droit Civil, coordenado por Jacques Ghestin, LGDJ, 1.982, ps. 341 e seguintes). Ainda que se tenha tentado estabelecer um percentual de probabilidade de obtenção do resultado esperado para que se pudesse cogitar da obrigação de indenizar, como preconiza Sérgio Savi, estabelecendo-a em 50%, o melhor critério está na aplicação do princípio da Razoabilidade? (Responsabilidade Civil por Perda de uma chance. São Paulo: Editora Atlas, 2006. p. 60-61 ? TJSP 6ª Câmara de Direito Apelação Cível nº: 0002892- 97.2012.8.26.0441, Rel. Des. Francisco Loureiro, j. 20.6.2013).
+
+No mais, o autor não faz jus à indenização por danos morais. O dano moral não afeta o patrimônio do ofendido, ao contrário, ?não é a dor, a angústia, o desgosto, a aflição espiritual, a humilhação, o complexo de que sofre a vítima do evento danoso, pois esses estados de espírito constituem o conteúdo, ou melhor, a consequência do dano? (in ?Responsabilidade Civil?, Carlos Roberto Gonçalves, 8ª edição, 2003). Trata-se, na verdade, de ?dor da alma?, interna, não palpável, mas evidentemente sentida, ao contrário do dano material, que se coaduna com a lesão patrimonial, isto é, aprecia-se o prejuízo em dinheiro, conforme a diminuição sofrida no patrimônio da vítima. 
+
+Convém registrar o magistério de Carlos Alberto Bittar, citado este trecho no v. Acórdão prolatado nos autos da Apelação Cível n.º 258.414-4/1, TJSP, 7ª Câmara de Direito Privado, rel. Des. Leite Cintra: ?São danos morais, pois, as consequências negativas de agressões a valores da moralidade individual ou social - conforme se atinja pessoa ou coletividade -, qualificadas como atentados à personalidade humana, que repugnam à ordem jurídica. Daí, a relação que se opera, através da teoria da reparabilidade por danos morais, como resposta contra o agente, para obter-se a respectiva responsabilização jurídica? (in ?Reparação de Danos Morais?, pg. 236, editora Revista dos Tribunais - 1993).
+
+No caso vertente, saliento que o pedido é possível, pois a pessoa jurídica pode ser atacada em sua honra objetiva, isto é, ?goza ela de uma reputação junto a terceiros, passível de ficar abalada por atos que afetam o seu bom nome no mundo civil ou comercial onde atua? (TJSP, Apelação Cível n.º 9.117-4, 3ª Câmara de Direito Privado, rel. Toledo César, data do julgamento 09.12.1997); contudo, não visualizo qualquer mácula, isto é, sua ?reputação e bom conceito de empresa? (JTJ 238/117, fls. 26). 
+
+Diante do exposto, JULGO PARCIALMENTE PROCEDENTES OS PEDIDOS, declaro extinto o processo com resolução de mérito, com fulcro no artigo 269, inciso I, do CPC, torno definitiva a decisão que antecipou os efeitos da tutela e declaro rescindido o contrato entre as partes por culpa da ré e condeno a ré a restituir ao autor a quantia de R$ 4.149,16 (quatro mil, cento e quarenta e nove reais e dezesseis centavos), que será corrigida monetariamente desde o ajuizamento pela tabela prática do Tribunal de Justiça de São Paulo, com incidência de juros moratórios de 1% ao mês desde a citação. Custas, despesas processuais e honorários advocatícios compensados, à luz do artigo 21, caput, do CPC. 
+
+Por consequência, JULGO IMPROCEDENTE A RECONVENÇÃO e declaro extinto o processo com resolução de mérito, nos termos do artigo 269, inciso I, do CPC. Sucumbente, arcará a ré/reconvinte com o pagamento de custas, despesas processuais e honorários advocatícios que arbitro em R$ 1.500,00 (um mil e quinhentos reais), na forma do artigo 20, §4º, do CPC. 
+
+
+P.R.I. 
+
+
+São Paulo, 12 de setembro de 2013. 
+
+MARIA FERNANDA BELLI
+                 Juíza de Direito

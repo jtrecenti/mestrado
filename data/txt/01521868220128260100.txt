@@ -1,0 +1,53 @@
+
+
+SENTENÇA
+
+Processo nº:0152186-82.2012.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Moral
+Requerente:Gabriel Luciano Cavallo
+Requerido:Banco Santander Brasil S/A e outros
+Data da Audiência:Data e Hora da Audiência Selecionada >
+
+
+
+Juiz(a) de Direito: Dr(a). Henrique Maul Brasilio De Souza
+
+
+
+
+Vistos.
+GABRIEL LUCIANO CAVALLO propôs ação indenizatória em face de FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO PADRONIZADOS ? FIDC NPL I e OUTROS.
+Causa de pedir: a despeito de decisão judicial proferida em outro expediente que declarara a inexigibilidade de determinado débito, as requeridas promoveram cobrança extrajudicial e lançaram, por conta daquela, o nome do autor no rol de maus pagadores.
+Pedidos: indenização por danos morais.
+Contestação CONSULCRED: ilegitimidade passiva; ausência de defeito na prestação do serviço; inexistência de danos morais.
+Contestação SANTANDER e FIDC-NPLI: ilegitimidade passiva do fundo; litispendência; no mérito, aduz que inexiste prova das alegações autorais, mormente se se considerar que o encerramento de uma conta corrente pressupõe a quitação de todos os débitos a ela relacionados; absoluta ausência de prova dos danos morais alegados.
+Réplica às fls. 136/142.
+É o relato do essencial.
+Fundamento e DECIDO.
+O presente feito comporta julgamento antecipado, nos termos do art. 330, inciso I, do Código de Processo Civil, pois a matéria pendente de discussão é exclusivamente jurídica.
+Acolho a preliminar suscitada pela CONSULCRED, já que mera mandatária do FIDC NPL I, verdadeiro responsável pela inscrição negativa indicada à fl. 40. Nesse sentido:
+Banco de dados - SCPC - Inscrição do CPF do autor no cadastro de inadimplentes do SCPC - Ilegitimidade da corré Consulcred Recuperadora de Ativos Ltda. reconhecida, por ser mera detentora de mandato para realização de cobrança - Débito de terceiro - Inclusão motivada por descuido do preposto da corré Lojas Renner S.A. quando da assinatura da proposta de cartão de crédito e realização da compra que originou o débito - Existência de dano moral indenizável, considerando-se a gravidade da lesão, suas consequências e a condição econômica da ré remanescente - Valor arbitrado pelo MM. Juízo "a quo" considerado adequado e suficiente - Reforma parcial da sentença. Nega-se provimento ao recurso das Lojas Renner S.A. e dá-se provimento ao recurso da Consulcred Recuperadora de Ativos Ltda. (TJSP: Apelação nº 0104499-80.2010.8.26.0100, rel. Des. Christine Santini).
+O Santander também é parte ilegítima, porque não lançou o nome do autor no SERASA (fls. 40 e 41), nem delegou a cobrança extrajudicial do débito (fls. 42/44), sobrelevando destacar que as notificações de fls. 45/46 são contemporâneas ao trâmite da ação de conhecimento ajuizada pelo autor (v. acórdão de fls. 30/37, datado de outubro/2011 ? fl. 37). Nem seria possível revolver matéria soberanamente julgada, declarando novamente a inexigibilidade de um débito. Prejudicada a arguição de litispendência.
+Em contrapartida, o FIDC NPL I é parte legítima, porque como já dito é o único responsável pelo lançamento do nome do autor no rol de inadimplentes (fl. 40).
+Quanto a ele, a ação procede.
+Embora não haja pedido declaratório expresso (fl. 10) é possível extraí-lo do contexto da exordial: ?o pedido feito com a instauração da demanda emana de interpretação lógico-sistemática da petição inicial, não podendo ser restringido somente ao capítulo especial que contenha a denominação 'dos pedidos', devendo ser levados em consideração, portanto, todos os requerimentos feitos ao longo da peça inaugural, ainda que implícitos? (STJ: AgRg no REsp 243.718/RS, rel. Min. VASCO DELLA GIUSTINA).
+A falta de documentação adequada acompanhando a resposta demonstra (ao menos processualmente) vícios na gênese da contratação. A instituição financeira cessionária não juntou cópia do contrato firmado, tampouco fez prova de o cedente do crédito haver exigido documentação pessoal do consumidor ao firmar o contrato (como RG, CPF, comprovante de renda e de residência etc.), cautela absolutamente indispensável para a segurança da contratação e preservação do interesse de terceiros. 
+Conforme Resolução nº 2.025/93 do Banco Central do Brasil, aplicada ao caso por analogia, ?para abertura de conta de depósitos é obrigatória a completa identificação do depositante, mediante preenchimento de ficha-proposta contendo...? os dados arrolados no seu art. 1º, inciso I. Conforme art. 3º, ?as informações constantes da ficha-proposta, bem como todos os elementos de identificação, deverão ser conferidos à vista da documentação competente?, determinando seu §2º que a instituição financeira mantenha arquivadas ?cópias legíveis e em bom estado da documentação? referida.
+Se por um acaso a instituição requerida fora vítima de fraudador, concorreu com ele porque seus prepostos não se acercaram da diligência necessária à perfeita realização do negócio jurídico fundamentador da inscrição negativa.
+Não se pode exigir do autor prova de fato negativo (não realização do negócio jurídico), verdadeira probatio diabolica. Frise-se, a ré não se desincumbiu do ônus correlato.
+Inexigível, portanto, o crédito questionado na proemial, indevida a inclusão do nome do autor no rol de maus pagadores (fl. 40).
+Prossigo analisando o pedido sucessivo.
+Os danos morais traduziram-se na comprovada sensação de impotência do autor ao ver seu nome lançado no rol de maus pagadores por conta de erro atribuível ao réu.
+Inexistem inscrições anteriores, nos termos do enunciado sumular nº 385 do C. Superior Tribunal de Justiça (?da anotação irregular em cadastro de proteção ao crédito, não cabe indenização por dano moral, quando preexistente legítima inscrição, ressalvado o direito ao cancelamento?).
+Quanto ao arbitramento, um norte importante para o Magistrado na fixação de uma indenização por danos morais foi estabelecido recentemente pelo C. Superior Tribunal de Justiça. Em publicação veiculada em 13/09/2009 no sítio eletrônico daquela Corte, noticiou-se a preocupação em buscar parâmetros jurisprudenciais para diversas hipóteses. Em caso semelhante ali explicitado (inscrição indevida em cadastro de inadimplentes Resp nº 1.105.974), valor equipolente a R$ 10.000,00 (dez mil reais) mostrou-se satisfatório.
+Não há peculiaridades no presente caso que autorizem o afastamento desse magistério jurisprudencial.
+CONCLUSÃO
+Por todo o exposto, julgo procedente a ação ajuizada por GABRIEL LUCIANO CAVALLO em face de FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO PADRONIZADOS ? FIDC NPL I para o fim de declarar a inexistência da relação jurídica obrigacional questionada na exordial (consubstanciada no instrumento contratual nº 0143010116498-00 ? fl. 41). Condeno o réu a pagar ao autor indenização por danos morais no valor de R$ 10.000,00 (dez mil reais), que será corrigido monetariamente a partir desta data (Súmula 362/STJ) e acrescido de juros legais (1% a.m.) desde a citação.
+Concedo a tutela específica. Oficie-se para suspensão da publicidade do apontamento negativo de fl. 40.
+Quanto à sucumbência, nos termos da Súmula 326/STJ, arcará o réu com custas e honorários advocatícios da parte autora, que fixo em 10% (dez por cento) do valor da condenação (corrigido até a efetiva liquidação).
+Extingo a relação jurídico-processual com fundamento no art. 269, inciso I, do Código de Processo Civil.
+Por fim, extingo a relação jurídico-processual havida entre GABRIEL LUCIANO CAVALLO, BANCO SANTANDER BRASIL S/A e CULSULCRED ? RECUPERADORA DE ATIVOS LTDA sem apreciação de mérito, fundamentando-me no art. 267, inciso VI, do Código de Processo Civil.
+Arcará o autor com as custas processuais correlatas, além de honorários advocatícios arbitrados em R$ 1.000,00 (mil reais), ressalvada a gratuidade deferida (fl. 51).
+P. R. I. C.
+
+São Paulo, 21 de junho de 2013.

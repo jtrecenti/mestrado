@@ -1,0 +1,90 @@
+
+
+SENTENÇA
+
+Processo Digital nº:1001406-48.2014.8.26.0002
+Classe - AssuntoProcedimento Ordinário - Empréstimo consignado
+Requerente:ROMERIO LEITE DE LACERDA JUNIOR
+Requerido:BANCO DO BRASIL S/A
+
+
+Justiça Gratuita
+
+Juiz(a) de Direito: Dr(a). Ricardo Dal Pizzol
+
+
+Vistos.
+
+
+ROMERIO LEITE DE LACERDA JÚNIOR ajuizou "ação de obrigação de fazer cc danos morais" contra BANCO DO BRASIL S/A. 
+
+Afirma o autor que: (i) é policial militar, sendo-lhe oferecido empréstimo de R$ 63.911,52, para pagamento em 96 vezes de R$ 1.445,24; (ii) tal valor supera 65% dos proventos do autor; (iii) a retenção não poderia superar R$ 661,12, equivalente a 30% dos rendimentos líquidos do autor; (iv) há capitalização indevida de juros; (v) sofreu dano moral.
+
+Tutela antecipada concedida à fl. 34. 
+
+Emenda à inicial às fls. 39/41. 
+
+Contestação às fls. 47/57. Alega o banco requerido que: (i) a lei aplicável ao caso não é a lei federal 10.820/03, mas sim o decreto estadual 51.314/06; (ii) isso porque a referida lei aplica-se apenas aos empregados regidos pela CLT e aposentados do INSS; (iii) o decreto estadual 51.314/06 autoriza descontos até 50% dos vencimentos; (iv) não há abusividade nos juros, nem capitalização indevida; (v) não houve depósito do valor incontroverso pelo autor. 
+
+Foi apresentada réplica. 
+
+É o Relatório. 
+
+
+Passo a Fundamentar. 
+
+I  Possível o julgamento antecipado da lide, pois não há necessidade de produção de outras provas. Intimadas para especificar provas, as partes nada requereram (fls. 69/74).
+
+II  No mérito, a ação deve ser julgada parcialmente procedente. 
+
+Passo a analisar os pedidos formulados, separadamente. 
+
+(a) O pedido de obrigação de fazer deve ser parcialmente acolhido. 
+
+A parcela mensal do empréstimo é de R$ 1.445,24 (fl. 28). 
+
+Os vencimentos líquidos do autor (computadas todas as verbas recebidas pelo autor, com desconto apenas do imposto de renda e da contribuição previdenciária) equivale a R$ 2.598,95 (fl. 18). 
+
+Fácil perceber, portanto, que o valor da parcela mensal do empréstimo (R$ 1.445,24) excede 30% dos vencimentos líquidos do autor (R$ 2.598,95), teto estabelecido pela lei 10.820/03. 
+
+Já decidiu o Eg. TJSP:
+
+Contrato bancário. Empréstimo. Autora que é policial militar - Desconto das parcelas diretamente do holerite e/ou da conta corrente limitado a 30% dos vencimentos líquidos da autora - Admissibilidade - Princípio da dignidade humana. Preservado o caráter alimentar da remuneração auferida. Aplicação do art. 2º, § 2º, I, da Lei 10.820/2003 Parcial procedência da ação reconhecida. Apelo da autora provido em parte para esse fim. (TJSP, 182513820098260071)
+
+DECLARATÓRIA. Mútuo bancário. Descontos em conta-corrente. Vencimentos de policial militar. Limite ao percentual de 30% dos rendimentos líquidos do mutuário. Apelo da instituição financeira. Mérito recursal dirigido à aplicabilidade do Decreto-Estadual n. 51.314/2006 e pleito de readequação do limite para o percentual de 50%. Descabimento. Possibilidade de incidência da Lei n. 10.820/03 em detrimento da legislação estadual específica. Observância dos princípios constitucionais da dignidade humana e da proteção do salário (arts. 1º, III e 7º, X, CF). Preservação do caráter alimentar da remuneração. Sentença mantida. Recurso desprovido. (TJSP, Ap. 4001997.53.2013, Rel. Rômolo Russo)
+
+TUTELA ANTECIPADA CONTRATO BANCÁRIO EMPRÉSTIMOS CONSIGNADOS PRETENDIDA LIMITAÇÃO A 30% DOS RENDIMENTOS DO MUTUÁRIO - Ação de revisão de contrato bancário c/c tutela antecipada. Deferimento parcial da tutela, determinando a limitação dos descontos a 50% do salário bruto do mutuário, por se tratar de funcionário público estadual (Policial Militar). Percentual que se obteve com base em Decretos Estaduais. Legislação federal que prevalece sobre a estadual (art. 24 e §§, da CF), e estabelece o limite de 30% dos rendimentos do mutuário, funcionário público, para pagamento de empréstimo consignado. Presença dos requisitos legais do artigo 273 do Código de Processo Civil Caráter alimentar que deve ser preservado Antecipação da tutela concedida, como postulada Precedentes do C. STJ Decisão modificada. Recurso provido.(TJSP, AI 2020971.21.2013, Rel. Marino Neto) 
+
+
+Nesses termos, o pleito deve ser acolhido, nesse ponto, para determinar que o requerido limite os descontos referentes aos empréstimos celebrados entre as partes, diretamente da folha de pagamento e/ou conta corrente, a 30% dos vencimentos líquidos do autor (computadas todas as verbas recebidas pelo autor, com desconto apenas do imposto de renda e da contribuição previdenciária), o que equivale a R$ 779,68 (30% de R$ 2.598,95). 
+
+(b) O pleito referente à capitalização de juros deve ser afastado. 
+
+A jurisprudência do STJ é pacífica no sentido de que é possível a capitalização mensal de juros nos contratos bancários celebrados após a edição da MP 1.963-17/2000. Nesse sentido: 
+?Admite-se a capitalização mensal dos juros nos contratos bancários celebrados após à vigência da Medida Provisória nº 1.963-17/2000 (reeditada sob o nº 2.170/36)?. (AgRg no REsp 861699 / RS, Min. Nancy Andrighi)
+?A capitalização mensal dos juros é vedada em contrato de abertura de crédito, permitida a anual, salvo nos contratos posteriores a 31/3/2000, data da publicação da Medida Provisória nº 1.963-17, revigorada pela de nº 2.170-36 (DJ de 24/8/01), vigente nos termos do art. 2º da Emenda Constitucional nº 32/01 (DJ de 12/9/01)?. (Resp 697379/RS, Min. Carlos A. M. Direito)
+A capitalização mensal dos juros pode ser depreendida facilmente a partir do resumo de fl. 28. Considerando que a taxa anual é de 23,43% e que a taxa mensal é de 1,77%, é evidente que os juros são capitalizados mensalmente, afinal se os juros fossem simples a taxa anual seria outra (1,77% x 12 = 21,24%). Ressalto que o STJ, no julgamento do REsp n.º 973827/RS, sob o rito dos recursos repetitivos, estabelecido no artigo 543-C do Código de Processo Civil, decidiu que a previsão no contrato bancário de taxa de juros anual superior a 12 vezes (duodécuplo) a taxa mensal é suficiente para permitir a capitalização com periodicidade inferior a um ano. Confira-se:
+
+CIVIL E PROCESSUAL. RECURSO ESPECIAL REPETITIVO. AÇÕES REVISIONAL E DE BUSCA E APREENSÃO CONVERTIDA EM DEPÓSITO. CONTRATO DE FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. CAPITALIZAÇÃO DE JUROS. JUROS COMPOSTOS. DECRETO 22.626/1933 MEDIDA PROVISÓRIA 2.170-36/2001. COMISSÃO DE PERMANÊNCIA. MORA. CARACTERIZAÇÃO.
+1. A capitalização de juros vedada pelo Decreto 22.626/1933 (Lei de Usura) em intervalo inferior a um ano e permitida pela Medida Provisória 2.170-36/2001, desde que expressamente pactuada, tem por pressuposto a circunstância de os juros devidos e já vencidos serem, periodicamente, incorporados ao valor principal. Os juros não pagos são incorporados ao capital e sobre eles passam a incidir novos juros.
+2. Por outro lado, há os conceitos abstratos, de matemática financeira, de "taxa de juros simples" e "taxa de juros compostos", métodos usados na formação da taxa de juros contratada, prévios ao início do cumprimento do contrato. A mera circunstância de estar pactuada taxa efetiva e taxa nominal de juros não implica capitalização de juros, mas apenas processo de formação da taxa de juros pelo método composto, o que não é proibido pelo Decreto 22.626/1933.
+3. Teses para os efeitos do art. 543-C do CPC:
+- "É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada."
+- "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada".
+4. Segundo o entendimento pacificado na 2ª Seção, a comissão de permanência não pode ser cumulada com quaisquer outros encargos remuneratórios ou moratórios.
+5. É lícita a cobrança dos encargos da mora quando caracterizado o estado de inadimplência, que decorre da falta de demonstração da abusividade das cláusulas contratuais questionadas.
+6. Recurso especial conhecido em parte e, nessa extensão, provido.
+ 
+Diante disso, conclui-se que a capitalização mensal de juros não foi indevida.
+
+(c) O pedido de fl. 14, item "8", deve ser afastado. 
+No que diz respeito à capitalização de juros, não houve, como visto, cobrança a maior, visto que lícita a prática. 
+No que tange aos descontos que excedem 30% dos vencimentos líquidos, também não há direito à devolução de valores, visto que não houve, a rigor, pagamento indevido, pois é fato incontroverso que o débito existe, discutindo-se apenas o limite dos descontos mensais. 
+DECIDO. 
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a ação, para OBRIGAR o requerido a limitar os descontos mensais referentes aos empréstimos celebrados entre as partes, diretamente da folha de pagamento e/ou conta corrente, à quantia de R$ 779,68 (setecentos e setenta e nove reais e sessenta e oito centavos), equivalente a 30% dos vencimentos líquidos do autor, calculados na forma da fundamentação acima. Tal determinação deverá ser aplicada a partir da parcela com vencimento em junho de 2014, sob pena de multa diária de R$ 200,00 (duzentos reais), limitada, no total, a R$ 30.000,00 (trinta mil reais), além de crime de desobediência.  
+Fica a instituição financeira requerida autorizada a revisar o número total de parcelas do contrato, sem alterar a taxa de juros (fl. 28), para permitir o pagamento do total contratado, observado o limite mensal acima para desconto (R$ 779,68). 
+Concedo a tutela antecipada na forma acima. Revogo a tutela antecipada de fls. 34/35, visto que concedida em parâmetros diversos dos adotados nesta sentença, bem como porque fixada a multa diária em valor excessivo, podendo ensejar enriquecimento sem causa. 
+Para interposição de eventual recurso, o preparo deverá corresponder a 2% (dois por cento) sobre o valor da condenação, se houver, ou do valor da causa atualizado. Transitada em julgado, certifique-se. Nada requerido, arquivem-se.
+P.R.I.C.
+São Paulo, 19 de maio de 2014.
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

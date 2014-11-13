@@ -1,0 +1,85 @@
+
+
+SENTENÇA
+
+Processo Físico nº:0072519-84.2011.8.26.0002
+Classe - AssuntoProcedimento Ordinário - Seguro
+Requerente:Massaru Murayma
+Requerido:Maritima Seguros
+
+
+Justiça Gratuita
+
+Juiz(a) de Direito: Dr(a). Ricardo Dal Pizzol
+
+Vistos.
+
+
+MASSARU MURAYMA ajuizou "ação de indenização" contra MARÍTIMA SEGUROS S/A.
+
+Afirma que está incapacitado para o trabalho, fazendo jus ao pagamento do seguro contratado, no valor de R$ 26.000,00. 
+
+Contestação às fls. 116 e seguintes. Preliminarmente, afirma que a pretensão do autor está prescrita. No mérito, afirma que o evento ocorreu após o término da apólice. Afirma, ainda, que o contrato estabelece cobertura para a invalidez "funcional", que não se confunde com a "laboral". Por fim, afirma que o limite para indenização é de R$ 14.500,00.  
+
+Foi apresentada réplica. 
+
+Foi elaborado laudo pericial pelo IMESC. 
+
+É o Relatório. 
+Passo a Fundamentar. 
+
+I ? Rejeito a alegação de prescrição. 
+
+O prazo prescricional aplicável, na hipótese, é o de 01 (um) ano (Súmula 101 do STJ). 
+
+O termo inicial do prazo prescricional, na ação de indenização, é a data em que o segurado teve ciência inequívoca da incapacidade laboral (Súmula 278 do STJ). 
+
+A ciência inequívoca, no caso, só ocorreu com o recebimento da carta de concessão da aposentadoria, que, no caso, foi emitida em 13/09/2010 (fl. 16). A data do recebimento da carta de fl. 16 é desconhecida. 
+
+Nos termos da Súmula 229 do STJ, "o pedido do pagamento de indenização à seguradora suspende o prazo de prescrição até que o segurado tenha ciência da decisão". Assim, no caso, o prazo permaneceu suspenso entre 10/03/2011 e 05/05/2011 (fls. 27/29). 
+
+No caso, ainda que se tome por base a data da emissão da correspondência de fl. 16 (13/09/2010), considerando que o prazo permaneceu suspenso entre 10/03/2011 e 05/05/2011, conclui-se que não ocorreu prescrição, na medida em que a ação foi ajuizada em 19/10/2011 (fl. 02). 
+
+II ? No mérito, a ação deve ser julgada parcialmente procedente.  Senão vejamos. 
+
+Sem razão o requerido, inicialmente, quando alega que o fato gerador ocorreu após o encerramento da apólice. Os documentos juntados aos autos, assim como a perícia realizada, evidenciam que a incapacidade é anterior ao fim da apólice (30/06/2008). Tanto isso é verdade que o autor já recebia benefício previdenciário em data anterior ao fim da apólice.
+
+O laudo pericial concluiu pela existência de incapacidade laboral total e permanente (fls. 200 e 223), mas afastou a incapacidade funcional para as atividades da vida diária (fls. 200, 223 e 244) , como locomoção, comunicação, alimentação, higienização, etc. 
+
+A apólice de seguro, a princípio, prevê cobertura apenas para a incapacidade funcional, caracterizada pela inviabilidade do pleno exercício de 03 funções autonômicas do segurado (transportar-se, comunicar-se, vestir-se, alimentar-se, higienizar-se). Vide, nesse sentido, fls. 125/127. 
+
+A jurisprudência do Eg. TJSP é absolutamente majoritária, todavia, no sentido de que tal disposição é abusiva, por restringir em demasia o conceito de incapacidade. Nesse sentido:
+
+Seguro de vida em grupo. Ação de cobrança. Pedido de indenização por incapacidade funcional por doença. Ação julgada improcedente. Prescrição. Não ocorrência. Lapso que começa a fluir da data do conhecimento da incapacidade permanente. Prevalência da data da carta de concessão de aposentadoria de 03/05/2012. Propositura da ação em 23/10/2012. Prescrição não ocorrente. Incidência do Código de Defesa do Consumidor que autoriza a inversão do ônus da prova. Aplicação do art. 6º, VIII do Código de Defesa do Consumidor. Possibilidade de indenização apenas em hipótese que cause perda da existência independente. Abusividade. Afronta ao princípio da função social do contrato. Suficiência da incapacidade total e permanente para o trabalho decorrente de doença. Processo irreversível que obriga a retirada do segurado do mercado de trabalho. Convicção respaldada pela concessão da aposentadoria pelo INSS. Indenização devida. Improvimento do agravo retido e provimento da apelação. (...) (TJSP, 002443-67.2012.8.26.0590, Rel. Kioitsi Chicuta)
+
+?Esta Câmara tem reiteradamente entendido que a invalidez do segurado deve ser aferida em concreto, levando-se em consideração a profissão por ele exercida, bem como a possibilidade de retorno ao mercado de trabalho. Isso porque as seguradoras exigem a condição vegetativa, ou a existência de doença em fase terminal, para que o segurado possa fazer jus à indenização. Todavia, a falta de habilitação para toda e qualquer profissão, bem como para as atividades diárias, tornaria inócua a previsão e cobertura para a invalidez decorrente de doença. Ademais, privaria o consumidor de direito decorrente da própria natureza do contrato, além de ferir sua função social, impossibilitando troca justa e útil. Isso porque a cobertura para invalidez é levada em consideração para o cálculo do prêmio, não obstante a indenização quase nunca seja devida. E, quando devida, revela-se inútil. Em tais circunstâncias, não poderia prevalecer a cláusula contratual, pois fere o princípio da função social do contrato, cláusula geral que deve ser respeitada em toda avença, sob pena de nulidade? (apelação nº 9107130-81.2009.8.26.0000, Rel. Des. Gomes Varjão, 25/06/2012).
+
+
+APELAÇÃO. SEGURO DE VIDA E ACIDENTES PESSOAIS. AÇÃO DE INDENIZAÇÃO. INVALIDEZ FUNCIONAL TOTAL POR DOENÇA. ABUSIVIDADE DA CLÁUSULA RESTRITIVA. NECESSIDADE DE COMPROVAÇÃO DE INCAPACIDADE TOTAL PARA O TRABALHO. RECURSO IMPROVIDO.
+Levando em consideração a função social do negócio jurídico securitário (art. 421, do CC/2002), bem como os deveres de lealdade e informação adequada, inerentes à boa-fé objetiva, o contrato de seguro com cobertura em caso de invalidez funcional por doença deve ser entendido como aquele que tem por objetivo assegurar a impossibilidade do exercício de atividades para as quais o segurado tinha aptidão, não se podendo exigir que esteja em estado vegetativo. Entender de forma distinta ofenderia a dignidade do ser humano e os preceitos do CDC, o que não se pode admitir? (Apelação nº 0006423-26.2011.8.26.0573, Rel. Des. Adilson de Araújo, 31ª Câmara, J. 23/07/2013).
+
+
+SEGURO DE VIDA E ACIDENTES PESSOAIS AÇÃO DE COBRANÇA C/C INDENIZATÓRIA - Cobertura para incapacidade funcional total e permanente por doença, entendida como impossibilidade do exercício de atividades para as quais o segurado tenha aptidão - Exigência de quadro incapacitante e irreversível para o pleno exercício das relações autonômicas - Inadmissibilidade - Afronta ao CDC Indenização securitária devida - Danos morais descabidos Discussão contratual - Ação extinta, com resolução de mérito Recurso parcialmente provido, nos termos do art. 515, §2º, do CPC. (TJSP, 0002048-54.2008.8.26.0097, Rel. Melo Bueno)
+
+
+No caso, além de comprovada pelo laudo pericial, a incapacidade total e permanente para o trabalho foi reconhecida pelo INSS, que concedeu a aposentadoria por invalidez ao autor. Assim, a indenização é devida. 
+
+Passo à análise do valor da indenização. 
+
+O valor do seguro é de R$ 14.500,00, conforme fl. 143, e não R$ 26.000,00, como afirmado na inicial, sem qualquer substrato. 
+
+DECIDO. 
+
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a ação, para CONDENAR a requerida a pagar ao autor a quantia de R$ 14.500,00 (quatorze mil e quinhentos reais), acrescida de correção monetária, conforme a Tabela Prática do TJSP, a partir do ajuizamento da demanda, e de juros de mora de 1% ao mês, desde a citação. 
+
+Sem condenação em custas, despesas ou honorários advocatícios, em face da sucumbência recíproca. 
+
+Para interposição de eventual recurso, o valor deverá corresponder a 2% (dois por cento) sobre o valor da condenação, se houver, ou do valor da causa atualizado, e deverá ser recolhido a título de porte de remessa e retorno dos autos o valor de R$ 29,50 por volume, observando-se o disposto na Lei 11.608/03. Transitada em julgado, certifique-se. Nada requerido, arquivem-se.
+
+PRIC
+
+
+São Paulo, 29 de julho de 2014.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

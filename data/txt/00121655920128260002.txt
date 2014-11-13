@@ -1,0 +1,93 @@
+
+
+SENTENÇA
+
+Processo nº:0012165-59.2012.8.26.0002
+Classe - AssuntoEmbargos À Execução - Nulidade / Inexigibilidade do Título
+Embargante:Maria Aparecida Cardoso Frosini Lucas Evangelista
+Embargado:Daniel Nogueira de Albuquerque Rodrigues
+
+
+
+
+Juiz(a) de Direito: Dr(a). Regina de Oliveira Marques
+
+CONCLUSÃO
+
+Aos   17 de julho de 2013, faço estes autos conclusos ao(à) MM(a). Juiz(a) de Direito: Dr(a). Regina de Oliveira Marques. Maria Aparecida Costa Silva, Assistente Judiciário, M803233.
+
+
+                                  Vistos.
+
+
+MARIA APARECIDA CARDOSO FROSINI LUCAS EVENGELISTA opôs EMBARGOS À EXECUÇÃO que lhe move DANIEL NOGUEIRA DE ALBUQUERQUE RODRIGUES argüindo que teria contratado o embargado para prestar serviços em 02 computadores que apresentavam problemas de configuração de impressora no valor de R$ 300,00. O embargado informou que faria ?backup? e recuperar os arquivos existentes; entretanto, o serviço não foi adequadamente prestado, não conseguindo a embargante acessar os dados, restando que o embargado alegou terem os arquivos sido corrompidos, sendo que não realizou o backup. Assim, a embargante contratou outra empresa cujo técnico atestou que os arquivos teriam sido destruídos pelo embargado, não havendo que se falar em pagamento da cártula exequenda. Requereu a procedência dos embargos e improcedência da execução com sua extinção, além de condenação do embargado aos ônus da sucumbência. Deu á causa o valor de R$ 358,44. Juntou documentos.
+
+O embargado impugnou a folhas 34/38 arguindo intempestividade dos embargos. No mérito asseverou que a cártula foi sustada sem justificativa e que os serviços foram devidamente prestados, restando intacto o débito, sendo o título exigível, descabendo discussões sobre a origem do débito. Requereu a improcedência dos embargos e a condenação da embargante no ônus da sucumbência.
+
+Audiência de instrução frustrada diante da ausência do embargado ou quem o representasse. Deferimento de memoriais às partes.
+
+Juntada de documentos pela embargante a folhas 66/74.
+
+Memoriais da embargante a folhas 76/79 e do embargado a folhas 81/83.
+ 
+É o Relatório.
+DECIDO.
+
+Como se sabe, orienta a disciplina do título executivo o princípio da tipicidade. A esse respeito, ensina Cândido Rangel Dinamarco que "o elenco dos títulos executivos em dada ordem jurídica e os contornos da configuração de cada um deles vêm traçados na lei e só se considera título o ato ou fato que se enquadrar no modelo traçado abstratamente, sem resíduos ou ampliações. Parodiando prestigiosa máxima em vigor entre os penalistas, é lícito dizer que não há título sem lei anterior que o defina. É preciso dar à tipicidade do título executivo rigidez análoga à que vigora em matéria criminal, respeitando o princípio da reserva legal também a esse respeito e vedada, portanto, a analogia?.
+
+É título executivo aquele que a lei descreve como tal e o embargado efetivamente dispõe de 04 títulos executivos, pois se encontra amparada na disposição do artigo 585, I, do CPC, que atribui exequibilidade ao crédito decorrente de cheque.
+
+"in verbis":
+
+"Art. 585. São títulos extrajudiciais:
+
+I-  a letra de câmbio, a nota promissória, a duplicata, a debênture e o cheque.
+
+Trata-se de execução fundada em título executivo extrajudicial, consistente em 01 cheque emitido pela embargante ao embargado em razão de contrato verbal de prestação de serviços técnicos de informática cujo pagamento foi sustado em razão de a embargante asseverar falta de prestação do objeto do contrato.
+
+Muito embora seja o cheque caracterizado como ordem de pagamento  à vista, título abstrato e desvinculado de sua causa subjacente, a jurisprudência vem excepcionalmente admitindo a discussão dessa causa subjacente como a exposta na presente demanda, ou seja, Exceções pessoais, ligadas ao negócio subjacente, somente podem ser opostas a quem tenha participado do negócio.: 
+
+?CAMBIAL - Cheque - Possibilidade de discussão da "causa debendi" entre as partes originárias do negócio - Alegação de descumprimento do pacto tal como firmado Incontrovérsia - Inexigibilidade da cártula, tal como cobrada - Reconhecimento de parte da dívida - Embargos à monitoria procedentes, para declarar exigível apenas parte do débito - Recurso provido para esse fim? (TJSP, Apelação 7.202.200-9, 14ª Câmara, rel. Des. Melo Colombi, j. 16/04/2008);
+
+ ?EMBARGOS À EXECUÇÃO ? CHEQUES - Alegação de autonomia dos títulos e inoponibilidade das exceções pessoais Discussão - Possibilidade em casos excepcionais - Emitente dos títulos que comprovou efetivamente o desfazimento do negócio subjacente - Crédito cedido que deixa de existir - Faturizador que não se cercou das cautelas necessárias sobre a origem das cártulas - Situação a justificar a não aplicação do princípio da inoponibilidade das exceções pessoais ao terceiro de boa-fé - Recurso não provido.? (TJSP, Apelação 7.146.449-2, 14ª Câmara, rel. Des. Mario de Oliveira, j. 26/03/2008); 
+
+EXECUÇÃO DE TITULO EXTRAJUDICIAL - Cheque - Possibilidade de discussão acerca da ?causa debendi? nos embargos, porquanto a autonomia e independência do cheque em relação à relação jurídica que o originou é presumida, porém não absoluta Recurso provido.? (TJSP, Apelação 932.498-5, rel. Des. Núncio Theophilo Neto, j. 29/02/2008).
+
+Como já se decidiu, ?Se, por um lado, a cambial é papel moeda dos comerciantes, por outro, se levada a autonomia às últimas consequências, em certas situações essa abstração cambial poderia se tornar fonte de prejuízo para as partes e estímulo à fraude e à má-fé?.
+
+ Por isso mesmo, absolutamente pertinente a ponderação de Egberto Lacerda Teixeira (A Nova Lei Brasileira do Cheque Editora Saraiva, 4- Edição, 1998, pág. 43) de que modernamente tem-se abrandado o rigorismo da abstração ou autonomia: "em certos casos concretos, [ela, a abstração, cede espaço] em favor da eqüidade, da justiça e da própria segurança dos negócios causais. O título tornou-se bifronte, isto é, abstrato em relação aos portadores de boa-fé, porém causal nas relações diretas entre os sujeitos da relação jurídica subjacente?.
+
+Isto porque o embargado exequente não prestou os serviços adequadamente, conforme se extrai dos documentos acostado aos autos a folhas 16/17 que comprovam que a embargante teve a necessidade de contratar novo técnico para reparar os danos causados aos seus computadores pelo ora embargado. 
+
+A folhas 17 comprova-se todo o trabalho de restauração realizado pelo  novo técnico, depois da contratação do embargado e mais, que o embargado instalou sistema operacional não original, deixou de configurar os aparelhos e programas.
+
+A folhas 67 dados de mensagem telefônica onde o embargado confirma que deletou os arquivos, confessando que não os possuía.
+
+Dessa forma, não pode exigir da Embargante o cumprimento da obrigação de pagamento dos serviços como avençado originariamente nos termos do artigo 476 do Código de Processo Civil, ou seja, Exceção de contrato não cumprido.
+
+Ora se o cheque foi emitido para pagamento dos serviços quando comprovado vício que fulminou o próprio contrato, justa se torna a contra ordem para obstar o pagamento do título.
+
+O embargado nada trouxe aos autos que comprovasse a prestação dos serviços para os quais foi contratado e conforme ensinamentos do Des. e Professor Arruda Alvim in ?Manual de Direito Processual Civil?, vol. 2º, ?a parte não poderá fazer prova absolutamente negativa, a não ser que a prova possa ser convertida em afirmativa e, então, o problema se resolverá de conformidade com o disposto no artigo 333, I do CPC, ou seja, o autor prova fato constitutivo e o réu o fato em que se consubstancia a afirmação conducente à inocorrência do fato constitutivo?.
+
+Nesse passo, portanto, insta proclamar o acolhimento dos embargos diante da inexigibilidade do título, porquanto devidamente comprovada a não prestação dos serviços contratados que ensejou a emissão do cheque sob exame.
+
+Posto isto, JULGO PROCEDENTES os presentes EMBARGOS À EXECUÇÃO opostos para EXTINGUIR a execução outrora proposta ao fundamento de inexigibilidade do título exeqüendo com fundamento no artigo 269 do Código de Processo Civil.
+
+CONDENO o embargado ao pagamento de custas e despesas processuais, além de honorários advocatícios, que fixo em 10% do valor da ação, considerando o julgamento antecipado da lide.
+
+Para fins de preparo para eventual recurso de apelação fixo, conforme artigo 4ª, inciso II, da lei 11.608/03, o valor dado à causa.
+
+P.R.I.C.
+
+São Paulo, 17 de julho de 2013.
+
+Regina de Oliveira Marques
+         Juíza de Direito
+
+
+
+
+
+São Paulo, 17 de julho de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

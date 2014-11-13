@@ -1,0 +1,123 @@
+
+
+SENTENÇA
+
+Processo nº:0623126-52.2008.8.26.0001 - Procedimento Sumário
+Requerente:Nilton Alvares
+Requerido:Banco Abn Amro Real S/A.
+
+
+Juiz(ª) de Direito Dr.(ª): Enéas Costa Garcia
+
+
+Vistos. 
+
+1. NILTON ALVARES, qualificado nos autos, ingressou com ação contra BANCO ABN AMRO REAL S/A, alegando, em síntese, que: a) mantém junto ao requerido conta corrente, tendo celebrado apenas dois contratos: cheque especial e empréstimo pessoal em conta corrente; b) recebeu comunicação do SERASA informando sobre iminente restrição de crédito em razão dos contratos indicados na inicial; c) notificou o banco para exibição de cópia dos contratos e respectivos valores, sendo que os valores indicados não correspondiam com o montante comunicado ao SERASA; d) os valores são indevidos; e) o réu desconhece o valor exato da dívida, apresentando valores divergentes; f) nos contratos celebrados entre as partes não há previsão da taxa de juros, o que enseja aplicação do Código Civil; g) os juros aplicáveis devem ser de 12% ao ano; h) deve ser afastada a capitalização de juros. 
+Pretende o acolhimento do pedido para cancelamento da negativação, declaração de inexistência de débito, condenação do réu ao pagamento de indenização de dano moral e na forma do art. 42 do Código de Defesa do Consumidor.  
+
+2. Havia sido concedida tutela antecipada (fls. 38), a qual foi posteriormente revogada por força de Agravo de Instrumento (fls. 98/99, 732/738).
+
+3. O réu foi citado e apresentou contestação (fls. 81/87). Alega em defesa: a) inépcia da inicial; b) decadência; c) que o autor celebrou dois contratos, encontrando-se inadimplente quanto ao pagamento das prestações convencionadas; d) que a variação dos valores decorre da consideração das parcelas vencidas e do montante total do débito; e) que há previsão contratual da taxa de juros aplicada na operação; f) que é permitida a capitalização mensal de juros; g) que incabível a indenização reclamada.    
+
+4. Veio aos autos a réplica (fls. 110/112). O feito foi saneado (fls. 132), com rejeição das preliminares e designação de prova pericial. Veio aos autos o laudo (fls. 158/210 e 790/796), com manifestação das partes. 
+É o relatório. 
+
+DECIDO.
+
+5.  A ação é PARCIALMENTE PROCEDENTE. 
+
+5.1 - O autor insurgiu-se contra a negativação de crédito, afirmando que esta teria ocorrido de maneira desarrazoada. Sustentou que o banco teria apresentado valores contraditórios quanto ao débito, divergentes em relação às comunicações enviadas ao banco de dados. 
+Não assiste razão ao autor quanto ao ponto. 
+Conforme se constata da perícia (fls. 192/193) os lançamentos referem-se ao contrato de cheque especial atrelado à conta corrente e dois outros contratos de empréstimo. 
+A explicação do requerido, no sentido de que as comunicações variaram de valor porque correspondiam à prestação vencida e saldo devedor, procede. 
+A perícia, à luz dos extratos bancários, também confirmou a existência dos contratos de empréstimo pessoal, no montante de R$ 20.000,00 e R$ 12.000,00 (fls. 195).
+ Portanto, improcede o questionamento do autor quanto à existência dos contratos e divergências. 
+
+5.2 ? Insurge-se o autor quanto à capitalização de juros, em especial no contrato de cheque especial. 
+O requerido defende a admissibilidade da capitalização mensal de juros, invocando a Medida Provisória nº 2.170-36/2001.
+Realmente a jurisprudência orientou-se neste sentido, admitindo capitalização mensal de juros, com base na Medida Provisória. 
+Porém, existe um requisito imprescindível para aplicação da norma: a expressa pactuação da capitalização de juros em prazo inferior a um ano:
+
+Agravo regimental. Contrato de abertura de crédito em conta corrente. Capitalização mensal. MP 2.170-36. É permitida a capitalização mensal nos contratos bancários celebrados a partir de 31.03.2000 (MP 1.963-17, atual 2.170-63), desde que pactuada. (STJ ? AgRgAg. nº 562712/RS - Rel. Min.  Humberto Gomes de Barros ? j. 30/11/04)
+
+Agravo regimental. Contrato de abertura de crédito em conta corrente. Capitalização mensal. MP 2.170-36. Inaplicabilidade. Comissão de permanência. Limitação a taxa pactuada. Honorários advocatícios. Fixação do valor em fase de liquidação. É permitida a capitalização mensal nos contratos bancários celebrados a partir de 31.03.2000 (MP 1.963-17, atual 2.170-63), desde que pactuada. (STJ ? AgRgResp. nº 615136/RS - Rel. Min. Humberto Gomes de Barros ? j. 18/11/04)
+
+No caso sub judice o réu não demonstrou que a capitalização mensal, aplicada no contrato de cheque especial, teria sido contratada. 
+A existência de capitalização mensal dos juros foi claramente constatada na perícia (fls. 183/184).
+Mas, não há demonstração da existência de previsão contratual a respeito. A propósito, sequer foi apresentado o contrato de cheque especial. 
+Como observou o perito: Vale ressaltar que nos autos consta apenas a Proposta Para Abertura de Conta Integrada Pessoa Física (fls. 16/17), data em 21/02/2002 onde ficou pactuado o Contrato de Cheque Especial com Limite inicial de R$ 700,00 sem indicação da taxa de juros a ser cobrado. As demais informações foram identificadas nos extratos de conta corrente fornecidos pelo Banco Requerido (Anexo 01). Portanto, não consta nenhuma informação quanto aos encargos moratórios previsto no Contrato de Cheque Especial. (fls. 109).
+Em outras palavras: o réu invoca a norma que autoriza capitalização de juros em prazo inferior a um ano, contudo, não demonstrou que esta capitalização havia sido contratada, o que afasta o pressuposto de aplicação da norma mencionada.
+Assim, do contrato de cheque especial deve ser expurgada a capitalização mensal de juros, seguindo-se a regra geral da lei civil de capitalização anual dos saldos em conta corrente. 
+O perito efetuou tal cálculo, conforme Anexo 3 (fls. 595 ss) e fls. 208 do laudo.  
+Portanto, no que concerne à capitalização deve ser acolhido o pedido em relação ao contrato de cheque especial, afastando-a. 
+Em relação aos demais contratos o problema não se coloca, pois se trata de empréstimo com prestações fixas e a forma de amortização aplicada não é ilícita. 
+
+5.3 ? Alega o autor que o contrato firmado entre as partes não estabeleceu as taxas de juros aplicadas pela instituição financeira (fls. 4), o que levaria à aplicação do Código Civil. 
+Em relação ao contrato de empréstimo nº 03224281.3 o argumento não procede, pois todas as condições da operação foram determinadas (fls. 109), mas em relação ao contrato de cheque especial e ao empréstimo nº 93.6650082 assiste razão ao autor. 
+Os contratos sequer foram apresentados pelo credor, ônus que lhe competia.
+Alega o réu que o saldo devedor foi apurado conforme contratado, mas não consegue demonstrar a existência da contratação nestes termos. 
+O perito, à luz dos extratos, conseguiu retroativamente determinar qual a taxa de juros aplicada, mas não houve por parte do réu demonstração da mencionada contratação. 
+Estabelecida esta premissa (não houve contratação da taxa de juros no contrato de cheque especial e no empréstimo nº 93.6650082), cabe analisar se a consequência seria aquela proposta pelo autor (aplicação dos juros legais do Código Civil).
+A jurisprudência do Superior Tribunal de Justiça já enfrentou o tema, estabelecendo regra de julgamento: a) não havendo estipulação da taxa de juros o contrato bancário não perde seu caráter oneroso; b) necessário verificar se há limite legal à taxa de juros; c) inexistindo limitação os juros devem ser fixados conforme a taxa média aplicada no mercado. 
+Esta a orientação do Superior Tribunal de Justiça:
+
+A nulidade da cláusula em comento evidencia-se seja por abusividade (art. 51, X, do CDC) seja por ser potestativa (art. 122, do CC/02; 115 do CC/16). Assim, têm-se apenas duas possibilidades: (i) a primeira, é a de simplesmente extirpar a disposição do contrato, considerando não pactuados os juros remuneratórios (arts. 168, parágrafo único e 169, do CC/02); (ii) a segunda, seria a de estipular a taxa de juros a ser cobrada, segundo a intenção das partes, para ajustar a disposição nula, nos termos do art. 170 do CC/02. 
+A primeira hipótese, de se considerar não pactuados os juros, não deve prosperar, porque, mesmo quando não são previstos no contrato, a incidência dos juros se presume nos empréstimos destinados a fins econômicos, nos termos do art. 591 do CC/02, aplicável aos contratos firmados no período anterior à sua vigência, no que diz respeito à regência dos respectivos efeitos, de acordo com o art. 2.035 do CC/02 (REsp. nº 691.738/SC). Conforme sustentei, juntamente com o Ministro Sidnei Beneti e a Desembargadora Vera Andrighi, ao analisar o art. 591 do CC/02 nos mútuos contratados com fins econômicos, o mutuário recebe o empréstimo, sob o compromisso de restituí-lo, juntamente com uma remuneração ao mutuante, chamada de juros, prevalecendo tal regra mesmo naquelas hipóteses em que as partes silenciaram sobre a retribuição ao empréstimo . Vale dizer que as partes que queiram contratar gratuitamente mútuo com fins econômicos só poderão fazê-lo se, por cláusula expressa, excluírem a incidência de juros. (Comentários ao Novo Código Civil, Vol. IX. Rio de Janeiro: Forense, 2008, pp 156-157).
+Assim, o caminho é o da segunda hipótese, ou seja, deve-se preencher a omissão do contrato, em relação aos juros que deixaram de ser previstos na disposição reputada lacunosa. A partir daí, surgem dois desdobramentos possíveis: a) perquirir se há previsão legal para o limite de juros, na espécie, ou b) caso não haja esse limite legal, deve-se proceder à integração do contrato, de acordo com a vontade presumida das partes.
+Nos termos da jurisprudência do STJ, não há previsão legal que limite os juros remuneratórios para as operações realizadas por instituições financeiras. Nesse sentido, entre outros, é o Recurso Especial Repetitivo n.º 1.061.530/RS, de minha relatoria, 2ª Seção, DJe de 10/03/2009.
+Assim, ante a ausência de dispositivo legal indicativo dos juros aplicáveis, torna-se necessário interpretar os negócios jurídicos, tendo em vista a intenção das partes ao firmá-los, de acordo com o art. 112 do CC/02. Essa intenção, nos termos do art. 113, deve ter em conta a boa-fé, os usos e os costumes do local da celebração do contrato.
+A jurisprudência do STJ tem utilizado para esse fim a taxa média de mercado. Essa taxa é adequada, porque é medida segundo as informações prestadas por diversas instituições financeiras e, por isso, representa o ponto de equilíbrio nas forças do mercado. Além disso, traz embutida em si o custo médio das instituições financeiras e seu lucro médio, ou seja, um spread médio. (...)
+
+(STJ - REsp 1112879/PR, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 12/05/2010, DJe 19/05/2010)
+
+
+O acórdão tem a seguinte ementa:
+
+BANCÁRIO. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CLÁUSULAS DE CONTRATO BANCÁRIO. INCIDENTE DE PROCESSO REPETITIVO. JUROS REMUNERATÓRIOS.
+CONTRATO QUE NÃO PREVÊ O PERCENTUAL DE JUROS REMUNERATÓRIOS A SER OBSERVADO.
+I - JULGAMENTO DAS QUESTÕES IDÊNTICAS QUE CARACTERIZAM A MULTIPLICIDADE.
+ORIENTAÇÃO - JUROS REMUNERATÓRIOS 1 - Nos contratos de mútuo em que a disponibilização do capital é imediata, o montante dos juros remuneratórios praticados deve ser consignado no respectivo instrumento. Ausente a fixação da taxa no contrato, o juiz deve limitar os juros à média de mercado nas operações da espécie, divulgada pelo Bacen, salvo se a taxa cobrada for mais vantajosa para o cliente.
+2 - Em qualquer hipótese, é possível a correção para a taxa média se for verificada abusividade nos juros remuneratórios praticados.
+II - JULGAMENTO DO RECURSO REPRESENTATIVO - Consignada, no acórdão recorrido, a abusividade na cobrança da taxa de juros, impõe-se a adoção da taxa média de mercado, nos termos do entendimento consolidado neste julgamento.
+- Nos contratos de mútuo bancário, celebrados após a edição da MP nº 1.963-17/00 (reeditada sob o nº 2.170-36/01), admite-se a capitalização mensal de juros, desde que expressamente pactuada.
+Recurso especial parcialmente conhecido e, nessa parte, provido.
+Ônus sucumbenciais redistribuídos.
+
+(STJ - REsp 1112879/PR, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 12/05/2010, DJe 19/05/2010)
+
+
+Portanto, improcede a alegação do autor no sentido de que deveriam ser aplicados juros legais de 1% a.m. Trata-se de contrato bancário, no qual não se aplica a limitação do Código Civil. 
+Ademais, tal pretensão seria contrária à boa-fé e aos usos e costumes comerciais, pois é notória a inexistência de contrato de crédito bancário submetido a tal taxa de juros. 
+Haveria até mesmo enriquecimento indevido por parte do contratante, que estaria usufruindo crédito bancário por meio de taxa de juros simplesmente inexistente no mercado. 
+Assim, conforme a orientação jurisprudencial supra exposta, seria caso de buscar a taxa média do mercado, inclusive com apoio na publicação realizada regularmente pelo BACEN. 
+No contrato de cheque especial os juros mensais variaram de 11,75% (1995- fls. 595) até 8,38% a.m. (2008 ? fls. 697).
+Segundo a planilha do BACEN (http://www.bcb.gov.br/?TXCREDMES), em setembro/2008 a taxa de juros anual para contrato de cheque especial era de 170,24%, o que daria cerca de 14,18% a.m.
+Assim, não se pode afirmar que o referido contrato tenha aplicado juros em descompasso com a média do mercado, devendo prevalecer as taxas aplicadas. 
+Em relação ao contrato de empréstimo nº 9366500802, celebrado em janeiro/2007, a perícia constatou juros de 4,400% a.m.
+Na mesma época, a planilha do BACEN indica juros anuais, no crédito pessoal, de 57,23% a.a., o que equivaleria a 4,769% a.m.
+Logo, não se pode afirmar que os juros cobrados seriam irregulares, discrepantes da média do mercado. 
+Ademais, tratava-se de contrato de prestações fixas, de modo que também deve ser considerada a vontade das partes, o consenso quanto ao valor que seria pago. 
+Enfim, mesmo não tendo os contratos estipulado a taxa de juros, não incide o limite do Código Civil, devendo ser analisada a taxa média do mercado e, neste contexto, não houve irregularidade na contratação. 
+
+5.4- Improcede o pedido de indenização de dano moral e aplicação art. 42 do Código de Defesa do Consumidor.
+Existia débito, mesmo com adoção da tese do autor. A negativação não foi ilícita, afastando a pretensão de indenização de dano moral.
+Em princípio a negativação estava conforme os termos contratuais, conforme apurado pela perícia. Somente no curso do processo houve declaração de nulidade da capitalização, de modo que tal fato afasta a pretensão indenizatória e de aplicação do art. 42 do Código de Defesa do Consumidor.
+O Superior Tribunal de Justiça já se manifestou neste sentido em caso no qual a cobrança indevida somente foi reconhecida a partir da decisão judicial:
+
+DIREITO CIVIL. PLANO DE SAÚDE. REAJUSTE POR MUDANÇA DE FAIXA ETÁRIA.
+RESTITUIÇÃO EM DOBRO COM BASE NO CDC. IMPOSSIBILIDADE.
+I - A jurisprudência das Turmas que compõem a Segunda Seção do STJ é firme no sentido de que a repetição em dobro do indébito, prevista no art. 42, parágrafo único, do CDC, pressupõe tanto a existência de pagamento indevido quanto a má-fé do credor.
+II - No caso, a iniciativa da empresa ré de reajustar as prestações do seguro saúde, com base na alteração da faixa etária, encontra-se amparada em cláusula contratual - presumidamente aceita pelas partes -, que até ser declarada nula, gozava de presunção de legalidade, não havendo razão, portanto, para se concluir que a conduta da administradora do plano de saúde foi motivada por má-fé.
+Recurso Especial provido.
+
+(STJ - REsp 871.825/RJ, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 12/08/2010, DJe 23/08/2010)
+
+ 
+6. Diante do exposto, JULGO PARCIALMENTE PROCEDENTE o pedido para declarar a nulidade da capitalização de juros no contrato de cheque especial, com recálculo do débito na forma apurada no Anexo 3 da perícia, obtendo-se o saldo devedor global (contrato de cheque especial, contrato empréstimo nº 93.665008-2 e contrato de empréstimo nº 03.224281-3) de R$ 6.436,19 (sei mil, quatrocentos e trinta e seis reais e dezenove centavos) a favor do Banco Requerido, na data do laudo pericial (10/05/2010), conforme fls. 208/209. 
+Tendo em vista a sucumbência recíproca, considerando a extensão da redução do débito, cada parte arcará com pagamento de metade das custas e despesas processuais, compensando-se os honorários advocatícios.
+
+
+P. R. I
+
+
+São Paulo, 25 de fevereiro de 2011.

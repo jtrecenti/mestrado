@@ -1,0 +1,107 @@
+
+
+TERMO DE AUDIÊNCIA
+
+Processo:0045058-25.2011.8.26.0007 - Procedimento do Juizado Especial Cível
+
+IDENTIFICAÇÃO DAS PARTES
+
+Autor(a)(es)(as):Andréia Ferreira do Nascimento
+Réu(é)s:Banco Santander Brasil S/A 
+
+
+DATA, HORA E LOCAL
+
+Data e horário: 14/08/2012 às 15:00h 
+Local: Sala de Audiências da Vara do JUIZADO ESPECIAL CÍVEL DE ITAQUERA
+
+
+PRESENÇAS
+
+MM(a). Juiz(a) de Direito: Eduardo Francisco Marcondes
+Escrevente: ELISANGELA ADAMUZ NUNES SOARES
+
+Autor(a)(es)(as) desacompanhado(a)(s) de Advogado(a). O(A) MM(a). Juiz(a) nomeou para o ato o(a) Dr(a). CONCEIÇÃO APARECIDA CORAZIN, OAB/SP nº 213.384 (Lei nº 9.099/95, art. 9º, § 1º).
+
+Réu(é)(s)  representado(a)(s) pelo(a) Sr(a). VANDERLEI DIAS DE LIMA, RG nº 46.054.843-8 (SSP/SP) e assistido(a) pelo(a) Dr(a).  MARIUSA BISPO DOS SANTOS, OAB/SP nº 193.045.
+
+CONCILIAÇÃO
+
+A tentativa de conciliação resultou infrutífera.
+
+DEFESA
+ 
+O(s) réu(é)(s)  apresentou(aram) defesa escrita.  
+
+RÉPLICA
+
+A réplica foi apresentada oralmente, nos seguintes termos: ?MM(a). Juiz(a), reitero os termos da inicial, que não restaram abalados pela(s) defesa(s) apresentada(s)?.
+
+INSTRUÇÃO
+
+Não foram colhidos depoimentos.
+Pelas partes foi dito que não havia outras provas a produzir.
+
+JULGAMENTO
+
+Pelo MM. Juiz foi proferida a seguinte SENTENÇA:
+Vistos.
+Dispensado o relatório, conforme o art. 38 da Lei nº 9.099/95,
+D E C I D O.
+Passo a apreciar o mérito.
+Este processo trata de fatos semelhantes a outros que são objeto de inúmeros processos contra o mesmo Banco Santander e que tramitam por este JEC: é creditada uma certa quantia na conta da parte autora, com histórico de ?transferência?, proveniente de outra conta mantida junto ao réu por alguém que não está identificado nos autos (informação que o réu não apresenta no processo), e, ato contínuo, são efetuados saques cuja soma atinge aquele valor creditado ou dele se aproxima muito. Mas não pára por aí: assim que o consumidor leva os fatos ao conhecimento do réu, este procede, na conta da parte autora, ao estorno a débito da quantia que fora creditada pela transferência, em geral lançando o histórico ?LCTO A DEBITO ? SAC?.  Supõe?se que o réu faça esse estorno para devolver o dinheiro ao outro cliente titular da conta da qual partiu aquela transferência inicial. Isso implica em concluir que o réu reconheceu que ocorreu uma fraude, em razão da qual aquela transferência inicial foi feita.
+No caso presente, há a peculiaridade de que, dos fatos acima relatados, ocorreu apenas a transferência de R$ 1.690,00, em 26/05/2011, a crédito da conta corrente da autora, mas não houve os saques e tão pouco o lançamento a débito denominado SAC.
+Vale dizer: os fraudadores, por algum motivo não conhecido, não conseguiram sacar aquele dinheiro da conta da autora e o resultado é que há R$ 1.690,00 na conta da autora que não lhe pertencem.
+Até aí não havia problema para a autora, mas o réu bloqueou sua conta.
+Ora, nesse contexto o que se conclui é que o réu imputou a prática da ilicitude à parte autora, pois a prejudicou, bloqueando o acesso à conta, o que implica em descumprimento do contrato de abertura de conta corrente.
+Desde que o réu imputa ato ilícito à parte autora, tinha o ônus de produzir tal prova, que não pode ser exigida da parte autora, na medida em que, a par de se presumir a boa fé do consumidor, este não pode ser obrigado a produzir prova de fato negativo, ou seja, de que não praticou aquele ato ilícito.
+O réu não indicou como ocorreu a tal transferência, de maneira que pudesse imputar à parte autora responsabilidade pela sua realização, até mesmo porque essa responsabilização pela transferência era pressuposto para que o réu efetuasse o bloqueio de sua conta bancária.
+Não é razoável isentar a responsabilidade do banco, sob o argumento de culpa exclusiva de terceiro. 
+Ocorre que o sistema informatizado do réu não é inviolável. Ao contrário: é de conhecimento público, verdadeiro fato notório, a enorme quantidade de fraudes praticadas por hackers e por outras pessoas com conhecimento em tecnologia da informação, mediante clonagem dos dados utilizados nas operações bancárias efetuadas com o uso de cartão magnético e senha. E isso acontece mesmo quando são utilizados sistemas auxiliares de segurança além da senha, como, por exemplo, as ?letras de acesso?.
+E tão pouco se pode excluir a responsabilidade do réu sob o fundamento da culpa exclusiva de terceiro, tal seja o estelionatário que aplicou o golpe, pois a responsabilidade pela segurança do sistema é do réu, enquanto fornecedor, e a ação do terceiro ocorreu justamente em cima de falha da segurança, que é, portanto, plenamente imputável ao réu, que responde pelos danos sofridos pela parte autora.
+Existem sistemas de segurança que poderiam ser usados pelo réu, tais como aqueles que envolvem biometria, mas que são desprezados em razão do elevado custo que representam para as operações. Ora, desde que o risco do negócio é do fornecedor, não é razoável que este, ao deixar de efetuar os investimentos necessários para manter a segurança, transfira ao consumidor o risco decorrente justamente da insuficiente segurança que forneceu.
+É o que basta para se concluir que a culpa não foi exclusiva do consumidor, nem de terceiro, e que, portanto, o réu deve lhe devolver o valor indevidamente retirado de sua conta.
+Houve danos morais. Caracteriza mais do que mero aborrecimento ver o consumidor ser bloqueada sua conta bancária sem que o depositário, a quem confiou a guarda de seu dinheiro, apresente justifica razoável para o ocorrido e, ainda, sem que este assuma sua responsabilidade, pela qual, aliás, era remunerado pelo consumidor.
+Nesse contexto, arbitro o valor de R$ 5.000,00 para a indenização por danos morais.
+DISPOSITIVO:
+Em razão do exposto, JULGO PROCEDENTE a ação para:
+a.) condenar o réu a regularizar a conta bancária da autora, estornando o crédito indevido e todos os lançamentos efetuados a partir de então, de maneira a restabelecer o último saldo registrado antes daquele lançamento indevido de R$ 1.690,00 em 26/05/2011, e desbloquear a conta da autora, tudo no prazo de 48 horas a contar desta audiência, do que sai intimado na forma do art. 273 do CPC, sob pena de multa diária de R$ 100,00, até o total de 30 dias, ou seja, R$ 3.000,00, o que se converterá automaticamente em indenização em favor da autora ao final do prazo, sem prejuízo do cumprimento da obrigação, com correção monetária desde hoje pela tabela do TJSP e de juros moratórios de 1% ao mês desde a data da citação, conforme arts. 405 e 406, do Código Civil c.c. art. 161, §1º, do Código Tributário Nacional;
+b.) condenar o réu a pagar à parte autora a quantia de R$ 5.000,00 (cinco mil reais), por danos morais, com acréscimo de correção monetária desde hoje pela tabela do TJSP (Sum. 362 do STJ) e de juros moratórios de 1% ao mês desde a data da citação, conforme arts. 405 e 406, do Código Civil c.c. art. 161, §1º, do Código Tributário Nacional.
+Honorários, custas  e despesas processuais: não há condenação ao pagamento de honorários e de custas e despesas processuais, porque incabíveis nesta fase processual do Juizado Especial Cível (Lei nº 9.099/95, arts. 54 e 55).
+
+PUBLICAÇÃO, INTIMAÇÃO E ENCERRAMENTO
+
+Publicada a sentença em audiência, ficam as partes intimadas: 
+(a) do prazo de dez dias para apresentação de recurso, que não possui efeito suspensivo do julgado (art. 43, da Lei 9099/95); 
+(b) do prazo de 48 horas para efetuar o pagamento do preparo do recurso, a partir da interposição, sob pena de deserção (art. 42, § 1º, da Lei 9099/95), bem como pagamento do porte de remessa e retorno (item 66, do Provimento CSM nº 806/2003, de 10.11.03, com a redação do Provimento  884/2004, DJE 23.09.2004). O valor do preparo deve ser a soma de 1% (um por cento) do valor da causa ou cinco UFESPS, o que for maior, mais 2% (dois por cento) do total da condenação ou cinco UFESPS, o que for maior, ressalvada a gratuidade da justiça deferida à parte recorrente, quando efetivamente concedida nos autos. 
+REGISTRE-SE. 
+Eu, ___________________, escrevente acima identificado, digitei, providenciei a impressão e subscrevi.
+
+ATENÇÃO: este documento, que foi produzido eletronicamente na forma da Lei nº 11.419/2006, contém a assinatura digital do(a) MM. Juiz(a) de Direito no original e a(s) assinatura(s) física(s) da(s) parte(s) na 1ª cópia juntada aos autos.
+
+
+ASSINATURAS:
+
+
+
+ASSINADO DIGITALMENTE
+
+EDUARDO FRANCISCO MARCONDES
+Juiz de Direito
+
+
+
+
+
+Autor(a)
+
+
+Advogado(s) do(a) Autor(a)
+
+
+
+
+Réu(é)
+
+
+Advogado do(a) Réu(é)

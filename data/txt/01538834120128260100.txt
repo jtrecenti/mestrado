@@ -1,0 +1,90 @@
+
+
+SENTENÇA
+
+Processo nº:0153883-41.2012.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Obrigação de Fazer / Não Fazer
+Requerente:Digibase Base de Dados Digitais Ltda e outro
+Requerido:Ominitech Eletrônicos Ltda
+
+
+
+
+
+
+ Vistos,
+
+
+Trata-se de ação de obrigação de não fazer c.c. perdas e danos proposta por DIGIBASE - BASE DE DADOS DIGITAIS LTDA. E NNG KFT contra OMINITECH ELETRÔNICOS LTDA. Alegam em síntese, ser a primeira autora pessoa jurídica de direito privado que desenvolve e licencia o uso de mapas digitais georreferenciados que, por sua vez é produzido pela empresa Tele Atlas North America Inc. e, em parceria com a segunda autora, a representam no Brasil na formatação e comercialização do denominado pacote operacional IGO/TELE ATLAS.
+
+Ocorre quem muito embora sejam as únicas representantes no Brasil, a empresa ré vem comercializando em seu website a venda de GPS marca da Foston, o qual estão inseridos software e mapa de titularidade das autoras, sem que para isso tenha adquirido as licenças necessárias. 
+
+Assim, diante da contrafação, requer que a ré cesse imediatamente a comercialização dos equipamentos da marca Foston; cesse o uso do nome e marca da IGO e TELE ATLAS em qualquer meio, anúncio, comunicação ou propaganda, bem como seja condenada a indenizar as autoras pelos lucros cessantes e dano morais. 
+
+A inicial veio instruída com os documentos de fls.18/133.
+
+A liminar foi concedida, ocasião em que foi determinado que a ré cessasse de imediato a comercialização dos equipamentos referidos, se abstendo de se utilizar o nome e a marca IGO e Tele Atlas, bem como a busca e apreensão dos equipamentos (fls.138/139).
+
+Após ser citada, a ré apresentou contestação a fls.144/155, arguindo a preliminar de carência da ação e falta de interesse de agir. Quanto ao mérito alega jamais ter comercializado o equipamento mencionado, bem como sustenta a inocorrência de dano material e moral indenizável. Ao final, requer a improcedência da ação.
+
+Réplica a fls.167/176.
+
+FUNDAMENTO E 
+DECIDO.
+
+Após serem instadas, as partes pugnaram pelo julgamento antecipado do feito, diante do desinteresse na produção de outras provas. Assim, de rigor o julgamento da lide, nos termos do artigo 330, inciso I, do Códig de Processo Civil.
+
+A preliminar arguida, por confundir-se com o mérito, será analisada em conjunto com este.
+
+A ação é parcialmente procedente.
+
+A autoras demonstraram nos autos, serem as únicas representantes no Brasil (doc.06 e 07) do mapa digital georrefernciado produzido pela empresa TELE ATLAS NOTH AMERICA INC.
+
+Já a autora NNG é líder no mercado mundial de softwares de navegação, que fazem a leitura e interpretação de mapas digitais, que compõe o sistema operacional dos aparelhos GPS de veículos automotores.
+
+Assim, a autora DIGIBASE em parceria com a autora NNG comercializam o denominado pacote IGO/TELE ATLAS, já que cada aparelho GPS é composto de um software (IGO) e do mapa digital georrefenciado (TELE ATLAS), dos quais são licenciados para as empresas interessadas que com as autoras mantêm contato comercial.
+
+Ocorre que a requerida, conforme evidenciam o documento carreado aos autos (fls.117/125), disponibilizou em seu site para venda equipamento da marca "FOSTON", do qual, indevidamente, estão inseridos software e mapa de titularidades das autoras, as quais negam a concessão de licença que justificasse seu uso.
+
+Note que aludida contrafação restou devidamente demonstrada no laudo técnico e Ata Notarial (fls.107/119), em que atesta a utilização do software IGO e mapa TELE ATLAS nos dispositivos GPS da marca FOSTON.
+
+Muito embora referida prova tenha sido impugnada pela ré, esta nada fez para demonstrar o contrário, o que torna referida prova legítima e apta a demonstrar os fatos constitutivos do direito alegado pelas autoras.
+
+No caso em apreço, o regime de proteção à propriedade intelectual do programa de computador é o mesmo conferido às obras literárias pelas legislação de direitos autorais, que assim dispõe em seu artigo 104 da Lei nº 9.610/98: "Quem vender, expuser a venda, ocultar, adquirir, distribuir, tiver em depósito ou utilizar obra ou fonograma reproduzidos com fraude, com a finalidade de vender, obter ganho, vantagem, proveito, lucro direto ou indireto, para si ou para outrem, será solidariamente responsável com o contrafator, nos termos dos artigos precedentes, respondendo como contrafatores o importador e o distribuidor em caso de reprodução no exterior".
+
+Assim, ainda que a ré não tenha sido a responsável pela fraude, disponibilizou para venda em seu site o equipamento contrafeito, o que evidencia, nos termos da citada legislação, sua responsabilidade para com os fatos.
+
+Cumpre frisar que o fato de não terem sido apreendidos tais equipamento na sede da empresa ré (conforme certificado pelo oficial de justiça de fls.140), não é suficiente para isentá-la, já que a exposição à venda é inequívoca, conforme demonstram os documentos de fls.123/124 e nota fiscal de fls.121.
+
+Por outro lado, com exceção da venda noticiada na nota fiscal de fls.121, nenhum equipamento contrafeito foi apreendido, não havendo ainda prova nos autos de que outros tenham sido comercializados pela requerida, prova esta que deveria ser produzida durante a instrução na ação de conhecimento e não postergada para fase de liquidação de sentença, pois que atinente ao próprio mérito da ação.
+
+Neste contexto, o lucros cessantes deverão abranger apenas o valor constante da nota fiscal de fls.121.
+
+No tocante ao alegado dano moral, verifico a inexistência de sua ocorrência a embasar a condenação tal como pleiteado pelas autoras.
+
+Isto porque, não foi narrado nenhuma consequencia concreta e desastrosa, anormal que excedesse os limites do mero aborrecimento a que todos nós estamos sujeitos. 
+
+
+
+ PELO EXPOSTO e de tudo mais que dos autos consta, JULGO PARCIALMENTE PROCEDENTE a presente ação para determinar que a ré OMINITECH ELETRÔNICOS LTDA.:
+
+1.) se abstenha de comercializar GPS da marca FOSTON que contenham o software IGO e mapas Tele Atlas ou de se utilizar o nome e marca IGO e TELE ATLAS;
+
+2.) condenar a requerida ao pagamento de 598,36 (quinhentos e noventa e oito reais e trinta e seis centavos), devidamente atualizados pela Tabela do Tribunal de Justiça, com a incidência de juros de 1% ao mês, a partir do respectivo desembolso.
+
+Por fim, julgo extinto o processo com julgamento do mérito, nos termos do artigo 269, inciso I, do Código de Processo Civil.
+
+Diante da sucumbência mínima das autoras, condeno a ré ao pagamento de custas e despesas processuais, bem como a honorários advocatícios que fixo, por equidade em R$ 2.500,00.
+
+P.R.I.
+
+São Paulo, 21 de novembro de 2013.
+
+
+Daniela Pazzeto Meneghine Conceição
+Juíza de Direito
+
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

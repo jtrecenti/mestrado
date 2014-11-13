@@ -1,0 +1,90 @@
+
+
+SENTENÇA
+
+Processo nº:0017122-72.2013.8.26.0001 - Procedimento Ordinário
+Requerente:Terlogs Terminal Maritimo Ltda
+Requerido:Totvs S/A
+
+
+Juiz(ª) de Direito Dr.(ª): Enéas Costa Garcia
+
+Vistos. 
+
+    1. TERLOGS TERMINAL MARÍTIMO LTDA., qualificada nos autos, ingressou com ação contra TOTVS S/A, alegando, em síntese que: a) celebrou com a requerida contrato de prestação de serviço relativo ao uso de software; b) em 16/11/2012 notificou a requerida comunicando sua intenção de resilir o contrato a partir de 31/12/2012, em decorrência da insatisfação dos serviços prestados; c) após a data indicada não mais houve prestação de serviços; d) mesmo após o cancelamento do contrato a ré emitiu algumas faturas para cobrança de serviço relativo ao período de  janeiro a março de 2013; e) a ré foi notificada quanto à cobrança indevida, por ocasião do recebimento de cada lote de faturas, contudo, ainda assim procedeu restrição do nome da autora  nos Órgãos de Proteção ao Crédito.
+Pretende o acolhimento do pedido para declaração de inexigibilidade dos valores cobrados após 31/12/2012, aplicação do art. 940 do Código Civil e condenação da requerida ao pagamento de indenização por danos morais. 
+
+2. A ação foi precedida de medida cautelar, com deferimento de liminar para suspensão das restrições de crédito (fls. 91).
+
+3. A ré foi citada (fls.108) e apresentou contestação (fls.110/119). Alega em defesa que: a) as faturas emitidas correspondem ao período de carência contratual, qual seja, 180 dias, aplicada desde o pedido de rescisão unilateral e imotivada da autora; b) a cobrança tem amparo na cláusula 13.1 das condições gerais do contrato; c) inexistência de danos a serem ressarcidos.
+A contestação da ação cautelar segue os mesmos termos, havendo preliminar de falta de interesse de agir. 
+
+4. Veio aos autos a réplica (fls.177/186).
+É o relatório. 
+DECIDO.
+
+5. O feito comporta julgamento antecipado, sendo dispensável a produção de prova oral, nos termos do art. 330, I do Código de Processo Civil.
+
+6. A ação é PARCIALMENTE PROCEDENTE. 
+É incontroverso que a requerida foi notificada em 16/11/2012, comunicando a autora sua intenção de resilição unilateral do contrato, a partir de 31/12/2012. Também não há controvérsia quanto a alegação de que os serviços não foram prestados posteriormente ao termo indicado. 
+A análise das notas fiscais de fls. 64/68, 73/77 e 83/86 demonstra que a requerida emitiu cobrança sob a rubrica de suporte, instalação e manut. de prog. e banco de dados, indicando prestação dos serviços referente aos meses de 01/2013 (fls. 64), 02/2013 (fls. 73) e 03/2013 (fls. 83).
+Como observou a autora, inexiste nas referidas notas fiscais qualquer menção a cobrança de multa contratual em razão da resilição com prazo inferior ao aviso prévio previsto nas condições gerais do contrato. 
+Há que se notar que a autora enviou mais de uma comunicação impugnando a cobrança (fls. 61/63, 70/72 e 79/82), sem que houvesse resposta da requerida informando sobre a natureza da cobrança, justificando que se tratava de multa. 
+Ademais, as notas indicam prestação de serviços, o que efetivamente não ocorreu. 
+De outro lado, houvesse cobrança da multa pela resilição antecipada, caberia à requerida apresentar o cálculo proporcional do débito, tal como previsto na cláusula citada, o que não se constata nas faturas juntadas. 
+A requerida invoca as condições gerais do contrato (fls. 166) para justificar a cobrança. 
+Apesar de o termo de aceite trazer superficial referência às condições gerais registradas no 10º Cartório de Títulos (fls. 47), tal procedimento não se mostra suficiente em termos de dever de informação e vinculação do aderente ao contrato de adesão. 
+Na lição de CLÁUDIA LIMA MARQUES (Contratos no Código de Defesa do Consumidor, p. 83): O princípio geral em matéria de inclusão de CONDGs em contratos de massa pode ser por nós resumido como princípio da transparência, significando que as condições gerais unilateralmente elaboradas pelo fornecedor só integrarão o contrato se o consumidor tiver conhecimento de sua inserção no contrato, antes ou durante a celebração do contrato, e aceitar o seu uso. Se o consumidor não foi informado de seu uso, se não houve transparência, o silêncio do consumidor não será interpretado como tendo ele aceito a inclusão das CONDGS.
+E no cumprimento deste dever de informação e transparência não basta remissão genérica às condições gerais do contrato. 
+Como leciona CLÁUDIA LIMA MARQUES (ob. cit., p. 85): O segundo pré-requisito para a inclusão das CONDGs é mais subjetivo: é a possibilidade de o consumidor tomar conhecimento do conteúdo real das CONDGs. Isto é, não basta a simples menção de que CONDGs serão usadas no contrato, mas é necessário que o homem comum possa ler e entender o que significam aquelas cláusulas, quais as obrigações e os direitos que está aceitando (assim, também, a contrario sensu, art. 46 in fine, do Código do Consumidor brasileiro). Relembre-se, aqui, que não raramente o vendedor procura introduzir suas CONDGs no contrato de modo um pouco furtivo: um texto impresso em letras pequenas, de cor verde, um texto longo, de difícil leitura, impresso no verso de documentos.
+Como observa PEDRO LUIZ NETO LÔBO (Condições gerais dos contratos e cláusula abusivas, p. 106): As condições gerais, para se integrarem ao contrato individual, dependem do pleno cumprimento pelo predisponente do dever de informar e de prestar os meios de cognoscibilidade.
+Tratando-se de cláusula restritiva de direito, tal como regulam as normas de proteção do consumidor, imprescindível que haja destaque, não bastando a mera remissão a condições registradas em cartório, cujo conteúdo não foi previamente informado ao consumidor ou incorporado ao contrato individual. 
+Aplicável no caso sub judice o Código de Defesa do Consumidor, mesmo se tratando de pessoa jurídica, considerando a consagrada aplicação da teoria do finalismo aprofundado. 
+A autora é empresa de armazenagem e logística, contratando os serviços de informática da requerida, como o faria qualquer consumidor. Não se trata de assunto ligado a sua atividade profissional, verificando-se aquela situação de hipossuficiência técnica que autoriza aplicação do Código de Defesa do Consumidor. 
+Nesse sentido já decidiu o STJ:
+
+Processo civil. Conflito de competência. Contrato. Foro de eleição. Relação de consumo. Contratação de serviço de crédito por sociedade empresária. Destinação final caracterizada.
+- Aquele que exerce empresa assume a condição de consumidor dos bens e serviços que adquire ou utiliza como destinatário final, isto é, quando o bem ou serviço, ainda que venha a compor o estabelecimento empresarial, não integre diretamente - por meio de transformação, montagem, beneficiamento ou revenda - o produto ou serviço que venha a ser ofertado a terceiros.
+O empresário ou sociedade empresária que tenha por atividade precípua a distribuição, no atacado ou no varejo, de medicamentos, deve ser considerado destinatário final do serviço de pagamento por meio de cartão de crédito, porquanto esta atividade não integra, diretamente, o produto objeto de sua empresa. (STJ - CC 41056/SP, Rel. Min. ALDIR PASSARINHO JUNIOR, Rel. p/ Acórdão Ministra NANCY ANDRIGHI-  j. 23/06/04).
+
+
+Direito do Consumidor. Recurso especial. Conceito de consumidor. Critério subjetivo ou finalista. Mitigação. Pessoa Jurídica. Excepcionalidade. Vulnerabilidade. Constatação na hipótese dos autos. Prática abusiva. Oferta inadequada. Característica, quantidade e composição do produto. Equiparação (art. 29). Decadência. Inexistência. Relação jurídica sob a premissa de tratos sucessivos. Renovação do compromisso. Vício oculto.
+A relação jurídica qualificada por ser "de consumo" não se caracteriza pela presença de pessoa física ou jurídica em seus pólos, mas pela presença de uma parte vulnerável de um lado (consumidor), e de um fornecedor, de outro.
+Mesmo nas relações entre pessoas jurídicas, se da análise da hipótese concreta decorrer inegável vulnerabilidade entre a pessoa-jurídica consumidora e a fornecedora, deve-se aplicar o CDC na busca do equilíbrio entre as partes. Ao consagrar o critério finalista para interpretação do conceito de consumidor, a jurisprudência deste STJ também reconhece a necessidade de, em situações específicas, abrandar o rigor do critério subjetivo do conceito de consumidor, para admitir a aplicabilidade do CDC nas relações entre fornecedores e consumidores-empresários em que fique evidenciada a relação de consumo.
+São equiparáveis a consumidor todas as pessoas, determináveis ou não, expostas às práticas comerciais abusivas. (STJ ? Resp. nº 476.428/SC ? Rel. Min. NANCY ANDRIGHI ? j. 19/04/05)  
+
+Por fim, no caminho da análise da admissibilidade das condições gerais de contratação, superada a fase de avaliação do cumprimento do dever de informação e sua integração aos contratos individuais, proclama a doutrina que deve ser analisada a validade intrínseca das cláusulas, afastando-se eventuais cláusulas abusivas. 
+E neste sentido, como argumentou a autora, mostra-se abusiva a disposição unilateral estabelecida pela requerida, que estipula prazo excessivamente longo de aviso prévio, com consequente remuneração sem prestação de serviço. 
+A autora manifestou a vontade de extinguir o contrato com prazo suficiente, ficando afastada qualquer possibilidade de surpresa lesiva para a contraparte, não estando presentes os requisitos do art. 473, parágrafo único do Código Civil, a justificar prorrogação de prazo. 
+Assim, indevida a cobrança na forma pretendida pela requerida, pois não demonstrada adequada informação do consumidor quanto às condições gerais do contrato, mostrando-se abusiva a cláusula de resilição. 
+Procede o pedido de indenização dano moral. 
+Apesar de todas as comunicações expedidas pela autora, insurgindo-se contra a cobrança, promoveu a requerida indevida restrição de crédito. 
+A indevida restrição de crédito, por si só, caracteriza dano moral, independentemente de outras consequências. 
+Desnecessária a produção de prova da existência do dano. Ampliado, porém o conceito de abalo de crédito, para compreender também as suas projeções na esfera subjetiva dos direitos da personalidade do indivíduo, já então, e contrariamente ao decidido por alguma jurisprudência, a existência do dano moral não reclama rigorosa demonstração probatória. (YUSSEF SAID CAHALI, Dano moral, p. 361).
+Como salientou o Ministro Castro Filho: Cabe ainda ressaltar que, em casos que tais, faz-se desnecessária a prova do prejuízo, que é presumido, uma vez que o dano moral decorre da própria inclusão indevida do nome do autor no cadastro de inadimplentes. (STJ ? AgRg no Ag. nº 470538/SC  - Rel. Min. Castro Filho ? j. 6/11/03).
+No mesmo sentido: Resp. nº 389.879/MG -   Rel. Min. Sálvio de Figueiredo Teixeira; Resp. nº 332.622/RJ - Rel. Min. César Asfor Rocha; Resp. nº 285.854/PB - Rel. Min. Carlos Alberto Menezes Direito; Resp. nº 51.158/ES - Rel. Min. Ruy Rosado de Aguiar.
+Ademais, no caso sub judice a autora demonstrou efetivo prejuízo moral decorrente da restrição de crédito, com abalo de seu crédito perante o mercado. 
+Considerando as circunstâncias do caso, o grau de culpa, intensidade e consequências da lesão, bem como a condição econômica das partes, fixo a indenização em R$ 10.000,00, o que se aproxima de 15 salários. 
+Incide correção monetária desde a sentença (Súmula 362 do STJ) e juros de mora, à taxa legal, desde a data da restrição de crédito. 
+Incabível aplicação da norma do art. 940 do Código Civil, que exige efetiva ação de cobrança, o que não ocorreu. 
+
+7. O processo cautelar também é procedente. 
+O interesse de agir está presente, sustentando a requerida que a negativação seria devida e afirmando que somente a cancelou por conta da medida judicial, o que demonstra a necessidade e adequação da cautelar. 
+De outro lado, presente o periculum in mora considerando os efeitos deletérios da restrição de crédito para o comerciante. 
+
+8. Diante do exposto, JULGO PARCIALMENTE PROCEDENTE o pedido para:
+a) manter em definitivo a liminar de cancelamento da restrição de crédito;
+b) declarar a inexistência do débito relativo às notas fiscais indicadas na inicial;
+c) condenar a requerida ao pagamento de indenização de dano moral, no montante de R$ 10.000,00, com correção monetária desde a sentença (Súmula 362 do STJ) e juros de mora, à taxa legal, desde a data da restrição de crédito.
+Tendo em vista a sucumbência quase integral nos pedidos, condeno a requerida ao pagamento de custas, despesas processuais e honorários advocatícios, que arbitro em 15% do valor da condenação, verba que engloba ação principal e cautelar.
+
+P. R. I
+
+
+   São Paulo, 29 de novembro de 2013.
+
+
+ ENÉAS COSTA GARCIA
+        JUIZ DE DIREITO
+
+         (assinatura digital)

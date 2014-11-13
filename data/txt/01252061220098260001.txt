@@ -1,0 +1,60 @@
+
+
+SENTENÇA
+
+Processo nº:001.09.125206-8
+Classe - AssuntoProcedimento Sumário - Assunto Principal do Processo >
+Requerente:Brasul Transportes Ltda.
+Requerido:AcomWeb - Comercio e Consultoria em Tecnologia da Informação Ltda Epp
+
+
+CONCLUSÃO
+
+Aos  04 de fevereiro  de 2010 faço estes autos conclusos à MMª.  Juíza de Direito, Dra. CARINA BANDEIRA MARGARIDO PAES LEME. Eu, escrevente, digitei. São Paulo, data supra.
+
+Vistos.
+
+
+BRASUL TRANSPORTES LTDA ajuizou a presente ação em face de ACOMWEB - COMÉRCIO E CONSULTORIA EM TECNOLOGIA DA INFORMAÇÃO LTDA. Alega, em síntese,que firmou contrato de prestação de serviços de internet com a requerida para desenvolvimento de web site pelo valor de R$ 3.280,00 a ser pago da seguinte forma: entrada de R$ 1.084,00,  além de oito parcelas de R$ 274,50, acrescida de R$ 32,20 a título de hospedagem. Entretanto, os serviços não atenderam às necessidades da autora de divulgação  pretendida junto a clientes e fornecedores  indicativos de condições climáticas, exposição sobre a empresa, mapa de localização, rastreamento de carga, rotas, parcerias e contatos -, requerendo a rescisão contratual, com devolução de valores pagos, além de indenização por danos morais. Juntou documentos (fls. 12/32).
+
+Citada (fls. 36), a requerida apresentou defesa (fls. 36/46). Preliminarmente, alegou ocorrência de decadência pela falta de reclamação no prazo definido no artigo 26, inciso I, do Código de Defesa do Consumidor. No mérito, a requerida esclarece que o serviço desenvolvido foi projetado para funcionar nos servidores da AcomWeb, já que a empresa não pode garantir a qualidade dos serviços prestados por servidores de terceiros. Acrescenta que a AcomWeb não limita o numero de contas de e-mails dos clientes, possuindo capacidade de gerenciar centenas de contas de e-mails e, no caso, a requerente necessitava  de apenas vinte contas. Acrescentou que a requerente foi informada sobre a necessidade da transferência de registro de domínio da empresa de hospedagem Picture para empresa AcomWeb no servidor indicado. A autora não seguiu as instruções corretamente, o que exigiu da ré a instalação do web site em outro servido, gerando inúmeros problemas técnicos já que o servidor da empresa Picture não dispunha de tecnologia para rodar do arquivo DBF. Deu-se a indicação da empresa LocaWeb com cobrança de uma taxa, para esta instalação, de R$ 200,00 incluída no termo de repactuação de dívida. Todos os serviços foram prestados, com instalação, treinamento e conferência do funcionamento da aplicação nos servidores da LocalWeb, desacompanhados, entretanto, dos necessários pagamentos. De resto, quanto à demora na localização de dados, a requerida não pode garantir a resposta do servidor de terceiros. Requereu, pois, o decreto de improcedência da ação porque todos os serviços foram prestados, com condenação da autora por litigância de má-fé. Impugnou, em arremate, a pretensão de indenização por danos morais. Juntou documentos (fls. 48/82).
+
+Réplica às fls. 86/90.
+
+Deu-se audiência de tentativa de conciliação sem êxito.
+
+As partes desinteressaram-se pela produção de outras provas (fls. 94/95).
+
+É o relatório . Decido.
+
+O prazo decadencial, na hipótese, é regido pelo artigo 26, inciso II, do Código de Defesa do Consumidor e, portanto, de 90 (noventa) dias a contar  da resposta negativa da prestadora de serviços, que somente  se consumou aos 08 de maio de 2009 (fls. 91). Assim, ajuizada a ação aos 02 de julho de 2009, resta afastada a alegação de decadência. 
+
+Feita essa consideração, no mais, o pedido é parcialmente procedente.
+
+A autora firmou contrato de prestação de serviços  com a requerida para desenvolvimento de web site inoperante para os fins pretendidos. 
+
+A requerida, por sua vez, sustenta que as dificuldades iniciais deram-se por culpa exclusiva da autora  e, superadas, conforme Instrumento Particular de Acordo para entrega do produto e Repactuação de Dívida, os serviços foram executados integralmente, desacompanhados, entretanto,  do pagamento das parcelas avençadas.
+
+Extrai-se do teor do  Instrumento Particular de Acordo para entrega do produto e Repactuação de Dívida  (fls. 27/28) que o funcionamento da página da web, objeto da contratação entre as partes, não funcionou de pronto, de forma perfeita, em razão da incompatibilidade do provedor antigo da autora denominado Picture, acordando, então, as partes, na oportunidade,  a mudança para o provedor LocalWeb   para, finalmente,  operar regularmente a página da web. 
+
+Confira-se teor da cláusula primeira do referido instrumento, in verbis:
+
+
+ "A AcomWEB fora contratada para confecção e instalação de pagina da WEB em favor da BRASUL, para o perfeito funcionamento  da aludida página foi necessária a mudança para o  provedor Localweb, cuja senha e login fora transmitido via e-mail e ora se apresenta abaixo e, que a impossibilidade de funcionamento integral da  pagina se deu por incompatibilidade do provedor antigo do BRASUL denominado Picture" (fls. 27). 
+
+
+Assim, ajustada a alteração de provedor, destacada como única causa determinante da inoperância da página da web projetada pela ré, o funcionamento deveria ser perfeito o que, como confessado pela própria  ré,  não se verificou. 
+
+Extrai-se do  teor da defesa que, após essa alteração, houve a constatação da demora na localização de dados, tornando-se imprestável ao fim de rastreamento de carga pelos clientes da autora em tempo razoável.
+
+A requerida buscou imunizar-se sob o argumento de que não pode ser responsabilizada por operação de servidor de terceiro.   Ora, era dever da requerida,  por ocasião dos novos  entendimentos mantidos na forma do Instrumento Particular de Acordo para entrega do produto e Repactuação de Dívida, informar as dificuldades decorrentes da instalação do web site em servidor de terceiro, diga-se, indicado pela própria (LocalWeb), mas assim não fez, frustrando a justa expectativa da autora de obter, através da criação e instalação de página da web   e da alteração provedor, a integral satisfação de seus clientes e fornecedores, incluído  o  serviço de rastreamento de carga,  diga-se, de importância ímpar à vista do objeto social da autora. 
+
+Nessa linha argumentativa, impõe-se admitir a imprestabilidade do produto a todos os fins a que se destinava, impondo-se, operada a rescisão contratual por inadimplemento da ré, a devolução dos valores pagos pela autora. 
+
+Os danos morais,  por outro lado,  são indevidos porquanto a mera inexecução contratual não gera, para pessoa jurídica, danos morais. 
+
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE o pedido para o fim de, operada a rescisão contratual, condenar a requerida na devolução dos valores pagos, com correção monetária desde os respectivos desembolsos e juros moratórios a contar da citação. Como consequência natural, a autora deverá retirar de operação o site confeccionado pela requerida, mantido ativo conforme comprovação de fls. 79, no prazo de  trinta dias. Em razão da sucumbência mínima da autora, condeno a requerida no pagamento das custas, das despesas processuais e dos honorários advocatícios fixados à luz do artigo 20, parágrafo quarto, do Código de Processo Civil em R$ 1.000,00. 
+
+PRIC.
+
+São Paulo, 29 de abril de 2010.

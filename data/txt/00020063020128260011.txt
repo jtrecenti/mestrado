@@ -1,0 +1,59 @@
+
+
+SENTENÇA
+C O N C L U S Ã O
+
+Em 14 de março de 2013, faço estes autos conclusos ao MM. Juiz de Direito da 4ª Vara Cível do Foro Regional de Pinheiros, Dr. Paulo Jorge Scartezzini Guimarães.  Eu, ___________, escr.
+
+Processo nº:0002006-30.2012.8.26.0011 - Procedimento Ordinário
+Requerente:Fernando Mendes Nolasco
+Requerido:Universo Online S/A e outros
+
+
+
+Juiz(a) de Direito: Dr(a). Paulo Jorge Scartezzini Guimarães
+
+
+Vistos.
+
+FERNANDO MENDES NOLASCO, devidamente qualificado nos autos, propôs a presente Ação de Obrigação de Fazer e Não Fazer contra GOOGLE BRASIL INTERNET LIMITADA, MICROSOFT DO BRASIL IMPORTAÇÃO E COMÉRCIO DE SOFTWARE E VÍDEO GAMES LIMITADA, YAHOO DO BRASIL INTERNET LIMITADA e UNIVERSO ONLINE SOCIEDADE ANÔNIMA alegando, em síntese, que os réus não efetuaram um filtro nas informações disponibilizadas para pesquisa em relação a sua pessoa, tornando pública a existência de ações penais movidas pela Justiça, onde consta como réu.  
+Afirmou que nos serviços de busca oferecidos pelos requeridos não constou a informação da extinção dos respectivos processos, o que gerou danos à sua imagem, impossibilitando-o de arrumar um emprego. Requer, portando, que os réus supram qualquer dado ou informação sobre o requerente e que se abstenham de inserir em seus bancos de dados de consulta qualquer informação que conste o seu nome. 
+Com a inicial vieram os documentos de fls. 11/79.
+Foi indeferida a tutela antecipada às fls. 85 e, desta decisão, interposto Agravo de Instrumento (fls. 92/105) ao qual foi negado provimento (fls. 216/221).
+Citado, o primeiro réu alegou, preliminarmente, ausência de interesse de agir e ilegitimidade passiva. No mérito, afirmou ser ineficaz a remoção do resultado encontrado no site de busca se o conteúdo permanecer na internet. No mais, aduziu não ter praticado qualquer conduta ilícita, bem como ter sido criado por terceiro o conteúdo indesejado, o que constitui, portanto, excludente de responsabilidade.  
+Foram juntados os documentos de fls. 161/177.
+O segundo réu, por sua vez, alegou preliminarmente a ilegitimidade passiva, impossibilidade jurídica do pedido e falta de interesse de agir. No mérito aduziu a ilegalidade do pedido formulado pelo autor em razão dos princípios de livre acesso à informação e à liberdade de manifestação do pensamento, sendo proibido ao Estado a prática de qualquer tipo de censura. 
+Foram juntados os documentos de fls. 268/287.
+O terceiro réu aduziu, preliminarmente, falta de interesse processual. No mérito, alegou a ausência de ilicitude de sua conduta, bem como que o deferimento dos pedidos do autor ensejaria a realização de uma ?interrupta análise humana?, haja vista a inexistência de um meio para filtrar o resultado das pesquisas. Aduziu também o direito da coletividade à informação e, por fim, afirmou que a única forma de se atender a uma ordem de alteração do resultado de pesquisas feitas com a ferramenta de busca na Web seria por meio de exclusão individual de links especificados pela parte interessada. 
+Foram juntados os documentos de fls. 318/409. 
+Por fim, foi apresentada tempestivamente contestação pelo quarto réu, considerando que ocorreu a suspensão do prazo com as férias forenses (art. 179 do CPC) e a sua contagem em dobro, de acordo com o artigo 191 do CPC. Alegou o quarto requerido, preliminarmente, ilegitimidade passiva e falta de interesse de agir. No mérito, aduziu que não praticou qualquer ato ilícito, bem como que a criação de um filtro nos resultados de busca não elimina da internet o conteúdo danoso à imagem do autor. 
+Houve réplica às fls. 187/198, 414/428, 491/501 e 505/515.
+É o Relatório. Fundamento e decido.
+O feito merece julgamento no estado em que se encontra, não sendo necessária a produção de outras provas para o deslinde do feito.
+No caso em tela foram arguidas preliminares quanto à (i) falta de interesse processual; (ii) ilegitimidade passiva e (iii) impossibilidade jurídica do pedido, as quais não merecem acolhimento. 
+Primeiramente, importante ressaltar que a presente ação foi proposta em razão da disponibilização nos sites de busca dos requeridos de publicações de ações penais movidas contra o autor. Evidente está, portanto, o interesse processual do requerente, o qual teve a necessidade de exercer o seu direito de ação na busca do resultado pretendido, utilizando-se de medida adequada para tanto. 
+Claro ainda a legitimidade de todos os requeridos, considerando que, apesar de não terem criado ou inserido tais informações na internet, permitem/facilitam o acessos por meio de seus sistemas de busca. 
+Não merece ser acolhida a alegação da ré Microsoft Informática Ltda., de que não é responsável pela disponibilização dos serviços de busca Bing, tendo em vista que o respectivo site se apresenta ao mercado e ao consumidor vinculado à Marca Microsoft. Também não merece ser acolhida a alegação de ilegitimidade passiva do réu Universo Online, considerando que o ?Uol Busca?, independentemente do ?índice da internet? utilizado, é responsável pelas informações disponibilizadas no resultado da respectiva busca. 
+Neste sentido já se manifestou o Tribunal de Justiça do Estado de São Paulo:
+?É irrelevante que a empresa agravante e a Microsoft Corporation possuam personalidades jurídicas e objetos sociais distintos, porquanto fazem parte do mesmo grupo econômico, sendo que ambas se valem do nome ?Microsoft? para o sucesso de seus negócios, o qual goza de extrema credibilidade perante os consumidores e é do resultado final de sua comercialização a fonte inequívoca dos ganhos empresariais. Assim, tratando-se de relação de consumo, não há como subtrair a responsabilidade da agravante, sob a fundamentação de que esta seria imputada exclusivamente à empresa incumbida da administração do correio eletrônico.? (TJ/SP, Agravo Regimental nº 0116255-27.2012.8.26.0000, Rel. Helio Faria, 8ª Câm. Dir. Priv., j. 08/08/2012).
+
+Também não cabe razão aos réus no que tange à impossibilidade jurídica do pedido, visto que a retirada de dados relativos ao autor dos sites de busca é pedido possível e juridicamente admissível, ficando para o mérito a existência ou não de responsabilidade pelos seus atos.
+Afastadas as preliminares, adentremos ao mérito.
+Alega o autor que os requeridos, ao disponibilizarem pesquisa em seu nome, não efetuaram um filtro das informações, tornando públicos dados que denigrem sua imagem.
+Ora, os sites de buscas proporcionados pelos requeridos são um serviço de índice de páginas virtuais existentes na rede mundial de computadores, permitindo que os usuários identifiquem com eficiência o tema que desejam abordar. Os provedores de pesquisa se limitam a indicar links onde podem ser encontrados termos ou expressões fornecidos pelos usuários, não sendo obrigados a filtrarem as informações consideradas ?boas? ou ?ruins? para determinada pessoa. 
+Se isto ocorresse, ai sim estaria configurada a manipulação e a censura pelos sites de busca, que determinariam quais informações deveriam ou não chegar ao conhecimento do público. Neste caso estaria caracterizada a ofensa ao princípio do livre acesso à informação, que possibilita a terceiros o direito de serem informados. 
+Neste sentido já se manifestou o Superior Tribunal de Justiça:
+?CIVIL E CONSUMIDOR. INTERNET. RELAÇÃO DE CONSUMO. INCIDÊNCIA DO CDC. GRATUIDADE DO SERVIÇO. INDIFERENÇA. PROVEDOR DE PESQUISA. FILTRAGEM PRÉVIA DAS BUSCAS. DESNECESSIDADE. RESTRIÇÃO DOS RESULTADOS. NÃO-CABIMENTO. CONTEÚDO PÚBLICO. DIREITO À INFORMAÇÃO. 1. A exploração comercial da Internet sujeita as relações de consumo daí advindas à Lei nº 8.078/90 (...) O provedor de pesquisa é uma espécie do gênero provedor de conteúdo, pois não inclui, hospeda, organiza ou de qualquer outra forma gerencia as páginas virtuais indicadas nos resultados disponibilizados, se limitando a indicar links onde podem ser encontrados os termos ou expressões de busca fornecidos pelo próprio usuário. 4. A filtragem do conteúdo das pesquisas feitas por cada usuário não constitui atividade intrínseca ao serviço prestado pelos provedores de pesquisa, de modo que não se pode reputar defeituoso, nos termos do art. 14 do CDC, o site que não exerce esse controle sobre os resultados das buscas. 5. Os provedores de pesquisa realizam suas buscas dentro de um universo virtual, cujo acesso é público e irrestrito, ou seja, seu papel se restringe à identificação de páginas na web onde determinado dado ou informação, ainda que ilícito, estão sendo livremente veiculados. Dessa forma, ainda que seus mecanismos de busca facilitem o acesso e a consequente divulgação de páginas cujo conteúdo seja potencialmente ilegal, fato é que essas páginas são públicas e compõem a rede mundial de computadores e, por isso, aparecem no resultado dos sites de pesquisa. 6. Os provedores de pesquisa não podem ser obrigados a eliminar do seu sistema os resultados derivados da busca de determinado termo ou expressão, tampouco os resultados que apontem para uma foto ou texto específico, independentemente da indicação do URL da página onde este estiver inserido. 7. Não se pode, sob o pretexto de dificultar a propagação de conteúdo ilícito ou ofensivo na web, reprimir o direito da coletividade à informação. Sopesados os direitos envolvidos e o risco potencial de violação de cada um deles, o fiel da balança deve pender para a garantia da liberdade de informação assegurada pelo art. 220, § 1º, da CF/88, sobretudo considerando que a Internet representa, hoje, importante veículo de comunicação social de massa (...).? (REsp 1316921/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 26/06/2012, DJe 29/06/2012).
+
+No mais, importante destacar que as informações disponibilizadas na rede e ligadas ao ao autor são verdadeiras, o que foi confirmado por ele. Se elas lhe trazem prejuízo, isto se dá em consequência de seu envolvimento com os fatos discutidos nas ações judiciais.
+Concluindo, a conduta dos requeridos não se demonstra ilícita, razão pela qual, deixo de acolher os pedidos realizados pelo autor.
+Isto posto, JULGO IMPROCEDENTE a presente ação. Condeno o autor ao pagamento das custas, despesas processuais e honorários advocatícios que fixo em R$ 4.000,00 (quatro mil reais), na proporção de ¼ (um quarto) para os advogados de cada um dos requeridos, nos termos do artigo 20, § 4º do CPC.
+P.R.I.
+*
+
+ São Paulo, 14 de março de 2013.
+
+D A T A 
+
+Em 14 de março de 2013, recebi estes autos em Cartório.
+Eu, _____(*), escr.

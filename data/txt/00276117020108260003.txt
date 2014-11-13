@@ -1,0 +1,141 @@
+
+
+SENTENÇA
+
+Processo nº:0027611-70.2010.8.26.0003
+Classe - AssuntoProcedimento Ordinário - Rescisão do contrato e devolução do dinheiro
+Requerente:APARECIDA BROLI FARAH e outros
+Requerido:Banco Santander (Brasil) S/A
+
+
+Justiça Gratuita
+
+Juiz(a) de Direito: Dr(a). Luís Mauricio Sodré de Oliveira
+
+
+Vistos.
+
+
+
+
+
+
+APARECIA BROLI FARAH, MARCELO BROLI FARAH, DANIEL BROLI FARAH e AMANDA BROLI FARAH propuseram ação de conhecimento em face de BANCO SANTANDER, visando, resolução contratual e reparação por dano moral, por força de restrição lançada em seu nome junto a órgão de proteção ao crédito do falecido Amâncio Ferrrari Farah, sob a alegação de que o falecido não se utilizou dos serviços de cartão de crédito nem efetuou contrato de empréstimo com a ré.
+Citada, a ré contestou o pedido, alegando ausência de responsabilidade, visto que os fatos decorreram de conduta de terceira pessoa.
+
+É do relatório.
+
+D E C I D O.
+
+Uma vez que a presente lide versa sobre questão de fato e de direito, cuja prova é exclusivamente documental, passa-se ao julgamento antecipado da lide.
+Não há preliminares a apreciar.
+Isso porque, as condições da ação, consoante ensinou Kazuo Watanabe, em Da Cognição no Processo Civil, RT, 1987, devem ser aferidas no estado de asserção, ou seja, independentemente do direito material demandado em juízo. Saber se a parte postulante possui ou não tal direito é, na verdade, questão de mérito que não diz respeito aos pressupostos de desenvolvimento válido e regular do processo ou às condições da ação.
+Passa-se, assim, à análise da questão de mérito.
+Antes, todavia, de fazê-lo, é imperioso tecer algumas considerações.
+Muito já se discutiu, tanto em sede doutrinária, quanto jurisprudencial, sobre a responsabilidade de Instituições Financeira, perante consumidor direto [correntista] ou por equiparação [terceiro não correntista], por fraudes ocorridas no âmbito interior do sistema bancário que, por via reflexa, atinge a esfera de bens e direitos de um ou outro consumidor.
+Na primeira hipótese, logo se firmou o entendimento dominante de que em se havendo relação contratual entre a instituição financeira e o correntista, a responsabilidade daquela é objetiva, porquanto fundada na norma prevista no artigo 14, da lei 8.078/90 [CDC].
+E, posteriormente, para as hipóteses de danos causados a consumidor por equiparação, nos termos do disposto no artigo 17, do CDC, ou seja, para o não correntista, consolidou-se no Superior Tribunal de Justiça, o entendimento de que a responsabilidade das instituições financeiras ainda continua objetiva, na medida em que hipóteses de fraudes que acarretam a abertura de conta corrente por falsários, clonagem de cartão de crédito, roubo de cofre de segurança, violação de sistema de computador por hackers, ainda quando se trata de fraudes extremamente sofisticadas, são espécies que se qualificam como caso fortuito interno e, portanto, não excludentes a responsabilidade das instituições financeiras.
+Nesse sentido é o entendimento corporificado no Recurso Especial 1.199.782 0 PR, Ministro Relator Luis Felipe Salomão, a saber:
+As instituições bancárias, em situações como a abertura de conta-corrente por falsários, clonagem de cartão de crédito, roubo de cofre de segurança ou violação de sistema de computador por crackers , no mais das vezes, aduzem a excludente da culpa exclusiva de terceiros, sobretudo quando as fraudes praticadas são reconhecidamente sofisticadas.
+Ocorre que a culpa exclusiva de terceiros apta a elidir a responsabilidade objetiva do fornecedor é espécie do gênero fortuito externo, assim entendido aquele fato que não guarda relação de causalidade com a atividade do fornecedor, absolutamente estranho ao produto ou serviço (CAVALIERI FILHO, Sérgio. Programa de responsabilidade civil. 9 ed. São Paulo: Atlas, 2010, p. 185).
+É a "causa estranha" a que faz alusão o art. 1.382 do Código Civil Francês (Apud. DIAS, José de Aguiar. Da responsabilidade civil. 11 ed. Rio de Janeiro: Renovar, 2006, p. 926).
+É o fato que, por ser inevitável e irresistível, gera uma impossibilidade absoluta de não ocorrência do dano, ou o que, segundo Caio Mário da Silva Pereira, "aconteceu de tal modo que as suas consequências danosas não puderam ser evitadas pelo agente, e destarte ocorreram necessariamente. Por tal razão, excluem-se como excludentes de responsabilidade os fatos que foram iniciados ou agravados pelo agente" (Responsabilidade civil. Rio de Janeiro: Forense, 2000, p. 305).
+Valiosa também é a doutrina de Sérgio Cavalieri acerca da diferenciação do fortuito interno do externo, sendo que somente o último é apto a afastar a responsabilidade por acidente de consumo: 
+
+Cremos que a distinção entre fortuito interno e externo é totalmente pertinente no que respeita aos acidentes de consumo. O fortuito interno, assim entendido o fato imprevisível e, por isso, inevitável ocorrido no momento da fabricação do produto ou da realização do serviço, não exclui a responsabilidade do fornecedor porque faz parte de sua atividade, liga-se aos riscos do empreendimento, submetendo-se a noção geral de defeito de concepção do produto ou de formulação do serviço. Vale dizer, se o defeito ocorreu antes da introdução do produto no mercado de consumo ou durante a prestação do serviço, não importa saber o motivo que determinou o defeito; o fornecedor é sempre responsável pela suas conseqüências, ainda que decorrente de fato imprevisível e inevitável.O mesmo já não ocorre com o fortuito externo, assim entendido aquele fato que não guarda nenhuma relação com a atividade do fornecedor, absolutamente estranho ao produto ou serviço, via de regra ocorrido em momento posterior ao da sua fabricação ou formulação. Em caso tal, nem se pode falar em defeito do produto ou do serviço, o que, a rigor, já estaria abrangido pela primeira excludente examinada - inexistência de defeito (art. 14, § 3º, I)" ( CAVALIERI FILHO, Sérgio. Programa de Direito do Consumidor. São Paulo: Atlas, 2008. p. 256-257).
+_________________________
+
+Na mesma linha vem entendendo a jurisprudência desta Corte, dando conta de que a ocorrência de fraudes ou delitos contra o sistema bancário, dos quais resultam danos a terceiros ou a correntistas, insere-se na categoria doutrinária de fortuito interno, porquanto fazem parte do próprio risco do empreendimento e, por isso mesmo, previsíveis e, no mais das vezes, evitáveis.
+Por exemplo, em um caso envolvendo roubo de talões de cheque, a Ministra Nancy Andrighi, apoiada na doutrina do Ministro Paulo de Tarso Sanseverino, assim se manifestou:
+
+Não basta, portanto, que o fato de terceiro seja inevitável para excluir a responsabilidade do fornecedor, é indispensável que seja também imprevisível . Nesse sentido, é notório o fato de que furtos e roubos de talões de cheques passaram a ser prática corriqueira nos dias atuais. Assim, a instituição financeira, ao desempenhar suas atividades, tem ciência dos riscos da guarda e do transporte dos talões de cheques de clientes, havendo previsibilidade quanto à possibilidade de ocorrência de furtos e roubos de malotes do banco; em que pese haver imprevisibilidade em relação a qual (ou quais) malote será roubado. Aliás, o roubo de talões de cheques é, na verdade, um caso fortuito interno, que não rompe o nexo causal, ou seja, não elide o dever de indenizar, pois é um fato que se liga à organização da empresa; relaciona-se com os riscos da própria atividade desenvolvida. (cfr. Paulo de Tarso Vieira Sanseverino, Responsabilidade civil no Código do consumidor e a defesa do fornecedor , São Paulo: Saraiva, 2002, p. 293).
+Portanto, o roubo de malote contendo cheques de clientes não configura fato de terceiro, pois é um fato que, embora muitas vezes inevitável, está na linha de previsibilidade da atividade bancária, o que atrai a responsabilidade civil da instituição financeira. (REsp 685662/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 10/11/2005, DJ 05/12/2005, p. 323)
+_________________________
+
+O raciocínio tem sido o mesmo para casos em que envolvem roubo de cofre, abertura de conta-corrente ou liberação de empréstimo mediante utilização de documentos falsos, ou, ainda, saques indevidos realizados por terceiros. 
+Nesse sentido são os seguintes precedentes:
+
+Direito processual civil e do consumidor. Recurso especial. Roubo detalonário de cheques durante transporte. Empresa terceirizada. Uso indevido dos cheques por terceiros posteriormente. Inscrição do correntista nos registros de proteção ao crédito. Responsabilidade do banco. Teoria do risco profissional. Excludentes da responsabilidade do fornecedor de serviços. art. 14, § 3º, do CDC.
+Ônus da prova.
+- Segundo a doutrina e a jurisprudência do STJ, o fato de terceiro só atua como excludente da responsabilidade quando tal fato for inevitável e imprevisível.
+- O roubo do talonário de cheques durante o transporte por empresa contratada pelo banco não constituiu causa excludente da sua responsabilidade, pois trata-se de caso fortuito interno.
+- Se o banco envia talões de cheques para seus clientes, por intermédio de empresa terceirizada, deve assumir todos os riscos com tal atividade. 
+- O ônus da prova das excludentes da responsabilidade do fornecedor de serviços, previstas no art. 14, § 3º, do CDC, é do fornecedor, por força do art. 12, § 3º, também do CDC.
+Recurso especial provido. 
+(REsp 685662/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 10/11/2005, DJ 05/12/2005, p. 323)
+_________________________
+
+AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO CONTRA A INADMISSÃO DE RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. ABERTURA DE CONTA CORRENTE POR TERCEIRO. INSCRIÇÃO INDEVIDA EM ÓRGÃO DE RESTRIÇÃO AO CRÉDITO. DEVER DE INDENIZAR RECONHECIDO NA DECISÃO ORA AGRAVADA. [...]
+[...]
+3. O nexo de causalidade entre a conduta do banco e o dano decorre do reconhecimento da abertura de conta corrente, em agência do agravante, em nome do autor/agravado, mediante fraude praticada por terceiro falsário, o que, à luz dos reiterados precedentes deste Pretório, por constituir risco inerente à atividade econômica das instituições financeiras, não elide a responsabilidade destas pelos danos daí advindos.
+[...]
+(AgRg no Ag 1235525/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 07/04/2011, DJe 18/04/2011)
+_________________________
+
+AGRAVO REGIMENTAL - AGRAVO DE INSTRUMENTO - RESPONSABILIDADE CIVIL - INSCRIÇÃO EM CADASTRO DE PROTEÇÃO AO CRÉDITO - ABERTURA DE CONTA-CORRENTE ? DOCUMENTOS FALSIFICADOS - DANOS MORAIS - DEVER DE INDENIZAR ? DECISÃO AGRAVADA MANTIDA - IMPROVIMENTO. 
+I - A falsificação de documentos para abertura de conta corrente não isenta a instituição financeira da responsabilidade de indenizar, pois constitui risco inerente à atividade por ela desenvolvida.
+(REsp 671.964/BA, Rel. Min. Fernando Gonçalves, Quarta Turma, DJe 29/06/2009). Precedentes.
+[...]
+(AgRg no Ag 1292131/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 17/06/2010, DJe 29/06/2010)
+_________________________
+
+RECURSO ESPECIAL. COMPETÊNCIA VARA ESPECIALIZADA. DIREITO LOCAL. RESPONSABILIDADE CIVIL. ABERTURA DE CONTA CORRENTE. DOCUMENTAÇÃO FALSA. INCLUSÃO INDEVIDA NOS CADASTROS DE PROTEÇÃO AO CRÉDITO. INDENIZAÇÃO. NECESSIDADE. JULGAMENTO ULTRA PETITA. INOCORRÊNCIA. VALOR ARBITRADO A TÍTULO DE DANOS MORAIS. REDUÇÃO.
+[...]
+2. A falsificação de documentos para abertura de conta corrente não isenta a instituição financeira da responsabilidade de indenizar, pois constitui risco inerente à atividade por ela desenvolvida.
+Precedentes.
+[...]
+(REsp 671964/BA, Rel. Ministro FERNANDO GONÇALVES, QUARTA TURMA, julgado em 18/06/2009, DJe 29/06/2009)
+_________________________
+
+RECURSO ESPECIAL. DANO MORAL. INCLUSÃO INDEVIDA EM CADASTRO RESTRITIVO DE CRÉDITO. ABERTURA DE CONTA CORRENTE E FORNECIMENTO DE CHEQUES MEDIANTE FRAUDE. FALHA ADMINISTRATIVA DA INSTITUIÇÃO BANCÁRIA. RISCO DA ATIVIDADE ECONÔMICA. ILÍCITO PRATICADO POR TERCEIRO. CASO FORTUITO INTERNO. REVISÃO DO VALOR. VIOLAÇÃO DOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. RECURSO PARCIALMENTE PROVIDO.
+1. Inescondível a responsabilidade da instituição bancária, atrelada ao risco da própria atividade econômica que exerce, pela entrega de talão de cheques a terceiro, que mediante fraude, abriu conta bancária em nome do recorrido, dando causa, com isso e com a devolução do cheque emitido, por falta de fundos, à indevida inclusão do nome do autor em órgão de restrição ao crédito.
+2. Irrelevante, na espécie, para configuração do dano, que os fatos tenham se desenrolado a partir de conduta ilícita praticada por terceiro, circunstância que não elide, por si só, a responsabilidade da instituição recorrente, tendo em vista que o panorama fático descrito no acórdão objurgado revela a ocorrência do chamado caso fortuito interno.
+[...]
+(REsp 774640/SP, Rel. Ministro HÉLIO QUAGLIA BARBOSA, QUARTA TURMA, julgado em 12/12/2006, DJ 05/02/2007, p. 247)
+_________________________
+
+DIREITO CIVIL. PENHOR. DANOS MORAIS E MATERIAIS. ROUBO/FURTO DE JÓIAS EMPENHADAS. CONTRATO DE SEGURO. DIREITO DO CONSUMIDOR. LIMITAÇÃO DA RESPONSABILIDADE DO FORNECEDOR. CLÁUSULA ABUSIVA. AUSÊNCIA DE INDÍCIO DE FRAUDE POR PARTE DA DEPOSITANTE. 
+[...]
+IV - Na hipótese dos autos, em que o credor pignoratício é um banco e o bem ficou depositado em cofre desse mesmo banco, não é possível admitir o furto ou o roubo como causas excludentes do dever de indenizar. Há de se levar em conta a natureza específica da empresa explorada pela instituição financeira, de modo a considerar esse tipo de evento, como um fortuito interno, inerente à própria atividade, incapaz de afastar, portanto, a responsabilidade do depositário.
+Recurso Especial provido.
+(REsp 1133111/PR, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 06/10/2009, DJe 05/11/2009)
+_________________________
+
+Consumidor. Saque indevido em conta corrente. Cartão bancário. Responsabilidade objetiva do fornecedor de serviços. Inversão do ônus da prova.
+- Debate referente ao ônus de provar a autoria de saque em conta corrente, efetuado mediante cartão bancário, quando o correntista, apesar de deter a guarda do cartão, nega a autoria dos saques.
+- Reconhecida a possibilidade de violação do sistema eletrônico e, tratando-se de sistema próprio das instituições financeiras, ocorrendo retirada de numerário da conta corrente do cliente, não reconhecida por este, impõe-se o reconhecimento da responsabilidade objetiva do fornecedor do serviço, somente passível de ser ilidida nas hipóteses do § 3º do art. 14 do CDC.
+- Inversão do ônus da prova igualmente facultada, tanto pela hipossuficiência do consumidor, quanto pela verossimilhança das alegações de suas alegações de que não efetuara o saque em sua conta corrente.
+Recurso não conhecido.
+(REsp 557030/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/12/2004, DJ 01/02/2005, p. 542)
+_________________________
+
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PRINCÍPIO DA UNIRRECORRIBILIDADE. ASSALTO A BANCO. MORTE. RESPONSABILIDADE CIVIL. RISCO DA ATIVIDADE ECONÔMICA. DANO MORAL. VALOR. 
+1. Conforme a jurisprudência consolidada no âmbito desta Corte, a interposição de dois recursos pela mesma parte contra a mesma decisão impede o conhecimento do segundo recurso interposto, haja vista a
+preclusão consumativa e a observância ao princípio da unirrecorribilidade das decisões. Precedentes.
+2. A jurisprudência do STJ tem entendido que, tendo em conta a natureza específica da empresa explorada pelas instituições financeiras, não se admite, em regra, o furto ou o roubo como causas excludentes do dever de indenizar, considerando-se que este tipo de evento caracteriza-se como risco inerente à atividade econômica desenvolvida. Precedentes.
+3. Agravo regimental não provido.
+(AgRg no Ag 997.929/BA, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 12/04/2011, DJe 28/04/2011)
+_________________________
+
+RECURSO ESPECIAL - CONTRATO DE ALUGUEL DE COFRE - ROUBO - RESPONSABILIDADE OBJETIVA - CLÁUSULA LIMITATIVA DE USO - ABUSIVIDADE - INEXISTÊNCIA - DELIMITAÇÃO DA EXTENSÃO DOS DIREITOS E DEVERES DAS PARTES CONTRATANTES ? RECURSO ESPECIAL IMPROVIDO.
+I - Os eventos "roubo" ou "furto", ocorrências absolutamente previsíveis, a considerar os vultosos valores mantidos sob a guarda da instituição financeira, que assume profissionalmente todos os riscos inerentes à atividade bancária, não consubstanciam hipóteses de força maior, mantendo-se, por conseguinte, incólume o nexo de causalidade existente entre a conduta negligente do banco e o prejuízo suportado por seu cliente; 
+ [...]
+(REsp 1163137/SP, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 14/12/2010, DJe 03/02/2011)
+_________________________
+
+5. Em casos como o dos autos, o serviço bancário é evidentemente defeituoso, porquanto é aberta conta-corrente em nome de quem verdadeiramente não requereu o serviço (art. 39, inciso III, do CDC) e, em razão disso, teve o nome negativado. Tal fato do serviço não se altera a depender da sofisticação da fraude, se utilizados documentos falsificados ou verdadeiros, uma vez que o vício e o dano se fazem presentes em qualquer hipótese.
+Omisssis
+Em casos tais, a jurisprudência tem entendido que o abalo moral é in re ipsa e que possível a fixação de indenização por danos morais em até 50 (cinqueta) salários mínimos.
+Esse entendimento resultou na edição da súmula 479, do STJ, segundo a qual As instituições bancárias respondem pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias.
+De ver, portanto, que o pedido formulado é procedente.
+Com efeito, cumpre ressaltar que é fato incontroverso, no processo, de que o falecido, de quem os autores eram filhos e cônjuge, não realizou as operações financeiras que levaram à inserção do respectivo nome em órgão de proteção ao créidto, teve foi vítima de atuação de falsário, no âmbito interno de operações bancárias --- mútuo financeiro --- praticadas pela ré.
+Disso, adveio uma série de situações que acabaram por atingir a esfera personalíssima da parte postulante, dando ensejo à reparação do dano moral suportado que, na hipótese em questão, é in re ipsa.
+Impõe-se, portanto, a reparação do dano moral suportado pela parte postulante, fixando-se aqui o valor de R$ 10.000,00, visto que tal quantia atinge a finalidade do instituto. Valor esse atualizado pela correção monetária a partir desta data, os termos da súmula 362, do STJ. O juros de mora, de 1% ao mês, são devidos a partir do ato ilícito, qual seja, a falsificação ocorrida no âmbito interno da ré [fortuito], nos termos do disposto no artigo 398, do CC, e súmula 54, do STJ.
+Posto isso, JULGA-SE PROCEDENTE o pedido formulado para CONDENAR a ré ao pagamento da quantia equivalente a R$ 10.000,00, tornando assim definitiva a liminar concedida. Valor esse atualizado pela correção monetária a partir desta data, os termos da súmula 362, do STJ. O juros de mora, de 1% ao mês, são devidos a partir do ato ilícito, qual seja, a falsificação ocorrida no âmbito interno da ré [fortuito], nos termos do disposto no artigo 398, do CC, e súmula 54, do STJ. Ato contínuo, DESCONSTITUEM-SE os débitos lançados em nome de AMANCIO FERRARI FARAH, com cancelamento dos apontamentos insertos em órgãos de proteção ao crédito. CONDENA-SE ainda a ré ao pagamento das custas e despesas processuais, bem como em honorários de advogado, fixado em 10% do valor da condenação. Em conseqüência, JULGA-SE EXTINTO o processo, com resolução de mérito, com base no artigo 269, inciso I, do CPC.
+
+P.R.I.C.
+
+
+
+
+São Paulo, 20 de setembro de 2012.

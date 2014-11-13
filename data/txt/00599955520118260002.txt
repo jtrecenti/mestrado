@@ -1,0 +1,90 @@
+
+
+SENTENÇA
+
+Processo Físico nº:0059995-55.2011.8.26.0002
+Classe - AssuntoProcedimento Ordinário - Seguro
+Requerente:Enesa Engenharia S/A
+Requerido:Mapfre Seguros Gerais S.A.
+
+
+
+
+Juiz(a) de Direito: Dr(a). Carlos Eduardo Prataviera
+
+
+
+
+Vistos.
+ENESA ENGENHARIA S/A ajuizou esta ação em face de MAPFRE VERA CRUZ SEGURADORA S/A aduzindo, em apertada síntese, que celebrou com a ré contrato de seguro de diversos veículos de sua propriedade, prevendo a apólice a cobertura para danos causados aos bens e para danos materiais e pessoais causados a terceiros. Afirma que um dos veículos segurados envolveu-se em acidente no período de vigência da apólice, motivando o ajuizamento de ação de indenização por danos morais e materiais contra a autora. Narra que saiu vencida da ação, sendo condenada por decisão definitiva ao pagamento da indenização à terceira, com posterior penhora em sua conta bancária. Sustenta ter notificado a ré para pagamento da indenização securitária, sem obter qualquer resposta. Assevera que o valor da condenação está integralmente abrangido pela apólice, visto que os danos pessoais englobam os danos morais. Diante da omissão contratual, a correção monetária da indenização deverá tomar por base o IGPM, porque mais favorável ao consumidor. Pleiteia seja a ré condenada ao pagamento da indenização securitária.
+
+Regularmente citada, a ré contestou a ação alegando, em resumo, que devem ser observados os limites da cobertura contratada pelas partes. No caso dos autos, não foi pactuada cobertura para danos morais, risco expressamente excluído na apólice e que não se confunde com danos corporais. Não houve recusa ao pagamento da indenização e inadimplemento por parte da seguradora, visto que a documentação necessária à regulação do sinistro não foi apresentada. Os juros deverão se limitar ao percentual de 6% ao ano, conforme previsão contratual. Pede a improcedência.
+
+Houve réplica.
+
+A fls. 406 foi proferida decisão saneadora, que fixou como ponto controvertido a entrega, pela autora, da documentação necessária ao pagamento do sinistro e determinou que as partes especificassem provas, contudo, não foi manifestado interesse na dilação probatória do feito.
+
+R E L A T A D O S.
+
+D  E  C  I  D  O.
+
+Trata-se de questão unicamente de direito, que dispensa a produção de outras provas além das que instruem os autos, motivo autorizante de se dar o julgamento no estado do processo, modalidade julgamento antecipado da lide.
+
+A ação procede em parte.
+
+Respeitado o entendimento do nobre colega que proferiu o despacho saneador, entendo que o fato de a autora não ter demonstrado a entrega, extrajudicialmente, da documentação necessária ao pagamento do sinistro não configura fato impeditivo do direito da segurada. Isso porque a autora comprovou ter notificado a ré para o pagamento da indenização previamente à propositura da demanda (fls. 313/315), sem qualquer resposta da seguradora dando conta da falta de algum documento.
+
+Ademais, a autora trouxe aos autos prova documental quanto ao pagamento de indenização a terceiro, por força de sentença transitada em julgado, em razão de acidente de trânsito que envolveu veículo segurado pela ré. As peças processuais necessárias à análise do sinistro, conforme mencionado em contestação, foram trazidas com a inicial e não houve qualquer impugnação aos documentos por parte da ré.
+
+Poder-se-ia argumentar que ausência de prova da negativa de pagamento pela seguradora implicaria falta de interesse de agir, contudo, não se exige o prévio esgotamento das vias administrativas para exercício do direito de ação, constitucionalmente assegurado.
+
+Em suma, há prova suficiente da ocorrência de risco coberto pela apólice, pois a autora foi condenada a ressarcir danos materiais causados a terceiro, cujo valor encontra-se dentro dos limites de indenização contratados pelas partes. Devido, portanto, o reembolso da quantia despendida pela autora a esse título.
+
+Por outro lado, quanto ao valor pago a título de indenização por danos morais, a autora não faz jus a qualquer ressarcimento.
+
+Isso porque a apólice do seguro que envolveu as partes abrangia apenas a cobertura por danos materiais e corporais causados a terceiros, sem qualquer menção a danos morais (fls. 346 e  398/400).
+
+Ademais, as condições gerais do seguro prevêem expressamente que a cobertura contratual básica abarcava unicamente a reparação de danos materiais e corporais, sendo opcional a cobertura para danos morais (cláusulas 2.1.1 e 2.12.19, fls. 351-verso).
+
+Não se confundem os danos corporais, de ordem exclusivamente física, com os danos de natureza moral, que envolvem ofensa aos direitos da personalidade. Há, inclusive, distinção nesse sentido nas definições contratuais (fls. 349-verso).
+
+O contrato que envolveu as partes contém cláusula contratual que exclui de forma taxativa essa cobertura, prevendo que ?não estão cobertos pela presente apólice as indenizações por DANOS MORAIS e ESTÉTICOS, no qual esteja o Segurado, seu beneficiário ou pelos respectivos representantes legais, obrigados a pagar [...]? (fls. 360-verso, item ?o?). A cobertura para danos morais estava inserida dentro das coberturas opcionais, exigindo a contratação específica nesse sentido e devida discriminação na apólice (fls. 362-verso e 368-verso).
+
+Como visto, as cláusulas contratuais são suficientemente claras no sentido de exclusão de cobertura para danos morais, cuja contratação deveria ser formulada opcional e adicionalmente à cobertura básica. Assim, não há como ser acolhida a pretensão autoral de interpretação extensiva da cobertura, que encontra óbice na súmula nº 402 do Superior Tribunal de Justiça: ?O contrato de seguro por danos pessoais compreende os danos morais, salvo cláusula expressa de exclusão?.
+
+No mesmo sentido:
+
+SEGURO LITISDENUNCIADA COBERTURADANOSPESSOAIS EXISTÊNCIA DE CLÁUSULA EXPRESSA EXCLUDENTE DE COBERTURA PARADANOSMORAISE ESTÉTICOS APLICAÇÃO DA RESSALVA CONTIDA NA SÚMULA402DO STJ. Em princípio, o contrato deseguropordanospessoais compreende os danosmorais, salvo cláusula expressa deexclusão. Hipótese em que existe cláusula expressa excludente de cobertura paradanosmoraise estéticos que, a teor da súmula402do STJ, permite a suaexclusãoda condenação da litisdenunciada.
+(TJ-SP, Apelação 0004905-26.2009.8.26.0360, Relator(a):Clóvis Castelo, Comarca:Mococa, Órgão julgador:35ª Câmara de Direito Privado, Data do julgamento:16/12/2013)
+
+Acidente de veículo. Autora condenada a ressarcirdanosa terceiros. Ação regressiva julgada parcialmente procedente, afastada a condenação da ré na restituição de valores pagos pela autora a título dedanomoral. Apelação da autora. Alegação de que o contrato deseguroprevê cobertura paradanocorporal, que abrange odanomoral. Responsabilidade da seguradora aos termos do contrato. Previsão em condições gerais de que a cobertura paradanosmoraisseria objeto de cláusula adicional. Ausente comprovação da contratação adicional. Exegese da Súmula402do STJ. Sentença mantida. Recurso improvido. Odanomoralestá abrangido no conceito dedanocorporal/pessoal desde que não haja cláusula expressa deexclusãode cobertura, ou ainda, que não seja objeto de cláusula autônoma de cobertura adicional.
+(TJ-SP, Apelação 0011383-24.2011.8.26.0637, Relator(a):Francisco Occhiuto Júnior, Comarca:Tupã, Órgão julgador:32ª Câmara de Direito Privado, Data do julgamento:28/11/2013)
+
+Caberia à autora demonstrar o fato constitutivo de seu direito, qual seja, a contratação da cobertura específica para danos morais, porém, como já comentado, a apólice do seguro que envolveu as partes não traz qualquer previsão nesse sentido.
+
+Não há qualquer abusividade em se fixar indenização apenas para casos de danos materiais e corporais, pois, de fato e de direito, as partes são livres para manifestarem sua vontade de contratar em qualquer situação que não seja vedada por Lei.
+
+Se a autora entendeu por bem contratar apenas a cobertura básica, é porque se desinteressou pela contratação da cobertura opcional para danos morais e a motivação é por demais simples.
+
+A todo risco assumido pela seguradora se contrapõe uma contraprestação pecuniária, denominada prêmio, que é o valor mensalmente pago pelo contratante à seguradora, para cobertura dos riscos assumidos.
+
+Esse valor não é aleatório, mas atuarial, levando em conta apenas e tão somente os riscos assumidos na contratação, a sua incidência na população geral, para se fixar um valor que não representa ganho sem causa, quer da seguradora quer do estipulante do seguro.
+
+Com base nestes dado, chega-se a um valor mensal, o prêmio.
+
+Querer-se que a seguradora cubra mais riscos que os assumidos em contrato é quebrar esse equilíbrio entre prêmio, risco e indenização, daí não haver abuso ou má-fé na contratação apenas de indenização por danos materiais e corporais, pois, riscos outros implicariam em prêmio diverso, majorado, talvez sem interesse da autora, contudo, não se pode impugnar qualquer das cláusulas ou riscos assumidos pela seguradora, que o foram nos estritos termos da manifestação de vontade das partes.
+
+Quanto aos juros de mora que incidirão sobre a indenização efetivamente devida, há que prevalecer o que restou estipulado entre as partes, porque os juros legais são aplicados apenas em caso de inexistência de ajuste nesse sentido (art. 406 do Código Civil). O termo inicial de incidência é a citação, quando a ré foi constituída em mora (CPC, art. 219).
+
+Da mesma forma, necessária a observância ao índice de reajuste monetário previsto contratualmente ? IPCA/IBGE ? conforme cláusula 24.3.a (fls. 38), por retratar a vontade manifestada pelas partes quando da contratação.
+
+Isto posto, JULGO PARCIALMENTE PROCEDENTE o pedido para condenar a ré a pagar a autora a quantia de R$ 11.914,00  (onze mil, novecentos e quatorze reais), com juros de 0,5% ao mês a partir da citação e correção monetária desde agosto de 2010. JULGO EXTINTO o processo nos termos do art. 269,  inciso I, do Código de Processo Civil.
+
+Sendo a sucumbência recíproca, cada parte arcará com metade das custas e despesas do processo, bem como honorários de seus respectivos advogados.
+ 
+P.R.I.
+
+São Paulo, 12 de maio de 2014.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

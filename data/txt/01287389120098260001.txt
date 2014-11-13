@@ -1,0 +1,70 @@
+
+
+CONCLUSÃO
+Em 10 de junho de 2010 faço estes autos conclusos à MM. Juíza de Direito Dra. FERNANDA DE CARVALHO QUEIROZ. Eu, Sérgio Luiz Henriques, Escrevente, subscrevi.
+
+SENTENÇA
+
+Ação:001.09.128738-4 - Procedimento Ordinário
+Requerente:Alessandro Rocchi
+Requerido:Mobisat Sistemas de Rastreamento Ltda
+
+        
+
+
+
+
+
+Vistos.
+
+
+
+
+ALESSANDRO ROCCHI, devidamente qualificado nos autos, moveu a presente ação de conhecimento, pelo rito ordinário, contra MOBISAT SISTEMAS DE RASTREAMENTO LTDA, também qualificada nos autos, alegando em síntese que comprou de um terceiro a motocicleta JTA Suzuki, modelo GSXR 1000, ano 2006, modelo 2007, placa DUX 6584. Para maior segurança contratou os serviços de monitoramento e rastreamento prestados pela ré. Ocorre que no dia 16 de maio de 2009 a motocicleta foi roubada defronte à sua residência, localizada na Rua João Roque, 167, bairro do Imirim, nesta cidade e comarca. Acionou a ré, mas esta não soube precisar a localização do veículo, apontando como sendo a Rua Teodoro Sampaio, no bairro de Pinheiros, também nesta cidade, local em que o autor estivera com o bem mais de duas horas antes do ocorrido. Os serviços da ré foram prestados com negligência e imperícia, o que impossibilitou o bloqueio da motocicleta. Efetuou o pagamento de R$ 80,00 (oitenta reais) mensais durante o período de dezembro de 2008 a julho de 2009, sem que a ré tenha cumprido a contraprestação. Assim, estes valores devem ser restituídos ao autor. Também deve ressarcir o valor da motocicleta, posto que sua recuperação não foi possível ante sua má prestação de serviços. Por fim aduziu que suportou danos morais a serem indenizados. Requereu a procedência dos pedidos com a condenação da ré a pagar o valor de R$ 45.000,00 (quarenta e cinco mil reais) equivalente ao preço da motocicleta, a restituir os valores pagos pelo serviço e a uma indenização por dano moral no valor de 100 (cem) salários mínimos. Com a inicial vieram os documentos de fls. 19/58.
+Devidamente citada, a ré ofertou a contestação de fls. 79/96. Informou que a ré fora incorporada pela empresa OMNLINK TECNOLOGIA S/A, a qual apresenta as razões de defesa, requerendo a substituição do pólo passivo. Em sede preliminar disse ser o autor parte ilegítima para figurar no pólo ativo posto que o contrato foi celebrado com o anterior proprietário da motocicleta, qual seja, a empresa Douglas Hildebrand. Diante disso, a ação há que ser declarada extinta. Quanto ao mérito, disse que o contrato celebrado entre autor e ré foi devidamente cumprido. O aparelho de rastreamento via satélite pelo sistema GPRS foi devidamente instalado na motocicleta do autor. O contrato não se confunde com seguro ou garantia de recuperação do bem. O sistema se baseia em sistema de telefonia móvel, constando do contrato que a ré não se responsabiliza quando houver falha no sistema. Ademais, é obrigação do contratante realizar manutenção mensal do sistema, solicitando teste, o que não foi feito pelo autor. Não realizou qualquer propaganda enganosa. Sustentou não haver danos ante a ausência de provas. Pugnou pela improcedência do pedido. Juntou os documentos de fls. 97/140.
+Houve réplica, fls. 144/152.
+É o relatório.
+Fundamento e DECIDO.
+O feito comporta imediato julgamento, afigurando-se desnecessária a designação de audiência ou a produção de outros subsídios probatórios, tendo incidência na espécie, a regra do artigo 330, inciso I, do Código de Processo Civil.
+Os documentos juntados com a defesa comprovam a incorporação da ré pela empresa OMNLINK TECNOLOGIA S/A, ficando deferida a substituição do pólo passivo. Diante disso, determino à zelosa Serventia que promova as retificações necessárias junto ao Cartório Distribuidor (via on line) e junto ao Sistema SAJ.
+Em que pese o contrato de prestação de serviços ter sido subscrito pelo anterior proprietário da motocicleta, a ré reconheceu expressamente ter havido a transferência de propriedade do bem ao autor, o qual manteve os pagamentos mensais em dia, o que leva à tácita substituição do contratante pelo autor. Disso resulta no afastamento da preliminar de ilegitimidade de parte suscitada na contestação.
+Passa-se à análise do mérito.
+Em seu petitório inicial descreve o autor ter contratado com a empresa ré serviço de rastreamento de veículo por satélite, o qual se mostrou ineficaz, pois teve seu veículo roubado na data de 16/05/2009, e nada fez a empresa ré a respeito, argumentando que a última posição do veículo, no seu sistema, era na Rua Teodoro Sampaio, no bairro de Pinheiros, nesta cidade e comarca.
+Em sede de contestação, a ré alegou que não há no contrato dispositivo que afirme vigilância 24 horas sobre o veículo do autor. 
+Entretanto, conforme se infere do documento de fls. 100/104, o contrato era de rastreamento de veículos por satélite e não de seguro. E tal rastreamento, como se pode observar, não impede a ocorrência de ato danoso ao patrimônio do contratante, mas somente permite a localização do veículo.
+Veja-se que a falha na prestação do serviço alegada residiria na circunstância de, no momento da subtração, não ter a ré logrado fornecer a localização exata do veículo. Entretanto, a esse respeito esclarece a demandada, no que encontra respaldo nas disposições contratuais, que a tecnologia empregada não permite o monitoramente ininterrupto do veículo, estando condicionado ao recebimento de sinais, que, por seu turno, depende do serviço de telefonia e suas limitações.
+Nesse sentido faz-se transcrição da seguinte cláusula contratual:
+1.5 E ainda, a PRESTADORA COMODANTE não se responsabilizará nos casos de:
+a) Eventuais problemas decorrentes da rede pública ou privada de telecomunicações que venham a interromper ou mesmo impossibilitar a prestação dos serviços objeto do presente contrato ou até mesmo a clonagem da linha telefônica;
+b) Paralisação ou interrupção dos serviços objeto do presente contrato por determinação do Poder Público, casos fortuitos ou força maior;
+c) Danos, furtos, roubos, seqüestros que venham a ocorrer com o veículo e/ou carga do CLIENTE COMODATÁRIO bem como de seus ocupantes;
+d) Greves parciais ou gerais que afetem os serviços contratados, com exceção dos funcionários da PRESTADORA COMODANTE;
+e) Condições meteorológicas excepcionalmente prejudiciais que venham afetar a prestação dos serviços contratados;
+f) Inoperância do sistema de telecomunicações utilizado pela PRESTADORA COMODANTE para o rastreamento do veículo do CLIENTE COMODATÁRIO ou ainda a inoperância do sistema de satélites;
+g) Mau uso do equipamento ocasionado pela não observância dos procedimentos cabíveis descritos no manual de operações e pelo desconhecimento da instalação/utilização do equipamento por parte do CLIENTE COMODATÁRIO;
+h) Interrupção ou suspensão temporária da prestação de serviços, efetuada pela PRESTADORA COMODANTE, em virtude de modificações ou reparos no equipamento, necessárias para o seu melhor e correto funcionamento;
+i) Ruptura, corte, violação do equipamento ou antenas de sinal instalados no veículo;
+j) Suspensão ou interrupção dos serviços contratados por inadimplência do CLIENTE COMODATÁRIO.
+Mesmo que se ignore a questão tecnológica relacionada ao fato e se admita a falha na prestação do serviço contrato, ainda assim não seria viável o reconhecimento do dever de indenizar alegado. 
+Como já dito linhas atrás, o contrato não foi firmado de modo a impedir a subtração do bem, nem mesmo obrigou-se a ré a recuperar o veículo, muito menos algum prazo foi estabelecido para tal providência. O contrato, com as limitações tecnológicas do serviço, previa apenas o rastreamento do bem caso não houve falhas tecnológicas na transmissão dos sinais.
+Assim já se decidiu:
+RESPONSABILIDAE CIVIL. PRESTAÇÃO DE SERVIÇO COM TELE ALARME. FURTO EM ESTABELECIMENTO COMERCIAL. NÃO ACIONAMENTO DO ALARME. AUSÊNCIA DO NEXO DE CAUSALIDADE. OBRIGAÇÃO DE EVITAR O DANO. INEXISTÊNCIA. Embora presente a falha na prestação do serviço, já que os prepostos da demandada não compareceram no local, autorizando o rompimento do vínculo contratual, não vislumbro daí emergir o dever de indenizar. É que o contrato era de monitoramento à distância, e não de seguro. E tal monitoramento, como se pode observar, não impede a ocorrência de ato danoso ao patrimônio da contratante, mas somente informa sobre irregularidades que tenham ocorrido ou estejam a ocorrer, como a movimentação de estranhos no local onde se acha instalado o alarme ¿ na parte interna, saliente-se. APELO IMPROVIDO. (Apelação Cível Nº 70022380588, Décima Câmara Cível, Tribunal de Justiça do RS, Relator: Paulo Antônio Kretzmann, Julgado em 08/05/2008)
+Portanto, descabe responsabilidade por parte da ré de indenizar o autor por não ter rastreado o veículo no momento do furto.
+Releva notar, por fim, que o serviço de rastreamento de automóveis não é de segurança ? de seguro ? do patrimônio. Os contratos são diversos, com objetos também diferentes. 
+Ademais, o fato de ter sido o autor assaltado por outros motociclistas que o renderam, ato de terceiro, por si só já excluiria qualquer responsabilidade que não fosse aquela decorrente do típico contrato de seguro.
+Mas não é só. 
+A ré não é responsável pelo fato da subtração do bem. Não responde a ré, pois, por tal ato ilícito.
+Ocorre que, conforme já foi afirmado anteriormente, a ré prestou, nos limites da contratação e da tecnologia posta à disposição, o serviço contratado.
+As condições de tecnologia do serviço prestado foram claramente salientadas no contrato.
+Na espécie, o que eventualmente introduziria a responsabilidade da contratada seria a falta ou deficiência de informação quanto à possibilidade de não haver transmissão de sinal telefônico, fato que não ocorreu.
+Por fim, cabe ressaltar que contrato de rastreamento não dispensa o contrato de seguro para furto. 
+De fato o autor quer fazer crer que os danos decorrentes e reflexos do assalto foram culpa da prestadora do serviço, o que não condiz com a realidade.
+O serviço de rastreamento de veículo por satélite não impede a ocorrência de ato danoso ao patrimônio da contratante, mas somente permite a localização do bem quando não há falha na transmissão dos sinais de telefonia. 
+A localização do bem, comunicado o fato, depende de vários fatores, inclusive da existência de sinal telefônico de comunicação com o receptor de GPS.
+Releva notar, por fim, que a localização do bem não é um fato certo, já que, após a subtração, vários fatores podem contribuir para a não localização do bem. Ora, em alguns lugares o próprio aparelho de telefonia celular não funciona, não se podendo afirmar que não há razoável prestação do serviço.
+Posto isso, JULGO IMPROCEDENTES os pedidos formulados por ALESSANDRO ROCCHI contra OMNLINK TECNOLOGIA S/A empresa que incorporou a MOBISAT SISTEMAS DE RASTREAMENTO LTDA, com fulcro no artigo 269, I, do Código de Processo Civil.
+Em razão da sucumbência, condeno o autor ao pagamento das custas processuais e honorários advocatícios da parte ex adversa que arbitro em R$ 1.000,00 (um mil reais) tal como dispõe o artigo 20, § 4º, do Código de Processo Civil, devendo ser observada a disciplina do artigo 12 da Lei n.º 1.060/50 por ser o autor beneficiário da gratuidade processual.
+P.R.I.C. Após o trânsito em julgado, ao arquivo.  
+São Paulo,14 de junho de 2010.
+Juíza de Direito  -  Dra. FERNANDA DE CARVALHO QUEIROZ  
+Assinado digitalmente nos termos do artigo 164, parágrafo único, do Código de Processo Civil, acrescentado pela Lei Federal nº 11.419/2006.

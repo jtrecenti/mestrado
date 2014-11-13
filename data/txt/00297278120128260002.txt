@@ -1,0 +1,99 @@
+
+
+SENTENÇA 
+
+
+Processo nº:0029727-81.2012.8.26.0002 - Procedimento Ordinário
+Parte Demandante:Vanderlei Gonçalves Pinheiro Legumes EPP - Coopervale
+Parte Demandada:Tim Celular S/A
+
+
+
+VISTOS.
+
+
+
+
+Consta da petição inicial, em resumo, que, em 08.11.2011, as partes ajustaram a prestação de serviços de telefonia móvel. Porém, em 10.1.2012, a ré não prestou os serviços de maneira adequada, ao bloquear os 40 "chips". Posteriormente, a autora foi informada que a medida se devia às divergências cadastrais, mas não resolveu o problema. Mesmo com uma reclamação na ANATEL, em 14.3.2012, a ré manteve-se inerte. Esclareceu a autora, ainda, que estava em dia com os pagamentos das faturas e que havia remetido para a ré todas as informações e documentos solicitados. A ré descumpria o contrato que garantia à autora a realização de chamadas ilimitadas locais e a longa distância pelo DDD "41".  Ao final, a autora deduziu os seguintes pedidos: a) manutenção do contrato, retomando-se os serviços bloqueados e b) indenização por danos morais no valor de R$ 10.000,00 (dez mil reais). 
+
+
+A ré apresentou resposta (fls. 97/104). Em breve resumo, além de sustentar a não aplicação do Código de Defesa do Consumidor, defendeu a regularidade dos serviços e da conduta adotada. Afirmou que a autora descumpriu duas cláusulas contratuais: a) 3.3.1.2. Utilização de equipamentos como GSM Box, Black Box e equipamentos similar e b) 3.3.1.3. Uso estático (sem mobilidade) do aparelho em cerca de 60% do tráfego originado pelo Cliente e recebimento de ligações em proporção inferior a 33% do volume originado, por mês. A suspensão dos serviços traduzia uma prerrogativa do contrato, diante do inadimplemento perpetrado pela autora. No mais, a ré impugnou a pretensão de reparação dos danos morais. 
+
+
+Houve réplica (fls. 126/130).
+
+É O BREVE RELATO.
+
+FUNDAMENTO E DECIDO.
+
+
+
+O processo comporta imediato julgamento, dispensando-se a produção de outras provas, nos termos do artigo 330, inciso I do Código de Processo Civil. 
+
+
+A ação é parcialmente procedente.
+
+
+Efetivamente, de acordo com o apurado nos autos, ré não provou que a autora descumpriu suas obrigações contratuais. 
+
+
+Primeiro, não produziu qualquer indício de utilização de equipamentos denominados GSM BOX, BLACK BOX ou similares. Não esclareceu como chegou a tal conclusão. Sequer trouxe para os autos vistoria prévia sobre o tema. E a autora negou a ocorrência de tal fato ? a demonstração exigia prova documental. Aliás, não esclareceu no que aquilo poderia comprometer o equilíbrio contratual e a função social do negócio jurídico. 
+
+
+E segundo, reconheço a nulidade da disposição contratual descrita  no item "3.3.1.3.". Entendo não haver probidade e boa-fé numa imposição da TIM para que não exista o chamado "uso estático" do aparelho. Se a autora mantém a utilização numa mesma região ? com estabelecimentos sob uma mesma ERB ? não faz justa e adequada a obrigação contratual para a mobilidade dos aparelhos celulares. O móvel da publicidade desenvolvida pela TIM para os planos corporativos é a promessa de custo zero ou reduzido (fixo) nas ligações TIM para TIM ? fato notório e confirmado na defesa. Na publicidade e na oferta, nenhum destaque é lançado para a exigência de mobilidade dos aparelhos - isto é, para que os aparelhos não sejam utilizados pelo cliente sempre na área de uma mesma estação (antena). Neste passo, a solução do conflito é a mesma pelo Código Civil ou pelo Código de Defesa do Consumidor: declaração de nulidade da cláusula contratual, porquanto a disposição violadora de boa-fé objetiva deve ser declarada nula. 
+
+No campo das obrigações, pode-se dizer que os princípios constitucionais e da legislação ordinária (notadamente o Código Civil de 2002 ? princípios da boa-fé, probidade e função social do contrato e da empresa) criaram para "cláusulas gerais' e "deveres anexos" (ou obrigações laterais), inclusive a necessária transparência e informação.  
+
+
+Em outras palavras, na concretização daqueles princípios, havia para a empresa ré um  dever anexo implícito, na hipótese de contemplação de um consumidor portador de necessidades especiais pela campanha publicitária promocional: criar condições de acesso ao desfile para os mesmos.
+
+
+A respeito da "obrigação como processo", confira-se o magistério de CLÓVIS DO COUTO E SILVA percussor no Brasil de da ampliação do estudo das fontes das obrigações, para alcançar mais do que aquilo que era pregado pela teoria tradicional (estática), avançando para uma idéia dinâmica. As obrigações tinham origem na realidade social ? nos contatos sociais. Poderiam as obrigações derivar inclusive da concretização do princípio da boa-fé e das "condutas sociais típicas".
+
+
+No Superior Tribunal de Justiça, vale menção o Recurso Especial nº 107.211-SP, 4ª Turma, relatado pelo Ministro RUY ROSADO DE AGUIAR, julgado em 03.12.1996, que admitiu um "dever anexo" de proteção, justamente como originário da aplicação do princípio da boa-fé. Merece referência pela valorização do princípio da boa-fé no direito privado, desde o CC de 1.916.
+
+
+Confira-se precioso precedente do Egrégio Tribunal de Justiça de São Paulo, Apelação nº 0134186-53.2006.8.26.0000, 4ª Câmara de Direito Privado, relator o Desembargador FRANCISCO EDUARDO LOUREIRO, julgado em 15.9.2011, destacando-se a importância das expectativas criadas e das informações trocadas:
+
+"Sabido que o princípio cardeal do direito contratual contemporâneo é o da boa-fé objetiva, que nada mais almeja do que a segurança das relações negociais, impondo um dever ?de cada parte agir de forma a não defraudar a confiança da contraparte? (Fernando Noronha, O Direito dos Contratos e seus Princípios Fundamentais, Editora Saraiva, p. 18).
+"Logo, se não havia uma real intenção de finalizar o negócio, era dever primário do réu-apelante desfazer a falsa ilusão criada pela situação, deixando claro à autora que os problemas jurídicos encontrados não conduziriam o contrato a bom termo. É o que se denomina deveres de informação e de esclarecimento, fundamentais na fase das tratativas negociais (Régis Fichtner Pereira, A Responsabilidade Civil Pré-Contratual, Renovar, pgs. 92 e seguintes). 
+
+"Não é aparentemente o que ocorreu. Os sucessivos encontros das partes, conforme reconhecido pelos litigantes, somados à antecipação, pela autora, de vários gastos no imóvel, criou a falsa imagem de que o negócio já estava finalizado, bastando a formalização pelo instrumento devido."
+
+
+
+No caso dos autos, ofende a boa-fé (objetiva) a conduta da ré de ofertar no mercado de consumo por meio de publicidade maciça um serviço atrativo com baixo custo, para depois inserir cláusulas contratuais de restrições ao mesmo, notadamente exigindo que o cliente (usuário ou consumidor) não possa fazer uso por muito tempo numa região. A boa-fé diz o contrário: se o cliente está situado numa região, natural que o uso da telefonia móvel seja concentrado numa região  pouco importando o tráfego acarretado para uma Antena.
+
+
+É verdade que a autora adquiriu uma quantidade substancial de aparelhos ou "chips" (40) ? pela atividade de comércio. Mas a ré não produziu prova de que tenha ocorrido fraude ? o desvio de finalidade na utilização do serviço: no desenvolvimento exclusivo das atividades comerciais da autora. Por isso, deve prevalecer a presunção de que a autora obteve os benefícios do plano "LIBERTY EMPRESA" e manteve o uso do serviço em suas atividades. Não se pode presumir a má-fé. 
+
+
+Fica ressalvada para a ré a possibilidade de, em ação judicial distinta, provar que a autora passou a fazer uso indevido das linhas assim considerado o uso fora de suas atividades comerciais (por exemplo, cessão a pessoas de fora do quadro da sociedade ou de funcionários, ainda que parentes dos mesmos), para então solicitar a rescisão do contrato. Poderá a ré, por exemplo, instaurar procedimento para verificação da utilização dos aparelhos ? solicitando-se da autora informações sobre usuários e identificação das funções no comércio. 
+
+
+Por último, rejeito o pedido de indenização dos danos morais. Embora se reconheça a possibilidade da pessoa jurídica experimentar danos extrapatrimoniais (súmula do STJ), a hipótese sob julgamento revela-se peculiar. A autora não demonstrou como a conduta da ré atingiu sua imagem ou reputação comercial.  Prejuízos materiais (ou perda de uma chance) não se confundem com danos morais. 
+
+
+
+DISPOSITIVO. 
+
+
+Ante o exposto, JULGO PROCEDENTE a ação promovida por Vanderlei Gonçalves Pinheiro Legumes EPP - Coopervale em face de Tim Celular S/A, para manter o contrato ajustado entre as partes e impor à  ré o cumprimento de obrigação de fazer consistente na retomada dos serviços. Durante o período de bloqueio, a ré não poderá cobrar nenhum valor da autora, declarados inexigíveis. CONCEDO A TUTELA ANTECIPADA NO CORPO DA SENTENÇA. Demonstrado o direito da autora à manutenção do contrato, reconheço o prejuízo se mantida a interrupção dos serviços de telefonia (considerados essenciais), até final decisão do processo. Os serviços deverão ser retomados, no prazo de 05 (cinco) dias, contados da publicação da sentença, independente da interposição de recursos (embargos de declaração, apelação, agravo, etc.), sob pena de incidência de multa diária de R$ 10.000,00 (dez mil reais), até o limite de 30 dias, operando-se o bloqueio semanal da quantia pelo sistema BACEN-JUD e caracterização do crime de desobediência. Mantido o descumprimento da tutela antecipada, serão adotadas outras medidas de apoio. 
+
+
+Considerando-se a sucumbência na maior parte do pedido, a ré ainda arcará com o pagamento das custas judiciais, despesas processuais e dos honorários advocatícios, estes fixados, para a fase de conhecimento, em R$ 510,00 (quinhentos e dez reais) - acrescidos de correção monetária, a partir da presente data.
+
+
+A base de cálculo da taxa judiciária na fase recursal: o valor da causa ? sem acréscimos. 
+
+
+P.R.I.
+
+São Paulo,03 de julho de 2012.
+
+
+     Alexandre David Malfatti  
+            
+CERTIDÃO ? PUBLICAÇÃO
+Certifico e dou fé que a  decisão ou sentença anterior foi enviada ao D.J.E. Disponibilização em  _____ / _____ / 2012. Considera-se data da publicação o primeiro dia útil subseqüente à data acima mencionado. Eu, .............................. escr. , digitei e subscrevo.

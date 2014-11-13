@@ -1,0 +1,85 @@
+
+
+SENTENÇA
+
+Processo nº:0172215-56.2012.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Perdas e Danos
+Requerente:Técnicas Eletro Mecânicas Telem S/A
+Requerido:Lifts Posa Ltda
+
+
+
+
+
+
+VISTOS.
+
+
+TÉCNICAS ELETRO MECÂNICAS TELEM S.A. ajuizou a presente ação indenizatória contra LIFTS POSA LTDA., alegando, em suma, que na execução de contrato de empreitada global, cujo objeto era a prestação de serviços de finalização da construção do teatro Faria Lima, contratou a ré para fornecimento e instalação de um elevador monta-carga elétrico, automático, tipo EMC/05, com as características descritas na proposta comercial nº 062/2010, pelo valor total de R$ 172.000,00. Aduz que, após o fornecimento e instalação do elevador, a autora foi notificada pela empresa Magenta Participações S.A. acerca da divergência do monta carga-elétrico com as especificações exigidas, o que foi comprovado. Ocorre que a ré não cumpriu termo de compromisso assinado e deixou de restituir à autora o valor recebido.
+
+Por tais razões, requer a procedência do pedido para que a ré seja condenada ao pagamento de R$ 172.000,00, com os acréscimos legais.
+
+A petição inicial veio instruída com documentos (fls. 18/104.).
+
+Citada, a ré ofertou contestação (fls. 111/130), aduzindo basicamente que o as medidas e peso do equipamento foram indicados pelo corpo técnico da autora, tendo ocorrido erro no contrato quanto à indicação de elevador de monta carga, pois as partes avençaram o fornecimento de elevador de carga. Salienta que a empresa Magenta Participações S.A. resolveu instalar no local um equipamento de elevador social. Afirma não ter assumido a obrigação de restituir os valores pagos pela autora. Pugna pela improcedência da pretensão. A contestação veio acompanhada de documentos (fls. 131/159).
+
+Réplica a fls. 162/173.
+
+Saneador a fls. 174/175, oportunidade em que foi determinada a produção de perícia de engenharia.
+
+Laudo pericial a fls. 213/279, sobre o qual se manifestaram as partes.
+
+É o relatório.
+Fundamento e Decido. 
+
+O pedido é procedente.
+
+Com efeito, as partes avençaram o fornecimento e instalação, pela ré, do equipamento com as especificações técnicas indicadas a fls. 36/37, pelo valor de R$ 172.000,00.
+
+O minucioso laudo pericial, realizado por Perito nomeado pelo Juízo e equidistante das partes, concluiu que:
+
+A máquina do equipamento é um redutor da marca URUPÊS, de boa qualidade, do tipo coroa e sem fim, do tipo 'MOTOFREIO', com freio a disco na extremidade externa do motor.
+Sistemas com motofreio podem apresentar defeitos de magnetismo residual e mau funcionamento do freio de serviço. Nesse sentido, a máquina em questão configura-se inadequada para o tipo de utilização previsto, devendo ter sido prevista a utilização do tipo 'SAPATA'.
+A polia de tração utilizada possui 4 canais. No entanto, o elevador tem apenas 3 cabos de tração. Esta utilização permite a nucleação de trincas de fadiga na base do canal que fica ao lado de um canal vazio.
+As polias de desvio utilizadas têm diâmetro pequeno para o seu uso. Este diâmetro deveria ser de pelo menos 35 vezes o diâmetro dos cabos de tração (cabos de 12,5mm), ou seja, as polias deveriam ter no mínimo 420mm de diâmetro.
+A utilização de polias de desvio com diâmetro inferior ao recomendado prejudica a vida útil dos cabos e favorece quebras de malhas superficiais dos cabos por fadiga.
+Foi verificado que o limitador de velocidade vistoriado é um componente usado, marca SCHINDLER, calibrado para disparo em velocidade muito acima daquela que poderia operar. O equipamento originalmente equipava um elevador com velocidade 60m/min, com velocidade de disparo de 72m/min, superior à velocidade do elevador vistoriado, que era de 12m/min.
+Foi ainda constatado que o limitador em questão não dispõe de contato elétrico que corta a alimentação do motor quando o mesmo é acionado.
+O tensor do cabo limitador utilizado, que fica no fundo do poço, é uma peça importada da marca OTIS, parte integrante de um conjunto do tipo B$ - LIMITADOR DE BOLAS, há muito tempo fora de uso. Estima-se que o tensor do cabo do limitador era da década de 50 ou 60.
+Foi observado que não há contato elétrico no tensor vistoriado, em contradição com as normas aplicáveis.
+Os blocos de segurança (freios) da cabina foram instalados de forma errada, podendo não funcionar quando do disparo do limitador.
+Não faz parte dos equipamentos vistoriados o limitador de velocidade do contrapeso, componente obrigatório pelo fato de existirem recintos habitados sob o poço.
+Ainda que o limitador do contrapeso fosse instalado, o mesmo jamais poderia operar nas guias de chapa dobrada fornecidas pela Ré.
+As guias de cabina verificadas são perfis laminados do tipo T, modelo T89. O correto seria a utilização dos perfis mais pesados, também laminados do tipo T, porém do modelo T127.
+As guias do contrapeso são tipo chapa dobrada, inadequadas para operação em elevadores de carga. O usual são guias de chapa dobrada em elevadores de passageiros com capacidades baixas (até 10 passageiros ou 750 Kg de carga);
+Os braquetes (suportes de guias) foram executados em chapa dobrada, porém o correto é que tais suportes sejam executados em perfis laminados.
+Os braquetes da cabina são muito grandes, não conferindo estabilidade ao conjunto das guias que mantém o elevador dentro da caixa corrida em condições estáveis. O correto é que as dimensões da caixa corrida sejam reduzidas por vigas, ficando os braquetes com tamanho máximo da ordem de 30 cm, e não 1,50 m como verificado no equipamento vistoriado.
+Foram observadas muitas marcas de solda nas guias. A boa técnica prevê que as guias sejam fixadas em clipes de aço forjado, presos nos braquetes.
+As molas do equipamentos são muito frágeis para permitir eventual choque da cabina carregada nas mesmas. Elevadores desta natureza possuem pelo menos 2 molas para a cabina e 2 para o contrapeso, com diâmetro de espira no mínimo 2 vezes maior do que aquelas das molas examinadas.
+Os pilaretes de apoio das molas do contrapeso foram fabricados com perfis esbeltos, suscetíveis a flambagem na hipótese de choque da cabina ou do contrapeso com as molas. Foi observado que seus apoios foram confeccionados de forma inadequada, uma vez que as molas amortecedoras deveriam estar apoiadas em pilaretes de concreto.
+Ainda que fossem utilizados os apoios vistoriados, os mesmos deveriam estar travados em duas direções com mãos francesa em aço, situação não verificada no equipamento vistoriado.
+A plataforma da cabina foi executada em chapa de 3 mm de espessura, quando o correto seria pelo menos o dobro disso (chapa de ¼). Os reforços da plataforma também foram executados em chapa fina, de 3 mm, não garantindo o mínimo de resistência à carga concretada que o piso da cabina deveria suportar, ou seja, 25% da carga total licenciada.
+As portas de pavimento não possuem trincos ou rampas de acionamento dos mesmos e as portas da cabina não são dotadas de trincos. Não foram observados contatos elétricos de segurança nas portas de cabina ou de pavimento.
+As soleiras de pavimento não possuem reforços que permitam a concentração de cargas sem deformação das mesmas.
+Os mecanismos de sustentação das portas de pavimento foram executados em chapa fina, quando o correto teria sido utilizar barras laminadas.
+As armações de contrapeso e da cabina foram executadas em chapa dobrada, quando o correto teria sido utilizar aço laminado com espessura entre 6 e 8 mm (fls. 222/225).
+
+O experto ainda constatou falhas generalizadas nos serviços de soldagem das armações. A ré, por sua vez, não apresentou elementos técnicos hábeis a afastar a conclusão pericial.
+
+Assim, ainda que as especificações técnicas tenham sido apresentadas pelo corpo técnico da autora ou mesmo que as características gerais da máquina correspondam ao que foi contratado, conclui-se que a construção e instalação foram realizadas de forma totalmente inadequadas ao uso a que se destinava o equipamento.
+
+Destarte, não tendo a ré sanado as inúmeras irregularidades apontadas pelo Perito, tem o dever de restituir à autora o valor pago, sob pena de violação ao princípio que veda o enriquecimento sem causa. 
+
+Ante o exposto, JULGO PROCEDENTE o pedido da presente ação movida por TÉCNICAS ELETRO MECÂNICAS TELEM S.A. contra LIFTS POSA LTDA. para o fim de condenar a ré ao pagamento de R$ 172.000.00, com correção monetária desde o desembolso e juros de mora de 1% ao mês a contar da citação.
+ 
+Pelo princípio da causalidade, condeno a ré ao pagamento das custas e despesas processuais, bem como honorários do patrono da autora, arbitrados estes em 10% do valor atualizado da condenação. 
+
+P.R.I.
+
+São Paulo, 31 de julho de 2013.
+
+
+RODRIGO CÉSAR FERNANDES MARINHO
+Juiz de Direito
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

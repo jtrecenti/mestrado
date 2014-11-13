@@ -1,0 +1,62 @@
+
+
+SENTENÇA
+
+Processo nº:0100783-74.2012.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Arrendamento Mercantil
+Requerente:Rafael Gustavo Soares de Melo
+Requerido:Banco Itau Bba S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Pedro Rebello Bortolini
+
+
+Vistos.
+
+RAFAEL GUSTAVO SOARES DE MELO ajuizou ação contra o BANCO ITAÚ BBA S.A., com pedido de tutela antecipada, aduzindo, em síntese, que celebrou com o réu contrato de arrendamento mercantil (?leasing?), pelo qual adquiriu a posse direta do automóvel Citroën C4, ano 2009, modelo 2012, chassi nº VF7UDRFJWAJ509989.  Diz que referido contrato, com início em 17.4.2010 e término em 17.3.2015, previa, além do pagamento de 60 (sessenta) parcelas relativas à contraprestação, o pagamento 60 (sessenta) parcelas a título de antecipação do valor residual garantido (VRG).
+A inicial afirma que, em 15.12.2011, o autor notificou o réu acerca do seu interesse em rescindir o contrato, mediante a devolução do veículo objeto do arrendamento, e com a restituição pelo banco das parcelas do VRG. 
+O autor invoca a ilegalidade de cláusulas do contrato, a fim de justificar o pedido de rescisão, com a consolidação do réu na propriedade do automóvel e com a condenação do demandado à devolução integral dos valores pagos a título de VRG, a serem apurados em liquidação de sentença. 
+Pede, ainda, a decretação de nulidade de cláusulas do contrato, notadamente das cláusulas 11 e 30 (que estipulam o pagamento do VRG sem prever a sua devolução), da cláusula 23 (que estipula a obrigação de emitir nota promissória representativa de obrigação do contrato) e da cláusula que impõe ao arrendatário, para o caso de rescisão antecipada do contrato, a devolução do veículo mais o pagamento do valor previsto para o caso de perda, que corresponde à soma das contraprestações vincendas com as vencidas e não pagas, mais o VRG (cláusulas 30.3 e 16).
+Foi formulado pedido liminar de tutela antecipada, relegando-se a sua apreciação para depois da contestação.
+Com a inicial foram juntados documentos (fls. 19/49).
+Comparecendo espontaneamente (fls. 85/93), o banco réu ofereceu contestação (fls. 96/118), sustentando, em síntese, a legalidade do VRG, enquanto garantia contratual, bem como a inexistência do direito do réu à sua restituição, que resultaria no desequilíbrio econômico-financeiro do contrato. Ao final, postulou a ?improcedência total dos pedidos de restituição de valores? (fl. 118), nada dizendo, todavia, sobre o pedido de resolução do contrato.
+Com a contestação foram juntados documentos (fls. 119/223).
+Réplica a fls. 227/250.
+Frustrada a tentativa de conciliação, vieram-me os autos conclusos (fl. 263).
+É o relatório. Fundamento e decido.
+O feito comporta julgamento no estado em que se encontra, nos termos do art. 330, I, do Código de Processo Civil, eis que prescinde da produção de outras provas.
+A ação é parcialmente procedente.
+Embora a resolução do contrato por conta do inadimplemento seja uma faculdade do credor e não do devedor (Código Civil, art. 475), neste caso se impõe o acolhimento do pedido de rescisão porquanto tacitamente aceito pelo réu, que se limitou a defender a legalidade da cobrança (e retenção) do VRG e das cláusulas do contrato, sem jamais se opor à resolução do contrato. Com efeito, ao final da contestação pede-se a improcedência dos ?pedidos de restituição de valores? (fl. 118), sem nenhuma menção ao pleito resolutório. Além disso, em virtude da confessada inadimplência do autor, incide no caso a disposição constante da cláusula 30.1 do contrato, que prevê o seu vencimento antecipado. 
+Como efeito da resolução contratual ora declarada, impõe-se ao autor devolver imediatamente o automóvel à ré, que por sua vez não poderá recusar-se a aceitá-lo. Caberá ao autor, contudo, honrar o valor das contraprestações vencidas até a presente data, eis que, não obstante a notificação constante da fl. 45, continuou utilizando o carro mesmo estando inadimplente. Entendimento contrário implicaria enriquecimento ilícito por parte do demandante, com injustificável prejuízo para o banco.  
+Por outro lado, assiste razão ao autor quanto ao pedido de devolução dos valores cobrados a título de VRG (valor residual garantido). Em que pesem as judiciosas ponderações do réu, referida verba consiste num adiantamento feito pelo arrendatário para o caso do exercício futuro da opção de adquirir o bem arrendado ao final do prazo do contrato.
+Sendo assim, operando-se a resolução do contrato por conta do inadimplemento, não se justifica a retenção do VRG pelo arrendador, reputando-se nulas, por violação dos princípios da boa-fé e da função social dos contratos (Código Civil, arts. 421 e 422), quaisquer cláusulas que excluam o direito do arrendatário à restituição dessa verba. Além disso, por conta da sujeição das partes ao regime do direito consumerista, cláusulas nesse sentido são também inválidas por violação do art. 51, IV, do Código de Defesa do Consumidor.  
+Bem por isso se justifica o acolhimento do pedido de decretação da nulidade parcial das cláusulas 11 e 30 do contrato de arrendamento, a fim reconhecer o direito do arrendatário à restituição das parcelas pagas a título de VRG em virtude da resolução do contrato (que poderão, todavia, ser compensadas com as parcelas vencidas e não pagas até a efetiva devolução do automóvel pelo arrendatário bem como os demais encargos moratórios e compensatórios eventualmente previstos no contrato, à exceção daqueles declarados inválidos por esta sentença).
+Assim tem decidido o Eg. Superior Tribunal de Justiça, conforme se verifica a partir deste recentíssimo julgado:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.ART. 6º DA LINDB (ANTIGA LICC). MATÉRIA DE ÍNDOLECONSTITUCIONAL. ARRENDAMENTO MERCANTIL (LEASING).VALOR RESIDUAL GARANTIDO (VRG) PAGOANTECIPADAMENTE. DEVOLUÇÃO. PRECEDENTES. 1. A matéria de que trata o art. 6º da Lei de Introdução às Normas doDireito Brasileiro (antiga Lei de Introdução ao Código Civil) temíndole nitidamente constitucional, razão pela qual sua apreciaçãodesborda dos limites normativos do recurso especial. 2. Com a resolução do contrato de arrendamento mercantil porinadimplemento do arrendatário e a consequente reintegração dobem na posse da arrendadora, é devido o cumprimento das parcelasvencidas e não pagas até a efetiva entrega do bem peloarrendatário, ressalvada a devolução ou compensação dos valorespagos antecipadamente a título de VRG. 3. Agravo regimental a que se nega provimento (AgRg no AREsp 38.824?SC, Rel. Ministro RAUL ARAÚJO, QUARTATURMA, julgado em 22?05?2012, DJe 01?08?2012; destacou-se).
+Além disso, também se reputa nula, por violação dos artigos 421 a 422 do Código Civil e do art. 51, IV, do Código de Defesa do Consumidor, a disposição constante da cláusula 30.3 do contrato de arrendamento, que no caso de vencimento antecipado da avença por inadimplemento impõe ao arrendatário, sem prejuízo da obrigação de devolver o veículo, o dever de pagar ao banco o valor previsto para o caso de perda do bem (cláusula 16), correspondente à soma de todas as contraprestações vincendas com as vencidas e não pagas, mais o VRG. Obrigar-se o arrendatário ao pagamento de todas as contraprestações vincendas mais o VRG afigura-se manifestamente iníquo, ensejando a invalidade.
+Referida disposição contratual, na parte que determina o pagamento integral do VRG, excluindo a sua restituição ao arrendatário, também viola o art. 53 do Código de Defesa do Consumidor. Dada a natureza do VRG (de antecipação de pagamento do preço para a hipótese de exercício da opção de adquirir o bem arrendado), não poderia o contrato estabelecer, como efeito da sua resolução, o pagamento de tudo o que já fora pago a esse título.  
+Por outro lado, não se verifica a nulidade da cláusula 23 do contrato, eis que a obrigação de emitir nota promissória a ele vinculada, a par de não se configurar abusiva, encontra expressa previsão no art. 1º, II, da Lei nº 11.649, de 4 de abril de 2008. É certo, no entanto, que referido título deverá adequar-se às disposições contratuais válidas, ou seja, não pode exprimir valor superior àquele correspondente a obrigação do arrendatário. 
+Como, ademais, não se pede nesta ação a nulidade da nota promissória em si, mas tão somente da obrigação de emiti-la (a qual não se sabe se já foi ou não cumprida), inviável acolher a pretensão do autor para decretar-se a invalidade da cláusula. 
+Por fim, vislumbra-se a presença dos requisitos necessários à antecipação parcial dos efeitos da tutela. A verossimilhança das alegações do autor acha-se devidamente demonstrada, conforme exposição supra, verificando-se o risco de dano grave e irreparável por conta da possível inscrição do demandante nos cadastros de inadimplentes, que gera abalo ao crédito e à reputação das pessoas.
+Ademais, não há periculum in mora inverso, pois a concessão da medida, limitada à exclusão do nome do autor dos cadastros de inadimplentes, não impede o réu de cobrar o que porventura lhe for devido (CPC, art. 585, § 1º), sendo facilmente reversíveis os efeitos da medida ora deferida.
+
+Por isso, CONCEDO PARCIALMENTE A TUTELA ANTECIPADA, para os fins de:
+(i) determinar ao réu que se abstenha de lançar o nome do autor nos cadastros de proteção ao crédito por conta da dívida relativa ao contrato de arrendamento mercantil objeto desta ação, sob pena de multa única no valor de R$5.000,00 (cinco mil reais), sem prejuízo da adoção de outras medidas coercitivas que se fizerem necessárias para o cumprimento da presente determinação. Caso o réu exista apontamento da dívida nestes cadastros, fica desde logo deferida a expedição de ofício ao SERASA/SPC, a fim de que promovam o seu cancelamento; e 
+(ii) determinar ao autor que devolva (e ao réu que receba) o automóvel objeto do contrato de arrendamento. No prazo de 5 (cinco) dias a contar da intimação da sentença, deverá o réu informar, mediante petição protocolizada em cartório, o local onde o veículo deverá ser entregue (desde que no município de São Paulo), bem como a pessoa encarregada de recebê-lo. Em seguida, intime-se o autor para, também no prazo de 5 (cinco) dias, efetuar a entrega do automóvel, comprovando a este Juízo a prática do ato no prazo de 5 (cinco) dias.
+Por todo exposto, julgo PARCIALMENTE PROCEDENTE a ação, com fundamento no art. 269, I, do Código de Processo Civil, para os fins de: 
+(i) declarar resolvido o contrato de arrendamento mercantil celebrado entre as partes que tem por objeto o automóvel Citroën C4, ano 2009, modelo 2012, chassi nº VF7UDRFJWAJ509989. Como efeito da resolução, condeno o réu a restituir ao autor as parcelas pagas a título de VRG (?valor residual garantido?), no valor mensal de R$1.213,50 (mil duzentos e treze reais e cinquenta centavos), corrigidas monetariamente pela Tabela Prática do Eg. Tribunal de Justiça de São Paulo desde o efetivo desembolso pelo autor e acrescidas de juros legais de mora de 1% (um por cento) ao mês a partir da citação. Referidas parcelas poderão ser compensadas com as contraprestações periódicas vencidas e não pagas pelo autor, computadas até a data da efetiva devolução do automóvel, e com os demais encargos previstos no contrato, excetuados aqueles declarados inválidos por esta sentença (vide item 'ii' abaixo). Ainda como efeito da resolução do contrato, deverá o autor devolver ao réu o automóvel objeto do contrato de arrendamento mercantil.
+ (ii) decretar a nulidade parcial das cláusulas 11 e 30 do contrato, na parte em que excluem do autor o direito à restituição das parcelas pagas a título de VRG, e das cláusulas 30.3 e 16, na parte em que impõe ao autor, por conta do vencimento antecipado do contrato, o pagamento de todas as contraprestações vincendas, mais o VRG.  
+CONCEDI PARCIALMENTE A TUTELA ANTECIPADA, nos termos expostos acima.
+Considerando que a sucumbência do autor foi mínima, condeno o réu, nos termos do art. 20, § 3º, do Código de Processo Civil, a arcar com as custas e despesas processuais, além de honorários advocatícios ora arbitrados em 10% do valor atribuído à causa.
+Publique-se. Registre-se. Intimem-se. Cumpra-se.
+
+São Paulo, 09 de novembro de 2012.
+
+Pedro Rebello Bortolini
+Juiz Substituto
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

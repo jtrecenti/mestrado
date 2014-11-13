@@ -1,0 +1,38 @@
+
+
+SENTENÇA
+
+Processo nº:016.10.006766-8
+Classe  Assunto:Procedimento do Juizado Especial Cível - Obrigação de Fazer / Não Fazer
+Requerente:ANA MARIA BRASIL-ME
+Requerido:Nextel Telecomunicações LTDA
+
+
+
+
+Juiz(a) de Direito: Dr(a). Henrique Vergueiro Loureiro
+
+
+Vistos.
+
+Dispensado o relatório, fundamento e decido. 
+A preliminar será examinada no campo do mérito da pretensão. 
+Os pedidos são improcedentes. 
+Com efeito, a Nextel, fato incontroverso, enquadra-se na categoria de prestação de serviços SME (Serviço Móvel Especializado), diferentemente do sistema convencional SMP (Serviço Móvel Pessoal). 
+Aplica-se ao caso, pois, a resolução 405/2005 da Anatel que, em seu art. 17, dispõe:
+
+Art. 17 O Usuário do SME, no exercício do seu direito de escolha, deve selecionar a prestadora de STFC de sua preferência para encaminhamento de chamadas de Longa Distância a cada chamada por ele originada.
+§ 1º Considera-se de Longa Distância, quando originada no SME, a chamada destinada a Código de Acesso associado à área geográfica externa à Área de Registro de origem da chamada ou a chamada destinada a um outro país.
+§ 2º A originação de chamadas por Usuário do SME deve obedecer a procedimento  de marcação estabelecido em regulamentação específica.
+§ 3º Excetuam-se do disposto neste artigo o serviço de despacho de prestadoras do SME.
+Por força do §2º do art. 17 da referida resolução, necessária regulamentação específica (que, até o momento, não foi concretizada) para o procedimento de marcação em chamadas de longa distância. 
+Ou seja, não há ? ao menos por ora ? obrigação de a Requerida oferecer opções de operadoras, aos usuários, para chamadas de longa distância. 
+Afasto, ainda, o pedido de reparação de dano material. 
+Isso porque, a par da inexistência da obrigação do oferecimento de opções de operadoras para as chamadas de longa distância, a Requerente não comprovou ter sofrido prejuízo em razão desse comportamento. 
+Não apresentou, por exemplo, as tarifas cobradas pela operadora que teria escolhido. Não se sabe, pois, se a Autora arcaria com custo menor, se tivesse utilizado os serviços de outra operadora para chamadas de longa distância. 
+Prosseguindo, não se há de cogitar em dano moral, pois (i) não há ato ilícito praticado pela Requerida; (ii) ainda que tivesse existido, não houve abalo ao bom nome da pessoa jurídica Autora.  
+Por fim, ressalte-se que a Autora ainda é consumidora dos serviços prestados pela Requerida, conforme afirmado em audiência. Ou seja, a par da inexistência do direito à escolha da operadora para ligações de longa distância (não houve concessão da tutela antecipada), optou por manter o contrato firmado em 21.05.2009.   
+Assim, e por todo o exposto, julgo improcedentes os pedidos, resolvendo-se o mérito, nos termos do art. 269, I do CPC. 
+Sem custas e honorários (Lei nº. 9.099/95). 
+
+São Paulo, 29 de setembro de 2010.

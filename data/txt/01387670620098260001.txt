@@ -1,0 +1,69 @@
+
+
+SENTENÇA
+
+Processo nº:001.09.138767-2 - Procedimento Ordinário
+Requerente:Bar da Quadra Ltda
+Requerido:Unibanco - União de Bancos Brasileiros S/A
+
+
+Juiz(ª) de Direito Dr.(ª): Enéas Costa Garcia
+
+
+
+Vistos. 
+
+
+1. BAR DA QUADRA LTDA, qualificado nos autos, ingressou com ação indenizatória contra UNIBANCO ? UNIÃO DOS BANCOS BRASILEIROS S.A, alegando, em síntese, que: a) mantém conta corrente junto ao requerido desde 2003; b) depositou em sua conta cheque emitido por terceiro, no valor de R$ 20.000,00, o qual não foi compensado pela alínea 22 ? insuficiência ou divergência de assinatura; c) procurou a agência bancária para reaver o cheque não compensado, sendo várias vezes informado que o título estaria no cofre e que seria posteriormente restituído; d) o gerente do banco posteriormente informou que o cheque havia sido extraviado, fato confirmado pelo Setor de Ouvidoria do Banco; e) em razão do extravio do cheque ficou impossibilitado de cobrá-lo do devedor, sofrendo contratempos e abalos comerciais, sendo obrigado a negociar dívidas com seus fornecedores, o que lhe autoriza indenização de dano moral.  
+Pretende o acolhimento do pedido para: a) condenação do requerido ao pagamento do valor do cheque, com aplicação dos juros bancários; b) condenação do réu ao pagamento de indenização de dano moral. 
+
+2. O réu foi citado e apresentou contestação (fls. 78/82). Alega em defesa que: a) o banco não é devedor na relação comercial, sendo incabível a cobrança do valor do título; b) não há risco para o emitente em razão do extravio do cheque; c) forneceu carta de anuência ao autor, o que permitiria a cobrança do cheque; d) incabível indenização de dano moral.  
+3. Veio aos autos a réplica (fls. 100/105).
+É o relatório. 
+
+DECIDO.
+
+4. O feito comporta julgamento antecipado, sendo dispensável a produção de prova oral, nos termos do art. 330, I do Código de Processo Civil.
+
+5. A ação é PARCIALMENTE PROCEDENTE. 
+5.1 - É fato incontroverso que o cheque depositado pelo autor foi extraviado junto ao banco, como o próprio requerido reconheceu (fls. 25).
+Assim, tendo falhado o serviço bancário, torna-se o banco responsável perante o cliente, devendo ressarcir o valor do título, cuja cobrança inviabilizou. 
+Não se trata de obrigação de pagar como devedor do título, mas indenização por ato ilícito decorrente da falha do serviço. 
+Nesse sentido o Superior Tribunal de Justiça:
+
+Responsabilidade civil. Depósito de cheque em conta corrente.
+Compensação não realizada e cheque extraviado. Precedentes.
+1. Já decidiu a Corte que extraviado o título, por culpa do estabelecimento bancário, o beneficiário não está adstrito "a ajuizar ação para anular e substituir a promissória", podendo ingressar com a ação de responsabilidade civil.
+2. Cabível a ação de indenização, ocupa o banco o pólo passivo, não sendo a indenização fixada a substituição do devedor, mas, sim, o ressarcimento decorrente da prática de ato danoso.
+3. Ademais, se aplicada a regra geral da responsabilidade civil, não se afasta a incidência do Código de Defesa do Consumidor, neste feito, porque indiscutível a relação de consumo, assim o depósito do cheque emitido a favor do correntista, que remunera os serviços de sua conta corrente, para a cobrança, e o extravio do mesmo por culpa da instituição financeira.
+4. Recurso especial não conhecido.
+
+(STJ - REsp 238.016/SP, Rel. Ministro  CARLOS ALBERTO MENEZES DIREITO, TERCEIRA TURMA, julgado em 15/09/2000, DJ 06/11/2000 p. 201)
+
+A obrigação de a instituição financeira arcar com o valor do título extraviado tem sido proclamada na jurisprudência:
+
+O banco que recebe títulos em cobrança torna-se mandatário do credor, devendo ser diligente no cumprimento do mandato, objetivando a cobrança e o creditamento do valor na conta do mandante. Assim, extraviados os títulos e caracterizada a desídia do mandatário, é este responsável pela indenização dos danos causados. (1º TACSP ? 2ª C. ? Ap. ? Rel. Sena Rebouças ? j. 26.04.89 ? RT 646/115) (in RUI STOCO, Tratado de responsabilidade civil, 7ª ed., p. 679).
+
+Sem razão a alegação do réu no sentido de que teria emitido carta de anuência, o que supriria a falta do título. 
+Inicialmente porque não se tem conhecimento da natureza deste documento, o qual não foi apresentado. 
+Se a parte está se referindo ao documento de fls. 25 não se pode reconhecê-lo como equivalente ao título de crédito, faltando-lhe executoriedade. 
+Assim, tem o banco obrigação de restituir o valor do título (R$ 20.000,00).
+Tratando-se de responsabilidade pelo ato ilícito incide correção monetária e juros de mora desde o extravio (17/12/2009), nos termos das Súmulas 43 e 54 do Superior Tribunal de Justiça. 
+Improcede a pretensão do autor de recebimento de juros iguais aos cobrados pelo banco no caso de empréstimo (fls. 11).
+Não se trata de questão contratual, não pode o autor cobrar juros bancários e em caso de responsabilidade civil incidem os juros legais (1% a.m.).
+ 
+5.2 ? Improcede o pedido de dano moral, pois falta nexo causal entre a falha do serviço bancário e os fatos que o autor apresenta como fundamento do pedido de indenização. 
+Há que se considerar que o cheque não foi compensado, devolvido pela alínea 22. Portanto, o autor não podia contar com o valor do título. 
+Mesmo que o banco houvesse restituído o cheque o autor ainda teria que obter junto ao emitente, possivelmente até por via judicial, o pagamento do título. 
+Logo, não teria o autor pronta disponibilidade da quantia mencionada no cheque. 
+Assim, não se pode afirmar que o extravio do título seria a causa da necessidade de renegociar com fornecedores, etc. 
+Mesmo de posse do cheque o problema existiria, pois o autor ainda dependeria do pagamento do título pelo emitente ou do processo de cobrança. 
+Falta, pois, nexo causal entre a falha do serviço bancário e o alegado dano moral.  
+
+6. Diante do exposto, JULGO PARCIALMENTE PROCEDENTE o pedido para CONDENAR o requerido ao pagamento de indenização no montante de R$ 20.000,00, com correção monetária e juros de mora, à taxa legal, desde o extravio (17/12/2009).
+Tendo em vista a sucumbência recíproca ? considerando que o pedido de dano moral era parte relevante do valor da causa -, cada parte arcará com as respectivas custas e despesas processuais, compensando-se os honorários advocatícios.
+ 
+P. R. I
+
+
+São Paulo, 22 de junho de 2010.

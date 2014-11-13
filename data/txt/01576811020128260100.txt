@@ -1,0 +1,96 @@
+
+
+SENTENÇA
+
+Processo nº:0157681-10.2012.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Defeito, nulidade ou anulação
+Requerente:Jose Domingos de Santana Reis
+Requerido:Magazine Luiza
+
+
+
+
+Juiz(a) de Direito: Dr(a). Maria Rita Rebello Pinho Dias
+
+
+Vistos.
+
+I.JOSÉ DOMINGOS DE SANTANA REIS ajuizou Ação Declaratória de Inexistência de Débito c.c. Indenização por Danos Morais contra MAGAZINE LUIZA. Disse que solicitou junto à ré um cartão de crédito para compras, mas que ele não chegou, mas sim cobrança por suposto débito atinente ao seu uso, no valor de R$ 667,93. Afirma que tal cobrança é indevida, pois não recebeu o cartão nem o desbloqueou. Acredita ter sido vítima de fraude. Disse que sofreu danos morais. Requer a declaração da inexigibilidade do débito de R$ 667,93 e condenando a ré ao pagamento de danos morais em 100 salários mínimos e fixação de danos materiais em 30% o valor da condenação pois teve gastos com advogados. Junta documentos (fls. 16/28).. 
+
+Deferido o benefício da gratuidade de justiça e a tutela (fl. 40).
+
+Regularmente citada, a ré apresentou contestação (fls. 42/46). Em preliminar, alega ser parte ilegítima pois não pode ser responsabilizada pelo envio de fatura com os valores referentes à compras não reconhecidas pelo autor. Disse que a administração e cobrança de valores em razão de mercadorias comercializadas por suas lojas são atribuições exclusivas das empresas administradoras de cartão de crédito. No mérito, reitera os argumentos apresentados. Afirma que não houve dano moral. Junta documentos (fls. 48/55). 
+
+Réplica (fls. 62/71).
+
+Houve decurso do prazo sem que a ré tivesse apresentado os documentos referentes à contratação questionada (fl. 60).
+
+É o relatório.
+
+II.FUNDAMENTO.
+
+Entendo que as questões controvertidas são todas de direito ou já estão satisfatoriamente comprovadas, não havendo necessidade de produção de prova oral em audiência, nos termos do art. 130 do CPC. Por este motivo, passo ao julgamento antecipado da lide, nos termos do artigo 330, I, do CPC.
+
+No mérito, a ação é PARCIALMENTE PROCEDENTE.
+
+Noto que o autor não nega que tenha requerido a emissão de cartão de crédito. Disse, apenas, que não recebeu o cartão, não o desbloqueou nem o utilizou, desconhecendo a venda apontada a fl. 23.
+
+Enquanto que o autor nega que tenha realizado tais compras, a ré defende sua validade.
+
+Observo que foi concedido prazo para que a ré juntasse aos autos documentos comprovando que foi o autor quem efeutou as compras questionadas, sem que tenha sido apresentado qualquer documento. A ré tampouco requereu que se oficiasse à administradora do cartão de crédito para que informasse sobre os dados referentes ao endereço de envio do cartão ou a solicitação de desbloqueio.
+
+Entendo que o autor não pode ser responsabilizada por débitos efetuados com o seu cartão de crédito por terceiros.
+
+O entendimento manifestado no parágrafo acima decorre da sistemática dos contratos de cartão de crédito. Segundo esse contrato, o fornecedor de serviço concede crédito ao consumidor, o qual é representado por título ? nota de venda. O fornecedor, então, apresenta este título ? nota de venda -ao banco, o qual o paga em sua integralidade, assumindo o direito de cobrá-lo do consumidor. 
+
+Nesse sentido, comenta Fábio Ulhôa Coelho: Pelo contrato de cartão de crédito, uma instituição financeira (emissora) se obriga perante uma pessoa física ou jurídica (titular) a pagar o crédito concedido a esta por um terceiro, empresário credenciado por aquela (fornecedor). O cartão de crédito, propriamente dito, é o documento pelo qual o titular prova, perante o fornecedor, a existência do contrato com a instituição financeira emissora, servindo também para a confecção de nota de venda, que é o instrumento de outorga do crédito pelo fornecedor ao titular. (...) O valor dessa compra, por força do crédito que o fornecedor dá ao titular, será pago, sem qualquer acréscimo, na data do vencimento mensal do cartão, diretamente à emissora. Esta, por sua vez, repassará o valor do pagamento ao fornecedor, mediante a exibição das notas de venda" (in Manual de Direito Comercial, Saraiva, fl. 472).
+
+Atualmente, substituiu-se a assinatura do portador do cartão de crédito pelo emprego da senha, por se entender que tal sistema era mais seguro.
+
+Dentro da sistemática do cartão de crédito, na qual o fornecedor do serviço/produto fornece crédito ao consumidor, resta evidente a legitimidade passiva da ré para responder por pedido de declaração de inexigibilidade de tal operação em razão de fraude.
+
+Ocorre, todavia, que mesmo com a existência de senhas pessoais e intransferíveis há a possibilidade de utilização indevida por terceiros fraudadores. 
+
+A doutrina especializada reconhece a falibilidade do meio eletrônico, admitindo, inclusive, a possibilidade de roubo de senhas pessoais por hackers: Desta forma, a invasão levada a efeito por alguém que a faz comente como forma de demonstrar suas capacitações tecnológicas e familiaridade com um sistema que esse diz seguro, mesmo que aparentemente possa não resultar em prejuízos imediatos ao consumidor, vem a demonstrar que, na realidade, a segurança do sistema é relativa. Com relação à invasão, o consumidor poderá ser atingido das mais diversas formas e nos mais diversos campos de seus direitos, pois esta poderá abranger entre outros: (...) III ? A utilização de senhas de acesso e determinados serviços em ambiente de internet; IV ? A interceptação de dados relativos a cartões de crédito e/ou cartões bancários (...) (Direito & Internet ? Aspectos Jurídicos Relevantes, 2ª edição, Quartien Latin, Newton de Lucca e Adalberto Simão Filho Coordenadores, fls. 129/130).
+
+A mesma insegurança do sistema eletrônico é reconhecida pela jurisprudência: Com base nas decisões existentes, pode-se constatar a tendência da jurisprudência de reconhecer a responsabilidade objetiva da instituição financeira por fraudes eletrônicas ocorridas com transações por intermédio da Internet, em virtude da vulnerabilidade do sistema, que permite a atuação de hacker, configurando assim risco do negócio. Parece-nos correta a assimilação desses eventos aos casos de falsificação de cheques e a aplicação da teoria do risco da atividade às fraudes envolvendo sistemas eletrônicos. (Responsabilidade Civil na Internet e nos demais Meios de Comunicação, Ed. Saraiva, Coordenadores Regina Beatriz Tavares da Silva e Manoel J. Pereira dos Santos, Direito GV, fl. 257).
+
+Logo, em face da possibilidade de invasão de sites e roubos de senhas eletrônicas por incontáveis meios, denunciando a falibilidade do sistema fornecido ao consumidor pela internet, forçoso reconhecer que tal situação permitiria, por si só, vislumbrar a existência de verossimilhança das alegações do autor, em sua inicial. E, consequentemente, a inversão do ônus da prova. Ou seja, competiria à ré comprovar que foi a autora quem realizou as operações questionadas, tendo sido ele quem recebeu o cartão e solicitou o seu desbloqueio. Ocorre, todavia, que, por se tratar de fato negativo, o ônus de produção de tal prova é diretamente imputável à ré, sem necessidade de qualquer inversão.
+
+A ré não comprovou que as operações questionadas eram normais e adequadas com o perfil da autora. Não trouxe, tampouco, qualquer prova que permitisse relacionar as transações relacionadas ao autor, não se desincumbindo, portanto, de seu ônus probatório. 
+
+É preciso verificar, portanto, se houve utilização dos dados do cartão por terceiros de má-fé.
+
+Segundo a doutrina permite-se a inversão do ônus da prova em vista da hipossuficiência do consumidor. Nesse sentido: No caso de verossimilhança, não é propriamente uma inversão. Na lição de Kazuo Watanabe: na primeira situação, na verdade, não há uma verdadeira inversão do ônus da prova. O que ocorre, como bem observa Leo Rosemberg, é que o magistrado, com a ajuda das máximas de experiências das regras da vida, considera produzida prova que incumbe a uma das partes. Examinando as condições de fato com base em máximas de experiência, o magistrado parte do curso normal dos acontecimentos e, porque o fato é ordinariamente a conseqüência ou o pressuposto de outro fato, em caso de existência deste, admite aquele também como existente, a menos que a outra parte demonstre o contrário. Haverá inversão judicial, propriamente, quando o juiz considerar o consumido hipossuficiente. A hipossuficiência a que alude a lei não é apenas a econômica, mas em especial a de informações (técnica). O juiz procederá à inversão sempre que verificar que a produção da prova seria difícil ao consumidor, porque depende de conhecimentos técnicos ou de informações que, normalmente, estão em poder do fornecedor (Marcus Vinicius Rios Gonçalves, in Novo Curso de Direito Processual Civil ? vol.1, 4ª edição, Saraiva, fl. 435).
+
+Portanto, é condição sine qua non do contrato de cartão de crédito que o título acima mencionado tenha sido efetivamente assinado pelo consumidor, pois, do contrário, nota de venda jamais poderá ser considerada como hábil a demonstrar que o consumidor recebeu crédito. 
+
+No caso, inquestionável a hipossuficiência técnica do autor, uma vez que a comprovação de que foi terceiro, e não ele, a realizar as compras questionadas, é de impossível realização para o autor. 
+
+Ademais, há fortes indícios de que houve emprego dos dados do cartão do autor de forma irregular.
+
+Diante das constatações supra, que apontam para a verossimilhança das alegações do autor assim como sua hipossuficiência técnica, inverto o ônus da prova, com fundamento no art. 6º, VIII, do CDC. Consequentemente, não tendo a ré comprovado que foi o autor quem realizou as compras impugnadas, entendo que procede seu pedido de declaração de inexigibilidade das transações mencionadas pelo autor em sua inicial e, também, do respectivo débito, R$ 667,93, assim como dos respectivos encargos moratórios e contratuais cobrados em razão dele
+
+Passo a analisar ocorrência de dano moral.
+
+O autor não comprovou a negativação de seu nome. Não há demonstração de que a honra objetiva do autor foi maculada. O simples envio de carta de cobrança consiste, apenas, em mero aborrecimento, que não enseja indenização por danos morais. 
+
+Indefiro, também, pedido de indenização por danos materiais.
+
+Sobre o dano, esclarece a doutrina: Convém assinalar, ainda, que o dano material pode atingir não somente o patrimônio presente da vítima, como, também, o futuro; pode não somente provocar a sua diminuição, a sua redução, mas também impedir o seu crescimento, o seu aumento. Por isso, o dano material se subdivide em dano emergente e lucro cessante. 18.1. Dano emergente. O dano emergente, também chamado positivo, este, sim, importa efetiva e imediata diminuição no patrimônio da vítima em razão do ato ilícito. O Código Civil, ao disciplinar a matéria no seu art. 402 (reprodução fiel do art. 1.059 do Código de 1916), caracteriza o dano emergente como sendo aquilo que a vítima efetivamente perdeu. A mensuração do dano emergente, como se vê, não enseja maiores dificuldades. Via de regra, importará no desfalque sofrido pelo patrimônio da vítima; será a diferença do valor do bem jurídico entre aquele que ele tinha antes e depois do ato ilícito. (...) Dano emergente é tudo aquilo que se perdeu, sendo certo que a indenização haverá de ser suficiente para a restitutio in integrum (Sérgio Cavalieri Filho, Programa de Responsabilidade Civil, Malheiros, 6ª edição, fls. 96/97).
+
+O autor não comprovou o dano que sofreu em razão de suposta contratação de advogado. Aliás, em sua inicial, sequer indicou o valor que gastou a tal título, solicitando a fixação do valor da suposta indenização por danos materiais como proporção ao valor da indenização por danos morais - sem qualquer fundamento, portanto.
+
+Não tendo o autor comprovado os danos materiais sofridos, entendo que não se desincumbiu do ônus probatório que lhe incumbia, qual seja, o de comprovar os fatos constitutivos de seu direito, nos termos do art. 333 do CPC. Por este motivo, improcede pedido.
+
+III.DECIDO.
+
+Diante do exposto, JULGO PARCIALMENTE PROCEDENTE o pedido formulado por JOSÉ DOMINGOS DE SANTANA REIS contra MAGAZINE LUIZA, com fundamento no artigo 269, I, do CPC, confirmando decisão que antecipou os efeitos da tutela, declarando a inexistência da transação realizada com o cartão de crédito de titularidade em nome do autor mencionado na inicial, em fatura vencida em 21/04/2012, e, consequentemente, para declarar inexigível o valor dos respectivos débitos, que totalizam R$ 667,93, assim como dos encargos moratórios e contratuais cobrados pela ré em face deles. Tendo em vista a sucumbência recíproca, CONDENO o autor e a ré ao pagamento das custas e despesas processuais, na proporção de 1/2 para cada, além da verba honorária que arbitro em 15% (quinze por cento) do valor atualizado da causa.
+
+P. R. I..C.
+
+São Paulo, 02 de abril de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

@@ -1,0 +1,133 @@
+
+
+SENTENÇA
+
+Processo nº:0190565-63.2010.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Pagamento em Consignação
+Requerente:Maria Correa dos Santos
+Requerido:Banco Aymoré
+
+
+
+
+Juiz(a) de Direito: Dr(a). Og Cristian Mantuan
+
+
+Vistos.
+
+
+
+
+
+
+
+
+
+
+MARIA CORREA DOS SANTOS, devidamente qualificada nos autos em epígrafe, move ação ordinária revisional de cláusula cumulada com consignatória e pedido liminar contra BANCO AYMORÉ, alegando em síntese, que adquiriu o veículo descrito na inicial por meio de financiamento em 60 (sessenta) parcelas de R$ 590,00 (quinhentos e noventa reais), tendo quitado 34 (trinta e quatro) e está em atraso com 07 (sete) parcelas, e o Banco vem cobrando juros ilegais, acima da taxa média de mercado, capitalizando juros mensalmente, bem como cobrando comissão de permanência com correção monetária e multa de 10%.
+
+Liminar concedida às fls. 44.
+
+Contestação às fls. 65/80.
+
+A autora não ofertou réplica conforme certidão de fls. 116.
+
+Encerrada a instrução, vieram memoriais.
+
+É o relatório.
+
+FUNDAMENTO E DECIDO.
+
+Os pedidos são parcialmente procedentes.
+
+Confessa é a ré quanto à aplicação da Tabela Price e capitalização mensal de juros.
+
+Quanto à utilização da TABELA PRICE, não resta dúvida que existe sim a ocorrência de anatocismo, como, aliás, decidiu o Colendo Superior Tribunal de Justiça (cf. REsp. 668.795-RS), principalmente porque, com a aplicação desta tabela, os juros crescem em progressão geométrica, onde, quanto maior o número de parcelas a serem pagas, maior será a quantidade de vezes que os juros se multiplicam por si mesmos. 
+
+                   Na Tabela Price, percebe-se que somente a amortização é que se deduz do saldo devedor. Os juros jamais são abatidos, o que acarreta amortização menor e pagamento de juros maiores em cada prestação, calculados e cobrados sobre saldo devedor maior em decorrência da função exponencial contida na Tabela, o que configura juros compostos ou capitalizados.
+
+A forma de amortização do contrato deve ser afastada.  Com efeito, o Sistema Francês de Amortização ofende a lei por contemplar os juros capitalizados. (TJSP - 20ª Câmara de Direito Privado ? Apelação nº. 7.075.336-3, rel. Des. FRANCISCO GIAQUINTO, j. 05.10.2009; TJSP - 19ª Câmara de Direito Privado ? Apelação nº. 991.06.055045-0, rel. Des. JOÃO CAMILLO DE ALMEIDA PRADO COSTA, j. 19.10.2010))
+
+Se analisarmos detidamente, ficará demonstrado que a TABELA PRICE não implica capitalização no desenvolver do financiamento, basta observar uma planilha com aplicação da referida tabela como mesmo fez o réu, não havendo concretização de capitalização. Os números, certamente não demonstrarão a incidência de uma parcela de juros sobre outra parcela de juros ou de uma parcela de juros sobre o capital ao qual já tenha sido agregada uma parcela correspondente aos juros.
+
+No entanto, a questão da capitalização dos juros deve ser analisada sobre outro prisma, conforme decidido pela pelo DD. DESEMBARGADOR WALDIR DE SOUSA JOSÉ, Relator da Apelação n.º 1.194.996-7, que tramitou perante a Colenda 15ª Câmara de Direito Privado do E.TJSP.
+
+A capitalização ocorre de uma só vez, no momento em que é aplicada a fórmula R= Px [ i (1+i )n] / [ ( 1+ i ) n - 1].
+
+É nesse instante, em que o financiador aplica a citada fórmula àqueles três elementos (valor, taxa e prazo),que acontece a capitalização. Sem embargo, é exatamente nesse momento em que ocorre o fator exponencial, gerando a incidência dos juros sobre juros. 
+
+A Tabela Price consubstancia equação exponencial, pois os juros crescem em progressão geométrica. Assim, nesse sistema, a capitalização ocorre de uma só vez, mas que é desmembrada em tantas quantas forem as prestações, uma vez que é nesse momento em que se aplica a fórmula (prenha do critério dos juros compostos) que se descobre o valor da prestação mensal.
+
+Destarte, é cediço esclarecer que a capitalização não ocorre no saldo devedor, mas ocorre sim na prestação mensal, isso se vê do cálculo pericial.
+
+Ainda não bastasse, a relação é amparada pelo CDC, onde a requerente, no momento da contratação (2000), não possuía meios técnicos para saber sobre tais ocorrências contratuais, assumindo cláusula na estrita boa-fé.  Ao banco, ficam recomendações éticas contratuais, as quais deveriam ser observadas, uma vez limitarem a força obrigatória dos contratos.
+
+Além disso, o Exmo. Sr. Dr. Desembargador ROQUE MESQUITA em brilhante voto reformulou seu pensamento e convencimento assim, expondo: 
+
+Como revisor, o meu voto diverge no primeiro aspecto constante do r. voto condutor, ou seja, para mim existe sim capitalização de juros na metodologia constante da "Tabela Price". Há muitos anos vinha sustentando, em harmonia com o pensamento do eminente desembargador relator o qual novamente expôs seu posicionamento neste julgamento, que não existe a mencionada capitalização na referida metodologia. Todavia, atento à evolução da jurisprudência e da doutrina resolvi estudar novamente o tema, agora auxiliado por obras de especialistas no assunto e após concluir os estudos e as reflexões pertinentes fiquei convencido de que existe sim a capitalização de juros na "tabela price", na esteira do pensamento adotada pela douta maioria. Logo, reafirmo a alteração do meu pensamento a respeito desse tema, com a devida vênia. 
+(TJSP - 18ª Câmara de Direito Privado ? Embargos Infringentes nº. 7.147.805-4/01, rel. Des. ROQUE MESQUITA, j. 21.07.2009)
+
+A capitalização mensal também é confessada pelo réu em contestação, tornando fato incontroverso nos autos. A requerida somente defende ser legal tal ação.
+
+No entanto, a capitalização mensal deve ser afastada.
+
+Aplico ao caso a Súmula 93 do STJ, pois somente se aplica a capitalização mensal se previsto em lei específica, o que não é o caso. A MP 2170-36/2001 deve ser interpretada sistematicamente com a Súmula 93 do STJ e a Lei de Alienação Fiduciária não prevê expressamente a possibilidade de capitalização de juros em período mensal.
+
+A MP 1.963-17/2000, que gerou a MP 2170-36/2001 é inconstitucional. Primeiro que não havia qualquer urgência para que o Presidente da República normatizasse juros em contrato bancário por Medida Provisória, sem qualquer presença da situação emergencial e segundo que a MP desobedeceu a LC 95/98, art. 7º, incisos I e II.
+
+Mesmo que se admita sua aplicação, a MP foi revogada pelo art. 591 do CC/2002, consoante intepretação sistemática com o art. 2.043 do mesmo Código Civil.
+
+Logo, deve ser afastada a capitalização mensal e tudo isso afetará o Custo Efetivo Total.
+
+O IGPM deve ser adotado como índice de correção monetária.
+
+De fato, a TR não é índice de correção monetária, na verdade ela é taxa remuneratória, a qual remunera capital, não sendo índice que apura a desvalorização da moeda e poder de compra do consumidor. Aliás, a TR é formada pela TBF+0,5% da poupança, índice totalmente bancário, unilateral, violando as regras do art. 51, IV do CDC.
+
+A negativação do nome não foi provada nos autos pela requerente, assim não há fato gerador para a indenização por dano moral. (art. 333, I do CPC)
+
+Note-se que o mero inadimplemento contratual não gera dano moral.
+
+Os danos materiais deveriam ter sido comprovados pela autora em sede de perícia, o que não fez nos autos.
+
+Desse modo, havendo abusividades contratuais não há como impor a mora contra a autora, inexistindo exigibilidade para resolução do contrato ou execução do título.
+
+De fato o art. 25 do ADCT determinou a revogação dos atos normativos expedidos pelo executivo dentre os quais a competência tenha sido transferida ao Congresso Nacional. Entretanto, o art. 48, XIII da CF/88 transferiu ao Congresso Nacional a competência mediante sanção do Presidente da República a competência sobre a matéria. Trata-se de competência regida pelo princípio da legalidade estrita.
+
+Mas a lei citada já existia e foi recepcionada pela CF/88. A Lei 4.595/65 foi recepcionada pela CF/88 como Lei Complementar, sendo que tal lei concedeu ao CMN competência para fixação dos juros remuneratórios. Logo, não há como acolher a tese da autora de revogação.
+
+O Juízo às fls. 117 determinou a especificação de provas sob pena de preclusão, mas a autora às fls. 120 não requereu a produção de prova pericial. As provas requeridas pela autora esbarram no art. 400, II do Código de Processo Civil, e se não requereu a prova adequada aos reclamos perqueridos na inicial restou preclusa a prova técnica.
+
+Desse modo, somente perícia poderia ser provada a onerosidade excessiva, lesão enorme, cobrança de comissão de permanência com correção monetária e outros encargos moratórios, bem como a taxa de juros remuneratórios praticados e se acima da taxa média de mercado, capitalização e sua periodicidade.
+
+A multa de 10% também não foi comprovada. A ré negou que aplicou juros no patamar indicado na inicial, afirmou e defendeu ter aplicado a multa de 2% conforme o CDC. Assim, ante à ausência de prova pela autora, de rigor não acolher o pleito.
+
+Descumprido o art. 333, inciso I do CPC, não há como acolher a tese da autora.
+
+Descabida aqui a inversão do ônus de prova eis que os fatos probatórios não eram relativos ao monopólio de informações da ré, mas sim eram passíveis de prova pela autora.
+
+O art. 192, §3º da CF/88 foi revogado expressamente pela EC 40/2003 e a Súmula 596 do STF autoriza as instituições praticarem juros acima de 1% ao mês, desde que obedeçam a taxa média de mercado. Assim, se foi revogado o dispositivo constitucional pela EC 40/03 não há que declarar impossível a cobrança em 12% de juros ao ano.
+
+Demais já se decidiu que não se pode falar de abusividade na pactuação dos juros remuneratórios só pelo fato de a estipulação ultrapassar 12% ao ano ou de haver estabilidade inflacionária no período (STJ - AgRg no REsp 656.263-RS Ministro CESAR ASFOR ROCHA, J. 21/10/2004, DJ de 01.02.2005, p. 578). Ao contrário, a abusividade destes só pode ser declarada, caso a caso, à vista de taxa que comprovadamente discrepe, de modo substancial, da média do mercado na praça do empréstimo, salvo se justificada pelo risco da operação (STJ - REsp 402.261-RS, Rel. desig. Ministro ARI PARGENDLER, J. 26/03/2003, DJ de 06.12.2004, p. 188). (TJSP - 11ª Câmara de Direito Privado ? Apelação nº. 0011564-84.2011.8.26.0003, rel. Des. GILBERTO DOS SANTOS, j. 17.01.2013)
+
+Logo, a estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade, havendo a necessidade de comprovação efetiva de que a taxa contratada supera a média de mercado, o que não ocorreu na espécie. (TJSP - 14ª Câmara de Direito Privado ? Apelação nº. 0126901-58.2010.8.26.0100, rel. Des. PEDRO ABLAS, j. 12.12.2012)
+
+Desse modo, sem prova efetiva de que os juros aplicados no contrato ultrapassaram a taxa média de mercado não há como acolher o pedido do autor.
+
+Não há como condenar o requerido a devolver em dobro o indébito cobrado, pois somente após a liquidação que poderá ser aferido se a autora já quitou todo contrato ou ainda é devedora. Nessas obrigações de trato sucessivo deve-se analisar toda relação jurídica, ou seja, todas as prestações, não havendo como dizer, ainda que haja a exclusão das hipóteses determinadas por essa decisão que houve cobrança a maior, ou indevida pelo Banco.
+
+Pelo exposto e tudo mais que consta dos autos, torno definitiva a liminar consignando nos autos os valores e JULGO PARCIALMENTE PROCEDENTES os pedidos formulados na inicial por MARIA CORREA DOS SANTOS, nos autos da ação ordinária revisional de cláusula cumulada com consignatória e pedido liminar contra BANCO AYMORÉ para afastar a mora contra a requerente e determinar a exclusão da cobrança da Tabela Price e dos juros capitalizados mensalmente, impondo-se a correção pelo IGPM, julgando extinto o processo com resolução do mérito nos termos do art. 269, inciso I do Código de Processo Civil.
+
+Os valores deverão ser apurados em sede de liquidação por arbitramento, o qual deverá apurar o valor exato das prestações e apontar crédito e débito a ser compensado.
+
+Os demais pedidos ficam rejeitados pelos fundamentos já invocados.
+
+Pela sucumbência parcial aplico o art. 21 do CPC, onde cada parte deverá arcar com os honorários advocatícios de seus patronos e dividirem na metade as custas e despesas do processo.
+P.R.I.
+São Paulo, 09 de abril de 2013.
+
+OG CRISTIAN MANTUAN
+JUIZ DE DIREITO
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

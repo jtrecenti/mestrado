@@ -1,0 +1,95 @@
+
+
+SENTENÇA
+
+Processo nº:0024239-79.2011.8.26.0003
+Classe - AssuntoProcedimento Ordinário - Interpretação / Revisão de Contrato
+Requerente:Comércio de Madeiras Montano Ltda - ME
+Requerido:Banco Itaú S/A
+
+
+Juiz(a) de Direito: Dr(a). Alexandre Batista Alves
+
+
+Vistos.
+
+
+
+COMÉRCIO DE MADEIRAS MONTANO LTDA-ME moveu ação de revisão de contrato bancário cumulada com pedido de antecipação de tutela contra BANCO ITAÚ S/A, alegando, em resumo, que: a) firmou com o réu contrato de cédula de crédito bancário; b) após a realização de auditoria financeira, constatou que o réu cobra juros sobre juros, prática vedada (Súmula 121 do STF); c) é ilegal a cobrança de comissão de permanência cumulativamente com juros e multa (cláusulas segunda e décima).
+
+Por essas razões, pleiteou a revisão do contrato para expurgar as ilegalidades apontadas. Requereu, ainda, a antecipação de tutela para impedir a inclusão de seu nome nos cadastros de proteção ao crédito, bem como que fossem realizados descontos relativos ao débito em conta corrente da autora e seus avalistas. 
+
+A inicial veio instruída com documentos (fls. 27/344).
+
+Negada a antecipação de tutela (fls. 348/349), o réu foi citado e ofertou contestação (fls. 365/374), na qual sustentou a legalidade das cláusulas contratuais e dos encargos cobrados.
+
+Sobreveio réplica.
+
+É o relatório.
+Fundamento e Decido.
+
+A matéria debatida nos autos é somente de direito e de fato comprovável por meio de prova documental, prescindindo-se da realização de outras provas, razão pela qual é de rigor o julgamento antecipado da lide.
+
+Procede em parte a pretensão.
+
+Anote-se, de início, que o art. 5º da MP 1.963-17, de 30/03/2000, substituída pela MP n. 2.170/36, admite a prática de capitalização de juros em periodicidade inferior a um ano nos contratos celebrados por instituições financeiras integrantes do Sistema Financeiro Nacional.
+
+Ademais, o art. 28, §1º, I, da Lei n. 10.931/04 permite a capitalização de juros. Mas não se trata de capitalização ilegal a incorporação de juros vencidos decorrente de saldo devedor ao capital. Os juros vencidos se convertem e se incorporam naturalmente ao capital, ao final de cada período de capitalização expresso na taxa de juros.
+
+?Quem assim entende confunde capital com renda. Capital, em um mútuo financeiro, na acepção adequada a esta exposição, é o valor atual do saldo de um débito, expresso pelo montante que resultar do capital original, acrescido dos juros vencidos, convertidos e incorporados periodicamente ao capital, abatidos os valores eventualmente pagos (parte dos juros, total dos juros, total dos juros e amortização). Juro  ou  renda  é o fruto deste capital que, após ser gerado, pelo decurso do período de geração (e se tornar, assim, juro vencido  ou  renda vencida)  - independentemente de haver ou não sido pago ? se converte e se incorpora ao capital inicial  do período, transformando-o em capital final  do período.
+A única peculiaridade da renda vencida paga, em relação  à  renda vencida não paga,  é que esta última fica aplicada com o mesmo mutuário, elevando o saldo devedor de capital. Daí o equívoco comum de se considerar o juro de um segundo período como sendo representado por dois diferentes tipos de juros: o juro do capital  e o juro do juro? (Juros. Correção Monetária. Danos Financeiros irreparáveis. Uma abordagem jurídico econômica /   Romualdo Wilson Cançado e Orlei Claro de Lima ? 3.ed.rev.atual.e ampl. ? Belo Horizonte: Del Rey, 2003. pág. 27/28).
+
+Em relação às instituições financeiras, as taxas de juros e outros encargos não se sujeitam às restrições do Decreto 22.626/33 (Lei de Usura), mas à Lei 4595/64, ou seja, às deliberações do Conselho Monetário Nacional e às limitações e disciplinas ditadas pelo Banco Central. Nesse sentido é a Súmula 596 do STF.
+
+Como não há norma no Conselho Monetário Nacional limitando os juros em operações de crédito nos moldes daquela realizada entre as partes, conclui-se que legislação especial afasta a incidência do art. 4°, ?a?, da Lei 1.521/51, que se refere à taxa máxima prevista em lei.
+
+E não havendo demonstração de que a taxa de juros excede em muito a taxa média para as operações similares, o que caracteriza ofensa ao art. 4°, ?b?, da citada lei, é válida a taxa de juros cobrada pelo réu, motivo pelo qual é descabido falar em spread abusivo.
+
+Não se perca de vista que a autora, quando da contratação, tinha a exata noção dos juros e encargos praticados, de maneira que pode procurar outra instituição bancária para contratar se considerar as taxas elevadas.
+
+É oportuno reproduzir os seguintes trechos do AgRg no Recurso Especial n. 688.627- RS (2004/012651-3), relatado pelo Min. Aldir Passarinho Júnior:
+
+?Por outro lado, ainda que aplicável às instituições bancárias a Lei n. 8.078/1990, a Segunda Seção desta Corte, em 12.03.2003, no julgamento do Resp n. 407.097/RS, relator para acórdão Ministro Ari Pargendler, sedimentou o entendimento de que o pacto referente à taxa de juros só pode ser alterado se reconhecida sua abusividade em cada hipótese, desinfluente para tal fim a estabilidade inflacinonária no período, imprestável o patamar de 12% ao ano já que sequer a taxa média de mercado, que não é potestativa, se considera excessiva, para efeitos de validade da avença?.
+
+No que se refere à comissão de permanência, cuja cobrança é instituída cumulativamente com juros moratórios e multa (cláusula décima), cabem algumas ponderações.
+
+A Resolução n. 1.129/86 do BACEN faculta aos bancos e outras instituições a cobrança de seus devedores por dia de atraso no pagamento ou na liquidação de seus débitos, além de juros de mora na legislação em vigor, comissão de permanência, a ser calculada às mesmas taxas pactuadas no contrato original ou à taxa de mercado do dia do pagamento.
+
+Consta ainda da referida Resolução que, além desses encargos, nenhuma outra quantia compensatória pelo atraso poderia ser cobrada.
+
+Contudo, o Superior Tribunal de Justiça, em vários julgados, distinguindo a natureza jurídica desses institutos, tem assentado a impossibilidade, após o inadimplemento, da cobrança de comissão de permanência com correção monetária (Súmula 30) e outros encargos (juros moratórios ou remuneratórios e multa).
+
+A propósito, confira-se:
+
+?Agravo regimental. Recurso Especial. Ação de cobrança. Contrato de abertura de crédito em conta-corrente. Cumulação da comissão de permanência com juros moratórios e multa contratual. Precedentes da Corte.
+1. Confirma-se a jurisprudência da Corte que veda a cobrança de comissão de permanência com os juros moratórios e com a multa contratual, ademais de vedada a sua cumulação com a correção monetária e com os juros remuneratórios, a teor das Súmulas n° 30, n° 294 e n° 296 da Corte.
+2. Agravo regimental desprovido? (AgRg no Recurso Especial N° 712.801-RS (2004/0183802-4), rel. Ministro Carlos Aberto Menezes Direito).
+
+No mesmo sentido:
+
+?Contratos bancários. Comissão de permanência. Cumulação com os juros de mora e multa contratual. Vedação. Procedentes.
+I-  A recente orientação da Segunda Seção, contudo, é no sentido de não permitir a cumulação da comissão de permanência com correção monetária, juros remuneratórios ou de mora, multa com qualquer outro encargo moratório.
+II- Recurso especial parcialmente provido? (Resp 660684/RS; Recurso Especial 2004/0071117-0, Ministro Antônio de Pádua Ribeiro, 3a Turma, j. 24.05.2005, DJ 20.06.2005 p. 282).
+
+Ao estipular a taxa de comissão de permanência, o BACEN estima e prefixa os prejuízos decorrentes do inadimplemento dos débitos e insere na taxa as perdas e danos resultantes do não pagamento das dívidas no seu vencimento. Em outras palavras, a comissão de permanência, por si só, compensa o banco pelos prejuízos advindos da inadimplência, já que tem em sua taxa embutidos índices que permitem ao mesmo tempo a remuneração do capital mutuado e atualização do valor de compra da moeda.
+
+Nesse contexto, tem-se entendido que a cobrança cumulada da comissão de permanência com outros encargos configura bis in idem, pois estar-se-ia pagando por encargos contratuais que possuem a mesma natureza jurídica e desempenham a mesma função no contrato.
+
+Vale a pena reproduzir os fundamentos extraídos do Agravo Regimental no Resp n° 451.233/RS, Terceira Turma, da relatoria da Ministra Nancy Andrighi, DJ 29.09.03, com o seguinte teor:
+
+?Porquanto o cálculo da taxa de comissão de permanência se faz em consideração ao índice de inadimplência existente no mercado, com prefixação das perdas e danos sofridos pelas instituições financeiras em razão do inadimplemento das obrigações assumidas por seus devedores, com soa ocorrer com multa contratual, conclui-se que esses encargos desempenham a mesma função.
+Por essa razão não se justifica a cobrança cumulada da comissão de permanência com a multa contratual, sob ocorrência de dupla incidência de um mesmo encargo, como ocorre com os juros remuneratórios, a correção monetária e os juros moratórios?.
+
+A doutrina não destoa desse entendimento: ?Sendo a cláusula penal uma prefixação aos prejuízos do credor, tornou-se inaplicável pelas instituições financeiras, no momento em que ser permitiu, justamente cobrir os seus prejuízos a cobrança da comissão de permanência; o mesmo devendo ser dito dos juros de mora, pois aquela cobre a correção monetária e os juros de mercado? (Waldírio Bulgarelli, ?A mora e Resolução 1129 do Banco Central, in RDM 67/79).
+
+Assim sendo, a despeito de não ser potestativa a cláusula que prevê a comissão de permanência, calculada pela taxa média de mercado apurada pelo Banco Central do Brasil, limitada à taxa do contrato (Súmula 294 do STJ), não pode ser cumulada com correção monetária, nem com juros de mora ou remuneratórios e multa.
+
+Deve, assim, ser declarada ilegal a cláusula décima do contrato.
+
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTES os pedidos para declarar a nulidade da cláusula que permite a cobrança de comissão de permanência cumulativamente com juros de mora e multa.
+
+Dada a sucumbência recíproca, as custas serão rateadas em partes iguais e cada qual arcará com a verba honorária de seu patrono, já operada a compensação.
+
+P.R.I.
+
+São Paulo, 12 de março de 2012.

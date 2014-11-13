@@ -1,0 +1,85 @@
+
+
+SENTENÇA
+
+Processo nº:0129358-29.2011.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Assunto Principal do Processo >
+Requerente:Damco A/s
+Requerido:Jtc Distribuidora Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Paula Narimatu De Almeida
+
+
+Vistos.
+
+Trata-se de ação de cobrança, pelo rito ordinário, ajuizada por DAMCO S.A., representada por APM Global Logistics Brasil Ltda. em face de JTC DISTRIBUIDORA LTDA., para pleitear o pagamento das sobreestadias do container no valor de R$ 13.173,89 (treze mil cento e setenta e três reais e oitenta e nove centavos), bem como dos valores diários incorridos até a efetiva devolução do container n. APMU2821852, acrescidos de juros de mora a partir da citação e correção monetária a contar do inadimplemento.
+Narra a autora que foi contratada pela ré para fazer o transporte marítimo de diversas mercadorias que foram acondicionadas no container n. APMU2821852 pertencente à frota da autora.
+De acordo com o Conhecimento de Transporte a ré deveria devolver o container à autora no prazo de 10 dias, contados da data da descarga, que se deu em 12/06/2008, sob pena de pagamento de sobreestadia. A ré, entretanto, descumpriu o prazo avençado e até a propositura da ação não havia devolvido o container.
+Citada, a ré apresentou contestação as fls. 136/164 para alegar, em preliminar: (a) irregularidade na representação processual; (b) ausência da caução prevista no art. 835 do Código de Processo Civil; (c) impossibilidade jurídica do pedido em virtude da contratação em moeda estrangeira; (d) ausência de mora ou constituição em mora; (e) prescrição dos valores cobrados; (f) ilegitimidade ativa ad causam. No mérito, aduz que: (g) as mercadorias contidas no container nunca foram nacionalizadas, de sorte que o container não foi retirado do porto; (h) o termo de responsabilidade de devolução de container foi assinado equivocadamente por seu despachante aduaneiro; (i) o termo de responsabilidade de devolução de container não vincula a ré, pois o despachante aduaneiro não tem poderes para onerar seu representante; (j) ausência de culpa pelo atraso na devolução do container; (l) o valor da cláusula penal dever ser reduzido a fim de não exceder o da obrigação principal; (m) enriquecimento sem causa da autora.
+Réplica as fls. 195/225.
+Acolhida a exceção de incompetência, os autos foram remetidos à 1ª. Vara Cível do Foro Central de São Paulo (fls. 226).
+É o relatório.
+DECIDO.
+1. Preliminares
+1.1. Representação Processual
+Afasto de pronto a preliminar de irregularidade da representação processual diante dos documentos juntados as fls. 277/285.
+1.2. Art. 835 do Código de Processo Civil
+Rejeito a necessidade de prestação da caução prevista no art. 835 do Código Civil, pois a autora é representada nos autos por pessoa jurídica constituída no Brasil (fls. 42/69), estando garantido eventual pagamento de verbas de sucumbência.
+1.3. Impossibilidade jurídica do pedido ? contratação em moeda estrangeira
+Não se verifica a impossibilidade jurídica do pedido já que a parte autora pretende o cumprimento da avença em reais.
+A jurisprudência do Superior Tribunal de Justiça já pacificou o entendimento quanto a possibilidade de contratação de obrigações em moeda estrangeira desde que no momento de seu cumprimento haja a conversão para a moeda nacional, como no presente caso:
+DIREITO CIVIL E COMERCIAL. CONTRATAÇÃO EM MOEDA ESTRANGEIRA. PAGAMENTO MEDIANTE CONVERSÃO EM MOEDA NACIONAL. (...).
+- O art. 1º do Dec. 23.501/33 proíbe a estipulação de pagamentos em moeda estrangeira, regra essa mantida pelo art. 1º do DL 857/69 e pelo art. 1º da Lei 10.192/01 e, mais recentemente, pelos arts. 315 e 318 do CC/02. A vedação aparece, ainda, em leis especiais, como no art. 17 da Lei 8.245/91, relativa à locação. A exceção a essa regra geral vem prevista no art. 2º do DL 857/69, que enumera hipóteses em que se admite o pagamento em moeda estrangeira.
+- A despeito disso, pacificou-se no STJ o entendimento de que são legítimos os contratos celebrados em moeda estrangeira, desde que o pagamento se efetive pela conversão em moeda nacional.
+(...)
+Recurso especial a que se nega provimento.
+(REsp 804.791/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 03/09/2009, DJe 25/09/2009)
+1.4. Ausência de mora
+Sustenta a ré não ter incorrido em mora. Sem razão, contudo.
+No Termo de Compromisso de Devolução de Container Vazio (fls. 103/104) firmado pela ré consta expressamente que ?O PERÍODO DE LIVRE UTILIZAÇÃO DO(S) CONTAINER(S) SERÁ CONTADO A PARTIR DA DATA DA DESCARGA. DECORRIDO ESTE PERÍODO LIVRE, INCIDIRÁ A COBRANÇA DIÁRIA DE SOBREESTADIA (DEMURRAGE), ATÉ A EFETIVA DEVOLUÇÃO DO(S) CONTAINER(S) OBEDECENDO, OS PRAZOS E VALORES CONSTANTES NA TABELA ABAIXO.?.
+A autora, por seu turno, comprovou por meio do documento de fls. 96 que a descarga do container APMU282185-2 foi feita no dia 12/06/2008 as 22:50 horas. Deste modo, na forma estipulada no Termo de Compromisso, nesta data teve início a contagem do prazo de 10 dias corridos de livre utilização do container. Decorrido este prazo passou a incidir as taxas diárias de sobreestadias.
+Trata-se, como visto, de mora ex re, nos termos do art. 397, caput, do Código Civil, pois havia data fixada para o cumprimento da obrigação positiva, de sorte que seu descumprimento acarreta automaticamente a mora do devedor sem necessidade de qualquer providência do credor (dies interpellat pro homine).
+Não se ignora o elemento culpa quando da mora ou do descumprimento da obrigação, todavia, cabe ao devedor da obrigação a prova de ausência de culpa. 
+No presente caso a demora deveu-se somente à réu, que não demonstrou, ônus que lhe cabia, nenhum fato extraordinário, inevitário ou causado por terceiro, que a justificasse.
+1.5. Ilegitimidade ativa
+Argui a ré a ilegitimidade ad causam da autora sob a alegação de não ser ela proprietária do container, razão pela qual não poderia demandar em nome próprio direito alheio.
+Essa preliminar também deve ser rejeitada por força do Termo de Compromisso de Devolução de Container Vazio, onde se lê:
+Na qualidade de consignatários/destinatários/recebedores do Conhecimento de Embarque (também denominado "B/L?) abaixo descritos, afirmamos que temos ciência de que o container abaixo indicado pertence a frota, ou está sob a responsabilidade da empresa transportadora DAMCO, representada no Brasil por APM GLOBAL LOGISTICS BRASIL LTDA. (...).
+1.6. Prescrição da cobrança
+Não se verificou o decurso do prazo prescricional para a cobrança dos valores de sobreestadia, conforme pretende a ré.
+De fato, a contagem do prazo prescricional somente tem início com a devolução do container, de acordo com o entendimento do STJ:
+COMERCIAL. PRESCRIÇÃO. TERMO INICIAL. SOBREESTADIA DE 'CONTAINERS'. (...) o termo inicial do  prazo só inicia após a devolução do 'container', porque antes disso o respectivo proprietário não sabe qual a extensão do seu direito. Recurso especial não conhecido.
+(REsp 163.897/SP, Rel. Ministro ARI PARGENDLER, TERCEIRA TURMA, julgado em 29/05/2001, DJ 13/08/2001, p. 143).
+No caso ora em análise, entretanto, não se tem notícia de que tenha havido devolução do container pela ré, ao contrário, na petição inicial a autora afirma que até aquela data a devolução ainda não havia se operado.
+Ainda que assim não fosse, por força da revogação expressa do art. 449 do Código Comercial pelo art. 2.045 do Código Civil de 2002, e diante da falta de disposição específica, aplica-se a regra geral estabelecida pelo art. 205 do Código Civil.
+Como a prescrição implica restrição ao exercício de direitos, só pode ser decretada quando a lei a estabelecer, clara e expressamente, o que não se verifica no caso, pois como já se viu a lei antiga foi revogada.
+Ademais, sem proveito eventual invocação da Lei nº 9.611/68, pois o caso decididamente não se enquadra no ?transporte multimodal?, porque este só se dá quando duas ou mais modalidades de transporte, desde a origem até o destino, é regido por um único contrato e é executado sob a responsabilidade única de um operador de transporte (art. 2º da referida Lei).
+Nem se aplica, também, o Decreto-Lei nº 116, de 25.01.1967, pois este estabeleceu a prescrição ânua apenas e tão-somente para ?as ações por falta de conteúdo, diminuição, perdas e avarias ou danos à carga? (art. 8º), hipótese completamente diversa.
+Portanto, à falta de norma específica, incide a regra geral do art. 205, do CC/02: ?a prescrição ocorre em dez anos, quando a lei não lhe haja fixado prazo menor?.
+E pela análise dos autos, verifica-se que a descarga do container se deu em 12/06/2008, sem informação sobre a devolução deste, e a presente ação foi proposta em 18/05/2010, antes, assim, do decurso do prazo prescricional.
+2. Mérito
+Assiste razão à parte autora.
+Inicialmente, deve-se deixar claro que o Termo de Compromisso de Devolução de Container Vazio foi assinado pelo despachante aduaneiro outorgado pela ré, constando no instrumento inclusive o carimbo desta.
+Mesmo que se entenda que o referido despachante aduaneiro não tinha poderes para assumir a obrigação em discussão, melhor sorte não teria a ré em sua defesa.
+Em sua atividade comercial a requerida se utiliza da empresa Costamar, comissionária de despacho, não podendo, quando não lhe convém, alegar que esta não lhe representa ou que não tinha determinados poderes. Age a ré em ?venire contra factum proprium?, o que não pode ser admitido em nosso ordenamento jurídico, já que contrário à boa-fé objetiva.
+Neste sentido:
+?(...) Previsão no Termo de Recebimento, firmado por Comissária de Despachos, figura típica dos negócios como o ora discutido (transporte marítimo internacional), não logrando a recorrente demonstrar que a referida Comissária não estava a seu serviço (...)? (TJRS Ap.70011107752, Rel. Orlando Heemann Júnior, j. 30/06/2005).
+No mais, a relação jurídica estabelecida entre as partes restou devidamente comprovada pelo Conhecimento de Transporte de fls. 83/93 e pelo Termo de Compromisso de Devolução de Container Vazio de fls. 103/104.
+Por meio dos documentos mencionados se vê a obrigação assumida pela ré de devolver o container APMU-282.185-2 após sua descarga no Porto de Santos, ocorrida em 12/06/2008 consoante documento de fls. 96, sendo-lhe deferido o período de 10 dias corridos de livre utilização (free time), decorridos os quais, tratando-se de container do tipo 20? Dry, incidiria as taxas diárias de sobreestadias do 1º ao 19º no valor correspondente a US$ 25,00 por dia e a partir do 20º dia no montante de US$ 40,00 por dia.
+Como já dito acima quando da apreciação da preliminar referente a não demonstração da mora, a ré não se desincumbiu do ônus de comprovar que a não devolução do container decorreu de força maior, fato fortuito ou culpa exclusivo de terceiro de modo a elidir sua culpa pelo atraso.
+Também não merece acolhida a alegação da requerida de que as mercadorias contidas no container nunca foram nacionalizadas, pois o fato expressamente previsto no Termo de Compromisso que dava início ao prazo para devolução do container era a sua descarga e não a sua retirada do Porto de Santos.
+Por fim, tem prevalecido na jurisprudência do Tribunal de Justiça (cf. Ap. 0039945-74.2011.8.26.0562) a tese no sentido de que cláusula que prevê indenização decorrente da sobrrestadia não se confunde com cláusula penal, de modo que são rejeitadas as pretensões da ré à redução dos valores constantes da tabela praticada pela autora.
+Transcreva-se, por oportuno, trecho da referida decisão: ?a sobreestadia não está limitada ao valor da obrigação principal, podendo estender-se até ser considerada insuportável, o que afasta o caráter de cláusula penal. Dessa forma, a corrente dominante considera a sobreestadia indenização pré-fixada a favor do armador (cfr. Wesley Collyer, ob. cit.; José Cândido Sampaio de Lacerda, ob. cit., pp. 203-204; Carla Adriana Comitre Gilbertoni, Teoria e Prática do Direito Marítimo, Renovar, 1998, pp. 187-188; v.tb. Apel. n. 7.083.487-0, Santos, TJSP, 24a Câm. Dir. Priv., Rei. Des.Salles Vieira, j . 1°.2.07; Apel. n. 291.083-4/1-00, São Paulo, TJSP, 3ªCâm. Dir. Priv, Rei. Des. Elcio Trujillo, j . 8.11.05).
+Portanto, a demanda deve ser julgada procedente, reconhecendo-se a obrigação de pagamento dos valores pleiteados pela autora.
+Ante o exposto, JULGO PROCEDENTE a demanda para condenar a ré ao pagamento da importância de R$ 13.173,89 a título de sobreestadia devida até a data de 12/12/2008 e, após esse dia, até a efetiva devolução do container, os valores diários indicados na tabela de fls. 104. A quantia devida, expressa em dólares, será convertida em moeda corrente nacional segundo a cotação na data do inadimplemento, sendo corrigida monetariamente a partir de então e acrescida de juros de mora de 1% ao mês a partir da citação.
+Condeno, ainda, a ré ao pagamento das custas processuais e honorários de advogado, estes últimos fixados em 10% do valor da condenação, nos termos do art. 20, §3º do Código de Processo Civil.
+P.R.I.
+
+São Paulo, 01 de abril de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

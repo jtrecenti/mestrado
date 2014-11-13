@@ -1,0 +1,241 @@
+
+
+SENTENÇA
+
+Processo nº:053.99.426252-6
+Classe - AssuntoAção Civil Pública - Assunto Principal do Processo >
+Requerente:Fazenda Pública do Estado de São Paulo e outro
+Requerido:Fernando de Paula Lima Junior e outros
+
+
+
+Juiz(a) de Direito: Dr(a). Silvia Maria Meirelles Novaes de Andrade
+
+
+
+
+
+
+
+ VISTOS.
+
+
+
+
+
+
+ O MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO promoveu a presente Ação Civil Pública, sob o rito especial, em face de FERNANDO DE PAULA LIMA JUNIOR, EDUARDO CORREA CAVALCANTI, TRACE COMPANY S/A e MOTOROLA DO BRASIL LTDA., alegando, em síntese, que os dois primeiros corréus, ao promover as concorrências públicas 003-21/92 e 003/UD/14.95,  para o fim de contratar serviços de assistência técnica e manutenção de equipamentos de serviço troncalizado de telecomunicações da Polícia Militar do Estado de São Paulo, inseriram cláusulas editalícias restritivas da participação de outros concorrentes, de modo a dirigir a licitação apenas às duas segundas corrés, que se saíram vencedoras, uma na primeira e, a outra, na segunda licitação. Aduzindo a nulidade do contrato n. 008-21/92, bem como das respectivas concorrências, por violação aos princípios da moralidade e da legalidade, incidindo os primeiros corréus nas condutas descritas nos arts. 10, inciso VIII e 11, incisos I e IV, da Lei n. 8.429/92, pede a condenação solidária dos corréus Fernando, Eduardo e Trace Company ao ressarcimento integral do dano decorrente do contrato CSM/MTel n. 008-21/92 e da Concorrência CSM/MTel 1-003-21/92, correspondente à diferença entre o valor cobrado e o custo efetivo da prestação de serviços, em valor a ser apurado em perícia ou liquidação, atualizada e com juros de mora, bem como a condenação dos dois primeiros corréus à perda da função pública, suspensão dos direitos políticos e pagamento de multa administrativa, com base no art. 2º e 12, inciso II, da Lei n. 8.429/92, e a condenação de todos os corréus à proibição de contratar com o Poder Público ou de receber benefícios e incentivos fiscais e creditícios, direta ou indiretamente, com base nos arts. 2º, 3º e 12, inciso II, da Lei n. 8.429/92 ou, alternativamente, a condenação dos corréus nas penas dos arts. 2º, 3º e 12, inciso III, da mesma lei. 
+
+ Com a inicial vieram os documentos de fls. 21/2.121.
+
+Intimada a Fazenda do Estado (2.124), requerendo a sua inclusão no pólo ativo da ação (fls. 2.152).
+
+ Os réus foram citados e a Motorola ofereceu resposta na forma de contestação (fls. 2.222/2.278), argüindo, preliminarmente, a carência da ação por inconstitucionalidade formal da Lei n. 8.429/92 por desrespeito ao princípio da bicameralidade e, no mérito, que a ação é improcedente, eis que a ré não praticou nenhum dos atos tipificados nos arts. 10 e 11, da Lei de Improbidade Administrativa, já que os contratos emergenciais foram firmados em valores inferiores ao obtido na licitação. Ademais, a ré não obteve nenhum benefício na Concorrência n. CSM/MTel 003/14.95, eis que apenas dela participou, uma vez que a licitação não se concretizou, não havendo qualquer prova da prática de ato de improbidade de sua parte, apenas tendo se limitado a informar consulta feita pela própria Polícia Militar a respeito de qual empresa estaria habilitada a prestar os serviços pretendidos. No que tange à Concorrência CSM/MTel 1-003-21/92 e respectivo contrato, observa que destes não participou, não podendo ser responsabilizada. Juntou documentos de fls. 2.251/2.298.
+
+A Ofen Consultoria e Participações S/C Ltda., nova razão social da Trace Consultoria e Participações S/C Ltda. apresentou contestação (fls. 2.304/2.334) arguindo, preliminarmente, a prescrição do fundo de direito e, no mérito, que a ação improcede, eis que apenas firmou o contrato administrativo em setembro de 1992, não preenchendo os requisitos para participar da concorrência CSM/MTel 003UD/14.95, a qual foi anulada em ação mandamental por si ajuizada. Salienta que em 1992, quando firmou o contrato com a Polícia Militar, somente a fabricante do sistema entroncado e a empresa treinada para fazer a instalação e dar a garantia é que tinham condições de prestar os serviços de manutenção, o que não mais ocorria em 1995, na segunda concorrência. Outrossim, os funcionários da Polícia Militar foram efetivamente formados, tal como previsto no contrato originário, firmado em 1989, para o fim de prestarem os serviços de manutenção do equipamento, porém, foram estes relotados. Ademais, não houve o alegado direcionamento do certame, salientando que a prestação dos serviços teriam que observar as condições técnicas mínimas, eis que o referido sistema foi criado pela Motorola especialmente para atender às peculiaridades da Polícia Militar, cuidando-se do sistema mais avançado de comunicação de rádio existente na época, e, ademais, envolvia a garantia de substituição de peças, motivo que ensejou a não participação das outras empresas que retiraram o edital, já que não detinham a tecnologia e nem condições técnicas suficientes para assumirem o risco da contratação. O mesmo já não ocorria em 1995, quando houve a segunda concorrência, posto que nesta não se exigiu a garantia de reposição de peças, mas apenas o fornecimento de técnicos e engenheiros. Impugna a devolução dos valores pretendidos e aduz que observou o princípio da legalidade ao participar da concorrência. Juntou documentos de fls. 2.335/2.345.
+
+Fernando de Paula Lima Júnior e Eduardo Correa Cavalcanti contestaram (fls. 2.347/2.430), argüindo, preliminarmente, a inconstitucionalidade da Lei de Improbidade Administrativa por vício formal e, no mérito, que o pedido improcede, eis que quando foi firmado o contrato para o fornecimento do sistema de entroncamento da Polícia Militar com Israel, por se cuidar de um sistema muito avançado para a época e inexistir qualquer sistema similar no Brasil, houve muitos cuidados de ordem técnica para a preparação do edital, com o objetivo de se garantir à Administração a contratação de empresa com a qualificação técnica necessária para fins da manutenção do sistema. Aduziram que o treinamento fornecido pela empresa contratada aos policiais do COPOM tinha o objetivo específico de treinar os Policiais Militares a operar o sistema e para detectar problemas, não para a manutenção de equipamentos, eis que isto exigiria pessoal técnico capacitado, o que não existe na PM. Ademais, quando foi realizada a licitação de 1992, o termo de garantia de reposição de peças já havia expirado em 1991, não havendo que se falar em direcionamento da concorrência, posto que esta foi realizada para garantir a assistência técnica e manutenção, após o período de garantia. A segunda licitação, em 1995, se deu em época em que a tecnologia já estava mais divulgada e houve a necessidade de substituição da Trace, em razão da má qualidade na prestação dos serviços, sendo que a PM não sabia quais seriam as empresas habilitadas tecnicamente a prestar tais serviços, e, tendo em conta que a licitação foi questionada judicialmente, a fim de não colocar em colapso todo o sistema de entroncamento, colocando em situação de vulnerabilidade toda a população paulistana, firmaram contrato emergencial com a própria fabricante Motorola, que detinha as melhores condições técnicas para tanto, não havendo direcionamento da licitação e nem desvio de finalidade. Salientam a inconstitucionalidade dos dispositivos nos quais se baseia o pedido do autor e notam que, embora houvesse a irregularidade da publicação de alteração de cláusula editalícia na concorrência de 1995, a  Motorola não obteve qualquer vantagem, posto que esta não se concretizou. Finalmente, ressaltam que não houve conduta típica por parte dos réus a ensejar a imposição das penas pretendidas. Juntaram documentos de fls. 2.431/3.912.
+
+A Fazenda do Estado manifestou-se a fls. 3.914/3.918 aduzindo, em suma, que não há que se falar em inconstitucionalidade da Lei n. 8.429/92, observando que as punições civis, penais e administrativas são independentes entre si, que a corré Ofen responsabiliza a Motorola pelo ocorrido, e, outrossim, que os réus não trouxeram provas quanto às demais questões de mérito. Juntou documentos de fls. 3.919/3.925.
+
+Réplica a fls. 3.928/3.953.
+
+O feito foi saneado (fls. 3.983/3.984), sendo rejeitadas as preliminares e determinada a realização de prova pericial, sendo que desta decisão foi interposto agravo retido por parte da Motorola do Brasil Ltda. (fls. 4.022/4.065).
+
+Da decisão que determinou a fixação dos honorários periciais após a apresentação do laudo (fls. 4.126), foi interposto embargos de declaração pelo Ministério Público, os quais foram rejeitados (fls. 4.132/4.134).
+
+Laudo a fls. 4.169/4.233, manifestando-se as partes, havendo resposta a quesito complementar (fls. 4.268 e 4291/4.304), e designação de audiência para esclarecimentos do perito, prestados a fls. 4.467/4.468.
+
+Encerrada a instrução, por memoriais, as partes, analisando a prova acrescida, reiteraram suas manifestações anteriores (fls. 4.470/4.479, 4.498/4.506, 4.515/4.527 e 4.560/4.588).
+
+O julgamento foi convertido em diligência (fls. 4.589), sendo esta cumprida a fls. 4.684, manifestando-se as partes.
+
+ É O RELATÓRIO
+ DECIDO
+
+ Trata-se de ação civil pública por ato de improbidade administrativa que teriam praticado os corréus na realização das concorrências CSMMTel 01-003-21/92 e CSMMTel 003/UD.14.95. bem como no contrato firmado em 1992.
+
+Pelo que se verifica da inicial, a concorrência e contratação para fins de prestação de serviços e garantia, efetivada em 1992, com a empresa Trace Company S/A teria sido viciada em razão da inclusão de cláusula restritiva pela qual se exigia que o concorrente fosse credenciado pelo fabricante a executar tal tipo de manutenção no equipamento de propriedade da Polícia Militar, o qual havia sido adquirido em 1989 da Motorola/Sealbrent (Motorola de Israel), cuja representante no Brasil era a empresa Trace Trading Company.
+
+Tal exigência teria afastado as demais concorrentes, posto que, muito embora o edital houvesse sido adquirido por três empresas (Trace, General Security e Control), apenas a primeira foi habilitada por comprovar o credenciamento, sendo contratada, o que teria caracterizado o direcionamento da licitação.
+
+Além disso, posteriormente, verificou-se a desnecessidade desta contratação, uma vez que havia previsão no contrato de aquisição do sistema entroncado que a fabricante forneceria treinamento ao pessoal da Polícia Militar a fim de que a própria adquirente pudesse suprir a necessidade de assistência técnica para a manutenção do equipamento.
+
+Outrossim, não mais interessando à Polícia Militar na prorrogação do contrato de assistência técnica e garantia firmado com a Trace Company, abriu nova concorrência em 1995, a qual também continha a mesma cláusula restritiva. Ademais, o corréu Major Fernando de Paula Lima Junior, fez encaminhar missiva a doze empresas, dentre elas a Motorola Land Móbile Products Sector (da Motorola do Brasil Ltda.), solicitando informações a respeito de seu interesse em participar da licitação ou para que indicasse quem poderia prestar os serviços, devendo a empresa estar autorizada pela fabricante.
+
+Tal situação determinou que apenas a Motorola do Brasil fosse a única empresa habilitada a prestar os serviços, fato que ensejou a nulidade do certame em ação mandamental promovida pela Trace Company.
+
+Por tais razões, pede também a responsabilização da Motorola em relação à concorrência realizada em 1995.
+
+Ao que se apura da documentação contida nos autos, por meio de contrato firmado entre a Polícia Militar de São Paulo e a Sealbrent Holdin Limited (Motorola de Israel), em 1989, foi adquirido um sistema troncalizado de comunicações que permitia a otimização dos acessos entre os diversos pontos do sistema, concebido especialmente para atender às particularidades operacionais da Corporação Militar, com grande complexidade e utilização de grande número de equipamentos diferentes (fls. 4.173).
+
+Tal sistema foi importado e quem executou a instalação e se encarregou das obrigações constantes do Contrato CSM/MTel-005/20/89, dando a respectiva garantia, foi a empresa Trace Trading Company, representante da Sealbrent no Brasil, à época.
+
+Nos termos deste contrato, ficou pactuado na claúsula 9.3 que: os fabricantes, às suas expensas, fornecerá(ao) treinamento para capacitação de técnicos do comprador em manutenção preventiva e corretiva nas condições e locais estabelecidos de comum acordo pelo(s) fabricante(s) e comprador. Tais treinamentos serão ministrados no mesmo nível, profundidade e duração dos treinamentos oferecidos aos técnicos do fabricante, que arcará com todos os custos decorrentes, tais como: estadia, passagens, seguros e alimentação.
+
+Outrossim, na cláusula 9.1 foi previsto o treinamento técnico para fins de operação do sistema de rádio comunicação trunking, permitindo o conhecimento de sua estrutura identificação de defeitos, manutenção e reparo dos equipamentos, com duração de cinco dias no Brasil e dez dias úteis no exterior; treinamento dos operadores para a operação do console CENTRACOM e de supervisão do sistema trunking, objetivando o conhecimento do controle do sistema de rádio comunicação, com duração de sete dias no Brasil; treinamento técnico dos Sítios, para fins de conhecimento da estrutura do sistema, identificação de defeitos, manutenção e reparo dos equipamentos, com duração idêntica ao período de instalação, cujos treinados fariam parte do grupo de instalação do sistema; treinamento na Administração do Sistema trunking, objetivando o conhecimento das formas de operação do sistema em funcionamento, com duração de uma semana no exterior. 
+
+Uma vez instalado o sistema e ministrados os cursos ao pessoal da Polícia Militar (fls. 4.177), o período de garantia do equipamento venceu em 1991, sendo aberta a licitação CSM/MTel 003-21/92 com a finalidade de dar continuidade aos serviços de manutenção do sistema, bem como para garantir a reposição de peças.
+
+A este edital acorreram três empresas, sendo que a única concorrente que se habilitou e venceu a licitação foi a própria Trace Trading Company, uma vez que detinha a exigência de comprovação de capacidade técnica e de credenciamento fornecido pelo fabricante para o fim de executar este tipo de serviço, sendo firmado o Contrato CSM/MTel 008-21/92.
+
+Por não mais interessar à Corporação Militar a manutenção do contrato com a referida empresa, em 1995, foi expedido novo edital de licitação, CSM/MTel-003/UD/14.95, com a finalidade de dar continuidade à manutenção do sistema, mas sem a garantia de reposição de peças.
+
+Este último foi alvo de diversas impugnações administrativas e judiciais, em razão da existência de cláusula restritiva, e, além disso, teve a alteração de cláusula comunicada apenas aos participantes do certame, sem que se desse a necessária publicidade, eis que desta resultaria a ampliação do universo de licitantes.
+
+A referida concorrência foi, a final, anulada pela própria Administração, sendo contratada, emergencialmente, a própria fabricante do equipamento, Motorola do Brasil, e, após o término do referido contrato foram firmados outros dois contratos emergenciais até que ocorresse o final da Concorrência CSM/MTel-001/UGE.163/96, aberta para a manutenção desse mesmo sistema, com a garantia de reposição de peças, no qual a Motorola do Brasil saiu-se vencedora, firmando o contrato CSM/MTel-002/UGE.163/97.
+
+É objeto de análise, nesta ação, apenas as concorrências ocorridas em 1992 e 1995, e o contrato firmado em 1992.
+
+A primeira questão que se coloca, em relação à concorrência e contrato de 1992, é saber se havia ou não a necessidade de licitação para fins de prestação dos serviços de manutenção, uma vez que o contrato já previa o treinamento do próprio pessoal da Polícia Militar para o fim de habilitá-lo a fazê-lo, e este pacto ainda se encontrava em vigência.
+
+Sem dúvida, o contrato se encontrava ainda em vigor àquela época. Porém, a garantia de doze meses, a contar da expedição do Termo de Aceitação, dada pela fabricante do equipamento (cláusula 10.1) já havia se extinguido em 1991.
+
+Por isso, a concorrência foi aberta não somente para fins de contratação dos serviços de manutenção, mas também para fins de garantia de reposição de peças, fato que, por si só, já afastava várias empresas interessadas, posto que as peças eram importadas à época.
+
+ No que tange à obrigatoriedade de treinamento do pessoal da Polícia Militar, como apurou a perícia técnica, o treinamento estipulado na cláusula 9.1 do referido contrato, consistiam em: de operação, de administração do sistema, treinamento técnico e treinamento durante a instalação dos sítios de propagação eletromagnética, tendo sido todos eles ministrados conforme o pactuado (fls. 4.177).
+
+Como esclareceu o perito a fls. 4.303, o treinamento diferenciado das atividades técnicas, descritas no item 2.2 a fls. 4.176 do laudo técnico, não abrangia ambas as cláusulas 9.1 e 9.3, uma vez que à época, a tecnologia empregada era muito nova e praticamente desconhecida dos técnicos de Comunicação da Polícia Militar, sendo que estes estavam familiarizados com a comunicação analógica, mas não com as comunicações digitais microprocessadas, cuidando-se de um sistema de transmissão muito avançado para a época e especificamente feito para a Polícia Militar, eis  que utilizava o emprego do sistema de cobertura AMSS e SIMULCAST, o que possibilitava o acesso dos equipamentos móveis em locais difíceis (tais como túneis, becos e etc.), de modo a permitir o adequado desempenho da polícia (fls. 4.188).
+
+Tais fatos, conduziram a PM a dar prioridade aos treinamentos relacionados com a operação e administração do sistema e manutenção preventiva, consistente na detecção de falhas e substituição de módulos e equipamentos (fls. 4.189), sendo que a duração do treinamento planejado no Anexo V, do referido contrato, não possibilitava aos técnicos absorver conhecimentos suficientes da nova tecnologia implantada, a fim de  possibilitar uma independência técnica nos procedimentos de manutenção corretiva, mesmo porque os reparos de equipamentos, substituição de componentes eletrônicos e testes exigiam uma infra-estrutura complexa, com equipamentos especializados e experiência prática muito grandes por parte dos técnicos, necessitando, muitas vezes, dos recursos somente encontrados nas linhas de produção do fabricante, isto sem contar o fato de que tal situação  ainda não era compatível com o perfil encontrado nos membros da Corporação nem na estrutura técnico organizacional da Polícia Militar.
+
+ Disto resultou que, até hoje, a manutenção do sistema é terceirizada, sendo apenas gerenciada pelos técnicos da Polícia Militar (fls. 4.190). 
+
+Portanto, ao que se constata da conclusão técnica trazida pelo expert, bem como pela própria tecnologia implantada, o treinamento que foi efetivamente dado pela fornecedora do produto não foi o ideal, mas o possível dentro da estrutura da própria Polícia Militar, dos limites humanos e da experiência técnica do pessoal treinado, diante das grandes diferenças tecnológicas do novo sistema. 
+
+Não se pode, assim, concluir que as cláusulas contratuais não foram cumpridas, uma vez que o treinamento pactuado foi efetivamente fornecido, só não sendo a contento em razão das próprias limitações humanas do pessoal treinando e da Corporação, e, por outro lado, não se pode afirmar que, quando foi aberta a licitação CSM/MTel 003-21/92 com a finalidade de dar continuidade aos serviços de manutenção do sistema, não houvesse a necessidade da prestação destes serviços à Polícia Militar, uma vez que, como se constata, até a presente data esta não possui autonomia tecnológica suficiente para o fim de efetuar a manutenção preventiva e reparadora do sistema implantado.
+
+Aliás, nem seria mesmo possível exigir-se que isto ocorresse, posto que a Corporação Militar não é uma empresa de alta tecnologia e, por isso mesmo, não detém (e nem tem a obrigação de deter) equipamentos tecnológicos necessários e técnicos altamente treinados para o fim de efetuar a reparação dos complexos equipamentos especializados que utiliza para o seu trabalho, incumbindo aos seus técnicos a obrigação de saberem operar o sistema e detectar seus defeitos e falhas, efetuando apenas as manutenções simples, dentro das possibilidades tecnológicas fornecidas pela própria PM.
+
+Portanto, a resposta a primeira indagação é no sentido de que a licitação era necessária, posto que a Polícia Militar não tinha, e não tem, os equipamentos adequados e nem técnicos preparados para o fim de suprir a falta de manutenção preventiva e reparadora a ser prestada por empresa especializada, mormente em se considerando a complexidade do sistema de entroncamento e a alta tecnologia utilizada à época.
+
+A segunda questão a ser respondida é saber se houve ou não o direcionamento da licitação em razão da estipulação de cláusula editalícia na qual se estabelecia que apenas seria considerada habilitada a empresa que comprovasse ter capacidade técnica, sendo que esta decorreria da comprovação de credenciamento, junto ao fabricante dos equipamentos, bem como da experiência de um ano na manutenção do equipamento e, ainda, de conhecimento de software e hardware, conforme itens 2.1, 2.3 e 3.6.
+
+Ao que se apura da perícia técnica realizada o sistema de entroncamento, quando foi implantado na Polícia Militar, era totalmente novo, cuidando-se de utilização de tecnologia de ponta, havendo apenas duas empresas que o forneciam, sendo uma delas a Motorola e a outra a Ericsson.
+
+Porém, pelo que se verifica da resposta ao ofício expedido em diligência (fls. 4.684), muito embora a Ericsson Telecomunicações S/A trabalhasse com o sistema trunking em 1992, não detinha a tecnologia necessária para fins de prestar serviços de manutenção no sistema trunking instalado pela Motorola, posto que trabalhava com metodologia diferente.
+
+Portanto, fica claro que era de crucial importância para a vitalidade técnica do próprio sistema, que a empresa a ser contratada para o fim de efetuar a sua manutenção, com o qual trabalhava a Polícia Militar, fosse uma empresa que tivesse peças de reposição fornecidas pela fabricante Motorola, bem como que seus técnicos conhecessem a tecnologia por ela empregada.
+
+Tal circunstância, no caso, era fundamental para o fim de manter o sistema funcionando, garantindo a segurança de toda a população paulistana.
+
+Dentro desta circunstância, fica claro que, muito embora tenha ocorrido a licitação ora impugnada, a hipótese era de clara inexigibilidade dela.
+
+ Como se sabe, a regra da Administração Pública é a contratação por licitação, sendo que a exceção ocorre nos casos de dispensa e de inexigibilidade de licitação.
+
+ A contratação com dispensa de licitação somente se dá quando se torna impossível a licitação formal ou, quando esta, sendo realizada, frustre a própria consecução dos interesses públicos. 
+
+ Por isso, o art. 24 e incisos da Lei n. 8.666/93, prevê uma série de situações onde se verifica que o procedimento licitatório normal, se instaurado, traria sacrifício ao interesse público envolvido e não asseguraria, necessariamente, à contratação mais vantajosa (Cf. Marçal Justen Filho, in Comentários à Lei de Licitações e Contratos Administrativos, Ed. Dialética, 5ª. edição, 1998, p. 205).
+
+ Já a inexigibilidade da licitação ocorre quando é inviável a competição, como se pode verificar do rol constante do art. 25, da Lei n. 8.666/93.
+
+ No comentário de Marçal Justen Filho, a diferença entre ambas as hipóteses legais se dá porque nos casos de dispensa de licitação, os pressupostos de competição estão presentes e, tecnicamente, seria cabível a submissão da contratação a um procedimento licitatório, o qual apenas não se dá por reputar-se inconveniente a sua efetivação. Assim, avaliando-se os benefícios e os prejuízos que poderiam se concretizar em razão do procedimento licitatório, o legislador permitiu a contratação direta nos casos que especificamente arrola no art. 24, cuidando-se, por isso, de rol exaustivo. 
+
+ Portanto, não se enquadrando no rol legal, não há margem à dispensa de licitação. 
+
+ Já no caso de inexigibilidade, a competição não é possível, sendo esta inviável. Por isso, o rol trazido pelo legislador no art. 25 tem sido entendido como meramente exemplificativo, posto que podem surgir outras hipóteses de inexigibilidade. Daí porque a lei, em tais casos, remete à verificação das circunstâncias de fato para fins de apurar a sua possibilidade ou não (Ob. cit. supra, p. 250).
+
+No caso, a hipótese em testilha não está contemplada no rol exemplificativo do art. 25, da Lei n. 8.666/93, porém, da análise das circunstâncias de fato que envolviam a contratação em questão, fica claro que era inexigível a licitação no caso.
+
+ Com efeito, o sistema trunking foi encomendado especialmente para fins de utilização da Polícia Militar (sob o sistema taylor made ? feito sob medida), constando com aspectos técnicos específicos, cuidando-se de sistema  totalmente novo, cuja transferência de conhecimento da tecnologia para a sua manutenção envolvia a transmissão de segredo industrial, eis que se utilizava tecnologia de ponta. Tais sistemas, no Brasil, à época, eram fornecidos apenas por duas empresas: a Motorola e a Ericsson. No entanto, por utilizar-se de metodologia diferente, a empresa Ericsson Telecomunicações S/A não detinha a tecnologia necessária para fins de prestar serviços de manutenção no sistema trunking instalado pela Motorola, tal como se constatou. Finalmente, em se cuidando de um sistema utilizado pela Polícia Militar, em prol de toda a coletividade paulistana, era de crucial importância que a empresa a ser contratada para o fim de efetuar a sua manutenção tivesse peças de reposição fornecidas pela fabricante Motorola, bem como que seus técnicos conhecessem a tecnologia por ela empregada.
+
+Daí porque se verifica, diante da situação de fato que se apresentava, que a contratação dos serviços deveria ter sido feita de forma direta, sendo inexigível a licitação.
+
+ Porém, por excesso de zelo e demonstrando a sua probidade, os corréus abriram a licitação. 
+
+ Mas, como os serviços não poderiam ser prestados por qualquer empresa à época, foi inserida a cláusula restritiva que limitou a habilitação do concorrente à comprovação de credenciamento do fabricante e de experiência anterior com o referido equipamento.
+
+ Ao comentar a regra do art. 30, da Lei n. 8.666/93, observa Marçal Justen Filho que a questão da habilitação na licitação se relaciona com a experiência-qualificação, sendo que a regra do inciso II, ao dispor sobre a comprovação de capacitação técnica para a prestação de serviços ou contratação de obras não se restringe apenas à titularidade, pelo licitante, de conhecimento técnico para executar o objeto, mas também àqueles que sejam titulares de experiência-qualificação.
+
+ Em outras palavras, o ato convocatório pode exigir demonstrações práticas da aptidão do interessado, em parâmetros que dependerão da natureza da prestação a ser executada. Isto pode envolver instalações industriais adequadas, qualitativa e quantitativamente; à produção de bens materiais; mão-de-obra qualificada; domínio de tecnologia específica, etc. Assim se passa nos casos em que a atividade envolve riscos, especialidades, domínio de técnicas, conjugação de processos etc. (grifos meus) (Ob. cit., p. 307).
+
+Pois bem, no caso, como se apura da prova pericial trazida aos autos, a tecnologia utilizada no equipamento era de ponta, exigindo não somente conhecimento técnico específico para fins de sua manutenção, como também equipamentos próprios somente disponíveis na própria fábrica para o fim de sua reparação.
+
+Ademais, envolvia a prestação de garantia, com a reposição de peças, as quais eram importadas na época, o que exigia que a empresa habilitada tivesse o credenciamento da fabricante para o fim de reposição de peças originais.
+
+Tal circunstância deixa claro que, para que a Administração obtivesse a prestação de serviços pelo melhor preço e técnica, a fim de manter em funcionamento o equipamento instalado, sem colocar em risco toda a coletividade paulistana, havia a necessidade premente de que o interessado na prestação de tais serviços tivesse o domínio da tecnologia específica, com experiência prática na  prestação dos serviços, o que somente poderia dar-se, à época, através do credenciamento perante a própria fabricante, posto que a prestação dos serviços envolvia a transferência de segredos industriais a respeito da metodologia de trabalho e tecnologia aplicada, assim como o conhecimento de hardware e software.
+
+Por conseguinte, diante da situação em questão, não podendo a Administração assumir o risco de arcar com um contrato mal executado e com os sérios prejuízos ao interesse público envolvido, colocando em risco toda a população, as cláusulas tidas como nulas pelo Egrégio Tribunal de Contas  não se mostram como tais, eis que era possível e necessária a exigência específica de experiência anterior com o referido equipamento e de credenciamento da fábrica, para fins de comprovação da capacidade técnica, ainda que disto resultasse em limitação do universo de licitantes.
+
+Em casos como tais, o próprio inciso II do art. 30 da Lei de Licitações permite a exigência de comprovação de experiência anterior e demonstração da capacidade técnica específica para o fim de habilitar ou não o licitante, de modo a proteger a Administração da realização de um mau contrato e em prol do próprio interesse público envolvido.
+
+Não há que se falar, assim, em nulidade da concorrência pública 003-21/92 e do respectivo contrato n. 008-21/92, inexistindo ato ímprobo, mas, ao revés, ato probo e zeloso por parte dos administradores públicos, que se preocuparam em tomar todos os cuidados para que a contratação se desse dentro da lisura que se exige no caso, com a devida publicidade a todos os interessados.
+ 
+ Note-se, ademais, como observado alhures, que a  situação ensejava a inexigibilidade de licitação, não havendo que se responsabilizar os corréus, posto podendo a Administração contratar diretamente, não podem os administradores responder por terem  agido com excesso de cautela, realizando o procedimento licitatório que seria inexigível no caso. 
+
+ O mesmo já não se poderia afirmar na Concorrência pública 003/UD/14.95,  eis que, àquela época, a tecnologia desenvolvida já se encontrava mais divulgada, havendo diversas empresas que se encontravam habilitadas a prestar os serviços requeridos.
+
+Daí porque tal cláusula restritiva, também inserida naquela concorrência, não mais se justificava à época. E tanto assim o era, que a referida licitação, após ter sido objeto de ação mandamental impetrada pela Trace, foi anulada por decisão judicial.
+
+Além disso, nesta licitação, houve alteração substancial de outra cláusula editalícia, eis que, na original, exigia-se que o interessado deveria dispor de aptidão para desenvolvimento de uso simultâneo do sistema troncalizado AMSS e/ou Simulcast Motorola da Banda UHF, sendo esta redação alterada para:  uso simultâneo ou não do sistema troncalizado AMSS e/ou Simulcast Motorola da Banda UHF (grifo meu), fato que ampliou o universo de licitantes.
+
+Contudo, apesar desta alteração, não houve a necessária publicidade, tendo os corréus apenas efetuado a comunicação, por carta, aos concorrentes já inscritos, sem providenciar a necessária publicação.
+
+Sem dúvida alguma, tendo havido a ampliação do universo de concorrentes em razão da alteração substancial da cláusula editalícia, havia que se dar a necessária divulgação, em observância aos princípios que regem o procedimento licitatório.
+
+  Com efeito, no conceito sintético trazido por HELY LOPES MEIRELLES, a licitação "é o procedimento administrativo mediante o qual a Administração Pública seleciona a proposta mais vantajosa para o contrato de seu interesse." (in "Direito Administrativo Brasileiro", Ed. RT, 15a. Edição, 1990, p. 242).
+
+ Assim, visa ela garantir duplo objetivo: 1. possibilitar à entidade governamental  realizar o negócio mais vantajoso e; 2. assegurar aos administrados a possibilidade de participarem, de forma igualitária, desse negócio.
+
+ Logo, rege-se por princípios básicos, garantidos constitucionalmente,  que informam seu procedimento, devendo precipuamente respeitar os princípios da isonomia e impessoalidade (previstos nos arts. 5º e 37, caput, da Constituição Federal) e probidade administrativa (art. 37, caput e 82, inciso V, da Carta Magna).
+
+ Além disso, por determinação da lei infraconstitucional, deve respeitar os princípios "da igualdade, da publicidade, da probidade administrativa, da vinculação ao instrumento convocatório, do julgamento objetivo e dos que sejam correlatos a este último" (Cf. CELSO ANTÕNIO BANDEIRA DE MELLO, in "Curso de Direito Administrativo",  Malheiros Editores, 4a. edição, 1993, p. 245). 
+
+Sem dúvida alguma, ao não efetuar a devida publicidade da alteração da referida cláusula editalícia, houve violação clara dos princípios da publicidade e da igualdade entre os licitantes, sendo nula, portanto.
+
+Contudo, para fins de responsabilização dos réus por ato de improbidade administrativa, há que se apurar a conduta por eles praticada.
+
+ Nos atos de improbidade administrativa há que se verificar o elemento subjetivo, posto que a responsabilidade será sempre subjetiva, ocorrendo por ação ou omissão, dolosa ou culposa.
+
+ No comentário de Paulo Henrique dos Santos Lucon, ao analisar a aplicação da Lei n. 8.429/92, observa este que o próprio legislador previu, expressamente, em seu art. 10, que tal conduta pode ser dolosa ou culposa, quando se cuidem de atos que causem prejuízo ao erário público. Já nas hipóteses dos arts. 9º e 11, silenciou a lei quanto à conduta culposa, portanto, os atos que importem em enriquecimento ilícito e ofensa aos princípios da administração pública apenas se configuram se comprovada a ação dolosa do agente, não respondendo este por atos culposos (in Improbidade Administrativa ? Questões Polêmicas e Atuais, Malheiros Editores, 2001, pp. 311/312). 
+
+ O ressarcimento do prejuízo, conforme estabelecido no art. 5º, da Lei n. 8.429/92, por sua vez, é devido seja por ação ou omissão, dolosa ou culposa e, por isso, em quaisquer das hipóteses de condenação com fundamento nos arts. 9º, 10 e 11, da mesma lei, esta reparação é devida, desde que comprovado o prejuízo ao erário público. Se não provado o dano, incabível o ressarcimento do prejuízo.
+
+ Assim, resumindo, para fins de aplicação do art. 12, da Lei de Improbidade Administrativa, no que tange ao capítulo da condenação referente ao ressarcimento dos prejuízos, imprescindível se torna a prova do dano. Já para o capítulo relacionado às sanções restritivas de direitos, é imprescindível a prova da culpa  (no caso do art. 10) ou do dolo do administrador (nos casos dos arts. 9º, 10 e 11) (Ob. cit. supra, p. 314).
+
+ Como salientam Emerson Garcia e Rogério Pacheco Alves, na obra Improbidade Administrativa, o art. 10 não distingue entre os graus de culpa, podendo esta ser leve, grave ou gravíssima para o fim de configurar o tipo legal. Seus graus, no entanto, podem ser valorados para fins de fixação da penalidade aplicável (Ob. cit., Ed. Lúmen Júris, 4ª. edição, 2008, pp. 269/270).
+
+No caso, no que tange ao tipo do art. 10, inciso VIII, há que se observar que, para que frustração da licitude do processo licitatório, ou sua dispensa indevida, importe em ato de improbidade é também necessário que deste ato, doloso ou culposo, resulte em lesão ao erário ensejando a perda patrimonial, desvio, apropriação, malbaratamento ou dilapidação dos bens ou haveres das entidades referidas no art. 1º da Lei de Improbidade Administrativa.
+
+Por conseguinte, ainda que os réus tenham agido com culpa leve em razão da não observância dos princípios legais que regem a licitação pública, deste ato culposo não resultou nenhuma lesão ao erário público e nem perda patrimonial, desvio, apropriação, etc., eis que o referido procedimento foi anulado por ato da própria Administração, aliás, no caso, por ato do próprio réu Tenente Coronel Fernando de Paula Lima Junior, em razão dos diversos aspectos que foram alvo de impugnações e mandados de segurança.
+
+Por outro lado, tendo sido anulado o referido procedimento, a corré Motorola do Brasil Ltda. não obteve qualquer vantagem, posto que a concorrência sequer chegou a ser realizada.
+
+Assim, fica claro que não se configurou  a hipótese do art. 10, inciso VIII, da Lei n. 8.429/92 para fins de responsabilização dos réus, eis que do ato culposo não resultou danos ao erário público..
+
+Já no que tange ao art. 11, da mesma lei, para que se configure o ato ímprobo não basta que o ato ou omissão atente contra os princípios da administração pública, violando os deveres de honestidade, imparcialidade, legalidade e lealdade às instituições, eis que tais atos devem ser praticados de forma dolosa pelos réus, a fim de que se configure o tipo legal.
+
+O mesmo se aplica à prática de ato que vise fim proibido em lei ou regulamento, ou, ainda, de ato contrário à lei (inciso I) e ao ato que negue publicidade aos atos oficiais (inciso IV).
+
+ Ao que se apura nos autos, não logrou o autor comprovar que os réus houvessem agido com dolo ao incluírem a cláusula restritiva e na ausência de publicidade adequada na alteração de cláusula editalícia.
+
+Ao contrário, ao que se verifica, eles tanto agiram dentro dos princípios da boa fé, e sem qualquer pretensão de atentar contra os princípios da legalidade e da moralidade administrativa, que, diante das impugnações apresentadas contra o referido procedimento, houveram por bem anulá-lo, evitando, assim, qualquer prejuízo à Administração.
+
+Aliás, neste aspecto, há que se diferençar entre o ato ilegal e o ato ímprobo.
+
+O art. 11, da Lei n. 8.429/92 estabelece, dentre outras circunstâncias, que o ato ímprobo é o ato ilegal, ou seja, praticado contra o princípio da legalidade.
+
+No entanto, o ato ilegal não se confunde com o ato ímprobo. O ato ilegal é aquele contrário à lei e pode ser praticado ainda que de boa fé por quem a desconheça, muito embora o seu conhecimento seja inescusável. Já o ato ímprobo é aquele que, além de afrontar a lei, também traz em si outros atributos de desonestidade, imoralidade, deslealdade, má fé, dissociado da boa administração e com o fim específico de auferimento de vantagem ilícita.
+
+Quando a lei, em seu art. 11, qualifica o ato ímprobo como sendo aquele que viola a lei, esta violação deve vir conjugada com esse plus a fim de que se configure o ato ímprobo.
+
+Esta distinção se faz necessária a fim de que a aplicação da Lei de Improbidade Administrativa, cujas penalidades são severas, não se torne arbitrária, sendo aplicada somente àqueles maus administradores e seus apaniguados, que, de má fé e visando fins ilícitos, atentem contra os princípios da Administração Pública, sem atingir, no entanto, o funcionário ou terceiros que tenham agido de boa fé, mas, que por falta de apoio técnico e conhecimento jurídico suficiente, venham a infringir a lei.
+
+Nesse sentido, aliás, anota Marcelo Figueiredo, observando que a lei de improbidade não faz esta distinção, incumbindo à doutrina e à jurisprudência assim o fazer, anotando, inclusive, posição jurisprudencial em voto do Eminente Desembargador José Santana, na Apelação Cível n. 185.113-5/5-00, da 8ª. Câmara de Direito Público, e, ainda, do Des. Antônio Rulli, na Apelação Cível n. 185.161-5/3, da 9ª. Câmara de Direito Público (in Probidade Administrativa, Malheiros Editores, 6ª. edição, 2009, p. 117).
+
+Diante dessas circunstâncias, muito embora o ato praticado tenha sido ilegal, não há que se falar em caracterização de ato ímprobo a ensejar a aplicação das penalidades previstas no art. 12, da Lei n. 8.429/92.
+
+Desse modo, não havendo a comparação de terem os agentes públicos agido com dolo e, embora havendo ato contrário à lei, não se possa qualificar esta ilegalidade como improbidade, também não perfeito o tipo legal do art. 11, incisos I e IV, da Lei de Improbidade, improcedendo o pedido também neste aspecto.
+Por tais razões, por qualquer ângulo que se analise a questão, improcede o pedido inicial.
+
+Ante o exposto, JULGO IMPROCEDENTE a ação, e extinto o feito, com resolução de mérito, com fundamento no art. 269, inciso I, do Código de Processo Civil.
+
+Finalmente, tendo em vista que não houve má-fé do autor, fica este isento do pagamento das custas e despesas judiciais bem como dos honorários advocatícios.
+
+Expeça-se certidão a favor do  perito judicial para que este possa se valer do meio judicial cabível para a cobrança de seus honorários. 
+
+Publique-se. Registre-se e Intimem-se.
+São Paulo, 8 de julho de 2010.
+
+Silvia Maria Meirelles Novaes de Andrade
+Juíza de Direito

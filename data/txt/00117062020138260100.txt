@@ -1,0 +1,44 @@
+
+
+SENTENÇA
+
+Processo nº:0011706-20.2013.8.26.0100
+Classe - AssuntoProcedimento Sumário - Perdas e Danos
+Requerente:MARCO ANTONIO ABETINI
+Requerido:BANCO SANTANDER S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Andre Pasquale Rocco Scavone
+
+Vistos.
+
+O autor, qualificado(a) nos autos, ajuizou ação REVISIONAL contra o réu alegando, em apertada síntese, que o contrato apresenta juros abusivos, anatocismo e abusividade da tarifa de cadastro.
+Citada(o), a(o) ré(u), apresentou contestação.
+As partes não compareceram na audiência de conciliação.
+É o Relatório.
+Fundamento e decido.
+O feito dispensa a produção de outras provas e comporta julgamento antecipado nos termos do artigo 330, inciso I, do Código de Processo Civil. A necessidade de perícia contábil surgirá apenas se fixado o Direito a ser aplicado, o que não cabe ao caso em questão.
+Como é cediço, não se aplica a Lei de Usura às instituições financeiras:
+JUROS - Instituição financeira - Contrato de abertura de crédito - Juros - Inaplicabilidade da limitação do Decreto nº 22.626/33 - Precedentes. A limitação dos juros à taxa de 12% ao ano estabelecida pela Lei de Usura (Decreto nº 22.626/33) não se aplica às operações realizadas por instituições integrantes do sistema financeiro nacional, salvo exceções legais, inexistentes na espécie. (STJ - REsp. nº 166.650-RS - Rel. Min. César Asfor Rocha - J. 05.05.98 - DJU 03.11.98).
+Já o anatocismo não se confunde com a usura. A primeira é a incidência de juros sobre juros, os juros compostos ou capitalizados, enquanto a última refere-se aos juros acima do limite legal. A capitalização em prazo inferior ao anual é exceção em nosso sistema, ainda que pactuada pelas partes, somente podendo ocorrer quando permitida em lei. Este entendimento consolidou-se no Supremo Tribunal Federal, conforme Súmula de nº 121, que dispõe: É vedada a capitalização de juros, ainda que expressamente convencionada.
+Certo que há incidência do sistema francês de amortização no contrato em questão, e indubitável que esta fórmula resulta em juros compostos capitalizados a cada prestação periódica. Entretanto, a MP nº 1.963-17, de 30/3/2000, posteriormente a MP nº 2.170-36, autorizou a capitalização em prazo inferior a um ano para as instituições integrantes do Sistema Financeiro Nacional, ampliando as exceções legais anteriormente existentes (DL 167/67, DL 413/69 e Lei nº 6.840/80), e o contrato objeto da ação é posterior à edição da mencionada Medida Provisória.
+Dizer que o consumidor não tinha ciência das condições do contrato é assertiva que carece de plausibilidade.
+E se o contrato indica a taxa de juros, nominal e efetiva, e, de modo claro, o valor de cada parcela que deve ser paga, não há se falar em ofensa ao Código de Defesa do Consumidor.
+Inegável que as atuais taxas de juros estavam (e ainda estão) em níveis insuportáveis. Mas é descabido a parte realizar um financiamento e depois vir reclamar ao Poder Judiciário para que controle a oferta da moeda, pois se estaria usurpando função que foi conferida ao Banco Central pela Constituição Federal.
+Não há se falar em onerosidade excessiva, porquanto não fundamentada em causa superveniente à formação do contrato. Se há cláusulas que tornaram o contrato excessivamente oneroso, tais podem ser tidas por nulas em razão da vantagem excessiva ou desproporcional, mas não há fundamento explícito a evocar a cláusula rebus, porquanto nada se alega quanto à alteração significativa das variáveis extracontratuais.
+A aplicação do Código de Defesa do Consumidor aos contratos de financiamento bancário autoriza a intervenção judicial nos valores da taxa de juros em casos de flagrante abusividade, nas hipóteses do art. 51, IV, da Lei. Todavia, a caracterização de eventual abusividade deve tomar como parâmetros os valores que vêm sendo praticados pelo próprio mercado, sob pena de se considerar tudo abusivo se tomarmos como referência a taxa limite de usura.
+Por fim, mesmo quando reconheceu a aplicabilidade do CDC aos contratos bancários, o Egrégio Supremo Tribunal Federal ressalvou a definição do custo das operações ativas e remuneração das operações passivas.
+CÓDIGO DE DEFESA DO CONSUMIDOR. ART. 5o, XXXII, DA CB/88. ART. 170, V, DA CB/88. INSTITUIÇÕES FINANCEIRAS. SUJEIÇÃO DELAS AO CÓDIGO DE DEFESA DO CONSUMIDOR, EXCLUÍDAS DE SUA ABRANGÊNCIA A DEFINIÇÃO DO CUSTO DAS OPERAÇÕES ATIVAS E A REMUNERAÇÃO DAS OPERAÇÕES PASSIVAS PRATICADAS NA EXPLORAÇÃO DA INTERMEDIAÇÃO DE DINHEIRO NA ECONOMIA [ART. 3º, § 2º, DO CDC]. MOEDA E TAXA DE JUROS. DEVER-PODER DO BANCO CENTRAL DO BRASIL. SUJEIÇÃO AO CÓDIGO CIVIL. STF Pleno ? ADI 2.591/DF Relator(a): Min. CARLOS VELLOSO Relator(a) p/ Acórdão: Min. EROS GRAU Julgamento: 07/06/2006  Órgão Julgador: Tribunal Pleno  Publicação DJ 29-09-2006 PP-00031 EMENT VOL-02249-02 PP-00142
+No que diz respeito à cobrança de tarifa de cadastro e outros serviços, em que pese relevantes os argumentos, e registrando que nosso entendimento é em sentido contrário (acompanhando o entendimento de jurisprudência TJRS - EI nº 70.016.098.246 - Novo Hamburgo/RS - 7º Grupo Cível - Rel. Des. Dorval Braulio Marques - J. 06.10.2006 TJSP, Ap. 73160322200, DJ 12/08/2009, 23ª CDP, Rel. Rizzato Nunes), a jurisprudência predominante do E. Superior Tribunal de Justiça, nas duas Turmas que detém competência para analisar a matéria (3ª e 4ª Turmas), orienta-se em sentido oposto:
+
+As tarifas de abertura de crédito (TAC) e emissão de carnê (TEC), por não estarem encartadas nas vedações previstas na legislação regente (Resoluções 2.303/1996 e 3.518/2007 do CMN), e ostentarem natureza de remuneração pelo serviço prestado pela instituição financeira ao consumidor, quando efetivamente contratadas, consubstanciam cobranças legítimas, sendo certo que somente com a demonstração cabal de vantagem exagerada por parte do agente financeiro é que podem ser consideradas ilegais e abusivas, o que não ocorreu no caso presente. (Recurso Especial nº 1.246.622, 4ª Turma, Rel. Min. LUIS FELIPE SALOMÃO, j. 11/10/2011, DJe 16/11/2011, por unanimidade).
+De acordo com o Superior Tribunal de Justiça, que tratou a questão como Recurso Repetitivo, é possível a cobrança de tarifas de cadastro, de credito e de confecção de carnê, na melhor exegese do artigo 1º da Resolução 3.911/2011 do BACEN.  Veja-se, ainda, Agravo Regimental em Recurso Especial nº 1.061.477, 4ª Turma, Rel. Min. JOÃO OTÁVIO DE NORONHA, j. 22/06/2010, DJe 01/07/2010, e Agravo Regimental em Recurso Especial 897659, 3ª Turma, Rel. Min. PAULO DE TARSO SANSEVERINO, j. 26/10/2010, DJe 09/11/2010, todos por unanimidade. 
+E não se pode olvidar que o Supremo Tribunal Federal determinou, em julgamento vinculante, que caberá ao Superior Tribunal de Justiça a função de uniformizar ajurisprudência no Juizado (vide Embargos de Declaração no Recurso Extraordinário 571.572).
+Do exposto, julgo IMPROCEDENTE o pedido e extinta a ação, com a extinção do processo com fundamento no art. 269, inciso I, do Código de Processo Civil, e condeno o autor a pagar custas, despesas processuais e honorários advocatícios que fixo em dez por cento do valor da causa atualizado desde o ajuizamento (Sum nº 14, STJ), exigíveis apenas nos termos do art. 12 da Lei n° 1.060/50.
+P. R. I. C.
+
+São Paulo, 09 de outubro de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

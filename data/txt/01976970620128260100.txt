@@ -1,0 +1,119 @@
+
+
+SENTENÇA
+
+Processo nº:0197697-06.2012.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Defeito, nulidade ou anulação
+Requerente:Fabiana Maria Lourenço
+Requerido:Banco Bradesco S/A
+
+
+Justiça Gratuita
+
+Juiz(a) de Direito: Dr(a). Maria Rita Rebello Pinho Dias
+
+Vistos.
+
+I.FABIANA MARIA LOURENÇO ajuizou Ação Declaratória de Inexistência de Débito c.c. Indenização por Danos Morais contra BANCO BRADESCO S/A. Disse que foi surpreendida com notícia de que seu nome foi negativado, em razão de débito de R$ 551,30. Afirma que não deve esse valor e que a cobrança é indevida, visto que não foi respaldada em documento que fosse dotado dos requisitos dos títulos executivos, a saber, liquidez, certeza e exigibilidade. Entende que a conduta da ré é abusiva. Requer a declaração de inexistência do débito, além de condenar a ré ao pagamento de R$ 40.000,00 por danos morais. Junta documentos (fls. 05/14).
+
+Indeferido o benefício da gratuidade de justiça e indeferida a tutela (fl. 15).
+
+Regularmente citado, o banco réu apresentou contestação (fls. 19/33), defendendo a regularidade do débito cobrado e afirmando que não há comprovação dos danos morais, questionando o valor requerido a título de indenização. 
+
+Réplica (fls. 39/40), juntando documentos (fls. 41/50).
+
+Determinada exibição de documentos (fl. 52). Manifestação da autora (fls. 60/63). Juntada de documentos (fls. 66/88).
+
+É o relatório.
+
+II.FUNDAMENTO.
+
+Entendo que as questões controvertidas são todas de direito ou já estão satisfatoriamente comprovadas, não havendo necessidade de produção de prova oral em audiência, nos termos do art. 130 do CPC. Por este motivo, passo ao julgamento antecipado da lide, nos termos do artigo 330, I, do CPC.
+
+No mérito, a ação é PROCEDENTE.
+
+É incontroversa a incidência do Código de Defesa do Consumidor ao caso em análise, tendo em vista o disposto no art. 2º, parágrafo único, do CDC. A autora, ainda que negue que tenha celebrado as compras cobradas pela ré - relação esta tipicamente de consumo -, acabou intervindo na referida relação, uma vez que seu nome consta como parte contratante. A autora é vítima do evento decorrente de defeito no serviço, enquadrando-se no conceito de consumidor pelo art. 17 do CDC.
+
+A questão efetivamente controvertida nos autos cinge-se à validade das compras realizadas por cartão, cuja senha é de conhecimento exclusivo da autora. Enquanto que a autora nega que tenha firmado tais compras, a ré defende sua validade.
+
+Entendo que a autora não pode ser responsabilizada por débitos efetuados com o seu cartão de crédito por terceiros.
+
+O entendimento manifestado no parágrafo acima decorre da sistemática dos contratos de cartão de crédito. Segundo esse contrato, o fornecedor de serviço concede crédito ao consumidor, o qual é representado por título ? nota de venda. O fornecedor, então, apresenta este título ? nota de venda -ao banco, o qual o paga em sua integralidade, assumindo o direito de cobrá-lo do consumidor. 
+
+Nesse sentido, comenta Fábio Ulhôa Coelho: Pelo contrato de cartão de crédito, uma instituição financeira (emissora) se obriga perante uma pessoa física ou jurídica (titular) a pagar o crédito concedido a esta por um terceiro, empresário credenciado por aquela (fornecedor). O cartão de crédito, propriamente dito, é o documento pelo qual o titular prova, perante o fornecedor, a existência do contrato com a instituição financeira emissora, servindo também para a confecção de nota de venda, que é o instrumento de outorga do crédito pelo fornecedor ao titular. (...) O valor dessa compra, por força do crédito que o fornecedor dá ao titular, será pago, sem qualquer acréscimo, na data do vencimento mensal do cartão, diretamente à emissora. Esta, por sua vez, repassará o valor do pagamento ao fornecedor, mediante a exibição das notas de venda" (in Manual de Direito Comercial, Saraiva, fl. 472).
+
+Atualmente, substituiu-se a assinatura do portador do cartão de crédito pelo emprego da senha, por se entender que tal sistema era mais seguro.
+
+Ocorre, todavia, que mesmo com a existência de senhas pessoais e intransferíveis há a possibilidade de utilização indevida por terceiros fraudadores. 
+
+A doutrina especializada reconhece a falibilidade do meio eletrônico, admitindo, inclusive, a possibilidade de roubo de senhas pessoais por hackers: Desta forma, a invasão levada a efeito por alguém que a faz comente como forma de demonstrar suas capacitações tecnológicas e familiaridade com um sistema que esse diz seguro, mesmo que aparentemente possa não resultar em prejuízos imediatos ao consumidor, vem a demonstrar que, na realidade, a segurança do sistema é relativa. Com relação à invasão, o consumidor poderá ser atingido das mais diversas formas e nos mais diversos campos de seus direitos, pois esta poderá abranger entre outros: (...) III ? A utilização de senhas de acesso e determinados serviços em ambiente de internet; IV ? A interceptação de dados relativos a cartões de crédito e/ou cartões bancários (...) (Direito & Internet ? Aspectos Jurídicos Relevantes, 2ª edição, Quartien Latin, Newton de Lucca e Adalberto Simão Filho Coordenadores, fls. 129/130).
+
+A mesma insegurança do sistema eletrônico é reconhecida pela jurisprudência: Com base nas decisões existentes, pode-se constatar a tendência da jurisprudência de reconhecer a responsabilidade objetiva da instituição financeira por fraudes eletrônicas ocorridas com transações por intermédio da Internet, em virtude da vulnerabilidade do sistema, que permite a atuação de hacker, configurando assim risco do negócio. Parece-nos correta a assimilação desses eventos aos casos de falsificação de cheques e a aplicação da teoria do risco da atividade às fraudes envolvendo sistemas eletrônicos. (Responsabilidade Civil na Internet e nos demais Meios de Comunicação, Ed. Saraiva, Coordenadores Regina Beatriz Tavares da Silva e Manoel J. Pereira dos Santos, Direito GV, fl. 257).
+
+Logo, em face da possibilidade de invasão de sites e roubos de senhas eletrônicas por incontáveis meios, denunciando a falibilidade do sistema fornecido ao consumidor pela internet, forçoso reconhecer que tal situação permitiria, por si só, vislumbrar a existência de verossimilhança das alegações do autor, em sua inicial. E, consequentemente, a inversão do ônus da prova. Ou seja, competiria à ré comprovar que foi a autora quem realizou as operações questionadas. Ocorre, todavia, que, por se tratar de fato negativo, o ônus de produção de tal prova é diretamente imputável à ré, sem necessidade de qualquer inversão.
+
+A ré não comprovou que as operações questionadas eram normais e adequadas com o perfil da autora. Não trouxe, tampouco, qualquer prova que permitisse relacionar as transações relacionadas à autora, não se desincumbindo, portanto, de seu ônus probatório. Limitou-se a trazer as condições gerais do contrato, sem qualquer assinatura pela autora.
+
+É preciso verificar, portanto, se houve utilização dos dados do cartão por terceiros de má-fé.
+
+Segundo a doutrina permite-se a inversão do ônus da prova em vista da hipossuficiência do consumidor. Nesse sentido: No caso de verossimilhança, não é propriamente uma inversão. Na lição de Kazuo Watanabe: na primeira situação, na verdade, não há uma verdadeira inversão do ônus da prova. O que ocorre, como bem observa Leo Rosemberg, é que o magistrado, com a ajuda das máximas de experiências das regras da vida, considera produzida prova que incumbe a uma das partes. Examinando as condições de fato com base em máximas de experiência, o magistrado parte do curso normal dos acontecimentos e, porque o fato é ordinariamente a conseqüência ou o pressuposto de outro fato, em caso de existência deste, admite aquele também como existente, a menos que a outra parte demonstre o contrário. Haverá inversão judicial, propriamente, quando o juiz considerar o consumido hipossuficiente. A hipossuficiência a que alude a lei não é apenas a econômica, mas em especial a de informações (técnica). O juiz procederá à inversão sempre que verificar que a produção da prova seria difícil ao consumidor, porque depende de conhecimentos técnicos ou de informações que, normalmente, estão em poder do fornecedor (Marcus Vinicius Rios Gonçalves, in Novo Curso de Direito Processual Civil ? vol.1, 4ª edição, Saraiva, fl. 435).
+
+
+Portanto, é condição sine qua non do contrato de cartão de crédito que o título acima mencionado tenha sido efetivamente assinado pelo consumidor, pois, do contrário, nota de venda jamais poderá ser considerada como hábil a demonstrar que o consumidor recebeu crédito. 
+
+No caso, inquestionável a hipossuficiência técnica da autora, uma vez que a comprovação de que foi terceiro, e não ela, a realizar as compras questionadas, é de impossível realização para a autora. 
+
+Destaco que a ré sequer informou suposto perfil de compra da autora para servir de indício quanto à realização da transação questionada.
+
+Diante das constatações supra, que apontam para a verossimilhança das alegações da autora assim como sua hipossuficiência técnica, inverto o ônus da prova, com fundamento no art. 6º, VIII, do CDC. Consequentemente, não tendo a ré comprovado que foi a autora quem realizou as compras impugnadas, entendo que procede seu pedido de declaração de inexigibilidade da transação mencionadas pela autora em sua inicial e, também, do respectivo débito, assim como dos respectivos encargos moratórios e contratuais cobrados em razão dele
+
+Passo a analisar ocorrência de dano moral.
+
+Para configurar a ocorrência do dano moral basta que tenha sido comprovada a existência de ofensa à moral da pessoal, bem como do nexo de causalidade entre esta ofensa e o comportamento da ré. 
+
+No caso em tela inquestionável a ocorrência de ofensa à moral da autora. Ora, são notórios e inequívocos os prejuízos impostos pela inscrição do nome de pessoa nos órgãos de proteção ao consumidor. Essa inscrição importa em nítida perda de credibilidade da pessoa no mercado como um todo, além de a pessoa vivenciar situações vexatórias, como a de, por exemplo, ter negada a possibilidade de realizar compras em virtude da perda do seu crédito. 
+
+A fl. 14 há documento comprovando que o nome da autora foi negativado em razão do débito aqui questionado. Não sendo exigível a sua cobrança, pelos motivos acima deduzidos, patente que não é regular a inclusão do nome da autora em bancos de dados de empresa de proteção ao crédito.
+
+Nesse sentido: Civil e Processual ? Ação de Indenização ? Inscrição Indevida no Serasa ? Cédula de Crédito rural ? Dano moral ? Valor excessivo ? Enriquecimento sem causa ? Redução. I ? Constitui ato lesivo à moral dos devedores a inscrição de seus nomes em cadastro de proteção ao crédito, se protegidos por medida judicial que alongara, em tutela antecipada, a dívida beneficiada pela Lei 9.138/1995. II ? A indenização pelos danos, contudo, deve ser fixada de modo razoável, evitando-se excesso que redunde enriquecimento sem causa, por sua incompatibilidade com a lesão sofrida. III ? Recurso especial conhecido e parcialmente provido (STJ ? 4ªº T. ? Resp 399.723/TO ? rel. Min. Aldir Passarinho Junior ? j. 25.06.2002).
+
+E, também: Estamos diante de entidades que, contrariando a vontade dos investigados, coletam e disseminam informações financeiras negativas, que necessariamente lhes fecharão as portas do crédito, essencial na sociedade de consumo. Isso, rotineiramente, sem que o consumidor sequer tenha conhecimento de sua negativação, pintado como mau pagador ou inadimplente, desconhecendo, ademais, o conteúdo daquilo que contra si foi arquivado,ignorância essa que exacerba sua vulnerabilidade e os riscos de sua inexatidão. Quando desabonado indevidamente, o consumidor pode se ver na situação juridicamente inaceitável de ser barrado na porta do crediário, quando, na verdade, seria merecedor de seus favores. Se inexistentes mecanismos legais para sua proteção, o consumidor, até por desconhecer as razões que levaram à vedação do seu crédito, fica à mercê da boa vontade das instituições de registro e dos próprios fornecedores-usuários desses serviços. Negado por um, o crédito, por certo, será rejeitado por todos, enquanto não corrigidos ou apagados os assentos detratores (in Código Brasileiro de Defesa do Consumidor, Forense Universitária, 8ª edição, Comentado pelos Autores do Anteprojeto, fl. 413).
+
+Inquestionável que a perda do crédito da autora importou, a ela, grave ofensa de sua honra e moral. Assim, provada a ocorrência de ofensa à sua honra e moral, satisfeito o primeiro requisito necessário para configurar a responsabilização da ré por danos morais.
+
+Já foi analisado acima que há nexo causal entre a conduta da ré e os danos sofridos pela autora. Não se discute a culpa da primeira, em face do disposto no art. 14 do CDC. Noto, ainda, que o artigo 14 do CDC diz que: Art. 14. O fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos.
+
+No caso em tela observo que foi justamente a conduta da ré ? inscrição do nome da autora em empresa de proteção ao crédito ? que resultou nos prejuízos indicados por ele em sua inicial. Vale destacar que a  ré informou, a fl.65, que estava anotado em seu sistema o cancelamento e expurgo do débito discutido nesta ação desde 30/07/10. Ocorre, todavia, que tal afirmação não é corroborada pelas provas dos autos, que indicam que o nome da autora estava ainda negativado pelo débito discutido nesta ação em 17/07/12 (fl. 14).
+
+Destaco, ainda, que a conduta da ré foi indevida, já que efetuou a inscrição do nome da autora no SERASA e no SCPC em decorrência de débito que jamais poderia ser atribuído a ela.
+
+Assim, não há dúvida de que a conduta da ré não é justificável. 
+
+Portanto, comprovada a ocorrência de prejuízos ao autor e o nexo de causalidade entre estes e a conduta da ré, inequívoca a sua responsabilização civil. Não há que se questionar, neste caso, se a ré agiu com culpa ou não, em vista do caráter objetivo de sua responsabilidade nas relações de consumo.
+
+Problema tormentoso ao julgador é a fixação do valor da indenização decorrente do dano moral, uma vez que o direito violado ? imagem, nome, honra ? não tem valor econômico, não podendo ser reparado como o dano material, no qual o valor do dano resulta da diminuição patrimonial, fazendo-se o cálculo aritmético entre o patrimônio do ofendido antes do evento danoso e após este evento, o resultado corresponderá ao valor do dano. No caso do dano moral esta fórmula aritmética não pode ser utilizada e o valor do dano moral deverá ser aferido por outros critérios, os quais não estão previstos em qualquer diploma legislativo.
+
+Pois bem. Utilizo como critério para a quantificação dos danos morais: a gravidade objetiva do dano, a conduta do ofensor, a receptividade da vítima, o comportamento do ofensor após a ocorrência do dano e condição socioeconômica das partes envolvidas. 
+
+No caso presente, temos que o dano é de considerável gravidade, uma vez que a autora teve o seu nome inscrito no SERASA, permanecendo nessa situação até a presente data (fl. 14). A conduta da ré já foi analisada. 
+
+É notório que o recurso ao Poder Judiciário é medida extremamente onerosa ao cidadão comum, o qual deverá contratar advogados e aguardar o regular tempo do processo para, finalmente, obter solução para seu problema.
+
+A postura da ré em não cooperar com a autora demonstra não só sua ausência de preocupação com a situação do consumidor como, também, que sabidamente relegou a ela a solução mais onerosa ? seja monetária seja temporalmente ? ao consumidor, qual seja, a judicial.
+
+A falta de informação, o descaso no cumprimento do contrato, as dificuldades para regularizar a situação de consumo, dentre outros problemas, são situações que ultrapassam o mero aborrecimento, esbarrando no descaso, na indiferença para com o consumidor, gerando inegável incômodo a qualquer pessoa, descontentamento e insegurança, ou seja, lesões à honra subjetiva, ensejando a indenização. Ainda, tendo em vista o porte da empresa ré, respeitada em seu setor, tal falta de diligência não pode ser aceita.
+
+No que tange à receptividade da autora, esta tomou as medidas cabíveis. E há disparidade econômica entre as partes.
+
+Diante do acima exposto, fixo a indenização a título de danos morais em 05 (cinco) salários mínimos, com base no princípio da razoabilidade, evitando, assim, enriquecimento sem causa e objetivando ressarcir a autora dos danos sofridos, com uma consequente sanção à ré.
+
+III.DECIDO.
+
+Diante do exposto, JULGO PROCEDENTE o pedido formulado por FABIANA MARIA LOURENÇO  contra BANCO BRADESCO S/A. , com fundamento no artigo 269, I, do CPC, declarando a inexigibilidade do débito de R$ 551,30, determinando o cancelamento do respectivo apontamento negativo encaminhando pela ré ao SERESA, conforme se observa de documento de fl. 14, e, ainda, para condenar a ré ao pagamento à autora a título de danos morais o valor correspondente a 05 (cinco) salários mínimos, tomado em seu valor vigente na data do ajuizamento desta ação, o qual deverá ser convertido em pecúnia na mesma data, passando a ser corrigido monetariamente pela tabela prática do E. Tribunal de Justiça do Estado de São Paulo/SP, com incidência de juros moratórios legais desde a data da citação. Antecipo em sentença os efeitos da tutela para determinar o imediato cancelamento do referido apontamento, oficie-se, devendo a autora comprovar sua retirada e protocolização em 05 (cinco) dias. Em vista da sucumbência, CONDENO a ré ao pagamento das custas e despesas processuais, além da verba honorária que arbitro em 15% (quinze por cento) do valor da condenação.
+
+P. R. I..C.
+
+
+São Paulo, 14 de novembro de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

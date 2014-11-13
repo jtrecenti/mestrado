@@ -1,0 +1,53 @@
+
+
+SENTENÇA
+
+Processo nº:0009559-68.2011.8.26.0010
+Classe - AssuntoProcedimento do Juizado Especial Cível - Pagamento
+Requerente:Marcos Paulo Corrêa
+Requerido:Electrolux do Brasil S/A e outros
+
+
+
+Juiz(a) de Direito: Dr(a). Ricardo Dal Pizzol
+
+Vistos.
+
+
+I ? Dispensado o relatório, na forma da lei.
+II ? Rejeito a preliminar de incompetência absoluta do juizado especial por necessidade de perícia. 
+A própria requerida Electrolux, em contestação, admite a existência de vários vícios no produto (vide fls. 35v e 46), alegando, contudo, que o autor não autorizou os reparos necessários. 
+Da mesma forma, a requerida Nova Tec também reconheceu, em contestação, a existência de problemas no aparelho, alegando que ( i ) houve demora da parte da requerida Electrolux em fornecer a peça de reposição necessária e ( ii ) que, recebida a peça de reposição, não houve mais interesse do autor no reparo do produto. 
+Ora, se os requeridos admitem a existência do vício, absolutamente desnecessária a perícia, motivo pelo qual a preliminar deve ser rejeitada. 
+III ? Rejeito as preliminares de ilegitimidade passiva aduzidas pelas requeridas Fast Shop e Nova Tec. Ainda que se reconhecesse que tais empresas não possuem qualquer responsabilidade no ocorrido, a questão seria de mérito e não de ilegitimidade passiva. Confira-se a lição de DINAMARCO: ?Será inadequado falar em ilegitimidade quando, ainda que contrariamente ao direito, do provimento se possa esperar o proveito jurídico e prático desejado. Se cobro judicialmente um crédito que não é meu, certamente não terei direito algum à sentença favorável, porque não sou credor; se peço a condenação de alguém a pagar débito alheio, idem; nessas duas situações, porém, a sentença que julgasse procedente a minha pretensão seria plenamente capaz de oferecer-me o proveito que desejo. Nada teria de inútil, embora contrária à lei material. (...) Sempre que se trate de obrigações fungíveis, a ausência de titularidade ativa ou passiva (direitos e obrigações) é questão de mérito, sendo improcedente a demanda e não ilegítima a parte. Os tribunais brasileiros são fortemente propensos a tratar como ilegitimidade esses casos de ausência do direito do autor perante o réu. (...) Na verdade, tais demandas são improcedentes? (Instituições, v. II, p. 307).
+IV ? Passo à análise do mérito da demanda. 
+Passo a analisar, separadamente, cada um dos pedidos formulados. 
+(a) Danos Materiais
+O autor requer a restituição da quantia de R$ 2.333,78, referente à compra do produto mencionado na inicial. 
+Tal pedido merece acolhida em relação aos requeridos Electrolux e Fast Shop. 
+O art. 18 do CDC preceitua que os fornecedores de produtos de consumo duráveis respondem solidariamente pelos vícios de qualidade que os tornem impróprios ou inadequados ao consumo a que se destinam. 
+A própria requerida Electrolux, em sua contestação, admite a existência de vício no produto. Segundo a narrativa de fls. 45v e 46, foram realizados quatro reparos por solicitação do autor: no primeiro foi substituída a eletrobomba; no segundo, foi substituído o kit placa sensor; no terceiro, foi substituído mais uma vez o kit placa sensor; no quarto, foi substituído novamente o kit placa sensor. 
+Após esses reparos, segundo a requerida Electrolux, o autor abriu novo ?chamado? para noticiar outro problema, mas não permitiu a realização do serviço. 
+Evidente, pela própria narrativa da requerida Electrolux, que o produto possuía um vício crônico, que impedia seu adequado funcionamento, visto que realizadas quatro tentativas de conserto sem sucesso.  Perfeitamente compreensível, nesse contexto, o comportamento do consumidor de não permitir nova tentativa de reparo. 
+Interessante mencionar, ainda, que a requerida Nova Tec, em sua contestação (fl. 125), afirmou que houve demora, por parte da Electrolux, em fornecer a peça necessária para a solução do problema, por indisponibilidade no estoque.  Segundo a requerida Nova Tec, a peça foi solicitada à Electrolux em 22/06/2011, mas só foi entregue à assistência técnica em 15/08/2011, quando o autor não mostrou mais interesse no conserto do produto. Para comprovar tais alegações juntou os documentos de fls. 136/138.
+Nesses termos, considerando que o primeiro contato para conserto da máquina ocorreu em 20/06/2011 (fl. 45v) e que a peça para reparo só chegou em 15/08/2011 (fls. 116 e 136), evidente que foi excedido o prazo de 30 (trinta) dias de que dispõe o fornecedor para reparar em definitivo o produto (art. 18, parágrafo primeiro, do CDC). Assim, agiu em exercício regular de direito o autor ao não permitir o conserto e exigir a devolução do valor pago, como lhe faculta o próprio art. 18, parágrafo primeiro, II, do CDC. Ressalto que todos os problemas ocorridos no produto nesse interregno (que justificaram a abertura dos cinco ?chamados?, como consta na contestação da Electrolux) estão relacionados entre si (vazamento de água), o que apenas serve para reforçar a conclusão de que o prazo de 30 dias transcorreu sem que as requeridas solucionassem o problema. 
+De rigor, portanto, a devolução do valor pago (R$ 2.333,78), com os devidos acréscimos legais. Nesse ponto, a condenação das requeridas Electrolux e Fast Shop deve ser solidária, na forma do art. 18 do CDC. A requerida Nova Tec, por sua vez, não possui responsabilidade nesse ponto, visto que não participou da cadeia negocial de venda do produto, não podendo ser responsabilizada por vícios de qualidade. 
+(b) Danos Morais
+O dano moral também deve ser reconhecido em relação à requerida Electrolux.
+Como regra geral, situações de vícios de produtos de consumo não ensejam indenização por dano moral.
+No presente caso, no entanto, os transtornos causados ao autor justificam a fixação de indenização por dano moral. 
+Como admitido pela requerida Electrolux em contestação, foram efetuadas quatro tentativas de reparo na máquina (fl. 45v), todas, contudo, sem sucesso.  
+Além disso, o autor precisou entrar em contato inúmeras vezes com o serviço de atendimento das requeridas, não sendo solucionado o problema (fl. 06). 
+Importante considerar, ainda, que se trata de um objeto de primeira necessidade para a vida familiar (máquina de lavar e secar roupas). Logo, é de se presumir que o não funcionamento adequado do bem tenha causado uma série de transtornos no quotidiano da família (necessidade de usar serviços de lavanderia, dificuldade para secar roupas, necessidade de lavar roupas manualmente, etc.). Vale lembrar que a máquina continua quebrada, provavelmente ocupando espaço no apartamento do autor. 
+Em face de tais elementos, fixo o valor da indenização por danos morais no mesmo valor do bem  (R$ 2.333,78), valor que entendo suficiente para punir a requerida Electrolux, sem gerar, no entanto, enriquecimento sem causa para o autor.
+No que diz respeito aos danos morais, a responsabilidade é exclusiva da requerida Electrolux. A requerida Fast Shop não pode ser responsabilizada, visto que não controla a assistência técnica, nem foi responsável pelo vício de fabricação do bem. Da mesma forma, a requerida Nova Tec também não pode ser responsabilizada, pois não restou comprovado qualquer vício na execução do serviço de assistência técnica em si. 
+DECIDO.
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a ação, para:
+(a) CONDENAR as requeridas Electrolux e Fast Shop, em solidariedade passiva, a restituir ao autor, com fundamento no art. 18, parágrafo primeiro, II, do CDC, a quantia de R$ 2.333,78 (dois mil trezentos e trinta e três reais e setenta e oito centavos), com correção monetária, conforme a Tabela Prática do TJSP, desde a data da compra (28/05/2011), e de juros de mora de 1% ao mês, a partir da citação; 
+(b) CONDENAR a requerida Electrolux a pagar ao autor, a título de danos morais, a quantia de R$ 2.333,78 (dois mil trezentos e trinta e três reais e setenta e oito centavos), com correção monetária, conforme a Tabela Prática do TJSP, desde a data desta sentença, e de juros de mora de 1% ao mês, a partir da citação; 
+A requerida Electrolux poderá retirar o bem da residência do autor, com prévio agendamento, após o pagamento da condenação fixada nesta sentença.
+Sem condenação em custas, despesas e honorários advocatícios nesta fase.
+P.R.I.C.
+São Paulo, 21 de maio de 2012.
+
+Ricardo Dal Pizzol  Juiz de Direito

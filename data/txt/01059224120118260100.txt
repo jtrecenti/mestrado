@@ -1,0 +1,55 @@
+
+
+SENTENÇA
+
+Processo nº:0105922-41.2011.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Prestação de Serviços
+Requerente:Ar Brasil Compressores Ltda
+Requerido:Construções e Comércio Camargo Corrêa S/A
+
+
+
+Juiz(a) de Direito: Dr(a). Carolina de Figueiredo Dorlhiac Nogueira
+
+
+Vistos.
+
+AR BRASIL COMPRESSORES LTDA ajuizou a presente ação de reparação de danos contra CONSTRUÇÕES E COMÉRCIO CAMARGO CORRÊA S.A alegando, em síntese, que as partes celebraram em julho de 2009 contrato de locação de equipamentos, prestação de serviço de manutenção e outras avenças. Relata que em outubro de 2009 foi comunicada de travamento de equipamento (compressor de ar, modelo SRP2075), ocasião em que providenciou a substituição do mesmo. Após análise técnica apurou-se que o motivo do travamento foi a substituição equivocada de um transformador da rede de energia elétrica. Requer assim indenização pelos danos matérias havidos com o travamento do equipamento, bem como os lucros cessantes referente as locações mensais do aparelho.
+
+Devidamente citada, a ré apresentou contestação. Arguiu preliminarmente a inépcia da inicial. No mérito aduziu que a avaria no equipamento se deu por motivo de força maior, uma vez que o transformador foi erroneamente substituído por terceiro (CESP), após queda de raio na região. Pugnou pela inexistência do dever de indenizar.
+
+Houve réplica.
+
+É O RELATÓRIO. DECIDO.
+
+A preliminar de inépcia não pode ser acolhida. Ao contrário do alegado, a petição inicial descreve suficientemente a causa de pedir e o pedido. 
+
+O feito comporta julgamento antecipado nos termos do artigo 330, inciso I do Código de Processo Civil, por se tratar de matéria de direito, que dispensa a produção de provas em audiência.
+
+Discute-se nos autos a responsabilidade da ré pela avaria do equipamento locado e consequente indenização pela sua perda.
+
+A demanda improcede.
+
+É incontroversa a relação jurídica havida entre as partes (fls.13/23). Tampouco há controvérsia quanto a origem da avaria do equipamento: substituição errônea do transformador pela concessionária de energia elétrica com inversão de fase.
+
+Não é outro entendimento que se extrai do laudo técnico de fls. 31/36 e da réplica da autora:
+
+"Em se analisando o conteúdo dos autos e a sequencia dos acontecimentos, conclui-se que a causadora do travamento foi a CESP, através de seus prepostos que efetuaram a substituição do transformador avariado, ligando-o com a polaridade invertida." (fls.152).
+
+Está-se diante, pois, de excludente de responsabilidade, pois os danos ora pleiteados são resultantes de força maior (artigo 393, do Código Civil). É dizer, o ato que deu ensejo ao dano (substituição equivocada do transformador), foi praticado pela Concessionária de Energia Elétrica ? CESP, terceira estranha à relação das partes. 
+
+Conforme entendimento jurisprudencial atualmente o fato exclusivo de terceiro é entendido como espécie do gênero caso fortuito externo. Vejamos:
+
+RESPONSABILIDADE CIVIL - ACIDENTE DE TRÂNSITO - ATROPELAMENTO EM RODOVIA, MAS EM PERÍMETRO URBANO - CAMINHÃO QUE MUDA DE FAIXA SEM OBSERVAR A EXISTÊNCIA DE OUTRO VEÍCULO NA FAIXA DE DESTINO - CULPA DEMONSTRADA - VEÍCULO QUE, AO DESVIAR DO CAMINHÃO, ATROPELA PEDESTRE POSTADO NO ACOSTAMENTO, PRONTO PARA REALIZAR A TRAVESSIA - CASO FORTUITO - RESPONSABILIDADE EXCLUÍDA - ALEGAÇÃO DE CULPA CONCORRENTE DO PEDESTRE - TEORIA DA CAUSALIDADE ADEQUADA E AUSÊNCIA DE IRREGULARIDADE NA SITUAÇÃO DO PEDESTRE - CULPA AFASTADA - SENTENÇA MANTIDA NO MÉRITO.
+(...)
+. 2. EXCLUSÃO DA RESPONSABILIDADE DO CONDUTOR DO VEÍCULO PASSAT. Não se verifica ter agido o réu condutor do automóvel com imperícia ou imprudência, porquanto não se poderia exigir dele conduta diversa da tomada diante da imprevisibilidade da manobra efetuada pelo caminhão. "Responsabilidade Civil. Causa de exclusão. Caso fortuito. Ocorrência. Ônibus abalroado por outro veículo, projetado sobre uma casa e, dando ensejo às lesões que resultaram ferimentos na autora e a morte de sua filha. Hipótese em que o terceiro equipara-se ao caso fortuito, afastando a culpabilidade de quem serviu apenas como instrumento, não como agente da causação dos danos. Recurso da ré provido, no mérito, e da autora, prejudicado". (1.º TACSP, 9.ª C., Ap. 1.001.492-3, Rel. JOSÉ LUIZ GAVIÃO DE ALMEIDA, j. 04/09/2001) - sublinhou-se. De outro lado, fazendo uma leitura dos fatos em conformidade com a teoria da causalidade adequada, tem-se que para que o desvio do Passat para o acostamento fosse tomado como causa do acidente a ponto de excluir a responsabilidade dos demais réus, deveria ser possível afirmar-se que ainda que o caminhão Scania não tivesse se lançado à faixa direita em rota de colisão com o Passat, este (Passat) teria atingido o pedestre que se encontrava no acostamento da rodovia. 3. AUSÊNCIA DE CULPA CONCORRENTE DO PEDESTRE. PERÍMETRO URBANO. INEXISTÊNCIA DE FAIXA OU PASSARELA NAS PROXIMIDADES. O fato de a vítima estar postada no acostamento pretendendo realizar a travessia da rodovia não afasta a responsabilidade dos réus, condutor e proprietário do caminhão, que, mediante conduta própria, acabou por lesioná-la fisicamente, deixando-a seriamente ferida, o que foi constatado pela perícia. RECURSO DESPROVIDO. (3149202 PR 0314920-2, Relator: Eugenio Achille Grandinetti, Data de Julgamento: 15/12/2005, 9ª Câmara Cível, Data de Publicação: 7042).
+
+Não há que se falar, portanto, no dever de indenizar da ré, pelo que esta não foi a responsável pela avaria do equipamento, e tampouco concorreu para sua ocorrência.
+
+Ante o exposto, JULGO IMPROCEDENTE o pedido. Condeno o autor ao pagamento das custas e despesas processuais do réu e, honorários advocatícios que fixo em 10% do valor da causa.
+
+P.R.I.
+
+São Paulo, 22 de abril de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

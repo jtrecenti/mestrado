@@ -1,0 +1,65 @@
+
+
+SENTENÇA
+
+Processo nº:0204059-29.2009.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Contratos Bancários
+Requerente:Edelson Alves Martins
+Requerido:Banco Grupo Santander Banespa
+
+Justiça Gratuita
+
+Vistos, etc...
+I - RELATÓRIO
+Edelson Alves Martins, qualificado nos autos, por meio de advogado devidamente constituído, ajuizou Ação de Rescisão Contratual c.c. Declaratória de Inexistência de Débito c.c. Indenização por Danos Morais contra Banco Santander S/A, alegando em síntese, que:
+1.No ano de 2003 o autor foi compelido a abrir uma conta na instituição bancária ré para receber o salário, sendo que quem, de fato, abriu a conta foi a empresa onde o autor trabalhava;
+2.A empresa efetuava o depósito do salário mensal do autor na conta bancária e no ano de 2004 o autor deixou a empresa e nunca mais movimentou a referida conta;
+3.Em 2007 o autor procurou o banco para encerrar a conta e tomou conhecimento de que havia um débito em aberto, no valor de R$43.514,89, e foi informado que o débito era originário de aplicaçõle se investimentos em bolsa de valores;
+4.O autor não sabe sequer usar computaador e nunca fez qualquer investimento em bolsa de valores;
+5.Em 15 de janeiro de 2008 o autor foi informado de que seu nome tinah sido inserido no banco de dados da SERASA, por uma dívida no valor de R$36.640,64;
+6.O fato está acarretando abalo moral ao autor.
+Pediu a rescisão do contrato e a declaração de inexistência da dívida, e a condenação da ré no pagamento de indenização por danos morais em valor a ser fixado por arbitramento judicial.
+Protestou por provas, valorou a causa e juntou documentos (fls. 20/39).
+Antecipação dos efeitos da tutela (fls. 40), para excluir o nome do autor dos bancos de dados.
+Contestação (fls. 52/67), onde a ré alegou que:
+a.A conta do autor nunca foi encerrada, desde que foi aberta pela empresa Power Segurança Ltda;
+b.A inserção do nome do autos no banco de dados foi em razão de dívida não paga e o banco agiu no exercício regular do seu direito;
+c.Não houve ilícito civil a causar ao autor qualquer abalo moral;
+d.O contrato de investimento em nome do autor foi feito de forma técnica, impossibilitando a desconfiança da fraude, e por isso não houve culpa do banco e o autor não trouxe aos autos nennuma prova de que sofreu abalo moral;
+e.Ainda que seja o caso de condenação pelos danos morais, o valor deverá ser fixado com moderação.
+Réplica (fls. 79/88).
+II - FUNDAMENTAÇÃO
+O processo está em ordem, sem vícios, e não foram alegadas questões preliminares. A lide versa sobre matéria de direito e de fato, porém os fatos controvertidos já estão demonstrados nos autos, não sendo o caso de dilação probatória, e passo a julgar a causa, com fundamento no art. 330, inciso I, do Código de Processo Civil.
+1.A rescisão do contrato de conta corrente
+A ré alegou que a conta bancária nunca foi encerrada pelo autor, mas admitiu na contestação que a conta foi aberta pela ex-empregadora do autor, empresa Power Segurança Ltda.
+Sendo assim, o fato de a conta ter sido mantida aberta não era motivo para o banco cobrar quaisquer encargos do autor, por se tratar de conta-salário.
+Por isso, não há qualuer fundamento para a incidência de encargos bancários pelo fato de a conta ter permanecido aberta, e não há qualquer débito a ser quitado pelo autor.
+Como a sua pretensão é de rescindir o contrato, tal pedido é procedente.
+2.A movimentação da conta bancária por terceiro e a inexistência do débito
+O autor alegou que nunca fez investimento na Bolsa de Valores e que nem sabe utilizar computador, e a ré não impugnou tal alegação, razão pela qual reconheço a veracidade das alegações, com fundamento no art. 302 do CPC.
+O banco admitiu que a conta bancária do autor foi movimentada por terceira pessoa, de forma fraudulenta, o que significa que o débito existente e que deu fundamento à negativação não foi decorrente de movimentação financeira do autor, e por consequência o débito que motivou a negativação não existe, e não há qualquer responsabilidade do autor relativamente à dívida.
+Por consequência, a dívida que motivou a negativação não tem nenhuma relação com o autor, ou seja, com relação ao autor a dívida é inexistente.
+3.O dano moral
+O autor alegou que a inserção de seu nome no banco de dados por dívida inexistente está acarretando a ele abalo moral e de outro lado o banco alegou que agiu no exercício regualr do direito e alternativamente, alegou que a fraude foi perpetrada de forma técnica, impedindo que o banco tomasse conhecimento a ponto de impedir que o nome do autor fosse negativado indevidamente.
+O fato é que o banco não conseguiu impedir que terceira pessoa utilizasse o nome do autor para realizar operação bancária, e com isso o nome do autor foi negativado indevidamente, surgindo o fato (negativação indevida), enquanto primeiro elemento da responsabilidade civil.
+O dano é manifesto, na medida em que o banco possibilitou que terceira pessoa usasse indevidamente o nome do autor, porque o banco não conseguiu filtrar em sua base de dados a presença do fraudador, e sendo o banco o detentor dos dados do autor, ele falhou ao não impedir a utilização dos dados do autor em uma fraude, e com isso, a inserção do nome do autor em banco de dados de inadimplenetes acarretou o abalo moral.
+O abalo moral decorre da inserção indevida dos dados do autor no banco de dados da SERASA, porque restringiu seu crédito no mercado de consumo, expondo o nome do autor como inadimplente a uma quantidade difusa de fornecedores, num momento da sociedade contemporânea em que o crédito é indispensável para a vida em sociedade.
+Nessa medida, restou caracterizado o dano, como segundo elemento da responsabilidade civil.
+O fato de o banco não ter agido de má-fé não o exime d eresponsabilidade, porque sendo empresa de grand e porte e possuindo os melhores executivos e técnicos do ramo da informática, ao permitir que terceiro tivesse acesso aos dados do autos para fazer movimentação financeira, a falha do banco ficou configurada, e o dano está perfeitamente demonstrado.
+O nexo causal decorre do fato de a negativação ter sido realizada por vontade do banco , que remeteu os dados do autor para o banco de dados da SERASA, e por isso, estão presentes os três elementos da responsabilidade civil.
+O autor pediu indenização pro arbitramento judicial e de outro aldo a ré alegou que o valor não pode ser excessivo, para não causa enriquecimento indevido, e sopesando a situação, entendo razoável que o valor da indenização seja na quantia de R$10.000,00 (dez mil reais).
+III ? DISPOSITIVO
+Ante o exposto, Julgo Procedente a pretensão do autor, e extinto o processo com resolução de mérito, com fundamentono art. 269, inciso I, do CPC, nos seguintes termos:
+1.Decreto a rescisão do contrato celebrado entre as partes, contrato LY03310102691400261;
+2.Declaro inexistente qualquer débito do autor em relação à ré;
+3.Condeno a ré no pagamento de indenização por danos morais no valor de R$10.000,00 (dez mil reais) já atualizado e de ora em diante o valor será corrigido monetariamente de acordo com a tabela do TJSP, incidindo juros moratórios de 1% ao mês;
+4.Torno definitiva a antecipação dos efeitos da tutela deferida às fls. 40
+5.Condeno a ré no pagamento das custas e demais despesas processuais e em honorários de sucumbência, que com fundamento no art. 20, parágrafo 4º, do CPC, fixo em 15% do valor da condenação, obedecendo a mesma forma de atualização.
+
+P.R.I.
+São Paulo, 10 de outubro de 2013.
+
+LUIZ FERNANDO SILVA OLIVEIRA
+Juiz de Direito
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

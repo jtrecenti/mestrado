@@ -1,0 +1,52 @@
+
+
+SENTENÇA
+
+Processo nº:0020670-46.2013.8.26.0053
+Classe - AssuntoProcedimento Ordinário - Reajustes de Remuneração, Proventos ou Pensão
+Requerente:Alessandro Castilho Woelke
+Requerido:São Paulo Previdência - SPPREV
+
+
+Juiz(a) de Direito: Dr(a). Luis Manuel Fonseca Pires
+
+
+Vistos.
+
+Trata-se de ação no qual se afirma que o autor é neto de servidora falecida em 2005, recebia benefício de pensão por morte pelo fato de ser neto beneficiado por declaração de vontade da contribuinte, mas houve a suspensão do pagamento; afirma que decaiu o direito à revisão do ato administrativo; relaciona jurisprudência; afirma-se a ofensa aos princípios da ampla defesa e contraditório. Pede, em suma, a invalidação do processo administrativo e o reconhecimento da legalidade da pensão concedida, e indenização por danos morais sofridos pela suspensão do pagamento. Juntou documentos.
+A liminar foi deferida em agravo de instrumento nº 0115188-90.2013.8.26.0000 (fls. 91-95).
+A ré contestou (fls. 75-90) para alegar que não é possível a concessão de benefício previdenciário estatal não previsto no Regime Geral da Previdência Social, conforme o artigo 5º da Lei Federal nº 9.717/98; os dispositivos da Lei Estadual nº 180/78 tiveram sua eficácia suspensa  com o advento da Lei Federal nº 9.717/98; a não ocorrência da prescrição/decadência para a Administração Pública rever seus atos administrativos; e a legalidade da suspensão de ofício do pagamento do benefícios conforme art. 60 da Lei Estadual nº 10.177/98.
+É o relatório. Decido.
+As preliminares confundem-se com o mérito, portanto, como tal é que serão apreciadas. 
+Cuida o mérito em saber se poderia a ré proceder à revisão da pensão concedida em favor do autor, o que ocorreu em 2005. Nenhum fato novo se apresentou desde então. O que motivou a decisão administrativa, portanto, foi apenas a reconsideração dos critérios ponderados à época da outorga do benefício.
+O dever ? não o direito, apesar da literalidade da norma federal a ser comentada abaixo, pois se trata de competência pública ? de a Administração Pública invalidar os atos administrativos viciados (nulos e anuláveis) ? desde que não seja possível saná-los pela convalidação ou a conversão ? exaure-se em cinco anos, se houver boa-fé, na esfera federal, e em dez anos (tanto faz se houve boa ou má-fé) no âmbito estadual.
+Para a União, nos termos do art. 54 da Lei n° 9.784/99, prescreve-se:
+Art. 54. O direito da Administração de anular os atos administrativos de que decorram efeitos favoráveis para os destinatários decai em cinco anos, contados da data em que foram praticados, salvo comprovada má-fé.
+§ 1oNo caso de efeitos patrimoniais contínuos, o prazo de decadência contar-se-á da percepção do primeiro pagamento.
+§ 2oConsidera-se exercício do direito de anular qualquer medida de autoridade administrativa que importe impugnação à validade do ato.
+Para o Estado de São Paulo vale o art. 10 da Lei Estadual n° 10.177/98:
+Artigo 10 - A Administração anulará seus atos inválidos, de ofício ou por provocação de pessoa interessada, salvo quando:
+I - ultrapassado o prazo de 10 (dez) anos contado de sua produção;
+II - da irregularidade não resultar qualquer prejuízo;
+III - forem passíveis de convalidação.
+
+A natureza jurídica destes prazos ? tanto para a lei federal quanto para a estadual ? é de prazo decadencial, conforme pacificamente reconhece a doutrina, a exemplo de Sérgio Ferraz e Adilson Dallari, Cristiana Fortini, Maria Fernanda Pires de Carvalho Pereira e Tatiana Martins da Costa Camarão, Egon Bockmann Moreira, e José dos Santos Carvalho Filho.
+E a norma aplicável em relações jurídico-administrativas (e tributárias) na esfera estadual só pode ser a do respectivo ente federativo em respeito à sua autonomia e ao pacto republicano, é dizer, a Lei Estadual n° 10.177/98. Portanto, prevalece o prazo decadencial de dez anos. 
+Apenas diante de lacunas, ou então em suporte exegético aos princípios do devido processo legal, mas sem contrariar as normas estaduais, é que se pode recorrer à norma federal. E o Código Civil então, último recurso a ser invocado, pois este diploma versa, por sua essência, sobre relações jurídicas de direito privado.  Quando há uma relação de direito público, e no caso é indiscutível esta situação jurídica, não há razão jurídica alguma para ignorar por completo normas vigentes ? primordialmente, a Lei Estadual n° 10.177/98, subsidiariamente, a Lei Federal n° 9.784/99 ? que especificamente se integram ao regime jurídico-administrativo a incidir sobre a situação apresentada (e se não fossem suficientes, ainda haveria a precedência do Decreto 20.910/32). 
+ Neste quadro, sendo então de dez anos o prazo decadencial à invalidação de atos e contratos administrativos (art. 10, I, da Lei Estadual n° 10.177/98), não há óbice à autotutela e, por conseguinte, revisão do ato administrativo de concessão de pensão dentro deste lapso. 
+Ademais, em cumprimento ao art. 24, XII, da Constituição Federal que contempla a competência da União para legislar sobre previdência social ? e a lei federal suspende a norma estadual no que esta lhe contrariar, nos termos do § 4º deste artigo ? a Lei n° 9.717/98 não alberga a possibilidade de beneficiário instituído por declaração de vontade do contribuinte perceber pensão sem limitação de tempo. 
+ Em outras palavras, não há nem remotamente a previsão de cobertura diante desta situação jurídica (beneficiário instituído por declaração de vontade do contribuinte perceber pensão sem limitação de tempo) no regime geral de previdência social, a Lei n° 8.213/91, o que se prescreve como condição no art. 5º da Lei n° 9.717/98:
+Art.5ºOs regimes próprios de previdência social dos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios, dos militares dos Estados e do Distrito Federal não poderão conceder benefícios distintos dos previstos no Regime Geral de Previdência Social, de que trata aLei nº8.213, de 24 de julho de 1991, salvo disposição em contrário da Constituição Federal.
+
+Em síntese, não houve decadência do dever-poder de autotutela de revisar os atos administrativos, não houve ofensa ao devido processo legal porque existiu um procedimento com a possibilidade de contraditório, não há, por fim, o direito reclamado à concessão da pensão.
+Ante o exposto, JULGO IMPROCEDENTE o pedido  e condeno a parte vencida a suportar as custas processuais e a verba honorária da parte contrária que fixo em 10% do valor da causa. 
+P.R.I. 
+São Paulo, 26 de junho de 2013.
+
+
+ Luis Manuel Fonseca Pires
+
+Juiz de Direito
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

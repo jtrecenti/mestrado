@@ -1,0 +1,46 @@
+
+
+CONCLUSÃO 
+Em 18/2/2010, faço estes autos conclusos à Dra. Fernanda Soares Fialdini, MMa. Juíza de Direito da 4ª Vara Cível do Foro Regional de Santo Amaro. Eu __, (Flávio), escrev. subscr.
+
+
+SENTENÇA
+
+Processo nº:002.08.157483-3 - Procedimento Sumário
+Requerente:Batemarque, Simões Advogados Associados
+Requerido:Claro S/A
+
+
+
+Juiz(a) de Direito: Dr(a). Fernanda Soares Fialdini
+
+
+
+Vistos.
+ 1. Batemarque, Simões Advogados Associados ajuizou ação contra Claro S/A. Alega que contratou com a ré, em 03 de abril de 2008, o "Plano Sob Medida", composto por 24 linhas de telefone, com serviços de banda larga, pacote de internet e módulo de Tarifa Zero. O valor mensal do plano seria de R$ 2.479,04. O contrato foi firmado em busca das promessas ofertadas no site da ré, de economia e controle de valores a serem gastos. Os pacotes de internet possuem planos específicos com o limite de dados de  2GB, cobrando-se o valor excedente ao limite do pacote contratado. Ao receber a fatura com vencimento em 08 de agosto de 2008, a autora foi surpreendida com a cobrança de R$ 14.606,18, por megabytes trafegados, cuja transmissão, presume-se, tenha sido realizada através do pacote de internet (somente nesse é possível a cobrança de valores quando utilizada acima do limite). A descrição dos serviços feita pela ré é precária, e na fatura em que foram cobradas as transmissões de dados observa-se que os celulares dos quais elas se originaram possuíam indicação da tecnologia 3G para utilização de banda larga. A ré nada esclareceu, enviou novas cobranças, bloqueou a realização de chamadas, causando graves transtornos à autora. Em resposta à reclamação registrada na ANATEL, a ré respondeu que a autora efetuou a identificação incorreta dos terminais que possuem o pacote internet 2000. No entanto, tais serviços deveriam estar indisponíveis, por ausência de contratação. Pede a declaração de inexigibilidade do valor de R$ 20.638,96, dos serviços cobrados por megabytes trafegados no período compreendido entre 22/06/2008 a 21/08/2008, a condenação da ré ao pleno restabelecimento dos serviços prestados, bem como ao pagamento de danos morais em valor a ser arbitrado.
+A ré contestou. Argumenta que o Código de Defesa do Consumidor não é aplicável à relação jurídica. Sustenta que não há qualquer erro nas cobranças efetuadas, pois a autora utilizou e identificou erroneamente os terminais móveis para a utilização do Pacote Internet 2000. No ato da contratação a autora tomou ciência de todo o procedimento adotado pela ré, disponibilizando em tela comprobatória as cláusulas do SMP. O bloqueio denominado limite de uso está previsto nos contratos de prestação de serviços e seu valor é calculado multiplicando-se o plano contratado por 4. A autora poderá atingir o limite de uso e não ter o serviço imediatamente suspenso, pois o sistema só faz a leitura uma vez por dia, e chamadas efetuadas em roaming podem ser cobradas em lote.  O limite de uso não é um serviço de controle de gastos utilizado pelo cliente, e sim uma prevenção de inadimplência da Claro para clientes novos na base. Impugnou o pedido de danos morais. 
+A autora se manifestou em réplica.
+É o relatório.
+Decido.
+2. De início, cumpre salientar que o Código de Defesa do Consumidor regula a relação entre as partes. Embora a autora seja pessoa jurídica, é como consumidora final que utiliza os serviços de telefonia móvel.
+3. Não é necessária a produção de provas pois não há controvérsia sobre os fatos ocorridos. 
+A autora utilizou os terminais errados para os serviços contra cuja cobrança se insurge. A autora não nega tal fato, atribuindo-o à precária informação prestada pela ré quanto à prestação de serviços.
+Pois bem. Pelo que se infere da contestação, a autora tinha direito, pelo menos em algumas das linhas habilitadas, ao acesso ilimitado à internet. Não agiu de má-fé, portanto, ao se equivocar quanto aos terminais que utilizou para o acesso à internet. Em outras palavras: a autora estava pagando por acesso ilimitado à internet, ao menos através de alguns terminais. Não está querendo locupletar-se às custas da ré, pagando por acesso limitado e pretendendo obter o acesso ilimitado.
+O documento de fls. 18/19 relaciona as 24 linhas objeto do plano contratado. Algumas usam tecnologia 3G, outras 2G, conforme o item 4 do Pedido de Vendas Corporativo. 20 delas utilizam o Plano Sob Medida, e outras 4 têm o P. Banda Larga 1 MBPS.
+Não há dúvida que naquele documento não há informações suficientes para o consumidor leigo.
+Nem mesmo a contestação esclareceu o porquê de alguns aparelhos darem direito ao acesso ilimitado à internet, e não aqueles que foram utilizados pela autora.
+A cópia de fls. 17, extraída do site da ré, informa que o acesso à internet pode ser feito pela banda larga 3G ou por pacotes de Internet (estes últimos dariam acesso limitado, permitindo a cobrança do excedente).
+A contestação não explicou a razão, mas indicou 6 linhas que poderiam utilizar o pacote internet 2000 (fls. 128). Não há, porém, dentre os documentos que comprovam a contratação com a autora, nenhum documento que permita concluir que à autora foi dado tal esclarecimento. Do contrário, por que a autora se enganaria ao utilizar os aparelhos errados? Para ser cobrada por valor exorbitante? 
+Dúvidas persistem ainda. Por que razão 6 linhas podem ter acesso ilimitado à internet, se o Plano Banda Larga contratado pela autora era para 4 linhas (fls. 18)? Como se vê, é natural que o consumidor fique desorientado, o que torna compreensível o equívoco da autora, induzido pela falta de informações da ré.
+ Não se pode perder de vista que a autora é uma empresa de advocacia. Como tal, por certo contratou linhas telefônicas para sócios, advogados contratados e estagiários. Sem dúvida não foi sua intenção proporcionar a todos, mediante alto custo, acesso ilimitado à internet. São linhas telefônicas utilizadas, em tese, para o trabalho. Os advogados mais graduados, porém, costumam utilizar as mesmas linhas durante o período de trabalho e os períodos em que não estão no escritório, inclusive finais de semana. Para estes, é necessário o acesso ilimitado à internet, sem o risco de cobrança excedente.
+O Plano Sob Medida, de acordo com a propaganda feita pela ré (fls. 15), ia ao encontro dos objetivos da autora. Permitiria a diferenciação  das linhas, em relação aos serviços disponíveis, conforme os usuários.
+O resultado da contratação, porém, foi desastroso para a autora. Ao tentar diferenciar serviços dentre linhas do mesmo plano, viu-se cobrada por muito mais do que esperava pagar.
+Tem razão a autora, ainda, quando argumenta que a ré não poderia ter permitido a utilização do serviço não contratado, conforme dispõe o art. 6º, inciso XX, da Resolução nº 477 da ANATEL. Não poderia, tampouco, permitir a utilização até que o débito chegasse ao montante cobrado.
+Em suma, por qualquer ângulo que se analise a questão, conclui-se que a autora tem razão em seu inconformismo. A informação sobre os serviços disponibilizados não foi prestada de forma clara e precisa, o que deu origem à cobrança indevida e à interrupção na prestação de serviços à autora.
+4. Indenização por danos morais apenas excepcionalmente é devida às pessoas jurídicas. Mas em algumas situações é inegável a ocorrência de prejuízo que não pode ser mensurado para consistir pedido de danos materiais. Sem ter dado causa, a assinante ficou sem os telefones celulares que sem dúvida são necessários para sua atividade. É o que basta para condenar a ré a reparar os danos morais. Não há que se desprezar, contudo, a péssima qualidade do atendimento dispensado à autora.
+Fixo a indenização em R$ 10.000,00, valor suficiente para compensar a autora pelo dissabor sofrido e pelas falhas na prestação de serviço.
+5. Posto isso, JULGO PROCEDENTE A AÇÃO para declarar inexigível o débito de R$ 20.638,96, referente aos serviços cobrados por megabytes trafegados no período compreendido entre 22/06/2008 a 21/08/2008; para condenar a ré ao pleno restabelecimento dos serviços prestados, bem como ao pagamento de indenização por danos morais à autora, no valor de R$ 10.000,00, corrigidos da data da sentença até o pagamento e acrescidos de juros de 1% ao mês a partir do trânsito em julgado.
+Pela sucumbência, condeno a ré ao pagamento de custas e honorários advocatícios que arbitro em 10% sobre o valor da condenação.
+P.R.I. 
+
+São Paulo, 18 de fevereiro de 2010.

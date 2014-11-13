@@ -1,0 +1,76 @@
+
+
+SENTENÇA
+
+Processo Físico nº:0051332-49.2013.8.26.0002
+Classe - AssuntoProcedimento Ordinário - Interpretação / Revisão de Contrato
+Requerente:Antonio Dias Botelho
+Requerido:BV Financeira S/A Crédito, Financiamento e Investimento
+
+
+
+Juiz(a) de Direito: Dr(a). Alexandre Batista Alves
+
+
+Vistos.
+
+
+
+ANTONIO DIAS BOTELHO move ação de revisão contratual cumulada com consignação em pagamento e antecipação de tutela contra BV FINANCEIRA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTO alegando, em resumo, que: a) firmou contrato de financiamento com o réu no valor total de R$63.129,00, a ser quitado em 60 parcelas fixas de R$1.052,15 cada; b) o réu cobrou juros capitalizados, prática vedada e resultante da aplicação da Tabela Price no cálculo de amortização das parcelas. 
+
+A petição inicial veio instruída com documentos (fls. 08/13).
+
+Negada a antecipação de tutela (fls. 14/15), o réu foi citado e apresentou contestação (fls. 29/103), na qual suscitou preliminar de carência da ação. No mérito, sustentou a legalidade das cláusulas contratuais e encargos cobrados.
+
+É o relatório.
+Fundamento e Decido.
+
+A matéria debatida nos autos é somente de direito e de fato comprovável por meio de prova documental, prescindindo-se da realização de outras provas, razão pela qual é de rigor o julgamento antecipado da lide.
+
+A preliminar apresentada em contestação, em verdade, fere o mérito da causa e, como tal, será apreciada.
+
+Improcede a pretensão.
+
+Anote-se, de início, que o art. 5º da MP 1.963-17, de 30/03/2000, substituída pela MP n. 2.170/36, admite a prática de capitalização de juros em periodicidade inferior a um ano nos contratos celebrados por instituições financeiras integrantes do Sistema Financeiro Nacional.
+
+Ademais o art. 28, §1º, I, da Lei n. 10.931/04 permite a capitalização de juros. Mas não se trata de capitalização ilegal a incorporação de juros vencidos decorrente de saldo devedor ao capital. Os juros vencidos se convertem e se incorporam naturalmente ao capital, ao final de cada período de capitalização expresso na taxa de juros.
+
+?Quem assim entende confunde capital com renda. Capital, em um mútuo financeiro, na acepção adequada a esta exposição, é o valor atual do saldo de um débito, expresso pelo montante que resultar do capital original, acrescido dos juros vencidos, convertidos e incorporados periodicamente ao capital, abatidos os valores eventualmente pagos (parte dos juros, total dos juros, total dos juros e amortização). Juro  ou  renda  é o fruto deste capital que, após ser gerado, pelo decurso do período de geração (e se tornar, assim, juro vencido  ou  renda vencida)  - independentemente de haver ou não sido pago ? se converte e se incorpora ao capital inicial  do período, transformando-o em capital final  do período.
+A única peculiaridade da renda vencida paga, em relação  à  renda vencida não paga,  é que esta última fica aplicada com o mesmo mutuário, elevando o saldo devedor de capital. Daí o equívoco comum de se considerar o juro de um segundo período como sendo representado por dois diferentes tipos de juros: o juro do capital  e o juro do juro? (Juros. Correção Monetária. Danos Financeiros irreparáveis. Uma abordagem jurídico econômica /   Romualdo Wilson Cançado e Orlei Claro de Lima ? 3.ed.rev.atual.e ampl. ? Belo Horizonte: Del Rey, 2003. pág. 27/28).
+
+A propósito da sistemática de amortização do saldo devedor, adverte o juiz Alexandre Augusto P.M. Marcondes:
+
+?A este respeito deve ser ressaltado ainda que matematicamente a forma de reajuste do saldo devedor está correta e se fosse adotado o método desejado pelos autores (reajuste do saldo devedor após a amortização da prestação mensal) o sistema de amortização pela Tabela Price, previsto no contrato, seria inteiramente distorcido, implicando em pagamento da dívida antes do término do período de amortização, pois o saldo devedor seria inferior ao valor da prestação. Em outras palavras, não haveria retorno do capital mutuado.
+Além disso, na medida em que os recursos empregados no financiamento são provenientes de depósitos em cadernetas de poupança, a sistemática de amortização do saldo devedor, que primeiro é corrigido para depois ser deduzida a prestação, também é observada na correção dos saldos das cadernetas de poupança. Ser um poupador realiza um saque no mesmo dia do reajuste da caderneta de poupança (data do aniversário), primeiro o saldo é corrigido e depois é abatida a retirada. Logo, se no financiamento imobiliário primeiro fosse amortizada a prestação mensal para depois ser corrigido o saldo devedor, não teria o agente financeiro como restituir ao poupador o seu capital, causando-lhe prejuízo? (Cadernos Jurídicos- Escola Paulista da Magistratura, volume 2, número 3- Janeiro/fevereiro- 2001).
+
+A aplicação da Tabela Price não se confunde com atualização monetária porque é a decomposição de um valor principal ao longo do prazo contratual e com a incidência da taxa de juros pactuada, também decomposta ao longo do prazo contratual. É, enfim, a amortização do principal e juros, tendo por finalidade a eliminação ao término do contrato de qualquer valor a título de resíduo.
+
+E se não houvesse o processo inflacionário nenhum questionamento adviria da aplicação da Tabela Price, como também não adviria se fosse abortada a proporcionalidade do valor da prestação com o salário mínimo ou com a equivalência salarial em contratos com tais previsões, pois nenhuma diferença ou resíduo remanesceria.
+
+Frise-se que a jurisprudência do STJ é firme no sentido de que o critério de prévia atualização do saldo devedor e posterior amortização não fere a comutatividade das obrigações pactuadas no ajuste, uma vez que a primeira prestação é paga um mês após o empréstimo do capital, o qual corresponde ao saldo devedor. Nesse sentido, confira-se o AgRg no Ag 707143/DF Agravo Regimental no Agravo de Instrumento 2005/0153214-4, Rel. Ministra Nancy Andrighi.
+
+Por outro lado, em relação às instituições financeiras, as taxas de juros e outros encargos não se sujeitam às restrições do Decreto 22.626/33 (Lei de Usura), mas à Lei 4595/64, ou seja, às deliberações do Conselho Monetário Nacional e às limitações e disciplinas ditadas pelo Banco Central. Nesse sentido é a Súmula 596 do STF.
+
+Como não há norma no Conselho Monetário Nacional limitando os juros em operações de crédito nos moldes daquela realizada entre as partes, conclui-se que legislação especial afasta a incidência do art. 4°, ?a?, da Lei 1.521/51, que se refere à taxa máxima prevista em lei.
+
+E não havendo demonstração de que a taxa de juros excede em muito a taxa média para as operações similares, o que caracteriza ofensa ao art. 4°, ?b?, da citada lei, é válida a taxa de juros cobrada pelo réu, motivo pelo qual é descabido falar em spread abusivo.
+
+Não se perca de vista que o autor, quando da contratação, tinha a exata noção dos juros e encargos praticados, de maneira que poderia procurar outra instituição bancária para contratar se considerasse as taxas elevadas.
+
+É oportuno reproduzir os seguintes trechos do AgRg no Recurso Especial n. 688.627- RS (2004/012651-3), relatado pelo Min. Aldir Passarinho Júnior:
+
+?Por outro lado, ainda que aplicável às instituições bancárias a Lei n. 8.078/1990, a Segunda Seção desta Corte, em 12.03.2003, no julgamento do Resp n. 407.097/RS, relator para acórdão Ministro Ari Pargendler, sedimentou o entendimento de que o pacto referente à taxa de juros só pode ser alterado se reconhecida sua abusividade em cada hipótese, desinfluente para tal fim a estabilidade inflacionária no período, imprestável o patamar de 12% ao ano já que sequer a taxa média de mercado, que não é potestativa, se considera excessiva, para efeitos de validade da avença?.
+
+Ante o exposto, JULGO IMPROCEDENTE o pedido e extingo o processo com resolução de mérito, nos termos do art. 269, I, do CPC.
+
+Vencido o autor, arcará com o pagamento das custas, despesas processuais e honorários advocatícios, arbitrados estes em 10% do valor atualizado da causa.
+
+P.R.I.
+
+São Paulo, 12 de maio de 2014.
+
+
+CERTIDÃO PUBLICAÇÃO
+Certifico e dou fé que a r. sentença foi enviada ao DJE. Disponibilização em 15/05/2014 (publ. 42). Considera-se a data da publicação o primeiro dia útil subseqüente à data da disponibilização no DJE. Eu, G.F.F., Escrevente subsc. 
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

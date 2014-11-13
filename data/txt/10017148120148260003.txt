@@ -1,0 +1,47 @@
+
+
+SENTENÇA
+
+Processo Digital nº:1001714-81.2014.8.26.0003
+Classe - AssuntoProcedimento Ordinário - Transporte de Coisas
+Requerente:Sul América Companhia Nacional de Seguros
+Requerido:AEROCARGAS TRANSPORTES E LOGÍSTICA LTDA e outro
+
+CONCLUSÃO
+Em  23   de abril de 2014, faço estes autos conclusos a(o) MM.(ª). Juiz(a) de Direito abaixo. Eu, _______, (Breno), escrev., subsc.
+Juiz(a) de Direito: Dr(a). Paulo Furtado de Oliveira Filho
+
+Vistos.
+Sul América Companhia Nacional de Seguros ajuizou ação regressiva de indenização contra AeroCargas  Transportes e Logística Ltda. e  VRG LINHAS AÉREAS S/A. Consta da inicial que a segurada da autora contratou transporte de mercadorias com a primeira ré, que, por sua vez, subcontratou a segunda ré. As mercadorias transportadas, contudo, foram extraviadas, sendo a segurada indenizada pela autora em R$ 68.799,13, sub-rogando-se em seu direito contra as rés.  Por isso, pede a autora a condenação das rés ao pagamento da quantia acima mencionada.
+A ré Aerocargas foi citada e apresentou contestação (fls. 178/194), alegando preliminarmente a falta de interesse de agir da autora, pois o seguro contratado pela autora não cobre riscos de extravio de cargas. No mérito, afirma que o seguro contratado pela embarcadora da carga  prevê extensão de garantia securitária para os transportadores, ou seja, as rés são beneficiárias do seguro e não podem ser demandadas. Além disso, na apólice há uma cláusula de isenção de sub-rogação do direito de regresso e a Lei 11.442, de 05 de janeiro de 2007, no art. 12, prevê que os transportadores se liberam de  responsabilidade civil quando o contratante do serviço de transporte houver contratado seguro. Finalmente, o CDC não incide no caso dos autos e o direito de regresso é contra o autor do dano, sendo certo que quem causou o prejuízo, decorrente de  extravio não foram as rés, mas sim terceiro. 
+A VRG apresentou contestação (fls. 205/221), alegando, em síntese, que a apólice de seguro emitida pela autora não lhe dava o direito de sub-rogação, por força da cláusula se isenção de sub-rogação, e,  ainda, que a controvérsia deve ser solucionada pelas normas do Código Brasileiro de Aeronáutica, que limita a responsabilidade do transportador aéreo por quaisquer irregularidades constatadas no transporte de carga de acordo com o peso faltante das mercadorias transportadas (3 OTN´s por quilo), salvo dolo ou culpa grave, o que não restou demonstrado. 
+A autora manifestou-se sobre as contestações.
+É o relatório.
+A solução da matéria controvertida dispensa a instrução, o que determina o julgamento antecipado do pedido, nos termos do artigo 330, inciso I, do Código de Processo Civil.
+A preliminar suscitada pela primeira ré é matéria de mérito e como tal será decidida.
+A controvérsia não compreende a celebração dos contratos de transporte, tampouco o extravio de mercadorias, mas envolve apenas o direito da autora à sub-rogação e o o quantum da indenização devida.
+O direito da autora à sub-rogação decorre do pagamento feito à segurada, havendo entendimento pacífico nesse sentido, nos termos da súmula 188 do  Supremo Tribunal Federal: ?O segurador tem ação regressiva contra o causador do dano, pelo que efetivamente pagou, até o limite previsto no contrato de seguro.?
+A apólice de seguro não excluiu o direito da autora de sub-rogar-se no direito da segurada, pois em caso de negligência do transportador, constatada pela subtração das mercadorias, o direito à sub-rogação está preservado por força da cláusula 17 (fls.85).
+Ademais, a exclusão do direito à sub-rogação só teria incidência em caso de transporte rodoviário, mas no caso dos autos o extravio se verificou no curso do transporte aéreo, portanto prevalece o direito de regresso.
+Também não prospera a alegação de que o contrato celebrado pela autora beneficiaria as rés, como transportadoras, pois em nenhum momento a apólice, que refere-se somente a percursos terrestres, permite que se chegue a tal conclusão.
+A Lei 11.442/2007, por ser aplicável ao transporte rodoviário, igualmente não tem incidência em benefício das rés, que deveriam ter celebrado contrato de seguro, para se prevenir dos riscos de subtração da mercadoria transportada, o que não restou demonstrado.
+Assentadas tais premissas e sendo incontroverso que a segunda ré foi subcontratada pela primeira, as duas respondem solidariamente perante a autora.
+Quanto ao valor da indenização, a autora pretende o reembolso da totalidade da quantia que pagou à segurada, enquanto a segunda ré, valendo-se das regras do Código Brasileiro de Aeronáutica, alega que a indenização deve ser limitada.
+Porém, a limitação prevista no Código Brasileiro de Aeronáutica, bem como a de convenções que regulamentam o transporte aéreo internacional, não mais subsiste para hipóteses como a dos autos, como ressaltou o Min. Ruy Rosado de Aguiar, no Resp. no. 249.321-SP: ?A origem das cláusulas limitativas do valor indenizatório, constantes dos tratados internacionais, está em ser o transporte aéreo uma atividade que, ao tempo, apresentava risco maior do que os outros meios de transporte, risco esse que deveria ser suportado tanto pelo transportador como por quem dele se utilizava. Os tempos mudaram e hoje o transporte aéreo, segundo as próprias companhias de aviação, divulgam e o comprovam os dados estatísticos, é um dos mais seguros, com o que desapareceu a razão de ser da própria limitação...()?
+Registre-se outro trecho do voto proferido no recurso especial já mencionado: ?Ainda que fosse admitir a legitimidade da restrição indenizatória, necessariamente devo aplicar a regra com a limitação e a restrição que decorrem de sua própria existência, isto é, os riscos que são inerentes ao transporte aéreo, decorrentes de um acidente aéreo, os quais seriam compartilhados entre transportador e usuário. Fora daí, aplica-se a regra geral. O contrato de transporte compreende uma série sucessiva de atos, mas não há razão alguma para que a cláusula de isenção, exoneração ou diminuição da responsabilidade seja aplicada a fases e procedimentos que não estejam ligados diretamente àquela situação que motivou a necessidade, antigamente existente, de tarifar a indenização. Inexiste, dentro do sistema jurídico e da lógica, qualquer razão para privilegiar o transportador aéreo, beneficiando-se com tarifas reduzidas pelo mau serviço prestado em terra, na atividade comum a qualquer transportador. Essa desigualdade ofende o bom sendo e o princípio da igualdade, constitucionalmente assegurado. Basta dizer que, se a perda ou extravio ocorresse no armazém do transportador terrestre, a 100 metros do avião que trouxe a mercadoria, a indenização cobriria integralmente o prejuízo?.
+Em reforço ao argumento da indenização ampla e integral, para situações como a dos autos, em que há extravio e descumprimento de obrigação básica de qualquer transportador, há o Código de Defesa do Consumidor, que estabelece indenização integral. Nesse sentido: "Responsabilidade civil - Extravio de mercadoria - Transporte aéreo - Aplicação dos princípios insculpidos pelo CDC - Reparação integral dos danos causados. I - Os limites indenizatórios constantes da Convenção de Varsóvia não se aplicam a relações jurídicas de consumo, uma vez que, na hipótese como a dos autos, deverá haver, necessariamente, a reparação integral dos prejuízos sofridos..." (REsp. 257.833-SP, DJ 5/2/20001, rel. Min. Waldemar Zveiter).
+Ainda que se afastasse a incidência do CDC, pois realmente a segurada contratou o transporte no exercício de sua atividade empresarial, a indenização deveria ser integral, como base na primazia das normas do CC sobre aquelas previstas no CBA (cf. art. 732 do CC).  
+Portanto, as limitações indenizatórias baseadas em peso da mercadoria, decorrentes da legislação especial (art. 262 do CBA) foram afastadas pelo art. 750 do CC, que determinou a  responsabilidade limitada ao valor constante do conhecimento de transporte.
+Mesmo que se admitisse a incidência da legislação especial, a segunda ré ainda deveria responder pelo valor total da mercadoria extraviada, sem o direito à limitação, por força do art. 248 do CBA, pois nada explicou sobre o extravio, o que a jurisprudência qualifica como culpa grave (TJSP - Ap. 0016857-69.2010.8.26.0003, Rel. Campos Mello).
+Pelo exposto, julgo procedente o pedido e condeno as rés solidariamente ao pagamento da quantia de R$ 68.799,13, com correção monetária desde o desembolso e  acrescida de juros de mora de 1% a.m. a partir da citação.
+ Vencidas, responderão as rés pelas despesas processuais e honorários de advogado que arbitro em 10% sobre o valor da condenação atualizada.
+P.R.I.
+
+São Paulo, 23 de abril de 2014.
+
+     Paulo Furtado de Oliveira Filho
+                 Juiz de Direito
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

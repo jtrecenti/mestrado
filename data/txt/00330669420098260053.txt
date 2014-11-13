@@ -1,0 +1,70 @@
+
+
+SENTENÇA
+
+Processo nº:0033066-94.2009.8.26.0053
+Classe - AssuntoProcedimento Ordinário - Anulação
+Requerente:Auto Posto Melo Ltda
+Requerido:Fazenda Pública do Estado de São Paulo
+
+
+
+
+Juiz(a) de Direito: Dr(a). Luis Fernando Camargo de Barros Vidal
+
+
+Vistos.
+
+AUTO POSTO MELO LTDA.  promove a presente ação ordinária deduzida contra a  Fazenda do Estado de São Paulo, na qual pede em sede de tutela antecipada a suspensão do ato administrativo que cassou sua inscrição estadual e assim impediu suas atividades empresariais, e afinal a anulação do referido ato, motivado em equivocada análise de amostras de álcool que revendia e que indicou PH fora dos padrões.
+
+Alega em síntese que o produto foi avaliado pelo IPT que se utilizou de metodologia ASTM D 4056-96 (que usa densímetro digital), quando foi solicitado e era devido que utilizasse a metodologia ABNT NBR 5992-80 (que usa densímetro de vidro), para a qual o instituto não possui certificado de acreditação (fls. 101/105), o que nulifica o relatório de ensaio de fls. 99/100, entregue além do prazo. Alega ainda que, no curso de defesa administrativa, demandou análise da amostra ?testemunha?, repetindo-se os mesmos erros, conforme relatório  de fls. 150/151. Comparadas as duas análises, verifica-se desvio padrão de precisão na repetitividade acima dos índices fixados para a norma ABNT (0,2) e para a norma ASTM (0,1), conforme cálculos que apresenta e resultado de análise crítica de especialista às fls. 161/162,  o que compromete a precisão e qualidade do exame, com prejuízo da validade do ato administrativo por vício no Devido processo e seus corolários.
+
+Alega, ainda, que antes da análise da amostra ?testemunha? entrou em vigor a Portaria CAT 136/09, que deu nova redação à Portaria CAT 28/05, garantido-lhe na nova redação do  item  5, §2º, do art. 6º, a possibilidade de indicação de assistente técnico para acompanhar o exame, o que não foi observado. Alega, também, indevido exercício do poder de polícia federal sobre as atividades da indústria de petróleo à míngua de convênio exigido pela Lei n.º 9.478/97.
+
+A inicial veio acompanhada de documentos.
+
+Indeferida a tutela antecipada, a requerida ofertou contestação na qual em síntese sustenta a legalidade do processo administrativo e da decisão administrativa nele havida, não sem antes defender a competência legislativa e a legitimidade da fiscalização.
+
+Houve réplica e o feito foi saneado, seguindo-se a oferta de laudo pericial acompanhado de documentos, após o que as partes ofertaram alegações finais nas quais sustentam seus argumentos iniciais.
+
+É o relatório. Decido.
+
+Assim foi indeferida a tutela antecipada, no que ora interessa:
+
+A leitura dos documentos que acompanham a inicial não permitem nesta fase de cognição sumária vislumbrar com a necessária clareza o alegado emprego de técnicas e aparelhos inadequados, com prejuízo para a qualidade e precisão dos resultados.
+
+Pelo que se depreende da leitura dos documentos indicados pelo autor e anotados no relatório supra, as metodologias ASTM D 4056-96 e ABNT NBR 5992-80 são distintas porque se destinam à constatações diferentes, de modo que não é possível afirmar substituição indevida de uma por outra: a primeira mede a massa específica, e a segunda o teor alcoólico. Para quaisquer delas, segundo os documentos de acreditação, o IPT é certificado, e pode usar densímetros digitais (presumivelmente mais precisos que os de vidro). Do mesmo modo, não se verificam fundamentos concretos e indicados em informação isenta para as variações apontadas pelo autor no desvio padrão de repetitividade, à luz do confronto dos resultados da massa específica das duas análises, e depois do teor alcoólico, observado ainda que consta ainda delas problema de baixo PH omitido na inicial. O atraso na entrega de laudos não é problema relevante.
+Evidentemente que maiores e melhores esclarecimentos e provas podem ensejar a modificação deste panorama. Entretanto, nesta fase, não há como afirmar alguma verossimilhança do alegado pelo autor de modo a conceder-lhe tutela antecipada.
+
+E, desde logo, e para prover a adequada e célere instrução do feito, determino que nos termos do art. 399, inciso I, do CPC, o IPT certifique sobre o desvio padrão de repetitividade observado nas análises de fls. 99/100 e 150/151.
+
+A Portaria CAT 136/09. ao conferir nova redação ao item 5 do §1º do art. 6º da Portaria CAT 28/05, tão somente acresceu que na notificação dirigida ao fiscalizado constará dentre o rol de entidades disponíveis para o exame aquelas que admitem a presença de assistente técnico, o que tem reflexo na indicação e escolha do laboratório. Isto é diferente do alegado pelo autor, posto que não se trata de inovação na oportunidade de defesa. E,  pelo que se sabe, o IPT, cuja indicação não foi impugnada,  não admite  a presença de terceiros em seus laboratórios por questões contratuais.
+
+A questão relativa à competência federal e estadual tem orientação no juízo conforme a corrente majoritária no sentido de que se trata de problema de poder de polícia afeto ao consumo, e, portanto,  da esfera de competência do estado-membro que não depende de convênio, ao contrário do alegado, prevalecendo ainda, nesta fase, o interesse à segurança nas relações de consumo.
+
+Neste sentido decisão anterior, nos autos do processo n.º 053.07.131075-5.
+
+O art. 238 da Constituição Federal dispõe sobre a necessidade de lei para ordenar a venda de combustíveis, inexistindo competência legislativa privativa da União para tanto conforme se lê no seu art. 22.
+
+Este dispositivo deve ser compreendido de modo sistemático e em conformidade com a competência legislativa concorrente da União e dos estados-membros para legislar sobre direito tributário, produção e consumo, e responsabilidade por dano ao consumidor, nos termos dos incisos I, V, e VIII, do art. 24 da Constituição Federal, e o poder de polícia daí decorrente.
+Logo, não há qualquer inconstitucionalidade nos termos do inciso VII, do art. 7º, da Lei Federal n.º 9.478/97, confere poderes delgados e reconhecer os concorrentes dos estados-membros na ação de fiscalização, destacando-se ainda os termos do inciso I do mesmo dispositivo legal que limita a ação federal da ANP à implantação da política nacional de gás e petróleo com ênfase na proteção do consumidor, sem impor restrição aos estados-membros.
+
+Daí que, também não há qualquer inconstitucionalidade nos termos da Lei Estadual n.º 11.929/05 e da Portaria CAT 28/05, pois expressam a um só tempo o poder de polícia incidente sobre o tributo estadual, e aqui convém anotar que é de boa política tributária conforme o princípio constitucional da moralidade administrativa que elemento da base de cálculo do tributo não seja adulterada, em favor ou desfavor do fisco, bem como decorrente da proteção ao consumidor, justificando-se inclusive a cassação da inscrição estadual, o que nada tem como as sanções previstas na Lei Federal n.º 9.947/99.?
+
+Logo, as duas questões de direito invocadas não conferem, a princípio e sem prejuízo de nova e necessária reflexão, direito à tutela antecipada: uma porque o exame preliminar do direito dado por violado não se confirma, e outra porque fundada em tese minoritária não adotada pelo juízo a respeito de competências que nesta fase se soluciona em favor do interesse social de segurança nas relações de consumo.
+
+Após o processamento do feito, e não obstante o teor do laudo pericial ofertado às fls. 537/622, tenho que efetivamente não assiste razão ao autor.
+
+A dúvida a respeito do desvio padrão de repetitividade foi sanada com as informações ofertadas pelo IPT à fl. 277.
+
+O laudo pericial judicial sugere a imprestabilidade dos exames periciais realizados na fase administrativa, para o que se assenta fundamentalmente em dúvidas decorrentes das condições de coleta do material, como se lê especialmente às fls. 572/574, inclusive a obtenção de depoimento pessoal de evidente imprestabilidade,  e no juízo crítico acerca das normas observadas pela requerida, como se lê no mesmo trecho, e ainda, à fl. 590, já relativamente aos procedimentos de encaminhamento das amostras.
+Com a devida vênia, a incursão da perícia no campo da normatividade do procedimento, que é da exclusiva competência da administração, não serve à desqualificação dos exames realizados na fase administrativa, especialmente porque, pelo que se lê nos autos, disto não se extraíram consequências graves e severas para os resultados apresentados, remanescendo elas no campo das possibilidades de que as coisas poderiam não ser como são, como se lê, por exemplo, à fl. 594 em relação à liberação de vapores.  
+
+O fato certo e provado é que a administração pública, de acordo com os procedimento e exigências previstas nas normas antes invocadas, constatou a irregularidade do combustível comercializado, o que autoriza a imposição da sanção ao fornecedor de produto desqualificado para o consumo.
+
+Pelo exposto, julgo improcedente a ação e condeno o autor no pagamento das custas, despesas processuais e honorários de advogado que fixo em R$ 10.000,00 ? art. 20, § 4.º, do CPC.
+
+P.R.I.
+
+
+São Paulo, 06 de julho de 2012.

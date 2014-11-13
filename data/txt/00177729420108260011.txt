@@ -1,0 +1,67 @@
+
+
+CONCLUSÃO
+Em 03 de fevereiro  de 2011, faço estes autos conclusos ao(à) MM. Juiz (a) de Direito, Dra.  Cecília de Carvalho Contrera
+ Eu_________Escrev. Subscrevi.
+
+SENTENÇA 
+
+Reclamação:0017772-94.2010.8.26.0011 - Procedimento Ordinário
+Requerente:Porto Seguro Companhia de Seguros Gerais
+Requerido:Teleatlantic Comércio e Monitoria de Alarmes Ltda
+
+Juiz (a) de Direito: Dra. Cecília de Carvalho Contrera.
+
+Vistos.
+
+PORTO SEGURO COMPANHIA DE SEGUROS GERAIS, qualificada nos autos, move ação de indenização por dano material contra TELEATLANTIC COMERCIO E MONITORIA DE ALARMES LTDA. Alega, em síntese, que na qualidade de seguradora foi contratada pela empresa ITS Comércio de Peças e Equipamentos Ltda., celebrando-se entre ambas contrato de seguro patrimonial. A ITS, de seu turno, visando a proteger seu patrimônio e minimizar riscos, celebrou com a ré contrato de prestação de serviços de proteção e monitoramento. Em cumprimento a essa avença, a ré instalou sistema de alarmes no estabelecimento da ITS. Todavia,  no dia 09 de setembro de 2007, o estabelecimento foi arrombado por pessoa não identificada, que subtraiu grande parte dos equipamentos da empresa. O fato foi constatado  no dia seguinte por um dos sócios da ITS. O  ingresso do agente criminoso no local não foi reportado pela ré à ITS. Desde o dia 05 de setembro de 2007 a ré não estava recebendo da ITS os sinais de monitoramento. Houve contato entre a ITS e a ré nesse mesmo dia, porém a ré não tomou as providências necessárias para solução do problema. Cumpria à ré evitar o furto, que somente se consumou por falha do serviço por si prestado. Em razão do sinistro, abrangido pela cobertura do seguro, a autora indenizou a ITS em R$15.098,39. Requer, em exercício do direito de regresso, seja a ré condenada a lhe ressarcir esse valor (fls. 2/13). Apresenta os documentos de fls. 14/73.
+
+Citada (fls. 77), a ré apresentou a contestação de fls. 98/128, alegando, em preliminar de mérito, que a pretensão da autora está prescrita. Quanto ao mais alegou, em suma, que a ITS contratou exclusivamente a forma de comunicação via telefone fixo, o qual, na data dos fatos, estava com defeito. O problema, inclusive, foi constatado dias antes dos fatos e devidamente comunicado à ITS, que se comprometeu a diligenciar junto à operadora de telefonia a fim de solucioná-lo. Sem funcionamento da linha telefônica, o sinal captado pelo sensor no dia do sinistro não pôde ser comunicado à ré, que então não teve notícia do arrombamento. Assim sendo, não haveria como reportar o ocorrido à ITS. Destarte, não houve falha na prestação do serviço, mas culpa exclusiva da ITS, que não manteve a linha de comunicação em adequado funcionamento. Não foi contratado serviço de ronda e nem é sua responsabilidade, nos termos do contrato, evitar a ocorrência dos sinistros. No dia dos fatos ainda não havia sido contratado sistema de back up via celular pela ITS, serviço que foi contratado justamente após o sinistro. O serviço não tem falhas e conta com a plena satisfação da ITS, tanto que o contrato se mantém até hoje. Não é companhia seguradora e não responde pelos danos decorrentes do sinistro. Não há prova do prejuízo experimentado pela ITS, não havendo elementos a justificar o pagamento da indenização pela seguradora. Enfim, a ação é improcedente. Apresentou os documentos de fls. 129/135.
+
+Houve réplica (fls. 139/150).
+
+O processo foi saneado, afastando-se a alegação de prescrição (fls. 160).
+
+Em audiência de instrução foi ouvida uma testemunha arrolada pela ré, restando preclusa a oitiva daquela arrolada pela autora. Em alegações finais a ré reiterou a tese já expendida (fls. 176/180).
+
+É o relatório. Fundamento e decido.
+
+O próprio relato contido na inicial e os documentos que a instruem conduzem à improcedência da demanda.
+
+Cabe analisar, em primeiro lugar, os termos do contrato de prestação de serviço de monitoramento celebrado entre a ITS e a ré, copiado às fls. 129. Nos termos da avença, a ré se obrigou a fornecer à ITS equipamentos e serviços de monitoramento por alarme, com comunicação exclusivamente por linha telefônica fixa. Como é cediço, no sistema de monitoramento de alarme é preciso que haja sensores no local monitorado, os quais, ao recepcionarem sinais de perigo  presença de pessoas, movimentação etc.  remetem o sinal à equipe de monitoramento. Esta, por sua vez, entra em contato com o cliente ou com as autoridades policiais. 
+
+Destarte, para que as ocorrências cheguem ao conhecimento do cliente, é necessário percurso da seguinte cadeia de atos: a) o movimento suspeito é captado pelo sensor; b) o sensor encaminha o sinal captado à central de monitoramento (ré); c) a central de monitoramento entra em contato com o cliente (ITS). É também possível que o sensor, ao captar o sinal, faça disparar a sirene.
+
+Note-se que há comunicação em dois momentos distintos e com finalidades diversas: do sensor à central de monitoramento, por via automática, e a da central de monitoramento ao cliente, por via humana.
+
+No caso dos autos, está devidamente comprovado que houve falha na comunicação do sinal captado pelo sensor à central de monitoramento, tendo-se quebrado a cadeia de comunicação na etapa referida no item "b". E, uma vez não tendo recebido o sinal captado pelo sensor, a central nada tinha a comunicar à cliente.
+
+Essa falha de comunicação não ocorreu por culpa da ré, nem eclodiu somente no dia do sinistro: a falha já havia sido constatada em teste feito quatro dias antes, conforme devidamente documentado no relatório de fls. 33/38, apresentado pela própria autora. Consta do relatório a realização de testes de sinal a cada dia  o chamado "teste do sistema a cada 24 horas", ou "teste diário" como referido pelo preposto da ré ouvido em audiência. No dia 05 de setembro de 2007, segundo o relatório, o sinal não foi recebido, sendo feita, 18 minutos após, ligação ao cliente.  No contato foi dada ciência ao preposto "junior" de que os sinais não estavam sendo transmitidos. Ainda conforme consta, o cliente se prontificou a verifcar o problema junto à Telefonica e a retornar o contato com a central.
+
+A pessoa ouvida em audiência foi justamente o funcionário da ré que efetuou esse contato com a ITS quatro dias antes dos fatos, tendo reproduzido, em seu relato, basicamente o que já consta do relatório apresentado pela autora. Do dia 06 ao dia 09, como consta do relatório, foram feitos testes diários e o sinal não foi recebido.  No dia 10 de setembro, segundo o relatório, a ITS entrou em contato comunicando o sinistro.
+
+No próprio dia 10 a ré enviou técnico para periciar o local.  Constatou-se que a falha efetivamente se deu na linha telefônica utilizada para estabelecer o contato sensor-central, conforme consta expressamente da ordem de serviço elaborada no dia da perícia, assinada pelo próprio representante da ITS e juntada aos autos pela própria autora (fl. 30). Nos termos da ordem de serviço, "foi trocada a linha de conexão pois a que estava não estava fazendo ligação".
+
+A solicitação de troca de linha ocorreu exatamente no dia seguinte aos fatos e se acha documentada à fl. 19. 
+
+É certo, portanto, que a falha se deu na comunicação de alarme entre cliente e ré. Nos termos do contrato celebrado (fls. 129 e fls. 28), havia à disposição do cliente as seguintes opções de forma de contato: linha fixa, rádio, via gprs e via ip. A ITS contratou somente a primeira opção, como se vê em ambos os documentos citados.
+
+Em cláusula absolutamente clara contida abaixo do campo para opção, consta a observação de que "caso a linha não esteja funcionando, ou venha a ser cortada,  a TELEATLANTIC não receberá nenhuma indicação de sinal de alarme na Central de Operações, até que a situação da linha seja normalizada".
+
+Anote-se que a opção por "mensagens via celular e/ou e-mail", assinalada na coluna direita do pedido (fl. 129), não é relevante: trata-se da forma de comunicação RÉ-ITS e não ITS-RÉ. Não foi nessa etapa que a cadeia se rompeu.
+
+Está mais do que claro, portanto, que a falha na comunicação se deu por fato exclusivamente imputável à ITS, consistente na não disponibilização de linha telefônica operante para transmissão do sinal captado pelo sensor instalado em seu estabelecimento. Está também provado que a ITS teve ciência disso  diga-se, por aviso da ré, em execução do serviço de teste diário- antes da ocorrência do sinistro.
+
+É claro que competia à ITS, e não à ré, regularizar o funcionamento da linha junto à empresa de telefonia.  Não houve, portanto, nenhuma falha na prestação do serviço de monitoramento, que possa tornar imputável à ré o dano sofrido pela segurada da autora.
+
+Cabe anotar, outrossim, que a responsabilidade da ré perante a ITS se limitava à prestação de serviços de monitoramento, e não de segurança. Não  lhe incumbia, portanto, o dever de evitar o sinistro, nem mesmo o de proceder de modo a tentar evita-lo, não cabendo falar em obrigação sequer de meio, quanto mais de resultado. A ré se obrigou ao gerenciamento de alarmes monitorados, não ao fornecimento de frota de segurança, escolta armada ou coisa que o valha. Cabe atentar para os expressos termos da cláusula 8ª do contrato (fl. 130), segundo a qual " a contratada não garante que os produtos irão prevenir ou impedir qualquer sinistro, uma vez que o equipamento instalado e os serviços de monitoramento tem o objetivo único de informar o contratante e os órgãos públicos competentes sobre o ocorrido, minimizando dessa foram o acontecimento de atos ilícitos e, especialmente, devido a incerteza do tempo de resposta de qualquer autoridade competente, tal como polícia, bombeiros e resgate, caso os mesmos sejam notificados da ocorrência no local monitorado, como resultado do sinal recebido pela contratada ou do som emitido pour um dispositivo audível. Dessa forma, a contratada não terá qualquer responsabilidade em relação ao contratante pela ocorrência de um sinistro no local monitorado." (sic).
+
+A cláusula explicita o que logicamente decorre da natureza dos serviços contratados: desestimulam o agente criminoso e aumentam as chances de interrupção da empreitada; não garantem, todavia, que o delito não se consume.
+
+Em suma: não só a falha do sistema se deu por culpa exclusiva da ITS como, mesmo que o funcionamento houvesse sido perfeito, o furto poderia não ter sido evitado. E ainda assim não haveria responsabilidade da ré, que a tanto não se obrigou.
+
+Destarte, excluída a prática de ato ilícito ou de responsabilidade objetiva, não há dever de indenizar.
+
+Ante o exposto, JULGO IMPROCEDENTE a ação, julgando extinto o processo nos termos do artigo 269, I, do Código de Processo Civil. Pela sucumbência, arcará a autora com o pagamento das custas processuais e honorários advocatícios, que fixo, ante a duração e complexidade da lide, em 10% do valor da causa.
+P.R.I.
+São Paulo,03 de fevereiro de 2011

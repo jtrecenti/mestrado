@@ -1,0 +1,66 @@
+
+
+SENTENÇA
+
+Processo nº:0036189-05.2013.8.26.0007 - Procedimento Ordinário
+Requerente:Serdomolde Indústria e Comércio de Artefatos Plásticos Ltda.
+Requerido:Guinner Industria de Plasticos Ltda
+
+
+CONCLUSÃO
+Em 13 de junho de 2014, faço estes autos conclusos ao MM Juiz de Direito Titular I, Dr. LUIZ RENATO BARIANI PERES. Eu, ________ (Andréia Aparecida Domingos), agente administrativo, subscr.
+
+Vistos.
+Serdomolde Indústria e Comércio de Artefatos Plásticos Ltda. ajuizou a presente ação, em rito ordinário (f. 38), contra Guinner Indústria de Plásticos Ltda. pretendendo a condenação da requerida a não usar o domínio www.serdomolde.com.br, além do cancelamento do aludido domínio e condenação da ré ao pagamento de R$30.000,00 a título de danos morais, afirmando que as partes exploram a mesma atividade empresariam, vindo a saber que a requerida havia procedido ao registro do domínio em questão, fazendo uso do nome empresarial da requerente, fato que consistiria em concorrência desleal, gerando abalo moral.
+Juntou os documentos de f. 24/29.
+A inicial foi emendada para especificar o valor dos danos morais (f. 35/36).
+Citada (f. 41), a ré apresentou contestação (f. 42/58), com documentos (f. 62/88), em que arguiu carência da ação, por falta de prova de concorrência desleal. No mérito, afirmou que agiu licitamente para com a obtenção do registro de domínio, e que sequer fez uso do site em seu proveito. Negou a ocorrência de culpa ou dolo. Salientou que os produtos das partes (formas de embalar) seriam diferentes. A autora não teria demonstrado registro de qualquer marca com o nome serdomolde, uma vez que usaria a marca SDM abraçadeiras. Insurgiu-se contra a existência dos danos morais e de seu valor. 
+Houve réplica (f. 92/99).
+É o relatório.
+Decido.
+Deixo de designar a audiência a que alude o art. 331 do Código de Processo Civil, nos termos de seu § 3º. A conciliação mostra-se de difícil realização diante dos termos da presente ação.
+Afasto a preliminar. A existência ou não dos danos morais é questão afeta ao próprio mérito da demanda, e assim será apreciada.
+Presentes os pressupostos processuais e as condições da ação, passo ao exame direto do mérito, dada a revelia (art. 330, inc. II, do Código de Processo Civil).
+Com efeito, a contestação é intempestiva, uma vez que apresentada em 06.05.2014 (f. 92), muito após o término do prazo para a defesa, considerando que o aviso de recebimento da citação foi juntada aos autos em 08.04.2014 (f. 40vº).
+A presente ação envolve interesses patrimoniais disponíveis. Ausente a defesa, ocorre a revelia, que irradia seus efeitos, considerando-se o réu confesso quanto aos fatos narrados na inicial.
+No mérito, tem-se que os pedidos procedem.
+A requerida procedeu ao registro e uso do domínio www.serdomolde.com.br, domínio este em que consta parte da razão social da requerente: Serdomolde Indústria e Comércio de Artefatos Plásticos Ltda.
+A utilização da razão social de uma empresa no domínio de internet utilizado por outra empresa, que explora a mesma atividade, conduz à prática de concorrência desleal, uma vez que possibilita a confusão do público quanto à identidade de quem se apresenta como responsável pelo sítio eletrônico. 
+Assim sendo, é plenamente possível à ré angariar clientela da requerente por fazer uso de domínio de internet com o nome desta última.
+É importante mencionar, como fonte material de direito, o fato de que o Marco Civil da Internet (Lei nº 12.965/14) expressamente prevê que o uso da internet no Brasil tem como fundamento o respeito à liberdade de expressão, bem como a livre iniciativa, a livre concorrência e a defesa do consumidor, sendo nítido que estes dois últimos princípios vedam a prática de atos de concorrência desleal.
+Tenha-se que o Marco Civil, neste ponto, positivou um princípio já existente em matéria empresarial, e plenamente incidente ao presente caso, que versa sobre relacionamento entre duas empresas concorrentes.
+Para além desta disciplina, tem-se que a Resolução CGI.br/RES/008, de 28.11.2008, do Comitê Gestor da Internet no Brasil expressamente prevê que o solicitante não poderá fazer uso de nome que induza terceiros a erro ou que viole direitos de terceiros:
+Art. 1º - Um nome de domínio disponível para registro será concedido ao primeiro requerente que satisfizer, quando do requerimento, as exigências para o registro do mesmo, conforme as condições descritas nesta Resolução.
+Parágrafo único - Constitui-se em obrigação e responsabilidade exclusivas do requerente a escolha adequada do nome do domínio a que ele se candidata. O requerente declarar-se-á ciente de que não poderá ser escolhido nome que desrespeite a legislação em vigor, que induza terceiros a erro, que viole direitos de terceiros, que represente conceitos predefinidos na rede Internet, que represente palavras de baixo calão ou abusivas, que simbolize siglas de Estados, Ministérios, ou que incida em outras vedações que porventura venham a ser definidas pelo CGI.br (grifos nossos).
+Este regramento normativo bem demonstra que o princípio da anterioridade do registro do domínio não é absoluto, pois o juízo de legitimidade do aludido registro pode ser confrontado com a existência de anterior registro de nome empresarial ou de marca de terceiro, que seja afetado pelo registro de domínio.
+Neste sentido, a melhor jurisprudência superior:
+RECURSO ESPECIAL. AÇÃO DE ABSTENÇÃO DE USO. NOME EMPRESARIAL. MARCA. NOME DE DOMÍNIO NA INTERNET. REGISTRO. LEGITIMIDADE. CONTESTAÇÃO. AUSÊNCIA DE MÁ-FÉ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE SIMILITUDE FÁTICA.
+1. A anterioridade do registro no nome empresarial ou da marca nos órgãos competentes não assegura, por si só, ao seu titular o direito de exigir a abstenção de uso do nome de domínio na rede mundial de computadores (internet) registrado por estabelecimento empresarial que também ostenta direitos acerca do mesmo signo distintivo.
+2. No Brasil, o registro de nomes de domínio é regido pelo princípio "First Come, First Served", segundo o qual é concedido o domínio ao primeiro requerente que satisfizer as exigências para o registro.
+3. A legitimidade do registro do nome do domínio obtido pelo primeiro requerente pode ser contestada pelo titular de signo distintivo similar ou idêntico anteriormente registrado - seja nome empresarial, seja marca.
+4. Tal pleito, contudo, não pode prescindir da demonstração de má-fé, a ser aferida caso a caso, podendo, se configurada, ensejar inclusive o cancelamento ou a transferência do nome de domínio e a responsabilidade por eventuais prejuízos.
+5. No caso dos autos, não é possível identificar nenhuma circunstância que constitua sequer indício de má-fé na utilização do nome pelo primeiro requerente do domínio.
+6. A demonstração do dissídio jurisprudencial pressupõe a ocorrência de similitude fática entre o acórdão atacado e os paradigmas.
+7. Recurso especial principal não provido e recurso especial adesivo prejudicado.
+(REsp nº 658.789/RS, Rel. Min. Ricardo Villas Bôas Cueva, julgado em 05.09.2013)
+Neste caso, tem-se por incontroverso o fato de que a requente possui o nome comercial Serdomolde desde 08.03.1990 (f. 10) e que a ré obteve o registro do domínio de internet www.serdomolde.com.br em 26.07.2012 (f. 28), muito tempo após a existência e atuação da autora no mesmo mercado explorado por ambas as partes.
+A confissão decorrente da revelia também aponta para a existência de inequívoca má-fé, também evidenciada pelo fato de a palavra serdomolde ser bastante específica e não de uso genérico, a ponto de justificar equívoco escusável da requerida.
+Por tal razão, merece acolhimento o pedido de cancelamento do domínio registrado pela requerida, e a proibição desta de fazer uso do aludido sítio eletrônico.
+A concorrência desleal é prática comercial ilícita, que afronta direitos do empresário.
+Houve extravasamento dos limites sociais de tolerância quanto ao molestamento sofrido pela autora com o presente caso.
+A indenização, no caso, deve atender à justa medida entre a ilicitude perpetrada e o enriquecimento sem causa possível, de tal forma que à autora não tenha sido um bom negócio ter sofrido o mal pelo qual passou.
+Considerando ainda a equidade como fonte direta de apreciação do quantum indenizatório, reputa-se suficiente o valor pretendido pelo autor de R$20.000,00.
+Os juros moratórios, inclusive em se tratando de danos morais, incidem desde a data do evento danoso em casos de responsabilidade extracontratual, hipótese observada no caso em tela, nos termos da Súmula 54/STJ: "Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual" (AgRg no AResp nº 129.256/RS, Rel. Min. Sidnei Beneti, julgado em 19.04.2012).
+Para tanto, servirá a data da inserção da obtenção do registro (f. 28, dia 26.07.2012).
+Neste campo, não há sucumbência recíproca pela não adoção do valor indicado na inicial, dada a sua natureza meramente indicativa por ocasião do ajuizamento da ação. Ademais, o fato principal, consistente no ilícito causador do dano, foi reconhecido. 
+Daí a razão da Súmula nº 326 do E. Superior Tribunal de Justiça: Na ação de indenização por dano moral, a condenação em montante inferior ao postulado na inicial não implica sucumbência recíproca.
+Dispositivo.
+Ante o exposto, julgo procedentes os pedidos de modo a condenar a requerida a (a) não fazer uso do domínio www.serdomolde.com.br, e (b) ao pagamento de R$20.000,00 a título de indenização por danos morais, com correção monetária a partir desta condenação (Súmula nº 362 do E. Superior Tribunal de Justiça), e acréscimo de juros legais de mora de 1,0% ao mês, a partir do evento danoso (26.07.2012).
+Em consequência, determino o cancelamento do registro da requerida quanto ao domínio supra indicado, oficiando-se ao Comitê Gestor da Internet no Brasil para cumprimento da presente sentença.
+A ré arcará com a integralidade das custas e despesas processuais, além de honorários advocatícios que fixo em 10% do valor da condenação.
+P.R.I.C. 
+São Paulo, 13 de junho de 2014.
+
+Luiz Renato Bariani Peres
+Juiz de Direito
+assinado digitalmente

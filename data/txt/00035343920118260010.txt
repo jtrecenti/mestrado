@@ -1,0 +1,77 @@
+
+
+SENTENÇA
+CONCLUSÃO
+Aos 08 de setembro de 2011, faço estes autos conclusos à MM. Juíza de Direito desta Vara, Dra. ADRIANA BERTONI HOLMO FIGUEIRA. Eu, Carlos Alberto Botega Irponi, Escrivão Diretor, digitei.
+Processo nº:0003534-39.2011.8.26.0010
+Classe - AssuntoProcedimento Ordinário - Prestação de Serviços
+Requerente:Neovia Telecomunicações S/A
+Requerido:Equipamentos Industriais Vlados Ltda
+
+Juíza de Direito: Dra. Adriana Bertoni Holmo Figueira
+
+Visto.
+
+Versam os autos sobre ação de cobrança, movida por NEOVIA TELECOMUNICAÇÕES S/A., em relação a EQUIPAMENTOS INDUSTRIAIS VLADOS LTDA., qualificadas na inicial.
+
+Alegou a autora, em resumo, que: (a) efetuaram as partes, em 22 de dezembro de 2009, contrato para prestação de serviços de acesso à internet pelo plano Neolink Intenet 100 512 Kbps, pelo prazo de vinte e quatro (24) meses, tendo a autora iniciado o fornecimento desses serviços, ao custo da importância mensal de R$ 1.200,00; (b) solicitou a ré um upgrade de velocidade, com alteração do plano para 1,5MB por cinco (05) dias, para estudos, sem ônus adicional, sendo referido serviço utilizado em sua totalidade, com elevado consumo da banda contratada; (c) solicitou a ré, por e-mail datado de 22 de fevereiro de 2010, o cancelamento dos serviços por não considerá-los adequados às suas necessidades; (d) deixou a ré de efetuar o pagamento das faturas especificadas na inicial.
+
+Requereu, assim, a condenação da ré no pagamento da importância de R$ 18.730,32 correspondente a soma das faturas inadimplidas devidamente corrigidas, acrescidas da multa pela rescisão antecipada.
+
+Documentos instruíram a inicial (f. 09/78).
+
+A ré, citada (f. 82, verso), ofereceu contestação (f. 83/102), instruída com documentos (f. 103/132).
+
+Pugnou pela improcedência da ação sustentando, a tanto, que: (a) quando da realização de reunião com o Sr. Ronaldo Finotti, representante da autora, recebeu informação de que ?apesar da aparente taxa inferior de conexão? (f. 85, ?8?), haveria ganho de qualidade porque a velocidade real da conexão oferecida pela autora era superior àquela de 2MB anteriormente utilizada pela ré; (b) por acreditar na falsa informação fornecida por representante da autora, celebrou a ré o contrato mencionado na inicial; (c) é aplicável à espécie as normas protetivas do CDC por ter a autora fornecido falsas informações acerca da qualidade de seus produtos; (d) diante da falta de qualidade do produto oferecido pela autora, simplesmente exerceu seu direito de rescisão do negócio previsto no artigo 35, inciso III, CDC; (e) é nula a cláusula contratual que prevê a multa de 50% do valor remanescente do serviço por ser extremamente onerosa à ré, consumidora; (f) quem deu causa ao descumprimento do contrato foi a própria autora que não forneceu o produto prometido; (g) não lhe foi entregue, quando da contratação dos serviços prestados pela autora, cópia das denominadas ?condições gerais? que, aliás, se caracterizam como contrato de adesão.
+
+Requereu, assim, a improcedência do pedido por descumprimento contratual imputável à autora; a declaração da aplicabilidade in casu das normas protetivas do CDC; o reconhecimento da abusividade da cláusula contratual que prevê a multa de 50% do valor vincendo ou, subsidiariamente, a redução do percentual dessa multa.
+
+Manifestou-se a autora em réplica (f.135/140).
+
+É o Relatório. DECIDO.
+
+O processo comporta o julgamento antecipado porque desnecessária a produção de outras provas além daquelas existentes nos autos.
+
+De proêmio, afasto a aplicabilidade do Código de Defesa do Consumidor posto que a requerida contratou os serviços da autora para implementar sua atividade empresária e não como consumidora final, mencionando o seguinte precedente jurisprudencial:
+
+"Apelos da autora e da ré. Serviço de telefonia móvel para empresa. Não incidência do Código de Defesa do Consumidor. Teoria Finalista. Falha do serviço configurada. Direito da autora à rescisão do contrato sem incidência de multa compensatória e declaração de inexigibilidade do débito relativo a serviços não prestados. Dano moral à pessoa jurídica. Possibilidade. Caracterização. Negativação indevida do nome da autora. Valor da indenização majorado para R$ 12.000,00. Critérios de proporcionalidade, razoabilidade, prudência e equidade. Apelo da ré desprovido; recurso adesivo parcialmente provido" (TJSP, 0050331-57.2008.8.26.0114 Apelação Relator(a): Pereira Calças, Órgão julgador: 29ª Câmara de Direito Privado Data do julgamento: 08/06/2011) 
+
+A autora afirmou que foi contratada pela ré para fornecer-lhe  acesso à banda larga de internet, através de tecnologia de fibras óticas e rádio, com velocidade de 512 Kps, posteriormente alterada para 1,5 MB,  mas não recebeu a contraprestação. 
+
+Em contestação, a requerida asseverou que a velocidade ofertada mostrou-se insuficiente às suas necessidades. 
+
+Prosseguiu afirmando que, à época da contratação, o preposto da ré esclareceu que, apesar da aparente taxa inferior da conexão (512 Kb contra os 2 Mb por ela utilizados com outra provedora), haveria um ganho de qualidade em razão da "velocidade real de conexão", explicada como uma suposta variação que pode causar alterações no tráfego de alguns provedores. 
+
+Por tal razão, segundo ela, a velocidade real seria superior àquela constante no contrato, motivo pelo qual contratou os serviços. 
+
+Em réplica, a autora negou tivesse oferecido velocidade diversa daquela constante nos documentos assinados pelas partes, pelo que faz jus ao recebimento das parcelas em aberto e da multa contratual, imputado a culpa pela rescisão contratual à requerida.
+
+Pois bem, o contrato foi firmado em 22.12.2009 e, conforme constou da própria inicial, após 5 dias do fornecimento dos serviços, a ré mostrou-se insatisfeita com sua conexão de internet (fls. 3).
+
+A cópia dos e-mails de fls. 118/132, que instruíram a contestação e não foram objeto de impugnação específica pela autora, e os de fls. 52/54, que vieram com a inicial, demonstraram o descontentamento da requerida com os serviços fornecidos, desde o início da consecução. 
+
+O artigo 422 do Código Civil estatuiu que "os contratantes são obrigados a guardar, assim na conclusão do contrato, como em sua execução, os princípios da probidade e boa-fé".
+
+Esta última é fonte de direitos e obrigações, impondo ao "contratante um padrão de conduta, de modo que deve agir como ser humano reto, vale dizer, com probidade, honestidade e lealdade. Assim, reputa-se celebrado o contrato com todos esses atributos que decorrem da boa fé objetiva. Daí a razão pela qual o juiz, ao julgar demanda na qual se discuta a relação contratual, deve dar por pressuposta a regra jurídica (lei, fonte de direito, regra jurígena criadora de direitos e obrigações) de agir com retidão, nos padrões do homem comum, atendidas as peculiaridades dos usos e costumes do lugar" (Nelson Nery Junior, in Código Civil Comentado, Nelson Nery Junior, 7ª Edição, nota 12 de fls. 536).
+
+Decorre da boa fé objetiva o dever de informação. 
+
+Observo que o contrato de adesão de fls. 43/47 que sequer foi subscrito pela ré, assim como o termo de aceitação de fls. 41, supostamente por ela assinado, possuem termos técnicos, justamente pela natureza dos serviços prestados. 
+
+Daí ser possível tenha a ré se enganado ou levada a erro ao aceitar a velocidade de conexão que não atendia a seus interesses, não se podendo concluir que agiu com culpa ao solicitar a resolução antecipada do contrato, considerando-se que tinha como prazo de vigência período considerável de 24 meses.
+
+A cláusula penal estipulada no artigo 408 do Código Civil somente é autorizada quando o inadimplemento dá-se de forma culposa, o que não observo nestes autos, pelo que afasto a aplicação da cláusula 9.3.1 das condições gerais do contrato que, repise-se, sequer foram assinadas pela ré (fls. 16).
+
+Mesmo se assim não o fosse, reputo excessiva a multa de 50% sobre o valor remanescente do contrato, causando verdadeiro enriquecimento ilícito à autora. Ou seja, a par de não ter prestado os serviços, receberia metade do pagamento avençado. 
+
+De outro lado, considerando-se que a requerida solicitou o cancelamento do contrato somente em  fevereiro de 2010, deve arcar com o valor das seguintes mensalidades vencidas e taxa de adesão proporcional (a) referente ao período de 26/01/2010 a 31/01/2010 (valor original de R$ 644,80), vencida em 10/02/2010; (b) referente ao período de 01/02/2010 a 28/02/2010 (valor original de R$ 1.604,80), vencida em 10/03/2010 (fls. 4).
+
+A quantia deverá ser acrescida de multa moratória de 2% e juros de 1% ao mês, a contar do vencimento, a teor do disposto na cláusula 7.6 (fls. 46).
+
+Reputo abusiva a cláusula 9.3.3 que impõe a obrigatoriedade de aviso prévio de 30 dias para o cancelamento (fls. 46), frente a natureza do serviço prestado. Pode ser interrompido imediatamente, bastando, para tanto, a iniciativa  da autora, vale dizer, independente de qualquer aparato técnico que justifique a cobrança de mais um mês de mensalidade.
+
+Isto posto, JULGO PARCIALMENTE PROCEDENTE O PEDIDO e condeno a ré ao pagamento  das seguintes mensalidades vencidas e taxa de adesão proporcional: (a) referente ao período de 26/01/2010 a 31/01/2010 (valor original de R$ 644,80), vencida em 10/02/2010; (b) referente ao período de 01/02/2010 a 28/02/2010 (valor original de R$ 1.604,80), vencida em 10/03/2010 (fls. 4). Os valores deverão ser acrescidos de  multa moratória de 2%, juros moratórios de 1% ao mês e correção monetária, a contar o inadimplemento. Em razão da sucumbência recíproca, cada parte deverá arcar com suas próprias custas, despesas processuais e honorários dos patronos.
+
+PRIC.
+
+São Paulo, 15 de setembro de 2011.

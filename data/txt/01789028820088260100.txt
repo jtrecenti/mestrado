@@ -1,0 +1,55 @@
+
+
+SENTENÇA
+
+Processo nº:0178902-88.2008.8.26.0100
+Classe - AssuntoProcedimento Ordinário 
+Requerente:Polux Morgili
+Requerido:Google Brasil Internet Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Thais Caroline Brecht Esteves Fischmann
+
+VISTOS
+
+
+POLUX MORGILI, devidamente qualificado nos autos, promove ação indenizatória contra GOOGLE BRASIL INTERNET LTDA., também qualificada, alegando, em síntese, que é um ator de televisão nacional e internacionalmente, realizando trabalhos no Brasil e no exterior e que tomou conhecimento de que seu nome artístico no Brasil, Marco Mastronelli, estava sendo veiculado num site de relacionamentos conhecido como ORKUT, com vários profiles falsos, expondo-o de maneira vexatória.
+Os profiles afirmariam que o autor é bissexual, além de colocarem fotos não autorizadas, bem como foto montagens. Narra que jamais participou de filmes de sexo explicito, tampouco já participou do site mencionado.
+Narra que percebeu que seu nome foi maculado, o que implicou na diminuição de sua atuação comercial, consequentemente rendimentos. Narra, também, sofrer de depressão e importante abalo emocional.
+Desta forma, afirmando os pressupostos da responsabilidade civil, pede seja a ré obrigada a indenizá-lo pelos danos sofridos.
+Pede a procedência da ação com a condenação da ré no pagamento de danos morais e materiais ao autor em valor estimado de R$ 1.800.000,00.
+Houve emenda à inicial de fls. 52/53 a fim de que a ré seja compelida a excluir todo os perfis ofensivos ao autor, bem como forneça os dados dos criadores dos perfis e, ainda, atribuir valor à causa de R$ 1950.000,00.
+A tutela antecipada foi deferida às fls. 67/68.
+Regularmente citada, a Requerida apresentou defesa, em contestação, a requerida Google presta esclarecimentos sobre o site de relacionamentos Orkut, que se caracteriza como um site de hospedagem de páginas pessoais de usuários e que não exerce censura prévia nos conteúdos das páginas. Assinada que o usuário tem que concordar com os termos do serviço e existe um sistema de remoção de perfis. Quanto ao pleito indenizatório, afirma sua ilegitimidade passiva. Pugna pela improcedência da ação, eis que inexistentes os pressupostos ensejadores dessa indenização e também inaplicável a teoria do risco.
+Houve réplica e foram oficiados aos respectivos provedores para apresentação dos dados dos usuários.
+É o relatório.
+DECIDO.
+Afasto a preliminar arguida pela ré, de ilegitimidade passiva relativa ao pedido indenizatório vez que integra os fatos narrados na inicial e portanto deve mesmo figurar no polo passivo, sendo que qualquer outra consideração se confunde com o mérito.
+A ação é parcialmente procedente.
+O autor reclama providências da ré no tocante à exclusão dos perfis abusivos criados no site Orkut, bem como fornecimento de dados de usuários e, descrevendo os danos sofridos, pede indenização por danos materiais e morais.
+Sucede que a ré, na qualidade de responsável pela plataforma do Orkut, onde usuários criam páginas pessoais e formam comunidades, deve mesmo retirar as páginas apontadas como ofensivas, sob pena de incidir na responsabilidade pois, uma vez notificada do abuso, e conhecera do conteúdo ofensivo, nada fazer consiste em negligência e como tal poderá acabar por configurar a responsabilidade que é subjetiva, e não objetiva.
+No caso em tela, contudo, o autor não fez prova de que tenha formulado pedido de retirada de páginas antes do ajuizamento da demanda (fls. 63/65), sendo certo que tal prova nem mesmo acompanhou a inicial, assim, o pedido dever ser provido unicamente nesse tocante, e também para fornecimento dos dados dos usuários ? estes sim os verdadeiros responsáveis por eventuais danos causados ao autor.
+Nesse sentido a robusta jurisprudência:
+0200488-79.2011.8.26.0100  Apelação  Relator(a): Maia da Cunha Comarca: São Paulo Órgão julgador: 4ª Câmara de Direito Privado Data do julgamento: 25/07/2013 Data de registro: 01/08/2013 Outros números: 2004887920118260100 Ementa: Internet. Responsabilidade civil do provedor de site em que divulgadas as ofensas de que reclama a autora que não é objetiva. Responsabilidade do provedor que advém da não retirada da página ofensiva quando a tanto notificada, ou quando não consegue identificar o ofensor, do que não se cogita na espécie. Jurisprudência do STJ. Remoção imediatamente providenciada após ofício encaminhado pelo ... 
+Ementa: Internet. Responsabilidade civil do provedor de site em que divulgadas as ofensas de que reclama a autora que não é objetiva. Responsabilidade do provedor que advém da não retirada da página ofensiva quando a tanto notificada, ou quando não consegue identificar o ofensor, do que não se cogita na espécie. Jurisprudência do STJ. Remoção imediatamente providenciada após ofício encaminhado pelo Ministério Público. Improcedência acertada. Recurso improvido. 
+
+
+0005619-74.2012.8.26.0038  Apelação  Relator(a): Alexandre Lazzarini Comarca: Araras Órgão julgador: 6ª Câmara de Direito Privado Data do julgamento: 06/06/2013 Data de registro: 10/06/2013 Outros números: 56197420128260038 Ementa: ... "ORKUT". DANOS MORAIS. AUSÊNCIA DE RESPONSABILIDADE DO PROVEDOR DE SERVIÇOS. IMPOSSIBILIDADE DE CONDENAÇÃO DA RÉ NA DIVULGAÇÃO DE IP. DECURSO DO PRAZO PRESCRICIONAL PARA O AJUIZAMENTO DE AÇÃO CONTRA O VERDADEIRO CAUSADOR DO DANO. APELAÇÃO DO AUTOR NÃO PROVIDA E APELAÇÃO DA RÉ PROVIDA. 1. Ação indenizatória movida em face de provedor de conteúdo, em ... 
+Ementa: AÇÃO INDENIZATÓRIA. INTERNET. PÁGINA DIFAMATÓRIA NO "ORKUT". DANOS MORAIS. AUSÊNCIA DE RESPONSABILIDADE DO PROVEDOR DE SERVIÇOS. IMPOSSIBILIDADE DE CONDENAÇÃO DA RÉ NA DIVULGAÇÃO DE IP. DECURSO DO PRAZO PRESCRICIONAL PARA O AJUIZAMENTO DE AÇÃO CONTRA O VERDADEIRO CAUSADOR DO DANO. APELAÇÃO DO AUTOR NÃO PROVIDA E APELAÇÃO DA RÉ PROVIDA. 1. Ação indenizatória movida em face de provedor de conteúdo, em razão da criação de página difamatória no "Orkut". 2. Sentença de parcial procedência, apenas para condenar a ré a fornecer dados de "IP" ("Internet Protocol") e informar quanto tempo a página ficou no ar, sob pena de multa diária. Recursos de ambas as partes. 3. Inexistência de responsabilidade civil do provedor pelos danos morais. Ausência de dever de controle prévio acerca das informações divulgadas pelos usuários dos serviços. Precedentes. 4. Sentença que comporta reparo para afastar a condenação da ré em fornecer os dados de IP do usuário, ante o longo tempo decorrido desde a data da ciência quanto à referida página (agosto/2009), bem como em informar quanto tempo a página ficou disponível, eis que, pelas alegações das partes, ocorreu logo depois. 5. Decurso do prazo prescricional de 3 anos estabelecido para o ajuizamento da ação indenizatória contra o verdadeiro causador do dano (art. 2063 §3º, V, CC). 6. Apelação do autor não provida e apelação da ré provida. 
+
+20- 0035940-51.2009.8.26.0506  Apelação  Relator(a): Paulo Eduardo Razuk Comarca: Ribeirão Preto Órgão julgador: 1ª Câmara de Direito Privado Data do julgamento: 07/05/2013 Data de registro: 10/05/2013 Outros números: 359405120098260506 Ementa: ... ORKUT de responsabilidade do réu O réu é provedor de conteúdo, que hospeda páginas pessoais e websites criados por terceiros Ao não exercer controle editorial prévio sobre o teor destes, não há que se falar em sua responsabilidade Inviabilidade da realização de censura prévia sobre todo o conteúdo, por se tratar de providência a inviabilizar o ... 
+Ementa: RESPONSABILIDADE CIVIL Internet Veiculação de informações desabonadoras sobre o autor em site de relacionamento denominado ORKUT de responsabilidade do réu O réu é provedor de conteúdo, que hospeda páginas pessoais e websites criados por terceiros Ao não exercer controle editorial prévio sobre o teor destes, não há que se falar em sua responsabilidade Inviabilidade da realização de censura prévia sobre todo o conteúdo, por se tratar de providência a inviabilizar o exercício da atividade econômica em questão, e também porque tal vulneraria o primado da livre manifestação de pensamento (CF/88, art. 5º , inc. VIII) Além disso, embora haja um excesso de linguagem, pelo que consta, o fato narrado naquelas comunidades é verdadeiro, servindo como um meio de noticiar o repúdio e o desabafo de familiares e amigos da vítima que fora atropelada pelo autor Demanda improcedente Recurso do réu provido, prejudicado o exame do recurso adesivo do autor. 
+
+Não é caso, pois, de se impor o dever de indenizar à ré, a quem não cabe ? pela impossibilidade técnica e proibitivo constitucional de livre manifestação de pensamento ? realizar censura prévia dos conteúdos veiculados.
+No caso do autor, acrescenta-se o fato de que, sendo pessoa pública, que inclusive já posou para revistas fotográfica, é certo que sua imagem tende a ser mais comumente usada em sites da internet, perfis em comunidades e outros meios do gênero, havendo, portanto, também um elemento gerado pela vítima a estimular a criação dos aludidos perfis falsos.
+Em resumo, inexiste a culpa e igualmente o nexo causal (este entre os prejuízos sofridos pelo autor, que não se ignora e a conduta da ré), a tal ponto que, ausentes os requisitos legais para configurar a responsabilidade civil, a ação é, nessa parte, improcedente.
+À vista do exposto e de tudo o mais que dos autos consta, julgo parcialmente procedente a ação, condenando a Requerida a excluir todos os perfis ofensivos criados em nome do autor  no site de relacionamentos ORKUT, conforme lista de endereços fornecida, sob pena de incidência de multa diária  no valor de R$ 500,00, confirmando assim, os termos da tutela antecipada de fls. 67/68, bem como para que a ré informe os dados dos criadores dos perfis informados pelo autor, no prazo de 30 (trinta) dais, sob pena de multa diária de R$ 500,00. 
+Tendo em vista a sucumbência parcial, cada uma das partes arcará com as custas e despesas que deram causa, bem como com os honorários de seus advogados.
+
+De Caieiras para São Paulo, 24 de junho de 2013.
+
+
+                                Thais Caroline Brecht Esteves Fischmann
+Juíza de Direito

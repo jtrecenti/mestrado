@@ -1,0 +1,155 @@
+
+
+DESPACHO
+
+Nº de autos e classe:0035523-38.2012.8.26.0007 - Procedimento Sumário
+Requerente:Andre Andrade Guedes
+Requerido:Banco do Brasil S/A
+Juiz(a) de Direito:Alessander Marcondes França Ramos
+
+
+
+Vistos, Etc.
+
+ANDRÉ ANDRADE GUEDES ingressou com ação civil contra BANCO DO BRASIL S.A. sustentando ser correntista da conta 4306 11871 e em 01.03.12 fora surpreendida ao descobrir que sua conta havia sido utilizada para a realização de empréstimos. Nega a realização eletrônica De empréstimo de R$530,00, bem como dois saques um de R$100,00 e outro de R$10,00. Sustenta que houve fraude. Pretende o arbitramento de indenização por dano moral, reconhecendo-se a inexistência das contratações. 
+
+A medida liminar foi negada (fl. 39/40) e devidamente citada (fls. 55) a ré ofertou defesa (fls. 56/78) onde sustenta: a) houve negligência do autor pelo furto do cartão; b) tecnologia do chip impossibilita a clonagem; c) inexistência de falha na prestação de serviços; d) culpa exclusiva do autor; e) impossibilidade de inversão do ônus da prova; f) inexistência de nexo causal entre a conduta do banco e as transações; g) culpa exclusiva de terceiro; h) inexistência de conduta ilícita; i) inocorrência de dano moral; j) em caso de arbitramento de indenização, observância da razoabilidade; k) improcedência dos pedidos.
+
+Houve réplica (fls. 85/89).
+
+É o relato.
+
+D E C I D O.
+ 
+Trata-se de ação destinada a declaração de inexistência de relação jurídica com a ré cumulada com pedido de dano moral.
+
+Não há questões preliminares a serem analisadas e, no mérito, o pedido inicial comporta procedência.
+
+Por força do artigo 302 do Código de Processo Civil, sobre os pontos não contestados aplica-se o mesmo efeito da revelia, qual seja, presunção de veracidade dos fatos alegados na inicial.
+
+Neste sentido manifesta-se o Superior Tribunal de Justiça:
+RECURSO ESPECIAL. PREQUESTIONAMENTO. ART. 302 DO CPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. 1. E INDISPENSAVEL, COMO PRESSUPOSTO DE ADMISSIBILIDADE DO RECURSO ESPECIAL, QUE A QUESTÃO JURIDICA SUSCITADA PELO RECORRENTE TENHA SIDO VENTILADA PELA DECISÃO RECORRIDA. 2. A TEOR DO ART. 302 DO CPC, PRESUMEM-SE VERDADEIROS OS FATOS ALEGADOS PELO AUTOR E NÃO IMPUGNADOS ESPECIFICAMENTE PELO REU.
+AGRAVO REGIMENTAL IMPROVIDO. (AgRg no Ag 89.254/RS, Rel. Ministro BARROS MONTEIRO, QUARTA TURMA, julgado em 09/12/1996, DJ 17/03/1997, p. 7509)
+
+PROCESSUAL CIVIL - CONTESTAÇÃO - FATOS NÃO IMPUGNADOS. PRESUMEM-SE VERDADEIROS OS FATOS NÃO IMPUGNADOS PELO REU. MAIS AINDA QUANDO, EM VERDADE, FORAM ADMITIDOS. CONTRARIEDADE, PELO ACORDÃO, AO ARTIGO 302 DO CODIGO DE PROCESSO CIVIL. (REsp 11.363/RS, Rel. Ministro EDUARDO RIBEIRO, TERCEIRA TURMA, julgado em 17/09/1991, DJ 07/10/1991, p. 13964)
+
+Nada impugnou quanto ao furto do cartão do autor, de sorte que se presume que tenha ocorrido no interior de uma de suas agências, enquanto o autor trabalhava como vigilante.
+
+O furto do cartão nestas circunstâncias já é indicador de ineficiência no serviço de vigilância da requerida, pois o local destinado a guarda dos bens dos funcionários fora violado.
+
+Esta circunstância atribui responsabilidade ao réu pelo furto.
+
+Mas não é só.
+
+Com a citação o juízo determinou a requerida que prestasse diversas informações (fls. 40 e 54).
+
+Não havendo apresentação das imagens do local onde o furto teria ocorrido, apenas se reforça a tese de furto tornada verdadeira pela ausência de impugnação.
+
+Também não se esclareceu se o autor já havia realizado alguma operação semelhante às impugnadas, o que gera a presunção de que se tratou de movimentação incomum e atípica.
+
+Não se apresentaram, ainda, imagens ou informações do local dos saques, motivo pelo qual se presume, também por força do artigo 359, I, do Código de Processo Civil, que o autor jamais utilizou-se de tais locais e não realizou por si as operações.
+
+Deve-se lembrar que a tese central da falta de cautela na custódia do cartão é indevida, pois ele fora furtado do interior do armário de servidores da ré, o que inclusive foi objeto do documento de fls. 17/18.
+
+Deste modo inexistiu negligência do autor na guarda de seu cartão.
+
+Ademais há de se salientar que a ré fornece o serviço bancário e, diante da atividade, exige-se que os lançamentos em conta corrente correspondam ? exatamente ? às compras ou operações por eles realizadas.
+
+Trata-se de obrigação inerente ao contrato havido entre as partes.
+
+Não havendo correspondência há violação aos artigos 14 e 20, §2º, do Código de Defesa do Consumidor.
+
+
+Não se imagina que uma instituição financeira possa admitir que seu sistema viabilize a fraude ou a utilização desconhecida ou desautorizada pelo titular da conta bancária.
+
+Cabe ao réu garantir a segurança do sistema, prevenindo contra fraudes e não o fazendo arca com a responsabilidade em razão do risco de sua atividade.
+
+Tal dever é decorrente da boa fé-objetiva (artigo 422 do Código Civil), afinal ... formado o vínculo contratual de consumo, o novo direito dos contratos opta proteger não sé a vontade das partes, mas também os legítimos interesses e expectativas dos consumidores. ....
+
+Muito embora haja maior segurança no sistema de chip, ele não é imune à fraudes, o que por sinal já foi reconhecido pelo Tribunal de Justiça do Estado de São Paulo:
+9193176-15.2005.8.26.0000  Apelação / Contratos Bancários  Relator(a): José Marcos Marrone Comarca: São Paulo Órgão julgador: 23ª Câmara de Direito Privado Data do julgamento: 29/04/2009 Data de registro: 08/06/2009 Outros números: 7004848300, 991.05.000359-4 Ementa: Responsabilidade civil - Cartão de crédito - Revelado na petição inicial que o autor era titular do cartão de crédito "Visa Platinum", administrado pelo banco réu, desde o ano de 2000 - Afirmado pelo autor que, após retornar de uma vi? agem pelo Nordeste, verificou que muitos dos débitos e saques constantes da fatura de seu cartão de crédito não tinham sido por ele feitos - Autor que, em virtude dessa constatação, imediatamente, entrou em contato com o banco réu, a fim de informá-lo sobre o ocorrido - Autor que, nessa ocasião, foi orientado a cancelar o cartão Responsabilidade civil - Cartão de crédito - Relatado pelo autor que, embora não tivesse o banco réu reconhecido que houve "clonagem" do cartão, todos os débitos relativos às compras e despesas realizadas em lojas foram estorna? dos - Banco réu que, todavia, recusou-se a estornar os saques efetivados no período questionado, sob o argumento de que o serviço de proteção do cartão não abrangia os saques emergenciais - Banco réu que passou a cobrar do au?tor tais valores - Nome do autor que foi enviado aos órgãos de restrição ao crédito, em razão do não-pagamento desses valores Código de Defesa do Consumidor - Instituição bancária - Réu sujeito às re?gras do CDC, não porque ele seja fornecedor de um produto, mas porque presta um serviço consumido pelo cliente, que é o consumidor final desses serviços - Entendimento que acabou por ser cristalizado pelo STJ, mediante a edição da Súmula 297 Responsabilidade civil - Cartão de crédito - Alegado pelo banco réu que, sendo o autor o único responsável pela guarda de seu cartão de crédito e da res?pectiva senha, seria exclusivamente dele a responsabilidade pelos prejuízos sofridos com os saques indevidos - Descabimento - Sistema de segurança dos cartões magnéticos que não é vulnerável a fraudes - Tese de que somente é possível efetuar-se retiradas com a utilização de cartão magnético e aporte de senha pessoal que é ilusória - Caso em que existem notícias de que até mes? mo os moderníssimos cartões magnéticos munidos com "chip" de segurança já foram objeto de "clonagem". Responsabilidade civil - Cartão de crédito - Admitida a possibilidade de violação do sistema em questão, havendo operações, sejam de compras, sejam de saques, não reconhecidas pelo cliente, impõe-se o reconhecimento da respon?sabilidade objetiva do fornecedor do serviço - Responsabilidade apenas pas?sível de ser refutada nas hipóteses do § 3o do art. 14 do CDC - Circunstância em que, no caso em tela, nenhuma dessas situações de exclusão de respon?sabilidade verificou-se. Responsabilidade civil - Cartão de crédito - Presença de fortes indícios de que o cartão de crédito do autor foi "clonado" - Banco réu que, ao estornar as compras não reconhecidas pelo autor, acabou por admitir a existência de irregularidade na utilização do cartão de crédito - Caso em que, uma vez evidenciado não ter sido o autor quem efetuou os saques questionados, ele não pode ser responsabilizado pelo seu pagamento Responsabilidade civil - Dano moral - Conduta do banco réu, consistente na cobrança de débitos indevidos, com o conseqüente envio do nome do autor aos arquivos de inadimplentes, que o submeteu, injustamente, à situação ve?xatória - Autor que suportou aborrecimento, dissabor e abalo ao seu crédito - Configurado o dano moral puro - Desnecessidade de sua prova - Devida a in?denização por danos morais Dano moral - "Quantum" - Arbitrada na sentença, a título de indenização por danos morais, a quantia de R$ 16.200,00, correspondente ao "dobro dos saques com o uso do cartão que não foram reembolsados" - Impossibilidade de redução - Indenização que há de ser fixada dentro de um critério de prudência e razoabilidade - Ressarcimento que se deve moldar pelo comedido arbítrio do juiz - Inexistência de critérios determinados e fixos para a quantificação do da? no moral - Indenização por danos morais, fixada em R$ 16.200,00, que se mostrou justa - Apelo desprovido.
+
+No corpo do referido acórdão consta expressamente:
+A própria "Febraban" ("Federação Brasileira de Bancos") já informou sobre a crescente descoberta de golpes contra consumidores e instituições financeiras, conforme se verifica do trecho extraído de seu "site": "A complexidade e alcance das fraudes parecem, infelizmente, acompanhar a especialização tecnológica do sistema bancário. O Brasil, expoente mundial na área de tecnologia da informação (TI) aplicada à área financeira, também sofre com a ação de indivíduos que utilizam os novos canais de comunicação entre os bancos e seus clientes para cometerem crimes antes praticados no interior das próprias agências" (http:/www.febraban.com.br/Arquivo/Servicos/Seguranca/apresentacao.asp). Existem notícias também de que até mesmo os moderníssimos cartões magnéticos munidos com "chip" de segurança,  reputados como "à prova de fraudes", já foram objeto de "clonagem" por estelionatários (notícia veiculada em 30.6.2007, no site http://g1.globo.com/Noticias/SãoPaulo). No mesmo sentido houve manifestação do Egrégio Tribunal de Justiça de São Paulo: "A alegação do banco, já conhecida, é de que não existe a possibilidade de efetuar movimentação sem o acionamento da senha, que é pessoal e intransferível. Ora, a realidade nos mostra outro quadro. Os bancos têm investido pesado na segurança, todavia, como é cediço, a 'bandidagem' está sempre à frente da tecnologia bancária. Prova disso está nos jornais todos os dias, são saques com cartões falsos, inclusive os modernos cartões com 'chip', portanto, a alegação do banco de que existe total segurança, realmente, está equivocada. A responsabilidade da instituição financeira perante o correntista é objetiva, excepcionada apenas quando é demonstrada a culpa do cliente e, no caso dos autos, esta não foi evidenciada. Diante disso, a causa recebeu decisão correta, o banco responde perante o correntista independente de culpa. Não se olvidando, outrossim, que não há consideração unilateral dos argumentos, (...), o que há é a prova que lhe é desfavorável, além da presunção" (Ap n° 1.321.629-2, de São Paulo, 21a Câmara de Direito Privado, v.u., Rei. Des. SOUZA LOPES, j . em 7.5.2008). 
+
+A alegada segurança é, portanto, meramente relativa havendo precedentes jurisprudenciais indicadores de falhas de segurança.
+
+Além do mais, com a concessão da medida liminar, determinou-se a apresentação de uma série de elementos a fim de demonstrar a lisura do pleito inicial.
+
+Como nada trouxe, somente se pode concluir por força da presunção legal supra mencionada, que: a) as agências onde ocorreu a contratação jamais foram utilizadas pelo autor; b) os locais onde ocorreram as contratações impugnadas não era próximo da agência do autor; c) o autor jamais celebrou operação semelhante às impugnadas nos locais onde elas se realizaram.
+
+Ademais até mesmo a forma pela qual as transações realizaram-se chama a atenção.
+
+No prazo de sete dias contratou-se empréstimo já sacando de plano seus valores e logo após o recebimento todo o saldo disponível fora sacado.
+ 
+Ocorre, entretanto, que por manter vencimento de pequena monta, não seria crível que fizesse tantas operações de crédito para saque em dinheiro e sem que se demonstrasse, minimamente, o destino de tais numerários.
+ 
+Aliando-se tal movimentação ? típica de fraudadores ? a foram dos saques de numerário revela a atuação de criminosos.
+
+Atente-se que a própria instituição financeira não chega a questionar, efetivamente, a autoria das operações atribuindo-as a falsário ou fraudador, dizendo agir com boa fé.
+
+Bem demonstrado, portanto, que realmente inúmeras operações foram realizadas sem que houvesse efetiva participação do autor.
+
+Não há indício de participação do autor nas fraudes, nem tampouco, de que tenham cedido suas senhas pessoais, de sorte que o acesso ao sistema bancário é creditado à falha na segurança.
+
+Cabe ao fornecedor suportar os riscos decorrentes de sua atividade, tanto que respondem independentemente de culpa, pelos danos que causarem aos consumidores (artigo 14 da Lei 8.078/90).
+
+Embora seja desnecessária a demonstração de culpa, não há dúvida de que existindo sistema contra fraudes as operações não teria se realizado.
+
+Ademais o autor haveriam de ser informados sobre a atípica movimentação financeira em suas contas a fim de confirmar sua autenticidade e autoria. Não o fazendo, assume o banco as conseqüências financeiras de sua omissão.
+
+O autor não celebrou nem concorreu para a celebração do contrato de empréstimo de R$530,00 ? que não se coaduna com seu padrão financeiro (nº 100611000343539) que deve ser tidos por inexistente, restituindo-se todos os valores debitados sob sua rubrica.
+
+O nexo causal entre atividade da ré, seu comportamento desidioso e o dano é inquestionável, sendo desnecessárias maiores considerações.
+
+Mesmo que o terceiro ?espertalhão? tenha agido com dolo, a culpa da ré é inafastável, pois deveria certificar-se da identidade do contratante e da origem das transações bancárias, bem como de sua atipicidade e, diante da potencial existência de fraude, não poderia incluir o nome do autor nos cadastros do SERASA.
+
+Nem se fale em erro escusável pois, em primeiro lugar, não afeta a configuração da responsabilidade no sistema do Código de Defesa do Consumidor.
+
+Atente-se que os valores retirados da conta dos autores por força das operações não autorizadas deve ser considerado cobrança indevida, devendo ser restituídos ? desconsiderados os créditos dos empréstimos não realizados.
+
+No que se refere ao dano moral, algumas peculiaridades devem ser analisadas.
+
+Em artigo publicado no Repertório de Jurisprudência IOB, o jurista Euclides de Oliveira define o dano moral:
+?Em um sentido amplo e de caráter distintivo, pode afirmar-se que dano moral é todo dano não patrimonial. Acentua-se, aí, o caráter extrapatrimonial do direito lesionado, podendo ocorrer isoladamente (ex. - no crime contra a honra, sem reflexos de outra ordem além do vexame imposto à pessoa) ou em conjunto com o dano material (ex. - na lesão à integridade física do ofendido, com prejuízo à sua capacidade laborativa e mais o prejuízo estético).
+Sob outro aspecto, pode afirmar-se que o dano moral implica em menoscabo a direitos da personalidade, como os referentes à vida, à saúde, à liberdade, à honra etc. Nesse sentido é que se firmaram as proteções constitucionais antes analisadas e tidas como de caráter meramente enunciativo.
+Numa conceituação mais elaborada, modernos doutrinadores apontam o dano moral como inerente aos efeitos negativos que a lesão provoca na pessoa. Será preciso, então, reparar o prejuízo decorrente da conseqüência desvaliosa, do menoscabo à personalidade. Ou seja, o dano moral importa em diminuição à subjetividade da pessoa, derivada da lesão a um interesse espiritual.
+Numa e noutra dessas concepções teóricas, enquadram-se as mais variadas situações de fato submetidas ao julgamento dos tribunais: a dor pela perda de um ente querido, vergonha decorrente de uma deformidade física, o constrangimento de quem sofre imputação ofensiva à sua honra ou dignidade, o vexame social diante da execração por um crédito negado etc.? 
+
+Nada indica que o autor tenha sido lançado em cadastro de inadimplentes, o fundamento do dano moral é a sua restrição orçamentária imposta pela fraude perpetrada.
+
+Evidentemente que ver perdido, num mês, mais de 10% da remuneração por ato de fraudador proporcionado por falha de segurança de seu empregador ofende os direitos da personalidade.
+
+Isso, pois, as restrições nas atividades cotidianas e na vida são decorrência lógica de apertos orçamentários.
+
+A imposição de descontos indevidos gera embaraço e dissabor muito maior do que o mero aborrecimento, pois o autor além de reclamar adequadamente não teve sequer indicados os motivos para a rejeição de seu legítimo pleito.
+
+A instituição financeira tratou com menoscabo a situação aflitiva imposta ao autor, impondo-lhe agruras para solucionar as indevidas movimentações.
+
+Procedimentos que deveriam ser simples e objetivos foram prolongados e infligiram angústia desnecessária ao autor, gerando dano moral.
+
+Definida a existência do dano, no que tange ao valor da indenização, ela não pode ser insignificante nem, tampouco, excessiva a ponto de perder seu caráter inibitório ou tornar-se fonte de enriquecimento.
+
+A indenização compensatória de dano moral visa adoçar o ?ID? (como tal, em psicanálise, a parte mais superficial do eu, a qual, modificada, por influência direta do mundo exterior, por meio dos sentidos, e, em conseqüência, tornada consciente, tem por funções a comprovação da realidade e a aceitação, mediante seleção e controle, de parte dos desejos e exigências procedentes dos impulsos que emanam do id), proporcionando uma compensação pela injusta agressão sofrida.
+
+A função da reparação por danos morais visa não só compensar pelo sofrimento da vítima ou pelo indevido desgaste em sua honra e moral, mas também tem caráter pedagógico, demonstrando ao ofensor que a conduta praticada não mais deve se repetir, sendo economicamente interessante retificar o comportamento ilícito.
+
+Considerando a condição financeira dos autores, a conduta da ré e o poderio financeiro da ré, bem como as sucessivas falhas no serviço, arbitro indenização, atento tanto ao caráter pedagógico como também ao restrito âmbito de abalo da moral, embora inegavelmente existente, no valor de cinco mil reais, corrigidos a partir da presente data.
+
+Incidem juros moratórios de 1% ao mês a partir do evento danoso, na forma do artigo 398 do novo Código Civil e, ainda, súmula 54 do Superior Tribunal de Justiça.
+
+Ante o exposto, e por tudo o mais o que dos autos consta, JULGO PROCEDENTES os pedidos iniciais a fim de:
+a) declarar que o autor não realizou o empréstimo de R$530,00 ou os saques de R$500,00 e R$30,00, bem como os saques de R$100,00 e R$10,00, todos descritos na inicial;
+b) declarar inexistente os débitos relativos ao contrato de empréstimo, encargos ou juros a que tenham dado origem;
+c) condenar à ré ao pagamento de cinco mil reais em decorrência do dano moral sofrido pelo autor, incidindo correção monetária e juros moratórios na forma acima estabelecida.
+
+Não há sucumbência pelo acolhimento parcial do valor relativo aos danos morais, como preceitua a súmula 326 do Superior Tribunal de Justiça.
+
+A requerida arcará com as custas e despesas processuais, além de honorários advocatícios, arbitrados em 10% da condenação dada a simplicidade da causa e a celeridade de seu julgamento (artigo 20, §3º, do Código de Processo Civil).
+
+Itaquera, 22 de abril de 2013
+
+P.R.I.C. e oportunamente ao arquivo.
+
+Alessander Marcondes França Ramos
+  Juiz de Direito

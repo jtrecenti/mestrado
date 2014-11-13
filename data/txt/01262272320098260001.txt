@@ -1,0 +1,75 @@
+
+
+SENTENÇA
+
+Processo nº:0126227-23.2009.8.26.0001 - Procedimento Sumário
+Requerente:Alexandre Guerra Rodrigues Calçados EPP
+Requerido:Gola Comércio e Confecções Ltda. e outro
+
+
+Juiz(ª) de Direito Dr.(ª): Enéas Costa Garcia
+
+Vistos. 
+
+1. ALEXANDRE GUERRA RODRIGUES CALÇADOS EPP, qualificado nos autos, ingressou com ação contra P. LEANDRINI INDUSTRIA E COMERCIO DE CONFECÇÃO LTDA (GOLA COMÉRCIO E CONFECÇÕES LTDA) e BANCO DO BRASIL S/A., alegando, em síntese que: a) a partir de 2009, começou a receber indevidamente intimações de diversos cartórios de protestos relativas a duplicatas que lhe eram totalmente desconhecidas, títulos que foram emitidos e sacados pela ré, trocados ou encaminhados à cobrança, ou servindo ainda como caução, pelo Banco Nossa Caixa S/A; b) a princípio a ré, quando contatada, afirmou que teria ocorrido engano e providenciou cancelamento dos protestos, todavia, posteriormente surgiram novas cobranças e foram sacados outros títulos, os quais foram protestados; c)  nunca existiram outros protestos contra a autora, senão os provenientes da requerida; d) nada deve a ré, sendo que nunca efetuou pedidos e sequer recebeu qualquer mercadoria, inexistindo qualquer transação que originasse as faturas e duplicatas mercantis; e) o banco requerido foi incluído como litisconsorte em razão do endosso translativo dos títulos. 
+Pretende o acolhimento do pedido para declaração de inexigibilidade dos títulos, cancelamento dos protestos e condenação ao pagamento de indenização por danos morais. 
+
+2. Foi deferida tutela antecipada para suspensão dos efeitos do protesto (fls. 61).
+
+3. Os réus foram citados (fls. 158 e 271) e o Banco réu apresentou contestação (fls.165/194).
+Alegou em preliminar a ilegitimidade passiva, invocando sua condição de endossatário do título. No mérito aduz que: a) sua conduta não caracteriza ato ilícito; b) agiu no exercício regular de um direito, tomou as providências cabíveis para compelir a autora a saldar compromisso nascido do saque das duplicatas a ele endossadas pelo sacador; c) não há dever de indenizar; d) inexiste dano moral a ser indenizado.
+A co-ré foi citada e não apresentou contestação, tornando-se revel (fls. 273).
+ 
+4. Veio aos autos a réplica (fls. 278/284).
+É o relatório. 
+DECIDO.
+
+5. O feito comporta julgamento antecipado, sendo dispensável a produção de prova oral, nos termos do art. 330, I do Código de Processo Civil.
+
+6. Rejeito a preliminar de ilegitimidade passiva, pois a matéria deduzida diz respeito ao mérito, tanto que reiterada sob esta rubrica. 
+Ademais, envolvendo o pedido a declaração de inexistência do crédito de titularidade do requerido inafastável sua legitimidade passiva ad causam. 
+
+7. A ação é PROCEDENTE. 
+A duplicata é título causal, dependendo da demonstração do subjacente negócio mercantil, não tendo a requerida comprovado a regularidade do saque dos títulos. 
+Como se constata de fls. 21/35, os títulos foram protestados por indicação, o que significa que não houve exibição da duplicata física, não havendo, portanto, aceite. 
+Caberia ao sacador demonstrar a existência do negócio causal, com a nota fiscal e o comprovante de entrega da mercadoria, requisitos fundamentais para o protesto por indicação, o que não ocorreu. 
+Enfim, não se desincumbiu a ré do ônus que lhe competia de demonstrar a regularidade do saque das duplicatas, o que corrobora a alegação da autora de que os títulos são desprovidos de causa. 
+O Banco requerido, na condição de endossatário do título, também é responsável perante o autor. 
+A falta de causa para emissão da duplicata considera-se vício intrínseco do título e alcança também o endossatário. 
+Não se trata de invocação da inoponibilidade das exceções pessoais, pois ao endossatário cumpre verificar a higidez do título, especialmente pelo aceite. 
+Nesse sentido, precisa a lição do Ministro LUIS FELIPE SALOMÃO, no REsp nº 1.213.256/RS, que assentou a responsabilidade do endossatário em casos de duplicata sem causa, julgamento com Repercussão Geral no Superior Tribunal de Justiça:
+
+?(...) 2.3. Coisa bem distinta é a inexistência de contrato de venda mercantil ou de prestação de serviços subjacente ao título de crédito, portanto, emitido sem lastro, hipótese em que há caracterização da simulação ou emissão de duplicata "fria", prática, inclusive, considerada crime, nos termos do art. 172 do Código Penal.
+Nessa hipótese, a inexistência de lastro à emissão da duplicata pode ser observada pelo endossatário, porquanto, à falta de negócio jurídico subjacente, o título endossado está desprovido de "aceite" ou do comprovante da entrega da mercadoria/prestação do serviço.
+A bem da verdade, a inexistência de causa à emissão de duplicata não consubstancia verdadeiramente exceção pessoal, mas vício de natureza formal para emissão do título, que o acompanha, portanto, desde o nascedouro e não se convola com endossos sucessivos. (REQUIÃO, Rubens. Curso de direito comercial. 2º volume. São Paulo: Saraiva, 2010, p. 517/518).
+Vale dizer, a regra da inoponibilidade das exceções pessoais a terceiros de boa-fé, prevista em vários diplomas legais, como no Decreto n.º 2.044/1908, no Código Civil de 1916 e na Lei Uniforme de Genebra, não abarca os vícios de forma do título, extrínsecos ou intrínsecos, como a emissão de duplicata simulada, desvinculada de qualquer negócio jurídico e, ademais, sem aceite. (...)
+?(...)Assim, cuidando-se de vício formal no título, como a inexistência de causa apta a conferir lastro à emissão, eventual protesto levado a efeito pelo endossatário, ainda que de boa fé, deve ser considerado indevido.
+Nessa hipótese, também não poderá alegar o endossatário a exigência legal do protesto para viabilizar-lhe o direito de regresso contra o endossante, porquanto, ao receber título evidentemente desprovido de causa, assumiu os riscos da inadimplência.
+Ressalva-se apenas o direito de regresso do endossatário contra o endossante independentemente do protesto.(...)?
+
+ Este Recurso com Repercussão Geral deu ensejo à Súmula nº 475 do Superior Tribunal de Justiça: ?Responde pelos danos decorrentes de protesto indevido o endossatário que recebe por endosso translativo título de crédito contendo vício formal extrínseco ou intrínseco, ficando ressalvado seu direito de regresso contra os endossantes e avalistas.?
+Como se vê, as teses suscitadas pelo requerido já foram rechaçadas pela jurisprudência, sendo reconhecida sua responsabilidade. 
+O dano moral decorre do indevido protesto, dano in re ipsa, dispensando comprovação de outras consequências. 
+A indevida restrição de crédito, por si só, caracteriza dano moral, independentemente de outras consequências. 
+Desnecessária a produção de prova da existência do dano. ?Ampliado, porém o conceito de ?abalo de crédito?, para compreender também as suas projeções na esfera subjetiva dos direitos da personalidade do indivíduo, já então, e contrariamente ao decidido por alguma jurisprudência, a existência do dano moral não reclama rigorosa demonstração probatória.? (YUSSEF SAID CAHALI, Dano moral, p. 361).
+Como salientou o Ministro Castro Filho: ?Cabe ainda ressaltar que, em casos que tais, faz-se desnecessária a prova do prejuízo, que é presumido, uma vez que o dano moral decorre da própria inclusão indevida do nome do autor no cadastro de inadimplentes.? (STJ ? AgRg no Ag. nº 470538/SC  - Rel. Min. Castro Filho ? j. 6/11/03)
+No mesmo sentido: Resp. nº 389.879/MG  - Rel. Min. Sálvio de Figueiredo Teixeira; Resp. nº 332.622/RJ - Rel. Min. César Asfor Rocha; Resp. nº 285.854/PB - Rel. Min. Carlos Alberto Menezes Direito; Resp. nº 51.158/ES - Rel. Min. Ruy Rosado de Aguiar. 
+Passo a fixar a indenização. 
+Considerando a gravidade da conduta, as consequências do fato e grau de culpa, fixo a indenização em R$ 10.000,00, o que se aproxima de 15 salários. 
+Incide correção monetária desde a sentença (Súmula 362 do STJ) e juros de mora, à taxa legal, desde a data do primeiro protesto, conforme a Súmula 54 do Superior Tribunal de Justiça. 
+
+8. Diante do exposto, JULGO PROCEDENTE o pedido para:
+a) declarar a nulidade dos títulos indicados às fls. 6/7, bem como reconhecer a inexigibilidade dos débitos e nulidade dos protestos;
+b) tornar definitiva a tutela concedida para cancelamento dos protestos e restrições de crédito, respondendo os réus pelas custas de protesto perante o Cartório respectivo, oficiando-se; 
+c) condenar os requeridos, solidariamente, ao pagamento de indenização de dano moral, arbitrada em R$ 10.000,00, com correção monetária desde a sentença (Súmula 362 do STJ) e juros de mora, à taxa legal, desde a data do primeiro protesto.
+ Condeno os requeridos ao pagamento de custas, despesas processuais e honorários advocatícios, que arbitro em 15% do valor da condenação.
+
+P. R. I
+
+   São Paulo, 17 de abril de 2013.
+
+
+ ENÉAS COSTA GARCIA
+        JUIZ DE DIREITO
+
+         (assinatura digital)

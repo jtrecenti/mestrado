@@ -1,0 +1,38 @@
+
+
+SENTENÇA
+
+Processo nº:0001009-97.2014.8.26.0004 - Procedimento do Juizado Especial Cível
+Requerente:José Aparecido Rodrigues de Oliveira
+Requerido:Banco Santander Brasil S/A
+
+
+Juiz(a) de Direito: Dr(a). Fernando Henrique Azevedo
+
+
+Vistos.
+Dispensado o relatório.
+Fundamento.
+
+Em que pese a matéria tratar de questão de direito e de fato, as provas para o deslinde do feito são eminentemente documentais, sendo dispensável a prova testemunhal, assim, julgo o feito no estado em que se encontra, nos termos do art. 330, inc. I do CPC.
+O réu não noticiou qualquer problema que tenha envolvido a parte autora durante o tempo em que manteve sua conta, aspecto relevante, principalmente considerando que não se pode exigir da parte autora a comprovação de fato negativo, ou seja, provar que não realizou as compras e os saques, e que não cedeu o cartão a terceiros ou não observou o necessário sigilo com relação à senha.
+Sob esse aspecto, é ônus do réu, por exemplo, comprovar que: 1) a parte autora, em outras oportunidades, valeu-se do serviço nos locais em que ocorreu o saque objeto do pedido; 2) demonstrar os saques anteriores, a fim de identificar uma conduta padrão da parte autora. Porém, prova alguma foi produzida nesse sentido.
+Trago a colação a jurisprudência do Superior Tribunal de Justiça:
+        Processo. REsp 727843 / SP. RECURSO ESPECIAL. 2005/0031192-71. Relator(a). Ministra NANCY ANDRIGHI (1118). Órgão Julgador. T3 - TERCEIRA TURMA. Data do Julgamento. 15/12/2005. Data da Publicação/Fonte. DJ 01/02/2006 p. 553.  RDDP vol. 40 p. 145. Ementa. Direito processual civil. Ação de indenização. Saques sucessivos em conta corrente. Negativa de autoria do correntista. Inversão do ônus da prova. - É plenamente viável a inversão do ônus da prova (art. 333, II do CPC) na ocorrência de saques indevidos de contas-correntes, competindo ao banco (réu da ação de indenização) o ônus de provar os fatos impeditivos, modificativos ou extintivos do direito do autor. - Incumbe ao banco demonstrar, por meios idôneos, a inexistência ou impossibilidade de fraude, tendo em vista a notoriedade do reconhecimento da possibilidade de violação do sistema eletrônico de saque por meio de cartão bancário e/ou senha. - Se foi o cliente que retirou o dinheiro, compete ao banco estar munido de instrumentos tecnológicos seguros para provar de forma inegável tal ocorrência. Recurso especial parcialmente conhecido, mas não provido.
+ O réu, da mesma forma que outros bancos, não possui sistema de segurança inexpugnável, capaz de afastar por completo a possibilidade da descoberta da senha da parte autora, até porque instituições financeiras dependem de recursos humanos, não havendo como considerar seus funcionários absolutamente impermeáveis à desonestidade e, ao contrário, verdadeiramente presumir que se trata invariavelmente de aventura a propositura de ação por correntista questionando saques indevidos.
+Vêm a talho a recente súmula 479 do STJ: As instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias.
+ Portanto, considerando o ônus de prova, vê-se que procede de inexigibilidade do débito e de reembolso da quantia indevidamente sacada.
+Melhor sorte não resta ao autor quanto ao pedido de dano moral, eis que a sua conta já estava negativa quando ocorreram os saques (fls. 10.
+No mais, foi concedida tutela inibitória (fls. 13) que garantia que o nome do autor não fosse negativado.
+Trago a colação as seguintes jurisprudências: 
+                             Apelação 7239294800. Relator(a): Graciella Salzman. Comarca: São Paulo. Órgão julgador: 24ª Câmara de Direito Privado. Data do julgamento: 13/06/2008. Data de registro: 01/07/2008. Ementa: DECLARATÓRIOA DE INEGIXIBILIDADE DE DÉBITO - DANOS MORAIS E MATERIAIS - CARTÃO DE CRÉDITO - . SAQUES INDEVIDOS Responsabilidade efetiva e objetiva do Banco apelado - Falha do serviço bancário. Ônus que competia ao réu, por se tratar de relação de consumo amparada pelo Código de Defesa do Consumidor (art. 6o, inciso VII, da Lei n° 8.078/90). DANO MATERIAL - Valor correspondente ao sacado indevidamente,, com a declaração de inexistência da divida. DANO MORAL - INOCORRÊNCIA - Meros, aborrecimentos não são indenizáveis - Dano moral inocorrente - Recurso parcialmente provido', para julgar procedente em parte a ação, com' declaração de inexistência da dívida e condenação da apelada ao pagamento dos danos materiais, devidamente comprovados, considerada a sucumbência recíproca. 
+ 0008083-83.2008.8.19.0207 (2009.001.49112) - APELACAO - 2ª Ementa DES. MARCO AURELIO FROES - Julgamento: 20/10/2009 - NONA CAMARA CIVEL AGRAVO REGIMENTAL. APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA POR DANOS MORAIS. SAQUES INDEVIDOS NA CONTA POUPANÇA DA AUTORA. DANO MORAL INEXISTENTE. Mero aborrecimento que não enseja direito à reparação por dano moral, não havendo demonstração de ocorrência de situação extraordinária ou mais grave, que atente à dignidade da parte. Manutenção da sentença.Correta a decisão de fls. 97/100.DESPROVIMENTO DO AGRAVO REGIMENTAL.
+Assim, excepcionalmente, não vislumbro dano moral, sem embargo de reconhecer que houve aborrecimento.
+Diante o exposto, JULGO PARCIALMENTE PROCEDENTES os pedidos, para:
+1) condenar o réu ao reembolso da quantia de R$ 4.910,00, atualizada monetariamente a partir dos saques (fls. 10) e acrescida de juros desde a citação;
+2) declarar a inexigibilidade dos valores referentes as compras (fls. 09), no valor de R$ 6.107,86 e demais encargos;
+3) determinar que o requerido se abstenha de incluir o nome do autor, referente aos encargos declarados inexigíveis, sob pena de multa no valor de 3x o valor negativado.
+ Julgo improcedente o pedido de dano moral.
+Deixo de impor a condenação ao pagamento de honorários advocatícios, custas e despesas processuais, em virtude da Lei n. 9.099/95, arts. 54 e 55
+P.R.I.
+São Paulo, 09 de abril de 2014.

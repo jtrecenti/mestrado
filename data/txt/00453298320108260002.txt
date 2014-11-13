@@ -1,0 +1,107 @@
+
+
+SENTENÇA
+Processo nº:0045329-83.2010.8.26.0002
+Classe ? Assunto:Procedimento Ordinário - Liminar 
+Requerente:Claudio Fernando Czarnobai
+Requerido:Vivo Celular e outro
+
+
+
+VISTOS.
+
+
+CLAUDIO FERNANDO CZARNOBAI ajuizou ação cautelar para cancelamento de inscrição no Serasa e SCPC e exibição de documentos, convertida em ação declaratória de inexistência de relação jurídica cumulada com pedido de indenização por danos morais, em face de VIVO S/A e TIM CELULAR S/A, alegando que teve seu nome lançado nos cadastros de inadimplentes do Serasa e do SCPC. Conta que nunca celebrou os contratos cujo descumprimento legitimaria a negativação do seu nome. Sustenta que seus documentos foram utilizados de modo ilícito e sem a sua anuência, sendo vítima de uma ação criminosa. Mesmo alertadas, as corrés não se mostraram dispostas a solucionar o problema extrajudicialmente. Diante disso, pleiteia o autor: a) a antecipação da tutela, a fim de que seu nome seja retirado dos referidos cadastros de devedores; b) a exclusão definitiva de seu nome do rol de maus pagadores; c) a condenação das rés ao pagamento de indenização por danos morais em numerário ser arbitrado em sentença; d) a condenação das requeridas ao pagamento de custas, despesas processuais e honorários advocatícios. 
+
+O despacho de fls. 38/39 deferiu a tutela antecipada, expedindo-se ofícios para o Serasa (fl. 40) e para o SCPC (fl. 41). 
+
+A ré Tim Celular S/A ofereceu contestação (fls. 57/66), afirmando que tomou as cautelas de praxe quando da celebração do contrato, não tendo condições de detectar que se tratava de um falsário. Sustenta que também foi vítima e que não pode ser responsabilizada por fato de terceiro, dada a excludente prevista no artigo 14, § 3º, inciso II, do Código de Defesa do Consumidor (CDC). Assim, pugna pela improcedência total da demanda ou, subsidiariamente, pela fixação do quantum indenizatório em valor razoável, para não gerar enriquecimento ilícito ao autor. 
+
+A ré Vivo S/A também apresentou contestação (fls. 80/94). Argúe como preliminar a falta de interesse processual, dizendo que nunca lançou o nome do autor em rol de inadimplentes. No mérito, alega que o demandante não provou a ocorrência de danos morais, passando por mero aborrecimento. Dessarte, pede a extinção do processo sem resolução do mérito ou, em caráter subsidiário, a total improcedência da demanda, condenando-se o autor ao pagamento de custas, despesas processuais e honorários advocatícios.
+
+O requerente não ofertou réplica (fl. 103). 
+
+É o relatório do essencial.
+
+DECIDO.
+
+A causa comporta imediato julgamento, dispensando a produção de outras provas, nos termos do artigo 330, inciso I, do Código de Processo Civil (CPC). 
+
+A preliminar suscitada pela ré Vivo S/A se confunde com o mérito, sendo com ele analisada. 
+
+Passo ao exame do mérito.
+
+O regime jurídico consumerista é aplicável ao caso, visto que, apesar de o autor não se encaixar no conceito de consumidor standard previsto no artigo 2º, caput, do CDC, ele foi vítima de fato do serviço das rés, de tal arte que é considerado consumidor por equiparação, nos termos do artigo 17 dessa lei. 
+
+O artigo 6º, inciso VIII, do CDC consagra a inversão do ônus da prova como um dos direitos básicos do consumidor, desde que preenchido um destes requisitos alternativos: verossimilhança das alegações ou hipossuficiência do consumidor, consoante as regras ordinárias de experiência. 
+
+No caso concreto, verifica-se que as alegações do autor são factíveis, pois exemplificam prática comum (e reprochável) de as empresas não tomarem as necessárias cautelas referentes à identidade dos potenciais clientes quando da contratação, assumindo o risco de um terceiro de má-fé utilizar dados alheios, levando a cobranças indevidas e, até mesmo, ao lançamento do nome de alguém no rol de maus pagadores. Sobremais, o demandante trouxe aos autos diversos documentos que dão credibilidade às suas alegações (fls. 13/18 e 29/36). 
+
+Reforçando a justificativa para se inverter o onus probandi, rememora-se que o autor encontra-se em situação de hipossuficiência em relação às rés. Enquanto estas são grandes companhias, com pessoal e equipamentos para assegurar o bom desenvolvimento de suas atividades empresariais (o que, diga-se de passo, é perfeitamente legítimo), o demandante é um engenheiro (fl. 2), não tendo, portanto, todo esse aparato, nem poder econômico semelhante ao das partes contrárias.
+
+Como corolário do explanado no parágrafo precedente e do que consta no próprio artigo 333, inciso II, do CPC, dessume-se que cabia às rés provar a existência de contrato entre elas e o autor, o que não ocorreu. Sendo essas provas documentos pré-constituídos, operou-se a preclusão do direito de trazê-las ao processo, nos termos do artigo 396 do CPC. Logo, prevalece o alegado pelo autor no sentido de que nunca celebrou contrato com as rés e, por conseguinte, a inscrição de seu nome em cadastro de inadimplentes foi feita por elas ao arrepio da ordem jurídica. 
+
+Não procede a invocação da culpa exclusiva de terceiro como forma de a ré Tim Celular S/A se eximir da responsabilidade objetiva consagrada no artigo 14, caput, do CDC. Apesar de o § 3º, inciso II, in fine arrolar essa modalidade de excludente do dever de indenizar, no caso em comento, não há que se falar em fato exclusivo de terceiro, algo totalmente externo ao serviço da empresa e que, por isso, teria o condão de romper o nexo causal. Ao facilitar a contratação, não se acautelando contra falsários, a ré assume os bônus (e.g., aumento do número de contratos e, por conseguinte, do lucro) e os ônus (v.g., risco de fraudes com documentos alheios), de modo que se trata de um caso fortuito interno, ou seja, de algo relacionado com a atividade da ré. Nesse sentido é a lição de Sergio Cavalieri Filho (Programa de direito do consumidor. São Paulo: Atlas, 2008, p. 256, grifos no original):  
+
+"O fortuito interno, assim entendido o fato imprevisível e, por isso, inevitável ocorrido no momento da fabricação do produto ou da realização do serviço, não exclui a responsabilidade do fornecedor porque faz parte da sua atividade, liga-se aos riscos do empreendimento, submetendo-se à noção geral de defeito de concepção do produto ou de formulação do serviço. Vale dizer, se o defeito ocorreu antes da introdução do produto no mercado de consumo ou durante a prestação do serviço, não importa saber o motivo que determinou o defeito; o fornecedor é sempre responsável pelas suas conseqüências, ainda que decorrente de fato imprevisível e inevitável."
+
+Preleciona Maria Helena Diniz (Curso de direito civil brasileiro, v. 7: responsabilidade civil. 23. ed. reformulada. São Paulo: Saraiva, 2009, p. 93): 
+
+"O dano moral, ensina-nos Zannoni, não é a dor, a angústia, o desgosto, a aflição espiritual, a humilhação, o complexo que sofre a vítima do evento danoso, pois estes estados de espírito constituem o conteúdo, ou melhor, a conseqüência do dano. A dor que experimentam os pais pela morte violenta do filho, o padecimento ou complexo de quem suporta um dano estético, a humilhação de quem foi publicamente injuriado são estados de espírito contingentes e variáveis em cada caso, pois cada pessoa sente a seu modo. O direito não repara qualquer padecimento, dor ou aflição, mas aqueles que forem decorrentes da privação de um bem jurídico sobre o qual a vítima teria interesse reconhecido juridicamente."
+
+Para complementar tal ensinança, tendo em vista a solução do caso concreto, são trazidos à colação os seguintes julgados do Tribunal de Justiça do Estado de São Paulo (TJSP):
+
+"APELAÇÃO
+- Interposição, pela parte vencida, antes da oposição de embargos de declaração pela parte vencedora - Embargos integralmente rejeitados - Reiteração do apelo - Desnecessidade:
+- Se os embargos de declaração opostos pela parte vencedora são integralmente rejeitados, a parte vencida não está obrigada a reiterar as razões de sua apelação quando esta tiver sido interposta anteriormente à oposição daquela irresignação.
+"DANO MORAL
+- Inclusão indevida do nome do consumidor nos cadastros de restrição de crédito - Indenização - Cabimento - Danos presumidos na espécie: 
+- A indevida inclusão do nome do consumidor nos cadastros de restrição de crédito gera, por si só, o dever de indenizar por danos morais, que são presumidos na espécie.
+"DANO MORAL
+- Fixação que deve servir como repreensão do ato ilícito - Enriquecimento indevido da parte prejudicada - Impossibilidade:
+- A fixação de indenização por danos morais deve servir como repreensão do ato ilícito sem que, todavia, transforme-se em fonte de enriquecimento indevido da parte prejudicada.
+"AGRAVO RETIDO NÃO PROVIDO. APELAÇÃO PARCIALMENTE PROVIDA."
+(TJSP, 24ª  Câmara de Direito Privado,  Apelação nº 9132241-38/2007, Rel. Des. Nelson Jorge Júnior, Comarca de Campinas, j. 4/8/2011, grifos no original). 
+
+?Reparação de danos morais - Inclusão indevida do nome do autor em cadastro de consumidores inadimplentes - Empresa que realiza operações comerciais com terceira pessoa, em nome do autor - Conduta culposa caracterizada - Dever de indenizar - Desnecessidade de comprovação do dano moral - Responsabilidade objetiva que diz com o ramo do negócio - Redução do quantum de forma a atender critérios jurisprudenciais - Recurso parcialmente provido.?
+(TJSP, 4ª Câmara de Direito Privado, Apelação nº 0104998-78.2007.8.26.0000, Rel. Des. Fábio Quadros,   Comarca de São José do Rio Preto, j. 4/8/2011). 
+
+Com fulcro nessas lições, é lícito concluir que o autor não sofreu mero dissabor, contratempo da vida cotidiana, acontecimento sem importância jurídica, e sim um dano à sua honra, a um bem tutelado como direito fundamental (artigo 5º, inciso X, da Constituição Federal). Demais disso, uma vez comprovada a indevida inclusão do nome do consumidor em cadastro de maus pagadores, surge a obrigação de se reparar os danos morais, independentemente da análise subjetiva do sentimento do ofendido ou da produção de outras provas. 
+
+Como se nota, o dano moral se concretiza no no átimo seguinte à negativação ilegítima do nome, de sorte que a permanência maior ou menor é irrelevante para que se configure o dever de indenizar. Consequentemente, é descabida a preliminar arguida pela ré Vivo S/A, porque o autor juntou certidão expedida em 22/3/2010 (fl. 16) que confirma a existência de registro de débito em aberto com a Telemig Celular S/A, companhia incorporada pela Vivo, o que implica em sucessão em todos os direitos e obrigações, consoante artigo 227 da Lei 6.404/1976. Assim, as telas de fls. 99/102 em nada beneficiam a requerida Vivo, pois mostram a situação cadastral do requerente em 7/4/2011, meses após o cumprimento da tutela antecipada (fls. 50 e 52). Por fim, cai a lanço consignar que a intervenção do Poder Judiciário mostrou-se necessária, porque, sem ela, o demandante não teria conseguido sustar a negativação indevida, uma vez que as tentativas de solução do problema com ambas as demandadas restaram infrutíferas. 
+
+Pelo que se expôs, conclui-se que restam preenchidos os requisitos ensejadores da responsabilidade objetiva por fato do serviço, previstos no artigo 14, caput, do CDC, quais sejam, conduta, dano (aqui, extrapatrimonial) e nexo de causalidade entre aquela e este. 
+
+Por derradeiro, não pairando mais dúvidas sobre a existência do dever de reparar o dano, é chegado o momento de se fixar o valor da indenização, de modo que ela seja idônea ao cumprimento destas duas funções:
+
+"a) penal, constituindo uma sanção imposta ao ofensor, visando a diminuição de seu patrimônio, pela indenização paga ao ofendido, visto que o bem jurídico da pessoa ? integridade física, moral e intelectual ? não poderá ser violado impunemente, subtraindo-se o seu ofensor às conseqüências de seu ato por não serem reparáveis; e b) satisfatória ou compensatória, pois como dano moral constitui um menoscabo a interesses jurídicos extrapatrimoniais, provocando sentimentos que não têm preço, a reparação pecuniária visa proporcionar ao prejudicado uma satisfação que atenue a ofensa causada." 
+(DINIZ, Maria Helena. Op. cit., p. 109, grifos no original). 
+
+No caso, revelando-se significativas ambas as  funções e considerando todas as peculiaridades narradas, cada ré deverá pagar ao autor uma indenização por danos morais no valor de R$ 8.175,00, montante que, na data de hoje (24 de outubro de 2011), corresponde a 15 salários mínimos (ex vi do artigo 1º, caput, da Lei 12.382/2011), resultando a indenização (singela) em R$ 16.350,00.
+
+Ante o exposto, JULGO PROCEDENTE a demanda, para: 
+1) declarar a inexistência:
+
+1.1) da relação jurídica entre o autor e a ré Vivo S/A, oriunda do contrato nº 179854590, anulando-se a cobrança de qualquer valor relacionado a este pacto (principal e acessórios), em especial a cifra de R$ 94,95, que chegou a constar no cadastro do SCPC (fl. 16); 
+
+1.2.) da relação jurídica entre o autor e a ré Tim Celular S/A, oriunda do contrato nº 358063773, anulando-se a cobrança de qualquer valor relacionado a este pacto (principal e acessórios), em especial a cifra de R$ 117,47, que chegou a constar no cadastro do SCPC (fl. 16);
+
+2) determinar a exclusão do nome do autor dos cadastros de inadimplentes do Serasa e do SCPC, tornando definitiva a tutela antecipada e ordenando-se a expedição de ofícios para essas entidades; 
+
+3) condenar cada uma das rés ao pagamento de indenização por danos morais no valor de R$ 8.175,00, totalizando R$ 16.350,00, acrescido de correção monetária (desde a presente data, 24 de outubro de 2011) e de juros de mora de 1% ao mês (desde a citação).
+
+Em razão da sucumbência, arcarão as requeridas com o pagamento das custas e despesas processuais atualizadas, acrescidas de honorários advocatícios arbitrados em 12% do valor da indenização fixada (abrangendo principal, juros e correção monetária), nos termos do artigo 23 do CPC. 
+
+Ficam as rés intimadas a cumprir os respectivos pagamentos em dinheiro ordenados nesta sentença, no prazo de 15 dias contados da data em que a condenação se tornar exigível, em primeiro ou segundo grau de jurisdição, independentemente de outras e novas intimações, sob pena de incidência de multa processual de 10%, na forma do artigo 475-J do CPC. 
+
+A taxa judiciária incidente na interposição de recurso de apelação será calculada com base no valor singelo da condenação total imposta, ou seja, R$ 16.350,00.
+
+P. R. I.
+
+São Paulo, 24 de outubro de 2011.
+
+
+
+ADRIANA BORGES DE CARVALHO
+   Juíza de Direito
+         (assinatura digital)

@@ -1,0 +1,61 @@
+
+
+SENTENÇA
+
+Processo nº:0007000-65.2011.8.26.0002 - Embargos À Execução
+Embargante:Construtora Incon Industrialização da Construção S/A, José Mendes Pereira e Rita Lazara Camargo Mendes Pereira
+Embargado:Banco Bradesco S/A
+
+
+
+Juiz(a) de Direito: Dr(A). Peter Eckschmiedt
+
+  VISTOS
+
+CONSTRUTORA INCON INDUSTRIALIZAÇÃO DA CONSTRUÇÃO S/A e outros opôs embargos à execução movida por BANCO BRADESCO S/A, alegando, em síntese, que firmaram contrato de abetura de crédito com garantia hipotecária para empreendimento imobiliário, sendo que alega a nulidade da execução por ser a dívida ilíquida, nulidade da penhora ante o Enunciado 308 do STJ, e no mérito sustenta a cumulação de encargos indevida pela cobrança de comissão de permanência, multa de 10% e juros moratórios. Sustenta ainda abusividade na contratação e nulidade da fiança prestada pelos sócios pela novação.
+
+Com a inicial, vieram documentos (fls. 14/23 e 29/117). 
+
+O embargado foi citado e impugnou os embargos (fls. 132/148).
+
+É o relatório.  Fundamento e decido.
+
+A causa permite o julgamente direto do mérito,
+independente de outras provas, pois as matérias tratadas nos autos são exclusivamente de direito, estando devidamente esclarecidas pelos documentos que instruem a ação.
+
+A dívida excutida não é ilíquida, pois o contrato prevê claramente os encargos, de modo que sua apuração depende exclusivamente de cálculos aritiméticos. Não há que se falar em excesso de garantia, pois não é vedado ao agente financeiro exigir mais de uma cautela para conceder crédito de mais de quatro milhões de reais. 
+
+As preliminares do embargado também devem ser afastadas. A inicial não é inepta, pois explicita sua causa de pedir e pedido, permitindo o processamento da lide e ao embargado exercer o contraditório. Haver ou não exibição incidental de documentos é matéria atinente ao mérito da demanda. 
+
+No mérito, os embargos são parcialmente procedentes. Com efeito, deve-se ressaltar que não estamos diante de uma relação de consumo, não sendo aplicáveis as restrições do CDC ao caso, pois os embargantes não eram destinatários finais do crédito tomado. Nesse sentido:
+
+A jurisprudência do STJ se encontra consolidada no sentido de que a determinação da qualidade de consumidor deve, em regra, ser feita mediante aplicação da teoria finalista, que, numa exegese restritiva do art. 2º do CDC, considera destinatário final tão somente o destinatário fático e econômico do bem ou serviço, seja ele pessoa física ou jurídica. 2. Pela teoria finalista, fica excluído da proteção do CDC o consumo intermediário, assim entendido como aquele cujo produto retorna para as cadeias de produção e distribuição, compondo o custo (e, portanto, o preço final) de um novo bem ou serviço. Vale dizer, só pode ser considerado consumidor, para fins de tutela pela Lei nº 8.078/90, aquele que exaure a função econômica do bem ou serviço, excluindo-o de forma definitiva do mercado de consumo. (...) 6. Hipótese em que revendedora de veículos reclama indenização por danos materiais derivados de defeito em suas linhas telefônicas, tornando inócuo o investimento em anúncios publicitários, dada a impossibilidade de atender ligações de potenciais clientes. A contratação do serviço de telefonia não caracteriza relação de consumo tutelável pelo CDC, pois o referido serviço compõe a cadeia produtiva da empresa, sendo essencial à consecução do seu negócio. Também não se verifica nenhuma vulnerabilidade apta a equipar a empresa à condição de consumidora frente à prestadora do serviço de telefonia. Ainda assim, mediante aplicação do direito à espécie, nos termos do art. 257 do RISTJ, fica mantida a condenação imposta a título de danos materiais, à luz dos arts. 186 e 927 do CC/02 e tendo em vista a conclusão das instâncias ordinárias quanto à existência de culpa da fornecedora pelo defeito apresentado nas linhas telefônicas e a relação direta deste defeito com os prejuízos suportados pela revendedora de veículos. 7. Recurso especial a que se nega provimento. (Recurso Especial nº 1195642/RJ (2010/0094391-6), 3ª Turma do STJ, Rel. Nancy Andrighi. j. 13.11.2012, unânime, DJe 21.11.2012).
+
+Assim, incabível limitar-se a multa moratória a 2%, pois tal percentual apenas vem previsto no CDC. A Súmula 308 do STJ não tem aplicação ao caso concreto, pois somente os adquirentes do imóvel hipotecado podem arguir tal ineficácia.
+
+A discussão dos embargos deve se limitar à unidade 51, objeto da execução intentada pelo embargado. Nas suas alegações o embargante afirma que a cobrança de comissão de permanência é abusiva, mas há permitindo tal prática a Súmula 294, STJ (fls. 05). Quanto à alegação de que os juros moratórios somente podem incidir desde a citação, nada mais equivocado, pois o vencimento de dívida líquida em seu termos já induz o devedor em mora (art. 397, CC). 
+
+A alegação de que o cálculo do saldo devedor inclui juros remuneratórios cobrados de forma composta não indicou a cláusula contratual alusiva a sua estipulação, de modo que não há nem mesmo como conhecer desta matéria. Tampouco indicou o embargante cláusula que permita cobrança de juros moratórios acima de 12% ao ano.
+
+A fiança prestada pelos sócios foi devidamente estendida às unidades comercializadas, pela cláusula 33ª do contrato entre as partes, de modo que não há que se falar em ilegitimidade passiva de José Mendes Pereira ou Rita Lazara Camargo Mendes Pereira. 
+
+Os embargos procedem apenas em um ponto: o fato de que no período de inadimplência a cláusula 23ª do contrato determina a incidência de comissão de permanência mais juros de mora e multa. O embargado expressamente admitiu efetuar tal cobrança (fls. 145). Tal cumulação de encargos vem sendo reiteradamente reconhecida como abusiva pelo Superior Tribunal de Justiça. Nesse sentido:
+
+É admissível a cobrança de comissão de permanência - tão somente no período de inadimplência - calculada pela taxa média de mercado apurada pelo Banco Central do Brasil, limitada, contudo, à taxa do contrato, sendo vedada, entretanto, a sua cumulação com juros remuneratórios, correção monetária, juros moratórios ou multa contratual. Constatada, no caso, a cobrança de juros moratórios, afasta-se a incidência da comissão de permanência. 3. Agravo regimental não provido, com aplicação de multa. (AgRg no Recurso Especial nº 1299383/RS (2011/0309562-0), 4ª Turma do STJ, Rel. Luis Felipe Salomão. j. 21.08.2012, unânime, DJe 29.08.2012).
+
+Assim, o saldo devedor deverá ser recalculado para excluir os juros de mora e multa do período de inadimplência, sendo devido neste período somente a comissão de permanência.
+
+Ante o exposto e por tudo mais que dos autos consta, JULGO PARCIALMENTE PROCEDENTES  os embargos, com apreciação do mérito, nos moldes do artigo 269, inciso I, do Código de Processo Civil, e o faço para determinar o recálculo dos encargos da execução excluindo-se juros de mora e multa durante o período de inadimplência.
+
+Pela sucumbência, cada parte o embargado arcará com metade das custas e honorários que fixo em 10% do valor em que sucumbiu, compensando-se os respectivos montantes conforme art. 21, CPC.
+
+Por derradeiro, para evitar a costumeira oposição de embargos declaratórios voltados ao prequestionamento, tenho por ventilados, neste grau de jurisdição, todos os dispositivos legais e constitucionais citados pela autora e pela ré. 
+
+Vale lembrar que a função do julgador é decidir a lide e apontar, direta e objetivamente, os fundamentos que, para tal, lhe foram suficientes; não havendo necessidade de apreciar todos os argumentos deduzidos pelas partes, um a um, ao contrário do que sucede com os peritos judiciais, que respondem individualmente a cada um dos quesitos ofertados nos autos. Sobre o tema, confira-se a jurisprudência (STJ, EDcl no REsp nº 497.941/RS, Rel. Min. Franciulli Netto, publicado em 5/5/2004; STJ, EDcl no AgRg no Ag nº 522.074/RJ, Rel. Min. Denise Arruda, publicado em 25/10/2004).
+
+P. R. I.C.
+De Caieiras para São Paulo, 09 de agosto de 2.013. 
+
+
+
+PETER ECKSCHMIEDT

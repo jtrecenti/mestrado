@@ -1,0 +1,63 @@
+
+
+SENTENÇA
+
+Processo nº:0206889-65.2009.8.26.0100
+Classe - AssuntoProcedimento Ordinário
+Requerente:Jbs S/A
+Requerido:Dhl Express Brasil Ltda
+
+Juiz(a) de Direito: Dr(a). Sang Duk Kim
+
+
+Vistos etc.                                                                           
+JBS S/A ajuizou a presente ação de indenização por danos materiais em face de DHL EXPRESS BRASIL LTDA alegando em síntese que: a) em razão de suas atividades, possuía contrato de serviços de logística com a ré para remessa e entrega de documentação relativa às suas transações internacionais, b) parte de uma documentação não foi recebida pela instituição bancária francesa ? responsável por guardá-la e liberá-la somente com o pagamento do cliente ? entre agosto e setembro de 2008, a qual representava a quantia de US$ 1.073.944,59 (um milhão, setenta e três mil, novecentos e quarenta e quatro dólares e cinquenta nove centavos de dólar); c) questionou a requerida acerca desses fatos, porém não obteve resposta; d) tempos depois, foi informada de que os endereços de entrega foram alterados por ?solicitação de terceiro?, da qual não participou e/ou autorizou; e) deve ser aplicada a legislação consumerista e a inversão do ônus da prova ao caso em questão. 
+Por tais razões, pleiteou a condenação da ré a indenizá-la em R$ 2.002.201,71, bem como a arcar com o ônus da sucumbência.    
+Com a inicial, vieram os documentos de fls. 26/241.
+Citada (fls. 244), a ré ofereceu contestação aduzindo: a) a autora não pode ser considerada como consumidora, pois não é destinatária final dos serviços que lhe foram prestados; b) não se deve inverter o ônus da prova, porque não há verossimilhança da alegação nem hipossuficiência da parte; c) as afirmações da requerente não condizem com a realidade, pois dos quatro documentos que estavam sob sua responsabilidade, entregou um no destino inicialmente acordado e os demais em outro lugar devido à alteração solicitada por ela; d) a modificação do local foi requerida por meio de mensagens eletrônicas para que efetuasse o transporte para outra empresa que não o banco onde foi deixado o primeiro documento, qual seja: empresa ?Sarl Globe Alliance?; e) as referidas mensagens detinham todos os elementos caracterizadores da empresa-autora, além de mencionar especificamente o número dos documentos a serem entregues, informações que somente esta conhecia; f) a empresa em que foi entregue a papelada era a compradora das mercadorias em razão da qual foi emitida aquela; g) não foi informada sobre a natureza das coisas que transportou, o que caracteriza má-fé da requerente, porque dentre suas atividades não se encontra o transporte de bens valiosos; h) não há prova do dano alegado.
+Requereu, então, seja a ação julgada totalmente improcedente, condenando-se o requerente nos consectários legais e, sucessivamente, em caso de condenação, seja essa fixada em valor nos termos da Convenção de Varsóvia e do contrato.
+Com a contestação, foram juntados os documentos de fls. 285/312.
+Houve réplica.
+Houve audiência de instrução e julgamento, ocasião em que se tomou o depoimento de uma testemunha da ré e outra comum a ambas as partes (fls. 400).
+A requerida interpôs agravo na forma retida (fls. 428/431).
+As partes apresentaram tempestivamente suas razões finais.
+É o relatório.
+FUNDAMENTO e DECIDO. 
+O feito encontra-se apto a avançar à fase decisória, uma vez que devidamente instruído com provas documental e oral. Assim, nos termos do artigo 456, do Código de Processo Civil, passo a decidir.
+Inicialmente, afasto os pleitos de aplicação da legislação consumerista e da inversão do ônus da prova, vez que a requerente não pode ser considerada consumidora nos termos legais e doutrinários: a uma porque contratou os serviços da requerida para implementar a sua atividade negocial, ou seja, o contrato com a ré era um meio para se alcançar um proveito econômico diretamente ligado à sua atividade negocial; a duas porque a qualificação de consumidor e, em especial, a inversão do ônus da prova, requerem a identificação da hipossuficiência de uma das partes da relação de consumo, o que, por certo, não se vê no caso em questão, porque se tratam de multinacionais nas áreas de alimentos e logística com grande poderio e capacidade econômica e jurídica, afastando-se, indubitavelmente, qualquer possibilidade de reconhecer-se vulnerabilidade de uma perante a outra.
+No mérito propriamente dito, a ação procede em parte.
+A controvérsia advém do fato de a autora ter contratado a ré para entregar alguns documentos a um banco francês, o qual seria responsável pela sua guarda até que o cliente daquela efetuasse o pagamento pelas mercadorias (carnes), ocasião em que entregaria a este tal documentação para que pudesse efetuar a liberação dos alimentos no porto.
+Ocorre que os produtos foram retirados do porto pela empresa-cliente sem o devido pagamento.
+A requerente aduz que a entrega dos documentos não foi feita à instituição bancária francesa, que os reteria até a liquidação do débito pela compradora.
+De seu turno, a requerida afirma que o endereço originalmente informado foi alterado pela autora e/ou seus prepostos para outro local, tendo de tudo ciência, vez que foi informada através de mensagem eletrônica (?e-mail?) manejando tal ordem (fls. 287).
+Alega, ainda, a ré, que o número do conhecimento do transporte (?Shipment Air Waybill ? AWB?) deveria ser mantido em segredo, pois possibilita a alteração do local de destino da encomenda, conforme atestaram as testemunhas (fls. 401/402).
+Em que pese tal necessidade de manutenção em sigilo, em nenhum momento comprovou-se que a autora tinha ciência deste requisito. 
+Isso fica claro através do modelo de contrato apresentado que sequer menciona tal fato. Ora, se tal número é de tamanha relevância, a sua menção no contrato era totalmente necessária, de preferência com certo destaque, o que por certo não se vê (fls. 301/306).
+Além disso, do ?e-mail? que ?alterou? o local da entrega (fls. 287) não consta que tenha sido enviado à ré, tendo tal mensagem como remetente, a autora, e como destinatária, a empresa adquirente de suas mercadorias.
+Como, então, que a requerida recebeu essa mensagem?
+A única resposta plausível provém do fato de que a compradora dos produtos enviou-lhe cópia da mesma solicitando a mudança da destinação, pois sabia o número do conhecimento de transporte (?AWB?) que lhe foi enviado pela requerente (por desconhecer a sua necessidade de sigilo e por comprometimento com a cliente para que pudesse rastrear a entrega dos papéis e efetuar o seu pagamento) e, ao receber a documentação, compareceu diretamente na estação portuária e procedeu à liberação das mercadorias (afinal, constava em suas mãos a documentação autorizadora que, frise-se, somente seria liberada pela instituição bancária francesa contra pagamento, para depois repassá-lo à autora).
+Corroborando todo o acima exposto a própria declaração da requerente no sentido de que fora a sua cliente quem procedeu à alteração sem sua autorização (fls. 292 e fls. 455, § 3°).
+É evidente a falha na prestação do serviço por parte da ré, não se podendo limitar a indenização ao quantum estatuído no contrato, pois, além da abusividade, a responsabilidade é total da requerida seja por não chamar a atenção para o sigilo do número do conhecimento que se fazia necessário, seja por possuir um sistema frágil que permite a alteração dos locais de entrega sem efetiva comprovação junto ao remetente.
+Nesse sentido é a regra estatuída pelo Direito pátrio, porque preleciona que até o momento da entrega, pode o remetente ? tão e somente! ? desistir da entrega, pedir a devolução da coisa ou ordenar que seja entregue noutro local (artigo 748 do Código Civil).
+ De outra banda, o dano encontra-se delineado na ausência de adimplemento da adquirente dos produtos da autora; porém a reparação não pode dar-se na forma tal qual postulada (total do valor da transação com a empresa freguesa), pois o crédito para com esta ainda existe, devendo-se, então, fixar a quantia em montante que abarcaria as custas pela execução do crédito no estrangeiro.
+Se assim não o for, propiciará o enriquecimento ilícito de ambas as partes; a autora por poder cobrar o crédito que não lhe foi pago pela sua cliente e a ré por, incúria na prestação de seus serviços, ter ocasionado todo o transtorno ora debatido em razão da entrega de documentos em local não solicitado/permitido pela requerente. 
+Nessa toada, somente se pode pautar o valor com base nas despesas que sobreviriam na execução de uma ação que tramitasse em nosso Judiciário, por ausência de melhores critérios para propiciar a devida quantificação.
+Com base nessas premissas, fixo como montante devido a título de indenização a percentagem de 20% (vinte por cento) sobre o total do valor postulado (que, arredondado, totaliza R$ 400.440,00), uma vez que ele se encontra em patamar suficiente a abranger as custas, despesas, emolumentos e honorários advocatícios comumente despendidos em uma execução forçada de crédito.
+Por estas razões e pelo que mais consta dos autos e nos termos do artigo 269, I, do Código de Processo Civil, JULGO PARCIALMENTE PROCEDENTE A AÇÃO, condenando-se a ré a pagar à autora a quantia de R$ 400.440,00, a ser corrigida monetariamente e acrescida de juros legais a contar da citação.
+Em razão da sucumbência recíproca, cada parte arcará com 50% das custas e despesas processuais, compensando-se a verba honorária.
+P.R.I.
+
+São Paulo,  17 de janeiro de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA
+
+
+RECEBIMENTO
+Aosde                 de 2013, recebi estes autos em cartório. Eu, __________ , Escrevente, subscrevi.
+
+
+CERTIDÃO-PUBLICAÇÃO
+Certifico e dou fé que o r. despacho supra será disponibilizado no Diário da Justiça Eletrônico em ____/____/2013. Considera-se data da publicação o primeiro dia útil subseqüente à data acima mencionada.                            São Paulo, ____/____/2013. 
+                          Eu, ______________, escrevente, subscrevi.

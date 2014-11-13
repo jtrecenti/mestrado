@@ -1,0 +1,61 @@
+
+
+DESPACHO
+
+Processo nº:0112427-14.2012.8.26.0100
+Classe ? Assunto:Procedimento Ordinário - Marca
+Requerente:Rosetta Stone Ltd e outro
+Requerido:Cesar Cota do Alamo
+
+
+
+
+Juiz(a) de Direito: Dr(a). Fernanda Helena Benevides Dias Naufel
+
+
+
+
+
+Vistos,
+
+
+
+
+
+ROSETTA STONE LTDA e ROSETTA STONE ENSINO DE LÍNGUAS LTDA, qualificadas na inicial, ajuizaram ação de abstenção de uso de marca, com pedido de antecipação de tutela, em face de CESAR COTA DO ALAMO, sustentando, em suma, que o réu registrou a marca de propriedade das autoras como seu nome de domínio na internet. Assim, requereu, em tutela antecipada, que a Ré se abstenha de usar a marca ROSETTA STONE. No mérito, pleiteou a confirmação da tutela e a determinação da transferência da titularidade do nome de domínio para a segunda autora, bem como a indenização por perdas e danos (fls. 02/30). Juntou os documentos de fls. 31/200.
+O pedido de tutela antecipada foi indeferido (fls. 214), tendo sido interposto agravo de instrumento em face de tal decisão (fls. 219/232) , ao qual se negou provimento (fls. 257/261). 
+Citado, o réu contestou a ação, sustentando, em síntese, que a expressão ?Rosetta Stone? se refere a um artefato histórico de extrema importância, não sendo a marca das rés utilizada de forma inédita. Aduziu, ainda, que o domínio foi devidamente registrado na internet e que seu website tem a finalidade de estabelecer entre os usuários debate sobre origem e evolução da linguagem, motivo pelo qual o tema é condizente com o domínio ?rosettastone.com.br'. Alegou, por fim, que as autoras não podem requerer o nome de domínio em questão, pois não se trata de uma marca de alto renome. Requereu a improcedência do pedido (fls. 264/281). Juntou os documentos de fls. 283/313.
+Houve réplica (fls. 315/334).
+As partes especificaram provas às fls. 336 e 340.
+
+É o relatório.
+Fundamento e Decido.
+O pedido comporta julgamento antecipado, na forma do artigo 330, inciso I, do Código de Processo Civil, eis que se trata de matéria unicamente de direito.
+O caso deve ser analisado sob a perspectiva das leis de proteção à propriedade industrial e concorrência desleal. Não se pode olvidar que a proteção da marca tem por objetivo primordial a repressão à concorrência desleal, buscando evitar a possibilidade de confusão do consumidor que adquire determinado produto ou serviço pensando ser outro, bem como o locupletamento com esforço alheio. É isso, aliás, o que dá caráter social à proteção da marca.
+Não obstante, no caso em questão, não se verifica violação ao direito marcário das autoras, uma vez que vige o princípio da especialidade e a proteção do uso da marca se estende tão somente à classe respectiva em que estiver depositada, no caso, ?fornecedora de softwares e aplicativos para o aprendizado de idiomas?, a qual não se confunde com a atividade do website do réu, que sequer tem caráter comercial.
+
+É este o entendimento jurisprudencial:
+
+NOME EMPRESARIAL - AÇÃO COMINATÓRIA ? Uso de nome empresarial e marca - Empresas que contém em seu nome empresarial o vocábulo comum ?rumo? - Atuação em ramos de atividade distintos -Inexistência de risco de confusão no mercado - Aplicação do princípio da especialidade Ação improcedente - Ônus da sucumbência a cargo da autora, que deu causa à instauração do processo - Sentença mantida Recurso desprovido. (Apelação nº 0119795-11.2011.8.26.0100 - São Paulo - VOTO Nº 2/9)
+
+É mister ressaltar, ainda, que marca e nome de domínio, embora igualmente merecedores de proteção jurídica, são institutos distintos. A primeira identifica e distingue o produto e o serviço, e o segundo é a ferramenta utilizada com a finalidade de localizar e identificar conjuntos de computadores na internet, ou seja, é um endereço utilizado na rede mundial de computadores, para identificar e situar alguém. Não obstante, tais institutos não são totalmente dissociáveis, porquanto a natural associação da marca ao nome de domínio é passível de causar confusão no público consumidor, desde que haja coincidência do campo de atuação, o que não se verifica in casu.
+
+Afirma MARLON TOMAZETTE que:
+
+ ?O titular de uma marca só terá o direito de impedir o uso da sua marca em determinado nome de domínio se tal representar uma prática desleal, eivada de má-fé. Havendo o uso pacífico não há o que se impedir. Apenas quando o nome de domínio gerar confusão e desvio de clientela é que haverá uma prática ilegal, capaz de ensejar a tomada de medidas pelo titular da marca? (?Curso de Direito Empresarial?, Ed. Atlas, 3ª ed., 2.011, vol. 1, p. 171).
+
+
+Assim, ainda, que as autoras tenham a propriedade da marca ?Rosetta Stone? registrada junto ao INPI, tal registro não pode impedir que outro, pertencente a ramo de atividade distinto, detenha a titularidade da expressão no âmbito da Internet. 
+O requerido obteve o registro do domínio ?rosetta.com.br? como endereço de site para discussão sobre a origem e evolução das linguagens, não podendo seu proveito ser obstaculizado, uma vez que se trata de website sem fins lucrativos, cujo objetivo é apenas trazer um debate sobre o tema, não se confundindo com a atividade das autoras.
+Nesse sentido, o entendimento do Tribunal de Justiça do Estado de São Paulo:
+
+?Apelação Cível. Abstenção do uso de marca na internet por quem primeiro satisfez as exigências para registro do domínio eletrônico. Inadmissibilidade. Muito embora haja prevalência do registro obtido no INPI, autorizando a proteção da marca por via judicial, inclusive ao uso em domínio eletrônico, certo que a proteção se restringe ao estreito âmbito da classe de produtos e serviços em que estiver registrada a marca. Concorrência desleal não configurada. Prevalência do primeiro registro realizado. Sentença mantida. Recurso improvido? (Apelação nº 9075676-54.2007.8.26.0000).
+
+Sendo assim, o uso do nome de domínio pelo réu não tem o condão de acarretar prejuízos aos titulares e a terceiros, motivo pelo qual a ação é improcedente.
+Ante o exposto e o mais que dos autos consta, JULGO IMPROCEDENTE o pedido inicial, nos termos do artigo 269, inciso I, do Código de Processo Civil. 
+Por força da sucumbência, arcará a parte autora vencida com as custas e despesas do processo e verba honorária advocatícia, que arbitro em 10% do valor da causa, corrigidos da propositura.
+P.R.I.
+São Paulo, 03 de julho de 2013.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

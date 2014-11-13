@@ -1,0 +1,75 @@
+
+
+SENTENÇA
+
+Processo nº:0013684-88.2011.8.26.0007
+Classe ? Assunto:Procedimento do Juizado Especial Cível - Inclusão Indevida em Cadastro de Inadimplentes
+Requerente:Danimar Peças para Autos e Caminhões Ltda ME
+Requerido:Banco do Brasil S/A e outro
+
+
+C O N C L U S Ã O
+
+Em 14 de dezembro de 2011, faço estes autos conclusos à MMª Juíza de Direito, Drª Luciana Antunes Ribeiro Crocomo.
+Eu, ____________, Escr. subscr.
+
+
+Juiz(a) de Direito: Dr(a). Luciana Antunes Ribeiro Crocomo
+
+
+Vistos.
+
+
+Danimar Peças para Autos e Caminhões Ltda Me ajuizou ação declaratória de nulidade de contrato e inexigibilidade de débito c.c. obrigação de fazer e indenização por danos morais contra Banco do Brasil S/A e Giovanni Faleiros Naves Me, aduzindo que teve conhecimento do protesto de um título de R$ 3.500,00; que não celebrou transação alguma com os requeridos e que comunicou os fatos a autoridade policial.
+No mais, requereu a procedência da ação para declaração de nulidade do contrato e inexigibilidade do débito, cancelamento do protesto e condenação dos requeridos no pagamento de indenização por danos morais.
+A inicial veio instruída com documentos (fls. 04/15).
+O pedido liminar foi acolhido (fls. 19).
+A audiência de conciliação restou infrutífera (fls. 34).
+A requerida Giovanni apresentou contestação, aludindo preliminar de ilegitimidade de parte. No mérito, mencionou que desconhecia que a duplicata não foi emitida pelo autor; que recebeu a duplicata da empresa Soleil; que chegou a entrar em contato telefônico com a empresa autora, sendo confirmada a veracidade do documento; que a autora litiga de má-fé; que foi vítima de golpe e que não há danos morais indenizáveis. Requereu a improcedência da ação. Formulou pedido contraposto para condenação da autora no pagamento de indenização por danos morais em valor a ser arbitrado e materiais no importe de R$ 1.500,00 (fls. 65/74). Juntou documentos (fls. 75/81).
+O requerido Banco do Brasil S/A apresentou contestação, aludindo preliminar de ilegitimidade de parte. No mérito, mencionou que a correquerida assinou contrato de desconto de títulos; que ela emitiu as duplicatas e assumiu a responsabilidade pelos títulos entregues a desconto; que não se opõe ao cancelamento do título; que não deve ser condenado nas verbas de sucumbência e que não há danos morais indenizáveis. Requereu a improcedência da ação (fls. 119/126). Juntou documentos (fls. 127/144).
+
+É o relatório.
+DECIDO.
+
+Afasto a preliminar de ilegitimidade de parte formulada pela requerida Giovanni, uma vez que ela foi a responsável pelo protesto do título.
+Caso vítima de fraude, deverá, em havendo condenação, mover ação de regresso contra a empresa cedente do crédito.
+Deve ser acolhida, no entanto, a preliminar de ilegitimidade de parte do requerido Banco do Brasil S/A.
+Afinal, recebeu ele o título questionado com endosso-mandato e não endosso translativo, conforme certidão de fls. 11.
+Vale dizer, na espécie, o banco atuou como mero portador da cambial guerreada, na condição de mandatário da sacadora do título por força de endosso, sendo, em tal circunstância, indevida sua inclusão no pólo passivo da demanda por não integrar a relação jurídico-material em exame, sob qualquer aspecto, não revelando, por conseguinte, a pertinência subjetiva a que se referia o saudoso mestre Buzaid.
+Como cediço, o endosso, em sua forma normal, transmite a propriedade do título, vinculando o endossante à obrigação cambial. O endosso-mandato, entretanto, não priva o titular dos seus direitos cambiais, mas apenas transfere ao mandatário ou procurador o exercício e conservação desses direitos.
+Assim, o endossatário-mandatário, de posse do título, mas sem a disponibilidade de seu valor, não atua em seu próprio nome, mas sim em nome do endossante-mandante.
+Neste sentido o seguinte julgado:
+
+Existência de endosso-mandato ao banco para simples cobrança. ? 'Banco é simples mandatário, não se apresenta como proprietário do título cambial. Somente a empresa sacadora deve responder pela indenização pleiteada e arcar com o ônus da sucumbência. Ilegitimidade passiva do banco reconhecida. Recurso provido nesse sentido' (1º TACSP ? 11ªC. ? Ap. 959.637-6-Rel. AntonioMarson - j.01.02.2001 - Bol. AASP 2.285/614, 14 a 20.10.2002).
+
+Portanto, não há sentido na manutenção da instituição financeira no pólo passivo.
+No mérito, a ação procede.
+Conforme certidão de protesto de fls. 11, a requerida Giovanni figura como endossante e favorecida no título protestado.
+Logo, responde pela existência do crédito. 
+Ora, sendo a duplicata um títuloeminentemente causal, deve corresponder a uma compra evenda de mercadorias ou prestação de serviços e só podeser emitida caso presentes um destes negócios jurídicos.
+Desta forma, para legitimar a emissão da duplicata, cabia à requerida comprovar o negócio jurídico subjacente, seja com ela celebrado, seja com terceiro.
+Deveria a requerida verificar, porocasião do recebimento do título, a regularidade formal e material da duplicata mercantil, sobpena de conscientemente estar recebendo uma duplicata "fria" e suportar asconsequências de sua negligência e imprudência. Não bastava simples ligação telefônica como pretende justificar. Fica afastada, assim, a alegação de boa-fé da requerida Giovanni. 
+Inexistindo comprovação, resta desautorizada a suaemissão e, por consequência, a cobrança.
+Procedem os pedidos declaratórios e de obrigação de fazer.
+Quanto aos danos morais, entendo que eles estão plenamente caracterizados. Afinal, o protesto indevido de título cambial trouxe consequências patrimoniais danosas a autora, ofendendo sua honra objetiva.
+Neste sentido o seguinte julgado:
+
+RESPONSABILIDADE CIVIL - Dano moral - Pessoa jurídica -Admissibilidade - Instituição financeira que protesta indevidamente título cambial - Fato que acarreta consequências danosas de ordem patrimonial à empresa - Ofensa à honra objetiva caracterizada -Indenização devida.
+Ementa Oficial: - A honra objetiva da pessoa jurídica pode serofendida pelo protesto indevido de título cambial, cabendo indenizaçãopelo dano extrapatrimonial daí decorrente.
+Ementa da Redação: - No Brasil, está hoje assegurada constitucionalmente a indenizabilidade do dano moral à pessoa (art. 5º, X, da CF). O mesmo dano moral, de que pode ser vítima também a pessoa jurídica, é reparável através da ação de indenização, avaliado o prejuízo por arbitramento. (RT 727/123 - Rel. Min. Ruy Rosado de Aguiar - STJ; Idem: RT 747/221 - Rel. Min. Waldemar Zveiter - STJ).
+
+Atenta ao caráter compensatório e punitivo, à razoabilidade e à vedação do enriquecimento ilícito, arbitro a indenização pretendida em R$ 6.000,00.
+Em razão dos argumentos já dispostos, o pedido contraposto é improcede, assim como o pedido de aplicação das penalidades de litigância de má-fé.
+Ante o exposto e do mais que dos autos constam, JULGO PROCEDENTE a presente ação e assim o faço para:
+a) Declarar a nulidade da emissão da duplicata mercantil por indicação identificada na certidão de protesto de fls. 11;
+b) Declarar a inexigibilidade do débito representado pela duplicata mencionada;
+c) Determinar o cancelamento em definitivo do protesto;
+d) Condenar a requerida Giovanni Faleiros Naves Me no pagamento de indenização por danos morais de R$ 6.000,00, corrigida monetariamente da presente data e acrescida de juros de mora de 1% ao mês a contar da citação. Torno definitiva a liminar.
+Outrossim, JULGO EXTINTO o presente feito sem resolução de mérito, cf. art. 267, inc. VI, do CPC, em relação ao requerido Banco do Brasil S/A.
+E JULGO IMPROCEDENTE o pedido contraposto formulado pela requerida Giovanni Faleiros Naves Me.
+Indevido o pagamento de custas e despesas, cf. Lei n. 9.099/95.
+Oficie-se ao 10° Tabelião de Protestos de São Paulo determinando o cancelamento em definitivo do protesto da DMI n. STSA-16/11 emitida no valor de R$ 3.500,00 e com vencimento em 11.03.2011. Deverá a empresa autora retirar o ofício de Cartório e proceder ao devido encaminhamento, arcando com os emolumentos respectivos, e comprovando-se nos autos em 5 dias.
+
+P.R.I.C.
+
+São Paulo, 09 de janeiro de 2012.

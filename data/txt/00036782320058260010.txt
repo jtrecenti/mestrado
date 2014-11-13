@@ -1,0 +1,75 @@
+
+
+SENTENÇA
+
+                           C O N C L U S Ã O
+
+ Em 09 de fevereiro de 2012, faço estes autos conclusos ao MMº Juiz de Direito Dr. Ricardo Dal Pizzol, da 3ª Vara Cível do Fórum Regional do Ipiranga. Eu, Celina Batista de Moraes, Chefe de Seção Judiciário, digitei.
+
+
+
+Processo nº:0003678-23.2005.8.26.0010 - Monitória
+Requerente:Banco Safra S/A
+Requerido:Ailton Luiz Parra Ferrari, Alp Ferrari Automóveis Ltda, Marinha da Silva Alves Ferrari
+
+
+
+Vistos.
+
+BANCO SAFRA S/A ajuizou ?ação monitória? contra ALP FERRARI AUTOMÓVEIS LTDA, AILTON LUIZ PARRA FERRARI e MARINHA DA SILVA ALVES FERRARI. 
+Alega que os requeridos lhe devem a quantia de R$ 35.321,10, por conta do contrato descrito na inicial. 
+Em embargos (fls. 302/322), os requeridos alegaram que: ( i ) há cumulação indevida de correção monetária com comissão de permanência; ( ii ) há capitalização indevida de juros; ( iii ) a citação foi nula; ( iv ) há litigância de má-fé por parte do embargado, que deve inclusive ser condenado em danos morais; ( v ) os juros cobrados excedem os limites fixados na Constituição Federal e na lei de usura.
+Réplica às fls. 330/347. 
+É o Relatório.
+Passo a Fundamentar.
+1. Possível o julgamento antecipado da lide, pois não há necessidade de produção de outras provas. Saliento que não há necessidade de perícia contábil, pois os argumentos dos requeridos podem ser refutados em abstrato.
+2. A ação monitória deve ser julgada parcialmente procedente, conforme passo a expor. 
+2.1. Os embargantes alegaram, preliminarmente, nulidade da citação. Rejeito tal preliminar. Os embargantes sequer chegaram a expor as razões concretas da alegada nulidade de citação, limitando-se a fazer referências doutrinárias (vide fls. 308/312). Além disso, não vislumbro qualquer nulidade na citação efetuada, visto que atingiu sua finalidade (comunicar a existência da ação aos requeridos-embargantes). 
+2.2. Deixo de conhecer do pedido de indenização por dano moral formulado à fl. 314, por duas razões, fundamentalmente: ( i ) não está devidamente fundamentado, não sendo possível saber sequer qual teria sido a causa do suposto dano moral;    ( ii ) tal pedido não foi deduzido na melhor forma de direito, visto que pressuporia ação própria ou no mínimo reconvenção. 
+2.3. No mais, os embargos estão fundamentados em um suposto excesso de cobrança.
+Os requeridos, no entanto, sequer se deram ao trabalho de indicar, nos embargos, o valor que entendem correto. 
+Não apresentaram nenhum cálculo com os embargos para impugnar o cálculo apresentado pelo autor. 
+Isso, por si só, já seria razão suficiente para a rejeição dos embargos à monitória (art. 739-A, §5º, do CPC, por analogia). Nesse sentido, a jurisprudência do TJSP: 
+MONITÓRIA ? Embargos ? Alegação de excesso na cobrança ? Ausência de apresentação de cálculo segundo a perspectiva do embargante ? Hipótese ? Embargos julgados improcedentes ? Recurso improvido. (Apelação n. 1.008.165-9 ? Catanduva ? 11ª Câmara de Direito Privado ? Relator: Celso Lourenço Morgado ? 12.05.06 ? V.U. ? Voto n. 482)
+Ad argumentandum, passo a refutar cada um dos argumentos aduzidos pelos requeridos a título de "excesso de cobrança".
+2.3.1. Os embargantes alegam que os juros cobrados excedem os limites do art. 192, §3º, da CF, e da Lei de Usura.
+Trata-se de tese já superada. 
+Primeiramente, deve-se ter em mente que o art. 192, §3º, da CF, foi revogado pela EC 40/2003. 
+Além disso, a jurisprudência é uníssona no sentido de que a norma do art. 192, §3º, da CF, não era auto-aplicável. O STF editou, inclusive, uma súmula vinculante acerca do tema: ?A norma do §3º do artigo 192 da Constituição, revogada pela Emenda Constitucional nº 40/2003, que limitava a taxa de juros reais a 12% ao ano, tinha sua aplicação condicionada à edição de lei complementar (Súmula Vinculante nº 7)?.
+A jurisprudência também é pacífica no sentido de que não se aplicam às instituições financeiras os limites da Lei de Usura. Nesse sentido, a Súmula 596 do STF: ?As disposições do Decreto 22.626/33 não se aplicam às taxas de juros e aos encargos cobrados nas operações realizadas por instituições públicas ou privadas que integram o Sistema Financeiro Nacional?. 
+Segundo a jurisprudência mais recente do STJ, os juros pactuados em contrato bancário só são considerados abusivos quando excedem a taxa média do mercado para o período. Nesse sentido: ?Embora incidente o diploma consumerista nos contratos bancários, os juros pactuados em limite superior a 12% ao ano não são considerados abusivos, exceto quando comprovado que discrepantes em relação à taxa de mercado, após vencida a obrigação? (AgRG nos EDcl no Resp 604.470/RS, Min. Castro Filho). 
+No presente caso, os embargantes sequer chegaram a alegar, quanto menos comprovar, que a taxa pactuada no contrato excedia consideravelmente a taxa praticada no mercado nas mesmas circunstâncias (tipo de contrato; prazo para pagamento; grau de solvência do mutuário; praça de pagamento; etc.).
+Assim, não há qualquer reparo a ser feito no que diz respeito aos juros pactuados. 
+2.3.2. Os requeridos alegam que houve capitalização ilegal de juros. Sem razão, nesse ponto. 
+A jurisprudência do STJ é pacífica no sentido de que é possível a capitalização mensal de juros nos contratos bancários celebrados após a edição da MP 1.963-17/2000. Nesse sentido: 
+?Admite-se a capitalização mensal dos juros nos contratos bancários celebrados após à vigência da Medida Provisória nº 1.963-17/2000 (reeditada sob o nº 2.170/36)?. (AgRg no REsp 861699 / RS, Min. Nancy Andrighi)
+?A capitalização mensal dos juros é vedada em contrato de abertura de crédito, permitida a anual, salvo nos contratos posteriores a 31/3/2000, data da publicação da Medida Provisória nº 1.963-17, revigorada pela de nº 2.170-36 (DJ de 24/8/01), vigente nos termos do art. 2º da Emenda Constitucional nº 32/01 (DJ de 12/9/01)?. (Resp 697379/RS, Min. Carlos A. M. Direito)
+No caso, o contrato foi celebrado após a edição da MP 1.963-17/2000, sendo que contém previsão expressa possibilitando a capitalização de juros com periodicidade inferior a um ano.  Além disso, basta comparar a  taxa de juros mensal (item 4.01  fl. 15) com a taxa de juros anual (item 4.02  fl. 15) para se perceber que os juros não são calculados de forma simples (com capitalização anual), visto que a taxa anual não corresponde a 12 vezes o valor da taxa mensal. 
+Diante disso, conclui-se que a capitalização mensal de juros não foi indevida.
+2.3.3. Os embargantes alegam, por fim, que há cumulação indevida de correção monetária com comissão de permanência. 
+Em caso de inadimplemento, o contrato prevê a cobrança cumulada de comissão de permanência, juros moratórios e multa contratual (vide cláusulas 7ª e 8ª -  fl.16v). 
+Não há previsão no contrato, portanto, de cobrança cumulada de comissão de permanência e correção monetária, como levantado nos embargos. 
+Além disso, analisando os documentos de fls. 21 e 26/27, percebe-se que o autor-embargado não aplicou comissão de permanência no período de inadimplemento, limitando-se a cobrar juros moratórios de 1% ao mês, correção monetária pelo INPC e multa contratual. 
+Assim, considerando que, na prática, sequer foi aplicada comissão de permanência, não há qualquer reparo a ser feito nesse ponto.
+2.4. O pedido inicial merece reparo, no entanto, no que diz respeito à multa moratória, que foi pactuada em 10% sobre o valor do débito (vide cláusula 8ª, parágrafo terceiro  fl. 16v).
+O contrato foi celebrado após o advento da lei 9.298/96, que alterou o CDC para estabelecer que a multa por inadimplemento não pode exceder 2%. Nesse sentido:
+?Inadimplida a Cédula Rural Pignoratícia, admissível se torna a incidência de multa contratual, a teor do artigo 71 do Decreto-Lei n. 167/67. Contudo, tratando-se de relação de consumo e firmada a cédula após a entrada em vigor da Lei n. 9298/96, que alterou o artigo 52, § 1º do Código de Defesa do Consumidor, a multa deve ser reduzida de 10% para 2%.? (TJPR, Ap. 0372634-1, Rel. Jucimar Novochadlo)
+
+MULTA CONTRATUAL - Moratória - Cambial - Cédula de crédito rural - Incidência em caso de inadimplemento - Possibilidade, quando devidamente contratada - Redução do percentual à 2%, pois o título de crédito foi emitido após o advento da Lei n. 9.298/96 - (TJSP - Apelação n. 7.033.310-9 - Relator: Roberto Mac Cracken - 16.11.06)
+
+Nem se diga que o CDC não se aplica às instituições financeiras. O STJ já pacificou a matéria por meio da Súmula 297: ?O Código de Defesa do Consumidor é aplicável às instituições financeiras?. Logo, a multa contratual deve ser reduzida para 2%. 
+
+Assim, tomando por base os cálculos de fls. 25/26, aplicando multa de 2% ao invés de multa de 10%, conclui-se que o crédito do embargante, no momento da propositura da ação, correspondia a R$ 32.752,29 (R$ 32.110,09 [sub-total] + R$ 642,20 [multa de 2%]). 
+
+Ressalto que, apesar da questão da multa moratória não ter sido deduzida em embargos, nada impede que seja conhecida pelo magistrado em sentença, visto que se trata de questão de direito. 
+
+2.5. Nesses termos, rebatidos os argumentos expostos pelos requeridos nos embargos, porém corrigido o valor da multa moratória, conclui-se que é caso de julgar parcialmente procedente a ação, convertendo o mandado inicial em executivo pelo valor de R$ 32.752,29, com os respectivos acréscimos legais. 
+DECIDO.
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a ação monitória, constituindo de pleno direito o título executivo judicial pelo valor de R$ 32.752,29 (trinta e dois mil, setecentos e cinquenta e dois reais e vinte e nove centavos), acrescido de correção monetária, conforme a Tabela Prática do TJSP, e de juros moratórios de 1% ao mês, desde a propositura da ação até o efetivo pagamento.
+Considerando que os requeridos-embargantes não cumpriram o determinado no despacho de fl. 348, indefiro o pedido de gratuidade processual. 
+Na forma do art. 21, parágrafo único, do CPC, considerando que o autor decaiu de parte mínima (o valor da condenação equivale a 92,72% do pedido inicial), condeno os requeridos ao pagamento das custas, despesas e honorários advocatícios, que fixo em 10% do valor da condenação. 
+Indefiro o pedido de condenação em litigância de má-fé, visto que não configurada nenhuma das hipóteses do art. 17 do CPC. 
+P.R.I.C.
+São Paulo, 09 de fevereiro de 2.011.
+
+RICARDO DAL PIZZOL - Juiz de Direito

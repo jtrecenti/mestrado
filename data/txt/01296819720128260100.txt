@@ -1,0 +1,101 @@
+
+
+SENTENÇA
+
+Processo nº:0129681-97.2012.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Material
+Requerente:Cna Insurance Company Limited
+Requerido:Tam Linhas Aéreas S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Vitor Frederico Kümpel
+
+
+
+
+Vistos.
+
+
+
+
+CNA INSURANCE COMPANY LIMITED moveu ação regressiva de ressarcimento de danos, pelo rito sumário, contra a TAM LINHAS AÉREAS. Na inicial (fls. 02/22) afirmou ser sub-rogada nos direitos de seu segurado JAS FORWARDING, agente de cargas (freight forwarder), que tem por agente, no Brasil, a empresa JAS DO BRASIL TRANSPORTS INTERNACIONAIS LTDA. Aduziu que a empresa Petrobrás S/A, estabelecida em Coari, no Estado do Amazonas, negociou com a empresa Petrobrás America  Inc, estabelecida em Houston, no Estado do Texas, a compra e embarque de diversas peças para turbina a gás, com peso bruto total de 102kg.  Afirmou que a importação tinha o valor total de US$ 1.166.121,73 (um milhão cento e sessenta e seis mil cento e vinte e um dólares americanos e setenta e três cents), incluindo transporte terrestre (inland freight) na origem e despesas de embalagem (packing), conforme fatura comercial datada em 25/02/2010 e listas de embarques emitidas pela Petrobrás e pelo agente de cargas, Jas Forwarding GmbH, na Alemanha, ponto de embarque das peças para o Brasil. Seguiu afirmando que as aludidas mercadorias foram entregues para a ré, no aeroporto de Frankfurt, na Alemanha, com destino à Manaus, via Guarulhos-SP. Alegou que o embarque era composto por um volume com peso de 102k e nove volumes com peso total de 99k, resultando no transporte de dez volumes com 201k. Alegou que os nove volumes não se referiam à carga destinada à Petrobrás, tratando-se de carga consolidada. Aduziu que ao chegar no aeroporto de Guarulhos, a INFRAERO pesou os volumes recebidos, e apontou o peso total de 199,5k e que ao chegar ao aeroporto de Manaus, foi constatado, pela mesma empresa pública, que os dez volumes pesavam 163k. Aduziu que em razão da diferença apresentada foi instaurado um procedimento administrativo de número 455 junto à ré, bem como foi requerida uma vistoria aduaneira à Receita Federal, sob o número 15224.000873/2010-45, concluindo-se, neste último procedimento, a responsabilidade da ré pelo extravio parcial e o consequente crédito tributário. Afirmou que, na condição de seguradora, indenizou o segurado no valor US$ 630.300,00 (seiscentos e trinta mil e trezentos dólares), e sub-rogou-se nos direitos decorrentes do sinistro. Requereu a aplicação das regras do Código de Defesa do Consumidor e o afastamento da indenização tarifada. Pediu a procedência da ação para o fim de condenar a ré na quantia de US$ 630.300,00 a título de ressarcimento da indenização paga pelo autor, sendo o pagamento fixado em dólares americanos, nos termos do Decreto-Lei nº 857/69 e sucessivamente a condenação tarifada, por quilo de carga avariada, equivalente a 39k. Juntou documentos (fls. 23/87 e 91/121).
+
+Diante do valor atribuído à causa, determinou-se o processamento do feito pelo rito ordinário (fls. 88).
+
+Houve resposta. Citada regularmente (fls. 123), a ré ofereceu contestação (fls. 125/144), na qual alegou que a pretensão do autor foi alcançada pela prescrição, nos termos do artigo 317 do Código Brasileiro de Aeronáutica, uma vez que não de aplicam as regras do Código de Defesa do Consumidor, dado inexistir relação de consumo. Aduziu que o último dia para a propositura da ação foi em 25/03/2012 e que a distribuição só ocorreu no dia 26/03/2012. No mérito, afirmou que o contratante dos serviços da ré foi a empresa JAS do Brasil, e que esta empresa não declarou no Master Air Waybill o valor para efeito de transporte no campo apropriado e tampouco efetuou o pagamento de um prêmio de seguro TAM (Valuation Charge)  para um seguro aeroporto/aeroporto e que de acordo com o artigo 262 do Código Brasileiro de Aeronáutica, a responsabilidade do transportador limita-se a 3 OTN's por quilo de mercadoria extraviada, salvo declaração especial do expedidor. Discorreu sobre a inaplicabilidade do Código de Defesa do Consumidor, pela ausência de relação de consumo entre a ré e a Petrobrás, e que esta não pode ser caracterizada como consumidora. Discorreu sobre a afirmação do autor acerca do recebimento de uma franquia, no valor de US$ 1.500 pagos pelo segurado e que deve ser subtraído de eventual condenação. Pediu a improcedência da ação. Juntou documentos (fls. 145/165 e 170/179).
+
+Réplica (fls. 183/187).
+
+As partes foram instadas a especificar provas a produzir (fls. 188). O autor e a ré requereram o pronto julgamento do feito e manifestaram  interesse na designação de audiência de conciliação (fls. 189-190 e 192).
+
+Conforme termo de fls. 194, as partes compareceram à audiência designada (fls. 193), porém não lograram conciliar-se.
+
+É o relatório.
+
+FUNDAMENTO e DECIDO.
+
+A ação é procedente.
+
+Trata-se de pedido de ressarcimento do valor indenizado pelo autor ao segurado, pelo extravio de mercadorias embarcadas no Estado do Texas, com destino ao Brasil.
+
+Inicialmente, afasto a alegada prescrição.
+
+Malgrado constar, como data da distribuição deste feito, o dia 25/03/2012, a autenticação mecânica constante de fls. 02, indica que o ingresso da petição inicial ocorreu em 23/03/2012, dentro do biênio previsto no artigo 317 do Código Brasileiro de Aeronáutica, assim, absolutamente tempestivo o ajuizamento da presente ação.
+
+No que toca ao mérito, a controvérsia limitou-se ao quantum indenizatório, uma vez que a ré não impugnou a alegação do autor acerca do extravio da mercadoria transportada, assim, diante dos limites postos pelas partes, resta apreciar apenas o montante a ser indenizado.
+
+De acordo com o artigo 732 do Código Civil: 
+
+?Aos contratos de transporte, em geral, são aplicáveis, quando couber, desde que não contrariem as disposições deste Código, os preceitos constantes da legislação especial e de tratados e convenções internacionais.? (grifei).
+
+O artigo 749 do Código Civil, por sua vez, estabelece que:
+
+?O transportador conduzirá a coisa ao seu destino, tomando todas as cautelas necessárias para mantê-la em bom estado e entregá-la no prazo ajustado ou previsto.?
+
+Não foi o que restou comprovado nestes autos,  uma vez que a mercadoria foi extraviada, sem que a ré trouxesse qualquer esclarecimento sobre o episódio, sendo inegável a sua culpa, uma vez que não adotou as cautelas necessárias para o transporte dos bens a ela confiados.
+
+Importa destacar que a ré, ao assumir o dever de transportar as mercadorias, assumiu os riscos decorrentes de sua atividade e responde por eventuais danos ou extravios, salvo se trouxer elementos aptos a afastar sua culpa, tais como a existência de uma força maior ou um caso fortuito.
+
+Por esta razão, deve ser reputada grave a culpa da ré, uma vez que é inadmissível que receba a mercadoria no Estado do Texas (fls. 153) e não a entregue incólume ao seu destino.
+O documento de fls. 161, emitido pelo Ministério da Fazenda não deixa dúvida acerca da sua responsabilidade, ao concluir que: 
+
+?Tendo em vista que o depositário ao armazenar a carga fez constar no sistema MANTRA o alerta de divergência de peso correspondente ao código ?A? no sistema, além dos códigos ?C? de amassado e ?F? de rasgado, conclui-se que houve extravio da mercadoria em questão antes de sua armazenagem, portanto sob responsabilidade do transportador.? 
+
+Assim, ficou caracterizada a grave deficiência do serviço prestado pela ré, que não demonstrou contar com estrutura de fiscalização do transporte das mercadorias confiadas sob sua guarda.
+
+Neste sentido, portanto, aplica-se o disposto no artigo 248 do Código Aeronáutico Brasileiro, verbis:
+
+?Art. 248. Os limites de indenização, previstos neste Capítulo, não se aplicam se for provado que o dano resultou de dolo ou culpa grave do transportador ou de seus prepostos.
+
+Portanto, uma vez caracterizada a gravidade da culpa da ré, conforme fundamentação supra, não há como limitar a indenização devida ao autor, que deverá ser integral, ex vi legis.
+
+Neste sentido, já decidiu a Corte Estadual Paulista, nos autos da Apelação nº 7269074-5, confira-se:
+
+?Demais, ainda que incidisse o Código Brasileiro da Aeronáutica, como pretende a apelada, seria o caso de indenização integral, por aplicação do disposto no seu artigo 248, que estabelece "Os limites de indenização, previstos neste Capitulo, não se aplicam se for provado que o dano resultou de dolo ou culpa grave do transportador ou seus prepostos " 
+ 
+A obrigação do transportador, vale lembrar, é de resultado, donde tem ele de transladar as coisas sob sua custódia, incólumes, até o seu destino O Código Civil/2002 é expresso sobre isso "Art 749 O transportador conduzirá a coisa ao seu destino, tomando todas as cautelas necessárias para mantê-la em bom estado e entregá-la no prazo ajustado ou previsto" 
+
+De tal sorte, se assim não faz, o transportador age com inegável culpa, que pode ser tributada grave, pois inadmissível que uma empresa de aviação não tenha mecanismos de controle e fiscalização suficientes para afastar fatos tão corriqueiros, como a subtração de mercadorias que estão sendo transportadas E a ré, e importante dizer, não conseguiu apresentar provas hábeis que pudessem afastar essa culpa, e nem, muito menos, de que o extravio se tenha dado por caso fortuito ou força maior.?
+
+Nesta linha de interpretação, não há como afastar a responsabilidade da ré pela integralidade dos danos suportados pelo autor.
+
+No que toca ao abatimento do valor decorrente da franquia, o autor esclarece no item ?10? de fls. 07, que já aplicou o desconto, uma vez que o montante indenizado foi de no valor de US$ 631.800,00, sendo certo que a importância perseguida nestes autos é US$ 630.300,00 já abatido o valor de  US$ 1500,00 decorrente da franquia.
+
+O pedido de condenação da ré em ressarcir o montante pago em moeda estrangeira também deve ser acolhido, ressalvando, porém, que a ré deverá efetuar o pagamento, convertendo-se o valor de US$ 630.300,00 em reais na data de seu efetivo pagamento. Nesse sentido o REsp 680.543: ?A jurisprudência do STJ entende que, em se tratando de obrigação constituída em moeda estrangeira, a sua conversão em moeda nacional deve ocorrer na data do efetivo pagamento e não em data pretérita?.
+
+Indefiro, por fim, o pedido de depósito do montante decorrente da condenação em conta corrente bancária no exterior, devendo a ré efetuar o depósito judicial, no momento oportuno, cabendo ao autor adotar as medidas cabíveis para a transferência do valor para o exterior, se assim pretender.
+
+Assim, a procedência é de rigor.
+
+Ante o exposto, JULGO PROCEDENTE a ação regressiva de ressarcimento de danos, pelo rito ordinário, que CNA INSURANCE COMPANY LIMITED moveu contra a TAM LINHAS AÉREAS e condeno a ré a ressarcir o valor  de US$ 630.300,00 que deverá ser convertido em reais, na data de seu efetivo pagamento, acrescido de juros desde a citação. Condeno a ré, ainda, no pagamento das custas e despesas processuais, além de honorários advocatícios que fixo em 10% sobre o valor da condenação. Extingo o feito nos termos do inciso I do artigo 269 do Código de Processo Civil.
+
+
+P. R. I. C.
+
+São Paulo, 26 de outubro de 2012.
+
+
+VITOR FREDERICO KÜMPEL
+          Juiz de Direito

@@ -1,0 +1,103 @@
+
+
+SENTENÇA
+
+Processo Físico nº:0047947-93.2013.8.26.0002
+Classe - AssuntoProcedimento Ordinário - Pagamento Indevido
+Requerente:Michele Oliveira Santana Santos
+Requerido:Groupon Serviços Digitais LTDA
+
+
+Justiça Gratuita
+
+Juiz(a) de Direito: Dr(a). Adriana Borges de Carvalho
+
+
+
+
+
+
+VISTOS.
+
+
+
+
+
+MICHELE OLIVEIRA SANTANA SANTOS ajuizou ação de restituição de indébito c/c indenização por danos morais em face de GROUPON SERVIÇOS DIGITAIS LTDA e ELETROELETRÔNICOS LTDA-ME. Constou na exordial, suscintamente, que em 15/09/2012 a autora realizou a compra de 2 celulares ?Smartphone LG?, conforme descrito na inicial. Declarou que o prazo de entrega dos produtos comprados seria de 30 dias, no entanto, além de tê-los recebido somente em 27/10/2012, os produtos não estavam de acordo com a compra realizada pela requerente. Salientou que seguindo orientação do corréu Groupon devolveu os produtos em 07/11/2012, porém até a data da propositura da demanda não recebeu os produtos que comprou. Desse modo, requereu a devolução dos valores pagos e a condenação das rés no pagamento de danos morais de R$ 37.990,00, sem prejuízo das verbas de sucumbência e honorários advocatícios. 
+
+Citada, o corréu Groupon apresentou contestação (fls. 55/83) sustentando preliminarmente ilegitimidade passiva, tendo em vista que apenas anuncia as ofertas trazidas pelos fornecedores dos produtos, não tendo nenhum vínculo entre as relações estabelecidas entres estes e os consumidores. No mérito, afirmou que sua função é interligar o consumidor às ofertas de produtos ou serviços fornecidos por comerciantes independentes, sendo destes terceiros a responsabilidade pelos danos originados aos consumidores. Aduziu a inexistência de nexo causal, assim como a impossibilidade de devolução em dobro do valor pago pela requerente. Por fim, impugnou os danos morais e seu valor, aguardando a improcedência do pedido. 
+
+Foi deferido o pedido de exclusão da Motta Eletroeletrônicos Ltda-ME do polo passivo (fl. 115).   
+
+Houve réplica a fls. 117/121.
+
+É o relatório.
+
+DECIDO.
+
+Conheço diretamente do pedido, com base no art. 330, inciso I, do Código de Processo Civil. O feito comporta julgamento antecipado, na medida em que a prova é essencialmente documental, sendo que ambas as partes já tiveram oportunidade de trazê-la aos autos, com a inicial e a contestação (art. 396, CPC).
+
+Por primeiro, cumpre salientar que a preliminar de ilegitimidade passiva confunde-se com o mérito, e passará a ser sopesada oportunamente. Passo a análise meritória.
+
+Observa-se dos autos que o requerido Groupon funciona como intermediador dos negócios jurídicos realizados por meio de seu site. Essa intermediação funciona do seguinte modo: o requerido disponibiliza em seu site a propaganda da empresa anunciante com descontos e recebe o valor do cliente; por meio desse recebimento, desconta sua comissão, e o valor remanescente é entregue à empresa anunciante. Desse modo, conclui-se que o requerido atua, em verdade, como fornecedor, já que atuou diretamente na comercialização do serviço.
+
+Nessa esteira, a medida de rigor que se impõe é a aplicação da legislação consumerista, em seu artigo 3º, que estabelece que: 
+
+?Fornecedor é toda pessoa física ou jurídica, pública ou privada, nacional ou estrangeira, bem como os entes despersonalizados, que desenvolvem atividades de produção, montagem, criação, construção, transformação, importação, exportação, distribuição ou comercialização de produtos ou prestação de serviços?. 
+
+Já o § 2º ao mesmo dispositivo legal assevera: 
+
+?Serviço é qualquer atividade fornecida no mercado de consumo, mediante remuneração, inclusive as de natureza bancária, financeira, de crédito e securitária, salvo as decorrentes das relações de caráter trabalhista?.
+
+Ante o reconhecimento do requerido como fornecedor, tem-se que este faz parte da mesma cadeia distributiva da empresa Motta Eletroeletrônicos Ltda-ME, sendo responsável pelo serviço que fora prestado.  Desse modo, por pertencerem à mesma cadeia, não há que se falar em ato de terceiro, terceiro é pessoa estranha à relação, o que, conforme previamente explanado, não ocorre no caso dos autos. 
+
+Além disso, o artigo 14 do Código de Defesa do Consumidor estabelece que:
+
+ ?O fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos?. 
+
+Da leitura deste artigo se extrai que a responsabilidade é objetiva, ou seja, para que o requerido se exima de sua responsabilidade deve comprovar que o serviço fora prestado, que o defeito é inexistente ou ainda comprovar a culpa exclusiva do consumidor ou de terceiro. Conforme outrora enfrentado, não há culpa de terceiro no presente caso eis que a empresa Motta Eletroeletrônicos Ltda-ME não é terceira à relação e também restou demonstrado que não houve culpa exclusiva do consumidor. Dessa forma, observa que o requerido não se desincumbiu desse ônus.
+
+Outrossim, a responsabilidade entre o réu e a empresa Motta é solidária, haja vista haver a concorrência de culpa entre os fornecedores integrantes da cadeia distributiva, sendo possível que a demanda ocorra em face de apenas uma das empresas que originou os danos à autora. Esta possibilidade existe como forma de facilitar o acesso do consumidor ao Poder Judiciário e a solução do litígio. 
+
+Compete ainda assinalar que ao requerido caberia o dever de cuidado e o zelo para que os serviços e mercadorias anunciados em seu site e por ele vendidos fossem efetivamente cumpridos e entregues. Isso porque, ao disponibilizar produtos em seu site e oferecer aos consumidores a possibilidade de adquiri-los com um valor menor, apanhou para si o dever de vigilância e de cuidado, com o intuito de não frustrar a expectativa de seus consumidores.
+
+Nesse sentido:
+
+?PRESTAÇÃO DE SERVIÇOS - AQUISIÇÃO DE PACOTE TURÍSTICO JUNTO A SITE DE COMPRA COLETIVA - LEGITIMIDADE PASSIVA DA AGÊNCIA E DA ADMINISTRADORA DO SÍTIO ELETRÔNICO - UTILIZAÇÃO DOS SERVIÇOS FRUSTRADA - RESPONSABILIDADE OBJETIVA E SOLIDÁRIA DE AMBAS AS RÉS - DEVOLUÇÃO DO VALOR PAGO EM DOBRO - DESCABIMENTO - DANO MORAL CONFIGURADO - PROCEDÊNCIA PARCIAL DO PEDIDO MANTIDA - Os danos oriundos da impossibilidade do consumidor em utilizar os pacotes turísticos adquiridos junto a site de compra coletiva devem ser ressarcidos, solidariamente, pela agência de viagens e pela administradora do sítio eletrônico, pois atuam na cadeia de fornecimento, enquadrando-se nos ditames do artigo 3º do Código de Defesa do Consumidor - Devida a condenação das rés ao pagamento de juros e correção monetária sobre o valor pago pelo demandante, no período entre o desembolso e a restituição, sob pena de enriquecimento sem causa das demandadas - A devolução da quantia paga pelo consumidor em dobro não tem cabimento, por não se tratar de cobrança de valor indevido - Suficientemente configurado o dano ao patrimônio imaterial do demandante, devida é a indenização por dano moral, a qual foi arbitrada em valor adequado ao caso concreto (equivalente a 14,75 salários mínimos vigentes à época da r. sentença) - Apelos improvidos.?(Tribunal de Justiça do Estado de São Paulo; 35ª Câmara de Direito Privado; Apelação nº 0108624-23.2012.8.26.0100; Relator: Des. José Malerbi; Comarca: São Paulo; d.j: 10.03.2014). 
+
+Posto isto, é certo que, incontroverso nos autos o não recebimento do produto pela autora, sendo de rigor a restituição dos valores pagos, devidamente comprovados nos autos (fls. 21/22), na forma simples.
+
+Pode-se entender os danos morais como as lesões sofridas por uma pessoa, atingindo certos aspectos de sua personalidade em razão de injusta investida de outrem, causando avaria em sua moralidade e afetividade, fazendo brotar sentimentos de constrangimentos, vexames, sensações negativas e de desespero, em suma: de injustiça. 
+
+A autora requereu a indenização por danos morais em R$ 37.990,00.
+
+É certo que a indenização da lesão a direitos não patrimoniais tem previsão constitucional (artigo 5º, incisos V e X, da Constituição Federal), devendo ser observado o caráter dúplice desta verba, quais sejam, o aspecto compensatório em relação à vítima (para minimizar sua dor) e o aspecto punitivo em relação ao réu? (com o escopo de, através da punição, ser coibida a reiteração de condutas semelhantes pelo causador do dano). 
+
+Por outro lado, é notório que a indenização por dano moral não pode levar o beneficiário a um enriquecimento desproporcional. O valor deve equivaler para este como um alento ao desconforto sentido.
+
+No que concerne ao dano moral, orienta a jurisprudência que:
+
+"A indenização por dano moral deve ser fixada em termos razoáveis, não se justificando que a reparação venha a constituir-se em enriquecimento indevido, devendo o arbitramento operar-se com moderação, proporcionalmente ao grau de culpa, ao porte empresarial das partes, às suas atividades comerciais e, ainda, ao valor do negócio. Há de orientar-se o juiz pelos critérios sugeridos pela doutrina e pela jurisprudência, com razoabilidade, valendo-se de sua experiência e do bom senso, atento à realidade da vida, notadamente à situação econômica atual e às peculiaridades de cada caso" (STJ - REsp 203.755-MG, Rel. Min. SÁLVIO DE FIGUEIREDO TEIXEIRA - RSTJ 121/408).
+
+Considerando todos os elementos acima apontados, entendo exacerbado o montante pretendido pela requerente, vislumbrando adequada a fixação, a título de reparação da dor moral, o valor de R$ 7.240,00 (equivalente a 10 salários mínimos vigentes no país). Esta cifra será corrigida monetariamente a contar da publicação desta sentença. Os juros moratórios serão de 1% ao mês, contados a partir da citação. 
+
+Ante o exposto, JULGO PROCEDENTE o pedido indenizatório formulado por MICHELLE OLIVEIRA SANTANA SANTOS em face GROUPON SERVIÇOS DIGITAIS LTDA, para condenar o réu:
+
+a) à restituição dos valores pagos pelo produto, trazidos à exordial (R$ 760,00), efetivamente desembolsados (fls. 21/22), devidamente corrigidos desde a data do desembolso;
+
+b) na reparação dos danos morais que fixo em R$ 7.240,00 montante este que terá atualização monetária a partir da publicação da presente decisão e computados juros moratórios de 1% (um por cento) a partir da citação.
+
+Em razão da sucumbência, considerando que a autora sucumbiu apenas no montante pretendido, arcará a ré com as custas e despesas processuais, além dos honorários advocatícios, que fixo em 15% sobre valor atualizado da condenação (Súmula 326-STJ).
+
+Após o trânsito em julgado, aguarde-se por 30 dias. Nada sendo requerido, arquivem-se os autos, com as cautelas de praxe.
+
+Para cálculo da taxa de preparo, considerar-se-á o valor histórico atribuído à causa.
+
+P.R.I. 
+
+São Paulo, 19 de maio de 2014.
+
+
+ADRIANA BORGES DE CARVALHO
+              Juíza de Direito
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

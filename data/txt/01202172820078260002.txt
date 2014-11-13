@@ -1,0 +1,42 @@
+
+
+SENTENÇA
+
+Processo nº:002.07.120217-4
+Classe - AssuntoProcedimento Ordinário - Assunto Principal do Processo >
+Requerente:Microsoft Corporation
+Requerido:Instrumentos Elétricos Engro Ltda
+
+
+
+Juiz(a) de Direito: Dr(a). Antonio Carlos Santoro Filho
+
+
+Vistos.
+
+Trata-se de ação de obrigação de não fazer c.c. indenização ajuizada por MICROSOFT CORPORATION em face de INSTRUMENTOS ELÉTRICOS ENGRO LTDA. 
+Alega-se na inicial, em síntese, que conforme produção antecipada de provas, a ré utiliza ilegalmente  programas de computador pertencentes à autora. Assim, em vista da violação ao direito de autor, requer que seja condenada a ré a abster-se de utilizar os programas pertencentes à autora, sem a devida licença, bem como ao pagamento de indenização pelos danos causados, o que deverá ser apurado em futura liquidação por arbitramento. 
+Citada, a ré ofertou a resposta de fls. 181/186, na qual, em preliminares, requereu a suspensão do processo até o julgamento da apelação interposta na produção antecipada de provas e a falta de caução. No mérito argumentou que a prova pericial é nula e que jamais se utilizou programas da autora sem licença. Aduziu, por fim, que não há pedido certo de indenização e requereu a improcedência da demanda. 
+Em réplica a autora refutou as alegações defensivas e reiterou as iniciais. 
+É o relatório. 
+Decido. 
+Versando a controvérsia sobre questão eminentemente técnica, que pode ser resolvida com a prova pericial ? antecipada ? já produzida, desnecessária a produção de outras provas em audiência ou a renovação da perícia. Assim, passo ao conhecimento direto do pedido. 
+As preliminares argüidas restaram superadas. 
+De fato, no que tange à caução a autora acabou por prestá-la, conforme carta de fiança de fls. 219. 
+Com relação ao recurso interposto na cautelar de produção antecipada de provas, restou improvido, de modo que inexiste fundamento para a suspensão do processo. 
+Afastadas as questões preliminares, no mérito a ação é procedente. 
+Assim é porque a prova pericial antecipada revelou, de forma inequívoca, que a ré utilizava programas produzidos pela autora sem a correspondente licença de uso. 
+De fato, após vistoriar todos os equipamentos instalados no estabelecimento da ré, asseverou o Sr. Perito: Este perito concorda que foram identificados programas instalados sem a apresentação da correspondente licença de uso. E, para especificar os itens utilizados indevidamente, elaborou tabela na qual constaram 07(sete) programas Windows XP Pro e 01(um) Windows 98 Std/SE/O&M sem licença. 
+Da prova pericial, portanto, depreende-se com absoluta segurança que a ré utilizava oito programas da autora sem possuir licença para tanto, o que caracteriza a violação de direito autoral. 
+A alegação da ré de que jamais utilizou programas da autora indevidamente não pode ser acolhida. 
+A uma porque tal alegação foi frontalmente contrariada pela prova pericial, conforme acima indicado. 
+A duas porque a perícia não sofreu impugnação alguma de caráter técnico, não tendo a ré oferecido qualquer justificativa razoável, apta a colocar em dúvida a conclusão pericial. 
+Logo, acolhida a prova pericial, que não padeceu de qualquer vício, impõe-se a procedência do pedido de obrigação de não fazer. 
+O pleito indenizatório também é procedente, pois a comercialização de programas e das respectivas licenças tem conteúdo econômico, de forma que a violação de tal direito representa perda patrimonial da autora, que deixou de auferir os rendimentos a que fazia jus. 
+Logo, deverá a ré indenizar a autora no valor correspondente à licença dos programas indevidamente utilizados, o que será apurado em futura liquidação. 
+Ante o exposto, JULGO PROCEDENTE a ação ajuizada por MICROSOFT CORPORATION em face de INSTRUMENTOS ELÉTRICOS ENGRO LTDA. para CONDENAR a ré a se abster a utilizar programas de computador de propriedade da autora sem a respectiva licença, sob pena de multa diária de R$ 300,00 (trezentos reais), bem como a indenizar a autora no montante correspondente às licenças dos programas indevidamente utilizados (07(sete) programas Windows XP Pro e 01(um) Windows 98 Std/SE/O&M), o que será apurado em futura liquidação. 
+Arcará a ré, ainda, com as custas e despesas processuais, inclusive honorários periciais da produção antecipada de provas, e honorários advocatícios que arbitro em 10% do valor atualizado da causa. 
+Após o trânsito em julgado, requeira a autora o que de direito, em 15(quinze) dias. Na inércia, arquive-se. 
+P.R.I.C. 
+
+São Paulo, 08 de fevereiro de 2010.

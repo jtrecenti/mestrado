@@ -1,0 +1,76 @@
+
+
+SENTENÇA
+
+Processo nº:0011467-47.2012.8.26.0004
+Classe - AssuntoProcedimento do Juizado Especial Cível - Indenização por Dano Moral
+Requerente:Gilson Nunes Santos e outro
+Requerido:Photo Mania Books Fotográficos Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Fernando Salles Amaral
+
+
+
+
+
+
+
+
+Vistos.
+
+Dispensado o relatório.
+
+DECIDO.
+
+Regularmente citado(a) e intimado(a), o(a) requerido(a) não compareceu à audiência de conciliação designada, devendo ser considerados incontroversos os fatos alegados na inicial, decretando-se a revelia, nos termos do artigo 20 da Lei 9099/95.
+
+A conduta do réu no sentido de descumprir o contrato, protestar um cheque sustado e endossar outro cheque causou prejuízo à imagem do autor, na medida em que seu nome foi levado a rol de inadimplentes por dívida inexigível.
+
+Contudo, não será possível por meio desta ação a sustação dos efeitos de protesto levado a efeito por terceiro endossatário do cheque, uma vez que a empresa ALCRED sequer foi colocada no pólo passivo.
+
+Isso porque o cheque é um título de crédito e, como tal, é regido pelos princípios da cartularidade, literalidade e autonomia, além de possuir os atributos de autonomia e abstração.
+
+Em decorrência do princípio da autonomia vigora a regra da inoponibilidade das exceções pessoais, ou seja, não é permitido àquele que se obriga em um título de crédito recusar o pagamento ao portador alegando suas relações pessoais com o sacador ou outros obrigados anteriores do título. 
+
+Como adverte o mestre FRAN MARTINS, ?Decorrência do princípio da autonomia (cada obrigação é autônoma e independente, não ficando sua validade subordinada a uma outra obrigação  donde se concluir que cada obrigado se obriga não apenas com a pessoa a quem transfere o título mas com o portador do mesmo, seja ele quem for), surgiu a regra chamada da inoponibilidade das exceções. Por essa regra, consagrada no art. 17 da Lei Uniforme, o obrigado em uma letra não pode recusar o pagamento ao portador alegando suas relações pessoais com o sacador ou outros obrigados anteriores do título (por exemplo, não pode o obrigado recusar o pagamento alegando que é credor do sacado). Tais exceções ou defesas são inoponíveis ao portador, que fica, sempre, assegurado quanto ao cumprimento da obrigação pelo obrigado? (Títulos de Crédito, Vol. I, 11ª ed. Editora Forense, Rio de Janeiro, 1995, p. 17-18).
+
+Por outro lado, em razão dos atributos da autonomia e abstração não se permite discussão acerca do negócio jurídico originário da obrigação.
+
+Nesse sentido já se posicionou o Superior Tribunal de Justiça: 
+
+PROCESSUAL CIVIL. CIVIL. RECURSO ESPECIAL. COMISSÃO DE CORERTAGEM. NEGÓCIO IMOBILIÁRIO. CELEBRAÇÃO DE CONTRATO DE CESSÃO E TRANSFERÊNCIA DE IMÓVEL. PAGAMENTO DE SINAL. POSTERIOR ARREPENDIMENTO DO COMPRADOR. RESCISÃO DO CONTRATO. AUSÊNCIA DE CULPA DA CORRETORA. COMISSÃO DEVIDA. RECURSO NÃO-PROVIDO.
+1. A execução movida por ora recorrida em face de ora recorrente está amparada em cheque emitido por este em favor daquela, a título de pagamento de comissão de corretagem, no valor de R$ 8.000,00. Nos embargos à execução, o executado, ora recorrente, refutou a exigibilidade do referido título de crédito, sob o fundamento de que o negócio jurídico, ao qual está vinculado, não se concluiu.
+2. O cheque ostenta a natureza de título de crédito, portanto, é não-causal (CPC, art. 585, I), ou seja, em decorrência de sua autonomia e abstração, não comporta discussão sobre o negócio jurídico originário. Entretanto, se o cheque não houver circulado, estando, pois, ainda atrelado à relação jurídica originária estabelecida entre seu emitente (sacador) e seu beneficiário (tomador), é possível que se discuta a causa debendi.
+3. Na hipótese em exame, conforme consta do v. aresto hostilizado, não houve circulação do cheque emitido e, a seguir, sustado. É, portanto, devida a oposição de exceções pessoais ao cumprimento da ordem de pagamento contida no referido título de crédito.
+4. Embora o serviço de corretagem somente se aperfeiçoe quando o negócio é concretizado, dado o risco inerente à atividade, não se pode perder de vista que, nos negócios imobiliários - os quais dependem de registro do ato negocial no Cartório de Registro de Imóveis para fins de transferência e aquisição da propriedade e de outros direitos reais (CC/2002, arts. 1.227, 1245-1246) -, a intermediação da corretora pode encerra-se antes da conclusão da fase de registro imobiliário. Por certo, quando as partes firmam, de algum modo, atos, com mediação da corretora, que geram obrigatoriedade legal de proceder-se ao registro imobiliário, tal como ocorre no caso de celebração de promessa de compra e venda ou de pagamento de sinal, torna-se devida a percepção de comissão de corretagem, mormente quando eventual desfazimento do negócio não decorrer de ato praticado pela corretora.
+5. No caso em exame, conforme salientado pelas instâncias ordinárias, houve uma fase preliminar de negociações, seguida de uma fase intermediária de celebração do contrato de cessão e transferência dos direitos e obrigações constantes de promessa de compra e venda, com o pagamento do valor de R$ 62.000,00 a título de sinal, sendo certo que essas duas etapas foram intermediadas pela corretora de imóveis. Com a celebração desse contrato encerrou-se o ofício da corretora, a qual deu por concretizada a venda, recebendo, naquela data, o cheque pós-datado referente à comissão de corretagem. A partir daí, o ora recorrente munido do contrato, providenciou, como lhe competia, o financiamento do restante do valor do imóvel junto a uma instituição financeira. Contudo, durante o trâmite do processo de financiamento imobiliário, o contratante discordou do valor das prestações a serem pagas, rescindindo o contrato e sustando o cheque em apreço.
+6. Se havia documento válido a corroborar o negócio jurídico - suficiente para a exigência do registro imobiliário -, não obstante seu posterior desfazimento, é salutar reconhecer que a corretora alcançou o "resultado útil" da avença. Destarte, formalizado o contrato particular de cessão e transferência de imóvel entre as partes interessadas, o direito à percepção de comissão de corretagem é incontestável, ainda que, por posterior rescisão contratual, mas não por culpa da corretora, o negócio jurídico não alcance a fase de registro imobiliário.
+7. As instâncias ordinárias, soberanas na análise e interpretação do acervo fático-probatório dos autos, concluíram que não há cogitar na responsabilidade da corretora pela rescisão contratual, sobretudo porque ela apresentou as devidas informações quanto aos valores das parcelas do financiamento imobiliário, não podendo ser a ela imputada a culpa pela não concretização do negócio jurídico. Tem-se, nos termos das conclusões da c. Corte local, que a rescisão contratual decorreu de vontade externada pelo próprio contratante e sua esposa - provavelmente por insatisfação com o valor das prestações mensais do financiamento bancário.
+8. Recurso especial a que se nega provimento. (REsp 1228180/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/03/2011, DJe 28/03/2011)
+
+A regra da inoponibilidade das exceções pessoais comporta apenas um temperamento: quando há má-fé por parte do portador, ao adquirir o título, com a finalidade de prejudicar o devedor. Daí dizer a lei que a regra vigora ?a menos que o portador, ao adquirir a letra, tenha procedido conscientemente em detrimento do devedor? (art. 17).
+
+O professor FRAN MARTINS, a esse respeito, leciona que, ?nesse caso, para ser oponível a exceção, é necessário que o portador do título, ao adquiri-lo, tenha agido de má-fé, com a finalidade de prejudicar o devedor. Assim, se o portador sabia que ao seu antecessor seriam oponíveis exceções pessoais pelo devedor, e com a finalidade de prejudicar a este recebeu o título, o devedor pode opor as exceções que teria contra o portador anterior, demonstrando que seja que a aquisição do título teve por finalidade prejudicar o devedor. A má-fé do portador é caracterizada pelo fato de haver ele agido 'conscientemente' em prejuízo do devedor; desse modo, o simples conhecimento da exceção por parte do portador não é suficiente para demonstrar sua má-fé. É esse o princípio dominante na doutrina? (ob. cit., p. 18-19).
+
+Assim, não há como reconhecer-se a má-fé da empresa referida por ausência de provas nesse sentido e principalmente porque tal empresa sequer foi colocada no pólo passivo para se defender, devendo permanecer o protesto de fls.05, sustando-se apenas os efeitos do protesto de fls.07, pois o apresentante do título foi o réu.
+
+Contudo, não se deixa de reconhecer a responsabilidade do réu por danos morais inclusive por ter colocado o título em circulação, o que acabou causando danos ao autor pelo protesto do título por terceiro. Em casos de inscrição indevida em órgão de proteção ao crédito, desnecessária a comprovação de efetivo sofrimento, uma vez que se atinge a honra objetiva da pessoa, ou seja, sua imagem-atributo, bastando por si só a demonstração da inscrição irregular. Nesse sentido:
+
+RESPONSABILIDADE CIVIL - DANO MORAL - INSCRIÇÃO INDEVIDA EM CADASTRO DE DEVEDORES - PROVA DA EFETIVA EXISTÊNCIA DO PREJUÍZO - Segundo a jurisprudência desta Corte, a exigência de prova do dano moral (extrapatrimonial) se satisfaz com a demonstração da existência da inscrição irregular. (Ac. 4ª Turma do Superior Tribunal de Justiça, no REsp.204.036-RS. rel. Min. Barros Monteiro, j.11-05-99, DJU 23-08-99, p. 132). CIVIL - DANO MORAL - REGISTRO NO CADASTRO DE DEVEDORES DO SERASA - IRRELEVÂNCIA DA EXISTÊNCIA DE PREJUÍZO. - A jurisprudência desta Corte está consolidada no sentido de que na concepção moderna de reparação do dano moral prevalece a orientação de que a responsabilidade do agente se opera por força do simples fato da violação, de modo a tornar-se desnecessária a prova do prejuízo em concreto. A existência de vários registros, na mesma época, de cadastro de devedores do SERASA, não afasta a presunção de existência do dano moral, que decorre in re ipsa, vale dizer, do próprio registro de fato inexistente. Hipótese em que as instâncias locais reconheceram categoricamente que foi ilícita a conduta da recorrida em manter, indevidamente, os nomes dos recorrentes, em cadastro de devedor, mesmo após a quitação da dívida. (Ac. 4ª Turma do Superior Tribunal de Justiça, no REsp/196.024-MG, rel. Min. César Asfor Rocha, j. 02-03-99, DJU 02-08-99,p. 192).
+
+Em relação ao valor da indenização por danos morais, deve o magistrado recorrer a seu prudente arbítrio, observando as circunstâncias de cada caso concreto, levando em conta, sobretudo, o grau de extensão do dano; as condições econômicas das partes envolvidas; os antecedentes pessoais de honorabilidade e confiabilidade do ofendido; a intensidade do sofrimento psicológico gerado pelo vexame sofrido; a finalidade admonitória da sanção, para que a prática do ato ilícito não se repita; e o bom senso, para que a indenização não seja extremamente gravosa, a ponto de gerar um enriquecimento sem causa ao ofendido, nem irrisória, que não chegue a lhe propiciar uma compensação para minimizar os efeitos da violação ao bem jurídico. No caso dos autos, considerando ainda os artifícios usados pelo réu para obter dinheiro sem cumprir o contrato, entendo suficiente, para atender aos critérios citados, o arbitramento em R$ 5.000,00 (cinco mil reais). 
+
+Diante do exposto e considerando tudo mais que dos autos consta, JULGO PROCEDENTE o pedido para o fim de declarar a inexigibilidade da dívida citada na inicial, determinando-se a sustação definitiva dos efeitos do protesto de fls. 07, oficiando-se imediatamente, e para condenar o requerido à pagar ao autor a importância de R$ 5.000,00, com juros de 1% ao mês e correção monetária pela  tabela do Tribunal de Justiça a partir da prolação da sentença, além de condenar o requerido à pagar ao autor a importância de R$ 450,00, com juros de 1% ao mês e correção monetária pela  tabela do Tribunal de Justiça a partir da propositura da ação. Por consequência, julgo extinto o processo com resolução de mérito, com fundamento no artigo 269, I, do Código de Processo Civil.
+
+Sem custas nesta fase processual.
+
+PRI
+
+São Paulo, 13 de novembro de 2012.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

@@ -1,0 +1,39 @@
+
+
+SENTENÇA
+
+Processo nº:0107722-72.2009.8.26.0004
+Classe - AssuntoProcedimento Ordinário - Prestação de Serviços
+Requerente:Option Telecom Ltda
+Requerido:Informatec Comercial e Servicos Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Lúcia Helena Bocchi Faibicher
+
+
+Vistos.
+I. OPTION TELECOM LTDA. movimentou a presente Ação de Rescisão Contratual combinada com Perdas e Danos contra INFORMATEC COMERCIAL SERVIÇOS LTDA., alegando, em resumo, que contratou com a Requerida prestação de serviços de telessuporte e atualização tecnológica. Entretanto, após diversas tentativas de executar o software, este teria persistido em não funcionar adequadamente, causando falha na execução dos contratos que a Requerente tinha com seus clientes. Após notificação dos problemas apresentados, requereu rescisão contratual, mas a Requerida  negou  sua culpa  em contranotificação. Pediu a rescisão contratual pelo inadimplemento da Requerida e a condenação dela dos valores pagos pela Requerente.
+Devidamente citada (fls. 79, 82), a Requerida apresentou contestação às fls. 93/101. Alegou que a relação comercial com a Requerente era mais antiga do que esta alega, de modo que o software causador do problema seria uma versão mais avançada de outros já usados pela Requerente, nunca tendo apresentado problemas. Os conflitos somente teriam surgido a partir do momento em que esta começou a prestar serviços ao invés de apenas revender produtos, situação em que lhe foi requisitada melhorias no hardware (computador) para resolver as inoperâncias do software, o que jamais teria sido obedecido. Ainda, alega falsidade nas alegações da Requerente quanto à cronologia dos fatos, inclusive a data em que lhe sugeriu a compra de um novo microcomputador, cerca de um ano antes do inicialmente alegado. Finalmente, alega que o contrato previa a responsabilidade do contratante disponibilizar de computadores com a devida tecnologia para utilizar os softwares fornecidos. Pede a improcedência do pedido assim como a condenação da Requerente por litigância de má-fé, com fundamento na alteração da veracidade dos fatos.
+Houve réplica (fls. 134/137).
+Designada a audiência de conciliação (fls. 143), esta restou infrutífera (fls. 146).
+Foi realizada prova pericial, sobrevindo o laudo às fls. 201/289.
+Designada audiência de instrução e julgamento (fls. 319), foram ouvidas uma testemunha arrolada pela Requerente e duas, pela Requerida (fls. 328/334).
+Encerrada a instrução, foram apresentados memoriais das partes a fls. 338/352.
+
+É o breve relatório.
+D E C I D O.
+II. O pedido é improcedente.
+
+Nos termos do artigo 333, I do Código de Processo Civil, cabia à Autora comprovar os fatos constitutivos de seu direito.  Ocorre que não conseguiu ele se desincumbir de seu ônus probatório.
+Com efeito, conforme se lê do laudo de fls. 201/289, a conclusão da perícia restou prejudicada porque  a Autora informou que os equipamentos e programas não existiam mais, impossibilitando a análise do hardware e software. Ora, diante disso, não foi possível verificar a existência dos alegados defeitos.
+De outro lado, não constatou o perito que a Ré tivesse deixado de prestar serviços de suporte técnico quando requisitados e verificou que, em relação ao "travamento" poderia estar relacionado ao projeto do ambiente de sistema de tarifação. Todavia, fora a Requerente quem deixara de atender à solicitação da Requerida  de aquisição de um segundo micro específico para fazer a a função de provedor, ao menos até abril de 2006 (fls. 255 insuficiente para averiguar defeito no produto, mau uso deste e os danos alegados; mormente a impossibilidade de análise pericial em virtude do software não estar mais instalado nas máquinas da Autora à época da constatação.
+Por fim, anote-se que não se presta a prova exclusivamente testemunhal para comprovar a existência de vícios de produtos de computação e congêneres, pelo que era imprescindível a prova técnica.
+Não se verifica, todavia, má-fé a justificar a sanção correspondente.
+III. Posto isso, JULGO IMPROCEDENTE, o pedido inicial da Ação de Rescisão Contratual combinada com Perdas e Danos movida por OPTION TELECOM LTDA. contra INFORMATEC COMERCIAL E SERVIÇOS LTDA., tendo em vista a ausência de prova de qualquer ato ilícito praticado pelos Requeridos, de modo a justificar a sua condenação ao pagamento de reparação de danos em prol da Autora.
+Em consequência, condeno a Autora ao pagamento das custas, dos emolumentos, das despesas processuais e dos honorários advocatícios que ora arbitro, eqüitativamente (artigo 20, § 4º, do CPC), em 10% sobre o valro da causa.
+P. R. I. C.
+
+
+São Paulo, 18 de setembro de 2012.

@@ -1,0 +1,39 @@
+
+
+SENTENÇA
+
+C O N C L U S Ã O
+
+Em 16 de setembro de 2011 faço estes autos conclusos a(o) Juiz(a) de Direito do Juizado Especial Cível Dr(a) Eduardo Tobias de Aguiar Moeller. Eu, escrevente, digitei.
+
+Processo nº:0013034-29.2011.8.26.0011 - Procedimento do Juizado Especial Cível
+Requerente:Thiago de Moraes
+Requerido:TNL PCS S/A - OI Telefonia Móvel
+
+
+
+Juiz(a) de Direito: Dr(a). Eduardo Tobias de Aguiar Moeller
+
+Vistos.
+
+Dispensado o relatório, na forma do art. 38 da lei 9099/95.
+
+Trata-se de ação de obrigação de fazer cumulada com pedido de indenização.
+Alegou o autor que as faturas 328828229 (vencimento em 26.4.2011, fls. 18) e 332519799 (vencimento em 26.5.2011, fls. 13) apresentaram valores incorretos relativos ao uso de internet móvel.  A primeira fatura teria incluído o valor de R$ 251,63 indevidamente pois o serviço de dados não foi ativado pela ré em relação à linha 11-7999-4654 mas apenas à linha 11-7998-6690, em prejuízo ao autor.  A segunda fatura teria considerado o valor incorreto por MB excedente à tarifa.  Pleiteia o autor o cancelamento das cobranças indevidas e indenização por danos morais.
+Alegou a ré em sua contestação de fls. 46/73 que ?possui informação em seus sistemas aos quais confirmam a titularidade da linha bem como os débitos em questão? (fls. 49), ensejando a ré a conclusão de que considera devidos os valores cobrados do autor.
+Analisados os autos, entendo que a pretensão do autor deva ser acolhida em parte.
+A ré não impugnou especificadamente os fatos narrados na inicial, na forma do art. 302 do Código de Processo Civil, razão pela qual devem ser presumidos verdadeiros.  A ré, ao alegar genérica e vagamente que os débitos seriam devidos, a rigor nada alegou nem impugnou.
+O autor, por sua vez, comprovou às fls. 6 e 17 que a ré veicula informação no sentido de que cada Mb excedente de tráfego de internet será tarifado pelo preço de R$ 0,10.  Tal informação integra o contrato, nos termos do art. 30 do Código de Defesa do Consumidor e deve ser honrada pela ré.
+A fatura nº 332519799, com vencimento em 26.5.2011 (fls. 13), incluiu a cobrança de R$ 2.111,93 relativa a uso de internet.  A mesma fatura (fls. 16/verso) apurou o consumo de 380.652 Kb pelo autor.  Se a ré cobrasse o valor de R$ 0,10 por Mb excedente conforme propaganda acima, o valor final seria de R$ 37,17 (380.652 / 1024 = 371,70 MB).  A ré, porém, cobrou o valor de R$ 2.111,93, do que resulta a conclusão de que a ré cobrou indevidamente o valor de R$ 5,68 por MB excedente.
+Tem razão o autor, portanto, ao pretender que a ré cancele a cobrança indevida da fatura com vencimento em 26.5.2011, reduzindo o valor do tráfego de internet para R$ 37,17.  A fatura deve ser reduzida para R$ 142,15.
+A fatura nº 328828229, com vencimento em 26.4.2011 (fls. 18), incluiu a cobrança de R$ 251,63 relativa a uso de internet.  Tal cobrança foi indevida porque o autor havia aderido ao plano contratual com isenção de 100% do consumo de internet no primeiro mês (fls. 39).  Evidentemente tinha o autor interesse que a promoção abrangesse todas as linhas que faziam parte do plano Oi Família 300.  Tratando-se de um plano família, que implica no compartilhamento das vantagens do plano entre os celulares, disto resulta que foi da ré a culpa por não haver incluído a linha 11-79994654 também na promoção indicada às fls. 39.
+Tem razão o autor, portanto, ao pretender que a ré cancele a cobrança indevida da fatura com vencimento em 26.4.2011, excluindo o valor do tráfego de internet de R$ 251,63.  A fatura deve ser reduzida, portanto, para R$ 52,91.
+O pedido de indenização por danos morais deve ser rejeitado tendo em vista que os fatos versam sobre mero conflito contratual, dele não resultando qualquer ofensa à honra ou dignidade da parte autora nem sofrimento intenso e duradouro.
+Vale observar que o Colégio Recursal da Capital já consolidou o entendimento jurisprudencial no sentido de que o conflito contratual não dá ensejo a indenização por dano moral.  Neste sentido foi emitido o Enunciado nº 25. ?O simples descumprimento do dever legal ou contratual, por caracterizar mero aborrecimento, em princípio, não configura dano moral, salvo se da infração advém circunstância que atinja a dignidade da parte? (Enunciado 25 do I Encontro do Primeiro Colégio Recursal dos Juizados Especiais Cíveis da Capital no Encontro de Juízes de Juizados Especiais e Colégios Recursais em reunião administrativa do Colégio Recursal Unificado e no I FOJESP, in DJE do TJSP de 2.10.2009, pág. 30).
+Por estas razões, JULGO PARCIALMENTE PROCEDENTE esta ação que THIAGO DE MORAES ajuizou contra TNL PCS S/A e DETERMINO à ré que providencie, em 10 (dez) dias, a redução das faturas com vencimento em 26.4.2011 e 26.5.2011 para os valores de R$ 51,91 e R$ 142,15, respectivamente, sob pena de multa diária de R$ 100,00.
+DETERMINO à ré que envie novos boletos para que o autor possa honrar estes débitos nestes valores acima e DETERMINO à ré que NÃO PROTESTE e NÃO NEGATIVE o nome do autor por conta das faturas com vencimento em abril e maio de 2011, sob pena de multa diária de R$ 250,00.
+Sem custas ou honorários advocatícios, na forma do art. 55 da lei 9099/95.
+O devedor, se nesta sentença foi condenado, fica advertido, na forma do art. 52, inc. III, da lei 9.099/95, de que deverá cumprir a sentença imediatamente após o seu trânsito em julgado (ou seja, quando não puder mais recorrer).  Caso o devedor tenha sido condenado a fazer ou deixar de fazer algo, poderá pagar a multa diária fixada se não cumprir imediatamente a obrigação.
+As partes poderão interpor recurso inominado contra esta sentença, no prazo de 10 (dez) dias, por meio de advogado, mediante o pagamento do preparo recursal, na forma do art. 42 da Lei Federal 9.099/95 e do art. 4º. da Lei Estadual nº 11.608/2003.  O preparo recursal corresponde ao valor de R$ 174,50 (art. 4º, inc. I a III, lei estadual nº 11.608/03) e o porte de remessa e retorno corresponde ao valor de R$ 25,00.
+P.R.I.C.
+São Paulo, 16 de setembro de 2011.

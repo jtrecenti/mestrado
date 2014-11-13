@@ -1,0 +1,142 @@
+
+
+SENTENÇA
+
+Processo nº:0262906-27.2009.8.26.0002
+Classe - AssuntoReintegração / Manutenção de Posse - Posse
+Requerente:Banco Itaú BBA S/A
+Requerido:Dilene Araujo da Silva
+
+
+
+Juiz(a) de Direito: Dr(a). Alexandre David Malfatti
+
+
+Vistos.
+
+
+
+Trata-se de ação de reintegração de posse envolvendo as partes supra mencionadas, em que o banco autor alegou a mora da ré no cumprimento do contrato de arrendamento mercantil, mesmo após a notificação da última. Ao final, deduziu pedido de reintegração de posse do bem. Posteriormente, a inicial foi emendada convertendo-se em perdas e danos.
+
+
+A ré foi citada por edital, sendo-lhe nomeado curador que ofertou contestação (fls. 74/83). Nessa peça, foi suscitada a preliminar de inépcia da inicial, uma vez que a planilha não tinha detalhado as prestações e encargos em aberto, a invalidade da notificação, a irregularidade na representação processual do autor e  que não cabe perdas e danos por falta de prova e que o valor cobrado de perdas e danos é mera referência. Por fim, alega que o contrato é de difícil compreensão e contesta por negativa geral.
+
+
+
+
+É O BREVE RELATO.
+
+DECIDO.
+
+
+O processo comporta imediato julgamento, pois prescinde de outras provas, nos termos do artigo 330, inciso I do Código de Processo Civil.
+
+
+Inicialmente, rejeito as preliminares suscitadas na defesa. A petição inicial não se revelou inepta, uma vez que descreveu satisfatoriamente os fundamentos, deduzindo pedido adequado. 
+
+A notificação revelou-se válida.  A liminar de reintegração de posse depende de prévia notificação do devedor, seja através do protesto do título, seja por notificação postal ou cartorária, sobretudo para possibilitar a purgação da mora, sendo indiferente a existência de cláusula resolutória expressa.
+
+
+A notificação para o domicílio declinado do contrato, mostra-se suficiente à configuração da mora, sendo irrelevante o fato de não ter sido recebida pessoalmente. Não se põe em dúvida a assertiva de que, se houver mudança de endereço, incumbe ao devedor comunicar a arrendadora informando onde pode ser localizado, considerando que nas relações negociais há de prevalecer sempre a boa-fé e a lealdade dos contratantes. O autor interpelou a ré por notificação postal (fls. 12), no endereço que consta no contrato, além disso, realizou protesto (fls. 10).
+
+
+
+Igualmente, não há que se falar em irregularidade na representação processual uma vez que foram apresentados os documentos necessários.  
+
+
+
+A autora fez prova dos seguintes fatos: a) contratação e b) mora da ré. O inadimplemento contratual justifica a rescisão do contrato e a reintegração do autor na posse do bem. 
+
+
+Logo, não encontrado o bem, fazia-se pertinente a conversão da obrigação de entrega de coisa certa em perdas e danos. Resta fixar os critérios para identificação do valor da indenização. Entendo que o autor deve cobrar da autora o saldo contratual porque não houve a retomada do bem. 
+
+
+Contudo, o valor pleiteado merece reparos. As prestações mensais (R$ 237,14) e o valor residual (R$ 214,58) serão acrescidos, a partir de seus respectivos vencimentos, dos encargos da mora. E o autor deverá optar pela cobrança com um dos seguintes encargos moratórios: a) principal acrescido, a partir de cada vencimento, de juros de mora de 1% ao mês, correção monetária (calculada pelos índices adotados pelo TJSP) e multa moratória de 2% ou b) principal acrescido, a partir de cada vencimento, de comissão de permanência (será calculada mensalmente pela taxa média praticada pelo mercado). 
+Considero ilegal a taxa de juros de mora constante do contrato (cláusula vigésima sexta). Cobrar-se a taxa de 0,49% ao dia (mais de 14% ao mês) é manifestamente abusivo, basta a comparação com a taxa de mercado praticada na época do inicio da mora (1,87 % ao mês, conforme consulta no site do BACEN ? tabela XVII ? Operações com juros prefixados ? Aquisição de Bens PF ? Veículos).
+
+
+Se o autor optar pela cobrança de permanência, deverá seguir a determinação anterior. Será utilizada a tabela XVII ? Operações com juros prefixados, Aquisição de Bens por PF, juros mensais e com capitalização anual, conforme publicação no SITE do Banco Central do Brasil. A comissão de permanência será calculada pela taxa média publicada pelo BACEN, mês a mês, a partir de setembro de 2009. Será variável, porque o mercado entre a assinatura do contrato e a presente data apresentou uma linha variável.
+
+
+Em outras palavras, num período longo de mora, não se pode simplesmente usar a taxa de comissão de permanência do contrato. Ela pode ser extremamente penosa ? por isso, abusiva ? em relação ao consumidor inadimplente. O equilíbrio da relação jurídica advém justamente de estabelecido o teto (percentual contratado), observar-se o movimento do mercado, notadamente de decréscimo da taxa de comissão de permanência. 
+
+
+Observo que, sobre a comissão de permanência (juros e verbas decorrentes da mora), modifiquei entendimento anterior e passo a admitir a sua legalidade, para os contratos ? notadamente aqueles ajustados após a edição do Código Civil de 2.002. Agora, diante do que dispõe o artigo 406 do Código Civil de 2.002, é possível concluir que as partes podem contratar juros de mora. 
+
+
+Nesta linha, se os bancos podem ajustar juros acima de 12% ao ano para o período de vigência do empréstimo, também o podem, pela referida autorização legal, no período da mora.
+
+
+Rendo-me à jurisprudência do Superior Tribunal de Justiça consolidada na súmula 294, in verbis:
+
+
+Não é potestativa a cláusula contratual que prevê a comissão de permanência, calculada pela taxa média de mercado apurada pelo Banco Central do Brasil, limitada à taxa do contrato.
+
+
+Importante salientar, contudo, que a comissão de permanência somente será admitida se prevista no contrato e, como será visto adiante, desde que limitada à taxa do contrato ou à taxa de mercado no período (prevalecendo a menor). 
+
+
+Incide o disposto na súmula 296 do Superior Tribunal de Justiça, in verbis:
+
+Os juros remuneratórios, não cumuláveis com a comissão de permanência, são devidos no período de inadimplência, à taxa média de mercado estipulada pelo Banco Central do Brasil, limitada ao percentual contratado.
+
+
+Além disso, observo que a não cumulação da comissão de permanência com os juros de mora e com a multa contratual traduz entendimento consagrado pelo Superior Tribunal de Justiça: É admitida a incidência da comissão de permanência após o vencimento da dívida, desde que não cumulada com juros remuneratórios, juros moratórios, correção monetária e/ou multa contratual  (Ag Rg no REsp. n. 887.812-RS, 3ª. Turma, rel. Min. NANCY ANDRIGHI, julgado em 24.4.2007, DJ 14.5.2007).
+
+
+Mais recentemente, no julgamento do n. REsp. 1.061.530-RS, incidente de processos repetitivos, a relatora e ilustre Ministra NANCY ANDRIGHI, julgado em 22.10.2008, DJ 10.3.2009, destacou pontos importantes na discussão da comissão de permanência e sua não cumulação com encargos da mora:
+
+
+Quatro são as principais controvérsias jurídicas a respeito da cobrança da comissão de permanência, a saber: 
+
+I.cumulação da comissão com a correção monetária; 
+II. cumulação com os juros remuneratórios; 
+III.cálculo da comissão pelas taxas contratuais ou pela taxa média de mercado; 
+IV.cumulação com os encargos moratórios (multa e juros de mora).
+
+
+As quatro controvérsias foram resolvidas da seguinte forma:
+
+(i) Impossibilidade de cumulação com a correção monetária, porque incorporada na própria comissão de permanência (Súmula 30/STJ);
+(ii) Impossibilidade de cumulação com os juros remuneratórios, porque a já citada Resolução 1.129/86 proibia a cobrança de quaisquer outras quantias compensatórias. Foi reconhecido o caráter múltiplo da comissão de permanência, que se prestava para atualizar, bem como para remunerar a moeda. O leading case é o REsp 271.214/RS, julgado pela 2a Seção, Relator o Min. Carlos Alberto Menezes Direito;
+(iii) O cálculo da taxa, a título de comissão de permanência, pela média de mercado divulgada pelo Banco Central, não caracteriza potestatividade, pois a taxa média não é calculada pela instituição financeira, mas pelo mercado, sendo que a taxa pactuada pelas partes limita o teto da cobrança (Súmulas 294 e 296/STJ);
+(iv) A incidência da comissão de permanência leva necessariamente à exclusão de todos os outros encargos, tenham eles natureza remuneratória ou moratória (AgRg no REsp 706.368/RS, também pela 2a Seção, de minha Relatoria, ainda no mesmo sentido o AgRg no REsp 712.801/RS, 2a Seção, Relator o Min. Carlos Alberto Menezes Direito).
+
+Esclareceu-se, portanto, que a natureza da cláusula de comissão de permanência é tríplice: índice de remuneração do capital (juros remuneratórios), atualização da moeda (correção monetária) e compensação pelo inadimplemento (encargos moratórios). Assim, esse entendimento, que impede a cobrança cumulativa da comissão com os demais encargos, protege, como valor primordial, a proibição do bis in idem. 
+
+
+(negrito nosso).
+
+
+O cálculo deverá ser refeito, já que o trazido na petição inicial não descartou a possibilidade de cobrança de uma comissão de permanência abusiva e cumulada com juros de mora e multa moratória.  
+
+
+
+DISPOSITIVO. 
+
+
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE o pedido inicial, para condenar a parte ré ao pagamento de indenização por perdas e danos, observando-se que o cálculo deverá respeitar os critérios estabelecidos na fundamentação.  As prestações mensais (R$ 237,14) e o valor residual (R$ 214,58) serão acrescidos, a partir de seus respectivos vencimentos, dos encargos da mora. E o autor deverá optar pela cobrança com um dos seguintes encargos moratórios: a) principal acrescido, a partir de cada vencimento, de juros de mora de 1% ao mês, correção monetária (calculada pelos índices adotados pelo TJSP) e multa moratória de 2% ou b) principal acrescido, a partir de cada vencimento, de comissão de permanência (será calculada mensalmente pela taxa média praticada pelo mercado). Se o autor optar pela cobrança de permanência, deverá seguir a determinação anterior. Será utilizada a tabela XVII ? Operações com juros prefixados, Aquisição de Bens por PF, juros mensais com capitalização anual, conforme publicação no SITE do Banco Central do Brasil. A comissão de permanência será calculada pela taxa média publicada pelo BACEN, mês a mês (mas capitalizada anualmente), a partir de setembro de 2.009. Será variável, porque o mercado entre a assinatura do contrato e a presente data apresentou taxas diferentes. 
+
+
+Considerando-se a sucumbência da ré na maior parte do pedido, arcará ela com 70% (setenta por cento) da taxa judiciária. Também condeno a ré ao pagamento dos honorários advocatícios, estes fixados 05% (cinco por cento) do valor integral do débito (principal com os encargos da mora). O curador será remunerado pelo valor máximo da tabela do convênio, expedindo-se certidão. 
+
+
+Fica a parte ré intimada a cumprir a obrigação de pagamento, no prazo de 15 (quinze) dias, contados da data em que a condenação se tornar exigível, em primeiro ou segundo grau, independente de outras intimações, sob pena de incidência da multa processual de 10% (dez por cento), na forma do artigo 475-J do Código de Processo Civil. 
+
+
+
+P.R.I.
+
+São Paulo, 04 de fevereiro de 2011.
+
+ALEXANDRE DAVID MALFATTI
+             Juiz de Direito
+           (assinatura digital)
+
+CERTIDÃO ? PUBLICAÇÃO
+
+Certifico e dou fé que a  decisão ou sentença anterior foi enviada ao D.J.E. Disponibilização em  _____ / _____ / 2011. Considera-se data da publicação o primeiro dia útil subseqüente à data acima mencionado. 
+Custas de preparo: R$ ________________.
+Taxa de porte e remessa: R$ _____________.
+
+Eu, .............................. escr. , digitei e subscrevo.

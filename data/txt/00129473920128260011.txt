@@ -1,0 +1,69 @@
+
+
+SENTENÇA
+
+Processo nº:0012947-39.2012.8.26.0011
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Moral
+Requerente:Valmir Ferreira Forni e outro
+Requerido:Nova Harmonia Empreendimento Imobiliário Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Francisco Carlos Inouye Shintate
+
+Vistos etc.
+
+VALMIR FERREIRA FORNI e LOURDESLEY MALVEIRA FORNI promoveram ação de declaratória e condenatória em contrato de compromisso de venda e compra de imóvel em face de  NOVA HARMONIA EMPREENDIMENTO IMOBILIÁRIO LTDA., alegando em síntese: a) celebraram com a ré contrato de compromisso de venda e compra de imóvel; b) são exigidos valores  excessivos, pois foram cobrados juros capitalizados, com base em cláusulas abusivas (juros excessivos e capitalizados) e que geram desequilíbrio do contrato. Pretendem: a) a condenação da ré, após o recálculo das prestações e do saldo devedor de acordo com os critérios apontados pelos autores, a repetir os valores pagos a maior; b) a condenação da ré no pagamento de indenização por danos morais. Com a inicial juntaram documentos. 
+
+A ré foi citada e contestou a ação (fls. 107/121), alegando em síntese: a)  no mérito,  o contrato existiu, é válido e eficaz, possível a cobrança dos juros pela Tabela Price, e com os critérios aplicados. Com a contestação juntou documentos. 
+
+A decisão saneadora (fls. 148/149) fixou as questões e deferiu prova pericial contábil. Juntou-se aos autos laudos do perito do juízo (fls. 173/196, complementar a fls. 245). Em debates, os autores sustentaram a procedência da ação, nos termos da inicial; a ré, por sua vez, a improcedência da ação, nos termos da contestação.
+
+É o relatório.
+
+D E C I D O.
+
+No mérito, a presente ação é improcedente.
+
+A principal questão a ser analisada é a da possibilidade de cobrança de juros remuneratórios com aplicação da Tabela Price.
+
+A conclusão, entretanto, não é a pretendida pelos autores. 
+
+A aplicação da Tabela Price não é ilegal e não implica em onerosidade excessiva do contrato, sendo assim válida a norma contratual impugnada.
+
+O sistema de amortização francês (Tabela Price) não traz, em si, capitalização de juros; ao revés, tem-se mecanismo de distribuição dos juros e do capital em parcelas justas durante o período estabelecido no contrato para amortização da dívida. Neste sentido é a lição de PAULO SANDRONI:
+
+?(...) a Tabela Price consiste em um ?Sistema de amortização de dívidas em prestações iguais, compostas de duas parcelas, uma de juros e a outra do principal, isto é, do capital inicialmente emprestado. A Tabela Price deve seu nome provavelmente ao inglês R. Price, que durante o século XVIII relacionou a teoria dos juros compostos às amortizações de empréstimos, e se denomina também sistema francês de amortização (...) Na medida em que a prestação é composta de dois elementos - uma parte de juros e outra do principal -, a fórmula permite calcular os juros devidos na primeira parcela e, por subtração da prestação que se deseja pagar, a parcela do principal que se deseja amortizar.?
+ (?Dicionário de Economia e Administração?, Ed. Nova Cultural, 1996, p. 404).
+
+Portanto, conquanto não se ignore posições divergentes, adota-se aqui o entendimento segundo o qual a fórmula da Tabela Price é desenvolvida tão-somente para determinar um fator que multiplicado pelo valor do principal venha resultar num valor de prestação constante no tempo, com amortização de um certo capital no tempo estipulado, apropriando-se, sempre, uma parcela de juros que se apura multiplicando a taxa mensal pelo saldo devedor. Essa parcela correspondente aos juros, que é deduzida do valor da prestação calculada pelo fator da fórmula, resultará no valor da amortização, que será deduzido do saldo. 
+
+Na operação seguinte, para o período subseqüente, sobre este novo saldo apurado ocorrerá a incidência da mesma taxa de juros inicialmente fixada, apurando-se por esta sistemática os novos juros da prestação, e assim até o final do período de pagamento das prestações.
+
+Em momento algum, pela simples aplicação do sistema de amortização da Tabela Price, ocorre a incorporação dos juros ao saldo devedor como base para cálculo de novos juros. Ao revés, em cálculos pelo Sistema Price os juros serão sempre decrescentes e as amortizações crescentes, em valores reais. Não há, desta maneira, a incidência de juros sobre juros, pois os juros são simples e sempre calculados sobre o saldo devedor remanescente, que nunca engloba os  juros anteriores.
+
+Tampouco se pode falar em abusividade e onerosidade excessivas das cláusulas contratuais, de que decorreria a sua nulidade. Verifica-se que as taxas de juros remuneratórios estão dentro do limite legal   e assim não podem ser reputadas inválidas, mesmo porque desde o início o autor tinha ciência do valor financiado e do valor das prestações.
+
+Outrossim, ressalvada a hipótese de cláusula contratual abusiva (o que não ocorre no caso quanto à fórmula para fixação da prestação da amortização, consoante já analisado), em que incidiria norma para declarar a sua invalidade, deve-se aplicar, no cálculo do débito, as cláusulas livremente pactuadas pelas partes. Nessa conformidade, a exigência do credor mostrava-se lícita. Assim, correta a aplicação da Tabela Price.
+
+Pretende o autor, em última análise,  alterar substancialmente as cláusulas do mútuo livremente pactuado por agentes maiores e capazes, o que se mostra impossível, ou seriam violados o ato jurídico perfeito e o princípio do ?pacta sunt servanda?, ausentes aqui quer invalidade de cláusulas, quer os elementos necessários para a revisão do contrato com base na teoria da imprevisão.
+
+A natureza adesiva do contrato não implica, por si só, na abusividade de suas cláusulas. No mundo moderno é cada vez mais comum a contratação sob a forma de adesão, principalmente em negócios jurídicos que se submetem a normas fixadas pelo Estado, como é o caso dos financiamentos imobiliários. Nesse diapasão, tem-se como válida a contratação por adesão, não sendo a abusividade decorrência lógica e necessária da forma de contratação. Em outros termos, um contrato (ou suas cláusulas) não é nulo ou abusivo por ser de adesão, mas por seu conteúdo.
+
+A cláusula que estabelece ?tolerância? de 180 dias é expressa e de clara compreensão, máxime porque os autores são advogado e economista; do ponto de vista da incidência normativa, compõe o critério temporal do antecedente normativo da relação jurídica celebrada entre as partes, e soma-se ao prazo original, ou seja, compõe o fato jurídico prazo de entrega. 
+
+Quanto ao termo inicial dos juros, conforme apurado pelo perito do juízo, foram calculados corretamente de acordo com a cláusula pactuada, que se reputa válida por não caracterizar, como acima exposto, vantagem excessiva que causasse desequilíbrio do contrato. As críticas não podem ser aceitas, a de fls. 227 porque sequer indicou quais seriam os valores corretos, e a de fls. 233 porque parte de premissas jurídicas que não foram adotadas por este juízo.
+
+Em síntese, válidas as cláusulas contratuais, o desate é de improcedência da ação.
+
+
+
+Em face do exposto, JULGO IMPROCEDENTE a presente ação declaratória e condenatória, pelo rito ordinário, movida por VALMIR FERREIRA FORNI e LOURDESLEY MALVEIRA FORNI em face de  NOVA HARMONIA EMPREENDIMENTO IMOBILIÁRIO LTDA., com resolução do mérito, nos termos do art. 269, I, do Código de Processo Civil. Por fim, condeno os autores no pagamento das despesas processuais e de honorários advocatícios que arbitro em 15% do valor do débito atualizado.
+
+Transitado em julgado, requeira a vencedora em termos de prosseguimento; no silêncio a qualquer tempo, ao arquivo.
+
+
+P. R. I.
+
+São Paulo, 13 de junho de 2013.

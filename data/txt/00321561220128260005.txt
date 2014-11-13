@@ -1,0 +1,68 @@
+
+
+SENTENÇA
+
+Processo nº:0032156-12.2012.8.26.0005
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Moral
+Requerente:Dayse Ziroldo de Oliveira
+Requerido:Itaú Unibanco S/A.
+
+
+
+
+
+CONCLUSÃO :
+Aos        13.5.13                     , promovo a conclusão destes autos ao Dr. FÁBIO HENRIQUE FALCONE GARCIA, MM. Juiz de Direito Titular da 3ª Vara Cível deste Foro Regional de São Miguel Paulista, Comarca de São Paulo. _____________.
+
+
+DAYSE ZIROLDO DE OLVEIRA ajuizou ação ordinária em face de ITAÚ UNIBANCO S/A  visando à cobrança do valor pago antecipadamente a título de VRG, em contraprestação a contrato de arrendamento mercantil de veículo. Afirma que pagou 55 prestações de R$ 615,00 cada, a título de VRG. Ainda, argumenta que o contrato de arrendamento contém cláusulas abusivas. Afirma a ilegalidade da cobrança de tarifa de contratação e de boletos bancários. A cobrança desses valores importaria acréscimo aos juros reais, gerando surpresa indevida ao consumidor. Ao final, pretende o expurgo das cláusulas impugnadas, a devolução em dobro do valor cobrado indevidamente e a restituição do VRG.
+A liminar foi indeferida.
+Citado, o requerido apresentou contestação, sustentando a improcedência, ao argumento de que o contrato foi livremente pactuado e não tem vícios que justifiquem sua revisão. Negou direito à devolução do VRG, ao argumento de que o valor residual garantido não se identifica com opção de compra, a que se refere o valor residual dos contratos de leasing em geral: trata-se de estabelecer uma garantia mínima de valor para a financeira. Ainda, afirma que a devolução do bem não extingue outras obrigações do arrendatário, de modo que o arrendador pode reter tal garantia. 
+Houve réplica.
+É o relatório.
+Possível o julgamento no estado, sendo despiendas outras provas. Tanto a pretensão à devolução do VRG quanto a análise sobre a legalidade das tarifas objeto de impugnação são matérias eminentemente jurídicas.
+No mérito, a pretensão é procedente. 
+Primeiramente, analiso o pedido de restituição do VRG.
+Cuida-se de pretensão à restituição de valor residual garantido pago durante a vigência de contrato de arrendamento mercantil, rescindido em virtude de inadimplemento do consumidor.
+Até pouco tempo, eu vinha decidindo pela necessidade de liquidação do contrato para apuração de eventual saldo credor, em favor do arrendatário. Os fundamentos de minha posição eram embasados em posicionamento jurisprudencial do Tribunal de Justiça de São Paulo, a seguir transcrito:
+(...) Tendo-se em vista que, enquanto o arrendatário detém a  posse do bem ele deve pagar as contraprestações mensais avençadas, devidas pelo uso e gozo da coisa arrendada (uma espécie de aluguel pelo uso da coisa), evidentemente que, no caso, o pedido de perdimento a favor da arrendadora das ?parcelas pagas? refere-se, exclusivamente às parcelas do VRG pagos antecipadamente com as contraprestações, já que estes são os valores passíveis de devolução ao arrendatário em caso de não exercício da opção de compra.
+Como cediço, na hipótese de resolução do contrato fundada no inadimplemento do arrendatário com a apreensão do bem arrendado, cabe a restituição dos valores pagos antecipadamente a titulo de VRG, pois a resolução impede o exercício da opção de compra.
+Não se desconhece que, conforme definido pela Portaria nº 564/78-MF, inciso 2, o valor residual é ?o preço contratualmente estipulado para o exercício da opção de compra, ou valor contratualmente garantido pela arrendatária como mínimo que será recebido pela arrendadora na venda a terceiros do bem arrendado na hipótese de não ser exercida a opção de compra?.
+Contudo, consoante esclarece José Francisco Lopes de Miranda Leão, ?(...) essa antecipação tem o caráter de caução, e, como qualquer garantia, deverá ser liberada em favor do caucionante, uma vez integralmente cumprida a obrigação contratual garantida. Portanto, caso o arrendatário não opte pela compra do bem, as antecipações deverão, sim, ser restituídas a ele, depois que o bem for vendido, alcançando pelo menos o valor previsto contratualmente. Caso não alcance esse valor, o arrendador, como qualquer credor caucionado, pode lançar mão da garantia, até o limite que falar para completar o montante estipulado. Em contrapartida, se o bem alcançar, na venda a terceiro, valor maior do que o que o contrato previa, não somente deverá ocorrer a devolução dos depósitos caucionários, como deverá haver, também, o repasse para o arrendatário do excesso recebido, uma vez que a estipulação contratual de valor para o bem é bilateral, valendo tanto para uma parte como para a outra?. (Leasing o arrendamento financeiro, Malheiros, 1999, p. 82) 
+Esta, também a orientação dominante no STJ: ? Desfeito o arrendamento mercantil, e não importa a causa, nada justifica a manutenção, com o arrendador, do referido valor pago por antecipação, devendo ser restituída ao arrendatário a quantia paga a título de VRG? (AREsp 093722, Rel.Min. Nancy Andrighi, DJ 07/02/2012). Neste mesmo sentido: AREsp 068755Rel. Min. Sidnei Beneti, DJ 25/11/2011; REsp 1285333, Rel. Min. Massami Uyeda, DJ 07/11/2011.
+Assim, rescindido o contrato, e apreendido o bem garantidor do contrato, somente após a liquidação será possível aferir a necessidade ou não de devolução do valor antecipado à arrendatária, sendo descabido o seu perdimento como penalidade pelo inadimplemento confessado (...). (TJSP, 35ª Câmara de Direito Privado, APELAÇÃO COM REVISÃO Nº 0022555-70.2010.8.26.0451, Rel. Des. Clóvis Castelo, j. 23.4.2012)
+No entanto, esse posicionamento carece de algumas ponderações, que justificam a alteração do modo de decidir. Ora, se, conforme definido pela legislação, o valor residual representa a opção de compra, não é possível tratá-lo como caução da compra do bem, sob pena de desvirtuamento do contrato de leasing. O contrato de arrendamento mercantil, ou leasing, caracteriza-se pela combinação de locação com a opção de compra ao final. Ora, para que o contrato tenha mantida sua característica natural, é preciso que se garanta ao consumidor a possibilidade de optar pela locação, pura e simples. 
+Isso significa que, embora possível a cobrança antecipada do VRG (Súmula 293 do C. STJ), em qualquer que seja a hipótese de resolução do contrato (ou seja, quer decorrente da opção ao final, quer decorrente de inadimplemento), o consumidor sempre terá o direito de reaver os valores pagos, caso não tenha sido efetuada a opção de compra. 
+Por isso, não é razoável condicionar a devolução do VRG à liquidação do contrato. Em tese, a locação poderia ser refeita a favor de outro consumidor. A venda do veículo e o prejuízo correlato são opções da arrendadora. Nesse contexto, o reconhecimento do VRG como garantia da financeira somente poderia ser aceito, para não desnaturar o contrato de arrendamento mercantil, como uma caução restrita aos débitos referentes à locação, exclusivamente. 
+Mas não é assim que a financeira pretende seja interpretado o dispositivo. O contrato fl. 18 revela que o valor residual garantido corresponde à integralidade do valor do veículo, ou seja, representa valor equivalente ao montante que deveria ser financiado. 
+Esse entendimento não pode ser aceito, justamente porque a operação não é de compra e venda, pura e simples. Dito de outro modo: quem opera arrendamento mercantil poderia até, em tese, esperar receber o valor devido pela locação e pelos encargos decorrentes da mora; mas não pode opor o investimento realizado pela compra do bem, nas hipóteses de resolução do contrato sem realização dessa opção pelo consumidor. 
+O valor do VRG pago não foi questionado. Na realidade, do valor a ser devolvido deveriam, em princípio, ser descontados os valores que correspondem aos débitos decorrentes da locação, até a reintegração, acrescidos dos encargos contratuais. Nada mais. Mas, mesmo esse débito deve ser revisto.
+É que ? agora toco no outro tema desta ação ? o autor tem razão quanto à ilegalidade de algumas tarifas objeto de cobrança.
+Primeiramente, consigne-se que a relação discutida é de consumo, aplicando-se à hipótese a lei 8.078/90. 
+Ainda assim não fosse, o contrato bancário, quando estabelecido por adesão, conforma-se dentro dos princípios do CDC, especificamente quanto à disciplina contratual, por força da norma de extensão do artigo 29 do mesmo diploma. 
+Em outras palavras, embora não haja consumidor em um dos pólos da relação, as práticas contratuais devem observar as regras constantes do capítulo V da lei 8.078/90, em razão do artigo retro citado.
+Insurge-se, o consumidor, contra exação de tarifas que não teriam lastro no serviço prestado e que importariam acréscimo indevido ao custo do contrato. 
+Sobre essa questão, o autor tem parcela de razão.
+O consumidor tem o direito de saber, de antemão, as condições de seu empréstimo, ex vi do disposto no artigo 52, verbis:
+?No fornecimento de produtos ou serviços que envolva outorga de crédito ou concessão de financiamento ao consumidor, o fornecedor deverá, entre outros requisitos, informá-lo prévia e adequadamente sobre:
+I - preço do produto ou serviço em moeda corrente nacional;
+II - Montante dos juros de mora e da taxa efetiva anual de juros(...)?
+Ora, evidente que as tarifas se referem ao preço do serviço. E, ausente necessidade de contratação de terceiros para realização dos serviços ali descritos, não haveria causa para majoração subliminar do preço, a representar forma de escamoteamento do real valor do custo do crédito. 
+Tanto a tarifa de contratação (R$ 600,00) como o ressarcimento pela emissão de boletos servem para ressarcir serviços utilizados unicamente no interesse da financeira. 
+Argumenta-se, em favor dessas cobranças, com o fato de haver autorização regulamentar (que não autoriza ofensa à lei nem ao dever de transparência por ela imposto) e custos para a financeira. Mas esses custos são internos e, portanto, compõem o preço do serviço que é remunerado pelos juros remuneratórios, nada mais. 
+A cobrança pela emissão de boletos bancários, concessa venia, não tem amparo legal, nem se fosse previsto em lei. Deveras, dispõe o artigo 51, XII, do Código de Defesa do Consumidor, aplicável ao caso vertente:
+
+Art. 51. São nulas de pleno direito, entre outras, as cláusulas contratuais relativas ao fornecimento de produtos e serviços que:
+...
+XII - obriguem o consumidor a ressarcir os custos de cobrança de sua obrigação, sem que igual direito lhe seja conferido contra o fornecedor;
+Ora, nada há a indicar previsão de igual direito ao consumidor, de modo que a exação se mostra, prima facie, ilegal. 
+Em outras palavras, o produto principal do contrato é o arrendamento, a ser pago mediante parcelas, cuja exação faz parte da natureza do contrato e que, portanto, deve compor o preço do produto. Entendimento diverso ofenderia o disposto no artigo 52, I, do CDC, por permitir surpresa indevida quanto à composição do preço, em detrimento do consumidor. A existência de autorização do Banco Central para cobrança de tarifas bancárias não permite exação de tarifas ilegais, como é o caso dos autos. 
+Nesse sentido, decidiu o E. Tribunal de Justiça de São Paulo:
+DECLARATÓRIA - COBRANÇA - CONTRATO DE FINANCIAMENTO - Quitação antecipada - Abatimento menor do que o devido - Necessidade de repetição de indébito - Taxa de abertura de crédito (TAC) e tarifa de emissão de carne (TEC) - Ilegalidade da cobrança - Aplicação do artigo 42, parágrafo único, do CDC - Recurso provido. (TJSP, 21ª Câmara de Direito Privado, Apelação N° 990.09.298060-2, Rel. Des. Silveira Paulilo, j. 9.12.2009)
+Esses valores não devem, contudo, ser devolvidos em dobro. É que, diante da previsão contratual e da autorização regulamentar, não há como vislumbrar má-fé da requerida. Na realidade, à exceção da tarifa de boleto bancário, cobrada diferentemente em cada uma das prestações, a solução, aqui, importa única e exclusivamente a inexigibilidade dos valores referentes às tarifas. É que, resolvido o contrato sem realização da opção de compra, esses valores - que integrariam o custo da aquisição do bem - serão devolvidos, na medida em que seriam pagos mediante o recolhimento do VRG.
+Assim, procede o pleito de devolução do VRG e das tarifas expurgadas, abatidos os valores das contraprestações atrasadas até a data da reintegração. Essa é a única observação em relação ao pleito inicial. Mas, como o valor do VRG supera, em muito, o valor dos alugueres, é possível desde logo reconhecer a inexistência de débito a justificar a inclusão de seu nome em cadastro de inadimplentes.
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a pretensão da autora, para declarar a ilegalidade das tarifas apontadas e condenar o requerido devolver os valores pagos a título de VRG, abatidos os débitos das contraprestações atrasadas e encargos moratórios, até a data da reintegração. Esses valores devem ser atualizados desde o desembolso e acrescidos de juros moratórios de 12% ao ano, a contar da citação. Diante do reconhecimento de saldo credor em favor do consumidor, oficie-se para exclusão do nome da requerente dos órgãos de cadastro. Ante a sucumbência mínima da autora, as custas, despesas processuais e honorários advocatícios, fixados em 10% sobre o valor da condenação, serão suportados pela ré.
+P. R. I. C.
+São Paulo, 23 de maio de 2013
+FÁBIO HENRIQUE FALCONE GARCIA
+Juiz de Direito

@@ -1,0 +1,71 @@
+
+
+Termo de Conclusão
+Em  Data da Última Movimentação Lançada> faço estes autos conclusos à(o) MM. Juiz(a) de Direito. Eu,             , Escrevente, Subsc.
+
+SENTENÇA
+
+Processo nº:1041410-61.2013.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Direito de Imagem
+Requerente:IGUI WORLD WIDE PARTICIPAÇÕES LTDA
+Requerido:Google Brasil Internet Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Tonia Yuka Kôroku
+
+
+Vistos.
+
+IGUI WORLD WIDE PARTICPAÇÕES LTDA moveu a presente ação de obrigação de fazer c.c. tutela antecipada contra GOOGLE BRASIL INTERNET LTDA. alegando que é detentora da marca ?IGUI PISCINAS? e foi surpreendida com publicação de vídeo com afirmações falsas e difamatórias contra sua empresa no site ?youtube?, que é administrado pela ré. Daí a presente ação, na qual requer a antecipação de tutela a fim de que a ré remova o conteúdo ofensivo disponibilizado por terceiro. 
+Tutela antecipada indeferida às fls. 34.
+Em contestação (fls. 54/72) a ré afirma que não pode ser responsabilizada pelo que os usuários postam no ?youtube?, que é um espaço essencialmente democrático para a divulgação de ideias e opiniões por meio de vídeos. Afirma ainda a impossibilidade técnica e fática de fiscalização prévia, sendo necessária a indicação da URL (endereço eletrônico) para a retirada do vídeo. Além disso, afirma que o vídeo em questão não é ofensivo, pois apenas consta opinião do consumidor.
+Réplica a fls. 100/102.
+
+É o relatório.
+DECIDO.
+
+A ação é improcedente.
+
+A ré Google somente poderia retirar as páginas se houvesse decisão judicial, não podendo agir apenas com mero pedido do ofendido, salvo se o conteúdo for manifestamente ilícito, como pornografia infantil. 
+No caso, a alegada ilicitude nem mesmo se verifica, posto que o consumidor não fez qualquer tipo de ofensa a empresa autora, pelo contrário, conforme a própria requerente afirma, houve apenas menção ao produto em si, com reclamações pela sua insatisfação.
+É necessário enfatizar que a Constituição Federal protege os direitos do consumidor (artigo 5º, XXXII e artigo 170, V), além do próprio direito à liberdade de expressão (artigo 5º, IV), de modo que não se verifica qualquer ilicitude na conduta do consumidor que externa sua visão sobre o produto sem atingir a personalidade da empresa que o produz.
+De qualquer forma, a ré não se responsabiliza, ao menos a priori, pelo conteúdo das informações postadas pelos seus usuários. A reponsabilidade é do usuário que inseriu as informações nos provedores de conteúdo.
+Neste sentido já decidiu o Superior Tribunal de Justiça:
+?RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. PROVEDOR. MENSAGEM DE CONTEÚDO OFENSIVO. RETIRADA. REGISTRO DE NÚMERO DO IP. DANO MORAL. AUSÊNCIA. PROVIMENTO.
+1.- No caso de mensagens moralmente ofensivas, inseridas no site de provedor de conteúdo por usuário, não incide a regra de responsabilidade objetiva, prevista no art. 927, parágrafo único, do Cód. Civil/2002, pois não se configura risco inerente à atividade do provedor. Precedentes.
+2.- É o provedor de conteúdo obrigado a retirar imediatamente o conteúdo ofensivo, pena de responsabilidade solidária com o autor direto do dano.
+3.- O provedor de conteúdo é obrigado a viabilizar a identificação de usuários, coibindo o anonimato; o registro do número de protocolo (IP) dos computadores utilizados para cadastramento de contas na internet constitui meio de rastreamento de usuários, que ao provedor compete, necessariamente, providenciar.
+4.- Recurso Especial provido. Ação de indenização por danos morais julgada improcedente. Ademais, é certo que o fato de os provedores retirarem uma página específica não impede que o mesmo conteúdo apareça em outras páginas com endereço distinto. Faz parte do sistema e as requeridas não têm como identificar todas as páginas em que haja comentários do réu Renato Coutinho de caráter ofensivo. Cabe ao autor indicar as páginas especificamente informando o URL (REsp 1306066/MT, Terceira Turma, Relator Ministro Sidnei Beneti, d.j. 17/04/2012)?. (grifei)
+
+Melhor, explicando, trata-se de uma questão técnica. A ré não tem mecanismos de controle das informações que são exibidas no seu site, pois os vídeos são inseridos na rede por terceiros, não havendo mecanismos prévios de filtragem por conteúdo. E ainda que a informação seja excluída ela pode voltar a ser exibida com outro URL, não tendo a ré como evitar isso, pois o processo é automático e não há tecnologia disponível que possa evitar o ressurgimento de uma informação já excluída anteriormente, se esta tiver novo URL. A requerida pode excluir de seu site os URL´s informados, mas não tem a ré como impedir que aquelas mesmas informações voltem a ser exibidas ou que novas informações desabonadoras à pessoa do autor sejam exibidas. Não há tecnologia disponível capaz de fazer tal filtragem.
+A doutrina e jurisprudência vêm, com acerto, entendendo pela inexistência de qualquer dever de fiscalização ou controle por parte dos provedores de serviços de Internet, sobre o conteúdo veiculado por usuários de seus sistemas.
+Admitir-se que o provedor tenha um poder-dever de supervisão sobre o conteúdo das informações inseridas em seu site de busca é de todo incompatível com a natureza dos serviços prestados. A responsabilização, ainda que por omissão, do réu somente seria possível caso existente o aludido dever legal ou contratual de monitoramento.
+É o que explica MARCEL LEONARDI (Responsabilidade Civil dos Provedores de Serviços de Internet, São Paulo, Juarez de Oliveira, 2005, p 89), em recente dissertação específica a respeito do tema:
+"Respeitados os termos de seus contratos de prestação de serviços e as normas de ordem pública, os provedores de serviço tem o dever de não censurar qualquer informação transmitida ou armazenada em seus servidores. Não cabe aos provedores exercer o papel de censores de seus usuários, devendo bloquear o acesso a informações ilícitas apenas se não houver dúvidas a respeito de sua ilegalidade ou se assim ordenados por autoridade competente."
+Não há lugar, na hipótese, para a aplicação da excepcional responsabilização objetiva derivada da teoria do risco, quando a ausência de ilicitude na conduta da requerida - ao simplesmente propiciar livremente meios para a criação de uma página eletrônica. Diverso seria o caso de a própria requerida haver criado o risco, quando a responsabilização objetiva, portanto, seria de rigor.
+Nesse exato sentido, a opinião de Rui STOCO (Tratado de Responsabilidade Civil, 6a Ed , São Paulo, 2004, p. 901):
+"O provedor da Internet, agindo como mero fornecedor de meios físicos, que serve apenas de intermediário, repassando mensagens e imagens produzidas por outras pessoas e, portanto, não as produziu nem sobre elas exerceu fiscalização ou juízo de valor, não pode ser responsabilizado por eventuais excessos e ofensas à moral, à intimidade e à honra de outros."
+Destarte, pela ausência de qualquer ilicitude na conduta da requerida e pela ausência de obrigação legal ou contratual de a ré em impedir a exibição de informações que são inseridas por terceiros na rede, não merece acolhimento o pedido da autora.
+
+Isto posto, JULGO IMPROCEDENTE a presente ação.
+
+Em razão da sucumbência, arcará a autora com o pagamento das custas, despesas processuais e honorários advocatícios, ora arbitrados em 10% (dez por cento) do valor da causa, tendo em vista a relativa simplicidade da matéria debatida.
+P.R.I.
+
+
+
+São Paulo, 28 de novembro de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA
+
+
+
+                                   DATA
+
+Em _________________ recebi estes autos em cartório.
+
+_____________________. Esc.

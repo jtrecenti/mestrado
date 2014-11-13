@@ -1,0 +1,80 @@
+
+
+SENTENÇA
+
+Processo nº:0172874-70.2009.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Assunto Principal do Processo >
+Requerente:Calderoh Comércio de Peças Ltda Epp
+Requerido:Direções Hidráulicas Londrina Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Carmen Lúcia da Silva
+
+
+
+VISTOS.
+
+CALDEROH COMÉRCIO DE PEÇAS LTDA EPP ajuizou ação anulatória de títulos em face de DIREÇÕES HIDRÁULICAS LONDRINA LTDA, alegando, em síntese, que foi surpreendida pela indicação e protesto das duplicatas mercantis nº 12355.3.2 (R$ 398,01), 1126133 (R$ 557,29), 1235531 (R$ 398,02), 1227733 (R$ 648,23), 1141233 (R$611,19), 1074132 (R$ 244,45), 1194531 (R$ 282,00), 1194532 (R$ 282,00), porque não entabulou com a ré qualquer negócio comercial a justificar a emissão dos títulos que foram apontados a protesto. Pleiteou a antecipação dos efeitos da tutela para suspender o protesto dos títulos. Requereu, também, o reconhecimento da ausência de relação jurídica entre as partes e o cancelamento dos protestos. Com a inicial, vieram os documentos de fls. 09/22.
+
+A fls. 46/47, foi concedida a antecipação dos efeitos da tutela à parte autora.
+
+Em sua contestação (fls. 58/86), a ré sustentou a regularidade dos negócios jurídicos que motivaram a emissão das duplicatas. Aduziu que as compras foram realizadas por preposto da autora e entregues no endereço por ela indicado. Destacou que os títulos não foram pagos no vencimento e por isso apontados para protesto, não havendo qualquer nulidade. Pugnou pela improcedência do pedido.
+
+Houve réplica (fls. 98/101).
+
+É o relatório.
+
+DECIDO.
+
+Nos termos do artigo 330, inciso I, do Código de Processo Civil, o pedido comporta julgamento na fase em que o processo se encontra.
+
+O pedido comporta provimento.
+
+A duplicata mercantil é um título causal. Conforme ensina Fábio Ulhoa Coelho, é um título causal ?no sentido de que sua emissão somente é possível para representar crédito decorrente de uma determinada causa prevista em lei?.
+
+Finca-se o debate na questão da exigibilidade ou não de duplicatas mercantis por indicação sacadas pela ré em desfavor da autora, no importe total de R$ 3.421,19 (três mil quatrocentos e vinte e um reais e dezenove centavos).
+
+Insurge-se a autora contra a emissão de nota fiscal de venda e protesto de duplicatas em razão dela sacada, alegando que se trata de título sem lastro, porque não representa qualquer negociação mercantil entre sacador e sacado.
+
+Analisando as faturas de fls. 74/79, verifico que não preenchem os requisitos legais, porque não está comprovado o aceite nem a entrega das mercadorias descritas.
+
+Com efeito, a Lei nº 5.474/68 exige o documento hábil demonstrando a efetiva entrega das mercadorias. Veja-se:
+
+?Art. 1º: Em todo o contrato de compra e venda mercantil entre partes domiciliadas no território brasileiro, com prazo não inferior a 30 (trinta) dias, contado da data da entrega ou despacho das mercadorias, o vendedor extrairá a respectiva fatura para apresentação do comprador.
+§ 1º: A fatura discriminará as mercadorias vendidas ou, quando convier ao vendedor, indicará somente os números e valores das notas parciais expedidas por ocasião das vendas, despachos ou entregas das mercadorias?. 
+
+Nesse contexto, a mera emissão da nota fiscal não comprova a negociação, a autorizar a cobrança do título, porque o comprador só saberá que contra ele foi sacado um título de crédito cambiariforme quando o vendedor lhe remeter a duplicata para aceite no prazo de 30 (trinta) dias contados da data da sua emissão, remessa essa obrigatória nos termos do parágrafo primeiro do artigo 6º da Lei da Duplicata, que se acha assim redigido: ?o prazo para remessa da duplicata será de 30 (trinta) dias, contado da data de sua emissão?.
+
+No caso em análise, a duplicata foi emitida por indicação. Essa possibilidade é disciplinada pela Lei 9.429/97, que regulamenta os serviços concernentes ao protesto de títulos e outros documentos, que em seu artigo 21, § 3º estabelece:
+
+?Art. 21. O protesto será tirado por falta de pagamento, de aceite ou de devolução.
+§ 3º. Quando o sacado retiver a letra de câmbio ou a duplicata enviada para aceite e não proceder à devolução dentro do prazo legal, o protesto poderá ser baseado na segunda via da letra de câmbio ou nas indicações da duplicata, que se limitarão a conter os mesmos requisitos lançados pelo sacador ao tempo da emissão da duplicata, vedada a exigência de qualquer formalidade não prevista na Lei que regula a emissão e circulação das duplicatas?.
+
+O protesto por indicação somente pode ser efetivado na hipótese do título ter sido retido pelo sacado, em nenhuma outra, pois assim o determinou o legislador, pois esta é a única hipótese do sacador não estar em poder da duplicata.
+
+Não havendo remessa da duplicata para o aceite do sacado, não pode o credor sacador se valer do protesto por indicação. Deverá, nessa hipótese, apresentar a duplicata para protesto por que o título, por não ter enviado, estará com ele. Porém, se não enviou o título, este não é considerado duplicata por ausência de requisito essencial que é a remessa ao sacado, e consequentemente, título representativo de dívida líquida, certa e exigível capaz de ensejar protesto cambial.
+
+As duplicatas em questão, ante a falta de comprovação da regularidade formal, por não terem sido enviadas para aceite, e mais, deles não constar recibo de entrega das mercadorias, não podem ser consideradas como títulos mercantis, não podendo, por essa razão, serem protestadas, pois lhe faltam a certeza a exigibilidade.
+
+Nesse sentido:
+
+?APELAÇÃO CÍVEL. CIVIL. PROCESSUAL CIVIL. PROTESTO INDEVIDO DE DUPLICATA. NÃO COMPROVAÇÃO DA ENTREGA DE MERCADORIAS. REFLEXOS CREDITÍCIOS NEGATIVOS À PESSOA JURÍDICA. DANO MORAL CONFIGURADO. OBRIGAÇÃO DE REPARAR. I. Preliminares arguidas de ilegitimidade passiva rejeitadas. II. Emissão de títulos cuja mercadoria não foi entregue, duplicatas sem lastro, sem origem, sem aceite, ou seja, o apelado não recebeu a mercadoria, não assinou conhecimento da transportadora e muito menos deu aceite em duplicata. III. Apelo improvido? (TJMA, Apelação Cível nº 67212008, Rel. Des. Raimunda Santos Bezerra, J. 06.03.2009).
+
+Assim, a ré não se desincumbiu do ônus de comprovar a regularidade do negócio mercantil que justificasse o saque dos títulos de crédito questionado, de forma a afastar a pretensão deduzida pela autora.
+
+Por estes motivos, o pedido inicial de declaração de inexigibilidade das duplicatas emitidas contra a autora pela ré merece acolhida.
+
+Posto isso, JULGO PROCEDENTE o pedido formulado pela autora CALDEROH COMÉRCIO DE PEÇAS LTDA EPP, CONFIRMO a antecipação dos efeitos da tutela, e DECLARO a inexigibilidade das duplicatas mercantis emitidas pela ré DIREÇÕES HIDRÁULICAS LONDRINA LTDA, sob os números 12355.3.2, 1126133, 1235531, 1227733, 1141233, 1074132, 1194531 e 1194532, nos valores, respectivamente, de R$ 398,01, R$ 557,29, R$ 398,02, R$ 648,23, R$611,19, R$ 244,45, R$ 282,00, e R$ 282,00.
+
+Sucumbente, arcará a empresa ré com o pagamento das custas, despesas processuais e honorários advocatícios que fixo por equidade, em R$ 2.500,00 (dois mil e quinhentos reais), corrigidos até o efetivo pagamento.
+
+P.R.I.C.
+
+
+São Paulo, 14 de janeiro de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

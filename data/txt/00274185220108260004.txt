@@ -1,0 +1,77 @@
+
+
+SENTENÇA
+
+Processo nº:0027418-52.2010.8.26.0004
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Moral
+Requerente:Marcelo de Cardoso Heilberg
+Requerido:Tim Celular S/A
+
+
+Juiz(a) de Direito: Dr(a). Julio Cesar Silva de Mendonça Franco
+
+
+
+
+
+
+
+V I S T O S, etc.
+
+
+
+
+
+I. MARCELO DE CARDOSO HEILBERG moveu a presente ação declaratória de inexigibilidade de débito c.c. Obrigação de fazer e indenização por danos materiais e morais, pelo rito ordinário, contra TIM CELULAR S.A., alegando, em resumo, que é cliente da empresa-ré e adquiriu a linha de telefone celular nº (11) 8181-3001, cujo serviço "pós-pago" é cobrado mediante débito automático em conta-corrente. Disse que teria recebido a conta de consumo do mês de dezembro de 2010 (período de 01/11 a 30/11/2010), no valor de R$8.338,11, sendo que, desse montante, a requerida estaria cobrando indevidamente a importância de R$7.992,43 pelo serviço denominado "Tim Conect Fast em Roaming Internacional" (32 conexões ou 242,19 MB). Sustenta que não utilizou referido serviço. Afirma que esteve em viagem internacional no período de 10/11 a 21/11/2010, mas que teria desabilitado os serviços "internet wi-fi", rede "3G", "roaming" de dados e serviço de localização, fazendo uso apenas de chamadas telefônicas e mensagens "SMS".  Entretanto, a ré teria lançado seu nome nos órgãos de proteção ao crédito, o que teria lhe causado danos morais. Pediu a tutela antecipada para depositar judicialmente a quantia cobrada pela ré, para ordenar a exclusão de eventuais apontamentos negativos no SCPC e SERASA, e para manter ativo o serviço em sua linha telefônica celular, bem como a procedência do pedido para declarar a inexigibilidade da dívida e para condenar a Ré ao pagamento de indenização por danos morais e materiais, estes últimos consistentes na devolução do valor indevidamente cobrado, mais juros e correção monetária sobre o valor judicialmente depositado.
+O pedido de tutela antecipada foi deferido (fls. 46/47).
+Devidamente citada (fls. 49), a Requerida apresentou contestação (fls. 54/75). Em síntese, alegou que a linha telefônica celular nº (11) 8181-3001 foi cancelada por solicitação do autor, em 16/11/2010. Entretanto, a cobrança estaria correta, pois se refere a serviços efetivamente disponibilizados ao autor e usufruídos por ele. Sustentou a inexistência de dano moral indenizável. Impugnou o montante pleiteado a título de indenização, reputando-o excessivo.
+Houve réplica (fls. 103/107).
+Determinada a especificação de provas (fls. 108), o autor pugnou pela produção de prova documental (fls. 113/114), e a ré disse não ter outras provas a produzir (fls. 111/112).
+A audiência de conciliação designada resultou infrutífera (fls. 120).
+Em razão da inversão do ônus da prova (artigo 6º, VIII, do Código de Defesa do Consumidor), determinei à ré que se manifestasse expressamente em termos de realização de mais alguma prova nos autos (fls. 125), mas ela quedou-se novamente inerte (fls. 133).
+O autor informou nos autos a manutenção da restrição no SERASA (fls. 130), razão pela qual foi determinada a expedição de ofício, nos termos da decisão de fls. 46 (fls. 131), finalmente cumprida a fls. 136.
+
+É o breve relatório.
+ 
+D E C I D O.
+
+II. A ação é parcialmente procedente.
+
+Antes de qualquer coisa, cumpre denotar que a matéria cerne da celeuma está a dispensar a ampliação do leque instrutório, motivo pelo qual se mostra viável o julgamento antecipado da contenda. 
+Pelo que se depreende da petição inicial, o autor se volta contra a cobrança da importância de R$ 7.992,43, cobrada em dezembro de 2010, por conta do contrato de prestação de serviços em linha telefônica móvel celular firmado com a ré, mais especificamente o serviço denominado "Tim Conect Fast em Roaming Internacional", pelo qual teria realizado 32 conexões internacionais (ou 242,19 MB) no mês de novembro de 2010. Sustenta que não utilizou referido serviço, e que a cobrança é indevida. Pediu também a exclusão de eventual negativação em órgãos de proteção ao crédito.
+Ainda, o autor reconheceu ser devido o valor de R$ 345,68 e depositou a importância total cobrada (R$ 8.338,11, fls. 100)
+Sobre o assunto, a Ré não negou o fato da cobrança, ou que tenha enviado o nome do autor ao SERASA, porém sustentou a regularidade da conduta, alegando que o autor utilizou os serviços, mas não efetivou o pagamento dos mesmos. 
+Destarte, ficaram incontroversos os seguintes fatos: a existência de contrato entre as partes, o valor cobrado pelo serviço (R$ 7.992,43) e não pago pelo autor e a solicitação feita pela ré de registro do nome do autor no cadastro de maus pagadores do SERASA (fls. 115). Impende saber agora se a Ré agiu legitimamente, ou se deve ser responsabilizada civilmente pelo ato.
+Sem sombra de dúvidas, trata-se de relação de consumo amparada pelo Código de Defesa do Consumidor. Com efeito, o autor é consumidor dos serviços prestados pela ré na área de telefonia móvel celular, pois com ela mantém contrato relativo à linha nº (11) 8181-3001.
+Em tais circunstâncias, é certo que era da Ré o ônus de provar a regularidade da cobrança e a legitimidade do exercício do direito de enviar o nome do autor aos cadastros de maus pagadores.
+
+De fato, se o autor alega que desabilitou os serviços de internet e outros relativos ao "roaming" internacional, e que não utilizou os serviços posteriormente cobrados em sua fatura, é evidente que cabia exatamente à Ré, na condição de fornecedora, provar o contrário (artigo 333, II, do CPC). Até porque é a Demandada quem possui (ou deveria possuir) a documentação relativa ao serviço prestado, como, por exemplo, os relatórios de acessos realizados pelo autor em seu aparelho móvel, identificação do IP vinculado, histórico de navegação, e outros, de modo a comprovar a regularidade da cobrança. 
+Note-se que a cobrança refere-se a trinta e duas (32) conexões supostamente realizadas através do serviço "Tim Conect Fast em Roaming Internacional", entre os dias 10 e 21/11/2010, no total de 242,19 MB de volume de dados (fls. 76 e 81). Porém, a fatura de pagamento, por si só, não prova o serviço prestado. Primeiro, porque foram emitidas unilateralmente pela ré. Segundo, porque não discrimina as conexões, e nem sequer indica seguramente o local de origem das mesmas (fls. 81, "NO EXTERIOR"). Terceiro, porque o autor as impugnou judicialmente, razão bastante para a ré comprovar, por documentos ou outras provas, que o serviço foi prestado e que o destinatário foi o autor.
+Contudo, a Ré não se desincumbiu eficazmente do seu ônus, porque, apesar de intimada, disse não ter outras provas a produzir. E, novamente instada, quedou-se em silêncio, demonstrando desinteresse na respectiva dilação probatória. 
+Também não subsiste a alegação da ré de que houve o cancelamento da linha em 16/11/2010. Ora, a fatura de cobrança foi emitida para o período de 01/11/2010 a 30/11/2010, e houve prestação de serviços para além de 16/11/2010, conforme se vê nos documentos de fls. 76/85. Aliás, como já se viu, a ré está cobrando do autor supostas conexões internacionais entre os dias 10 e 21/11/2010. Ademais, ainda que tenha havido o cancelamento na data sobredita, isto não altera a realidade da cobrança indevida, nem minora, de modo algum, a responsabilidade da demandada no evento.
+Por conseguinte, não há prova da obrigação, de modo que não subsiste a cobrança do débito, razão pela qual deve ser declarado inexistente. Em corolário, também são indevidos os apontamentos negativos do nome do Autor levados a cabo pela ré. 
+Configurada a culpa da Acionada, resta agora aferir a extensão do dano causado e a respectiva indenização.
+
+Nesse passo, é de se destacar que a anotação preservada junto ao Serasa foi realmente de ordem a causar prejuízos morais para o Requerente, pois qualquer consulta aos apontamentos em questão denotaria que o mesmo é pessoa descumpridora dos seus deveres e compromissos validamente assumidos. 
+Portanto, o Acionante faz jus à indenização perseguida, pois a moral posta em defesa não é somente a objetiva (aquele juízo que os outros fazem da nossa pessoa), mas também a subjetiva ? que é a idéia própria que temos de tudo o que se passa conosco. 
+Assim, o só fato de ter sido submetido a uma situação de suspeita e descrédito, sem possuir maiores responsabilidades, já bastaria para o Requerente ver acolhido o pleito inaugural (?damnum in re ipsa?).
+Destarte, o Acionante está mesmo a merecer a reparação almejada cabendo, no ensejo, a fim de que não pairem dúvidas, definir o que seria exatamente dano moral.
+Tal classe de dano, segundo escólio do I. Wilson Mello da Silva, consiste em ?lesões sofridas pelo sujeito físico ou pessoa natural de direito em seu patrimônio ideal, entendendo-se por patrimônio ideal, em contraposição à patrimônio material, o conjunto de tudo aquilo que não seja susceptível de valor econômico? (apud ?Direito Civil?, Sílvio Rodrigues, volume IV, Editora Saraiva, 13ª edição, página 208).
+Ainda, conforme preleciona o doutrinador Caio Mário da Silva Pereira, ?O fundamento da reparabilidade pelo Dano Moral está em que, a par do patrimônio em sentido técnico, o indivíduo é titular de direitos integrantes de sua personalidade, não podendo conformar-se a ordem jurídica em que sejam impunemente atingidos. Colocando a questão em termos de maior amplitude, Savatier oferece uma definição de Dano Moral como 'qualquer sofrimento humano que não é causado por uma perda pecuniária, e abrange todo atentado à reputação da vítima, à sua autoridade legítima, ao seu pudor, à sua segurança e tranqüilidade, ao seu amor próprio estético, à integralidade de sua inteligência, às suas feições, etc.' (Traitê de 1ª Responsabilité Civile, volume 02, número 525)? (in ?Responsabilidade Civil?, Editora Forense, Terceira Edição, página 54).
+Em corolário de todo o retro exposto, chegamos à ilação segura de que o Autor, ferido  que foi em sua dignidade e decoro, tem direito ao recebimento de uma justa indenização para ver aplacada a sua dor.
+
+Para a fixação do ?quantum? indenitário, deve se levar em conta o grau e tipo da ofensa perpetrada, bem como a extensão dos danos causados em face da mesma, o que, no caso vertente, foi de âmbito relativamente considerável, pois o nome do autor permaneceu apontado no SERASA por pelo menos sete meses (22/07/2011 a 13/03/2012, fls. 115 e 136).
+Assim sendo, arbitro os danos morais em importe equivalente à R$ 8.000,00 (oito mil Reais), como valor suficiente para reparação dos prejuízos em testilha, bem como para servir de estímulo para que a Requerida tome as medidas necessárias para tornar eficiente seu serviço de cobrança ao consumidor.
+No que tange aos danos materiais, o pedido do autor constante no item "5", letra "c", não têm supedâneo jurídico. Note-se que não houve determinação judicial para depósito judicial de quaisquer valores, nem mesmo a título de caução para a concessão da tutela liminar, como se vê na decisão de fls. 46/47. Mesmo assim, o autor depositou, por sua livre e espontânea vontade, o numerário constante de fls. 100. Portanto, não há que se falar em indenização. Não obstante, não há prejuízo algum, porque, sobre a referida quantia, incidirão os encargos normais e comuns a todo depósito judicial.
+Também não me convenço da existência de indébito a ser repetido em favor do autor (fls. 13, item "5", letra "b"). O autor não provou que a quantia cobrada pela ré foi descontada em sua conta corrente, mediante débito automático. Aliás, foi justamente por conta da falta de pagamento que a ré enviou o nome do autor ao SERASA. Portanto, improcede o pedido de indenização. 
+Finalmente, as "astreintes" são devidas, porque ficou comprovado que a requerida desobedeceu a ordem judicial no sentido de se abster de lançar o nome da requerente no cadastro negativo do SERASA, ou, caso já tivesse lançado, providenciar a exclusão imediata (fls. 46/47). Conforme se verifica no documento de fls. 115/116, datado de 22/07/2011, a demandada lançou ou permitiu a continuidade do lançamento do nome do autor no SERASA, apesar de regularmente intimada da tutela liminar, em 27/01/2011 ( fls. 48/49).
+Portanto, a multa diária imposta a fls. 46 deve incidir a partir de 22/07/2011 (primeira data informada nos autos, fls. 115/116) até 13/03/2012 (data do cumprimento da ordem judicial, fls. 136/137), o que resulta em 230 (duzentos e trinta) dias, ou R$ 115.000,00 (230 X R$ 500,00).
+
+III. Isto posto, JULGO PARCIALMENTE PROCEDENTE a presente ação declaratória de inexigibilidade de débito c.c. Obrigação de fazer e indenização por danos materiais e morais movimentada por MARCELO DE CARDOSO HEILBERG contra TIM CELULAR S.A., para o fim de declarar a inexigibilidade do débito contestado nestes autos, no valor de R$ 7.992,43, por reconhecer a ausência de comprovação do serviço prestado pela requerida, bem como para determinar o cancelamento definitivo da restrição de crédito no SERASA, no valor de R$ 8.338,11.
+Outrossim, condeno a Requerida a pagar ao Requerente  indenização pelos danos morais sofridos, no importe eqüivalente a R$8.000,00 (oito mil reais), atualizado monetariamente pela Tabela Prática do E. TJSP, a partir desta data, e acrescido de juros de mora de 1% (um por cento) ao mês, desde o ato citatório. Em conseqüência, confirmo a tutela antecipadamente concedida a fls. 46/47.
+Também condeno a demandada ao pagamento de "astreintes" ao autor, no importe de R$ 115.000,00 (cento e quinze mil reais), na forma da fundamentação, acrescido de correção monetária pela Tabela Prática, mais juros de mora de 1% (um por cento) ao mês, desde esta data.
+Sucumbente em maior extensão, a Demandada arcará integralmente com o pagamento das custas, dos emolumentos, das despesas processuais e dos honorários advocatícios, que ora arbitro em 15% (quinze por cento) sobre o valor total da condenação.
+Transitada esta em julgado, expeçam-se guias de levantamento em favor do autor (R$ 7.992,43) e da ré (R$ 345,68), com os juros e correção proporcionais ao depósito de fls. 100.
+Oportunamente, oficie-se ao SERASA requisitando o cancelamento definitivo da anotação restritiva apenas no que se refere a esta demanda (fls. 137).
+P. R. I. 
+São Paulo, 04 de maio de 2012.

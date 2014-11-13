@@ -1,0 +1,85 @@
+
+
+SENTENÇA
+
+Processo nº:0037207-47.2011.8.26.0002
+Classe ? Assunto:Procedimento Ordinário - Telefonia 
+Requerente:Sensormatic do Brasil Eletrônica Ltda
+Requerido:Vivo S.A.
+
+
+VISTOS. 
+
+
+SENSORMATIC DO BRASIL ELETRÔNICA LTDA ajuizou ação declaratória de inexistência de crédito cumulada com pedido liminar de consignação em pagamento em face de Vivo S.A., alegando que a ré não vinha cumprindo a contento o contrato referente à prestação de serviço de telefonia móvel, de modo que a autora estava enfrentando diversos problemas técnicos e cobranças indevidas. Apesar de ter dado causa à resolução contratual, a ré insiste em receber da autora multa por rescisão antecipada (R$ 23.670,24), não aceitando emitir boleto bancário respeitante ao numerário incontroverso de R$ 5.317,95, que corresponde à contraprestação ao serviço utilizado pela demandante em dezembro de 2010. Assim, pede: a) a autorização para o depósito judicial do valor de R$ 5.317,95; b) a declaração de inexistência do dever de pagar a multa rescisória mencionada; c) a condenação da requerida a pagar a quantia cobrada indevidamente, nos termos do artigo 940 do Código Civil (CC); d) a aplicação do Código de Defesa do Consumidor (CDC).  
+
+O despacho inicial (fl. 54) autorizou, por conta e risco da autora, o depósito requerido na exordial, o que foi efetuado (fls. 58/59 e 123). 
+
+Citada (fl. 61), a ré apresentou contestação (fls. 63/79), em que se manifesta contra a incidência de qualquer benefício do CDC no caso em tela, defendendo a aplicação do direito comum. Sustenta que a multa cobrada é devida, pois a autora violou cláusula contratual, frustrando a perspectiva de retorno financeiro da ré pelo serviço prestado. Por consequência, não haveria que se falar na sanção prevista no artigo 940 do CC. Nessa toada, pugna pela total improcedência da ação, condenando-se a autora ao pagamento de custas processuais e honorários advocatícios (20% do valor da causa). 
+
+A autora ofertou réplica (fls. 125/132). 
+
+É O RELATÓRIO DO ESSENCIAL.
+
+FUNDAMENTO E DECIDO.
+ 
+A causa comporta imediato julgamento, dispensando a produção de outras provas, nos termos do artigo 330, inciso I, do Código de Processo Civil (CPC). 
+
+Inicialmente, oportuno frisar que o CDC não se aplica ao caso, visto que a requerente não se subsume ao conceito jurídico de consumidor, pois não contratou os serviços como destinatária final; ao contrário, esses eram destinados a servir como incremento da sua atividade econômica, caracterizando relação jurídica de cunho mercantil (business to business). Por conseguinte, o regime jurídico aplicável a esse liame é o direito privado comum e, no campo processual, o CPC, não sendo invocáveis os benefícios da legislação consumerista. Nesse sentido: 
+
+"CONTRATO - Ação de rescisão contratual cumulada com pedido declaratório de inexistência de débito e de indenização por danos morais - Prestação de serviços de telefonia móvel a microempresa - Impugnação dos valores cobrados pela empresa de telefonia - Hipótese em que o comodato dos aparelhos e o direito de uso das linhas telefônicas foram contratados com a finalidade do incremento das atividades empresariais da devedora, não caracterizada sua condição de consumidora final - Preliminar de cerceamento de defesa rejeitada - Inaplicabilidade do Código de Defesa do Consumidor ao caso - Pedido inicial julgado improcedente - Sentença mantida - Recurso improvido."
+(TJSP, 19ª Câmara de Direito Privado,  Apelação n° 9169198-72.2006.8.26.0000,  Rel.  Des.  João Camillo de Almeida Prado Costa,  Comarca de Barueri,  j.  28/2/2011);
+
+"CÓDIGO DE DEFESA DO CONSUMIDOR ? Relação jurídica mantida entre empresa de importação e exportação e empresa de telecomunicações - Relação de consumo inexistente - Relação contratual que é incremento da atividade empresarial e lucrativa da contratante, tomadora dos serviços; não sendo ela destinatária final da operação ? Inaplicabilidade do CDC.
+"RESCISÃO DE CONTRATO - Prova suficiente de falha no fornecimento do serviço - Aparelho destinado ao diretor da empresa que fica meses na assistência técnica e retorna com defeito - Contrato que envolve outros aparelhos, mas é único e prejudicou o principal canal de comunicação da empresa - Causa suficiente para a rescisão.
+"PERDAS E DANOS - Ressarcimento limitado ao valor dos equipamentos que devem ser restituídos a ré - Inexistência de prova de outros danos ou valores a serem recompostos pela ré - Sentença mantida - Recursos improvidos."
+(TJSP, 20ª Câmara-E da Seção de Direito Privado, Apelação n° 7.093.707-0, Comarca de São Paulo, Rel.  Des. Cláudio Augusto Pedrassi, j. 23/3/2010). 
+
+Acerca da multa, deve-se ter em mente que o contrato celebrado entre as partes alberga previsão de incidência dessa penalidade para o caso de rescisão contratual antes do término da vigência do ato jurídico em questão (2º parágrafo do "Termo de Adesão às Condições Gerias de Contratação do Serviço Móvel Pessoal e Outras Avenças", juntado em fl. 86). Pelas características do contrato, a referida cláusula é disciplinada de forma imediata pelo artigo 40, § 8º, do Regulamento do Serviço Móvel Pessoal, aprovado pela Resolução n° 477/2007 da Anatel. Ora, como o contrato foi rescindido antes do dies ad quem, por iniciativa da autora, pareceria correto o entendimento da ré, sendo devida a multa. 
+
+Entretanto, é imprescindível registrar que o pacto não foi rompido ad nutum, e sim por conduta faltosa da ré, que prestou o serviço com qualidade aquém da que era de se esperar, máxime quando se lembra que ela é uma companhia de grande porte, que, portanto, deveria estar suficientemente preparada para bem atender aos seus clientes. Pelo teor dos e-mails trocados entre as partes (fls. 35/43), percebem-se as deficiências na comunicação prestadora-usuária, o atraso na entrega de aparelhos vinculados ao plano, as cobranças indevidas, enfim, toda uma gama de falhas que levou a autora a cancelar o contrato, que mais lhe gerava desgastes do que benefícios. 
+
+Nesse contexto, seria absurdo exigir que a requerente pagasse uma vultosa multa à requerida, o que significaria premiar a demandada pelo mau serviço ofertado à demandante. É inequívoco que isso fugiria ao mais comezinho senso de justiça e representaria um menoscabo aos princípios de probidade e boa-fé que devem presidir tanto a celebração quanto a execução dos contratos (artigo 422 do CC). 
+
+Para evitar essa distorção, o final do § 8º do artigo 40 do Regulamento do Serviço Móvel Pessoal contempla uma causa de afastamento da multa, que consiste exatamente na hipótese de a desistência do contrato pelo usuário se dar "em razão de descumprimento de obrigação contratual ou legal por parte da Prestadora", impondo a essa última o ônus de provar que as alegações do usuário são infundadas. 
+
+No caso concreto, a ré não conseguiu provar que prestou um bom serviço à autora, atendendo-lhe adequadamente, entregando os celulares dentro dos prazos acordados, cobrando apenas o que era devido etc. Dada a natureza documento pré-constituído dessas provas, competia à ré apresentá-las junto com a contestação (artigo 396); como não o fez, operou-se a preclusão. 
+
+Cai a lanço consignar que as telas sistêmicas que aparecem em fls. 91/120 não têm qualquer valor probante, visto que não foi obedecido o artigo 365, inciso V, do CPC, o qual exige que os extratos digitais de bancos de dados (públicos ou privados) venham acompanhados de declaração do emitente de que, sob as penas da lei, as informações conferem com o que consta na origem.
+
+Por consequência, não conseguiu comprovar a ocorrência de fato impeditivo, modificativo ou extintivo do direito da autora, nos termos do artigo 333, inciso II, do CPC, tomando-se por verdadeiras as alegações em que se fundam o pleito de afastamento da multa rescisória. 
+
+Já o pedido autoral no sentido de se aplicar a sanção prevista no artigo 940 do CC não prospera. A redação desse dispositivo é cristalina ao fixar a hipótese de incidência dessa penalidade, não se contentando com uma cobrança indevida extrajudicial, mas exigindo que uma pessoa exija certa quantia valendo-se do Poder Judiciário. Reza o artigo em análise: 
+"Aquele que demandar por dívida já paga, no todo ou em parte, sem ressalvar as quantias recebidas ou pedir mais do que for devido, ficará obrigado a pagar ao devedor, no primeiro caso, o dobro do que houver cobrado e, no segundo, o equivalente do que dele exigir, salvo se houver prescrição." (Grifou-se). 
+
+Corroborando esse entendimento, cita-se a observação de Nelson Nery Junior e Rosa Maria de Andrade Nery (Código civil comentado. 8. ed. rev., ampl. e atual. até 12.07.2011. São Paulo: Revista dos Tribunais, 2011, p. 830): 
+
+"Para tanto [aplicação da pena do artigo 940], o devedor deverá ajuizar reconvenção ou pedido contraposto, conforme o caso, ou mesmo propor ação autônoma em autos distintos, requerendo a aplicação da penalidade em questão."
+
+Pelo que consta dos autos, a ré não ajuizou ação visando o recebimento da indevida multa rescisória, permanecendo a cobrança fora do âmbito da Justiça. Logo, como não houve a subsunção da conduta da demandada à hipótese legal, conclui-se que não é cabível a sanção do artigo 940 do CC. 
+
+Acerca do valor depositado em juízo, deve-se anotar que, por força do artigo 334 do CC, desde o momento em que a autora efetuou o depósito, considera-se adimplida a obrigação referente à retribuição dos serviços usados entre 17/11/2010 e 16/12/2010, discriminados na fatura de fl. 46, não incidindo multa, nem juros de mora. No caso sub judice, não era possível pagar apenas o valor que a autora reputava devido, tendo de optar entre pagar tudo ou nada do que era cobrado pela ré. Além disso, a demandada se recusou a permitir que a demandante lhe pagasse apenas a cifra incontroversa, por acreditar que a multa por rescisão antecipada era devida. Dessa maneira, ao teor do artigo 335, inciso I, 2ª parte, do CC, mostrou-se adequado o pagamento em consignação.
+
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a demanda, para: 
+
+1) declarar rescindido o contrato por culpa da ré e, por isso, declara a inexistência do dever da autora em pagar a multa rescisória no valor de R$ 23.670,24; 
+
+2) autorizar a ré a levantar a cifra de R$ 5.317,95, a título de quitação dos serviços prestados peal ré e utilizados pela autora, expedindo-se a respectiva guia de levantamento; 
+
+3) afastar o pleito de aplicação da penalidade prevista no artigo 940 do CC.
+
+Em razão da sucumbência, as partes ratearão o pagamento das custas e despesas processuais, arcando cada qual com os honorários de seus respectivos advogados. 
+
+A taxa judiciária incidente na interposição de recurso de apelação será calculada com base no valor da causa sem acréscimos, ou seja, R$ 23.670,24. 
+
+Nada sendo requerido no prazo de 30 dias, os autos serão arquivados.
+
+Publique-se. Registre-se. Intimem-se. 
+
+São Paulo, 17 de outubro de 2011.
+
+
+
+Adriana Borges de Carvalho
+Juíza de Direito
+(Assinatura digital)

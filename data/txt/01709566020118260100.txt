@@ -1,0 +1,71 @@
+
+
+SENTENÇA
+
+Processo nº:0170956-60.2011.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Espécies de Contratos
+Requerente:Sanofi-aventis Farmaceutica Ltda
+Requerido:Lufthansa Cargo A G
+
+
+
+Juiz(a) de Direito: Dr(a). Ana Claudia Dabus Guimarães e Souza de Miguel
+
+
+
+Vistos.
+
+SANOFI-AVENTIS FARMACEUTICA LTDA. ajuizou a presente AÇÃO DE REPARAÇÃO DE DANOS contra LUFHTANSA CARGO A.G., qualificados nos autos, alegando ter contratado uma empresa para realizar o serviço de transporte de um produto farmacêutico, o qual deveria ser mantido em envirotainers numa temperatura entre 2ºC e 8ºC e temperatura ambiente entre 16ºC e 22ºC. Ocorre que, conforme relato, em dezembro de 2008, após embarque normal na Alemanha, a carga, ao chegar ao Brasil, no aeroporto de Viracopos, foi acondicionada em um armazém denominado Big, com temperatura ambiente de até 25ºC. Assim, informa a autora que deixou de retirar o produto em virtude do seu perecimento. Sustenta que houve culpa da ré, pois esta tinha conhecimento da temperatura sob a qual deveria ser mantida a carga, mas não cumpriu com tal recomendação. Descreve a autora que, diante da ocorrência de avaria na mercadoria, solicitou Vistoria Aduaneira, realizada pela Secretaria da Receita Federal, que concluiu pela responsabilidade da ré. Requer, portanto, o ressarcimento do valor do produto transportado, bem como do valor do frete, totalizando R$3.199.192,78. Juntou documentos (fls. 20/307).
+
+Citada (fls. 322), a ré apresentou contestação a fls. 350/391. Alegou, preliminarmente: (a) ilegitimidade passiva por ausência de relação contratual entre a autora e a ré; (b) falta de condição da ação por não terem sido apresentados os documentos na íntegra ou originalmente; bem como em razão da falta tradução de alguns documentos e irregularidade de outros; (d) a falsidade dos documentos de fls. 55, 58, 61, 64, 67, 70, 76, 79, 82, 84, 86, 88, 90/104, 106, 108 e 109; (e) a inépcia da petição inicial por pedido juridicamente impossível. Como questão prejudicial ao mérito, invocou a decadência do direito por falta de protesto, conforme art. 26 da Convenção de Montreal. No mérito, alegou que a responsabilidade é da empresa contratada, no caso, a Panalpina, e não da ré, que somente efetuou o transporte. Ainda, sustenta a responsabilidade da Infraero, já que a carga foi entregue a ela após desembarque do avião, e sob sua responsabilidade permaneceu. Por fim, aduz que havia uma preposta da autora acompanhando a carga e que o próprio relatório da ANVISA aponta que o perecimento se deu 3 meses após o desembarque da carga, de maneira que, quando houve recusa da autora em retirar a mercadoria, esta ainda não havia perecido. 
+
+Houve réplica (fls. 396/414).
+
+Instadas a especificar as provas pretendidas (fls. 415), as partes se manifestaram (fls. 417 e 418/421).
+
+É a síntese do necessário.
+
+Fundamento e DECIDO. 
+
+A hipótese é de julgamento no estado, ex vi do artigo 329, do Código de Processo Civil. 
+
+Trata-se de ação de reparação de danos decorrentes do transporte internacional de mercadorias e, por isso, sujeita ao prazo decadencial estabelecido no artigo 26 da Convenção de Montreal, promulgada pelo Decreto nº. 5910/06.
+
+Viável a aplicação da referida convenção, na espécie de transporte tratado, visto que, segundo o art. 1º da Convenção de Montreal: A presente Convenção se aplica a todo transporte internacional de pessoas, bagagem ou carga, efetuado em aeronaves, mediante remuneração (...).
+Assim, em conformidade com a jurisprudência do E. Tribunal de Justiça do Estado de São Paulo, de rigor a observância ao mencionado prazo decadencial, a saber:
+INDENIZAÇÃO - TRANSPORTE AÉREO INTERNACIONAL ? CARGA AVARIADA - APLICAÇÃO DA CONVENÇÃO DE VARSÓVIA, COM AS MODIFICAÇÕES DA CONVENÇÃO DE MONTREAL - DECADÊNCIA OPERADA - CPC, ART. 269, IV - APELAÇÃO PROVIDA. (TJ/SP ? APELAÇÃO nº 0010486-06.2011.8.26.0084, da Comarca de CAMPINAS, Relator Matheus Fontes; j. em 17/05/2012, grifo nosso).
+
+Seguro de transporte de carga - Ausência de vistoria administrativa e de protesto - Carga recebida sem qualquer ressalva - Decadência do direito de reclamar por extravio de parte da carga - Exegese do artigo 754 do Código Civil e do artigo 31, II e IV, da Convenção de Montreal - Cobrança indevida - Sentença reformada. Recurso da Apelante Federal Express provido e Recurso da Apelante Ceva prejudicado. (TJSP - APELAÇÃO nº 0147127-58.2008.8.26.0002, da Comarca de São Paulo, Relator Tasso Duarte de Melo; j. em 31/03/2011).
+
+Nesse sentido, de rigor o acolhimento da questão prejudicial suscitada pela ré. Com efeito, não houve a formalização do protesto, no prazo de 21 dias, contados da data de disponibilização da carga (admite a autora que não a retirou ? fls. 09).
+
+A declaração de recusa do recebimento da carga em razão de seu perecimento ? sem prova do correto encaminhamento e recebimento ? somente foi firmada em 26.03.2009, muito tempo depois da chegada da mercadoria no País. 
+
+A autora, na realidade, requereu à Receita Federal que apurasse a responsabilidade pelo evento danoso, o qual foi submetido à análise somente no dia 22.04.2009 (fls. 108). Ora, apenas quatro meses após o desembarque no Brasil, adotou a autora alguma atitude em relação à carga que permaneceu depositada sem o despacho aduaneiro. 
+
+Mas, vale ressaltar, nunca formalizou o protesto, como deveria. 
+
+Dessa forma, não tendo ocorrido o protesto em até 21 dias, decai o direito da autora de ajuizar ação contra o transportador, conforme o ultimo parágrafo do art. 31 da Convenção de Montreal.
+
+Ainda que assim não fosse, o próprio artigo 754, do Código Civil, estabelece que aquele que receber a carga transportada deve conferi-la e, no mesmo momento, apresentar sob pena de decadência, o protesto que tiver quanto às avarias ou perdas.
+
+Percebe-se que o Código Civil Brasileiro é ainda mais rigoroso em relação ao prazo decadencial para as reclamações acerca de perdas ou avarias identificadas.
+
+Comentando a norma acima citada, Gustavo Tepedino assevera: 
+
+Quando do recebimento da coisa, deve o destinatário, ou o legítimo portador do conhecimento, conferir o seu estado e formular, imediatamente, eventuais reclamações a respeito de perdas ou avarias identificadas, sob pena de decadência, a não ser que referidos problemas não sejam detectáveis à primeira vista. Neste caso, o destinatário, ou qualquer outro legitimado para a retirada da mercadoria, conserva sua ação em face do transportador, desde que denuncie o dano em dez dias a contar da entrega, consoante determina o parágrafo único do artigo em exame. Faz-se necessário, para tanto, que a reclamação seja devidamente instruída com documentação hábil a comprovar as alegações apresentadas. (in Tepedino, Gustavo. Comentários ao Novo Código Civil, v. X. Rio de Janeiro, Ed. Forense, 2008, p. 606/607).
+
+Diante da decadência do direito, pouco importa aferir se a responsabilidade era ainda da ré após o desembarque da carga, já que qualquer reclamação quanto ao perecimento da mercadoria deveria ter sido feita tão logo houvesse o seu recebimento.
+
+Ante o exposto, e pelo mais que dos autos consta, sem resolução do mérito, JULGO EXTINTO O PROCESSO, com resolução de mérito, arrimo nos arts. 269, IV do Código de Processo Civil c.c. art. 31, II e IV, da Convenção de Montreal. 
+
+Sucumbente, arcará a autora com a integralidade das custas e despesas processuais, além de honorários advocatícios que fixo, por equidade, no total de R$ 15.000,00 (quinze mil reais).
+
+P. R. I. C.
+
+
+São Paulo, 12 de dezembro de 2012.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

@@ -1,0 +1,73 @@
+
+
+SENTENÇA
+
+Processo nº:0027605-42.2005.8.26.0002 - Procedimento Sumário
+Requerente:Fds Soluções Integradas Ltda ( fds )
+Requerido:Unisys Brasil Ltda ( unisys )
+
+
+
+Juiz(a) de Direito: Dr(a). Hertha Helena Rollemberg Padilha
+
+
+               Vistos etc.
+
+
+Trata-se de ação declaratória cumulada com pedido de indenização pautada em obrigação de não fazer que FDS SOLUÇÕES INTEGRADAS LTDA move em face de UNISYS BRASIL LTDA.
+
+A autora alega que tanto ela como a ré atuam na área da tecnologia de informação, sendo que entre as duas empresas foi firmada uma parceria para o desenvolvimento e adaptação de softwares que seriam empregados por meio de um projeto-piloto na Secretaria da Administração do Governo do Estado de São Paulo.
+
+Ocorre que o projeto-piloto foi abandonado durante a sua execução, verificando-se posteriormente que o mesmo produto desenvolvido por ambas as empresas estava sendo comercializado exclusivamente pela ré. Após a autora notificar a ré, reivindicando seus direitos sobre o produto comercializado e a sua parcela nos lucros, a ré alegou que o produto comercializado era de sua exclusiva propriedade e que, portanto, nenhum reembolso seria feito à autora.
+
+No entanto, a autora alega que apenas comercializou aparelhos que eram empregados conjuntamente com a tecnologia denominada SmartCard, desenvolvida pelas partes, mas que em momento algum cedeu os direitos sobre o software, como alegado pela ré.
+
+Pelo exposto, requer a autora:
+
+A) a concessão da antecipação dos efeitos da tutela a fim de evitar que a ré continue comercializando o software SMACE, bem como toda a tecnologia e equipamentos a ela relacionados, sem a autorização da autora;
+
+B) a declaração da nulidade da cláusula 6.4 do "Contrato de Fornecimento de Produtos e/ou Serviços de Informática e Correlatos", que fixou a exclusividade de domínio sobre a tecnologia SMACE em favor da ré;
+
+C) a condenação da ré ao pagamento da metade de todo o valor que a mesma já auferiu com a comercialização indevida de softwares e/ou hardwares que empreguem a tecnologia SmartCard, assim como requer a autora a condenação da ré ao pagamento de duzentos salários mínimos a título de indenização por danos morais, bem como custas, despesas processuais e honorários advocatícios fixados em 20% sobre o valor da condenação;
+
+
+
+Os pedidos de concessão dos benefícios da assistência judiciária gratuita e diferimento da custas foram indeferidos, sendo as custas recolhidas pela autora.
+
+Regularmente citada, a ré ofereceu contestação alegando que a tecnologia SmartCard não foi criada pela autora e que o programa SMACE foi desenvolvido com base nos serviços de consultoria prestados pela autora, mas não foi desenvolvido em conjunto com a mesma, mas sim com o IPT, não havendo, portanto, propriedade conjunta da autora e da ré sobre o produto e tampouco a necessidade da autorização daquela para que a o produto seja comercializado.
+
+Alega também que o produto desenvolvido com consultoria da requerente nem chegou a ser comercializado, como afirma a autora, pois o produto não se adequava às exigências previstas nos editais das licitações das quais a ré participou e serviram de base para as alegações da autora.
+
+Aduz que não são cabíveis os danos materiais postulados pela autora, pois ela não tem direito a nenhum valor referente à comercialização feita pela Unisys, já que não desenvolveu nenhum produto em coautoria com a ré, assim como alega que a autora não trouxe aos autos prova de qualquer fato que enseje a pretensão de postular danos morais.
+
+Alega que o pedido de liminar formulado pela autora não pode ser deferido, pois se a autora alega que há o perigo de dano irreparável ou de difícil reparação, o mesmo vale para a ré, que não pode ser privada de comercializar um produto que é de sua exclusiva propriedade, pois tal medida acarretará prejuízos de grande monta à ré.
+
+Sendo assim, requer a ré que o pedido de liminar seja indeferido ante a falta do periculum in mora e do fumus boni juris; no mérito requer a improcedência da ação, condenando-se a autora ao pagamento de custas, despesas processuais e honorários advocatícios.
+Procedeu-se à tentativa de conciliação que restou infrutífera.
+O pedido de antecipação de tutela foi indeferido dada a falta de prova inequívoca do direito.
+O feito foi saneado e determinada a realização de prova pericial e oral.
+Realizada prova pericial, passou-se à colheita da prova oral, onde foram ouvidas  quatro testemunhas da autora e tomado o depoimento pessoal da ré.
+
+As partes apresentaram suas alegações finais.
+
+
+É O RELATÓRIO.
+ 
+DECIDO.
+
+Finda a instrução, pode-se concluir com certeza que a pretensão da autora é improcedente.
+Com efeito, a autora sustenta que a ré teria utilizado o tecnologia desenvolvida por ela, para desenvolver o programa SMACE, que passou a ser comercializado exclusivamente pela ré, com prejuízo dos direitos autorais e contratuais da autora.
+No entanto, após prova pericial bastante complexa, o perito judicial pode concluir com absoluta convicção que as tecnológicas utilizadas pela ré para desenvolver o sistema SMACE foram distintas daquelas utilizadas pela autora; a arquitetura do sistema desenvolvido pela ré é distinta daquela utilizada pela autora; o banco de dados adotado pela ré é distinto daquele utilizado pela autora, incluindo definições de campos, registros, índices e tabelas; o sistema SMACE desenvolvido pela ré apresenta um conjunto de módulos e funcionalidades distintos daquele desenvolvido pela autora; as interfaces gráficas do sistema SMACE são distintas das desenvolvidas pela autora; a estrutura interna do mapeamento de memória e de arquivo do "smart card" utilizado pela ré é distinta daquela utilizada pela autora e o código fonte criado pela ré é distinto daquele criado pela autora. De sorte que, conclui o perito, "o requerido não utilizou o sofware desenvolvido pelo autor". 
+É certo, pois, que a prova pericial constatou que os produtos desenvolvidos pela autora e ré são totalmente distintos, não se podendo falar, portanto, em violação de direito autoral.
+A prova oral, por sua vez, confirma o que nunca foi negado: que a autora e ré desenvolveram em conjunto, a segunda como contratante e a primeira como contratada, um smart card para controle de acesso, que foi desenvolvido em conjunto com o IPT. Mas este produto é distinto do SMACE, que foi criado para atender às necessidades de SABESP, tratando-se de um produto totalmente diverso, e que foi desenvolvido sem a participação da autora.
+Podemos dizer, a grosso modo, que em comum os dois produtos tem apenas o fato de serem cartões digitais ( smart cards), destinados ao controle de frequência. Mas a idéia, de controle de frequência por cartão digital não foi patenteada pela autora, e não consta dos autos, detenha a autora qualquer título de proteção de propriedade em relação a ela.
+Digno de nota que somente os técnicos da área podem identificar o tipo de tecnologia utilizado em cada um destes produtos, o que justifica a confusão existente entre os próprios executivos da ré, que desconhecem os detalhes técnicos do produto, como se observou dos depoimentos colhidos.
+Mas a prova pericial não deixa margem para dúvidas. 
+E neste contexto, a improcedência da ação é de rigor.
+Por todo o exposto, JULGO IMPROCEDENTE  a presente ação e CONDENO a autora ao pagamento das custas processuais e honorários advocatícios que arbitro em 20% sobre o valor da causa corrigido da data de sua propositura.
+
+P.R.I.
+
+
+
+São Paulo, 03 de agosto de 2011.

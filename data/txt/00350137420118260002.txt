@@ -1,0 +1,108 @@
+
+
+SENTENÇA
+
+Processo nº:0035013-74.2011.8.26.0002
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Material
+Requerente:Prime Geradores Locação de Equipamentos Ltda
+Requerido:Mapfre Vera Cruz Seguradora S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Alexandre David Malfatti
+
+
+Vistos.
+
+
+
+Constou da petição inicial, em resumo, que, em 24.8.2010, a autora locou um gerador para a empresa DISTRIBUIDORA GARCIA & GOMES LTDA, mediante prévia pesquisa sobre a existência e idoneidade financeira da última. O gerador foi encaminhado para a referida empresa, em 01.09.2010. Porém, numa visita técnica realizada em 16.9.2010, a autora constatou que o abandono do local em que se localizava a empresa locatária, sem qualquer vestígio do paradeiro do gerador. Em razão disso, lavrou-se um boletim de ocorrência na 3ª Delegacia Distrital de Juiz de Fora. Como o equipamento estava segurado, a autora comunicou o sinistro para a ré, mas houve a recusa de pagamento da indenização sob o argumento de que não havia cobertura (cláusula "29.2.", letra "m" das condições gerais do seguro). 
+
+
+A ré apresentou contestação (fls. 46/58). Em apertada síntese, insurgiu-se contra o pedido de indenização, porque não havia cobertura do seguro. O boletim de ocorrência envolvia a ocorrência de uma apropriação indébita. O risco estava expressamente excluído da cobertura contratual. Nem mesmo o estelionato levaria à indenização pretendida. No mais, impugnou os valores pretendidos. 
+
+
+Houve réplica.
+
+É O BREVE RELATO.
+
+FUNDAMENTO E DECIDO.
+
+
+O processo comporta imediato julgamento, dispensando-se a produção de outras provas, nos termos do artigo 330, inciso I do Código de Processo Civil.
+
+
+Inicialmente, observo que as partes travaram relação de consumo ? seguro ajustado entre microempresa e seguradora ? tornando-se aplicáveis as disposições do Código de Defesa do Consumidor (CDC). Deverá haver uma incidência harmônica das normas do Código Civil sobre seguro, mas com atenção para os princípios e regras definidos pela Lei nº 8.078/90.
+
+
+A lide cinge-se à responsabilidade contratual da ré, a partir dos fatos narrados pela autora. Isto é, se havia ou não cobertura do seguro para a perda do equipamento pela autora.
+
+
+Na esfera dos fatos, restou incontroversa a seguinte versão: a autora locou seus equipamentos para uma empresa "fantasma", que havia sido criada para aplicar golpes na cidade de Juiz de Fora. Aquela versão não restou impugnada pela ré em sua defesa (art. 319 CPC).
+
+
+Passo à interpretação do contrato.
+
+
+Na apólice (fls. 20), foram anotados os seguintes pontos relevantes ao deslinde do feito: a) equipamento segurado era gerador móvel, b) a finalidade era a locação para terceiros, c) a cobertura básica era de R$ 70.000,00 com participação obrigatória do segurado em caso de sinistro de 10% (mínimo de R$ 500,00).
+
+
+Nas condições gerais do seguro, destacam-se as seguintes cláusulas:
+
+"Cláusula 1 ? OBJETIVO DO SEGURO. O presente contrato de seguro tem por objetivo garantir ao segurado, até o Limite Máximo de Indenização especificado na Apólice/Certificado de Seguro para cada cobertura e/ou equipamento segurado, o pagamento de indenização por prejuízos materiais, devidamente comprovados, causados aos equipamentos segurados especificados na Apólice/Certificado de Seguro decorrentes de eventos previstos e cobertos de acordo com as condições contratuais deste seguro.
+"...
+
+"3.3. Este seguro é composto da Cobertura Básica, de contratação obrigatória, e de Coberturas Adicionais, de contratação opcional. 3.3.1. Cobertura Básica: . Acidente de Causa Externa. Roubo . Furto. "
+
+
+
+Na cláusula quarta das condições gerais são disciplinadas as exclusões das coberturas. Na recusa administrativa, a ré citou a letra "m da cláusula "29.2" das condições gerais, que dispõe sobre "furto com abuso de confiança ou mediante fraude ou destreza; com emprego de chave falsa". Depois em Juízo, levantou a exclusão prevista na letra "k" da cláusula quarta, que dispõe sobre "furto, roubo, extorsão, apropriação indébita e estelionato praticados por seus funcionários ou representantes legais, que agindo por conta própria, que mancomunados com terceiros" (grifos nossos).
+
+
+A própria defesa não trouxe justificativa contratual adequada para a exclusão. Nenhum dos itens contratuais mencionados pela ré ? extrajudicialmente ou na contestação ? se amoldavam aos fatos que resultaram na subtração do equipamento segurado. Não houve furto qualificado. Nem tampouco houve subtração (furto, roubo, extorsão ou apropriação indébita) praticada por funcionário ou representante legal da autora.
+
+
+Entendo que havia cobertura contratual. Nas próprias condições gerais (cláusula segunda, "DEFINIÇÕES", fls. 14), define-se o "acidente de causa externa" como "aquele em que o fato gerador do sinistro é externo ao bem atingido". Não se encontram hipóteses de exclusão adequadas ao presente caso, nas cláusulas "4.1." e "29.2." das condições gerais do seguro. 
+
+
+Quisesse excluir a "apropriação indébita" ou o "estelionato" daquele conceito de "acidente de causa externa", a seguradora o teria feito. Ela concebeu o contrato de adesão e tinha conhecimento técnico das coberturas e das definições (inclusive na esfera jurídica criminal) para tanto.
+
+
+Importante salientar que o objetivo do seguro era resguardar os equipamentos da autora. Não se limitou a um risco de furto ou roubo. Tanto que o contrato previu uma figura aberta (na aplicação) de incidência da cobertura: "acidente de causa externa" ? a subtração era causada por um agente externo. Foi o que aconteceu.
+
+Num interpretação que privilegia a boa-fé objetiva e probidade do contrato de seguro, não se pode admitir que a exclusão seja de maneira tal ampliada comprometendo-se o objetivo do negócio jurídico. A seguradora já impôs uma série de exclusões ? algumas de duvidosa legalidade. Mas não inseriu entre elas a "apropriação indébita" e o próprio "estelionato", dando-se margem à cobertura contratual. É que o que afigura justo e correto. Não se trata de aplicar apenas o Código de Defesa do Consumidor (art. 47), mas também do próprio Código Civil de 2002 (art. 422 e 423).
+
+
+Passo a fixar o valor da indenização.
+
+
+A cobertura era de R$ 70.000,00 (setenta mil reais), porém com uma franquia obrigatória de 10%, o que redunda numa indenização de R$ 63.000,00 (sessenta e três mil reais). O valor será acrescido de juros de mora de 12% ao ano (capitalizados anualmente) e de correção monetária (calculada pelos índices adotados pelo TJSP), ambos a partir da recusa da ré, em 30.12.2010 (quando se caracterizou a mora).
+
+
+DISPOSITIVO.
+
+
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a ação promovida por PRIME GERADORES LOCAÇÃO DE EQUIPAMENTOS LTDA em face de MAPFRE VERA CRUZ SEGURADORA S/A, para condenar a ré ao pagamento da quantia de R$ 63.000,00 (sessenta e três mil reais). O valor será acrescido de juros de mora de 12% ao ano (capitalizados anualmente) e de correção monetária (calculada pelos índices adotados pelo TJSP), ambos a partir da recusa da ré, em 30.12.2010 (quando se caracterizou a mora). Considerando-se a sucumbência quase integral, a ré ainda arcará com o pagamento de 90% das custas judiciais e despesas processuais, ambas atualizadas. A ré também suportará os honorários advocatícios, estes fixados, para a fase de conhecimento, em 10% (dez por cento) do valor integral do débito. Se não houver cumprimento voluntário da sentença, na fase de execução os honorários serão elevados para 20% (vinte por cento) ? para abranger as duas fases, numa única incidência.
+
+Fica a parte ré intimada a cumprir a obrigação de pagamento, no prazo de 15 (quinze) dias, contados da data em que a condenação se tornar exigível, em primeiro ou segundo grau, independente de outras intimações, sob pena de incidência da multa processual de 10% (dez por cento), na forma do artigo 475-J do Código de Processo Civil. 
+
+A base de cálculo da taxa judiciária na fase recursal: R$ 63.000,00  sem atualização. 
+
+
+P.R.I.
+
+São Paulo, 13 de setembro de 2011.
+
+ALEXANDRE DAVID MALFATTI
+             Juiz de Direito
+           (assinatura digital)
+
+
+CERTIDÃO ? PUBLICAÇÃO
+
+Certifico e dou fé que a  decisão ou sentença anterior foi enviada ao D.J.E. Disponibilização em  _____ / _____ / 2011. Considera-se data da publicação o primeiro dia útil subseqüente à data acima mencionado. 
+Custas de preparo: R$ ________________.
+Taxa de porte e remessa: R$ _____________.
+
+Eu, .............................. escr. , digitei e subscrevo.

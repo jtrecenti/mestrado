@@ -1,0 +1,52 @@
+
+
+SENTENÇA
+
+Processo nº:1004307-20.2013.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Direito de Imagem
+Requerente:Rigema Comércio de Produtos Alimentícios Ltda. EPP
+Requerido:FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA
+
+
+
+
+Juiz(a) de Direito: Dr(a). Rogério de Camargo Arruda
+
+Vistos.
+
+Trata-se de ação de obrigação de fazer c/c tutela antecipada proposta por RIGEMA COMÉRCIO DE PRODUTOS ALIMENTICIOS LTDA EPP., em face de FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA., em razão de fraude de conta .
+Narra a inicial que a autora é detentora da marca SEOROSA. A fim de manter contato mais direto com seus clientes, a requerente criou uma página oficial no Facebook, porém após receber várias reclamações de clientes, constatou a existência de duas outras páginas que não foram por ela criadas. Assim, a requerente comunicou o fato ao requerido através do dispositivo on line de segurança. Alega que, o requerido além de não atender ao pedido para exclusão das páginas falsificadas, contra notificou a requerente alegando não ser responsável pelo gerenciamento do conteúdo e da infraestrutura da rede social, competindo somente às empresas localizadas nos Estados Unidos da América e na Irlanda. Requer a concessão da tutela antecipada. Pede a retirada definitiva das páginas do Facebook, bem como informar o IP dos criadores das respectivas páginas. Vieram os documentos de fls. 15/54.
+Por decisão de fls.55, foi deferido o pedido de antecipação dos efeitos da tutela.
+Citado e intimado a fls. 87, o réu se manifestou a fls. 66/70. Afirmou que, em atendimento à determinação judicial, procedeu com a exclusão das contas. 
+Ofereceu contestação de fls. 88/102. Preliminarmente, argui ilegitimidade passiva. No mérito, alega cumprimento integral da liminar e não existência de anonimato na rede social, pois ao se cadastrar na fanpage o usuário precisa validar a criação do seu cadastro.  Aduz que, os operadores do Site Facebook não tem o dever legal de se fazer qualquer controle preventivo ou monitoramento, pois isso acarretaria em censura prévia, vedada expressamente pela Constituição Federal.
+Sobreveio réplica a fls. 106/115.
+Instadas as partes à especificação de provas, as partes requerem julgamento antecipado da lide. 
+Relatado o necessário.
+Fundamento e decido.
+
+Julgo o feito antecipadamente porque desnecessária a produção de prova em audiência nos termos do art. 330, inciso I, do CPC.
+Afasto a preliminar de ilegitimidade passiva, pois, apesar do Facebook Global Holdings ser pessoa distinta do Facebook Brasil, ora réu, ambos integram o mesmo grupo econômico, que explora atividades de fanpage, por conseguinte, tal distinção, sobretudo em se tratando de relação de consumo, é irrelevante.
+Nesse sentido:
+ ?Obrigação de fazer. Tutela antecipada. Deferimento. Manutenção. Internet. Decisão que ordenou à ré, provedora de serviço de correio eletrônico, a entrega dos dados relativos à conta de onde partiram supostas correspondências injuriosas. Ré que compõe o mesmo grupo empresarial e dessa forma se apresentam no mercado perante os consumidores. Não há como admitir a criação de pessoa jurídica de direito privado com sede no Brasil, controlada por empresa norte americana, apenas para defender aqui os seus direitos, mas não responder por suas obrigações. Pedido juridicamente possível. Dizer, de plano, que não há qualquer arquivo referente aos usuários que usam seus serviços, sem ao menos fazer mínimo esforço para buscar os dados, não pode ser admitido. Não é razoável que a empresa preste serviço de expressiva relevância sem se preocupar, ao menos, em armazenar determinados dados dos usuários ou das conexões realizadas. Embora a exibição física das informações tenha caráter satisfativo, evidente que os efeitos jurídicos oriundos dessa informação podem perfeitamente ser revertidos, o que autoriza a concessão de tutela antecipada nesses casos. Recurso não provido.? (Agravo de Instrumento n.º 0015327-05.2011.8.26.0000, Relator Des. Francisco Loureiro, j.: 24- 03-2011)
+
+No mérito, o pedido é PROCEDENTE.
+Trata-se de ação de obrigação de fazer c/c tutela antecipada pela qual pretende a autora obter o IP dos criadores das páginas falsificadas, para fazer cessar as informações incorretas proferidas aos clientes da autora.
+
+Como se sabe, o acesso à rede mundial de computadores é meio rápido e eficaz a propalar qualquer tipo de informação, inclusive, aquelas de cunho ofensivo, como é o caso, em que o responsável dela se utiliza visando sua impunidade, o que não se pode prestigiar.
+
+Nesse rumo, e com o escopo de evitar essa situação, necessária a identificação daqueles que mal utilizam esse meio de comunicação.
+
+Assim, ainda que seja impossível que a fanpage vigie as divulgações realizadas, porquanto incontáveis, deve como forma de resguardar o princípio da inviolabilidade da imagem e honra de terceiro, fornecer os dados do infrator para sua devida responsabilização.
+
+Portanto, essa obrigação deve ser integralmente cumprida, não havendo falar em impossibilidade deste cumprimento pelo Facebook Brasil.
+
+Aliás, esse o entendimento do Superior Tribunal de Justiça, em outros vários feitos sobre semelhante questão:
+
+RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. PROVEDOR. MENSAGEM DE CONTEÚDO OFENSIVO. RETIRADA. REGISTRO DE NÚMERO DO IP. DANO MORAL. AUSÊNCIA. PROVIMENTO. - No caso de mensagens moralmente ofensivas, inseridas no site de provedor de conteúdo por usuário, não incide a regra de responsabilidade objetiva, prevista no art. 927, parágrafo único, do Cód. Civil/2002, pois não se configura risco inerente e à atividade do provedor. Precedentes. 2.- É o provedor de conteúdo obrigado a retirar imediatamente o conteúdo ofensivo, pena de responsabilidade solidária com o autor direto do dano. 3.- O provedor de conteúdo é obrigado a viabilizar a identificação de usuários, coibindo o anonimato; o registro do número de protocolo (IP) dos computadores utilizados para cadastramento de contas na internet constitui meio de rastreamento de usuários, que ao provedor compete, necessariamente, providenciar. 4.- Recurso Especial provido. Ação de indenização por danos morais julgada improcedente? (REsp nº 1306066 / MT, Rel. Ministro Sidnei Beneti, em 17.04.2012, DJe 02/05/2012).
+
+Por tais fundamentos, JULGO PROCEDENTE A AÇÃO para, tornar definitiva a antecipação de tutela anteriormente concedida e para condenar o réu a, de forma definitiva, retirar as paginas mencionadas na inicial do site www.Facebook.Com, o que foi cumprido conforme folhas 66/67, e a fornecer o IP dos criadores das páginas falsificadas, no prazo de 10 dias, do trânsito em julgado desta decisão, sob pena de multa diária no valor de R$ 5.000,00. Diante da sucumbência, condeno o réu nas custas e despesas processuais e honorários advocatícios no valor de R$ 500,00, nos termos do artigo 20, § 4º, do Código de Processo Civil.
+P.R.I.C.
+
+São Paulo, 26 de julho de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

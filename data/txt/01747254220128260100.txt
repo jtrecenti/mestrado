@@ -1,0 +1,92 @@
+
+
+SENTENÇA
+
+Processo nº:0174725-42.2012.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Sociedade
+Requerente:Severina Lucas Pereira da Silva
+Requerido:Telefonica -telecomunicações de São Paulo S.a
+
+
+
+
+Juiz(a) de Direito: Dr(a). Ricardo Dal Pizzol
+
+
+
+Vistos.
+
+
+Trata-se de "ação ordinária de complemento de obrigação" ajuizada por SEVERINA LUCAS PEREIRA DA SILVA em face de TELEFONICA ? TELECOMUNICAÇÕES DE SÃO PAULO S/A.
+
+A autora alega que: ( i ) adquiriu da ré linha telefônica que, conforme "Contrato de Participação Financeira em Investimento no Serviço Telefônico" lhe dava direito a ações em quantidade equivalente ao valor do patrimônio disponibilizado pela autora quando da integralização; ( ii ) o contrato não foi cumprido, uma vez que a ré contabilizou as ações em momento posterior ao recebimento do numerário, gerando emissão de ações em número inferior ao devido. Requer seja a requerida condenada a emitir o correto número de ações, ou, ao pagamento de indenização por perdas e danos, inclusive dividendos, bonificações e juros sobre capital próprio, referentes às ações faltantes, além da exibição de documentos.
+
+Contestação da requerida às fls. 37/78, sustentando, preliminarmente: (i) inépcia da inicial; ( ii ) prescrição, tanto no que diz respeito à complementação das ações, como também no que diz respeito aos dividendos e demais frutos; ( iii ) carência da ação no que diz respeito aos dividendos e demais frutos. No mérito, aduz que: (i) o pedido inicial não procede, visto que a conversão foi feita na forma determinada pelas portarias vigentes; ( ii ) a retribuição das ações eram efetuadas com base no valor patrimonial das ações, com atualização monetária, de forma que ainda que efetivada após a integralização do capital social, jamais acarretaria qualquer prejuízo ao promitente-assinante; ( iii ) em caso de procedência, deve ser facultado à ré pagar eventual diferença em ações ou em dinheiro; ( iv ) não devem incidir juros moratórios.
+
+Réplica às fls. 155/159.
+
+É o relatório.
+
+Passo a fundamentar.
+
+I ? Possível o julgamento antecipado da lide, pois não há necessidade de produção de outras provas. Ressalto que intimadas as partes a especificarem as provas que pretendiam produzir, ambas requereram o julgamento antecipado. 
+
+II - A petição inicial não é inepta. Não era possível à autora indicar na petição inicial a quantidade de ações que deveria ter recebido, ou ainda o prejuízo efetivamente sofrido, visto que tais elementos dependiam de documentos que estavam na posse da requerida ou de terceiros. Pela mesma razão, não se pode falar em ausência de documentos indispensáveis para a propositura da demanda.
+
+III ? Rejeito a tese de prescrição em relação ao pedido de complementação de ações (fls. 41 e seguintes).
+
+O termo inicial do prazo prescricional é a data da violação do direito (art. 189 do CC). No caso, o direito foi violado no momento da efetiva subscrição (emissão das ações) e não no momento da integralização (pagamento). Nesse sentido: TJSP, Ap. 14548372.2011.826.0100.
+
+Conforme jurisprudência pacífica do STJ e do TJSP, deve ser aplicado na hipótese o prazo geral das pretensões pessoais (art. 177 do CC/1916 [20 anos] ou art. 205 do CC/2002 [10 anos]), devendo a questão intertemporal ser resolvida com base no art. 2028 do CC2002. Não se aplica o prazo trienal previsto no art. 287, II, ?g?, da lei 6404/76, pois o adquirente não possui qualquer direito de acionista em relação às ações não recebidas (Nesse sentido: STJ, AgRg no Ag 1164090/RS).
+
+Tomando por base a data em que ocorreu, no caso, a subscrição das ações, conforme informações prestadas pela própria requerida (31.12.1996 ? vide fl. 23), é forçoso concluir que não ocorreu a prescrição em relação à autora. Isto porque aplica-se o prazo de 10 (dez) anos do CC/2002, visto que, no momento da entrada em vigor do CC/2002, ainda não havia transcorrido mais da metade do prazo da lei anterior (20 anos), conforme art. 2028 do CC/2002. Tal prazo de 10 anos, conforme jurisprudência pacificada, deve ser contado a partir da entrada em vigor do CC/2002, em face do princípio da irretroatividade. Considerando que a presente ação foi ajuizada em agosto de 2012, evidente a não ocorrência da prescrição.
+
+IV ? Rejeito a tese prescricional no que diz respeito aos dividendos e demais frutos. 
+
+Entendo que o prazo prescricional aplicável, em relação aos dividendos e demais frutos, seria o de 03 (três) anos, previsto no art. 206, § 3º, III, do CC/2002.
+
+No entanto, segundo o princípio da ?actio nata?, tal prazo só pode ser contado a partir da decisão que reconhece o direito à complementação das ações subscritas, visto que tais verbas (dividendos, bonificações, etc.) possuem natureza acessória (Nesse sentido: STJ, AgRG no AREsp 63384/PR; STJ, AgRg no Ag 1164090/RS).
+
+Nesses termos, a rigor, o prazo prescricional sequer começou a correr em relação aos dividendos e demais verbas acessórias. 
+
+V ? Rejeito a preliminar de carência da ação em relação aos dividendos e demais frutos (fls. 49 e seguintes). O fato de o prazo prescricional só começar a correr a partir da decisão judicial que reconhece o direito à complementação das ações subscritas, como afirmado no item anterior, não significa dizer que a parte lesada só pode ingressar com a ação de indenização quanto a tais verbas acessórias após o trânsito em julgado da decisão que reconhece o direito à complementação das ações. 
+
+VI ? Passo à análise do mérito.
+
+O pedido inicial procede.
+
+A requerida, em contestação, admitiu que a autora celebrou contrato de participação financeira (vide fl. 45).
+
+A jurisprudência do STJ e do TJSP consolidou-se no sentido de que o cálculo da quantidade de ações adquiridas deve tomar por base o valor patrimonial da ação (VPA) vigente ao tempo da integralização e não da subscrição. 
+
+Nesse sentido, a Súmula 371 do STJ: ?Nos contratos de participação financeira para a aquisição de linha telefônica, o Valor Patrimonial da Ação (VPA) é apurado com base no balancete do mês da integralização?. 
+
+No mesmo sentido, a jurisprudência do Eg. TJSP: 
+CÁLCULO A SER REALIZADO (DATA DA INTEGRALIZAÇÃO DO PAGAMENTO) - DEVER DE INDENIZAR CONFIGURADO RECURSO DESPROVIDO. Nos contratos de participação financeira firmado entre a Telesp ou empresa credenciada e o adquirente de linha telefônica, o assinante-acionista tem direito de receber a quantidade de ações correspondente ao valor patrimonial na data da integralização. O cálculo da quantidade de ações cabíveis aos assinantes efetivamente deveria tomar por base o valor pago por eles considerado o valor patrimonial da ação vigente ao tempo da integralização do investimento. Súmula 371 do STJ. (TJSP, 17209420108260634)
+
+TELEFONIA. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. COMPLEMENTAÇÃO DE AÇÕES. DIFERENÇA. PRESCRIÇÃO. DIREITO PESSOAL. VALOR PATRIMONIAL DA AÇÃO APURAÇÃO. STJ. RECURSO REPETITIVO. (?) Prescrição de direito dos autores que obtiveram êxito na pretensão inexistente. Aplicação das regras dos arts. 205 e 2.028 do CC/2002 e do art. 177 do CC/1916 e não do art. 287 da Lei n. 6.404/76, pois os autores não têm a condição de sócios em face do direito reclamado. Precedentes do STJ. Recurso repetitivo (CPC, art. 543-C). A complementação buscada pelos adquirentes de linha telefônica mediante contrato de participação financeira, deve tomar como referência o valor patrimonial da ação apurado com base no balancete do mês da respectiva integralização. STJ, Súmula n. 371. Precedentes do STJ. Recurso Repetitivo (CPC, art. 543-C). Apelação da ré não provida. (TJSP, 10072220108260634)
+
+
+É fato incontroverso nos autos que o cálculo da quantidade de ações levou em conta o VPA da data da subscrição, e não da data da integralização, como seria correto.
+
+Como decorrência lógica da procedência do pedido de complementação das ações, deve ser acolhido, igualmente, o pedido de indenização referente às verbas acessórias (dividendos, bonificações e juros sobre capital próprio). Nesse sentido: STJ, REsp 1.034.255/RS, Rel. Min. Luís Salomão. 
+
+Não deve ser acolhido o requerimento da requerida de efetuar o pagamento em ações (fls. 10 e 77, item ?h?). Primeiro, porque, como admitido pela própria requerida, a empresa original não mais existe (fl. 75, item 236). Segundo, porque a emissão de novas ações implicaria em diluição do capital social, demandando, portanto, deliberação social.
+
+DECIDO.
+
+Ante o exposto, JULGO PROCEDENTE a ação, para:
+
+(a) CONDENAR a requerida a pagar  indenização no valor correspondente às ações não recebidas, considerando o valor patrimonial da ação (VPA) vigente ao tempo da integralização, com acréscimo de correção monetária, conforme a Tabela Prática do TJSP, a partir da integralização, e juros de mora de 1% ao mês a partir da citação;
+
+(b) CONDENAR a requerida a pagar indenização no valor correspondente aos dividendos, bonificações e juros sobre capital próprio, que adviriam de tais ações, se tivessem sido emitidas, na época, em número correto. Tais valores deverão ser acrescidos de correção monetária, conforme a Tabela Prática do TJSP, desde o momento em que essas verbas (dividendos, bonificações e juros sobre capital próprio) se tornaram devidas, bem como de juros de mora de 1% ao mês desde a citação; 
+
+Condeno, ainda, a requerida a pagar as custas e despesas eventualmente desembolsadas pela autora, bem como honorários advocatícios no valor correspondente a 10% da condenação. 
+
+Transitada em julgado a condenação, o autor deverá dar início à execução, apresentando cálculo do respectivo crédito, ou requerer liquidação, se necessário. 
+
+P.R.I.C.
+
+São Paulo, 08 de agosto de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

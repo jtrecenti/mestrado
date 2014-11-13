@@ -1,0 +1,109 @@
+
+
+SENTENÇA 
+
+Processo:0013170-69.2010.8.26.0008 - Procedimento Ordinário
+Requerente:Bertran de Sousa Andrade
+Requerido:Centro Automotivo Jardim Analia J.A.
+
+Juíza de Direito:  Cecília de Carvalho Contrera  
+
+
+
+
+
+Vistos.
+
+Bertran de Sousa Andrade, qualificado nos autos, move ação de indenização contra Centro Automotivo Jardim Analia J.A., também qualificado. Alega o autor, em síntese, que é proprietário de um veículo Nissan Sentra, o qual confiou à ré para reparos. Na oficina da ré foi feita uma "chupeta" com cabos de pólos invertidos, o que ensejou curto circuito e acionamento dos nove airbags do veículo.  Os danos a serem reparados foram orçados em R$16.749,19. O curto, ademais, ensejou queima de lâmpadas, fusíveis e chicotes, para cuja substituição o autor gastou R$1.720,00. Sem dinheiro para o conserto de maior monta, cujo pagamento foi recusado pela ré, o autor ficou sem poder utilizar seu veículo por sete meses, do que lhe decorreu grave transtorno. Requer seja a ré condenada a lhe pagar indenização por danos materiais de R$18.329,19, bem como danos morais de R$30.600,00 (fls. 2/16 e 47). Apresenta os documentos de fls. 17/30 e 42/44.
+
+Citada (fls. 51), a ré apresentou a contestação de fls. 61/71, alegando em síntese, que: não houve "chupeta" invertida; os danos não foram causados na oficina; a vistoria em que constatadas as avarias foi feita após a retirada do veículo, sendo desconhecida a sua origem; não pode ser responsabilizada pela demora da seguradora do autor em autorizar os reparos contratados; após o conserto do veículo, realmente houve a abertura de um único air bag, a saber, o do passageiro do lado direito. Prontificou-se a reparar o dano, o que foi recusado pelo autor; não há nexo causal entre qualquer conduta de sua parte e o dano alegado na petição inicial; não há dano moral; houve decadência do direito reclamado na inicial. Requereu a improcedência da demanda. Denunciou a lide à sua seguradora.  A defesa veio instruída com os documentos de fls. 72/90.
+
+Houve réplica (fls. 93/99).
+
+Deferida a denunciação da lide à Liberty  Seguros S/A, sobreveio a contestação de fls. 111/126, instruída com os documentos de fls. 127/191. Alegou a litisdenunciada, em suma, que de fato mantém contrato de seguro com a denunciante, todavia há expressa exclusão contratual de cobertura para danos resultantes da prestação de serviços executados pela empresa segurada. Não responde por risco não assumido. Quanto à lide principal, houve decadência; não há prova dos danos alegados; não há dano moral a indenizar. Requereu a improcedência ou fixação da indenização em montante comedido. 
+
+Houve réplicas (fls. 195/198 e 199/213).
+
+Réu e litisdenunciada dispensaram a produção de qualquer prova (fls. 216/217).
+
+É o relatório. Fundamento e decido.
+
+É o caso de julgar-se antecipadamente a lide, nos termos do artigo 330, I, do Código de Processo Civil, porque a solução da controvérsia não depende da produção de outras provas, que, aliás, foram dispensadas pela ré.
+
+A ação é parcialmente procedente.
+
+Conforme é incontroverso, o autor confiou seu veículo Nissan Sentra  (fl. 18) à ré para realização dos reparos descritos à fl. 26. Conforme demonstra o mesmo documento, o veículo deu entrada na oficina da ré em 15 de dezembro de 2009.
+
+A relação estabelecida entre autor é ré é de consumo, classificando-se o primeiro como destinatário final dos serviços prestados pela segunda.
+
+A controvérsia posta nos autos não diz respeito à qualidade dos serviços contratados e realizados, mas ao dano provocado pela ré no veículo do autor, por ocasião da prestação desses mesmos serviços.
+
+Não se cogita, portanto, da reclamação por vício do serviço, mas da reparação de dano decorrente de fato do serviço, daí porque não cabe falar em aplicação do prazo decadencial previsto no artigo 26 do Código de Defesa do Consumidor.
+
+Observo que a demanda foi proposta dentro do prazo prescricional previsto no artigo 27 do Código de Defesa do Consumidor, este sim aplicável à espécie, de modo que a pretensão do autor está intacta.
+
+Pois bem.
+
+A ré não nega que efetivamente causou dano ao autor, dando causa à ativação do air bag do lado do passageiro (direito). 
+
+Com efeito, confira-se, a esse respeito, o item ?26? da contestação, à fl. 66 dos autos:
+
+?No ato de referido reparo, depois do veículo já estar totalmente consertado, realmente houve a abertura de 1 (um) air bag, do passageiro do lado direito, apenas 1.?
+
+Em suma, há controvérsia quanto à abertura de nove airbags; a abertura de um airbag, todavia, especificamente o do lado direito, não é objeto de questão.
+
+Admitindo o dano que causou por acidente, a ré silencia sobre sua causa. De qualquer maneira, são confessos o erro e a autoria, pouco importando a demonstração exata do modo como o dano foi ocasionado. 
+
+Como é de conhecimento primário, o acionamento dos air bags de um veículo decorre de um forte impacto, suficiente para detecção pelos sensores que o ativam. Os air bags são inflados para proteger motorista e passageiros do impacto causado pelo acidente.
+
+A esse respeito, é cabível colacionar a não oficial porém elucidativa explicação disponível na Wikipedia:
+
+Airbag, também conhecido por bolsa de ar ou almofada de ar, é um componente de segurança dos carros, que pode ser usado em algumas máquinas industriais e em robôs de pesquisa, que funciona de forma simples: quando o carro sofre um grande impacto, vários sensores dispostos em partes estratégicas do veículo (frontal, traseiro, lateral direito, lateral esquerdo, atrás dos bancos do passageiro e motorista, tipo cortina no forro interno da cabina) são acionados emitindo sinais para uma unidade de controle que por sua vez checa qual sensor foi atingido e assim aciona o airbag mais adequado.
+Este dispositivo é constituído de pastilhas de nitrogênio que são acionadas por uma descarga elétrica pela central eletrônica dentro de um balão de ar muito resistente, que é o próprio Airbag; este, por sua vez, se enche rapidamente, amortecendo assim o choque e evitando que motorista e passageiros sofram danos físicos principalmente no rosto, peito e coluna. Para evitar o asfixiamento, o Airbag vai perdendo pressão após o acionamento.
+
+A citação tem finalidade meramente esclarecedora do mecanismo de ativação do air bag, de fácil compreensão: o impacto ativa o sensor, que gera a descarga elétrica, que infla os balões de ar.
+
+Retomando a análise da defesa da ré, é certo que não nega ter dado causa ao acionamento do air bag direito.  O silêncio a respeito da causa desse acionamento, aliado ao próprio mecanismo de funcionamento dos air bags em geral, é suficiente para concluir que houve a descarga elétrica necessária à inflação do balão.
+
+Pois bem. Nega a ré que tenha causado o acionamento de nove airbags, mas apenas de um. Ocorre, todavia, que a versão descrita na inicial também não tem respaldo nos documentos com ela mesma juntados. Ao contrário, o documento apresentado pelo próprio autor prova que o prejuízo no valor de R$16.749,19 decorreu do acionamento de um único airbag, justamente o direito.
+
+Veja-se que os itens danificados são: bateria; forro teto (teto solar); bolsa air bag lateral direito; sensor air bag lateral direito; unidade sensor diagnóstico; conjunto encosto/assento banco dianteiro lado direito (fls. 30).
+
+É de conhecimento geral o forte impacto com que são acionados os air bags, que se inflam rápida e violentamente, inclusive por vezes gerando danos físicos aos passageiros atingidos. Ora, é absolutamente razoável considerar, portanto, que os danos causados ao teto se ao banco dianteiro direito do carro sejam também decorrentes do impacto causado pelo acionamento do air bag direito.
+
+Ora, a incontrovérsia quanto ao acionamento acidental do air bag direito, aliada à demonstração dos danos logicamente decorrentes desse acionamento são suficientes para a procedência do pedido, no que tange aos danos materiais.
+
+Os danos a lâmpadas e fusíveis, descritos à fl. 37, por sua natureza, também estão relacionados ao disparo da corrente elétrica que acionou os air bags.
+ 
+Em suma, diante da verossimilhança que os documentos conferem à tese do autor consumidor, é o caso de inversão do ônus da prova nos termos do artigo 6º, VIII, do Código de Defesa do Consumidor no que toca à extensão dos danos experimentados, de maneira que caberia ao réu fazer a prova cabal da inexistência de nexo entre sua conduta e os prejuízos materiais experimentados.
+
+Quanto aos danos morais, o autor tem parcial razão: com efeito, ficou privado do uso do seu veículo por tempo considerável, notadamente por não dispor de numerário suficiente para o dispendioso conserto. Veja-se que a sua seguradora negou cobertura para o dano, como consta do documento de fl. 30.
+
+Os fatos extrapolaram o âmbito do simples transtorno ou aborrecimento, porque, pelo menos desde fevereiro de 2010, data da liberação do veículo pela ré (fl. 81), o autor ficou privado do seu veículo, assim suportando considerável, desagradável e injusta modificação em sua rotina. 
+
+Todavia, o valor reclamado na petição inicial é excessivo e sua fixação ensejaria enriquecimento ilícito do autor. Não se pode olvidar que o veículo, à época, valia pouco mais de R$46.000,00 (anexa tabela FIPE), de maneira que a fixação da indenização em cerca de 66% desse valor (R$36.600,00) é evidentemente descabida.
+
+Considerando a gravidade do dano, o valor do veículo, o porte da empresa ré e o nível dos transtornos suportados pelo autor, tenho por bem fixar a indenização em R$5.000,00 (cinco mil reais), valor que se presta a indenizar o sofrimento havido, sem se converter em fonte de enriquecimento ilícito.
+
+Passo à análise da lide secundária:
+
+No contrato de seguro firmado entre a ré e a litisdenunciada há expressa exclusão da cobertura de ?danos aos veículos de terceiros, resultantes da prestação de serviços executados pela Empresa Segurada, exceto os danos corporais e ou materiais causados pelos veículos a terceiros? (fls. 184).
+
+E não há qualquer vedação legal à limitação do risco assumido.
+
+O Código de Defesa do Consumidor não é aplicável à espécie, notadamente porque a ré denunciante não se enquadra no conceito de consumidora, faltando-lhe o requisito da vulnerabilidade face à seguradora.
+
+Nesse sentido cabe colacionar trecho do voto proferido pelo Eminente Desembargador do Tribunal de Justiça José Joaquim dos Santos, ao funcionar como relator da Apelação Cível 9150877-52.2007.8.26.0000, julgada em 07 de fevereiro de 2012:
+
+?Conquanto se o artigo 2º do código consumerista preveja a possibilidade de concessão do status de consumidora a pessoas jurídicas, não se pode olvidar que para que se reconheça a relação de consumo, é necessário que a empresa seja a destinatária final do produto ou serviço e que seja vulnerável em relação ao fornecedor.
+Sobre o tema, já decidiu o egrégio Superior Tribunal de Justiça:
+'Uma interpretação sistemática e teleológica do CDC aponta para a existência de uma vulnerabilidade presumida do consumidor, inclusive pessoas jurídicas, visto que a imposição de limites à presunção de vulnerabilidade implicaria restrição excessiva, incompatível com o próprio espírito de facilitação da defesa do consumidor e do reconhecimento de sua hipossuficiência, circunstância que não se coaduna com o princípio constitucional de defesa do consumidor, previsto nos arts. 5° XXXII, e 170, V, da CF. Em suma, prevalece a regra geral de que a caracterização da condição de consumidor exige destinação final fática e econômica do bem ou serviço, mas a presunção de vulnerabilidade do consumidor dá margem à incidência excepcional do CDC às atividades empresariais, que só serão privadas da proteção da lei  consumerista quando comprovada, pelo fornecedor, a não vulnerabilidade do consumidor pessoa jurídica. Ao encampar a pessoa jurídica no conceito de  consumidor, a intenção do legislador foi conferir proteção à empresa nas hipóteses em que, participando de uma relação jurídica na qualidade de consumidora, sua condição ordinária de fornecedora não lhe proporcione uma posição de igualdade frente à parte contrária. Em outras palavras, a pessoa jurídica deve contar com o mesmo grau de vulnerabilidade que qualquer pessoa comum se encontraria ao celebrar aquele negócio, de sorte a manter o desequilíbrio da relação de consumo. A "paridade de armas" entre a empresa-fornecedora e a empresa-consumidora afasta a presunção de fragilidade desta. Tal consideração se mostra de extrema relevância, pois uma mesma pessoa jurídica, enquanto consumidora, pode se mostrar vulnerável em determinadas relações de consumo e em outras não.Recurso provido' (Mandado de Segurança nº. 27.512/BA, Rel. Min. Nancy Andrighi, DJe 23.09.2009).'?
+
+Na ausência de cobertura contratual, a improcedência da denunciação é medida que se impõe.
+
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a ação para condenar a ré a pagar ao autor indenização por danos materiais no valor de R$18.329,19 (dezoito mil trezentos e vinte e nove reais e dezenove centavos), com correção monetária pela tabela prática do TJSP desde a propositura da ação e juros de mora de 1% ao mês desde a citação, bem como indenização por danos morais no valor de R$5.000,00 (cinco mil reais), com correção monetária pela tabela prática do TJSP desde a data desta sentença e juros de mora de 1% ao mês desde a citação. Julgo improcedente a denunciação da lide. Fica assim extinto o processo com resolução do mérito, nos termos do artigo 269, I, do Código de Processo Civil. Pela sucumbência na ação, arcará a ré com o pagamento das custas e despesas processuais e honorários advocatícios em favor do patrono do autor, que fixo em 10% do valor da condenação. Pela sucumbência na lide secundária, arcará a ré com o pagamento das custas e despesas processuais e honorários advocatícios em favor do patrono da litisdenunciada, que fixo, nos termos do artigo 20, §§ 3º e 4º do Código de Processo Civil, em atenção à natureza e complexidade da lide, em R$1.000,00 (mil reais).  Decorrido o prazo recursal, certifique-se o trânsito em julgado e, nada sendo requerido, arquivem-se os autos com as cautelas de praxe.
+
+P.R.I.
+
+  
+São Paulo,14 de setembro de 2012.

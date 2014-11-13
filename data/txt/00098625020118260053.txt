@@ -1,0 +1,67 @@
+
+
+SENTENÇA
+
+Processo nº:0009862-50.2011.8.26.0053
+Classe - AssuntoProcedimento Ordinário - Anulação de Débito Fiscal
+Requerente:Ótica Stella Ltda
+Requerido:Fazenda Publica do Estado de São Paulo
+
+Endereço do réu(é/s):Rua Pamplona, 227, Centro - CEP 01405-000, São Paulo-SP
+
+
+
+Juiz(a) de Direito: Dr(a). Rafael Pavan de Moraes Filgueira
+
+
+
+Vistos.
+
+Trata-se de ação anulatória de débito fiscal. Alega-se, em síntese, nulidade do auto de infração e imposição de multa baseado exclusivamente em informações prestadas por operadoras de cartão de crédito. Inicial e documentos, fls.02/121.
+
+Citada, a Fazenda Estadual contestou (fls.134/143), sustentando a legalidade da autuação e das demais condutas estatais.
+
+Houve réplica.
+
+Saneado o processo, determinou-se a realização de perícia contábil (fls.159 e 181/188).
+
+Após a manifestação das partes, o ?expert? prestou esclarecimentos (fls.439/440).
+
+Por fim, encerrada a instrução, as partes apresentaram memoriais.
+
+É o relatório.
+DECIDO.
+
+Como se vê, a discussão central repousa na validade ou nulidade de AIIM referente à diferença de ICMS apurado pela verificação da movimentação tributável, tomando-se como base o confronto entre os recolhimentos efetuados com os dados referentes às operações de cartões de crédito.
+
+De início, importante consignar que as operações com cartões de crédito são cobertas pelo sigilo (art. 1º, § 1º, VI, da Lei Complementar nº 105/01), cuja inviolabilidade, aliás, tem status de garantia constitucional (art. 5º, XII, da CF).
+
+O sigilo, todavia, não é absoluto, admitindo-se sua quebra em situações excepcionais pautadas pelo interesse público. Nesse sentido, reporto-me à decisão do STJ, no RMS 021405, de relatoria do ilustre Min. Arnaldo Esteves Lima, em decisão monocrática datada de 18/04/2008.
+
+A quebra do sigilo tem aparo legal no art. 6º da Lei Complementar nº 105/01, que autoriza ?as autoridades e os agentes fiscais tributários da União, dos Estados, do Distrito Federal e dos Municípios? a ?examinar documentos, livros e registros de instituições financeiras, inclusive os referentes a contas de depósitos e aplicações financeiras?, apenas sob a ocorrência de dupla condição: 1ª) ?quando houver processo administrativo instaurado ou procedimento fiscal em curso?; 2º) quando ?tais exames sejam considerados indispensáveis pela autoridade administrativa competente?.
+
+Assim sendo, quando não verificadas as condições legitimadoras da quebra, de nada adianta a invocação de regras insertas na Lei Estadual nº 6.374/89, no RICMS deste Estado (Decreto 45.490/00) ou na Portaria CAT-87/2006, cuja força jurídica depende de harmonia com o prescrito naquela norma (art. 6º da LC nº 105/01).
+
+No caso concreto, o relatório de infração do auto de fl.250 demonstra, com clareza, que a utilização dos dados informados pelas operadoras de cartão de crédito foi o ponto inicial do levantamento fiscal, a partir do qual se fez o confronto com os valores mensais de vendas informados pelo contribuinte, resultando na apuração da diferença do movimento tributável e, então, na lavratura do referido AIIM.
+
+Evidente, pois, que inexistia prévio ?processo administrativo instaurado? nem ?curso de procedimento fiscal?, como exige o prescrito no art. 6º da Lei Complementar nº 105/01, para justificar, por satisfação da primeira condição legal referida, a excepcional quebra do sigilo.
+
+Destaque-se, ainda, não ser outra a orientação dominante da Corte de Justiça Bandeirante sobre a matéria:
+
+?Agravo de Instrumento. Pretensão à suspensão da exigibilidade do crédito tributário - Movimentação bancária, fato que embasou o AIIM, ante a suposta ilicitude fiscal - Quebra do sigilo bancário - Inadmissibilidade. A quebra de sigilo é ato de exceção, só se justificando em situações de fato inusitadas, com inteira demonstração de que todos os outros meios possíveis, postos à disposição, foram efetivados e se revelaram infrutíferos. Sigilo bancário garantia constitucional (artigo 5º, inciso XII). Dá-se provimento ao recurso interposto? (AI nº 0052848- 47.2012.8.26.0000, 13ª Câmara de Direito Público, rel. Des. Ricardo Anafe, j. 11/07/2012);
+
+?AGRAVO DE INSTRUMENTO - ANTECIPAÇÃO DE TUTELA - CONSTITUCIONAL E PROCESSUAL CIVIL - ICMS - AUTO DE INFRAÇÃO E IMPOSIÇÃO DE MULTA - LAVRATURA COM BASE EM INFORMAÇÕES FORNECIDAS POR ADMINISTRADORAS DE CARTÃO DE CRÉDITO E DÉBITO INFRIGÊNCIA À GARANTIA DE SIGILO DE DADOS FISCAIS E BANCÁRIOS PRESSUPOSTO PARA ADMISSIBILIDADE DA MEDIDA ARTIGO 273 DO CPC CONCESSÃO EM PARTE DA TUTELA SOMENTE PARA SUSPENDER OS EFEITOS DO AIIM. 1. A antecipação dos efeitos da tutela pretendida no pedido inicial pressupõe a concorrência dos requisitos da verossimilhança do alegado em face da existência de prova inequívoca e fundado receio de dano irreparável ou de difícil reparação, ou, alternativamente, caracterização de abuso de direito de defesa ou o manifesto propósito protelatório do réu (art. 273, I e II, CPC). 2. Auto de infração e imposição de multa lavrado com base nas informações fornecidas por administradoras de cartão de crédito e débito com indícios de vulneração à garantia do sigilo de dados fiscais e bancários. RECURSO PROVIDO EM PARTE? (AI nº 0306627 - 64.2011.8.26.0000, 3ª Câmara de Direito Público, rel. Des. Amorim Cantuária, j. 27/03/2012);
+
+Deste modo, solução outra não resta que o reconhecimento da nulidade do AIIM em análise, declarando-se, em conseqüência, a inexigibilidade do débito tributário discutido nos autos.
+
+Ante exposto, nos moldes da fundamentação, JULGO PROCEDENTE o pedido para declarar inexigível o débito tributário especificado na petição inicial, extinguindo o processo com resolução de mérito, com base no art. 269, I, do CPC.
+
+Custas e despesas na forma da lei. Honorários em 15% do valor atualizado do débito. Correção pela tabela do TJSP desde o ajuizamento.
+
+PRI.
+
+De Conchal para São Paulo, 17 de agosto de 2012.
+
+
+RAFAEL PAVAN DE MORAES FILGUEIRA
+JUIZ DE DIREITO

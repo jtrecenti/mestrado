@@ -1,0 +1,101 @@
+
+
+SENTENÇA
+
+TERMO DE CONCLUSÃO
+Em 09 de janeiro de 2012 faço estes autos conclusos à MM.ª Juíza de Direito da 1ª Vara Cível do Foro Regional V - São Miguel Paulista Dra. Lucilia Alcione Prata. Eu, Maria Aparecida da Costa, ______, escrevente, subscrevo.
+
+Processo nº:0021042-57.2004.8.26.0005 - Procedimento Sumário
+Requerente:Sidnei Martins Bueno
+Requerido:Aes - Eletropaulo Metropolitana Eletricidade de São Paulo S/A
+
+
+
+Vistos.
+
+
+SIDNEI MARTINS BUENO ajuizou a presente ação de declaratória de inexigibilidade de débito em face de AES - ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S/A alegando em síntese:
+A) Em inspeção realizada no endereço do autor no dia 27 de agosto de 2004 foi constatada irregularidade consistente no  desvio de energia através de duas fases , sem registro pelo medidor de energia elétrica.
+
+b) Lavrado um termo de Ocorrência de Irregularidade -TOI nº 1116031107262004.
+
+c) A réu agiu com arbitrariedade cortando o fornecimento de energia do requerente, sendo que o mesmo ignorava qualquer irregularidade existente, adquiriu o referido imóvel em 06 de junho de 2000, que já contava com a construção de um casa térrea, conforme comprova a inclusa escritura, sendo que o autor se mudou para a residência em 17 de junho de 2002, quando estavam terminadas as obras.
+
+
+Requer a procedência dos pedidos, com a declaração de inexigibildiae do débito e condenação do demandado(s) ao pagamento de indenização por danos morais e materiais no montante de cinquenta salários mínimos e lucros cessantes no importe de R$ 1.000,00 mais juros, correção monetária, custas e honorários do advogado.A petição inicial veio acompanhada dos documentos de fls. 10-62, medida cautelar e agravo de instrumento.
+
+Contestação às fls. 75/90 defendendo o procedimento adotado pela ré requerendo a improcedência dos pedidos deduzidos.
+
+Reconvenção às fls.108/115.
+
+Contestação à reconvenção às fls.140/143.
+
+Foi prolatada sentença às fls. 156/168, sendo interposto recurso de apelação às fls. 180/203.
+
+O v.Aresto de fls. 271/277 anulando a sentença e determinando a realização de perícia técnica.
+
+Nomeou-se perito (fls.280), com laudo às fls.302/348.
+
+Parecer técnico pelo réu as fls.354/364.
+
+Instados a se manifestarem sobre o efetivo interesse na prova testemunhal (fls.366), somente o réu manifestou-se, sendo encerrada a instrução (fls.370).
+
+Memoriais às fls.372/376.
+
+É o que de relevante havia a relatar.
+
+Passo a fundamentar e a decidir:
+
+O TÓI foi lavrado em 27/08/2004 sendo constatado o desvio de derivação, tendo a ré apurado por estimativa um consumo irregular de  34.258 kWh, totalizando R$ 17.527,16 (fls.58).
+
+A ré retroagiu o período de consumo de 08/2004 a 07/2000 (fls.61), sendo certo que o autor apenas foi residir efetivamente no imóvel em meados de 2002, conforme contratos de locação de fls.15/19, razão pela qual realmente ocorreram oscilações de consumo porque o imóvel ainda não estava  habitado pela família do autor.
+
+Conforme demonstrativo do débito, a ré aplicou multa administrativa de 30% (fls.103).
+
+O laudo pericial identificou indícios de alteração no sistema de medição  sem prova substancial da irregularidade apontada no TOI, tendo em vista que segundo o perito a análise das provas colhidas na data do TÓI não foi obtida junto a ré (fls.322).
+
+Entretanto o laudo pericial não atentou para o fato de que o imóvel não se encontrava totalmente habitado antes de julho de 2002, o que justifica o valor de faturamento pelo mínimo de 50 kWh.
+
+Além disso, este Juízo entende que o perito judicial não atentou para o fato de desde julho de 2002, quando o autor e família passaram a residir no imóvel, que os patamares de consumo foram estáveis em torno de 300/350 kWh e que a partir da troca do medidor passaram a ser bem maiores, mas repita-se não podem ser comparados com os ciclos anteriores a julho de 2002, exatamente pela ausência de critério entre o consumo de imóvel não habitado e habitado por uma família.
+
+Ao retroagir a variável de consumo em quatro anos , a ré atingiu um período superior a 12 ciclos , quando o imóvel não era habitado pelo autor.
+
+Deste modo, o critério mais lógico para aferição do débito nos ciclos anteriores deve ser feito pela média de consumo de 318 kWh (fls.331).
+
+Uma vez consistente a irregularidade, deve ser apenas alterado o critério de cálculo do débito que deverá corresponder a 12 ciclos de 318 kWh/mês, totalizando 3.816 kWh de consumo irregular não registrado.
+
+Cabe ainda a ressalva quanto ao fato de que sobre o valor apurado é imposta unilateralmente ao consumidor a multa administrativa de 30%, ou seja, me seu valor máximo.
+
+O réu sequer justifica o custo administrativo para imposição da multa em grau máximo, pois é prevista entre 10% a 30% pela ANEEL.
+
+Neste sentido j decidiu o TJSP pela redução da multa aplicada em grau máximo:Prestação de serviços - Ação de cobrança -Energia elétrica - Termo de ocorrência de irregularidade apontando existência de fraude - Perícia judicial confirmando a irregularidade - Responsabilidade do usuário pelo pagamento do débito -Apuração da dívida com base no maior valor de consumo ocorrido nos doze ciclos completos de medição normal anteriores à constatação da fraude, conforme artigo 72 da Resolução n° 456/00 da ANEEL -Abusividade - Violação do Código do Consumidor - Cálculo que deve ser base a média de consumo, reduzida a multa administrativa de 30% para 2% - Recurso desprovido."A cobrança do débito de energia elétrica,utilizando-se o maior consumo dos últimos meses, é abusiva, uma vez que a contraprestação do consumo não aferido deve ser a mais próxima do efetivo consumo,segundo o critério mais benéfico ao usuário,nos termos do artigo 6º, V, do Código de Defesa do Consumidor. Assim, mostra-se razoável o cálculo pela média de consumo dos meses anteriores ou posteriores à constatação da fraude no medidor". (TJSP, Apelação com Revisão n° 990.10.481996-2)
+
+
+PRESTAÇÃO DE SERVIÇOS - Fornecimento de energia elétrica - Pretensão declaratória de inexistência de débito fruto de consumo irregular e que originou o termo de confissão de dívida - Ausência de prova convincente da alegada coação - Irregularidade, demais disso, confirmada pela prova pericial produzida - Ação declaratória julgada parcialmente procedente, reduzida a multa administrativa -Recurso não provido.(TJSPDANOS MORAIS E OBRIGAÇÃO DE NÃO FAZER ? FRAUDE NO MEDIDOR - OCORRÊNCIA - CORTE NO FORNECIMENTO - POSSIBILIDADE - COBRANÇA DE DÉBITOS PRETÉRITOS ? MULTA ADMINISTRATIVA DE 30% - NÃO CABIMENTO -RESOLUÇÃO ANEEL 456/2000 - NÃO COMPROVAÇÃO - NATUREZA REPARA TÓRIA NÃO PUNITIVA - APELAÇÃO PARCIALMENTE PROVIDA.I. Evidenciando a prova dos autos a existência de expediente fraudulento destinado a propiciar registro de consumo de energia elétrica inferior ao real, mormente em face do degrau no histórico de consumo verificado,pertinente é a apuração levada a termo pela apelada que calculou o débito foco desta ação.II. Diante do posicionamento do STJ, não é admissível a suspensão do fornecimento de energia em razão de débitos pretéritos, devendo a cobrança ser feita pelos meios ordinários.III. O custo administrativo adicional, nos termos da Resolução da ANEEL 456/2000,  que corresponder,no máximo, a 30%. Resulta disto que necessário se faz que a concessionária demonstre quais são seus custos no levantamento e apuração dos valores devidos em razão de fraude no medidor para que,então possa cobrá-los do consumidor, respeitado o teto imposto. Não demonstrando os seus custos, indevido é o acréscimo do valor a ele correspondente, na fatura. A cobrança do valor do custo administrativo tem cunho reparatório e não punitivo, não se constituindo em multa.(...)Contudo a norma supra citada estabelece que referido custo administrativo adicional há que corresponder, no máximo, a 30%.Resulta disto que necessário se fazia que a concessionária/apelante demonstrasse quais são seus custos no levantamento e apuração dos valores devidos em razão de fraude no medidor para que, então pudesse cobrá-los do apelado,respeitado o teto imposto." (TJSP, Apelação com Revisão n° 992.07.050665-4.Voto n° 15.529).
+
+Deste modo não pode prevalecer a imposição de multa administrativa no percentual de 30% sobre o valor do débito apurado na medida em que a ré não justifica em momento algum o porquê de aplicar o custo administrativo no valor máximo, devendo este ser reduzido a 10%.
+
+No mais, ainda que existe o débito e a irregularidade/fraude mantenho meu entendimento de que não poderá ocorrer a supressão do fornecimento de energia por débito pretérito.
+
+Neste sentido é o posionamento do STJ:
+
+ADMINISTRATIVO - Recurso especial - Corte no fornecimento de energia elétrica - Impossibilidade de suspensão - Hipótese de exigência de débito pretérito - Ausência de inadimplemento - Constrangimento e ameaça ao consumidor - CDC, artigo 42.1. A Primeira Turma, no julgamento do REsp nº 772.489/RS, bem como no AgRg no AG 633.173/RS, assentou o entendimento de que não é lícito à concessionária interromper o fornecimento de energia elétrica por diferença de tarifa, a título de recuperação de consumo de meses, em face da essencialidade do serviço, vez que é bem indispensável à vida.2. É que resta cediço que a "suspensão no fornecimento de energia elétrica somente é permitida quando se tratar de inadimplemento de conta regular, relativa ao mês do consumo, restando incabível tal conduta quando for relativa a débitos antigos não-pagos, em que há os meios ordinários de cobrança, sob pena de infringência ao disposto no artigo 42 do Código de Defesa do Consumidor. Precedente: AgRg no Ag nº 633.173/RS, Rel. Min. José Delgado, DJ de 02/05/05." (REsp 772.486/RS, Primeira Turma, Rel. Min. Francisco Falcão, DJ de 06.03.2006).3. Concernente a débitos antigos não-pagos, há à concessionária os meios ordinários de cobrança, sob pena de infringência ao disposto no artigo 42, do Código de Defesa do Consumir.4. In casu, o litígio não gravita em torno de inadimplência do usuário no pagamento da conta de energia elétrica (Lei 8.987/95, artigo 6º, parágrafo terceiro, II), em que cabível a interrupção da prestação do serviço, por isso que não há cogitar suspensão do fornecimento de energia elétrica pelo inadimplemento.5. Recurso especial improvido.(STJ - RESP nº 793.464 - RS - Relator Ministro Luiz Fux - J. 09.05.2006).
+
+
+
+Diante da consistência da irregularidade não há que se falar em dano moral, mesmo porque o autor sequer postulou concessão de tutela antecipada para restabelecimento da energia elétrica no local.
+
+Tampouco há nos autos prova de danos materiais ou lucros cessantes.
+
+Ante o exposto JULGO PARCIALMENTE PROCEDENTE a presente lide para declarar  a ilegalidade do procedimento de corte de fornecimento de energia elétrica por débitos pretéritos e para declarar a inexigibilidade da multa administrativa imposta no percentual máximo de 30% sobre o montante apurado, determinando sua substituição pela multa mínima de 10%.
+
+JULGO PARCIALMENTE PROCEDENTE A RECONVENÇÃO para determinar a apuração do débito de acordo com o padrão médio de consumo no valor total de 3.816 kWh (média de consumo/mês de 318 kWh no período de 12 ciclos), conforme apurado em perícia, condenando o autor/reconvindo ao pagamento do débito apurado, acrescido de multa administrativa de 10%, encargos e impostos/taxas incidentes, correção monetária e juros de mora de 1% ao mês desde a citação. 
+
+Diante da sucumbência recíproca, cada parte suportará 50% das custas e despesas processuais, inclusive honorários periciais já fixados, cuja fixação provisória torno definitiva. Sendo o autor beneficiário da gratuidade de justiça, as verbas de sucumbência ficarão suspensas nos termos do art. 12 da Lei 1.060/50.
+
+P. R. I. C.
+
+São Paulo, 16 de janeiro de 2012.
+
+Lucilia Alcione Prata
+Juíza de Direito

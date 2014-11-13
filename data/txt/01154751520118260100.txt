@@ -1,0 +1,58 @@
+
+
+SENTENÇA
+
+Processo nº:0115475-15.2011.8.26.0100
+Classe - AssuntoProcedimento Sumário - Seguro
+Requerente:Carlos Aurelio Silva Junior
+Requerido:Porto Seguro Cia de Seguros Gerais
+
+
+
+
+Juiz(a) de Direito: Dr(a). Ricardo Dal Pizzol
+
+
+
+Vistos.
+
+
+
+Trata-se de "ação condenatória da indenização do seguro obrigatório ? DPVAT" ajuizada por CARLOS AURÉLIO SILVA JÚNIOR contra PORTO SEGURO CIA DE SEGUROS GERAIS.
+Alega o autor que: ( i ) foi vítima de acidente de trânsito, do qual resultou debilidade funcional e consequente incapacidade permanente para o trabalho; ( ii ) a requerida, porém, exigiu a apresentação do comprovante do seguro obrigatório DPVAT referente ao exercício de 2009 para que fosse paga a indenização. Requer a condenação da requerida ao pagamento do valor de R$ 13.500,00, com os acréscimos legais. 
+Justiça gratuita concedida à fl. 32.
+Sem contestação.
+Laudo pericial às fls. 61/66.
+É o Relatório.
+Passo a fundamentar.
+A ação deve ser julgada parcialmente procedente. 
+O acidente do qual o autor foi vítima ocorreu em 11/06/2009, ou seja, após a entrada em vigor da lei 11.945/09, que conferiu a seguinte redação ao art. 3º da lei 6.194/74:
+Art. 3o Os danos pessoais cobertos pelo seguro estabelecido no art. 2o desta Lei compreendem as indenizações por morte, por invalidez permanente, total ou parcial, e por despesas de assistência médica e suplementares, nos valores e conforme as regras que se seguem, por pessoa vitimada: 
+(...)
+II - até R$ 13.500,00 (treze mil e quinhentos reais) - no caso de invalidez permanente; 
+(...)
+§ 1o No caso da cobertura de que trata o inciso II do caput deste artigo, deverão ser enquadradas na tabela anexa a esta Lei as lesões diretamente decorrentes de acidente e que não sejam suscetíveis de amenização proporcionada por qualquer medida terapêutica, classificando-se a invalidez permanente como total ou parcial, subdividindo-se a invalidez permanente parcial em completa e incompleta, conforme a extensão das perdas anatômicas ou funcionais, observado o disposto abaixo: ../_Ato2007-2010/2009/Lei/L11945.htm
+I - quando se tratar de invalidez permanente parcial completa, a perda anatômica ou funcional será diretamente enquadrada em um dos segmentos orgânicos ou corporais previstos na tabela anexa, correspondendo a indenização ao valor resultante da aplicação do percentual ali estabelecido ao valor máximo da cobertura; e 
+II - quando se tratar de invalidez permanente parcial incompleta, será efetuado o enquadramento da perda anatômica ou funcional na forma prevista no inciso I deste parágrafo, procedendo-se, em seguida, à redução proporcional da indenização que corresponderá a 75% (setenta e cinco por cento) para as perdas de repercussão intensa, 50% (cinquenta por cento) para as de média repercussão, 25% (vinte e cinco por cento) para as de leve repercussão, adotando-se ainda o percentual de 10% (dez por cento), nos casos de sequelas residuais. ../_Ato2007-2010/2009/Lei/L11945.htm
+Nesses termos, considerando que o acidente ocorreu após a entrada em vigor da lei 11.945/09, é compulsória a utilização da Tabela do "Anexo" da lei nº 6.194/74, a qual estipula os percentuais devidos para cada tipo de perda anatômica ou funcional em situações de invalidez permanente parcial. Não merece acolhida, portanto, a argumentação do autor, exposta na inicial, de que faz jus ao valor integral de R$ 13.500,00, independentemente de a invalidez ser total ou parcial (fl. 07).
+Ressalto que, mesmo antes da referida alteração legislativa, a jurisprudência do Eg. TJSP já entendia, majoritariamente, que era lícita a aplicação da Tabela da SUSEP em casos de invalidez parcial. 
+Nesse sentido: 
+SEGURO ? Obrigatório (DPVAT) ? Responsabilidade Civil ? Fixação do valor indenizatório ? Incapacidade parcial e permanente do autor comprovada ? Aferição por laudo pericial ? Adoção de percentual correspondente, segundo a tabela editada pelo SUSEP ? Incidência sobre o teto legal vigente quando da liquidação do sinistro, no caso a data do ajuizamento da demanda - Recurso do autor provido em parte e improvido o da ré (Apelação Cível n. 1.132.221-0/6 ? Igarapava ? 35ª Câmara de Direito Privado ? Relator: Artur Marques ? 17.03.08 ? V.U. ? Voto n. 15360)
+No caso, segundo a terminologia do art. 3º, §1º, da lei nº 6.194/74, a invalidez do autor é do tipo "permanente parcial incompleta". 
+Segundo o laudo pericial médico elaborado por instituto oficial (IMESC), que não foi objeto de impugnação pelas partes, o autor sofreu "limitação funcional moderada do joelho e do tornozelo" (fl. 65). 
+De acordo com a tabela do "anexo" da lei 6.194/74, reproduzida nos autos, a perda anatômica e/ou funcional completa de um dos membros inferiores dá direito à indenização no importe de 70% do valor do capital segurado (R$ 13.500,00).
+Considerando que a redução funcional do membro esquerdo, segundo o laudo, foi de 75% (vide conclusão - fl. 65), configurando "perda de repercussão grave" na forma do art. 3º, §1º, II, acima transcrito, conclui-se que a indenização total deveria corresponder a R$ 7.087, 50 (0,7 x 0,75 x R$ 13.500,00 = R$ 7.087, 50). 
+Os juros de mora, devem incidir desde a citação. Nesse sentido, a jurisprudência do STJ: 
+
+AGRAVO INTERNO. DIREITO CIVIL. COBRANÇA DE DIFERENÇA DE SEGURO OBRIGATÓRIO ? DPVAT - JUROS MORATÓRIOS. TERMO INICIAL.
+Em consonância com a iterativa jurisprudência desta Corte, mesmo nas ações em que se busca o complemento de indenização decorrente do seguro obrigatório - DPVAT -, por se tratar de ilícito contratual, os juros de mora devem incidir a partir da citação, e não da data em que é efetuado o pagamento a menor do que o devido. Agravo improvido. 
+(STJ, AgRg no REsp 936053 / SP, Rel. Min. Sidnei Beneti)
+
+Por todas as razões expostas, a ação deve ser julgada parcialmente procedente, para condenar a requerida a pagar à autora a quantia de R$ 7.087,50, acrescida de correção monetária, desde o ajuizamento da demanda, e de juros moratórios desde a citação, na forma da fundamentação acima. 
+DECIDO.
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a ação, para condenar a ré ao pagamento de R$ 7.087,50 (sete mil e oitenta e sete reais e cinquenta centavos), acrescidos de correção monetária, conforme a Tabela Prática do TJSP, desde o ajuizamento da demanda, e de juros de mora de 1% ao mês, desde a citação até o efetivo pagamento. 
+Sem condenação em custas, despesas ou honorários, em face da sucumbência recíproca. 
+P.R.I.C.
+São Paulo, 27 de agosto de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

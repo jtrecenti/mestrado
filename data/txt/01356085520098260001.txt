@@ -1,0 +1,75 @@
+
+
+SENTENÇA 
+
+
+Processo nº:0135608-55.2009.8.26.0001 - Procedimento Ordinário
+Requerente:Archangelo Waetge
+Requerido:Banco Bradesco S/A
+Data da Audiência:21/09/2010 às 16:00h
+Prioridade Idoso
+
+
+Juiz(ª) de Direito Dr.(ª): Edmundo Lellis Filho
+
+Vistos.
+Trata-se de ação de inexigibilidade de débito cumulada com pedido de tutela antecipada e indenização por danos materiais e morais, pela qual alega o autor que foram realizadas operações em sua conta corrente, via Internet Banking, estranhas ao seu conhecimento. 
+O autor apontou operações bancárias de empréstimo, transferência e pagamentos ocorridos nos dias 08 e 09 de Junho de 2009, que não foram feitas por ele.
+
+Afirma que procurou uma agência do banco réu para esclarecimento do ocorrido, solicitando o cancelamento das operações e a devolução dos valores.
+Enquanto aguardava um posicionamento do banco, foi orientado a transferir a conta corrente de Florianópolis, que estava bloqueada e sob averiguação, para São Paulo, a fim de poder continuar a receber seus salários, e assim foi feito.
+Contudo, algum tempo depois, foi surpreendido ao perceber que o banco havia realizado a transferência de R$ 4.000,00 para a conta antiga, que se encontrava negativa, em função das operações fraudulentas nela efetuadas.
+Assevera que, em 23/07/09, recebeu resposta da Ouvidoria do Banco Bradesco eximindo o banco de responsabilidade e, ao mesmo tempo, atribuindo a eventual culpa à filha do autor, já que esta possuía a senha da conta do pai.
+Por fim, disse que recebeu comunicado sobre a inclusão de seus dados no SERASA e SPC.
+Requer: liminarmente, a antecipação dos efeitos da tutela para levantar a restrição de crédito, o reembolso do salário do mês de Junho de 2009, a suspensão dos débitos das parcelas do financiamento; a inversão do ônus da prova; a declaração de inexigibilidade das parcelas do financiamento efetuado, a devolução dos valores subtraídos de sua conta corrente; além de indenização por danos morais.
+A inicial foi emendada a fls.64/68, trazendo informações de que o réu, segundo suas próprias palavras, por mera liberalidade, efetuou um depósito na conta do autor no valor de R$ 9.978,85 referente a duas das quatro operações questionadas, a saber: Pagamento eletrônico de cobrança no valor de R$ 4.979,32 e transferência de fundos Doc-e H Bank no valor de R$ 4.999,53; contudo, simultaneamente, efetuou vários débitos relativos às operações fraudulentas. 
+Foram juntados documentos (fls.18/47 e 69/75).
+A liminar foi deferida a fls. 80/82.
+Em defesa, o banco réu, preliminarmente alega ser parte ilegítima para figurar no pólo passivo da lide, vez que a conduta ilícita que implicou nas contratações contestadas partiu de terceiro, sendo deste a culpa exclusiva por eventuais danos.
+No mérito, afirma que o autor prejudicou a segurança de sua conta corrente ao permitir que outra pessoa tivesse acesso a sua senha. 
+Assevera que não há qualquer indício justificável a invalidar as transações realizadas pelo autor já que todas as cautelas exigíveis foram tomadas pelo Banco Bradesco, assim, se houve fraude nas operações, o banco foi tão vítima quanto o autor.
+Finalmente, diz que o autor não comprovou a existência de danos morais suficientes para ensejar a indenização pleiteada.
+Foram juntados documentos (fls. 127/131).
+Em réplica o autor reiterou os termos da exordial.
+A tentativa de conciliação restou infrutífera.
+Eis o relatório.
+Decido.
+A ação é procedente.
+Não merece acolhimento a preliminar de ilegitimidade passiva ad causam, isto porque a responsabilidade do banco é objetiva, dada a aplicação do risco da atividade empresarial na prestação de serviços (art. 14, do CDC).
+ 
+O caso se submete ao Código de Defesa do Consumidor porque o autor é destinatário final dos serviços bancários da instituição financeira, fornecedora, havendo entre eles, portanto, relação de consumo.
+
+É verdade que, em princípio, poder-se-ia falar que a responsabilidade pelas movimentações da conta corrente, inclusive os empréstimos efetuados via internet, são de exclusiva responsabilidade de seu titular. 
+
+Todavia, as máximas da experiência mostram que os serviços eletrônicos bancários são passíveis de fraude por terceiros, que invadem o sistema bancário, obtendo, então, acesso não autorizado aos recursos financeiros dos depositantes em conta corrente.
+
+A disposição contida no art. 6º, inciso V, do Código de Defesa do Consumidor, garante ao consumidor o direito à prevenção de danos, impondo ao fornecedor o dever de tomar todos os cuidados necessários e suficientes ao afastamento de qualquer prejuízo aos usuários dos serviços que presta.
+
+Desse modo, revelando-se verossímeis as alegações do autor, parte hipossuficiente na relação de consumo, aplicável à hipótese o disposto no art. 6º, inciso VIII, do CDC, sendo de rigor, a inversão do ônus da prova.
+
+O fornecedor somente se exime da responsabilidade de reparar o dano se demonstrar que não existiu defeito na prestação do serviço ou que o evento danoso ocorreu por culpa exclusiva do consumidor (CDC, art. 14, parágrafo 3º).
+
+Todavia, a instituição financeira detentora de elementos eficazes para identificar as operações efetuadas na conta corrente do autor, não se interessou em produzir prova que pudesse afastar a pretensão do autor, ou seja, qualquer prova apta que identificasse o autor como responsável pelas transações referidas na inicial, tendo se limitado a alegar que não há indícios de fraude e que, se esta ocorreu, também foi uma vítima.
+
+Ainda que o réu tenha razão ao advogar que não agiu com culpa diante da fraude eletrônica perpetrada por terceiro, possui responsabilidade pelo fato de a controvérsia se resolver em virtude do risco profissional, e de não ter sistema informatizado de segurança apto a impedir a fraude.
+
+A afirmação de que o réu não tem responsabilidade pelas operações, baseado na alegação de que o autor prejudicou a segurança de sua conta bancária ao compartilhar a senha com sua filha, é descabida, pois este ato não é ilegal e também, a princípio, não exonera a instituição de sua responsabilidade pelos serviços prestados via Net. Mesmo porque se a filha estivesse utilizando indevidamente a conta do pai, realizando operações não autorizadas, esta não teria nenhum interesse em alertá-lo, como parece ter ocorrido pela narração dos fatos na exordial. 
+
+Ora, o banco tinha não só o ônus de demonstrar a ausência de fraude nos serviços prestados como de se desincumbir do ônus de provar que foi o autor quem efetuou as operações financeiras (artigo 6o, VIII, do CDC). E como assim não procedeu, tornaram-se incontroversos os fatos narrados na inicial.
+
+Logo, as movimentações na conta corrente, não foram de autoria do correntista ou de pessoa de sua confiança, no caso sua filha. Houve fraude eletrônica e o réu, de certa forma, reconheceu sua responsabilidade ao reembolsar ao autor o valor de R$ 9.978,85, apesar da alegação de que o fez por mera liberalidade.
+
+Quanto ao dano moral, o fato de o autor ter operações financeiras efetuadas em seu nome de forma fraudulenta já causa aflição, preocupação, nervosismo e outros sintomas ensejadores da reparação por dano moral, tudo isso oriundo da deficiente prestação de serviços por parte da instituição financeira.
+
+Além disso, ainda teve seus dados negativados perante o SERASA e SPC. 
+
+Assim, não é necessário que o autor comprove que sua honra foi abalada em virtude destes acontecimentos para que o dano moral seja caracterizado. É o que se denomina de dano in re ipsa, ou seja, deriva do próprio fato ofensivo.
+
+Assim, JULGO PROCEDENTE a ação, condenando o banco réu a restabelecer a conta do autor ao estado em que se encontrava antes dos desfalques, estornando taxas, tarifas, impostos etc. 
+CONDENO também o réu a pagar ao autor, indenização por danos morais, a qual, atendendo aos princípios de razoabilidade e proporcionalidade, fixo no valor de R$ 10.000,00 (dez mil reais), com juros moratórios da citação e correção monetária da publicação da sentença. Este valor trará algum conforto ao autor, sem causar enriquecimento sem causa.
+CONDENO ainda o banco réu em custas, corrigidas do desembolso, e em verba honorária, que fixo em 10% sobre o total da condenação.
+
+P.R.I.C.
+
+
+São Paulo,03 de dezembro de 2010.

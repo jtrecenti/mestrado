@@ -1,0 +1,58 @@
+
+
+CONCLUSÃO
+Em 14 de março de 2012, faço estes autos conclusos a MMa Juíza de Direito da 2ª VARA CÍVEL DO FORO REGIONAL DE PINHEIROS ? XI, Dra. ANDREA FERRAZ MUSA. Eu,        , Eliane Eleutério Piquet, esc., subsc
+SENTENÇA
+
+
+Processo nº:0021724-47.2011.8.26.0011
+Classe - AssuntoProcedimento Ordinário - Responsabilidade Civil
+Requerente:Itaú Unibanco S/A.
+Requerido:Companhia de Telecomunicações do Brasil Central  - CTBC
+
+
+
+
+Juiz(a) de Direito: Dr(a). Andrea Ferraz Musa
+
+
+
+
+
+
+Vistos.
+Trata-se de ação de obrigação de fazer, com pedido de tutela antecipada movida por Itaú Unibanco S/A em face de Universo On Line S/A Uol e Companhia de Telecomunicações do Brasil Central ? CTBC.
+Alega o autor que tomou conhecimento da existência de páginas de Internet, com a utilização indevida de seu nome, marca e logotipo, sendo que as páginas foram criadas sem a sua autorização, de forma ilícita.
+As páginas em questão, cujo modelo é apresentado na inicial, aparenta ser do banco autor, muito embora não esteja ligado ao site de responsabilidade do autor, qual seja, www.itau.com.br. Os domínios desconhecidos pelo autor são os seguintes: http://certificados-seguros.com.br/main/main.html; http://www.impersul.com/modules/atualizacao/passo3.php; e http://201.48.213.221/.cartao.
+Tais páginas informam o nome do banco e pedem que o usuário informe seus dados bancários e senhas de acesso ao sistema, sendo evidente o intuito de induzir a erro o internauta, usuário do sistema eletrônico do requerente.
+Assim, segundo o autor, terceiros estão usando o seu nome para se apoderar de dados de seus clientes, a fim de praticar fraudes bancárias.
+Para apurar tais assertivas, foi elaborado laudo pelo Núcleo de Segurança do Itaú Unibanco, que apontou os provedores de hospedagem que sustentam as referidas páginas no ar:
+1.http://certificados-seguros.com.br/main/main.html: UOL
+2. http://www.impersul.com/modules/atualizacao/passo3.php: UOL
+3. http://201.48.213.221/.cartao: CTBC
+Dessa forma, pretende o autor que os provedores, ora réus, sejam intimados a remover imediatamente as páginas ilícitas do ar, bem como para fornecer os dados completos de cadastro dos responsáveis pela criação e modificação do conteúdo da página, bem como os registros de criação, modificação e acessos ao conteúdo dap ágina e demais registros de logs e dados que possam auxiliary na identificação dos autores dos ilícitos noticiados, incluindo demais registros físicos eletrônicos.
+Esclarece, ainda, que após interpelação extrajudicial, as empresas rés retiraram do ar as páginas em questão, mas não forneceram os dados requeridos para apuração dos responsáveis pela fraude.
+Foi requerida tutela antecipada para obtenção imediata dos dados a fim de que essas informações não se perdessem com o tempo. Ao final foi requerida a procedência da ação, com a obrigação das rés em fornecer as informações perseguidas, sendo que na impossibilidade material de ser cumprida a obrigação na forma específica seja determinada providências que assegurem o resultado prático equivalente ao adimplemento da obrigação, incluindo a conversão em perdas e danos.
+A tutela antecipada foi deferida a fls. 77/78.
+Regularmente citadas, as rés ofertaram contestação.
+A requerida UOL apresentou sua defesa a fls. 80/88. Nesta, apresenta as infomação referente às páginas http://certificados-seguros.com.br/main/main.html. Informa, ainda, que não detém as informações referentes ao site http://www.impersul.com/modules/atualizacao/passo3.php, vez que não hospeda o referente domínio (fls. 82).
+Alega a ré, ainda, que não se opôs na presente ação a prestar a informação solicitada, mas justifica a necessidade da propositura da ação, visto que não poderia divulgar os dados sigilosos sem a autorização judicial. Dessa forma, entende que não deve ser condenada ao pagamento das verbas sucumbenciais.
+Posteriormente, sobreveio petição de acordo firmada entre o autor e a requerida UOL, colocando fim ao processo no tocante ao pedidos referentes aos domínios: http://certificados-seguros.com.br/main/main.html e  http://www.impersul.com/modules/atualizacao/passo3.php. A sentença que homologou o acordo e julgou extinto o feito em relação a ré UOL foi proferida a fls. 167, ressalvando que a ação prosseguia em face da corré CTBC.
+A ré CTBC ofertou contestação a fls. 186/188. Nesta apresenta as informações requeridas a fls. 187.
+A fls. 206/208 o autor, informou que para melhor apurar a responsabilidade sobre a construção da página fraudulenta, entende ser necessária a expedição de ofício as empresas Brasil Telecom S/A e Vivo S/A, para que estas iformem os responsáveis pelos endereços de IP (o pedido foi reiterado a fls. 213/215 e 219/222).
+É o relatório.
+DECIDO.
+A presente ação deve ser julgada antecipadamente, visto que a matéria é de direito e de fato totalmente comprovada nos autos.
+Necessário esclarecer, inicialmente, que o objetivo da presente ação era obter informações de ambas as rés que seriam as provedoras de uma página falsa do banco autor, elaborada com objetivo de obter dados sigilosos de clientes do banco, praticando, assim, fraude contra o banco e seus clientes.
+A antecipação de tutela foi deferida e no prazo determinado as rés apresentaram as informações solicitadas pelo autor, reconhecendo o pedido formulado.
+Na verdade, as empresas rés não poderiam solicitar tais informações ao banco sem autorização judicial em face do sigilo das mesmas. No entanto, assim que determinado judicialmente, informaram todos os dados necessários.
+Ocorre que, em face de tais dados, o banco autor pretende prosseguir na presente ação, utilizando-a como instrumento de investigação para apuração dos autores da fraude. Assim, pretendem que seja autorizada a expedição de ofícios para empresas que não figuram no pólo passivo, obtendo informações das mesmas.
+Tal medida não pode ser acolhida, nem mesmo em respeito a economia processual. Isso porque o objeto da presente demanda já foi atingido, com sucesso, obtendo o autor todas as informações perseguidas na presente demanda.
+Não pode o autor transformar a presente ação num instrumento investigatório, ainda que louvável seja o seu fim. Isso porque haveria um uso inadequado da via processual, para fim diverso do pedido formulado (obtenção de informações).
+Assim, o pedido de expedição de novos ofícios resta indeferido, sendo que a procedência da ação é de rigor, anotando-se que seu objetivo, qual seja, a obtenção de informações, já foi devidamente alcançado.
+Se o autor pretende prosseguir em sua investigação, deverá fazê-lo pelas vias adequadas.
+Ante ao exposto, JULGO PROCEDENTE a presente ação, e julgo extinto o feito com fulcro no art. 269, inciso I, do CPC, para condenar a ré CTBC a prestar as informações solicitadas na inicial, anotando, porém, que em cumprimento a tutela antecipada deferida nos autos, as informações já foram regularmente prestadas.
+Tendo em vista que as informações só poderiam ser prestadas com ordem judicial, em face de seu caráter sigiloso, determino que cada parte arcará com as custas e despesas processuais que deu causa, bem como com os honorários de seus patronos.
+P.R.I.
+
+São Paulo, 04 de julho de 2012.

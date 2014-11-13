@@ -1,0 +1,41 @@
+
+
+SENTENÇA
+
+Processo nº:0187720-24.2011.8.26.0100
+Classe ? Assunto:Procedimento Ordinário - Indenização por Dano Material 
+Requerente:Scfn Consultoria Financeira Ltda e outros
+Requerido:Banco Santander S/A e outro
+
+
+
+
+Juiz(a) de Direito: Dr(a). Cesar Augusto Vieira Macedo
+
+
+
+SCF CONSULTORIA FINANCEIRA LTDA., ENCORE ADMINISTRADORA E CORRETORA DE SEGUROS LTDA. e SALESCORP COMUNICAÇÕES E MARKETING LTDA. ajuízam ação indenizatória a título de danos materiais e morais em face de BANCO SANTANDER S.A. e BANCO DO BRASIL S.A. aludindo que fazem os três autores parte do mesmo grupo empresarial (cujos representantes são os mesmos) e contrataram os serviços do primeiro banco réu, cada qual com uma conta. Afirmam que, por atos fraudulentos praticados por estagiário contratado pelo grupo empresarial, especificamente na falsificação dos contratos de abertura de conta, houve a transferência indevida das contas dos autores à sua conta particular, existente no segundo banco réu. Alega-se que as instituições financeiras têm responsabilidade objetiva, visto que deveriam zelar pela legitimidade dos atos praticados. Requerem condenação do primeiro réu a título de danos materiais, a fim de que o mesmo pague a quantia desviada no montante de R$34.100,43, bem como do segundo réu, quanto às quantias transferidas em favor de contas de beneficiários fictícios criadas pelo estagiário, no valor de R$26.635,36. Requerem ainda a indenização à título de danos morais no importe de R$20.000,00.
+Em contestação, o primeiro réu alegou que não pode lhe ser atribuída culpa, vez que foi a própria parte autora que designou o falsário para intermediar a operação de abertura de conta corrente, bem como a existência de um limite legal imposto aos bancos para que se constate a veracidade das informações fornecidas pelos seus clientes.
+O segundo réu contestou alegando preliminarmente a ilegitimidade passiva, visto que nenhuma das causas narradas surgiram por sua culpa. Citou ainda a inépcia da inicial, onde demonstra a impossibilidade de contestar os fatos articulados, haja vista a não participação do banco no ocorrido. No mérito, afirmou que agiu corretamente conforme as normas bancárias e que não responde objetivamente pelas transações ocorridas.
+Houve réplica.
+
+É O RELATÓRIO. DECIDO.
+
+Julgo o feito no estado (art. 330, I do CPC), pois não há necessidade de dilação probatória.
+Em primeiro lugar, cabe ressaltar que as preliminares arguidas em sede de contestação pelo segundo réu, confundem-se com o mérito.
+Os autores pleiteiam a condenação do réu Banco no Brasil afirmando que este deveria ter se atentado à legitimidade das diversas contas criadas pelo estagiário, que utilizou o mesmo CPF para abrir todas elas, utilizando-as para realizar o desvio de dinheiro. 
+Em análise das condutas realizadas pelo estagiário, conclui-se que à época da criação de referidas contas, o crime já estava consumado. A atitude do banco corréu, ao propiciar a criação destas contas, foi mero exaurimento do crime já cometido pelo estagiário não podendo, assim, ser responsabilizado pelo desvio de dinheiro.
+Quanto ao corréu Santander, mesmo tendo os responsáveis pela empresa designado o estagiário para que tomasse todas as providências referentes à abertura de conta das empresas, tal fato não o isenta do dever de atentar e zelar pela integridade patrimonial de seus clientes.
+Em leitura dos documentos juntados pela parte autora, notamos que o único momento em que o nome do estagiário é mencionado é justamente no termo de adesão aos serviços de "internet banking" empresarial.
+Caberia ao banco réu Santander se atentar ao rol de pessoas autorizadas a movimentar a conta. Destarte, uma vez não estando o nome do estagiário nos outros contratos, inclusive no contrato social das empresas em comento, seria prudente a expressa autorização dos seus representantes legais quanto à possibilidade que o estagiário utilizasse os serviços disponibilizados pela internet.
+Quanto ao dano moral, apesar da existência de súmula a respeito, não vinculante, acredito ser inconcebível quando o lesado for pessoa jurídica. Com efeito, qualquer dano sofrido pelas empresas resvalará no campo material e na menor lucratividade. A pessoa jurídica não sente dor, desassossego moral. É mera realidade técnica, criada para possibilitar aventuras empresariais no sistema capitalista, evitando que o empreendedor mal sucedido visse todo o patrimônio seu e de sua família desvanecer pela tragédia da empresa. Não tem honra subjetiva.
+O dano moral decorre da proteção aos direitos da personalidade humana. Não se pode admitir que seja considerado sob os moldes do direito de propriedade. Peço vênia para transcrever trecho de artigo da lavra de Gustavo Tepedino:
+?(...)
+Resulta daí o equívoco de se imaginarem os direitos da personalidade e o ressarcimento por danos morais como categorias neutras, aplicáveis à pessoa jurídica 'tout court', para a sua tutela (endereçada, em regra, à maximização de seu desempenho econômico e de sua lucratividade). Ao revés, o intérprete deve estar atento para a diversidade de princípios e de valores que inspiram a pessoa física e pessoa jurídica.
+(...)
+Todavia, a fundamentação constitucional dos direitos da personalidade, no âmbito dos direitos humanos, e a elevação da pessoa humana ao valor máximo do ordenamento não deixam dúvidas sobre a preponderância do interesse que a ela se refere, e sobre a distinta natureza dos direitos que têm por objeto bens que se irradiam da personalidade humana em relação aos direitos (em regra patrimoniais) da pessoa jurídica, no âmbito da atividade econômica privada.? (in A Parte Geral do Novo Código Civil ? Estudos na Perspectiva Civil-Constitucional ? 2ª edição ? Editora Renovar ? p. XXVIII e seguintes).
+Este é também o entendimento de Alexandre Assumpção em ?A Pessoa Jurídica e os Direitos da Personalidade?.
+Aduzir que há abalo à honra objetiva e que deve a condenação valer como punição para o agente do ilícito é confundir direito civil com penal ou administrativo. E, o mais grave, seria aceitar a existência de pena sem previsão típica do ato e objetiva da punição, ferindo princípio geral de direito, constitucionalizado em nosso ordenamento, que não se aplica apenas no âmbito criminal, gerando absoluta insegurança jurídica, portanto inexiste dano moral indenizável à parte autora no caso em questão.
+Ante o exposto, julgo PARCIALMENTE PROCEDENTE a presente ação e condeno o réu BANCO SANTANDER S.A. ao pagamento indenizatório, a título de danos materiais, no importe de R$34.100,43, que deverão ser atualizados monetariamente desde o cálculo e acrescidos de juros de mora de 1% ao mês desde a citação. Em razão do grau de sucumbência da parte autora e do réu condenado, dou por compensados os honorários advocatícios de seus Patronos, bem como as custas. Julgo IMPROCEDENTE a demanda em relação ao Banco do Brasil S/A, condenando os autores nas custas e honorários, que fixo em R$2.000,00.
+PRIC.
+São Paulo, 23 de agosto de 2013.

@@ -1,0 +1,41 @@
+
+
+SENTENÇA
+
+Processo nº:0072932-60.2012.8.26.0100
+Classe - AssuntoProcedimento Sumário - Obrigação de Fazer / Não Fazer
+Requerente:Fundação Parque Tecnologico Itaipu -Brasil e outros
+Requerido:Google Brasil Internet Ltda
+
+
+Juiz(a) de Direito: Dr(a). Márcio Teixeira Laranjo
+
+V I S T O S.
+
+FUNDAÇÃO PARQUE TECNOLÓGICO ITAUPU ? BRASIL, JORGE HANNA HABIB DE KHOURI, JUAN CARLOS SOTUYO e JAIME NELSON NASCIMENTO, ajuizaram a presente ação contra GOOGLE BRASIL INTERNET LTDA., narrando tratar-se a primeira autora de fundação sem fins lucrativos, na qual os outros três requerentes são, respectivamente, conselheiro e diretores. Alega que, nos meses de abril e maio de 2.012, foram enviados e-mails difamatórios, cujo conteúdo denegria a imagem dos autores, a diversos correios eletrônicos pertencentes ao domínio da primeira demandante. Aduz que tais e-mails foram enviados por meio de serviço de correio eletrônico mantido pela ré, de modo que a esta surgiria a obrigação de fornecer o endereço virtual (IP) dos responsáveis pelas mensagens ofensivas. Alega que, caso a requerida não identifique os responsáveis pelas ofensas, deverá responder objetivamente pelos danos morais causados. Assim, requer a antecipação dos efeitos da tutela para que a requerida seja compelida a fornecer, em 48 horas, os dados cadastrais, e-mails secundários e IPs de conexão dos emitentes das mensagens ofensivas, bem como condenação definitiva no mesmo sentido, com a possibilidade de conversão da tutela específica em ressarcimento por perdas e danos. Requer, ainda, caso não seja fornecida a informação solicitada, a condenação da requerida no pagamento de indenização de cunho compensatório pelos danos morais sofridos, no valor de R$ 100.000,00. A petição inicial veio instruída com os documentos de fls. 21/89.
+O Juízo deferiu a antecipação dos efeitos da tutela (fls. 90).
+Devidamente citada, a requerida ofertou resposta (fls. 99/129), na qual alega, preliminarmente, a ilegitimidade ativa. No mérito, aduz que os dados de seu serviço de correio eletrônico são privados e sigilosos, em observância ao Termo de Privacidade que firma com seus usuários. Alega que só mantém em seus servidores o IP de cada usuário, vez que não exige destes, no momento da contratação do serviço, o fornecimento de dados pessoais como número do RG, CPF, endereço ou mesmo o nome verdadeiro. Sustenta ser possível a identificação dos ofensores com base, tão somente, no endereço de IP, por meio de contato com o provedor de internet correspondente. Aponta, então, o IP de criação de um dos correios eletrônicos utilizados para o envio das ofensas (vivisanefalacie@gmail.com), aduzindo, entretanto, que não possui dados da conta marcos.francis.dearaujo@gmail.com, em virtude do tempo decorrido. No que tange à conta jessica.filatel@gmail.com, afirma que a ordem judicial liminar faz referência a endereço diverso, de modo que só apresentará as informações solicitadas caso haja retificação. Alega, ainda, estarem ausentes os elementos ensejadores da responsabilidade civil, apontada, por fim, para a inexistência de qualquer abalo moral que enseje a reparação pleiteada. Acostou os documentos de fls. 159/182.
+Réplica a fls. 188/194, na qual os autores requerem a emissão de ofício à empresa Tim Celular S.A, para que preste informações sobre o registro de conexão do usuário vivisane.falacie@gmail.com e do proprietário do telefone número (45) 9964-1627. Requer, ainda, nova intimação da ré, para que cumpra a decisão liminar no que tange ao endereço jessica.filatel@gmail.com.
+Forneceu a requerida estes dados a fls. 227/228.
+É o relatório. 
+D E C I D O.
+Julgo o feito antecipadamente porque desnecessária a produção de prova em audiência nos termos do art. 330, inciso I, do C.P.C.
+Repilo a preliminar arguida.
+Não há dúvida de que os autores, sujeitos aos quais se dirigiam as ofensas proferidas em ambiente virtual, por meio de correios eletrônicos mantidos pela ré, têm legitimidade ativa para requerer a apresentação de dados que possibilitem a identificação de seus ofensores, bem como para pleitear a reparação por qualquer dano eventualmente sofrido. 
+No mérito, o pedido procede em parte. 
+Os autores solicitam, pela ação ajuizada, que a requerida forneça dados sobre os IPs (Internet Protocol ) de conexão utilizados pelos usuários dos e.mails jessica.filatel@gmail.com, vivisane.falcie@gmail.com e marcos.francis.dearaujo@gmail.com,  bem como as informações cadastrais utilizadas na criação de tais contas. 
+São contas de correio eletrônico abertas na provedora mantida pela requerida, identificada pela expressão gmail. 
+A utilização da presente ação foi necessária, diante do evidente interesse na identificação dos responsáveis pelos missivas eletrônicas encaminhadas, oriundas das contas noticiadas. 
+Ademais, não têm os requerentes outro meio para a obtenção de dados identificadores dos responsáveis pelas contas, como reconhece a própria requerida em sua resposta, a não ser mediante ordem judicial específica.  
+Ressalte-se ser vedado o anonimato, conforme estabelece o artigo 5º, inciso IV, da Constituição da República.
+Pois bem, a requerida apresentou parte dos dados solicitados pelos autores, quais sejam, os dados cadastrais das contas de e.mails solicitadas e os IPs. Entretanto,  não dispõe da qualificação dos usuários, pois não exige, e nem teria como conferir  a veracidade, os números dos documentos, dentre outras informações solicitadas. 
+Sua justificativa é lógica e, não tendo a disponibilidade de tais informações, não há como fornecê-las ao Juízo e, consequentemente, aos autores. 
+Satisfeita, pois, a pretensão dos autores. 
+Observo, por fim, que, a exemplo do já exposto na decisão de fls. 197, as diligências solicitadas pelos autores, tendo por escopo os dados constantes nas empresas responsáveis pelas conexões dos IPs fornecidos pela autora, extrapolam o objeto do presente feito, mesmo porque o processo judicial, de natureza cível, não é instrumento de investigação particular.  
+Todavia, justificada adequadamente a ausência de dados pessoais do responsável em cadastro, havendo disponibilidade somente do Internet Protocol (IP) e das datas e horários de acesso. 
+Pelo exposto, julgo PROCEDENTE EM PARTE o pedido da presente ação  somente para determinar  a requerida a fornecer à requerente os dados disponíveis dos responsáveis pelas contas de e.mails mencionadas na petição inicial, notadamente o IPs, tornando definitiva a antecipação dos efeitos da tutela jurisdicional.  Caberá a cada uma das partes as despesas que desembolsaram, sem condenação no pagamento de honorários advocatícios sucumbenciais em respeito ao princípio da causalidade, já que não há lide, mas procedimento necessário e inevitável para a obtenção das informações solicitadas, fora do âmbito criminal. 
+Para efeito do recolhimento de preparo recursal, será adotado o valor da causa atualizado.
+P. R. I. 
+São Paulo, 28 de novembro de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

@@ -1,0 +1,83 @@
+
+
+SENTENÇA
+
+Processo nº:4000834-78.2013.8.26.0001 - Procedimento Ordinário
+Requerente:Hezolinem Equipamentos Topograficos e Co
+Requerido:TOTVS S/A
+
+
+
+
+Juiz(ª) de Direito Dr.(ª): Enéas Costa Garcia
+
+
+
+
+Vistos. 
+
+
+
+1. HEZOLINEM EQUIPAMENTOS TOPOGRÁFICOS E COMÉRCIO DE SERVIÇOS E DESENVOLVIMENTOS LTDA., qualificada nos autos, ingressou com ação contra TOTVS S.A., alegando, em síntese, que: a) contratou com a requerida a cessão de uso de softwares, mediante pagamento da quantia de R$ 31.287,76 e mais mensalidades de R$ 2.290,80, pelos serviços mensais de software; b) a remuneração devida à requerida levou em consideração o faturamento da empresa autora, declinado na proposta de contrato; c) o sistema implantado não funciona adequadamente, não conseguindo a requerida dar o suporte necessário para instalação e manutenção do software, sendo necessária contratação de outra empresa para suporte técnico e continuidade da implementação do sistema; d) várias foram as tentativas de negociação, chegando a autora a reclamar na Ouvidoria da ré, mas nada foi feito; e)  recebeu duas cobranças da ré nos valores de R$ 27.693,44 e de R$4.470,07, sob alegação de infração contratual; f) a ré considerou que a autora deixou de comunicar seu faturamento anual e, valendo-se das clausulas 6.2 e 6.3 do contrato, passou a considerar que a requerente teve aumento em seu faturamento de 50%, calculando sobre este montante o valor da contraprestação devida; g) a ré ignorou todas as tentativas de negociação e ainda inscreveu o nome da empresa nos órgãos de proteção ao crédito; h) a ré colocou em seu sistema uma contagem regressiva diária para encerramento da licença com toda sua base de dados, ameaçando suspender a utilização do serviço, do qual a autora depende totalmente; i) a autora comprovadamente não teve o faturamento alegado pela ré, sendo abusiva a cláusula em que se funda a cobrança.
+Pretende o acolhimento do pedido para manutenção liminar do serviço e cancelamento da restrição de crédito e, no mérito, declaração de nulidade das cláusulas 6.2-a, 6.2-b, 6.3-a e 6.2 (sic)-b, bem como da respectiva cobrança. Em caráter subsidiário requereu redução do valor da multa e suspensão do pagamento da contraprestação em razão do vício do serviço. 
+
+2. Foi deferida tutela antecipada para manutenção do serviço e suspensão da restrição de crédito (fls. 164/165). 
+
+2. A ré foi citada e apresentou contestação (fls. 194/204). Alega em defesa que: a) a responsável pela implantação do sistema na sede da autora foi a empresa Exitus, que não faz parte do grupo econômico da ré, a qual somente disponibiliza o sistema e faz manutenção; b) inexiste relação de consumo, não podendo ser aplicado o CDC; c) no contrato consta obrigatoriedade de apresentação de cópia da Declaração de Imposto de Renda até o dia 30 de junho de cada exercício, portanto, o atraso na entrega é incontroverso, não havendo que se falar em ilegalidade da cláusula que assim a exige; d) não há nos autos nenhuma prova de que o sistema não funcione a contento, nem mesmo os e-mails trocados, pois datam de um ano atrás.  
+
+3. Veio aos autos a réplica (fls. 291/297).
+É o relatório. 
+
+
+DECIDO.
+
+4. O feito comporta julgamento antecipado, sendo dispensável a produção de prova oral, nos termos do art. 330, I do Código de Processo Civil.
+
+5. A ação é PROCEDENTE. 
+Os fatos são incontroversos: relata a autora que deve pagar à requerida duas verbas, calculadas sobre seu faturamento, como contraprestação pela utilização do serviço de informática. 
+Em Julho/2013 a requerida enviou cobrança com valores majorados, afirmando que a autora não teria enviado cópia de sua Declaração de Imposto de Renda, o que autorizaria aplicação da cláusula penal prevista nas Condições Gerais do Contrato, segundo a qual a cobrança ocorreria sobre o presumido aumento de 50% do faturamento da empresa cliente. 
+Insurge-se a autora quanto a esta cobrança, impugnando a referida cláusula penal, invocando sua abusividade. 
+Assiste-lhe razão. 
+Trata-se de típico contrato de adesão, fundado em condições gerais de contratação, de modo que a interpretação deve sopesar a situação de desequilíbrio em que colocado o aderente. 
+Injustificável presumir aumento tão significativo de faturamento, na ordem de 50%, o que destoa dos usos e costumes comerciais, violando a boa-fé contratual. 
+Inegável a incidência da boa-fé objetiva nos contratos, inclusive na sua função de regulação do exercício das posições jurídicas, atuando como fator de controle do abuso de direito. 
+Além da previsão específica da cláusula geral de boa-fé, o Código Civil aplica seus preceitos ao tratar da cláusula penal, criando nova modalidade de controle do seu conteúdo. 
+Além da tradicional previsão de redução equitativa da cláusula penal diante do cumprimento parcial da obrigação, o Código Civil de 2002 inovou ao estabelecer a possibilidade do controle judicial quanto ao conteúdo da multa, em especial sua abusividade. 
+Conforme o art. 413 do Código Civil: Art. 413. A penalidade deve ser reduzida equitativamente pelo juiz se a obrigação principal tiver sido cumprida em parte, ou se o montante da penalidade for manifestamente excessivo, tendo-se em vista a natureza e a finalidade do negócio.
+Este dispositivo legal demonstra que o ordenamento civil não é infenso ao controle judicial do conteúdo da cláusula penal, da aferição de sua eventual abusividade. 
+No caso sub judice a multa e respectiva cobrança mostram-se abusivas, em descompasso com a boa-fé e os usos comerciais. 
+Inaceitável que obrigação acessória do contrato (remessa de Declaração de Imposto de Renda para confirmação do faturamento declinado) seja elevada ao patamar superior da obrigação principal, onerando-a sobremaneira. 
+Presumir aumento de 50% do faturamento é irreal, consistindo em multa excessiva e unilateralmente estabelecida, verdadeira cláusula puramente potestativa, cuja manutenção em contrato de adesão não pode ocorrer.
+De outro lado, também não se mostram presentes os pressupostos para aplicação de tão pesada sanção, não observando o comportamento da requerida os deveres de lealdade e cooperação que exsurgem da boa-fé objetiva. 
+A própria requerida reconheceu que a autora havia encaminhado as informações sobre seu faturamento bruto (fls. 195), o que já permitiria o cálculo do valor da contraprestação. 
+Alega a ré que a obrigação descumprida seria o dever complementar de encaminhar a cópia da Declaração de Imposto de Renda.
+Transcrevo a manifestação da requerida: Embora a autora tenha encaminhado à TOTVS a informação de seu faturamento bruto, deixou de encaminhar dentro do prazo contratual estabelecido a sua Declaração de Imposto de Renda de Pessoa Jurídica. (fls. 195).
+Não havia qualquer notícia de que a autora seria inadimplente ou estaria em falta com o cumprimento de suas obrigações. 
+A autora já havia encaminhado a informação sobre seu faturamento, contando a requerida com os elementos necessários para lançar o valor da contraprestação do período. 
+Se havia alguma dúvida a requerida poderia, numa conduta leal e de boa-fé, interpelar a autora, inclusive solicitar o mencionado documento. 
+Porém, não se constata comportamento desta natureza, pelo contrário, tendo a requerida aplicado a multa desde logo e, inclusive, providenciado restrição de crédito, sabedora das graves consequências que este tipo restrição causa no mercado em geral. 
+E mais: ainda ameaçou suprimir o serviço, causando dano incomensurável à atividade empresarial da autora, quando em nenhum momento havia a requerente faltado com a obrigação de pagamento da contraprestação até então em vigor. 
+Diante deste quadro, deve ser acolhido o pedido no que concerne à declaração de nulidade das cláusulas indicadas no que diz respeito à aplicação da multa (aumento de 50% do faturamento), sendo a cobrança lançada nos mesmos valores que eram praticados antes da cobrança de julho/2013. 
+Também deve ser mantida a tutela antecipada no que concerne ao cancelamento da restrição de crédito e manutenção do serviço.  
+Prejudicados os demais pedidos subsidiários diante do acolhimento do pedido principal. 
+No que concerne à suspensão do pagamento da contraprestação o pedido não pode ser acolhido, pois a autora relata que, malgrado as falhas iniciais, o sistema estaria sendo utilizado, inclusive com contratação, há algum tempo, de outra empresa que vem se empenhando em sanar eventuais imperfeições, de modo que não estão presentes as condições para exercício da exceptio non adimpleti contractus. 
+
+
+6. Diante do exposto, JULGO PROCEDENTE o pedido para:
+a) tornar definitiva a tutela antecipada;
+b) declarar a nulidade das cláusulas contratuais indicadas no que diz respeito à aplicação da multa (aumento de 50% do faturamento), sendo a cobrança da contraprestação a cargo da autora lançada nos mesmos valores que eram praticados antes da cobrança de julho/2013.
+Condeno a parte requerida ao pagamento de custas, despesas processuais e honorários advocatícios, que arbitro em 10% do valor da causa, considerando os critérios do art. 20, §§ 3º e 4º do Código de Processo Civil. 
+
+
+P. R. I
+
+
+
+   São Paulo, 19 de dezembro de 2013.
+
+
+
+ ENÉAS COSTA GARCIA
+        JUIZ DE DIREITO
+
+         (assinatura digital)

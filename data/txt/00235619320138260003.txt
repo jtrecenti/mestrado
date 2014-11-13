@@ -1,0 +1,38 @@
+
+
+SENTENÇA
+
+Processo nº:0023561-93.2013.8.26.0003
+Classe - AssuntoProcedimento Ordinário - Obrigações
+Requerente:Carlos Roberto Mori
+Requerido:Google Brasil Internet Ltda
+
+
+
+
+
+Vistos, etc.
+CARLOS ROBERTO MORI move AÇÃO DE OBRIGAÇÃO DE FAZER, C.C. INDENIZAÇÃO POR DANOS, C.C. LIMINAR em face de GOOGLE BRASIL INTERNET LTDA, alegando, em síntese, que na Comunidade Inmetro no ORKUT, criada por Cibele Araújo em 01/04/2008, foi inserido comentário desabonador a sua pessoa, fato que lhe causa dano moral no seu relacionamento comercial, e como a ré se negou a remover requer com fundamento no CC tutela antecipada e a procedência para cumprimento de obrigação de fazer consistente na remoção do comentário, bem como indenização por dano moral.
+Tutela antecipada deferida (fls.23), manejando a ré A.I.
+A ré contestou (fls.33/61) alegando, em síntese, que o ORKUT é plataforma de hospedagem, não exercendo controle do conteúdo dos usuários, os quais são os responsáveis, e para casos de ofensas disponibiliza ferramenta denunciar abuso tanto na página quanto em seu site na internet; arguindo preliminar de ilegitimidade passiva, e de falta de interesse de agir pelo decurso da prescrição de 03 anos do CC ou de 05 anos do CDC; que para remoção necessita da URL; que a política é de proteção de dados dos usuários, inexistindo obrigação de armazenar IP, só fazendo por algum tempo; negou prática de ato ilícito, defeito na prestação de serviços, e nexo de causalidade, além de fato de terceiro usuário; negou responsabilidade pela teoria do risco; negou tenha causado dano moral; e, requereu a extinção ou a improcedência.
+Réplica a fls.85/89.
+É o relatório. DECIDO.
+Julgo nos termos do CPC, artigo 330, I.
+Rejeito a preliminar de prescrição trienal ou quinquenal, pois enquanto residente na plataforma ORKUT qualquer comentário desabonador se protrai no tempo a autorizar pretensão de obrigação de fazer e indenizatória; no mais é mérito.
+Rejeito a preliminar de ilegitimidade passiva, pois articula o autor atos e fatos relacionados com a administração do ORKUT mantido pelo Google; no mais é mérito.
+É fato incontroverso que o comentário desabonador à pessoa do autor está armazenado na plataforma ORKUT na Comunidade Inmetro, criada por Cibele Araújo.
+Assim sendo, pela característica do comentário de ofensa à honra do autor cabe à ré na aplicação das políticas do próprio Orkut de promover remoção do conteúdo desabonador, como também de informar os dados que ainda disponha da criadora da Comunidade Inmetro, Cibele Araújo.
+E a alegação de necessidade de conhecimento da URL para cumprimento de remoção não se sustenta, pois está identificada a comunidade em que introduzido o comentário desabonador, até porque disponibilizando a ré a plataforma Orkut sua é a obrigação de dotar os sistemas de ferramentas hábeis às identificações que se fizerem necessárias, no que não se confunde com políticas de privacidade.
+Nesse contexto, e por ter o autor direito à remoção do comentário desabonador à sua pessoa no exercício da garantia constitucional do direito individual da intimidade e honra, acolho o pedido de obrigação de fazer, e confirmo a tutela antecipada deferida, acolhido também o pedido de identificação da criadora da Comunidade Inmetro.
+Rejeito, entrementes, o pedido de indenização por dano moral, pois o comentário desabonador é longevo e o dano pessoal alegado é pretérito ao pedido administrativo de remoção e ao ajuizamento da ação.
+Diante da parcial procedência reputo adequada a compensação das verbas de sucumbência.
+
+Ante o exposto, JULGO PROCEDENTE EM PARTE a AÇÃO e CONDENO a ré na obrigação de fazer consistente na remoção da Comunidade Inmetro no Orkut do comentário desabonador à pessoa do autor, e a informar os dados de IP da criadora da Comunidade Inmetro; confirmo tutela antecipada; rejeito o pedido de indenização por dano moral; e, compenso as verbas de sucumbência.
+P.R.I.
+
+                                 São Paulo, 31 de março de 2014
+
+
+JOSÉ WAGNER DE OLIVEIRA MELATTO PEIXOTO
+ JUIZ DE DIREITO
+(assinatura digital)

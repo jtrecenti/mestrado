@@ -1,0 +1,61 @@
+
+
+SENTENÇA
+
+Processo nº:0003683-85.2013.8.26.0100
+Classe - AssuntoProcedimento Sumário - Interpretação / Revisão de Contrato
+Requerente:Antonio de Souza Oliveira
+Requerido:Banco Finasa BMC S/A
+
+
+
+Juiz(a) de Direito: Dr(a). Ana Claudia Dabus Guimarães e Souza de Miguel
+
+
+Vistos.
+
+
+ANTONIO DE SOUZA OLIVEIRA, ajuizou a presente AÇÃO REVISIONAL DE CONTRATO DE ALIENAÇÃO FIDUCIÁRIA C/C REPETIÇÃO DO INDÉBITO, contra BANCO FINASA BMC S/A, qualificados nos autos, objetivando excluir a capitalização de juros gerada pela Tabela Price, com substituição pelo Método Gauss, além da condenação do réu à repetição do indébito. Juntou procuração e documentos de fls. 17/93.
+Citado (fls. 100), o réu ofertou contestação (fls. 102/116), alegando, preliminarmente, a impossibilidade jurídica do pedido. 
+No mérito, sustenta a improcedência do pedido. Aduz que o contrato celebrado não era de adesão. Alega que o autor não comprovou a abusividade dos juros e que, ainda que tenha sido usada a Tabela Price, esta não importa na prática do anatocismo. Impugna os valores apresentados pelo autor. 
+O autor manifestou-se em réplica (fls. 144/172).
+É a síntese do necessário.
+Fundamento e DECIDO.
+
+Antecipo o julgamento, porquanto a solução da matéria independe de dilação probatória, ex vi do art. 330, I, do Código de Processo Civil.
+Demais disso, o entendimento jurisprudencial sinaliza com a desnecessidade da realização de perícia contábil, quando o que se discute é a legalidade ou não dos encargos contratuais, matéria de direito. 
+Não vinga a preliminar arguida. 
+Com efeito, os pedidos deduzidos não são expressamente vedados por lei, de modo que a questão levantada pelo réu no sentido de que inexiste onerosidade excessiva, é matéria pertinente ao mérito.
+Feitas tais considerações, ingresso na análise do mérito.
+Destaca-se, prima facie, a incidência do Código de Defesa do Consumidor à hipótese em exame, seja por força da Súmula nº. 297 do Superior Tribunal de Justiça, seja em razão da improcedência proclamada pelo Supremo Tribunal Federal na Adin nº 2.591/DF.
+Entretanto, ainda que se considere aplicável o Código de Defesa do Consumidor à relação contratual, não se vislumbra abusividade nas cláusulas pactuadas, que foram aceitas, sem reservas, pelo autor, à data da celebração do contrato mencionado nos documentos.
+Inegável a intenção do autor de usufruir das vantagens do empréstimo, aderindo às cláusulas contratuais de livre e espontânea vontade.
+Não há nenhum óbice à metodologia de cálculo utilizada pelo réu.
+Os juros simples têm aplicação limitada a operações financeiras de curto prazo.
+Quando se consideram os empréstimos ou financiamentos para quitação em prestações, o que se utiliza são os juros compostos: é o que se verifica nos depósitos em cadernetas de poupança; nos fundos de investimentos em renda fixa; e nos fundos de previdência.
+Romualdo Wilson Cançado e Orlei Claro de Lima, em seu trabalho ?Juros. Correção Monetária. Danos financeiros irreparáveis.? (3ª edição revista atualizada e ampliada, Del Rey, Belo Horizonte, 2003, pág. 25/28) bem explicam no que se consubstancia a capitalização de juros.
+A expressão ?capitalização de juros?, segundo aqueles autores, não significa a contagem de juros sobre juros. Significa, isto sim, a conversão e incorporação periódica, ao capital, da renda gerada pela utilização do capital mutuado. O direito a esta renda se origina do decurso do período ao qual se refere a taxa de juros ? juros vencidos. Pode ocorrer tanto pelo pagamento dos juros, quando exigíveis, quanto pela sua conversão e incorporação ao saldo de capital, quando inexigíveis. 
+Capital, em um mútuo financeiro, é o valor atual do saldo de um débito, expresso pelo montante que resultar do capital original, acrescido dos juros vencidos, convertidos e incorporados periodicamente ao capital, abatidos os valores eventualmente pagos (parte dos juros, total dos juros e amortização).
+Juro ou renda é o fruto deste capital que, após ser gerado, pelo decurso do período (e se tornar, assim, juro vencido ou renda vencida) se incorpora ao capital inicial do período, transformando-o em capital final do período. A renda vencida não paga fica aplicada com o mesmo mutuário, elevando o saldo devedor de capital. Daí, apontam aqueles autores, o equívoco comum de se considerar o juro de um segundo período como sendo representado por dois diferentes tipos de juros: o juro de capital e o juro do juro. Este equívoco decorre de se imaginar que a renda vencida ou o juro vencido não se converte nem se incorpora ao capital.
+É fato que a renda produzida pelos juros, no segundo período, é superior à renda produzida por eles, no primeiro período. Isto se dá porque, embora a taxa de juros continue sendo a mesma, a renda se torna maior, por ser produzida por um capital maior. O capital inicial foi acrescido de um novo capital, produzido pela conversão e incorporação a ele da renda (ou juros vencidos) produzida anteriormente. Neste caso a contagem dos juros é feita fazendo-se incidir a taxa de juros do período sobre o total do capital do mutuante, representado pelo capital inicial e pelo novo capital inicial no período. Isto é o que se denomina ?capitalização de juros? e não se confunde com anatocismo (juros sobre juros). 
+Este juízo vem se manifestando pela regularidade da cobrança dos juros capitalizados na forma acima mencionada.
+Inexiste qualquer irregularidade na capitalização mensal dos juros. A MP 2.170/36 permite a capitalização mensal para contratos firmados após 31/03/2000, desde que prevista no contrato, como na hipótese em tela.
+
+Assiste razão ao réu, outrossim, ao defender que a utilização da Tabela Price não importa na prática de anatocismo.
+A adoção de sistema de amortização de juros sobre o saldo devedor pela Tabela Price (Sistema Francês) não afronta a legislação vigente.
+ Neste sentido:
+"A Tabela Price tem como escopo manter uma prestação linear durante o prazo de amortização, os juros aplicados por esse sistema são calculados sobre o saldo devedor e se diluem em cada prestação, dividindo-se pelo prazo convencionado de adimplemento, de forma que/cada prestação contempla, mensalmente, amortização de parte dos juros já calculados parte de amortização do empréstimo. Essa proporção é decrescente para a amortização do capital, a fim de proporcionar, a partir da metade do empréstimo, maior amortização do capital e menor incidência de juros". (Apelação Cível n°456.316.4/8 - Bauru, 5a Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, m. v., Rel. Des. Oscarlino Moeller, em 23/8/06). 
+Diante da viabilidade, em tese, da adoção da Tabela Price, impõe-se também afastar a alegação de enriquecimento injusto e sem causa. Assim, ausentes se mostram os pressupostos autorizantes da devolução simples ou em dobro.
+De qualquer modo, a jurisprudência já fixou o entendimento de que mesmo nas hipóteses em que reconhecido o pagamento de valor indevido, não caberia a restituição em dobro.
+Não deve ser acolhido o requerimento de restituição em dobro dos valores indevidamente pagos a maior, pois esta C. Câmara vem entendendo que a cobrança excessiva dos encargos não representa resultado da má-fé do banco-credor, mas tão-somente de uma interpretação equivocada das leis e do contrato existente entre as partes.
+O mais não pertine.
+Ante o exposto, e pelo mais que dos autos consta, JULGO IMPROCEDENTE o pedido e, em razão disso, condeno o autor ao pagamento das custas, das despesas processuais e dos honorários advocatícios fixados em R$ 1.000,00 (hum mil reais), observado o art. 12 da Lei nº 1.060/50. No mais, julgo extinto o processo, com resolução do mérito, com fundamento no artigo 269, inciso I, do Código de Processo Civil.
+
+P. R. I. C.
+
+
+São Paulo, 25 de março de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

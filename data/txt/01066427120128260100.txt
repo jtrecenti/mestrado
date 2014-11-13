@@ -1,0 +1,42 @@
+
+
+VISTOS.
+
+
+RODOLFO ANDRÉ MOLON ajuizou ação de obrigação de fazer cumulada com indenização por danos morais contra MICROSOFT INFORMÁTICA LTDA, alegando, em síntese, que outra pessoa abriu conta de e-mail junto ao requerido e se fez passar por ele, gerando-lhe uma representação disciplinar junto à OAB. Afirma que isto lhe causou dissabores e que o requerido deve ser condenado a indenizar os danos morais que sofreu, bem como requer a condenação do requerido em obrigação de fazer para bloquear o endereço eletrônico fraudulento.
+
+Com a inicial vieram documentos de fls. 13/62.
+
+A tutela antecipada foi deferida (fls. 67). 
+
+O requerido foi citado e contestou os fatos alegando preliminar de ilegitimidade passiva (fls. 80/92).
+
+Houve réplica (fls. 131/137). As partes pediram o julgamento antecipado da lide.
+
+É o relatório.  Fundamento e decido.
+
+A preliminar de ilegitimidade passiva deve ser
+rejeitada. Isto porque a requerida pertence ao mesmo grupo econômico da Microsoft Corporation, sendo sua filial no Brasil, de modo que com base na teoria da aparência nossa jurisprudência tem admitido a legitimidade passiva da Microsoft Informática Ltda. Nesse sentido:
+
+AGRAVO DE INSTRUMENTO Medida cautelar Site de relacionamento e e-mail Decisão que deferiu a antecipação da tutela para que a agravada retire os perfis mencionados do seu site de relacionamento, bloqueie o e-mail descrito e forneça os dados necessários para a identificação do responsável Inconformismo Inadmissibilidade Legitimidade
+passiva ad causam da agravada, integrante do mesmo grupo econômico da Microsoft Corporation ? Teoria da aparência Dano à imagem da agravada não negado pela agravante Presença dos requisitos do art. 273 do Código de Processo Civil Decisão mantida Recurso Desprovido. (TJSP, AI n. 0255703-49.2011.8.26.0000, rel. J. L. Mônaco da Silva, j. 21.03.2012).
+
+No mérito, porém, a ação é improcedente. Com efeito, o que se tem de prova nos autos é de que um provável estelionatário identificado pela polícia a fls. 29 utilizou o nome do autor e criou uma conta de e-mail com seu nome completo junto ao servidor de e-mails gratuito denominado Hotmail.
+
+Pelo pedido de instauração de inquérito de fls. 34/36 percebe-se que a fraude foi praticada pessoalmente e por telefone, sendo o e-mail criado um dado acessório e sem o qual a fraude teria se consumado de qualquer maneira. Isto demonstra a desnecessidade do bloqueio da conta de e-mail, pois com esta ferramenta isolada o estelionatário não conseguiria aplicar o golpe descrito. Além disso, não consta dos autos tenha havido pedido extrajudicial para bloqueio da referida conta de e-mail, o que possibilitaria examinar se houve omissão da requerida. 
+
+Deve-se ponderar que o requerido fornece serviço de e-mail gratuitamente e pedindo poucos dados pessoais, facilitando assim a inclusão digital da população em geral. Isto, por si só, não tem a potencialidade de causar danos ao autor, pois pessoas de todo o mundo se cadastram neste mesmo provedor de e-mail e podem existir homônimos, caso no qual não haveria abuso em criar uma conta de e-mail com o nome completo do autor. 
+
+Ademais, não houve dano moral indenizável, pois tudo que isto gerou de dissabor ao requerente foi uma representação no órgão disciplinar da OAB pedindo a restituição de valores, algo que jamais poderia ser feito pela OAB, sem o concurso do Judiciário, de modo que o pedido jamais seria acolhido. Nem se chegou a instaurar processo administrativo contra o requerente (fls. 27), de modo que não houve prejuízo à imagem ou patrimônio do autor. 
+
+Ante o exposto e por tudo mais que dos autos consta, JULGO  IMPROCEDENTE  a ação proposta e, em conseqüência,  com apreciação do mérito, nos moldes do artigo 269, inciso I, do Código de Processo Civil.
+
+Pela sucumbência, o autor arcará integralmente com custas e honorários de 10% sobre o valor da causa.
+ 
+P. R. I.C.
+De Caieiras para São Paulo, 25 de fevereiro de 2.013. 
+
+
+
+PETER ECKSCHMIEDT
+Juiz de Direito

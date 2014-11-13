@@ -1,0 +1,81 @@
+
+
+SENTENÇA
+
+Processo nº:0218469-24.2011.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Espécies de Contratos
+Requerente:Avex Consultoria Ltda
+Requerido:Telium Telecomunicações Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Cristiano de Castro Jarreta Coelho
+
+
+VISTOS.
+
+AVEX CONSULTORIA LTDA. ingressou com a presente ação declaratória cumulada com indenização em face de TELIUM TELECOMUNICAÇÕES.
+
+Em síntese, sustenta que contratou a requerida para prestação de serviço de link para Internet pelo valor mensal de R$ 1.200,00 diante da promessa de garantia total de velocidade, ao contrário dos serviços prestados pelas operadoras convencionais (NET, VIVO e etc...). Nada obstante inicial execução adequada, a partir de maio de 2011 reclama que a velocidade passou a operar bem abaixo do esperado, fato que se estendeu por meses, com inúmeras reclamações e reconhecimentos de defeito, sendo que ao final a requerente manifestou expresso interesse em resolução da avença. Além de exigir multa contratual para resolução, reclama a autora que a requerida ainda enviou para protesto duas duplicatas referentes aos meses de outubro e novembro. Pretende, assim, a declaração de inexistência de obrigação referente aos meses de outubro, novembro e dezembro de 2011, bem como qualquer multa pela resolução. Outrossim, pretende a reparação dos dano sofridos no evento, inclusive de ordem moral. Vieram documentos com a defesa.
+
+Citada, a requerida ofertou contestação, ocasião em que defendeu a inexistência de defeito na prestação de serviços, o que conduz à ausência de interesse processual e à improcedência da demanda. Vieram documentos com a defesa.
+
+Houve réplica.
+
+Os autos vieram-me conclusos por designação da E. Presidência do Tribunal de Justiça de São Paulo, por força de auxílio-sentença.
+
+Eis o breve relatório. 
+
+Passo a decidir.
+
+E faço-o de forma antecipada, nos moldes do artigo 330, inciso I, do CPC, eis que a matéria ora tratada é unicamente de direito, não havendo necessidade de produção de quaisquer outras provas além daquelas já constantes dos autos. 
+
+Não há que se falar em ausência de interesse processual, pois pela pretensão deduzida, da qual decorreu logicamente o pedido, a via eleita se mostrou útil, adequada e necessária, até porque a requerida insiste em alegar cumprimento integral do contrato. Daí porque afasto a preliminar invocada em defesa.
+
+No mérito, a ação é procedente.
+
+A despeito da autora ser uma pessoa jurídica, a relação travada entre as partes é nitidamente de consumo. Isso porque a requerente não é empresa que tem por objeto social o uso da Internet como insumo básico, como por exemplo, um site de vendas. Nesses termos, a requerente acaba recebendo o serviço prestado pela ré (acesso à Internet) como destinatária final, de acordo com a teoria finalista moderada, o que enquadra a relação jurídica das partes como de consumo (artigos 2º e 3º do CDC).
+
+Em se tratando de relação de consumo, é de verificar que favorece a autora a garantia processual de inversão do ônus da prova, caso verificada a verossimilhança da assertiva lançada pelo consumidor (artigo 6º, VIII, do CDC). Nesses termos, a sequência de e-mails trocados entre as partes (fls. 44 e seguintes) logo após a autora manifestar a intenção de cancelar o contrato por conta da má prestação de serviços (fls. 43) configuram mais do que mera verossimilhança. Configuram verdadeiras provas indiciárias da efetiva existência do defeito.
+
+Basta ver, por exemplo, o e-mail resposta de fls. 44, no qual a TELIUM, por intermédio de ALINE, reconhece a existência de reunião havida entre as partes para resolução dos problemas que a autora estava verificando. Assim, no mínimo, não havia satisfação do serviço por parte da requerente. Não bastasse, os inúmeros gráficos trazidos na inicial, que não contaram com impugnação especificada, dão a real mostra da inexecução contratual por parte da ré que, como bem apontado na inicial, vende um serviço dez vezes mais caro que suas concorrentes convencionais, mas não cumpria com as velocidades mínimas de forma constante. 
+
+Nesse contexto, incumbia à requerida ter comprovado de forma documental, o que não fez com a defesa, que ao contrário do quanto aludido na inicial, o serviço foi prestado a contento. Qualquer prova oral em sentido contrário não teria o condão de afastar as evidências documentais decorrentes dos e-mails e gráficos de velocidade não impugnados. Daí porque desnecessária a realização de audiência de instrução, como requerido a fls. 157.
+
+Demonstrada, portanto, a prestação defeituosa do serviço contratado pela requerida à consumidora autora, conforme reclamo expressado desde 10 de agosto de 2011 (fls. 43), duas consequências jurídicas exsurgem: (a) a primeira relativa ao direito da autora pleitear a resolução do contrato, por culpa da ré, sem qualquer ônus financeiro; (b) a segunda referente à inexistência de obrigação de pagar as mensalidades relativas a período posterior a 30 dias (prazo de conserto) a partir de agosto de 2011, diante do incumprimento da obrigação assumida pela ré.
+
+Porém, não é só isso.
+
+O serviço defeituoso prestado pela requerida ainda causou à autora prejuízos de ordem moral. Isso porque, conforme se infere de fls. 59, houve o protesto de dois títulos ? referentes à mensalidades de outubro e novembro de 2011 (fls. 69). Sabe-se mui bem que as pessoas jurídicas estão sujeitas ao dano moral no que toca à honra objetiva. É através da imagem que a pessoa jurídica possui no mercado que terá ela, ou não, crédito na praça. Nessa seara, é absolutamente presumida a lesão à honra objetiva da pessoa jurídica indevidamente protestada, na medida em que fatalmente contará com restrição creditória, seja bancária, seja de fornecedores. Daí porque reconheço a existência de dano moral em decorrência do indevido protesto perpetrado pela ré, referente a duplicatas vencidas em período de má prestação de serviços.
+
+Passo à liquidação do dano.
+
+Não há na lei ou na jurisprudência critério fixo para fixação da indenização. Se por um lado deve ser um quantum capaz de intimidar o responsável pelo dano, evitando-se repetições, por outro não pode constituir a indenização fonte de enriquecimento ilícito.
+
+Aliás, o caráter punitivo do dano moral vem sendo admitido majoritariamente em nossos tribunais. No campo do direito civil, surgiu um importante instrumento para proteção da sociedade contra a busca ilimitada de lucro, que é justamente a caracterização do dano moral como elemento punitivo, buscando-se não só recomposição das partes do caso concreto ao status quo ante, mas principalmente orientar a conduta mercantil agressiva das grandes incorporações. A ordem econômica brasileira, conforme artigo 170, V, da CF/1988, obedecerá, dentre outros, o princípio da defesa do consumidor. Logo, o Estado Democrático de Direito impôs ao lucro limites (dignidade da pessoa humana e defesa do consumidor), cuja observância deve ser garantida pelo Poder Judiciário.
+
+Tomadas tais premissas, levando-se em consideração o valor das cambiais questionadas, considero razoável o montante pretendido pela autora (fls. 81), razão pela qual arbitro os danos morais em R$ 5.000,00.
+
+Posto isso, e tudo mais que dos autos consta, JULGO PROCEDENTE a pretensão deduzida na inicial e, em consequência:
+
+
+(a)confirmo a liminar concedida para cancelar, em definitivo, os protestos destacados a fls.  69 às expensas da requerida;
+
+(b) declaro resolvido o contrato firmado entre as partes (fls. 29 e seguintes) sem qualquer ônus para a autora, bem como declaro a inexistência de obrigação da requerente de pagar as mensalidades vencidas nos meses de outubro, novembro e dezembro de 2011;
+
+(c) condeno a requerida a pagar à autora, a título de danos morais, a quantia de R$ 5.000,00 (cinco mil reais). Em relação ao termo a quo da incidência da correção monetária, consignando alteração de posicionamento diante da Súmula 362 do STJ, deverá tal quantia ser atualizada monetariamente a partir da presente data. Outrossim, com o mesmo raciocínio, já que até então não havia valor líquido e, por conseguinte, não havia mora, determino a incidência também dos juros moratórios de 1% ao mês a partir da presente. Frise-se, aliás, que este entendimento vem sendo recentemente aplicado pelo E. STJ, conforme REsp 903.258.
+
+
+Em razão da sucumbência, condeno a parte requerida no pagamento das custas e despesas processuais, bem como nos honorários advocatícios da parte contrária que fixo, desde já, em 10% do valor atualizado da condenação, com fulcro no artigo 20, § 3º, alínea ?c?, do CPC.
+
+Sai a parte condenada intimada para, em quinze dias do trânsito em julgado da presente, nos termos do artigo 475-J, do CPC, depositar em juízo a quantia correspondente à condenação total, sob pena de incidência de multa de 10% sobre o valor global devido.
+
+P.R.I.C.
+
+De São José do Rio Preto para
+
+
+São Paulo, 04 de novembro de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

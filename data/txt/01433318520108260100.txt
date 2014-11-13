@@ -1,0 +1,67 @@
+
+
+SENTENÇA
+
+Processo nº:0143331-85.2010.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Moral
+Requerente:Serviço de Apoio Às Micro e Pequenas Empresas de São Paulo - Sebrae/sp
+Requerido:Google Inc. - Youtube e outro
+
+
+
+
+Juiz(a) de Direito: Dr(a). Leila Hassem da Ponte
+
+
+
+Vistos.
+
+
+Trata-se de ação condenatória ao cumprimento de obrigação de fazer c.c. indenização por danos morais ajuizada por SERVIÇO DE APOIO ÀS MICRO E PEQUENAS EMPRESAS DE SÃO PAULO SEBRAE/SP em face de GOOGLE BRASIL INTERNET LTDA. ? YOUTUBE e ACOM DESIGN INDUSTRIAL. A autora alega que em 09/2009 foi surpreendida com injusta divulgação de seu nome no sítio do GOOGLE INC. YOUTUBE, cuja veiculação foi feita pela corré ACOM DESIGN INDUSTRIAL. Aduz que foram veiculadas mensagens de cunho pejorativo, de forma que teve sua reputação afetada. Alega, por fim, que notificou as corrés solicitando a retirada das mensagens do sítio, mas não obteve êxito. Pediu, assim, a condenação das rés na obrigação de fazer consistente na retirada de notícias pejorativas de seu nome do sítio ?YOUTUBE?, pedido este que foi liminarmente deferido a fls. 113/114.
+
+Termo da audiência a fls. 136, 242, 246 e 254 em que restaram infrutíferas as propostas conciliatórias.
+
+Citada, a ré GOOGLE BRASIL INTERNET LTDA. apresentou contestação a fls. 138/160, sustentando, preliminarmente, ilegitimidade passiva. No mérito, alega que se trata de responsabilidade civil subjetiva cujo nexo causal inexiste, além de configurar culpa exclusiva de terceiro. Ainda, afirma que o funcionamento do site de hospedagem ?youtube? não permite um controle preventivo do conteúdo dos vídeos nele inseridos, já que isso é feito por particulares. Tal controle é feito repressivamente, a posteriori.
+
+Réplica a fls. 219/221.
+
+Na audiência de fls. 288/9 foi determinada a citação ACOM DESIGN por edital. Nomeado curador, este contestou por negativa geral a fls. 359/361.
+
+É o relatório.
+Fundamento e decido.
+
+Procedo ao julgamento antecipado da lide, nos termos do artigo 330, I, do CPC, tendo em vista a desnecessidade de produção de provas em audiência.
+
+Preliminarmente, afasto a alegada ilegitimidade passiva da corré GOOGLE BRASIL, pois, mesmo notificada pela autora (fls. 99/101), não efetuou a retirada dos vídeos:
+
+EMENTA - RESPONSABILIDADE CIVIL - INDENIZAÇÃO POR DANOS MORAIS ? Demanda que busca a retirada de vídeo envolvendo os autores, veiculados no site 'YOU TUBE' (mantido pela co-ré Google), bem como obter informes sobre os responsáveis pela divulgação do material ? Réus (YOU TUBE e GOOGLE) que possuem legitimidade para figurar no pólo passivo da demanda - Precedentes - Extinção afastada - Autos que devem tornar à origem, para regular prosseguimento (com a apreciação do pedido de antecipação de tutela e citação dos demandados) - Sentença anulada - Recurso provido. (Apelação Cível n°: 100213-25.2011).
+
+Não há dúvidas de que foi divulgado por meio do site dos réus, ?youtube.com?, vídeos ofensivos e que ferem a imagem da requerente. 
+
+Com efeito, sendo o site ?youtube.com? provedor de hospedagem de vídeos e informações inseridos por terceiros, é dever dos responsáveis pelo site, Google e Youtube, após regular notícia da inserção de conteúdos ilícitos, o bloqueio e a retirada do ar dos vídeos veiculados ilegalmente na rede social. 
+
+Nesse sentido, veja-se a jurisprudência do Egrégio Tribunal de Justiça de São Paulo exarada em caso símile:
+
+?Internet - Mensagens depreciativas inseridas em site de relacionamento (orkut), com o nítido propósito de denegrir a imagem objetiva de marca notória que se expande no mercado mediante franquias - Provedor de hospedagem que cumpre o dever de, ao ser cientificado do ilícito, bloquear o conteúdo e despaginar a comunidade que fez uso ilegal da comunicação na rede, excluindo a obrigação de pagar danos morais que somente é possível em caso de negligente controle (art. 186, do CC) -Provimento, em parte? (TJSP, Apelação n° 9103068-32.2008.8.26.0000, 4ª Câmara de Direito Privado, j. 30-07-2009, rel. Des. Enio Zuliani).
+
+?Responsabilidade civil. Provedor de hospedagem. Atendimento a ordem de remoção de perfil no Orkut e de fornecimento de dados do criador do perfil. Ausência de obrigação ressarcitória ou de compensação de alegados danos morais. Inocorrido cerceamento de prova. Sentença mantida. Recurso desprovido? (TJSP, Apelação n° 0230052-45.2007.8.26.0100, 1ª Câmara de Direito Privado, j. 01-03-2011, rel. Des. Cláudio Godoy).
+
+Intimado a retirar os vídeos (fls. 113/4), o corréu GOOGLE atendeu a determinação prontamente. Entretanto, entende o juízo que para a remoção dos vídeos, a notificação extrajudicial do ofendido já seria suficiente. No caso, a autora demonstrou sua boa-fé e sua insatisfação perante as informações veiculadas, notificando os réus (fls. 97/101). Situação distinta é aquela em que há necessidade de propor ação para a obtenção de dados cadastrais dos usuários, por se tratar de informação sigilosa e que somente pode ser exibida por meio de ordem judicial. Em razão disso, suportará os réus em sucumbências processuais.
+
+No que diz respeito ao réu ?ACOM DESIGN INDUSTRIAL?, este deve ser responsabilizado pela autoria dos vídeos veiculados. Não obstante a contestação por negativa geral, esta não infirma a prova produzida. 
+
+Embora na tentativa de difusão de caráter informativo, esta corré formula manifestações que efetivamente denigrem a boa imagem da autora, sendo de rigor a reparação por danos morais.
+
+Na fixação do valor desta reparação, deve-se observar um complexo de vetores que inclui a situação econômica das partes, a abrangência da lesão, o grau de culpa, e o contexto no qual se desenvolve a conduta lesiva. Atento a essas componentes, é de se fixar o valor de R$10.000,00, que se considera adequado em face do objeto do litígio, do que se pode aferir da capacidade econômica das partes, e que representa justa sanção pela conduta culposa do réu. 
+
+Do exposto, JULGO PROCEDENTE a ação ajuizada por SERVIÇO DE APOIO ÀS MICRO E PEQUENAS EMPRESAS DE SÃO PAULO SEBRAE/SP contra GOOGLE BRASIL INTERNET LTDA. ? YOUTUBE e ACOM DESIGN INDUSTRIAL com a solução de mérito, nos termos do art. 269, I, CPC para, confirmando a antecipação de tutela: 
+a) CONDENAR os réus  GOOGLE BRASIL INTERNET LTDA. ? YOUTUBE e ACOM DESIGN INDUSTRIAL a bloquearem e retirarem do site ?youtube.com? os vídeos que divulgam de maneira ofensiva a imagem da autora (o que já foi feito em sede de tutela antecipada); 
+b) CONDENAR o réu ACOM DESIGN INDUSTRIAL a pagar o valor de R$10.000,00 de dano moral, incidindo sobre o débito a correção monetária pela Tabela Prática do TJSP, a partir da propositura da ação e juros de mora de 1% ao mês, a partir da citação.
+
+Diante da sucumbência, CONDENO o réu GOOGLE BRASIL INTERNET LTDA. ? YOUTUBE  ao pagamento das custas e despesas desembolsadas pela autora, bem como honorários advocatícios, que fixo em R$ 800,00 (oitocentos reais), com base no art. 20, §4º, do CPC. Por outro lado, CONDENO a ré ACOM DESIGN INDUSTRIAL em custas e despesas processuais (estas, solidariamente à primeira ré), além de honorários advocatícios da parte autora, que fixo que fixo em 10% sobre o valor da condenação (art. 20 § 3°, do CPC).
+
+P. R. I. C.
+
+São Paulo, 12 de dezembro de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

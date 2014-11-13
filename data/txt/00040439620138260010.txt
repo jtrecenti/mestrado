@@ -1,0 +1,78 @@
+
+
+SENTENÇA
+
+Processo nº:0004043-96.2013.8.26.0010 - Procedimento Sumário
+Requerente:Nelson Alberto Gonçalves
+Requerido:Mesaque Soluções Corporativas Ltda
+
+CONCLUSÃO
+
+Em 08/10/2013, faço estes autos conclusos a(o) MM. Juiz(a) de Direito, Dr(a). Adriana Bertoni Holmo Figueira. Eu,             (*), lavrei este termo.
+
+VISTOS.
+
+NELSON ALBERTO GONÇALVES propôs "ação de abstenção de uso de marca requerendo concomitantemente tutela antecipada e fixação de multa diária até o cumprimento da ordem judicial cumulada com ação indenizatória" contra MESAQUE SOLUÇÕES CORPORATIVAS LTDA aduzindo, em síntese, que o programa de computador "Banco de Dados de Veículos de Leilão - BDVL" encontra-se registrado em seu nome junto ao INPI. Ocorre que ré vem se utilizando indevidamente da expressão "BDVL  Banco de Dados de Veículos de Leilão" em seu site comercial "autorisco" para distribuir um banco de dados de leilão, disponibilizando, para tanto, propostas e minutas de contrato para acesso ao produto. Requereu a concessão da tutela antecipada para que a ré   abstivesse-se do uso do nome do programa. Pugnou pela procedência, com a confirmação da tutela e a condenação da ré ao pagamento de indenização pelos danos materiais. Com a inicial (fls. 1/19), juntou documentos (fls. 20/41).
+
+Emendada a inicial às fls. 44/45, com documentos (fls. 46/50).
+
+Indeferida a antecipação dos efeitos da tutela (fls. 51).
+
+Citada, a ré contestou o feito alegando, em síntese, que o autor não possui o registro da marca junto ao INPI. O depósito da marca foi realizado pela pessoa jurídica Nortix Informática Ltda pelo que suscitou as preliminares de ilegitimidade ativa, falta de interesse de agir e inépcia da inicial. Quanto ao mérito, reiterou que o autor, sequer, comprovou o depósito da marca. Discorreu sobre o registro de marca, tipos de marca, regras aplicáveis à propriedade autoral, contrafação, domínios no "NIC.br" e litigância de má fé. Com a contestação (fls. 56/89), juntou documentos (fls. 90/107).
+
+Concedida a tutela antecipada, em sede de Agravo de Instrumento (fls. 137/138).
+
+Réplica às fls. 143/150, com documentos. 
+
+Instadas a especificar provas, a ré pugnou pelo julgamento antecipado (fls. 189/193), enquanto o autor, pelo realização de prova pericial (fls. 196/199).
+
+É o relatório.
+DECIDO. 
+
+Deixo de designar audiência de tentativa de conciliação, ante o desinteresse das partes. 
+
+Tratando-se de matéria exclusivamente de direito, passo ao julgamento antecipado da lide, nos termos do artigo 330, I do CPC.
+
+As preliminares de ilegitimidade ativa e falta de interesse de agir confundem-se com o mérito.
+
+Rejeito a preliminar de inépcia da inicial porque apresentou causa de pedir e pedido bem delimitados, possibilitando o exercício do direito de defesa pela ré. 
+
+O autor alegou que o programa de computador "Banco de Dados de Veículos de Leilão - BDVL" encontra-se registrado em seu nome junto ao INPI. Segundo ele, a ré vem se utilizando indevidamente da expressão "BDVL  Banco de Dados de Veículos de Leilão" em seu site comercial "autorisco" para distribuir um banco de dados de leilão, disponibilizando, para tanto, propostas e minutas de contrato para acesso ao produto.
+
+A ré não negou os fatos a ela imputados. Limitou-se a dizer que o depósito da marca junto ao INPI foi realizado pela pessoa jurídica Nortix Informática Ltda, o que afastaria o direito do autor. 
+
+Como bem delineado no v. Acórdão proferido em sede de Agravo de Instrumento, o requerente pleiteia a abstenção do uso do programa de computador BDVL - Banco de Dados de Veículo de Leilão e não da marca "BDLV".
+
+O documento de fls. 22 comprova que o autor é detentor do Certificado de Registro de Programa de Computador "BDVL - Banco de Dados de Veículos de Leilão" , na qualidade de seu titular e criador. 
+
+A proteção ao programa de computador está prevista na Lei 9.609/98 independente, até mesmo do registro, nos termos de seu artigo 2º.
+
+Protege-se seu direito autoral, em razão da criatividade que o originou.
+
+Segundo Orlando Gomes, in "A proteção jurídica do software: "O programador é reconhecidamente autor, por seu próprio esforço intelectual, de uma obra /'material cuja originalidade se exprime tanto na sua composição como na sua expressão. Um laço o prende a obra de sorte que o programa permanece como expressão inalterável do seu pensamento criador, à modo do direito moral do escritor e como um conjunto incindível de instruções idôneas ao processamento de informações" (Ed. Forense, l 975, p. 7).
+
+Entretanto, a idéia base não é protegida. Outros programadores ficam autorizados a criação de programas semelhantes mas não idênticos, ou seja, sem a repetição do código fonte. 
+
+Tanto é verdade, que o artigo 6º da Lei 9609/98 assim estatui: Art. 6º Não constituem ofensa aos direitos do titular de programa de computador: III - a ocorrência de semelhança de programa a outro, preexistente, quando se der por força das características funcionais de sua aplicação, da observância de preceitos normativos e técnicos, ou de limitação de forma alternativa para a sua expressão;
+
+Malgrado não tenha sido realizada prova pericial para se aferir a identidade de programas, restou incontroverso que a ré fez uso de software com idêntico nome daquele cujo autor possui o certificado perante o INPI, destinando-o para a mesma função  (banco de dados de veículos de leilão) e ainda o cedendo para  terceiros como se seu titular fosse (fls. 29/33).
+
+A justificativa do depósito da marca ter sido realizado por terceiros  junto ao INPI não dá guarida a tese da ré.
+
+O objeto da ação é o uso do programa de computador/nome "BDVL - Banco de Dados de Veículos de Leilão" e não da marca BDVL.
+
+Assim, de rigor o acolhimento do pedido de abstenção do uso do programa.
+
+Os danos materiais também são evidentes. Ainda que por certo período, a ré cedeu a terceiros mediante remuneração os direitos ao uso do programa como se sua titular o fosse. 
+
+Tal pode ser comprovado pela Ata Notarial de fls. 23/24 e minuta de fls. 30/36 que não restaram impugnados pela parte contrária. 
+
+A apuração do lucro cessante deverá ocorrer em fase de liquidação de sentença, através de prova pericial nos livros e contabilidade da ré. 
+
+Isto posto, CONFIRMO os efeitos da tutela anteriormente concedida e JULGO PROCEDENTE o pedido para determinar que a ré abstenha-se do uso do nome/programa de computador "BDVL - BANCO DE DADOS DE VEÍCULOS DE LEILÃO" (Certificado de Registro de Programa de Computador RS 10351-0) em seu site ou em qualquer outro meio de comunicação. Condeno a ré ao pagamento de indenização por danos materiais, na qualidade de lucro cessante, a ser apurada em fase de liquidação de sentença, mediante realização de prova pericial. Em razão da sucumbência, condeno a ré ao reembolso de custas, despesas processuais e ao pagamento de honorários advocatícios que arbitro em 10% do valor corrigido da causa.
+
+PRIC
+
+ São Paulo, 10 de outubro de 2013.
+Adriana Bertoni Holmo Figueira
+Juíza de Direito

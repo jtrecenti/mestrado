@@ -1,0 +1,52 @@
+
+
+SENTENÇA
+
+Processo nº:0044365-63.2012.8.26.0053
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Material
+Requerente:Bradesco Auto/Re Companhia de Seguros
+Requerido:Bandeirante Energia S/A
+
+
+
+Vistos.
+
+I - RELATÓRIO
+Bradesco Auto/Re Comnpanhia de Seguros, qualificada nos autos, por meio de advogado devidamente constituído, ajuizou Ação de Indenização por Danos Materiais contra  Bandeirante Energia S/A, aduzindo em síntese, que:
+1.A autora é sociedade empresária do ramo de seguros e teve que pagar segurado, apólice número 276002072, a saber a empresa HYSPEX TECNOLOGIA EM ALUMÍNIO Ltda, a quantia de R424.415,18, em razão de sinistro em aparelhos, conforme laudo técnico de vistoria e orçamentos juntaods com a inicial;
+2.Segundo a autora, foi elaborado processo de regulação de sinistro pela empresa Crawford Brasil Seguradora de Sinistro Ltda, detectanto a danificação dos seguintes aparelhos da segurada: 1 transformador 500kwa, trifásico à óleo mineral isllante naftênico, 01 reparo na serra do puller, 1 fonte 12V 500MA MS, 2 fontes chaveadas 12V 1ª, 2 placas de captura Geovision GV800 e 2 bobinas freio santal.
+3.A autora afirmou que a documentação e os danos experimentados pela segurada foram causados por oscilação de tensão na rede periférica local, provocada por falha no fornecimento de energia elétrica da concessionária;
+4.Após ter indenizado a segurada, a autora subrogou-se nos direitos desta e além dos gastos com a indenização, teve que desembolsar a quantia de R$1.228,20 para a regularização do sinistro e análise da empresa Crawford.
+Pediu a condenação da ré no pagamento da quantia de R$25.643,78. Protestou por provas, valorou a caus ae juntou documentos (fls. 9/53).
+Contestação (fls. 67/79), onde a ré alegou:
+a)Perda do direito à indenização, porque a Resolução Normativa da ANEEL, número 360, de 14 de abril de 2009, no art. 3º, dispõe que a indenização de equipamentos elétricos aplica-se somente para consumidores de baixa tensão e que a segurada da autora recebe energia elétrica de média tensão;
+b)Não houve perturbações no sistema elétrico na época dos fatos e não houve oscilações de energia;
+c)Nõa houve nexo de causalidade para obrigar a ré a indenizar a autora;
+d)No período do evento ocorreram fortes chuvas em Guarulhos e as fortes tempestades configuram força maior e caso fortuito;
+e)Os documentos juntados pela autora são unilaterais e não servem para fazer prova contra a ré.
+Réplica (fls. 98/104).
+II ? FUNDAMENTAÇÃO
+O debate jurídico travado entre as partes já pode ser resolvido de plano, sem necessidade de dilação probatória, e passo a julgar a lide antecipadamente, nos termos do art. 330, inciso I, do Código de Processo Civil.
+A ré alegou que não tem obrigação de indenizar, porque a energia elétrica consumida pela empresa que a autora indenizou recebe energia de média tensão, superior a 2.3KV, entretanto, diferente do que alegou a ré, existe previsão para indenizações de empresas, estabelecimentos comerciais, industriais e rurais, que recebem energia elétrica de média tensão, todavia, com fudnametno em outra Resolução Normativa da ANEEL, e não a 414 e a 360.
+No caso concreto, a autora trouxe aos autos a comprovação de que a segurada sofreu danificações em aparelhos e contratou uma empresa especializada em avaliações dessa natureza, a Crawford, a qual elaborou o parecer técnico de fls. 28/35, demonstrando que o sinistro ocorreu por oscilações na distribuição de energia elétrica.
+Embora a ré alegue que os documentos foram produzidos unilateralmente, o fato é que a autora tomou o cuidade de contratar uma empresa especializada em casos dessa natureza e os documentos juntados aos autos demosntram com riqueza de detalhes os fatoes qeu desencadearam os problemas nos aparelhs da segurada.
+Não há como acolher a tese da ré de que as tempestades que caíram sobre a cidade na época dos fatos acarretaram os fatos, e que isso é caso fortuito ou força maior, excludentes da responsabildiade, porque a ré tem o dever de ter tecnologia suficiente para evitar casos dessa natureza.
+Na contestação a ré se contradiz, ora afirmando que não há nexo causal a fundamentar a pretensão indenizatória, ora afirmando que caíram fortes chuvas na cidade naépcoa dos fatos, o que significa que a tese defensiva apresentad aé demasiadamente frágil, e a conclusão a que chego é que os temporais que caíram sobre a cidade acarretaram oscilaçoes na distribuição da energia elétrica, e isso acarretou o sinistro na empresa segurada pela autora.
+Não basta a autora negar o fato, se tal fato está demonstrado nos autos por meio de documentos idôneos, como os produzidos pela empresa Crawford, ou seja, a ré ficou na cômoda posição de negativa das afirmações da autora, mas os documentos juntados foram produzidos de forma responsável, e por empresa sem interesse na causa, a Crawford, que foi contratada para prestar assistência técnica ao caso, e foi tal empresa que constatou que os danos foram causados por oscilações na distribuição de energia elétrica.
+Outro fator que leva-me a concluir pela veracidade das alegações da autora é que, sendo seguradora, a autora sabia que não receberia o ressarcimento em caso de a análise do sinistro não ser bem feita, e é sabiado que nenhuma seguradora indeniza sem prévia constatação dos fatos que produziram o sinistro, ou seja, a autora tomou as devidas precauções antes de indenizar a segurada pelo sinistro.
+Não seria o caso de a autora esperar por 20 (vinte) dias como dispõe a Resolução da ANEEL para que a distribuidora de energia resolva a situação, fazendo seus próprios laudos, porque sendo a segurada uma empresa, ela não poderia permanecer paralisada até que a distribuidora ré resolvesse a situação.
+Em suma, pela própria contestação da ré percebo que as fortes chuvas que caíram sobre acidade no período causaram oscilações na energia elétrica distribuída pela ré e isso acarretou os danos nos aparelhs da segurada e o caos é de procedência da ação para condenar a ré na reparação de danos pretendida.
+Como a ré não impugnou os valores cobrados pela autora, presumo como verdadeiros os gastos com a indenização e o valor a ser pago pela ré é de R$25.643,78.
+III ? DISPOSITIVO
+Ante o exposto, Julgo Procedente a pretensão da autora, e extinto o proceso com resolução de mérito, com fundamento no art. 269, inciso I, do CPC, nos seguintes termos:
+1.Condeno a ré no pagamento para a autora da quantia de R$25.643,78 (vinte e cinco mil, seiscentos e quarenta e três reais e setenta e oito centavos), corrigidos monetariamente de acordo com a tabela do TJSP, incidindo juros moratórios de 1% ao mês, a partir da data da indenização à empresa segurada pela autora;
+2.Condeno a ré no pagamento das custas e demais cominações de estilo e nos honorários de sucumbência, que com fulcro no art. 20, parágrafo 3º, do CPC, fixo em 15% do valor da condenação, atualizado pelso mesmos índices do item 1.
+P.R.I.
+São Paulo, 16 de setembro de 2013.
+
+
+LUIZ FERNANDO SILVA OLIVEIRA
+Juiz de Direito
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

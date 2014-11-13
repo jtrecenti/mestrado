@@ -1,0 +1,55 @@
+
+
+SENTENÇA
+
+Processo nº:0185807-75.2009.8.26.0100
+Classe - AssuntoEmbargos À Execução - Efeito Suspensivo / Impugnação / Embargos à Execução
+Requerente:Paulo Eduardo Grasseschi Panico e outro
+Requerido:Banco Schahin S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). João Omar Marçura
+
+
+
+                                                        Vistos.
+
+
+Trata-se de embargos à execução proposta por PAULO EDUARDO GRASSESCHI PANICO e HERMINIA PUREZA MALAGOLI PANICO em face do BANCO SCHAHIN S/A. Os embargantes alegam: a. inépcia da inicial porque não recolhidas as custas antes do despacho inicial; b. suspensão da execução em razão da relevância dos argumentos e da possibilidade da execução causar grave dano de difícil reparação aos executados; c. suspensão do processo em razão de litispendência com ação revisional já proposta; d. abusividade dos contratos em razão da capitalização dos juros e do aumento arbitrado do lucro (spread) e também da indevida imposição da indexação ao CDI. 
+Os embargos foram recebidos sem efeito suspensivo, contra o que foi tirado recurso de agravo de instrumento não provido (fls. 246, 253/254 e 300/304). 
+O embargado apresentou impugnação (fls. 256/270). Disse que a inicial da execução é apta, pois preenche os requisitos do art. 282 e 284 do CPC, sendo que as custas foram recolhidas nove dias após o ajuizamento da demanda. No mérito, sustentou a obrigatoriedade das convenções e o não cabimento de suspensão da execução por falta de garantia do juízo. Disse que a taxa de CDI foi livremente pactuada e que, na eventual hipótese de sua substituição, deve ser usada a taxa média do mercado, por espécie de operação, como determina a Circular do Banco Central nº 2957/1999, bem como entendimento do STJ (REsp. 139.343-RS, Rel. Min. Ari Pargendler, j. 22.02.2001 e Sumulas 294 e 296).
+Decisão determinando a regularização do processo e juntada de certidão de objeto e pé (fls. 305/306).
+Decisão saneadora irrecorrida a fls. 316/317, com a nomeação de perito.
+Realizada a perícia sobreveio o laudo de fls. 864/1104, sobre o qual se manifestaram as partes.
+O perito prestou esclarecimentos (fls. 1144/1152).
+Encerrada a instrução (fls. 1162), o embargado apresentou alegações finais (fls. 1164/1168) e os embargantes silenciaram (fls. 1169).
+É o relatório. 
+Fundamento. 
+DECIDO. 
+A inicial da execução preenche os requisitos legais e o recolhimento das custas nove dias depois do ajuizamento da execução não leva, necessariamente, ao indeferimento da inicial e cancelamento da distribuição, sendo razoável admitir-se o recolhimento posterior, que nenhum prejuízo trouxe ao erário ou às partes. 
+Não é o caso de se suspender a execução e a questão atinente a litispendência já foi dirimida na decisão saneadora. 
+A ação revisional em tramite perante a E. 25ª Vara Cível deste foro foi julgada parcialmente procedente, nos seguintes termos: 
+(...) Pelo exposto, JULGO PROCEDENTES EM PARTE OS PEDIDOS, declaro extinto o processo com resolução de mérito, com fulcro no artigo 269, inciso I, do Código de Processo Civil, afasto a incidência do certificado de depósito interbancário e determino a revisão dos contratos celebrados entre as partes, aplicando-se o IPCA, com a consequente devolução dos valores em excesso, cujo cálculo será apurado na forma do artigo 475-B do CPC. Custas, despesas processuais e honorários advocatícios compensados, à luz do artigo 21, caput, do CPC. 
+A sorte desses embargos é semelhante. 
+A questão atinente a taxa de juros foi resolvida pela Sumula vinculante nº 7 do STF verbis: 
+A norma do § 3º do art. 192 da Constituição revogada pela Emenda Constitucional 40/2003, que limitava a taxa de juros reais a 12% ao ano, tinha sua aplicação condicionada à edição de Lei Complementar. 
+Admite-se a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade fique cabalmente demonstrada, o que não ocorre no caso presente, em que não há relação de consumo. 
+As instituições financeiras não estão sujeitas à Lei de Usura, nos termos da Sumula 596 do STF e os contratos foram celebrados na vigência da Medida Provisória 2.170/36, cujo art. 5º permite a capitalização de juros com periodicidade inferior a um ano. 
+Quanto ao spread bancário está sujeito a diversas variáveis, entre as quais o nível de concentração do sistema financeiro, a taxa básica de juros da economia (SELIC), o nível dos depósitos compulsórios, a carga tributária, os custos administrativos das instituições financeiras, o risco de crédito determinado pelo nível de inadimplência, entre outros. No caso dos autos a perícia não verificou a prática de spread abusivo. 
+Também não restou demonstrada a cobrança de comissão de permanência cumulada com outros encargos, de forma que incidem as Sumulas 30 e 294 do STJ. 
+A multa moratória está dentro do limite legal de 2%. 
+Contudo, com relação ao certificado de depósito interbancário, não obstante expressamente pactuado, a cláusula que o prevê é nula, pois não se trata de indicador aplicável a operações entre particulares e agentes financeiros. 
+Como já explicitado na sentença que julgou a ação revisional: 
+ (.....) Por outro lado, no tocante ao certificado de depósito interbancário, as instituições financeiras disputam no mercado os recursos disponíveis para captação. Devido à volatilidade das taxas dos diferentes papéis em mercado, os recursos financeiros disponíveis estarão procurando as melhores aplicações, quer seja em CDB, LC ou LI. De forma a garantir uma distribuição de recursos que atenda ao fluxo de recursos demandados pelas instituições, foi criado, em meados da década de 1980, o CDI. Os certificados de depósito interbancário são os títulos de emissão das instituições financeiras, que lastreiam as operações do mercado interbancário. Suas características são idênticas às de um CDB, mas sua negociação é restrita ao mercado interbancário. Sua função é, portanto, transferir recursos de uma instituição financeira para outra. Em outras palavras, para que o sistema seja mais fluido, quem tem dinheiro sobrando empresta para quem não tem. A taxa média diária do CDI é utilizada como parâmetro para avaliar a rentabilidade de fundos, como os DI, por exemplo. O CDI é utilizado para avaliar o custo do dinheiro negociado entre os bancos, no setor privado e, como o CDB (Certificado de Depósito Bancário), essa modalidade de aplicação pode render taxa de prefixada ou pós-fixada. Como o CDI quantifica o custo do dinheiro para os bancos em um determinado dia, ele é utilizado pelo mercado como parâmetro para fundos de renda fixa e DI. O CDI é usado também como parâmetro para operações de Swap (contrato de troca de qualquer tipo, seja ele de moedas, commodities ou ativos financeiros), na Bolsa de Mercadoria & Futuros (BM&F) para o ajuste diário do DI futuro. Desta feita, torna-se inequívoco que o CDI é taxa de juros a ser aplicada exclusivamente em transações financeiras interbancárias, devendo, portanto ser afastado no caso presente, aplicando-se o índice indicado pela parte autora, ou seja, o IPCA (...). 
+Posto isso, julgo PARCIALMENTE PROCEDENTES os embargos, reconheço o excesso na execução, cujo valor deverá ser recalculado, afastando-se a incidência do certificado de depósito interbancário, que deve ser substituído pelo IPCA, o que deverá ser feito por simples operação aritmética, conservando-se a liquidez do título. 
+Considerando-se a natureza e extensão dos trabalhos periciais, arbitro os honorários definitivos do perito contábil em R$18.000,00 (dezoito mil reais). 
+Havendo sucumbência recíproca, cada parte arcará com 50% das custas e despesas processuais, aí incluídos os honorários do perito e responderá pelos honorários advocatícios de seus respectivos patronos. 
+Prossiga-se na execução, onde o credor deverá apresentar demonstrativo atualizado de seu crédito nos termos desta sentença.  
+P. R. I.
+
+São Paulo, 30 de abril de 2013.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

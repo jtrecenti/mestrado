@@ -1,0 +1,58 @@
+
+
+SENTENÇA
+
+Processo nº:0007569-97.2010.8.26.0003 - Procedimento Ordinário
+Requerente:Falsi & Falsi Comércio de Peças Diesel Ltda
+Requerido:Totvs S/A - Microsiga
+
+
+Juíza de Direito Dra.: Carolina Martins Clemencio Duprat Cardoso
+
+
+
+
+Vistos.
+Falsi & Falsi Comércio de Peças Diesel Ltda. ingressou com ação declaratória de inexigibilidade de débito, cumulada com rescisão de contrato e indenização por danos materiais e morais com pedido de tutela antecipada contra Totvs S/A - Microsiga, alegando que em 24/09/2007 firmou com a ré proposta comercial para a implantação do sistema Protheus através de vários contratos: contrato de cessão de direitos de uso de sistema de computação, contrato de ajustes e evolução tecnológica, contrato de atendimento personalizado e contrato de atendimento continuado e relacionamento. Informou que adquiriu o produto oferecido inicialmente, Top Processor X86 Multicore, pelo valor de R$10.000,00, a fim de implantar o sistema. Posteriormente, informou que contratou a empresa Kliamca, de propriedade do sócio da requerida, a fim de viabilizar a implantação do sistema contratado, o que também não ocorreu. Afirmou que apesar de pagar regularmente pela prestação de serviços, as tentativas de ajustar o cumprimento do contrato à normalidade não lograram êxito, vez que notificou a ré quanto à sua insatisfação, realizou reunião e não havendo solução para os problemas de implantação e funcionalidade do sistema Protheus 10,  contatou por telefone a empresa ré visando à rescisão do contrato. Disse que a ré  emitiu duas duplicatas mercantis nºs E327739  e E334110 , com vencimentos em 24 de novembro e 24 de dezembro de 2009, ambas no valor de R$3.768,36, levadas a protesto. Salientou que os títulos são inexigíveis, uma vez que o serviço não foi executado. Pediu a aplicação do Código de Defesa do Consumidor, bem como a concessão da tutela antecipada para suspender os efeitos do protesto dos títulos mencionados, mediante a caução dos valores correspondentes. Requereu, ainda, a procedência da ação para declarar nulas e inexigíveis as duplicatas elencadas, decretar a rescisão dos contratos e condenar a ré ao pagamento de indenização por danos materiais das quantia pagas e definidas nos contratos firmados entre as partes, acrescido do valor referente à contratação da empresa Kliamca Consulting, bem como pagar indenização por danos morais em valor arbitrado por esta juízo.
+Com a inicial, juntou documentos pertinentes (fls.20/108).
+A ré foi citada (fl.119) e apresentou contestação acompanhada de documentos. Suscitou preliminarmente a inépcia da inicial ante a ausência de causa de pedir específica e causa de pedir quanto ao pedido de indenização. Quanto ao mérito, teceu informações acerca dos produtos, softwares e serviços adquiridos pela autora a fim de informatizar sua empresa. Refutou a aplicabilidade do Código de Defesa do Consumidor  e contrariou tenha a autora documentado a pretendida rescisão contratual. Expôs que os valores cobrados na prestação dos serviços encontram-se contratualmente embasados. Em razão da mora, regular o envio dos títulos a protesto. Insurgiu-se contra a pretensão de indenização por danos morais. Pugnou pela total improcedência da ação.
+Realizada a audiência de conciliação, não houve acordo, oportunidade em que foram afastadas as preliminares (fls.318/9).
+Após, durante a audiência de instrução e julgamento, a autora reiterou o descumprimento da liminar por parte da ré. Foram colhidos os depoimentos de duas testemunhas da autora (fls.348/352).
+Ao final, as partes apresentaram memoriais (fls.364/5 e 366/371).
+É o relatório.
+Decido.
+
+
+As partes contrataram a implantação de software para informatização da empresa autora, estabelecendo relação jurídica submetida à lei civil.
+Os contratantes são duas pessoas jurídicas que, em igualdade de condições, estabeleceram direitos e obrigações nos contratos objeto da lide, nenhuma delas em situação de vulnerabilidade.
+Assim é que estabeleceram que a autora pagaria à ré valores para remunerar a cessão de direitos de uso do programa em questão, bem como taxa de manutenção, para fazer frente a diversos serviços que seriam prestados pela ré.
+Após a instrução da causa, a prova testemunhal indicou com clareza que o programa instalado pela ré para gerenciamento da atividade da autora nunca funcionou a contento, mesmo após meses de tentativas levadas a cabo pela ré.
+A ré, por sua vez, imputa a culpa pela execução falha à autora, que teria deixado de cumprir com as obrigações assumidas, ocasionando divergências no sistema, além de não ter profissionais qualificados para acompanhar a implantação e não treinar adequadamente seus funcionários.
+No entanto, nenhuma prova fez a este respeito, o que a ela incumbia (art. 333 II C.P.C.), e não foi o que se apurou, tanto que foi necessário que a autora contratasse uma outra empresa, por indicação da ré, para assessorar na implantação do sistema, o que foi feito pela autora, e afasta a alegação de que a autora teria dado causa ao inadimplemento por falta de empenho na efetiva implementação do sistema.
+Trata-se de obrigação de resultado, em que à ré incumbia a implantação e funcionamento do sistema cedido à empresa autora, o que não ocorreu.
+No entanto, diante dos elementos de prova constantes do processo, verifica-se que não ocorreu a inexecução total do contrato, pois após a celebração do ajuste, a ré permaneceu nas dependências da autora por determinado período, com vistas à execução de sua obrigação, e a restituição completa dos valores pagos pela autora importaria em enriquecimento sem causa.
+As partes não lograram esclarecer em qual medida foram os contratos executados, ou seja, qual a proporção das obrigações contratadas que foram ou não cumpridas, de sorte que fica prejudicado o pedido de restituição dos valores desembolsados em razão dos contratos, pelas razões acima.
+Também não há prova suficiente da forma de contratação da outra empresa mencionada no processo, não estabelecido com clareza qual o vínculo teria com a ré, de sorte que não se acolhe, em tais condições, o pedido de condenação da ré em ressarcir a autora os valores despendidos com tal empresa.
+Sendo assim, é de se acolher a pretensão de rescisão do contrato por culpa da ré, tal como faculta o art. 475 do Código Civil.
+Em consequência, inexigíveis os créditos consubstanciados nos títulos levados a protesto, pois se o serviço não fora concluído pela ré, não poderia ter sacado duplicatas correspondentes aos valores ainda em aberto quando da suspensão da prestação de serviços.
+E se o fez, encaminhando-as a protesto, deve responder pelo abalo de crédito que causou à autora, ainda que esta empresa já tivesse outros apontamentos em seu nome nos cadastros de crédito.
+Com tais considerações, considerados os efeitos nefastos do protesto à pessoa jurídica, que sofre restrições de toda ordem em sua atividade, fixo os danos morais em importância correspondente aos títulos indevidamente sacados (duas duplicatas de R$ 3.768,36).
+Quanto ao descumprimento da tutela antecipada, a decisão de fl. 110 suspendeu os efeitos do protesto em questão, bem como determinou a exclusão do nome da autora do SERASA e impôs à ré a obrigação de não realizar outro apontamento nos cadastros de crédito em nome da autora, sob pena de incidência de multa diária de R$ 500,00.
+Não houve restrição expressa em referida decisão com relação à continuidade da cobrança promovida pela ré diante da autora, de sorte que o encaminhamento de novos boletos à autora para pagamento de tais valores não consiste, estritamente, em medida que importa no descumprimento da tutela antecipada.
+Em razão da boa-fé que deve nortear a conduta das partes, se uma relação contratual está sub judice, não deveriam os envolvidos tomar novas medidas antes da solução da lide.
+No entanto, se assim não agiu a ré, não se pode interpretar sua conduta como descumpridora de ordem judicial, na medida em que não havia ordem que vedasse a cobrança dos valores que entendia devidos.
+Diversa é a situação noticiada às fl. 272, em que, muito após ao ajuizamento da ação e da concessão de tutela nos termos acima referidos, a ré encaminhou os dados da autora ao SERASA em abril de 2011, em detrimento da ordem judicial, impondo-lhe a condição de devedora.
+Neste ponto, houve, de fato, descumprimento da tutela, na medida em que expressamente vedada tal conduta, o que não fora observado pela ré.
+Ademais, não há comprovação se foi efetivamente lançada a nova restrição, ou se a ré agiu para corrigir seu erro, obstando a consumação dos danos à autora.
+A permanência da restrição indevida foi temporária, pois em agosto daquele ano a ré juntou comprovante dando conta da ausência de restrições em nome da autora (fl. 300/1 e 315).
+Feitas tais considerações, e tendo em conta que o juiz pode modificar o valor da multa acaso se torne excessiva, nos termos do artigo 461 § 6º do Código de Processo Civil, determino à ré que pague à autora, por conta do descumprimento verificado, R$ 5.000,00, o que equivale a dez dias de inadimplemento, e se mostra suficiente a reprimir a conduta analisada.
+
+Pelo exposto, e por mais que dos autos consta, JULGO PARCIALMENTE PROCEDENTE a ação, confirmando a tutela antecipada, para declarar rescindidos os contratos celebrados pelas partes, descritos na inicial; condenar a ré a indenizar a autora por danos morais em decorrência dos protestos questionados, em importância correspondente a R$ 7.536,72, bem como obrigar à ré a pagar a autora R$ 10.000,00 a título de multa por descumprimento da tutela antecipada. Os valores serão corrigidos a contar da data da sentença pela Tabela do TJ/SP, e acrescidos de juros de mora de um por cento ao mês a contar da citação. Em razão da sucumbência em maior parte, arcará a ré com as custas e despesas processuais, bem como honorários do procurador da autora, que arbitro em 15% do valor da condenação, devidamente atualizado. Após o trânsito, defiro o levantamento da caução em favor da autora, oficiando-se para sustação definitiva dos protestos.
+P.R.I.
+
+ São Paulo, 21 de março de 2013.
+
+
+Carolina Martins Clemencio Duprat Cardoso
+Juíza de Direito
+(assinatura digital)

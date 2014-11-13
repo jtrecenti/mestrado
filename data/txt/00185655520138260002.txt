@@ -1,0 +1,93 @@
+
+
+SENTENÇA
+
+Processo nº:0018565-55.2013.8.26.0002 - Procedimento Ordinário
+Requerente:Ana Paula Ribeiro dos Santos Santana
+Requerido:BV Financeira S/A
+
+Justiça Gratuita
+
+Juiz(a) de Direito: Dr(a). Fernanda Soares Fialdini
+
+
+
+Vistos.
+ 1. Ana Paula Ribeiro dos Santos Santana ajuizou ação contra BV Financeira S/A. Alega que celebrou com a ré contrato de financiamento para aquisição de veículo, o qual deveria ser pago em 48 parcelas de R$ 285,20. O contrato não informa qual o método de amortização da dívida. Foi aplicada a Tabela Price, o que importa na cobrança de juros capitalizados. Devem ser devolvidos em dobro os valores pagos pelos juros capitalizados e o contrato deve ser revisto para que seja aplicado o método linear de Gauss. Foram cobradas tarifas abusivas, que também devem ser devolvidas em dobro. A taxa de juros contratada deve ser aplicada.
+A tutela antecipada foi indeferida.
+O réu contestou. Alega que a capitalização é permitida nas cédulas de crédito bancário, por expressa disposição legal. Foi informado à autora o Custo Efetivo Total. Ocorreu a decadência e a prescrição. Os juros não devem ser reduzidos. São legais as tarifas cobradas.
+É o relatório.
+Decido.
+3. Em se tratando de matéria de direito, o julgamento antecipado da lide se mostra adequado.
+Trata-se de ação revisional de contrato celebrado em 18 de dezembro de 2009.
+A autor não está reclamando de defeitos na prestação de serviços, daí porque não há que se falar em decadência.
+Também não se trata de ação de reparação de danos, para que se possa aplicar o prazo prescricional previsto no art. 206, § 3º, inciso V do Código Civil.
+4. No mérito a ação é improcedente.
+O professor Nelson Nery Júnior, ao comentar a possibilidade de modificação de cláusulas contratuais prevista no Código de Defesa do Consumidor, ensina que: ?O direito básico do consumidor, reconhecido no art. 6º, nº V, do Código, não é o de desonerar-se da prestação por meio da resolução do contrato, mas o de modificar a cláusula que estabeleça prestação desproporcional, mantendo-se íntegro o contrato que se encontra em execução, ou de obter a revisão do contrato se sobrevierem fatos que tornem as prestações excessivamente onerosas para o consumidor.
+O juiz, reconhecendo que houve cláusula estabelecendo prestação desproporcional ao consumidor, ou que houve fatos supervenientes que tornaram as prestações excessivamente onerosas para o consumidor, deverá solicitar das partes a composição no sentido de modificar a cláusula ou rever efetivamente o contrato. Caso não haja acordo, na sentença deverá o magistrado, atendendo aos princípios da boa-fé, da eqüidade e do equilíbrio que devem presidir as relações de consumo, estipular a nova cláusula ou as novas bases do contrato revisto judicialmente.? (Código de Defesa dos Direitos do Consumidor comentado pelos autores do Anteprojeto ? 7ª edição - Editora Forense Universitária - pág. 479)
+Como pode ser considerado excessivamente oneroso o contrato cujas prestações são fixas e são levadas ao conhecimento do contratante no momento da contratação? 
+O C. STJ, em sede de incidente de recurso repetitivo, nos termos do art. 543-C do CPC, nos autos do REsp nº 1.061.530 - RS (2008/0119992-4, DJe de 10/3/2009) da relatoria da Ministra Nancy Andrighi, manifestou-se no seguinte sentido:
+- As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33), Súmula 596-STF;
+- A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade;
+- São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02;
+- É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada art. 51, §1º, do CDC) fique cabalmente demonstrada, ante as peculiaridades do julgamento em concreto.
+O contrato celebrado entre as partes demonstra com clareza as obrigações que a autora assumiu. O valor de cada prestação foi ali estabelecido e desde logo a consumidora teve ciência das características da obrigação. 
+A autora alega haver falta de menção expressa no contrato do sistema de amortização utilizado. Constatou que estava sendo aplicada a Tabela Price, o que resultaria na capitalização de juros.
+Tal omissão (quanto ao método de amortização da dívida) não é suficiente para autorizar a revisão do contrato.
+Em primeiro lugar porque não é ilegal a aplicação da Tabela Price, a qual não caracteriza a cobrança de juros capitalizados.
+Mediante a utilização da Tabela Price ocorre a amortização do principal e juros, e sua finalidade é a eliminação de qualquer valor a título de resíduo ao término do contrato.
+Confira-se a respeito a lição de Adolfo Mark Penkuhn, extraída do texto "A Legalidade da Tabela Price", publicado na "Revista de Direito Bancário, do Mercado de Capitais e da Arbitragem", Ed. RT, n. 17, julho-setembro de 2002, págs. 284-290:
+"Ressalte-se que, na parcela a ser paga, estão incluídos juros e amortização do capital. Acerca de tal fato dispõe o Código Civil, em seu art. 993: 'Havendo capital e juros, o pagamento imputar-se-á primeiro nos juros vencidos, e depois no capital, salvo estipulação em contrário, ou se o credor passar a quitação por conta do capital'. Chega-se à conclusão lógica de que, sempre que o pagamento for superior aos juros, estes restarão completamente pagos, nada havendo para acrescer ao principal. Assim, não há como capitalizar os juros, uma vez que já estarão pagos, e os juros da próxima prestação incidirão apenas sobre o remanescente do principal, feita a devida amortização com o que exceder ao pagamento dos juros".
+
+Em segundo lugar, o que importa para aquele que assume uma dívida é saber o que está pagando, e quanto a isso a autora foi suficientemente informada. Todos os encargos contratuais estão destacados no contrato. Não houve qualquer surpresa na execução da avença.
+Por tal razão também não há que se falar em prejuízo derivado da aplicação de juros de 2,3842% ao mês em vez de 2,38% ao mês.
+Diferente seria se a autora fosse optar por contratar ou não conforme o método de amortização adotado. Não é o caso dos autos. O consumidor que financia veículos contrata por sua conveniência e o que considera é o valor das prestações em cotejo com seu orçamento.
+Por fim, ainda que a Tabela Price implicasse na cobrança de juros sobre juros, a capitalização mensal em se tratando de cédula de crédito bancário é permitida por expressa previsão legal, desde que estipulada em contrato, de acordo com o art. 28, § 1º, inc. I, da Lei nº 10.931/04, in verbis:
+?Art. 28. (...)
+§ 1º Na Cédula de Crédito Bancário poderão ser pactuados:
+I - os juros sobre a dívida, capitalizados ou não, os critérios de sua incidência e, se for o caso, a periodicidade de sua capitalização, bem como as despesas e os demais  encargos decorrentes da obrigação.? 
+
+A capitalização dos juros é também permitida em contratos celebrados após a entrada em vigor da Medida Provisória nº 1.963-17-2000, atualmente reeditada sob o nº 2.170-36/2001.
+Nesse sentido o entendimento do E. Superior Tribunal de Justiça:
+Processo AgRg no Ag 1028568 / RS
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO 2008/0061220-5
+Relator(a) Ministro JOÃO OTÁVIO DE NORONHA (1123)
+Órgão Julgador T4 - QUARTA TURMA
+Data do Julgamento 27/04/2010
+Data da Publicação/Fonte DJe 10/05/2010
+
+Ementa
+?CONTRATO BANCÁRIO. AÇÃO REVISIONAL. ARRENDAMENTO MERCANTIL. RECURSO ESPECIAL. TEMPESTIVIDADE. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. DISPOSIÇÕES ANALISADAS DE OFÍCIO. IMPOSSIBILIDADE. JUROS REMUNERATÓRIOS. LIMITAÇÃO AFASTADA. CAPITALIZAÇÃO MENSAL DE JUROS. PACTUAÇÃO EXPRESSA. DESCARACTERIZAÇÃO DA MORA. PRESSUPOSTO NÃO EVIDENCIADO. JUROS MORATÓRIOS. MULTA CONTRATUAL. LICITUDE DA COBRANÇA. REPETIÇÃO DO INDÉBITO E COMPENSAÇÃO. POSSIBILIDADE.
+1. Quando não forem interpostos embargos infringentes, o prazo relativo à parte unânime da decisão terá como dia de início aquele em que transitar em julgado a decisão por maioria de votos (art. 498, parágrafo único, do CPC).
+2. Não há por que falar em violação do art. 535 do CPC quando o acórdão recorrido, integrado pelo julgado proferido nos embargos de declaração, dirime, de forma expressa, congruente e motivada, as questões suscitadas nas razões recursais.
+3. Não cabe ao Tribunal de origem revisar de ofício cláusulas contratuais tidas por abusivas em face do Código de Defesa do Consumidor.
+4. A alteração da taxa de juros remuneratórios pactuada em mútuo bancário depende da demonstração cabal de sua abusividade em relação à taxa média do mercado.
+5. Nos contratos bancários firmados posteriormente à entrada em vigor da MP n. 1.963-17/2000, atualmente reeditada sob o n. 2.170-36/2001, é lícita a capitalização mensal dos juros, desde que expressamente prevista no ajuste.
+6. Não evidenciada a abusividade das cláusulas contratuais, não há por que cogitar do afastamento da mora do devedor.
+7. Na linha de vários precedentes do STJ, é admitida a cobrança dos juros moratórios nos contratos bancários até o patamar de 12% ao ano, desde que pactuada.
+8. A jurisprudência do STJ está consolidada no sentido de permitir a compensação de valores e a repetição do indébito sempre que constatada a cobrança indevida do encargo exigido, sem que, para tanto, haja necessidade de se comprovar erro no pagamento.
+9. A multa de mora é admitida no percentual de 2% sobre o valor da quantia inadimplida, nos termos do artigo 52, § 1º, do CDC.
+10. Satisfeita a pretensão da parte recorrente, desaparece o interesse de agir.
+11. Agravo regimental provido.?
+
+O Col. Órgão Especial do E. Tribunal de Justiça, a respeito da inconstitucionalidade das Medidas Provisórias 1963/2000 e 2170-36/2001, apreciou e rejeitou incidente de  inconstitucionalidade, em 24 de agosto de 2011 (Incidente n° 0128514-88.2011.8.26.0000). É a seguinte a ementa do V. Acórdão:
+"INCIDENTE DE INCONSTITUCIONALIDADE. MEDIDA PROVISÓRIA N° 1963-17/2000, REEDITADA PELA MEDIDA PROVISÓRIA N° 2.170/2001, CAPITALIZAÇÃO DE JUROS EM CONTRATO DE MÚTUO BANCÁRIO, CELEBRADO A PARTIR DE 31 DE MARÇO DE 2000. POSSIBILIDADE. CONTRADO DE MÚTUO BANCÁRIO, NÃO SE APLICA O ARTIGO 591 DO CÓDIGO CIVIL, PREVALECE A REGRA ESPECIAL DA MEDIDA PROVISÓRIA N° 2.170/2001. PRECEDENTES DO STJ. ARGUIÇÃO DESACOLHIDA, COMPATIBILIDADE DA LEI COM O ORDENAMENTO FUNDANTE".
+
+5. No contrato que a autora pretende rever, celebrado em 18 de dezembro de 2009, foram estipuladas tarifa de cadastro, de registro de contrato e serviços de terceiros. O Recurso Especial nº 1.251.331-RS, julgado em 28.08.2013, estabeleceu que:
+?1. Nos contratos bancários celebrados até 30.4.2008 (fim da vigência da Resolução CMN 2.303/96) era válida a pactuação das tarifas de abertura de crédito (TAC) e de emissão de carnê (TEC), ou outra denominação para o mesmo fato gerador, ressalvado o exame de abusividade em cada caso concreto;
+2. Com a vigência da Resolução CMN 3.518/2007, em 30.4.2008, a cobrança por serviços bancários prioritários para pessoas físicas ficou limitada às hipóteses taxativamente previstas em norma padronizadora expedida pela autoridade monetária. Desde então, não mais tem respaldo legal a contratação da Tarifa de Emissão de Carnê (TEC) e da Tarifa de Abertura de Crédito (TAC), ou outra denominação para o mesmo fato gerador. Permanece válida a Tarifa de Cadastro expressamente tipificada em ato normativo padronizador da autoridade monetária, a qual somente pode ser cobrada no início do relacionamento entre o consumidor e a instituição financeira;
+3. Podem as partes convencionar o pagamento do Imposto sobre Operações Financeiras e de Crédito (IOF) por meio de financiamento acessório ao mútuo principal, sujeitando-o aos mesmos encargos contratuais.? (Relatora Ministra MARIA ISABEL GALLOTTI).
+A Resolução nº 3.518/2007, do Banco Central do Brasil, com a redação dada pela Resolução nº 3.693/2009, estabelece, em seu art. 1º, § 1º, inc. III, e § 2º, que:
+"Art. 1º A cobrança de tarifas pela prestação de serviços por parte das instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil deve estar prevista no contrato firmado entre a instituição e o cliente ou ter sido o respectivo serviço previamente autorizado ou solicitado pelo cliente ou pelo usuário.
+§ 1º Para efeito desta resolução:
+I - considera-se cliente a pessoa que possui vínculo negocial não esporádico com a instituição, decorrente de contrato de depósitos, de operação de crédito ou de arrendamento mercantil, de prestação de serviços ou de aplicação financeira;
+II - os serviços prestados a pessoas físicas são classificados como essenciais, prioritários, especiais e diferenciados;
+III - não se caracteriza como tarifa o ressarcimento de despesas decorrentes de prestação de serviços por terceiros, podendo seu valor ser cobrado desde que devidamente explicitado no contrato de operação de crédito ou de arrendamento mercantil.
+§ 2º Não se admite o ressarcimento, na forma prevista no inciso III do § 1º, de despesas de emissão de boletos de cobrança, carnês e assemelhados."
+Não foram cobradas da autora tarifas de abertura de crédito (TAC) ou de emissão de carnê (TEC), as quais não poderiam ser exigidas em razão de se tratar de contrato celebrado após 30.4.2008.
+Não há vedação legal para a cobrança das tarifas exigidas, impondo-se salientar que a consumidora foi esclarecida dos respectivos valores, identificados de forma clara no contrato.
+Tampouco há abusividade na cobrança de serviços de terceiros, desde que o consumidor seja também informado.
+6. Posto isso, JULGO IMPROCEDENTE A AÇÃO, condenando a autora ao pagamento das custas, despesas processuais e honorários advocatícios que fixo em 10% sobre o valor da causa, ressalvado o quanto determinado pelo artigo 12, da Lei nº 1060/50.
+P.R.I. 
+
+São Paulo, 31 de março de 2014.

@@ -1,0 +1,102 @@
+
+
+SENTENÇA
+
+Processo nº:0138922-95.2012.8.26.0100
+Classe - AssuntoProcedimento Sumário - Títulos de Crédito
+Requerente:Só-serv Serviços de Cobrança Ltda
+Requerido:Hsbc Bank Brasil S/A Banco Multiplo e outro
+
+
+
+
+Juiz(a) de Direito: Dr(a). Ana Paula Comini Sinatra Asturiano
+
+
+Vistos.
+
+SÓ-SERV SERVIÇOS DE COBRANÇA LTDA promove contra ÚNICA TELECOMUNICAÇÕES E OPERAÇÕES MULTIMÍDIA LTDA e HSBC BANK BRASIL S/A BANCO MÚLTIPLO ação declaratória de inexistência de dívida c.c. indenizatória por danos morais, bem como ação cautelar de sustação de protesto (autos em apenso). Alega, em síntese, que tinha contratado os serviços de telefonia da primeira requerida, pagando o valor de R$ 1.500,00 mensais. Entretanto, no dia 02/12/2011 cancelou referido contrato, mas, mesmo assim, teve um título protestado, com endosso translativo para o segundo requerido, no valor de R$ 1.500,00, com vencimento em 20/03/2012. Assim, requer seja sustado o protesto do título por inexistência do débito, bem como a indenização pelos danos morais sofridos. 
+
+No apenso, foi concedida a medida liminar para sustar o protesto do título (fls. 40).
+
+Devidamente citado, o Banco requerido apresentou contestação (fls. 22/35), alegando, preliminarmente, ilegitimidade passiva ?ad causam?, sob o argumento que é terceiro de boa-fé, uma vez que não participou da transação que originou o título. No mérito, defende a legalidade do protesto. Requer a improcedência da ação. 
+
+Devidamente citada, a empresa requerida apresentou contestação às fls. 78/86, afirmando que a cobrança é devida e que inexistem danos morais.
+
+Houve apresentação de réplica (fls. 90). 
+
+É o relatório.
+
+Decido.
+
+O feito comporta julgamento antecipado, sendo desnecessária a dilação probatória. 
+
+A preliminar argüida pelo Banco de ilegitimidade passiva ?ad causam? há de ser afastada.
+
+Com efeito, conforme admitido pelo próprio banco, a duplicata levada a protesto por ele lhe foi transmitida por endosso translativo. Assim, é parte legítima para figurar no pólo passivo da ação.
+
+Neste sentido, cito julgado: 
+
+?CAMBIAL - Ilegitimidade "ad causam" - Duplicata - Emissão sem causa - Endosso translativo a instituição bancária. Ajuizamento de declaratória de inexigibilidade do título, antecedida de medida cautelar de sustação do protesto contra a endossante e o banco-endossatário. Admissibilidade, afastada a alegação de ilegitimidade de parte do banco. Caracterização do litisconsórcio passivo necessário. CPC, artigo 47, parágrafo único. Ação procedente. Recurso provido em parte para ressalvar o direito de regresso do banco contra a sacadora.? (1ºTACivSP - Ap. nº 666.311 - SP - Rel. Juiz Antônio de Pádua Ferraz Nogueira - J. 19.03.97).
+
+Na verdade, somente o endosso-mandato, para simples cobrança das duplicatas, levaria à ilegitimidade passiva da Instituição Bancária. 
+
+No mérito, a ação é procedente.
+
+Afirmou a autora que não houve causa para a emissão da duplicata levada a protesto pelo Banco, na medida em que o contrato efetuado com a primeira requerida já estava cancelado.
+
+Deve ficar claro, que a prova da existência do negócio era ônus dos requeridos, uma vez que não se pode exigir da autora que faça prova negativa, já que inviável.
+
+Essa prova não foi feita.
+
+De fato, apesar de ter a empresa requerida afirmado que, apesar do cancelamento a duplicata emitida referia-se a valores não quitados anteriormente, o fato é que não trouxe aos autos nenhum documento comprovando tais alegações. 
+
+Por outro lado, deve ser ressaltado que os documentos anexados pela autora na ação cautelar demonstram que a requerida reconheceu a inexistência da dívida, tanto que providenciou carta de anuência para o cancelamento de outro protesto por ela levada a efeito com relação à mesma cobrança (duplicata nº 724).
+
+O banco, por sua vez, limitou a invocar o princípio da inoponibilidade das exceções pessoais a terceiros de boa-fé.
+
+Diante disso, pode-se ter por certo que, realmente, não houve causa para a emissão da duplicata, devendo ser reconhecida a inexistência de obrigação da autora para com a empresa requerida.
+
+Por outro lado, é inegável que o Banco réu, sendo portador do título e credor da importância nele expressa, tinha, de fato, a necessidade de protestar a duplicata a fim de garantir o direito de regresso.
+
+Isso porque, de acordo com o artigo 13, parágrafo quarto, da Lei nº 5.474/68, o portador que não tirar o protesto da duplicata, em forma regular e dentro do prazo de trinta dias, contados da data do seu vencimento, perderá o direito de regresso contra os endossantes e respectivos avalistas.
+
+Diante disso, o Banco, ao mandar a duplicata a protesto, em princípio, exerce um direito (o de protestar o título), como condição para conservação de outro (o de regresso).
+
+Ora, nos exatos termos do artigo 188, I, do Código Civil, não constitui ato ilícito o que é praticado no exercício regular de um direito.
+
+Não se desconhece, é verdade, que, embora juridicamente o protesto não afete a posição do sacado que não aceitou o título, pode ele vir a sofrer prejuízos, considerando as conseqüências que o comércio atribui ao protesto, podendo, inclusive, abalar a credibilidade da empresa que o sofre. Daí porque, admite-se o protesto, com o intuito de assegurar o direito de regresso do endossatário, omitindo-se, porém, o nome do sacado, a fim de evitar-lhe prejuízos.
+
+Neste sentido, é o seguinte julgado do Primeiro Tribunal de Alçada Civil - 1ºTACivSP:
+
+ ?Cambial ? Duplicata ? Hipótese de desfazimento de compra e venda mercantil entre sacadora e sacada ? Subsistência, contudo, em razão de endosso, da relação jurídica entre recorrente endossatário e a recorrida sacada ? Aplicação do artigo 13, parágrafo quarto, da Lei de Duplicatas ? Necessidade, porém, da lavratura do protesto extrajudicial da cártula para possibilitar ao recorrente o exercício do seu direito de regresso, omitindo-se o nome da sacada ? Declaratória de ineficácia de relação cambial e nulidade de título de crédito e cautelar de sustação de lavratura de protesto improcedentes ? Recurso provido para esse fim.? (1ºTACivSP - Ap. nº 634.961-7 - 2ª Câm. - j. 25.06.1997 - rel. Juiz Ribeiro de Souza). 
+
+Ocorre que, na hipótese dos autos, agiu o Banco com abuso, na medida em que regular seria o protesto por falta de aceite, não o protesto por falta de pagamento. Isso porque, conhecendo o Banco que a duplicata configura título causal, exigindo, portanto, a comprovação da existência de uma compra e venda, ou prestação de serviço que lhe seja correspondente, age negligentemente quando não procura se garantir da certeza de ser válido o título que pretende ver protestado.
+
+Neste sentido: 
+
+?TÍTULO EXECUTIVO EXTRAJUDICIAL - Duplicata - Aceite - Protesto - Endosso - Direito de Regresso. É válida a duplicata emitida sem a efetiva entrega da mercadoria, inexistindo todavia obrigação do sacado que não aceitou a cártula, podendo o endossatário exercer seus direitos somente contra quem se vinculou cambialmente. Revela-se abusivo o protesto por falta de pagamento contra o sacado que não assinou a duplicata, sendo regular apenas o protesto por falta de aceite, a fim de resguardar o direito de regresso do endossatário. No Mesmo Sentido Ap. Cível 219106-0 3ª C. Civil Rel. Juiz W. Marotta 14.08.96.? (TAMG - Proc. nº 1.992.303 - Uberlândia - Rel. Juiz Wander Marotta - J. 30.08.95 - DJ 08.02.96 - v.u).
+
+Por esta razão, considerando que o protesto ocorreu por falta de pagamento, deve, de fato, ser definitivamente sustado.
+
+Com relação ao dano moral, embora o título em questão não tenha sido protestado, já que houve a sustação judicial, o fato é que a duplicata de nº 724 chegou a ser protestada. Com relação a tal duplicata, a qual não foi objeto da cautelar por ter sido o protesto cancelado amigavelmente, afirma a autora que a dívida correspondente também inexistia.
+
+Com relação a tal alegação, os requeridos sequer apresentaram impugnação específica, razão pela qual é de se considerar a inexistência da dívida.
+
+Sendo a dívida inexistente, indevido foi o protesto do título nº 724, fato esse que causou à autora os danos morais alegados na inicial.
+
+Com relação à indenização, considerando a atitude insistente dos requeridos, em promover a cobrança de dívidas inexistentes, entendo adequado o valor de R$ 20.000,00. 
+
+Diante do exposto julgo PROCEDENTE a ação principal para: A) declarar inexigível a duplicata referida nos autos em relação à autora, de nº 837, bem como para condenar os requeridos a pagarem, solidariamente, o valor de R$ 20.000,00 em benefício da autora, valor esse que deve ser corrigido monetariamente e com incidência de juros de mora desde a publicação da sentença. Em razão da sucumbência, condeno os requeridos ao pagamento das custas e de honorários advocatícios no valor de R$ 1.500,00; B) julgo PROCEDENTE a medida cautelar de sustação de protesto (Processo nº 128073.1/12), tornando definitiva a liminar concedida. Condeno os requeridos ao pagamento das custas, e em honorários advocatícios no valor de R$ 1.500,00.
+
+Oficie-se ao Cartório de Protesto de Títulos.
+
+P.R.I.C. 
+
+De Américo Brasiliense para São Paulo, 28 de junho de 2013.
+
+Ana Paula Comini Sinatura Asturiano
+  Juíza de Direito 
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

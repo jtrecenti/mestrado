@@ -1,0 +1,70 @@
+
+
+SENTENÇA
+
+Processo nº:0209912-48.2011.8.26.0100
+Classe ? Assunto:Procedimento Ordinário - Indenização por Dano Moral 
+Requerente:Gabriela Viana dos Santos
+Requerido:Google Brasil Internet Limitada
+
+
+
+
+Juiz(a) de Direito: Dr(a). Marcelo Barbosa Sacramone
+
+
+Vistos.
+
+
+GABRIELA VIANA DOS SANTOS, identificada nos autos, ajuizou a presente AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPARAÇÃO DE DANOS MORAIS com pedido de tutela antecipada contra GOOGLE BRASIL INTERNET LTDA., devidamente representado. 
+Alegou que o requerido hospeda o blog ?negrasemulatasdobrasil.blogspot.com?, site com conotação sexual que utilizou fotos suas, sem autorização. Assim, atentou contra sua imagem e honra, ensejando danos morais.
+Requereu antecipação de tutela para exclusão das páginas deste site que utilizam sua imagem e seu nome, e a imposição de multa diária para o caso de não retirada, bem como de multa sancionatória para o caso de novas publicações.
+Requereu a condenação do requerido ao pagamento de verba indenizatória no valor de R$ 100.000,00. 
+A antecipação de tutela foi concedida às fls. 33/34 para cominar à requerida a obrigação de excluir do site ?negrasemulatasdobrasil.blogspot.com? as páginas que utilizem a imagem e/ou nome da autora GABRIELA VIANA DOS SANTOS. Alternativamente, caso não seja possível, tecnicamente, o cumprimento desta determinação, deverá a requerida fornecer todos os dados do responsável pelo site a fim de viabilizar o cumprimento da ordem. A presente determinação deverá ser cumprida em 48 horas, a contar da ciência desta decisão, sob pena de multa diária no valor de R$ 1.000,00, até o limite de R$ 30.000,00, a ser constrito via BACENJUD.
+Devidamente citada (fls. 48), a ré apresentou contestação (fls. 70/115). Arguiu, preliminarmente, inépcia da inicial, impossibilidade de cumprimento da liminar concedida, ilegitimidade passiva e decisão ultrapetita na concessão da liminar.
+No mérito, a ré alegou a impossibilidade técnica e fática de ?varredura?, monitoramento e fiscalização prévia no site blogger em razão do volume de dados movimentados na internet e que não fora notificada extrajudicialmente pela autora. Sustentou a ausência dos requisitos da responsabilidade civil (dano, ato ou conduta ilícita e nexo causal), a inaplicabilidade da teoria do risco ou responsabilidade objetiva, a inexistência de nexo causal uma vez que a conduta é exclusiva de terceiro, inexistência de defeito no serviço prestado, a imediata remoção das postagens após ter sido intimada da liminar e a ausência de abalo moral. 
+Requereu o afastamento da liminar concedida, a extinção do processo sem julgamento de mérito ou a improcedência total do pedido.
+Não houve réplica.
+A ré interpôs agravo de instrumento contra a liminar concedida .
+ 
+É O RELATÓRIO,
+FUNDAMENTO:
+
+O processo comporta julgamento antecipado, pois embora verse sobre matéria de fato e de direito, está instruído com documentos que permitem o convencimento do Juízo. Passo ao julgamento da lide nos termos do artigo 330, inciso I, do Código de Processo Civil, atendendo ao princípio fundamental contido na Emenda Constitucional nº 45/04, que deu nova redação ao inciso LXXVIII do art. 5º da Constituição Federal e impôs ao Juiz zelar pela rápida solução do litígio, garantindo às partes a celeridade da tramitação do processo.
+
+Preliminares:
+
+A ré arguiu inépcia da inicial, pois a autora não teria cumprido o prazo da decisão que determinou a comprovação de seus rendimentos a fim de obter o benefício da gratuidade, devendo ser extinto o processo.
+Primeiro, a mencionada decisão foi disponibilizada em 22/06/2012, estabelecendo o prazo de dez dias e a petição da autora foi protocolada em 28/06/2012, de modo que inexiste qualquer descumprimento de prazo. Ademais, o atraso na comprovação da gratuidade por si só não ensejaria a extinção.
+Rejeito a preliminar.
+Em seguida, a ré arguiu ilegitimidade passiva, pois em razão da relação jurídica material estabelecida, não seria a responsável por eventual indenização. Os terceiros, que criam e mantêm blogs na rede, têm total controle sobre seu conteúdo ou deveriam ter e por isso devem ser responsabilizados.
+O serviço prestado pela ré foi o meio pelo qual o suposto dano contra a autora se concretizou, por isso é parte legítima para figurar nesta demanda.
+Rejeito a preliminar.
+Também arguiu a ré impossibilidade de cumprimento da liminar concedida e decisão ultrapetita na concessão da liminar. Estas matérias serão analisadas juntamente ao mérito na oportunidade de análise da manutenção ou revogação da liminar.
+
+Mérito:
+Os pedidos são parcialmente procedentes.
+Pretende a autora o ressarcimento por danos morais pela divulgação de seu nome e imagem, sem sua autorização, em site difamatório e com conteúdo racial, ferindo o artigo 5º, inciso X, da Constituição Federal, além da imposição de multa sancionatória para o caso de novas publicações Segundo a autora, a ré hospeda o referido site e seria responsável pela omissão em verificar o conteúdo, conforme artigo 186, do Código Civil.
+Por outro lado, a ré defendeu-se sustentando a impossibilidade técnica e fática de ?varredura?, monitoramento e fiscalização prévia no site blogger em razão do grande volume de dados movimentados na internet diariamente. Alegou que não fora notificada extrajudicialmente pela autora, desconhecendo o conteúdo do site até tomar ciência da liminar concedida.
+De fato, o grande volume de informações não permitiria qualquer tipo de controle prévio, e ainda que fosse possível implicaria restrição à liberdade de expressão. Não é possível responsabilizar a ré por omissão em fiscalizar o conteúdo postado no site. Aa responsabilidade da ré nasce apenas com a ciência do conteúdo.
+Nesse sentido, os precedentes:
+
+INDENIZAÇÃO POR DANOS MORAIS Exclusão de vídeo no Youtube com entrevista contendo declarações de cunho difamatório Negativa de retirada do conteúdo após a notificação prévia Omissão culposa Dano moral caracterizado Indenização mantida Apelo não provido.
+?Não resta dúvida de que a ré deveria ter excluído o vídeo assim que cientificada de sua existência. Não se trata de exigir o monitoramento das informações que são veiculadas, mas, constatada a ofensa, de imediatamente retirá-la da internet, coibindo o abuso praticado, com responsabilização do ofensor, desde que identificado, e a sua pronta exclusão do sistema.? 
+
+AÇÃO INDENIZATÓRIA. INTERNET. PÁGINA DIFAMATÓRIA NO "ORKUT". DANOS MORAIS. AUSÊNCIA DE RESPONSABILIDADE DO PROVEDOR DE SERVIÇOS. IMPOSSIBILIDADE DE CONDENAÇÃO DA RÉ NA DIVULGAÇÃO DE IP. DECURSO DO PRAZO PRESCRICIONAL PARA O AJUIZAMENTO DE AÇÃO CONTRA O VERDADEIRO CAUSADOR DO DANO. APELAÇÃO DO AUTOR NÃO PROVIDA E APELAÇÃO DA RÉ PROVIDA. 1. Ação indenizatória movida em face de provedor de conteúdo, em razão da criação de página difamatória no "Orkut". 2. Sentença de parcial procedência, apenas para condenar a ré a fornecer dados de "IP" ("Internet Protocol") e informar quanto tempo a página ficou no ar, sob pena de multa diária. Recursos de ambas as partes. 3. Inexistência de responsabilidade civil do provedor pelos danos morais. Ausência de dever de controle prévio acerca das informações divulgadas pelos usuários dos serviços. Precedentes. 4. Sentença que comporta reparo para afastar a condenação da ré em fornecer os dados de IP do usuário, ante o longo tempo decorrido desde a data da ciência quanto à referida página (agosto/2009), bem como em informar quanto tempo a página ficou disponível, eis que, pelas alegações das partes, ocorreu logo depois. 5. Decurso do prazo prescricional de 3 anos estabelecido para o ajuizamento da ação indenizatória contra o verdadeiro causador do dano (art. 2063 §3º, V, CC). 6. Apelação do autor não provida e apelação da ré provida.
+
+No presente caso, a ré alegou não ter sido notificada extrajudicialmente das publicações. A parte autora, entretanto, não demonstrou a notificação. Não trouxe quaisquer provas aos autos da notificação, de modo que se considera a ciência de sua obrigação pela decisão de fls. 33/34, que concedeu a liminar.
+A ré afirmou ter retirado da rede os links que identificou dentro do site, após a ciência da liminar. A autora não se manifestou em réplica ou especificamente sobre o cumprimento da determinação judicial, não tendo motivos que levem este juízo a duvidar do seu cumprimento.
+Tendo a ré cumprido a determinação judicial e excluído o conteúdo assim que tomou ciência de sua existência, não é possível responsabiliza-la pelos danos morais. Não se configuram danos morais no presente caso, pois a ré não se omitiu.
+A liminar foi concedida apenas para cominar a requerida a obrigação de excluir do site ?negrasemulatasdobrasil.blogspot.com? as páginas que utilizem a imagem e/ou nome da autora GABRIELA VIANA DOS SANTOS. 
+Sob o mesmo fundamento, o pedido de imposição de multa sancionatória para o caso de novas publicações deve ser julgado improcedente em razão da ausência de dever de controle prévio acerca das informações divulgadas pelos usuários dos serviços
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTES os pedidos da presente AÇÃO DE INDENIZAÇÃO ajuizada por GABRIELA VIANA DOS SANTOS contra GOOGLE BRASIL INTERNET LTDA. Faço-o apenas para tornar definitiva a medida liminar concedida anteriormente para condenar a ré na obrigação de excluir do site ?negrasemulatasdobrasil.blogspot.com? as páginas que utilizem a imagem e/ou nome da autora GABRIELA VIANA DOS SANTOS, sob pena de multa diária no valor de R$ 1.000,00, até o limite de R$ 30.000,00,
+ Em consequência, JULGO resolvido o mérito deste processo com julgamento de mérito, com fundamento no art. 269, I, do Código de Processo Civil.
+Em razão da sucumbência recíproca, as partes arcarão com as custas e despesas processuais que regularmente despenderam, bem como com os honorários advocatícios de seus respectivos patronos. 
+Por ser beneficiária da gratuidade processual, a autora fica isenta do pagamento de das custas e despesas processuais enquanto perdure sua condição.
+
+P. R. I. C.
+
+
+São Paulo, 22 de agosto de 2013.

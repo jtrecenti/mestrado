@@ -1,0 +1,87 @@
+
+
+SENTENÇA
+
+Processo nº:0149553-98.2012.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Perdas e Danos
+Requerente:Israel Yakov Wajchman
+Requerido:Ebazar .com .br Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Olavo de Oliveira Neto
+
+Vistos.
+
+israel yakov wajchman propõe a presente AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E MORAL contra EBAZAR.COM.BR LTDA (MERCADO LIVRE) juntando, com a inicial de fls. 02/11, os documentos de fls. 12/35. Alega, em resumo, que utiliza os serviços da ré para efetuar compra e venda de produtos, no entanto, em 21.11.2011, um hacker invadiu o sistema da ré e comprou um produto com o dinheiro do autor de uma suposta vendedora de nome Genifer no valor de R$ 25.912,00 (vinte e cinco mil e novecentos e doze reais). Afirma também que parte do valor foi resgatado e que o autor teve sua conta bloqueada por medida de segurança, todavia, nos dias 30.11.2011 e 01.12.2011, foram realizadas outras duas compras pelo hacker. Daí, aduzindo que a ré se quedou inerte ante às suas solicitações pelo estorno dos valores, o que lhe causou prejuízos, pleiteia sua condenação ao pagamento de indenização por danos morais e materiais, bem como à devolução do montante de R$ 2.354,00 (dois mil e trezentos e cinquenta e quatro reais).
+
+Regularmente citada, a ré ofertou contestação às fls. 70/78, arguindo preliminarmente a ocorrência de ilegitimidade passiva; e, no mérito, sustentou que o acesso ao seu sistema se dá por meio de apelido e senha pessoais e que se alguém acessou o cadastro do autor é porque este de alguma forma permitiu que terceiros tivessem acesso aos seus dados; que cabe ao usuário do sistema adotar as cautelas devidas para proteger seu computador; que inexiste obrigação de indenizar por parte da ré e que não há dano moral a compor.
+
+Réplica às fls. 114/127.
+
+É o breve relatório do feito.
+
+DECIDO. 
+
+O feito merece julgamento no estado em que se encontra, uma vez que não há necessidade da produção de provas em audiência. Isso porque a prova documental que veio aos autos é suficiente para demonstrar qual decisão deve ser dada aos fatos controversos, devendo o magistrado evitar a produção de provas desnecessárias, por expressa determinação do art. 130, do CPC.
+
+Nesse sentido, aliás, a observação de que "Julgar antecipadamente a lide é dever do juiz se presentes as condições para tanto, até porque sendo o juiz destinatário da prova, somente a ele cumpre aferir sobre a necessidade ou não de sua realização" (TFR - 5ª Turma, Ag. 51.774-MG, Rel. Min. Geraldo Sobral, j. 27.02.89).
+
+O Egrégio Supremo Tribunal Federal também já decidiu nesse sentido, concluindo que "a necessidade de produção de prova em audiência há que ficar evidenciada para que o julgamento antecipado da lide implique em cerceamento de defesa. A antecipação é legítima se os aspectos decisivos estão suficientemente líquidos para embasar o convencimento do magistrado" (RE 101.171-SP).
+
+Antes de analisar o mérito de uma ação deve o magistrado, como se sabe, efetuar juízo de admissibilidade, onde serão observadas, dentre outras questões, as relativas às condições da ação e aos pressupostos processuais.
+
+Na primeira categoria encontram-se a possibilidade jurídica, a legitimidade de parte e o interesse de agir. Ausente uma destas condições, será o autor carecedor da ação.
+
+No presente caso existe possibilidade jurídica, já que o sistema não veda a propositura de ação que visa obter uma condenação ao pagamento de indenização e há interesse de agir, uma vez que o autor não tem como deixar de buscar no Poder Judiciário ressarcimento que não foi espontaneamente satisfeito.
+
+Quanto à preliminar arguida, se a definição de parte, na moderna concepção do instituto, é aquele que pede e contra quem se pede a prestação de tutela jurisdicional, então o réu é parte legítima para figurar no pólo passivo da ação, já que contra ele o autor pleiteia tutela jurisdicional de caráter indenizatório, o que o legitima a integrar o pólo passivo da ação.
+
+No que diz respeito à segunda categoria, os pressupostos de existência são a jurisdição, petição inicial, citação e capacidade postulatória, enquanto os pressupostos de desenvolvimento válido e regular são a competência e imparcialidade do juízo, petição inicial apta, citação válida e capacidade processual.
+
+Destarte, pois, nenhum dos pressupostos processuais positivos está ausente; e, nenhum dos pressupostos negativos, como a coisa julgada ou a litispendência, estão presentes.
+
+Regulares, portanto, os aspectos de ordem formal atinentes ao presente feito.
+
+Superadas as preliminares, passo a análise do mérito.
+
+Ressalte-se, por primeiro, que a relação discutida nestes autos é relação de consumo, sendo o autor hipossuficiente técnico e sendo plausível a tese sustentada, razão pela qual há a inversão do ônus da prova no feito, nos termos do art. 6º, do CDC.
+
+Daí, caberia a ré juntar ao processo documentos que comprovassem a regularidade das transações havidas, bem como a regularidade do cadastro da vendedora Genifer, já que referida documentação estaria necessariamente sob sua guarda, o que não fez, embora tivesse toda a oportunidade de produzir a prova documental e acostá-la a sua resposta.
+
+Ademais, mesmo que relação de consumo não fosse, trata-se de prova negativa absoluta, que por sua natureza inverte o ônus da prova no processo, cabendo à ré provar que o autor ou pessoa de sua confiança tenha efetuado as transações em vez do mencionado hacker, o que não aconteceu.
+
+Daí, portanto, não sendo mais possível a ré juntar documentos ao processo, porque estes não podem ser considerados documentos novos, a única solução viável é considerar incontroversos os fatos articulados na inicial.
+
+Por tal razão é devida indenização por danos materiais ao autor na forma indicada na inicial, sendo de rigor a devolução do montante de R$ 23.399,00 (vinte e três mil e trezentos e noventa e nove reais).
+
+Por sua vez, muito se discutiu acerca do dano moral. A partir da entrada em vigor do atual texto Constitucional não resta mais dúvida acerca da possibilidade de indenização quando este ocorre. Todavia, a doutrina vem tentando lapidar o que se deve entender por tal espécie de dano.
+
+Usando critério negativo, alguns procuram localizar o dano moral onde não existe o dano patrimonial. Para José Aguiar Dias "... quando ao dano não correspondem as características de dano patrimonial, estamos na presença de dano moral.".  Essa também é a posição de Limongi França que propõe que "dano moral é aquele que, direta ou indiretamente, a pessoa, física ou jurídica, bem assim a coletividade, sofre no aspecto não econômico dos seus bens jurídicos.". 
+
+Não destoa o entendimento de Pontes de Miranda ao afirmar que "dano patrimonial é o dano que atinge o patrimônio do ofendido; dano não patrimonial é o que é, 'só' atingindo o devedor como ser humano, não lhe atinge o patrimônio.". 
+
+Em outros termos, segundo tal corrente, existe uma linha distintiva entre o dano patrimonial e o dano moral fundada na sede do dano gerado. Se o patrimônio do indivíduo não é atingido, mas se este se vê lesado em seu sentimento de dignidade, então estaremos diante da ocorrência de dano moral.
+
+É evidente, como explicou o Eminente Des. José Osório de Azevedo Junior, professor e paraninfo da turma deste magistrado na PUCSP, que não é qualquer situação que pode gerar indenização por dano moral. Apenas situações consideradas fora de padrões de convivência social aceitáveis e que geram direito a ressarcimento. Um mero dissabor ou contrariedade do dia a dia, ao qual todos nós estamos sujeitos, não se presta a dar ensejo à ocorrência de dano moral.
+
+Nesse sentido, aliás, o conteúdo das seguintes decisões relacionadas por Theotônio Negrão: ?- mero dissabor, tal qual involuntário equivoco que obstrui a efetivação de contrato de seguro de automóvel (RSTJ 150/382); ?involuntária falha no sistema on line? que inviabiliza a compra por cartão de crédito (STJ-4ª T., REsp 403.919, rel. Min. Cesar Rocha, j. 15.5.03, não conheceram, v.u., DJU 4.8.03, p. 308); ?atraso da oficina na entrega de automóvel que lhe foi confiado para conserto? (STJ-3ª T., REsp 401.636-EDc-AgRg, rel. Min. Gomes de Barros, j. 25.9.06, negaram provimento, v.u., DJU 16.10.06, p. 362);? 
+
+Assim, como os valores de cada indivíduo e de cada sociedade variam, é diante do caso concreto que se deve fixar o juiz para decidir se houve ou não o dano moral, deixando de lado suas convicções pessoais e levando em conta os valores da comunidade na qual judica.
+
+Deve-se ter em conta, portanto, a teoria dos papeis sociais, que expressa a situação em que um indivíduo se amolda dentro de seu convívio social. Para Rizzato Nunes ?O indivíduo é uma soma de papeis e por vezes este indivíduo, enquanto ser real, confunde-se com os papeis que exerce. O indivíduo é pai, filho, irmão, estudante, profissional, político, torcedor, etc. num conjunto de papeis sociais. E nesse ponto podem estar papéis sociais públicos e privados, nem sempre sendo fácil distinguir quando o comportamento social real é de um ou de outro.?.  
+
+Nesse passo, observo que o autor sofreu mero aborrecimento, que não é capaz de causar trauma psicológico, dor ou desespero nas pessoas. Problemas com relação à venda e compra de produtos pela Internet. Não há que se falar, daí, em diminuição do sentimento de autoestima do autor e, portanto, na existência de dano moral.
+
+Por derradeiro, de rigor, o acolhimento do pedido de liberação do valor indicado na inicial (R$ 2.354,00) a ser efetivado em 15 (quinze) dias a contar do trânsito em julgado da presente sentença.
+
+Deliberar-se-á sobre a imposição ou não de multa em sede de eventual cumprimento de sentença.
+
+  Posto isto e por tudo mais que dos autos consta JULGO PARCIALMENTE PROCEDENTE a presente ação pelos motivos acima aduzidos para CONDENAR a ré a pagar para os autores, a título de danos materiais, a quantia de R$ 23.399,00 (vinte e três mil e trezentos e noventa e nove reais), acrescida de correção monetária a partir de 21.11.2011 (data em que ocorreram os danos) e de juros de mora, no montante de 1% (um por cento) ao mês, a partir da citação, bem como a liberar o montante de R$ 2.354,00 (dois mil e trezentos e cinquenta e quatro reais).
+
+Diante da mínima sucumbência do autor, arcará a ré, ainda, com o pagamento das custas, despesas processuais e honorários advocatícios do patrono dos autores, que fixo em R$ 2.000,00 (dois mil reais), nos termos do art. 20, § 4º, do Código de Processo Civil.
+P.R.I.
+São Paulo, 18 de dezembro de 2013.
+Preparo: R$ 512,02 + R$ 29,50 de porte de remessa e retorno por volume de autos
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

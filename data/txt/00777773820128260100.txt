@@ -1,0 +1,100 @@
+
+
+;SENTENÇA
+
+Processo nº:0077777-38.2012.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Defeito, nulidade ou anulação
+Requerente:Heloisa Helena Rannucolli da Silva
+Requerido:Nextel Telecomunicações LTDA
+
+
+
+
+Juiz(a) de Direito: Dr(a). Ricardo Dal Pizzol
+
+
+
+Vistos.
+
+
+
+HELOÍSA HELENA RANNUCOLLI ajuizou "ação ordinária anulatória de débito c/c reparação de danos e pedido de tutela antecipada mediante depósito judicial" contra NEXTEL TELECOMUNICAÇÕES S/A.
+
+Alega a autora que seu nome foi indevidamente inscrito junto aos órgãos de proteção ao crédito, uma vez que nunca celebrou contrato com a empresa requerida. Afirma, ademais, que sofreu danos morais por conta do ocorrido.
+
+Tutela antecipada concedida à fl. 26.
+
+Contestação às fls. 49/63. Alega a requerida que a inscrição deve ser considerada como regular, uma vez que há, nos arquivos da empresa, registro do contrato regularmente celebrado entre as partes. Além disso, alega que a empresa adota todas as medidas necessárias para que contratação seja realizada de forma segura.
+
+Réplica às fls. 81/91. 
+
+É o Relatório.
+
+
+Passo a Fundamentar.
+
+I ? Possível o julgamento antecipado da lide, pois não há necessidade de produção de outras provas. Vale lembrar que ?sendo o Juízo o destinatário da prova, somente a ele cumpre aferir sobre a necessidade ou não de sua realização? (TJSP, AI 13811-5, Rel. Des. Hermes Pinotti).
+
+II - A ação deve ser julgada procedente. 
+
+Alega a autora que os débitos são inexistentes, visto que não celebrou qualquer contrato para a prestação de serviços de telefonia com a requerida. 
+
+Era ônus da requerida, nesse contexto, comprovar a existência e a higidez dos contratos imputados à autora. Afinal, não se poderia exigir da autora a comprovação de fato negativo (qual seja, que não celebrou contrato para a prestação de serviços de telefonia com a requerida). Ademais, aplica-se, na hipótese, o disposto no art. 6º, VIII, do CDC.
+
+A requerida, no entanto, não se desincumbiu desse ônus probatório, visto que não produziu qualquer prova da efetiva contratação. 
+
+Sequer apresentou, com a contestação, as cópias do instrumento contratual de contratação do serviço de telefonia que alega existir em seus arquivos. 
+
+Ressalto que a próprio requerida, em contestação, admite a possibilidade de o débito ter sido constituído por terceiro-estelionatário. 
+
+Nesse contexto, deve-se concluir que os contratos não foram celebrados pela autora, mas sim por terceiro-estelionatário, devendo ser declarada, portanto, a inexigibilidade dos débitos.
+
+III ? Resta saber se, nessas condições (débito constituído fraudulentamente), a requerida é responsável pelo dano moral causado à autora. 
+Entendo que a resposta é positiva. 
+
+A responsabilidade da requerida é objetiva, em virtude do risco da atividade.
+
+O art. 927, par. único, do CC, assevera: ?Haverá obrigação de reparar o dano, independentemente de culpa, nos casos especificados em lei, ou quando a atividade normalmente desenvolvida pelo autor do dano implicar, por sua natureza, risco para os direitos de outrem?. 
+
+A requerida obtém altos lucros fazendo contratos de telefonia em massa, sem verificar, à exaustão, se o indivíduo que está celebrando o contrato é de fato aquele cujos dados foram fornecidos.
+
+Trata-se de um raciocínio puramente econômico. Para a requerida é vantajoso fazer contratos por meios não muito confiáveis (telefone, internet, etc.), sem exigir a comprovação exaustiva dos dados fornecidos, pois isso aumenta o número de contratos e diminui os custos administrativos.  
+
+Nesses termos, é justo que a requerida arque com os ônus de sua própria desídia, ficando responsável por eventuais fraudes praticadas por terceiros. 
+
+Caso não fosse admitida a responsabilidade das empresas de telefonia em tais casos, a vítima ficaria quase sempre sem ressarcimento, ante as dificuldades práticas de se descobrir quem foi o estelionatário.  
+
+Já decidiu o TJSP em casos análogos: 
+DANO MORAL - Banco de dados ? Responsabilidade Civil ? Abertura de crediário, mediante fraude, para terceiro com base em documentos falsos ocasionando a inclusão do nome da autora nos cadastros de inadimplentes - Culpa exclusiva da instituição evidenciada em razão da sua negligência ao não diligenciar adequadamente a verificação dos documentos apresentados - Ônus da apelante, pelo risco de sua atividade - Verba devida - Indenizatória procedente em parte - Recurso desprovido. (Apelação nº 443.455-4/1-00 ? São Paulo ? 3ª Câmara de Direito Privado ? 26/09/06 ? Rel. Des. Beretta da Silveira ? v.u. ? V. 11670)
+Conta corrente aberta com documentos falsificados. Nome do autor levado aos cadastros de inadimplentes e cartórios de protestos. Dever de indenizar caracterizado pela ausência de cautela do banco, ditado ainda pela doutrina do risco profissional (1º TACSP, Ap. 1.060.492-7, Rel. Marciano da Fonseca)
+
+
+IV - O dano moral, na hipótese de inscrição indevida, é in re ipsa.
+
+A indenização por dano moral possui três funções, conforme decidido pelo STF no julgamento do AI 455.846, Rel. Min. Celso de Mello: (a) compensar lesões psíquicas e à reputação; (b) punir condutas contrárias ao direito; (c) evitar a repetição de condutas contrárias ao direito (prevenção geral e especial). 
+
+A indenização por dano moral não pode ser fixada em valores excessivamente elevados, pois isso tornaria o dano psíquico vantajoso para quem o sofre. Em contrapartida, também não pode ser fixada em valor irrisório, pois isso seria um desestímulo ao ajuizamento das ações, implicando, na prática, em denegação de acesso à justiça. 
+
+No caso, devem ser levados em conta os seguintes fatores para fixação do valor da indenização: (i) a autora não possuía outros apontamentos; (ii) a requerida sequer foi capaz de apresentar os instrumentos contratuais; (iii) de certa forma, a requerida também foi vítima da situação, visto que também foi lesada pela atuação do terceiro-estelionatário; (iv) a autora, no caso, não comprovou sofrimentos pessoais que excedam aqueles que costumeiramente se observam em situações desse tipo (inscrição indevida), não merecendo, portanto, tratamento diverso do atribuído à generalidade desses casos; (v) a inscrição não perdurou por longo período.
+
+Em face de todo o exposto, reputo razoável, no caso, o valor de R$ 6.000,00 (seis mil reais), suficiente para punir a requerida, sem gerar enriquecimento sem causa em favor da autora. 
+
+
+DECIDO. 
+
+Ante o exposto, JULGO PROCEDENTE a ação, para:
+
+(a) DECLARAR a inexigibilidade dos débitos referentes à prestação de serviços de telefonia mencionados na inicial (fl. 17), confirmando, nesse ponto, a tutela antecipada anteriormente concedida; 
+
+(b) CONDENAR a requerida a pagar à autora, a título de danos morais, a quantia de R$ 6.000,00 (seis mil reais), acrescida de correção monetária, conforme a Tabela Prática do TJSP, e de juros moratórios de 1% ao mês, desde a presente data até o efetivo pagamento (Súmula 362 do STJ). 
+
+Condeno a requerida, ainda, ao pagamento das custas, despesas processuais e honorários advocatícios, que fixo em 15% do valor da condenação.
+
+Após o trânsito em julgado, expeça-se guia de levantamento da caução prestada em favor da autora. 
+
+P.R.I.C.
+ 
+
+São Paulo, 11 de dezembro de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

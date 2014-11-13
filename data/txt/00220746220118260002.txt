@@ -1,0 +1,86 @@
+
+
+SENTENÇA
+Processo nº:0022074-62.2011.8.26.0002
+Classe ? Assunto:Procedimento Ordinário - Inclusão Indevida em Cadastro de Inadimplentes 
+Requerente:Torneixos Usinagens Ltda ME
+Requerido:Tim Celular S/A
+
+
+
+
+VISTOS. 
+
+
+
+TORNEIXOS USINAGENS LTDA. ME ajuizou ação de reparação danos materiais e morais em face de TIM CELULAR S/A, alegando que teve seu nome indevidamente lançado no cadastro de maus pagadores do Serasa, o que lhe causou diversos prejuízos (patrimoniais e extrapatrimoniais). As numerosas tentativas de composição com a ré foram baldadas e o nome da autora somente foi retirado do rol de inadimplentes depois de pagar pela segunda vez a fatura do mês de fevereiro de 2008. Diante disso, pediu: a) a inversão do onus probandi, nos termos do artigo 6º, inciso VIII, do Código de Defesa do Consumidor (CDC); b) a condenação da ré ao pagamento de indenização por danos materiais (R$ 5.989,86) e morais (R$ 165.000,00). 
+
+Citada, a ré apresentou contestação (fls. 96/106). Ofereceu proposta para as partes se conciliarem. Negou a existência de relação de consumo, sustentando a aplicação do direito comum. Atribuiu a negativação do nome da autora a uma falha no sistema informatizado, não havendo culpa e, por conseguinte, não se configurando a responsabilidade subjetiva. Rechaçou a ocorrência de danos materiais e morais, por falta de provas. Dessarte, pugnou pela total improcedência da ação, sendo a autora condenada a arcar com custas processuais e honorários de sucumbência. 
+
+A autora ofertou réplica (fls. 114/120). 
+
+É O RELATÓRIO  DO ESSENCIAL.
+
+FUNDAMENTO E DECIDO.
+ 
+Conheço diretamente do pedido, nos termos do artigo 330, inciso I, do CPC. Acrescente-se que a demandante rejeitou a proposta de conciliação formulada pela requerida.
+
+O Código de Defesa do Consumidor não se aplica ao caso, visto que a requerente não se subsume ao conceito jurídico de consumidor, pois não contratou os serviços como destinatária final; ao contrário, esses eram destinados a servir como incremento da sua atividade econômica, caracterizando relação jurídica de cunho mercantil (business to business). Por conseguinte, o regime jurídico aplicável a esse liame é o direito privado comum e, no campo processual, o CPC, não sendo invocáveis os benefícios da legislação consumerista. Nesse sentido: 
+
+"CONTRATO - Ação de rescisão contratual cumulada com pedido declaratório de inexistência de débito e de indenização por danos morais - Prestação de serviços de telefonia móvel a microempresa - Impugnação dos valores cobrados pela empresa de telefonia - Hipótese em que o comodato dos aparelhos e o direito de uso das linhas telefônicas foram contratados com a finalidade do incremento das atividades empresariais da devedora, não caracterizada sua condição de consumidora final - Preliminar de cerceamento de defesa rejeitada - Inaplicabilidade do Código de Defesa do Consumidor ao caso - Pedido inicial julgado improcedente - Sentença mantida - Recurso improvido."
+(TJSP, 19ª Câmara de Direito Privado,  Apelação n° 9169198-72.2006.8.26.0000,  Rel.  Des.  João Camillo de Almeida Prado Costa,  Comarca de Barueri,  j.  28/2/2011). 
+
+Não assiste razão à demandada quando tenta se eximir de seu erro, invocando ausência de culpa, por ter sido "enganada" pelo seu sistema de processamento de dados, não tendo como impedir a negativação automática do nome da demandante. O artigo 927, parágrafo único, 2ª parte, do Código Civil (CC) consagra a responsabilidade objetiva "quando a atividade normalmente desenvolvida pelo autor do dano implicar, por sua natureza, risco para os direitos de outrem", sendo irrelevante a discussão da culpa. Ademais, seria inaceitável anuir com a transferência para os clientes do risco que os sistemas informatizados oferecem, pois, se a empresa aufere os benefícios que a automação proporciona (por exemplo, redução de despesas com pessoal e com arquivo físico), também deve assumir os riscos, como a responsabilização por cobranças e negativações indevidas, afinal ubi commoda, ibi incommoda. Nesse sentido: 
+
+"DANO MORAL - Ação de indenização - Equívoco da instituição financeira que efetuou o encaminhamento e negativação do nome do autor para banco de dados de proteção ao crédito, em decorrência de débito pago corretamente na data de vencimento - Aparente erro no sistema do Banco, que não identificou o pagamento - Ocorrência de fortuito interno, que se incorpora ao risco da atividade bancária - Danos morais 'in re ipsa' decorrentes da negativação - Danos morais decorrentes da conduta do atacadista - Redução do valor de indenização fixado em sentença - Ação procedente - Recursos parcialmente providos."
+(TJSP, 37ª Câmara de Direito Privado, Apelação nº 0027025-25.2009.8.26.0114, Rel. Des.   Francisco Loureiro, Comarca de Campinas, j. 22/9/2011). 
+
+"Indenização. Danos morais. Indevida inscrição do nome da autora nos cadastros de proteção ao crédito. Prova incontroversa do pagamento do débito. Dívida inexistente. Dano moral configurado. Falha no sistema operacional da financiadora. Negligência das rés em promover a imediata exclusão do nome da autora. O dano moral possui, neste caso, natureza 'in re ipsa' e, por isso, prescinde de demonstração. Indenização corretamente arbitrada. Aplicação da teoria do risco, acolhida pelo art. 927, parágrafo único, do Código Civil, que responsabiliza aquele que cria o risco com o desenvolvimento da sua atividade independentemente de culpa. Sentença mantida. Recurso não provido."
+(TJSP, 26ª Câmara de Direito Privado, Apelação nº 990.10.389059-0, Rel. Des. Carlos Alberto Garbi, Comarca de Araraquara, j. 14/10/2010).
+
+A autora demonstrou que, em 18/2/2008 (logo, dois dias antes do vencimento), pagou a fatura de fevereiro daquele ano, no valor de R$ 272,11 (fls. 30 e 47). Assim, as posteriores tentativas de recebimento por serviços prestados nessa época caem na esfera do ilícito, pois, uma vez atendidas, implicariam em locupletamento sem causa. Entretanto, como a requerente não conseguiu resolver o problema das cobranças e da negativação, viu-se obrigada a pagar o que a requerida insistia ser devido (R$ 229,86), conforme comprovante de fl. 93, cifra que deve ser restituída, com atualização monetária, nos termos do artigo 884, caput, do CC. 
+
+É factível que a autora poderia ter conseguido condições mais vantajosas para arcar com o valor do serviço de coleta, caso seu nome não tivesse sido lançado no cadastro de inadimplentes, podendo pagar de forma parcelada e, por conseguinte, ficar com mais capital disponível. Por outro lado, ao se adimplir uma obrigação à vista, pode-se barganhar com o fornecedor, chegando-se a um preço melhor, afinal aquele já receberá integralmente os recursos e não assumirá o risco de inadimplência, o que não deixa de ser uma opção vantajosa para ambas as partes. Não se pode responsabilizar a ré se a autora não soube aproveitar os benefícios do pagamento à vista, o que dependeria exclusivamente da capacidade de negociação dos contratantes. Ademais, como a autora é uma sociedade empresária, necessita do serviço de coleta de resíduos, o qual seria contratado de qualquer forma, independentemente da conduta da ré. Assim, a demandante não provou a existência, nem a extensão do prejuízo que teve por pagar à vista o serviço de coleta, descumprindo o ônus do artigo 333, inciso I, do CPC. 
+
+Passo ao exame do dano moral alegado.
+
+Preleciona Maria Helena Diniz (Curso de direito civil brasileiro, v. 7: responsabilidade civil. 23. ed. reformulada. São Paulo: Saraiva, 2009, p. 93): 
+
+"O dano moral, ensina-nos Zannoni, não é a dor, a angústia, o desgosto, a aflição espiritual, a humilhação, o complexo que sofre a vítima do evento danoso, pois estes estados de espírito constituem o conteúdo, ou melhor, a conseqüência do dano. A dor que experimentam os pais pela morte violenta do filho, o padecimento ou complexo de quem suporta um dano estético, a humilhação de quem foi publicamente injuriado são estados de espírito contingentes e variáveis em cada caso, pois cada pessoa sente a seu modo. O direito não repara qualquer padecimento, dor ou aflição, mas aqueles que forem decorrentes da privação de um bem jurídico sobre o qual a vítima teria interesse reconhecido juridicamente."
+
+Com fulcro nessa lição e nos julgados trazidos à colação anteriormente, é lícito concluir que a autora não sofreu mero dissabor, contratempo da vida cotidiana, acontecimento sem importância jurídica, e sim um dano à sua honra, a um bem tutelado como direito fundamental (artigo 5º, inciso X, da Constituição Federal). Ensina a Hermenêutica que, ao intérprete/aplicador do direito não é lícito distinguir onde a lei não estabeleceu distinções, de tal arte que, se o Estatuto Supremo não restringiu a proteção da honra aos indivíduos, deve-se concluir que foi outorgado o mesmo tratamento às pessoas jurídicas, o que, aliás, é entendimento assente no STJ, cuja Súmula 227 fixa que "a pessoa jurídica pode sofrer dano moral". Por fim, uma vez comprovada a indevida inclusão do nome em cadastro de maus pagadores, surge a obrigação de se reparar os danos morais, independentemente da análise subjetiva do sentimento da ofendida ou da produção de outras provas. 
+
+Não se pode olvidar que um ?nome sujo? acarreta uma série de dificuldades para um empresário, seja pessoa física ou jurídica, porquanto esse fato será levado em conta na celebração de contratos, principalmente naqueles que envolvem concessão de crédito, o que pode implicar em taxa de juros mais elevada ou, mesmo, recusa do empréstimo, em função do risco de inadimplência. Com isso, o empresário terá dificuldade de expandir seus negócios, adquirir insumos, pagar seus empregados, ficar em dia com o Fisco etc., acarretando danos para ele e para a própria sociedade, dada a relevância da iniciativa privada, reconhecida pela Carta Magna (artigo 170). Por derradeiro, há que se concordar que a situação mencionada se torna ainda pior quando o empresário sabe que seu nome foi lançado no rol de inadimplentes de forma indevida, como foi no caso sub examine. 
+
+Ao fim e ao cabo, não pairando mais dúvidas sobre a existência do dever de reparar o dano, é chegado o momento de se fixar o valor da indenização, de modo que ela seja idônea ao cumprimento destas duas funções:
+
+"a) penal, constituindo uma sanção imposta ao ofensor, visando a diminuição de seu patrimônio, pela indenização paga ao ofendido, visto que o bem jurídico da pessoa ? integridade física, moral e intelectual ? não poderá ser violado impunemente, subtraindo-se o seu ofensor às conseqüências de seu ato por não serem reparáveis; e b) satisfatória ou compensatória, pois como dano moral constitui um menoscabo a interesses jurídicos extrapatrimoniais, provocando sentimentos que não têm preço, a reparação pecuniária visa proporcionar ao prejudicado uma satisfação que atenue a ofensa causada." 
+(DINIZ, Maria Helena. Op. cit., p. 109, grifos no original). 
+
+A capacidade econômica da ré é notória.
+
+A autora é microempresa, com capital social declarado de R$ 5.000,00, evidenciando os limites de sua atuação.
+
+No caso em comento, revelando-se significativas ambas as  funções (compensatória e inibitória) e considerando todas as peculiaridades narradas, a indenização por dano moral fica estabelecida em R$ 13.625,00, montante que, na data de hoje (18 de outubro de 2011), corresponde a 25 salários mínimos (ex vi do artigo 1º, caput, da Lei 12.382/2011).  
+
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a demanda, para condenar a ré ao pagamento de: 
+
+1) indenização por danos materiais no valor de R$ 229,86, monetariamente corrigido desde a data do pagamento (20 de dezembro de 2010) e acrescido de juros de mora de 1% ao mês (desde a citação);
+
+2) indenização por danos morais no valor de R$ 13.625,00, monetariamente corrigido desde a presente data (18 de outubro de 2011) e acrescido de juros de mora de 1% ao mês (desde a citação).
+
+Em razão da sucumbência e considerando que a pequena porção em que sucumbiu o autor, responderá a ré pelo pagamento das custas e despesas processuais atualizadas, acrescidas de honorários advocatícios arbitrados em 12% do valor total das indenizações fixadas (abrangendo principal, juros e correção monetária), nos termos do artigo 21, parágrafo único, do CPC e da Súmula 326 do STJ. 
+
+Fica a parte ré intimada a cumprir o pagamento em dinheiro ordenado na sentença, no prazo de 15 dias contados da data em que a condenação se tornar exigível, em primeiro ou segundo grau de jurisdição, independentemente de outras e novas intimações, sob pena de incidência de multa processual de 10%, na forma do artigo 475-J do CPC.
+
+A taxa judiciária referente à interposição de recurso de apelação terá como base de cálculo o valor total da condenação ora imposta (valor principal sem acréscimos, ou seja, R$ 13.854,86). 
+
+Publique-se. Registre-se. Intimem-se.
+
+São Paulo, 18 de outubro de 2011.
+
+
+
+Adriana Borges de Carvalho  
+Juíza de Direito
+(Assinatura digital)

@@ -1,0 +1,65 @@
+
+
+SENTENÇA
+Processo nº:0081998-64.2012.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Perdas e Danos
+Requerente:Vomm Equipamentos e Processos Ltda. e outro
+Requerido:AES Eletropaulo
+
+
+Juiz(a) de Direito: Dr(a). Ana Claudia Dabus Guimarães e Souza de Miguel
+
+
+Vistos.
+
+VOMM EQUIPAMENTOS E PROCESSOS LTDA e ZINI INDÚSTRIA E COMÉRCIO DE ALIMENTOS LIMITADA ajuizou a presente ação de indenização por perdas e danos c/c lucros cessantes contra AES ELETROPAULO, qualificados nos autos, objetivando a restituição dos prejuízos decorrentes do período em que ficaram sem energia, em virtude de interrupção do serviço prestado pela ré em 22/04/2012, bem como a indenização pelos danos morais suportados. Juntaram procuração e documentos (fls. 10/45). 
+Citada (fls. 51), ofertou a ré contestação (fls. 53/69), afirmando que a descontinuidade no fornecimento de energia se deu em razão do rompimento de um cabo de energia elétrica que, para ser consertado, exigia o desligamento do Circuito Alimentador Primário. Alega que não se aplica o dever de indenizar, pois a interrupção ocorreu em caráter emergencial. Invoca a previsão contida na Resolução 414/2010 da ANEEL no que tange à limitação da indenização aos danos ocorridos em equipamentos com tensão igual ou inferior a 2,3 kV. Aduz que as autoras não comprovaram as lesões sofridas. Pede a improcedência. Juntou documentos e procuração (fls. 70/83).
+Houve réplica (fls. 88). Determinada a especificação de provas (fls. 93), manifestaram-se as partes (fls. 97 e 98).
+É a síntese do necessário.
+Fundamento e DECIDO.
+Antecipo o julgamento, porquanto a solução da matéria independe de dilação probatória, ex vi do art. 330, I, do Código de Processo Civil. 
+A ré é concessionária de serviço público de energia elétrica e, por ser este um serviço público de caráter essencial, tem como dever a eficiência e continuidade de sua prestação, estando a ré obrigada a responder pelos prejuízos causados em decorrência de eventuais falhas.
+O dever de indenizar encontra justificativa na teoria da responsabilidade objetiva da administração pública, conforme previsto no artigo 37, § 6º, da Constituição Federal, respondendo a ré, objetivamente, pelos danos causados em virtude da interrupção injustificada do serviço. 
+Contudo, a responsabilidade objetiva não abrange as hipóteses de atos de terceiros, situação de emergência e fatos da natureza, caso fortuito e força maior, circunstâncias que, caso comprovadas, excluiriam o dever de indenizar. 
+Alega a ré que a interrupção do fornecimento teve caráter emergencial, para conserto de cabo de energia rompido, não caracterizando a sua descontinuidade. Sustenta que, em decorrência do fio partido, foi necessário efetuar o desligamento do Circuito Alimentador Primário para viabilizar a troca, sem apresentar riscos aos técnicos. 
+Justificou a queda de energia com base nos pedidos de reparação do fio partido apenas com relação ao dia 23.04.2012 (fls. 82), sendo que a inicial indica que a falha na prestação do serviço ocorreu por volta das 20 horas do dia 22.04.2012 (fls. 03). 
+Verifica-se que a ré deixou de demonstrar que a prestação do serviço no dia 22 de abril teria sido ininterrupta, ônus que lhe incumbia. 
+Outrossim, é evidente a obrigação exclusiva da concessionária de provar que a falha na prestação de serviço decorreu de uma das excludentes de responsabilidade, já que não se pode exigir das autoras a prova de fatos extravagantes da sua esfera de conhecimento. Assim, não restando comprovada uma das excludentes de responsabilidade  resta claro o dever da ré de indenizar. 
+Ressalte-se que a alegada situação de emergência não restou caracterizada, sobretudo porque a ré sequer demonstrou a origem do rompimento do cabo elétrico, tampouco indicando que a manutenção da rede foi corretamente efetuada, a fim de evitar o ocorrido.
+O fato de a troca do cabo ensejar o desligamento do Circuito Alimentador Primário para evitar risco aos funcionários, não caracteriza situação de emergência, tratando-se de mera consequência do rompimento do cabo elétrico, em relação ao qual a ré é responsável.
+No mais, conforme restou demonstrado nas fls. 83, a hipótese era de reincidência, tendo sido necessário cortar galhos de árvores para possibilitar o acesso, o que corrobora a falta de manutenção por parte da prestadora do serviço. 
+Nesse sentido, é evidente o dever da ré de indenizar as autoras por perdas e danos, pois  não restou comprovada as causas excludentes de sua responsabilidade. Esse é o entendimento do  E.Tribunal de Justiça do Estado de São Paulo: 
+PRESTAÇÃO DE SERVIÇOS - FORNECIMENTO DE ENERGIA ELÉTRICA - SOBRETENSÃO - DANOS E NEXO CAUSAL - OCORRÊNCIA - CULPA OBJETIVA DA CONCESSIONÁRIA RECONHECIDA - AUSÊNCIA DE INCIDÊNCIA DAS EXCLUSÕES DE RESPONSABILIDADE (ATO DE TERCEIRO, FATO DA NATUREZA E AVISO PRÉVIO DA INTERRUPÇÃO) - DANO MATERIAL INDENIZAVEL NOS TERMOS DA RESOLUÇÃO ARTIGO 101, DA RESOLUÇÃO 456 DA ANEEL, E DO ARTIGO 22, PARÁGRAFO ÚNICO DO CÓDIGO DE DEFESA DO CONSUMIDOR - RECURSO ADESIVO - PARCIAL PROVIMENTO PARA ELEVAR A VERBA HONORÁRIA DE 10% A 20% - DANO MORAL NÃO INDENIZAVEL POR AUSÊNCIA DE PROVA - SENTENÇA PARCIALMENTE REFORMADA Apelação da requerida improvida e recurso adesivo parcialmente provido. (TJSP - Apelação 977135007 ? Relatora Cristina Zucchi ? j. 08.10.2008).  
+Ainda, a alegação da ré de que o dano material só poderia ser indenizado com base no disposto no artigo 203 da Resolução 414/2010 da ANEEL, não merece ser acolhida. A ré, como concessionária prestadora de serviço público, com base no artigo 37, § 6º da Constituição Federal, possui responsabilidade objetiva, que não pode ser limitada à reparação do dano apenas de equipamentos instalados com tensão igual ou inferior a 2,3 kV.
+ Assim, não provada que a regularidade do serviço foi excepcionada por fatores que fogem ao controle da concessionária, deve esta responder pelos prejuízos causados ao usuário.
+Nesse sentido, segue o entendimento jurisprudencial:
+CONSTITUCIONAL E ADMINISTRATIVO - CELESC - RESPONSABILIDADE CIVIL DA CONCESSIONÁRIA - INDENIZAÇÃO DE DANOS MATERIAIS E LUCROS CESSANTES - SOBRETENSÃO NA REDE ELÉTRICA - QUEIMA DE EQUIPAMENTOS ELÉTRICOS - DANOS MATERIAIS COMPROVADOS - RESSARCIMENTO PARCIAL NO ÂMBITO ADMINISTRATIVO - EXCLUSÃO DE DESPESAS DE CONSERTO COM FUNDAMENTO EM RESOLUÇÃO DA ANEEL - IMPOSSIBILIDADE - RESPONSABILIDADE OBJETIVA PREVISTA NO ART. 37, § 6º, DA CARTA MAGNA - LUCROS CESSANTES - PROVA INEXISTENTE - RECURSO PARCIALMENTE PROVIDO. 37§ 6ºCARTA MAGNA Por força da responsabilidade civil objetiva consagrada pelo art. 37, § 6º, da Constituição Federal, a fazenda pública e as concessionárias de serviços públicos estão obrigadas a indenizar os danos causados em virtude de seus atos, e somente se desoneram se provarem que o ato ilícito se deu por culpa exclusiva da vítima ou de terceiro, caso fortuito ou força maior. Danos causados a máquinas industriais queimadas em virtude de sobretensão na rede de energia elétrica devem ser indenizados pela concessionária do serviço público correspondente. Não havendo provas sólidas e incontestes acerca dos lucros que o consumidor supostamente deixou de auferir em razão do infortúnio, não se pode falar em ressarcimento de lucros cessantes. 37§ 6ºConstituição Federal (TJSC Apelação - 2011.026783-1 - Relator Jaime Ramos ? j. 28.07.2011).
+Assim, a indenização pelos danos materiais, decorrentes do estrago em seus equipamentos, é devida, sobretudo porque não impugnados pela ré os valores exigidos a tal título, limitando-se a contestação a sustentar a limitação da indenização aos equipamentos com tensão inferior a 2,3kV.
+Outrossim, com relação ao pedido de danos morais, este não merecer ser acolhido. 
+Os danos morais não são necessariamente devidos quando há a interrupção de um serviço, visto tratar-se de um incômodo a que as pessoas estão sujeitas na vida em sociedade. Não se configura no caso em tela uma situação excepcional, mas sim um mero contratempo que resulta das relações da sociedade moderna e que não tem o condão de causar à autora ofensa de natureza moral, mesmo que a situação tenha gerado aborrecimentos. 
+Ressalte-se, por oportuno, que a interrupção durou menos de 24 (vinte e quatro) horas, o que corrobora a conclusão no sentido de que não extrapolou a barreira do mero aborrecimento.
+Nesse sentido, segue o entendimento jurisprudencial:
+PRESTAÇÃO DE SERVIÇOS. OSCILAÇÃO DE ENERGIA OCASIONANDO A QUEIMA DE MOTOR DOS REFRIGERADORES. COMPROVAÇÃO DE QUE A OSCILAÇÃO OCORREU NA REDE EXTERNA. OBRIGAÇÃO DA RÉ DE INDENIZAR O VALOR DO CONSERTO. ART. 10, § ÚNICO DA RESOLUÇÃO N.º 61/04 DA ANEEL. DANOS MORAIS. INEXISTÊNCIA.10§ ÚNICO61 A concessionária responde, independentemente da existência de culpa, pelos danos elétricos causados a equipamentos elétricos de consumidores, só podendo se eximir do ressarcimento se comprovar que o dano foi ocasionado pelo uso incorreto do equipamento ou por defeitos gerados a partir das instalações internas de unidade consumidora. O dissabor do quotidiano indevidamente experimentado causa aborrecimento, mas não se insere no rótulo de dano moral, sob pena de ensejar a sua banalização. Recursos desprovidos. (TJSP - 9123292-88.2008.8.26.0000 - Relator Gilberto Leme - j. 15.05.2012).  
+Com relação ao pedido de lucros cessantes, não é possível auferir exatamente o lucro que a segunda autora deixou de obter em virtude da redução das vendas, custo de mão de obra e a perda de receita ?cantina?. A estipulação feita pela autora resulta em um lucro hipotético, baseado em mera presunção, o que afasta a possibilidade de indenização. O lucro cessante consiste na perda do ganho esperável, não restando configurado por meio dos dados trazidos pela autora. 
+Contudo, com relação à produção de farinha, nhoque de batata e polenta, a redução na produção de tais produtos restou demonstrada com base nos documentos de fls. 31, 32 e 36. 
+Em relação à produção desses itens, que ficou prejudicada em virtude da interrupção da energia, são devidos os lucros cessantes, conforme valores indicados. 
+O mais não pertine. 
+Ante o exposto, e pelo mais que dos autos consta, JULGO PROCEDENTE EM PARTE o pedido para o fim de:
+a) CONDENAR a ré a pagar à autora Vomm Equipamentos e Processos Ltda os seguintes valores, correspondentes a indenização pelos danos causados em seus equipamentos, no valor total de R$ 28.632,16, correspondente aos seguintes equipamentos: 
+a.1) Motor 15 CV no valor de R$ 693,16;
+a.2) Fax no valor de R$ 299,00;
+a.3) 40 aparelhos da central de PABX no valor total de R$ 26.590,00;
+a.4) Danos a Central ?Servidor? no valor de R$ 1.050,00;
+b) CONDENAR a ré a indenizar a autora Zini Indústria e Comércio de Alimentos Limitada no valor total de R$ 23.738,00, correspondentes aos lucros cessantes decorrentes da frustração da seguinte produção: 
+b.1) 3.000 kg da farinha ?fioccopon SIII? no valor de R$ 13.650,00;
+b.2) 2000 kg da farinha ?fioccopon SIII? no valor de R$ 9.100,00. 
+b.3) 80 kg de nhoque de batata no valor de R$ 520,00.
+b.4) 120 kg de polenta lunella no valor de R$ 468,00. 
+Os valores serão corrigidos monetariamente com base na Tabela Prática do E. Tribunal de Justiça de São Paulo a partir do ajuizamento da ação, com incidência de juros de mora de 1% (um por cento) ao mês, desde a citação.
+Em razão da sucumbência recíproca, cada parte arca com os honorários advocatícios de seus respectivos patronos, compensando-se as custas e despesas processuais.
+P. R. I. C.
+São Paulo, 02 de maio de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

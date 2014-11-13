@@ -1,0 +1,98 @@
+
+
+SENTENÇA
+
+Processo nº:003.08.104589-0
+Classe - AssuntoMonitória - Assunto Principal do Processo >
+Requerente:Banco Nossa Caixa S/A
+Requerido:Mario Ferrari Filho - Epp e outros
+
+
+
+Juiz(a) de Direito: Dr(a). Alexandre Batista Alves
+
+
+Vistos.
+
+
+
+BANCO NOSSA CAIXA S/A moveu ação monitória contra MÁRIO FERRARI FILHO EPP, MÁRIO FERRARI FILHO e MÁRCIA FERRARI alegando, em resumo, que: a) firmaram as partes contrato de abertura de limite de desconto rotativo, objetivando o desconto de cheques, no valor de R$95.000,00; b) nenhum dos títulos descontados foi liquidado no vencimento, havendo saldo devedor no importe de R$111.492,41.
+
+A petição inicial veio instruída com documentos (fls. 05/30).
+
+
+Citados, os réus ofertaram embargos (fls. 72/78) e argüiram preliminares de ilegitimidade passiva ad causam e inadequação da via eleita. No mérito, sustentaram excesso de cobrança, à argumentação de que as taxas praticadas não correspondem às taxas indicadas no contrato.
+
+Sobreveio réplica (fls. 82/93).
+
+Saneado o processo (fls. 94/95), foi deferida a realização de prova pericial. Laudo a fls. 125/134 e parecer técnico do autor (fls. 172/176). Foram prestados esclarecimentos (fls. 182/185).
+
+Por fim, as partes apresentaram memorais, cada qual sustentando seu ponto de vista.
+
+É o relatório.
+Fundamento e Decido.
+
+Procedem em parte o pedido.
+
+Ressalte-se inicialmente que as instituições bancárias incluem-se no conceito de fornecedor, para fim de aplicação do Código de Defesa do Consumidor nas relações entre estas e os usuários de serviços, matéria pacificada na jurisprudência (Súmula 297 do STJ).
+
+Assentada essa premissa, anote-se que o art. 5º da MP 1.963-17, de 30/03/2000, substituída pela MP n. 2.170/36, admite a prática de capitalização de juros em periodicidade inferior a um ano nos contratos celebrados por instituições financeiras integrantes do Sistema Financeiro Nacional.
+
+Anote-se que, em relação às instituições financeiras, as taxas de juros e outros encargos não se sujeitam às restrições do Decreto 22.626/33 (Lei de Usura), mas à Lei 4595/64, ou seja, às deliberações do Conselho Monetário Nacional e às limitações e disciplinas ditadas pelo Banco Central. Nesse sentido é a Súmula 596 do STF.
+
+Como não há norma no Conselho Monetário Nacional limitando os juros em operações de crédito nos moldes daquela realizada entre as partes, conclui-se que legislação especial afasta a incidência do art. 4°, a, da Lei 1.521/51, que se refere à taxa máxima prevista em lei.
+
+E não havendo demonstração de que a taxa de juros excede em muito a taxa média para as operações similares, o que caracteriza ofensa ao art. 4°, b, da citada lei, é válida a taxa de juros cobrada pelo réu, motivo pelo qual é descabido falar em spread abusivo.
+
+Não se perca de vista que o réu, quando da contratação, tinha a exata noção dos juros e encargos praticados, de maneira que pode procurar outra instituição bancária para contratar se considerar as taxas elevadas.
+
+É oportuno reproduzir os seguintes trechos do AgRg no Recurso Especial n. 688.627- RS (2004/012651-3), relatado pelo Min. Aldir Passarinho Júnior:
+
+Por outro lado, ainda que aplicável às instituições bancárias a Lei n. 8.078/1990, a Segunda Seção desta Corte, em 12.03.2003, no julgamento do Resp n. 407.097/RS, relator para acórdão Ministro Ari Pargendler, sedimentou o entendimento de que o pacto referente à taxa de juros só pode ser alterado se reconhecida sua abusividade em cada hipótese, desinfluente para tal fim a estabilidade inflacinonária no período, imprestável o patamar de 12% ao ano já que sequer a taxa média de mercado, que não é potestativa, se considera excessiva, para efeitos de validade da avença.
+
+No que se refere à comissão de permanência, cuja cobrança, em caso de inadimplemento, é instituída cumulativamente com juros moratórios e multa contratual (cláusula décima nona), cabem algumas ponderações.
+
+A Resolução n. 1.129/86 do BACEN faculta aos bancos e outras instituições a cobrança de seus devedores por dia de atraso no pagamento ou na liquidação de seus débitos, além de juros de mora na legislação em vigor, comissão de permanência, a ser calculada às mesmas taxas pactuadas no contrato original ou à taxa de mercado do dia do pagamento.
+
+Consta ainda da referida Resolução que, além desses encargos, nenhuma outra quantia compensatória pelo atraso poderia ser cobrada.
+
+Contudo, o Superior Tribunal de Justiça, em julgados recentes, distinguindo a natureza jurídica desses institutos, tem assentado a impossibilidade, após o inadimplemento, da cobrança de comissão de permanência com correção monetária (Súmula 30) e outros encargos (juros moratórios ou remuneratórios e multa).
+
+A propósito, confira-se:
+
+Agravo regimental. Recurso Especial. Ação de cobrança. Contrato de abertura de crédito em conta-corrente. Cumulação da comissão de permanência com juros moratórios e multa contratual. Precedentes da Corte.
+1. Confirma-se a jurisprudência da Corte que veda a cobrança de comissão de permanência com os juros moratórios e com a multa contratual, ademais de vedada a sua cumulação com a correção monetária e com os juros remuneratórios, a teor das Súmulas n° 30, n° 294 e n° 296 da Corte.
+2. Agravo regimental desprovido (AgRg no Recurso Especial N° 712.801-RS (2004/0183802-4), rel. Ministro Carlos Aberto Menezes Direito).
+
+No mesmo sentido:
+
+Contratos bancários. Comissão de permanência. Cumulação com os juros de mora e multa contratual. Vedação. Procedentes.
+I-  A recente orientação da Segunda Seção, contudo, é no sentido de não permitir a cumulação da comissão de permanência com correção monetária, juros remuneratórios ou de mora, multa com qualquer outro encargo moratório.
+II- Recurso especial parcialmente provido (Resp 660684/RS; Recurso Especial 2004/0071117-0, Ministro Antônio de Pádua Ribeiro, 3a Turma, j. 24.05.2005, DJ 20.06.2005 p. 282).
+
+Ao estipular a taxa de comissão de permanência, o BACEN estima e prefixa os prejuízos decorrentes do inadimplemento dos débitos e insere na taxa as perdas e danos resultantes do não pagamento das dívidas no seu vencimento. Em outras palavras, a comissão de permanência, por si só, compensa o banco pelos prejuízos advindos da inadimplência, já que tem em sua taxa embutidos índices que permitem ao mesmo tempo a remuneração do capital mutuado e atualização do valor de compra da moeda.
+
+Nesse contexto, tem-se entendido que a cobrança cumulada da comissão de permanência com outros encargos configura bis in idem, pois estar-se-ia pagando por encargos contratuais que possuem a mesma natureza jurídica e desempenham a mesma função no contrato.
+
+Vale a pena reproduzir os fundamentos extraídos do Agravo Regimental no Resp n° 451.233/RS, Terceira Turma, da relatoria da Ministra Nancy Andrighi, DJ 29.09.03, com o seguinte teor:
+
+Porquanto o cálculo da taxa de comissão de permanência se faz em consideração ao índice de inadimplência existente no mercado, com prefixação das perdas e danos sofridos pelas instituições financeiras em razão do inadimplemento das obrigações assumidas por seus devedores, com soa ocorrer com multa contratual, conclui-se que esses encargos desempenham a mesma função.
+Por essa razão não se justifica a cobrança cumulada da comissão de permanência com a multa contratual, sob ocorrência de dupla incidência de um mesmo encargo, como ocorre com os juros remuneratórios, a correção monetária e os juros moratórios.
+
+A doutrina não destoa desse entendimento: Sendo a cláusula penal uma prefixação aos prejuízos do credor, tornou-se inaplicável pelas instituições financeiras, no momento em que ser permitiu, justamente cobrir os seus prejuízos a cobrança da comissão de permanência; o mesmo devendo ser dito dos juros de mora, pois aquela cobre a correção monetária e os juros de mercado (Waldírio Bulgarelli, A mora e Resolução 1129 do Banco Central, in RDM 67/79).
+
+Feitos esses esclarecimentos, não há demonstração de que a comissão de permanência praticada pelo banco é superior à praticada no mercado, de modo que devem prevalecer os valores cobrados pela instituição financeira.
+
+Não cabe, respeitadas as orientações em sentido contrário, a limitação da comissão de permanência à taxa de juros remuneratórios, pois a comissão de permanência à taxa de mercado é prevista para a hipótese de impontualidade, situação bem distinta.
+
+Na esteira do exposto, devem ser excluídos dos cálculos os juros de mora de 1% ao mês e a multa de 2%. Além disso, infere-se do laudo pericial que houve a cobrança a maior de encargos pelo banco, os quais já foram deduzidos na planilha de fl. 184).
+
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE o pedido para condenar os réus ao pagamento da quantia de R$111.346,58 (cento e onze mil trezentos e quarenta e seis reais e cinqüenta e oito centavos), deduzindo-se desse valor a multa de 2% e juros de mora de 1%, valor que será atualizado desde o laudo pericial e acrescido de juros de mora de 1% a contar da citação.
+
+Tendo em vista a sucumbência recíproca, mas não idêntica, condeno aos embargantes ao pagamento de 80% das custas e despesas processuais, além dos honorários advocatícios do patrono do autor no percentual de 8% do valor da condenação, já operada a compensação.
+
+P.R.I.
+
+
+
+São Paulo, 18 de agosto de 2010.

@@ -1,0 +1,74 @@
+
+
+SENTENÇA
+
+Processo nº:0103499-76.2009.8.26.0004
+Classe ? Assunto:Procedimento Ordinário - Indenização por Dano Moral 
+Requerente:Donizete Norberto Salvatico
+RequeridoDenunciado à Lide (Passivo):Condomínio Edifício Mirante do Sul e outros, Telefônica Brasil SA
+
+Juiz(a) de Direito: Dr(a). Ana Laura Correa Rodrigues
+
+
+
+ Vistos.
+Trata-se de ação de indenização por danos morais e materiais proposta por DONIZETE NORBERTO SALVATICO em face de CONDOMÍNIO Edifício Mirante do Sul e Eletropaulo Metropolitana Eletricidade de São Paulo. Aduz a inicial que em 15 de janeiro de 2008 recebeu telefonema do síndico do condomínio réu, informando a ocorrência de incêndio em sua unidade, que deteriorou o imóvel por completo. Segundo consta da inicial, o incêndio teve origem em uma descarga elétrica, durante uma tempestade. 
+Segue a inicial acusando irregularidades no condomínio requerido, como a ausência de projeto técnico e auto de vistoria do corpo de bombeiros. Por tais motivos, inclui o autor o condomínio no polo passivo, bem como pelo fato de não ter contribuído para a solução dos danos no imóvel.
+Incluída a Eletropaulo, também, pois o incêndio se iniciou a partir de uma descarga elétrica. 
+Ao final, pede a procedência da ação, a fim de obter a compensação pelos danos morais, no valor de R$ 46.500,00 e indenização por danos materiais, no importe de R$ 94.227,40. 
+A inicial se faz acompanhar pela procuração, fls. 14/15 e documentos, fls. 16/130. 
+Deferidos os benefícios da gratuidade, fls. 147, o condomínio requerido foi citado, apresentando contestação, fls. 154/172.
+Argumenta o condomínio, inicialmente, a necessária denunciação à lide da seguradora Alianz, nos termos do art. 70, III, do CPC e Telefônica. Apresenta, ainda, preliminar referente a ilegitimidade passiva, sustentando a falta de participação no dano verificado.   Subsidiariamente, impugna os danos alegados. 
+Juntada a contestação da ré Eletropaulo nas fls. 203/227. Preliminarmente, alega ilegitimidade passiva. No mérito, argumenta pela ausência de comprovação do nexo causal entre o fato e sua conduta. Impugna a contestação, ainda, os danos alegados. 
+Réplica, fls. 283/287.
+A litisdenunciada contestou nas fls. 351/366.
+Reconhecida a revelia da corré TELESP, fls. 475. 
+Determinada a realização de prova pericial, fls. 510/511. 
+Laudo pericial juntado nas fls. 555/625, seguido da manifestação das partes.
+Realizada audiência de instrução, foram ouvidas 03 testemunhas.  
+As partes apresentaram memoriais. 
+É o relatório.
+DECIDO.
+As preliminares arguidas foram devidamente afastadas quando do saneamento do feito, sem mais a acrescentar.
+Resta, agora, apurar a responsabilidade dos requeridos pelo incêndio.
+É incontroverso nos autos que o incêndio se deu no imóvel do autor devido a uma descarga elétrica, gerada quando do rompimento de cabo transmissor de energia, tudo, durante forte chuva na região do imóvel afetado.
+É certo, também, que do incêndio o autor teve inúmeros prejuízos materiais, relacionados aos danos em sua residência e perda de móveis e eletrodomésticos, como demonstram fotos que instruem a inicial.
+Pois bem, a solucionar a questão, temos o relato do perito nomeado pelo juízo. Vejamos.
+Relatou o nobre perito que, na data do evento, houve forte chuva na região, o que ocasionou a ruptura de um cabo de energia elétrica de média tensão. Referido cabo ricocheteou no piso, atingiu a tampa de uma caixa de passagem de telefonia gerando um curto, com a condução da corrente elétrica pelo cabeamento de telefone, o que provocou o incêndio no apartamento (fls. 563).
+Todavia, caso o dispositivo de proteção do sistema de condução de energia elétrica contra falhas (?RELÉS?), mantido pela corré Eletropaulo tivesse atuado normalmente, tal evento poderia ser evitado ou teria suas consequências diminuídas.
+Isso porque referido sistema de proteção tem como função atuar sobre o disjuntor, isolando o trecho no qual se verificou a falha. Com o rompimento do cabo elétrico, no caso dos autos, o ?relé? de proteção da subestação da concessionária de energia elétrica não foi acionado, mantendo ativo o disjuntor que isolaria o circuito, ou seja, deixaria de alimentar a rede.
+E, alimentada a rede de energia elétrica, o fio rompido continuou a propagar energia, ricocheteando, fatidicamente, sobre uma tampa metálica que, com o auxílio da água da chuva, acabou por conduzir, por sua vez, energia elétrica.
+Como se não bastasse a falha no sistema de segurança da concessionária de energia elétrica, é dos autos, ainda, que não adotou a concessionária de serviço de telefonia as cautelas devidas no exercício de seu mister.
+Isso porque, segundo o perito, os princípios de proteção elétrica da rede externa de telecomunicações não atuaram, sendo certo que, além de protetores contra sobretensões e aterramento, poderia a requerida ter se acautelado com isolante térmico nas cabeças dos tubos que entram e saem das caixas de passagem, fls. 581. 
+A par de todas as ocorrências e omissões acima verificadas, temos, ainda, a omissão do condomínio em atender as especificações da ABNT, inerentes às instalações elétricas. E mais, ressaltou claramente o perito a falta de manutenção da fiação elétrica do condomínio, fls. 573, acrescentando que a ausência de manutenção do quadro de distribuição geral contribuiu para o evento, fls. 574, além da falta de protetores de surto em suas instalações, fls. 581.
+Temos, então, que tanto o condomínio, quanto as rés Telefônica e Eletropaulo são responsáveis pelos danos ocasionados na residência do autor.
+Certa a responsabilidade do condomínio pelos danos causados, há de se julgar procedente em parte a lide secundária, reconhecendo-se a responsabilidade da seguradora Allianz no dever de indenizar os danos materiais eventualmente suportados pelo segurado, pois encontra-se o sinistro amparado pela cobertura, ao contrário do que pretende fazer crer em sua contestação. É o que se conclui da análise das Condições Especiais do Seguro, item 2.1, que trata da cobertura de bens de condôminos, localizados em suas respectivas unidades, em caso de incêndios, não havendo qualquer limitação a ocorrência de incêndio apenas na ocasião de raios, fls. 383. 
+A responsabilidade da seguradora se limita ao âmbito do contrato celebrado com o condomínio, até a quantia de R$ 100.000,00, fls. 374 e abrange, apenas, os danos materiais, sem previsão de inclusão dos danos morais. 
+Em relação à denunciação à lide, há de se ponderar que, embora o ingresso da Telefônica nestes autos tenha se verificado a partir da argumentação apontada na contestação do condomínio requerido, não se verifica qualquer das hipóteses previstas no art. 70 do CPC. Todavia, aceitando o seu ingresso nestes autos, compondo o polo passivo, de rigor a sua condenação, dadas as provas coligidas, de forma solidária aos demais requeridos, Condomínio e Eletropaulo. 
+O rompimento do cabo de tensão não pode ser interpretado como fato isolado, que se deu pela ocorrência de caso fortuito ou força maior,  elementos estes inerentes a eventos imprevistos e imprevisíveis à parte e que não dependem de sua vontade. 
+Ora, considerando que os fios de alta tensão passam entre copas de árvores, certo é que, em havendo forte chuva, acompanhada de rajadas de vento, torna de todo previsível e possível o rompimento, seja pela queda de um galho, seja pelo intermitente contato com o obstáculo. As fotos de fls. 595 não deixam dúvidas da existência de copas de árvores obstruindo a fiação, mesmo após o fato, o que só corrobora a omissão da Eletropaulo.
+Acrescente-se, por fim, que a responsabilidade das prestadoras de serviços públicos, no caso telefonia e eletricidade, é objetiva em relação aos danos causados ao consumidor de seus serviços, responsabilidade esta que somente seria passível de exclusão caso demonstrada a culpa exclusiva da vítima, o que não se deu no caso concreto, como relatado acima. 
+Definida a responsabilidade das partes, há de se aferir os danos experimentados pelo autor, concluindo-se pela total procedência dos pedidos.
+É evidente o dano material ante a completa destruição da mobília da sala do apartamento, além de danos como pintura, revestimento de teto, piso, entre outros devidamente demonstrados nas fls. 91/129.
+E, ainda que o foco do incêndio tenha se verificado na sala do apartamento, evidente que suas consequencias atingiram os outros cômodos do imóvel, com seus móveis e utensílios, danos estes muito além da mera sujeira, pois o calor e fumaça propagados pelas chamas afetaram o imóvel como um todo de forma irremediável. Note-se que o calor das chamas acabaram por deteriorar, inclusive, o relógio da cozinha do apartamento (fls. 122), demonstrando, a toda evidência, a alta temperatura atingida, sendo certo que os eletrodomésticos ficaram imprestáveis para o fim a que se destinam. 
+A respeito do valor apresentado pelo autor a título de danos materiais, não há nos autos qualquer documento da parte contrária a impugnar os orçamentos apresentados, acolhendo-se, portanto, o pedido em sua integralidade, no total de R$ 94.227,40, valor este razoável diante das perdas demonstradas. 
+No que se refere ao ônus da prova, este pode ser observado sob o aspecto subjetivo e objetivo. 
+Do ponto de vista subjetivo, representa a distribuição dos encargos entre as partes, incumbindo a cada um produzir prova de suas alegações. 
+Já o aspecto objetivo, significa regra de julgamento, analisando-se qual das partes deveria provar o alegado e não o fez. As partes sabem de antemão do dever de provar seus argumentos e ao Juízo compete decidir conforme os instrumentos colacionados pelos litigantes.
+Os autos autorizam a aplicação da regra de julgamento mencionada, uma vez que os requeridos, embora discordem dos valores apresentados, deixaram de produzir provas de suas alegações.
+O evento imposto ao autor, além dos danos materiais, causaram, ainda, abalos psíquicos que devem ser compensados, pois o incêndio obrigou a família a suportar a perda de registros dos momentos em família, objetos pessoais, bem como a necessidade de procurar abrigo na casa de parentes, como relatou a testemunha de fls. 705. 
+  A testemunha de fls. 707, por sua vez, também salientou que o imóvel permaneceu sem condições para habitação, precisando de reformas e, consideradas as perdas suportadas, salientou, inclusive, que os filhos do autor precisaram deixar a escola particular e matricular-se em escola pública.  
+Certo, assim, todo o transtorno causado à família.
+Definido o dever de compensar o dano moral, decorrente da conduta das requeridas, cumpre fixar o montante da compensação, atendendo a necessidade de compensar o sofrimento da vítima frente às peculiaridades do caso e repreender a conduta do responsável, inibindo condutas lesivas futuras. 
+Na fixação do quantum devido, há que se ponderar que a compensação por danos morais deve buscar refletir com fidelidade o transtorno psíquico causado pelo ilícito, devendo o operador do direito cuidar para não exceder os limites do sofrimento experimentado. 
+Assim, quantum indenizatório deve ser fixado em termos razoáveis, não se justificando que a reparação venha a constituir-se em enriquecimento indevido, com manifestos abusos e exageros, devendo o arbitramento operar com moderação, proporcionalmente ao grau de culpa e ao porte econômico das partes, orientando-se o juiz pelos critérios sugeridos pela doutrina e pela jurisprudência, com razoabilidade, valendo-se de sua experiência e do bom senso, atento à realidade da vida e às peculiaridades de cada caso.
+Sendo assim, atenta ao que acima foi exposto, entendo que a indenização no valor correspondente a R$ 46.500,00, tal como estimado pelo autor, é perfeitamente adequado ao caso em tela e repõe todos os prejuízos morais sofridos pelo requerente. 
+Fixado o dever de compensar o dano moral, bem como o valor a ser pago, anoto que o dever de compensar o dano moral surge a contar da sentença, data que será utilizada para incidência de juros e correção.
+Posto isso, JULGO PROCEDENTE a ação para CONDENAR os requeridos CONDOMÍNIO EDIFÍCIO MIRANTE DO SUL, ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO e  TELECOMUNICAÇÕES DE SÃO PAULO, a indenizar o autor, solidariamente, pelos danos materiais suportados, no valor de R$ 94.227,40, com correção monetária desde a propositura da ação, com juros de 1% ao mês a contar da citação. CONDENO os réus CONDOMÍNIO EDIFÍCIO MIRANTE DO SUL, ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO e  TELECOMUNICAÇÕES DE SÃO PAULO, ainda, e de forma solidária, a pagar ao autor, a título de compensação por danos morais, a quantia de R$ 46.500,00, que deverá ser corrigida monetariamente pela Tabela Prática do E. Tribunal de Justiça de São Paulo e acrescida de juros moratórios de 1% ao mês, a partir da data da publicação desta sentença. Como ônus da sucumbência, condeno as rés, ainda, ao pagamento das custas e despesas processuais, bem como honorários advocatícios da parte ?ex adversa?, que ora fixo em 20% do valor da condenação, tendo em vista o grau de zelo profissional e o trabalho realizado, devidamente atualizado no momento do pagamento pelos índices já expostos.
+JULGO PROCEDENTE EM PARTE a denunciação da lide e determino que a seguradora denunciada reembolse a denunciante em tudo o que foi condenada a título de danos materiais. As custas e despesas processuais da presente ação de regresso serão suportadas por ambas, proporcionalmente, considerando a sucumbência recíproca. Cada qual arcará com os honorários de seus respectivos patronos.  
+Extingo o feito com fulcro no art. 269, I, do CPC. 
+PRIC.
+São Paulo, 03 de dezembro de 2013.
+
+Ana Laura Corrêa Rodrigues
+             Juíza de Direito

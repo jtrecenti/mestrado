@@ -1,0 +1,83 @@
+
+
+SENTENÇA
+
+Processo Físico nº:0101697-49.2009.8.26.0002
+Classe - AssuntoProcedimento do Juizado Especial Cível - Obrigação de Fazer / Não Fazer
+Requerente:Katia Cilene Barbosa
+Requerido:Banco Nossa Caixa Nosso Banco Sa
+
+
+
+
+Juiz(a) de Direito: Dr(a). Guilherme Duran Depieri
+
+Vistos.
+
+Dispensado o relatório nos termos do art. 38, caput, da Lei nº 9.099/95, fundamento e decido.
+
+DAS PRELIMINARES
+
+Não prosperam as questões preliminares arguidas pela ré.
+O banco-réu é parte legítima para figurar no pólo passivo da ação. É que, na condição de depositário dos ativos financeiros da autora, beneficiou-se diretamente dos efeitos da Lei 8.177/91, na medida em que deixou de aplicar aos depósitos existentes em conta-poupança sob sua responsabilidade o índice real de reajuste apurado à época pelo IBGE.
+Em relação ao Banco Central, cabe ressaltar que a demanda versa sobre valores que não foram transferidos para a aludida instituição, persistindo, pois, a legitimidade passiva do réu.
+Não prospera, ainda, a alegação de prescrição dos juros, pois os aplicáveis aos depósitos em cadernetas de poupança são capitalizáveis, integrando, mês a mês, o próprio capital. 
+Nesse sentido, a jurisprudência:
+
+?CADERNETA DE POUPANÇA ? JUROS SOBRE DIFERENÇA DE CORREÇÃO MONETÁRIA NÃO CREDITADA ? LAPSO PRESCRICIONAL DE VINTE ANOS ? PRECEDENTES ? Os juros sobre a diferença de correção monetária nos depósitos em caderneta de poupança, tal qual esta, prescrevem em vinte anos. Recurso Especial conhecido pelo dissídio, mas improvido?. (STJ ? REsp. 466.741 ? SP ? rel. Min. César Asfor Rocha ? DJU 04.08.2003, p. 313).
+
+Quanto à prescrição da correção monetária, a jurisprudência é também pacífica no sentido de ser ela vintenária:
+
+?CADERNETA DE POUPANÇA ? REMUNERAÇÃO NO MÊS DE JANEIRO DE 1989 ? PLANO VERÃO ? PRESCRIÇÃO. 1. Nas ações em que são impugnados os critérios de remuneração da caderneta de poupança e são postuladas as respectivas diferenças, a prescrição é vintenária, já que se discute o valor principal. 2. Agravo improvido. (STJ ? AGREsp 251288 ? SP ? 3a. Turma, rel. Min. Carlos Alberto Menezes ? DJU 2.10.2000, p. 165).
+
+O prazo de prescrição, portanto, no que diz respeito à cobrança de diferença de correção monetária e juros aplicados às cadernetas de poupança é vintenário, nos termos do art. 177 do Código Civil de 1916, anotando-se que, à data da entrada em vigor do novo Código Civil, já havia decorrido mais da metade do prazo prescricional, regendo-se a matéria, portanto, pelo Código Civil de 1916 (conforme art. 2.028 da Lei 10.406, de 10.1.2002).
+Por tais razões, rejeito as preliminares arguidas.
+
+DO MÉRITO
+
+Quanto ao mérito propriamente dito, o pedido merece procedência.
+De se ressaltar, previamente, que os depósitos judiciais ostentam a natureza de contas ? poupança, sendo-lhes aplicáveis, portanto, os índices de atualização próprios das poupanças. 
+Resultou absolutamente comprovado nos autos que a autora era beneficiária de depósito mantido em conta judicial aberta junto ao réu nos períodos postulados na inicial, pois que aquele foi efetivado em 17/09/1988, ocorrendo o levantamento em  fevereiro de 1995 (fls. 75 e 77).
+A existência de saldo positivo naqueles períodos é demonstrada pela referida documentação, sendo presumível, aliás, pela recusa do réu em juntar os respectivos extratos, embora devidamente intimado para tanto por inúmeras vezes, por aplicação do disposto no art. 359, I e II, do CPC.
+O fato de não terem sido aplicados os índices postulados na inicial, por sua vez, restou incontroverso, pois que o réu se resume em afirmar que aplicou a legislação vigente na época; tal circunstância, ademais, novamente é presumível diante de sua recusa em juntar os respectivos extratos, embora devidamente intimado para tanto por inúmeras vezes, por aplicação do disposto no art. 359, I e II, do CPC.
+Posto isto, no que pertine à correção do mês janeiro de 1989, cumpre dizer que a Medida Provisória nº 32, de 15/1/89, convertida na Lei n° 7.730/89, que instituiu o cruzado novo, não poderia retroagir para atingir ato jurídico perfeito concretizado antes de sua vigência. Portanto, não poderia retroagir para alcançar as cadernetas de poupança com data-base anterior a 16 de janeiro de 1989, como no caso dos autos. 
+Os critérios de remuneração estabelecidos na Resolução n.º 1.338 do BACEN e no artigo 17, inciso I, da Lei nº 7.730/89 não têm aplicação às cadernetas de poupança com períodos aquisitivos já iniciados.
+A respeito da matéria em comento, decidiu o C. Superior Tribunal de Justiça o seguinte:
+
+"Com relação à alegada violação do artigo 12 do Decreto-lei nº 2.284/86, com redação que lhe foi dada pelo Decreto-lei nº 2.311/86, o acórdão recorrido está em consonância com a jurisprudência deste Tribunal, no sentido de que a nova sistemática relativa à remuneração das cadernetas de poupança refere-se expressamente ao mês de julho de 1987, assim preservado o direito dos depositantes aos percentuais vinculados ao IPC para corrigir os saldos das contas no período aquisitivo já iniciado anteriormente a edição da Resolução nº 1.338 do Banco Central, fazendo incidir, dessa forma, o enunciado 83 da Sumula do STJ" (AgRg no AGRAVO DE INSTRUMENTO Nº 445.414 - RS (2002/0042244-7) - RELATORA: MINISTRA NANCY ANDRIGHI
+ 
+O índice IPC-IBGE relativo a janeiro de 1989, que refletiu a inflação do período, foi de 42,72%, que deveria ter sido integralmente aplicado pelo réu. 
+No que tange ao período de 1.990, os contratos realizados antes da Medida Provisória referida se submetiam às normas de correção dos saldos depositados, de conformidade com a variação do IPC divulgado pelo IBGE. A remuneração deveria ser de 0,5% ao mês, além da própria correção que tinha por finalidade a recomposição do capital aplicado, em razão dos efeitos da inflação.
+Ocorre que não foi aplicado sobre o saldo do autor o índice inflacionário que deveria ter sido aplicado sobre o saldo existente em abril de 1990.
+Como já decidido pelo E. Tribunal de Justiça de São Paulo, não incide, no presente caso, o disposto nas Leis nº. 8.024/90 e 8.088/90.
+
+EMBARGOS DE DECLARAÇÃO: - Omissão - Inocorrência - Alegada inaplicabilidade do IPC como índice de correção monetária - Hipótese em que o acórdão afirmou claramente ser a correção monetária devida - Índice que deve corresponder à real desvalorização da moeda para a efetiva reparação do dano - Não incidência das Leis 6.899/81, 8.024/90 e 8.088/90 - Embargos rejeitados (TJSP - EDecl. nº 210.269-1 - São Paulo - CCIV 4 - Rel. Barreto Fonseca - J. 22.09.94 - v.u.).
+
+Quanto ao índice a ser aplicado, o C. STJ assim se pronunciou:
+
+?Inflação de março, abril e maio de 1990, fevereiro de 1991. As razões determinantes nos cálculos de inflação de janeiro de 1989, de 70,28%, índice do IPC, justificam a aplicação da inflação ocorrida a partir de março (84,32%), abril (44,80%), maio de 1990 e fevereiro de 1991. Embargos acolhidos?. (Eresp. 46.019-SP, Corte Especial, rel. Min. GARCIA VIEIRA, DJU 19.06.95) 
+
+À vista de tais princípios, não se pode negar que, como efeitos negociais exauridos, as prestações já cumpridas se regem pela lei do tempo da celebração do negócio. Vale dizer, não se submetem à lei nova as prestações em curso de execução. Prestação em curso de execução é, para tal fim, prestação já cumprida.
+Afinal, seria absurdo que a incidência imediata de lei de ordem pública, sobre os negócios jurídicos de execução continuada, significasse obrigar, no curso da prestação, o devedor a fazê-lo de modo gravoso, o credor a recebê-la menos valiosa. Invocando o princípio da irretroatividade, com certeza não pagaria o réu aos poupadores, no mesmo período, índice de correção superior ao que se via no início da prestação, se isto resultasse do exame superficial da lei. E estaria certo, porque lei nova que incida nas relações privadas, de trato sucessivo, não atinge prestação em curso de execução.
+É evidente que as perdas dos poupadores em 1990, no mês citado, efetivamente ocorreram, ante a modificação danosa das regras de remuneração da poupança.
+Ademais, a lei não pode retroagir para atingir contratos celebrados sob a égide normativa anterior, face o princípio do artigo 5º, inciso XXXVI, da Constituição da República, e artigo 6º da Lei de Introdução ao Código Civil.
+No concernente ao período de março de 1.991, os depositantes não tinham mera expectativa de remuneração da poupança sob determinado critério, mas direito adquirido à remuneração dos ativos financeiros depositados em consonância com a inflação apurada no período pelos índices oficiais. Nesse sentido, a Lei 8.177/91, ao limitar o índice de correção monetária aplicável aos depósitos existentes em caderneta de poupança com aniversário no mês de fevereiro de 1991, inclusive, feriu o direito adquirido líquido e certo dos poupadores, impingindo-lhes prejuízo e beneficiando as instituições financeiras que acabaram se apropriando indiretamente da diferença de correção monetária. 
+Induvidoso, outrossim, que o contrato de depósito, que assegurava aos depositantes reajustes de acordo com o índice de inflação apurado em cada período de 30 dias, de acordo com o IPC, conforme previa o art. 12 do Dec. Lei 2.284, de 10.3.86, constitui ato jurídico perfeito e acabado, insuscetível de ser atingido por lei posterior, ainda que de ordem pública, como in casu a Lei 8.177/91.
+O Supremo Tribunal Federal ao enfrentar a questão assim decidiu:
+
+?CADERNETA DE POUPANÇA ? Rendimentos (Lei n. 7.730/89, art. 17, I; Resolução n. 1.338 do Banco Central; e Lei n. 8.177/91, art. 26). O Plenário do STF, no julgamento da Adin 493, firmou o seguinte entendimento: 'o disposto no art. 5o. XXXVI, da CF, se aplica a toda e qualquer lei infraconstitucional, sem qualquer distinção entre lei de direito público e lei de direito privado, ou entre lei de ordem pública e lei dispositiva. (RTJ 143/724). Sendo assim, as normas infraconstitucionais, que modificaram os rendimentos da caderneta de poupança (Lei n. 7.730/89, art. 17; Resolução n. 1.338, do Banco Central, e Lei 8.177/91, art. 26) não podem atingir contratos de adesão, firmados entre poupador e estabelecimento bancário, durante a fluência do prazo estipulado para a correção monetária (mensal)? (STF ? AgRg ? AI 252.017- 0 ? RS ? 1a. Turma ? Rel. Min. Sydney Sanches ? DJU 30.6.2000).
+
+O art. 5o, XXXVI, da Constituição Federal é claro ao dispor que a lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada.
+Inconstitucional, pois, o art. 12 da Lei 8.177/91 ao determinar critério diverso de correção monetária dos ativos financeiros depositados em cadernetas de poupança, devendo ser desconsiderado o critério de reajuste por ela determinado em relação às cadernetas de poupança que aniversariam no mês de fevereiro, assim como sua retroatividade em relação ao mês de janeiro de 1991, uma vez que inclui os rendimentos a serem creditados no mês de fevereiro, sendo o mesmo critério aplicável aos depósitos judiciais, os quais, como exposto acima, seguem o mesmo regime atinentes às contas ? poupança, por disporem desta natureza. 
+Por fim, à míngua de elementos que permitam a aferição do saldo existente nas épocas postuladas, deve ser aceito o valor apontado pela autora nos cálculos de 98/101, mediante estimativa tomando por base o saldo existente na data do saque, os quais, ademais, restaram incontroversos, uma vez que o réu não se manifestou a respeito, não obstante instado a tanto (fls. 102/105). 
+
+Ante o exposto, JULGO PROCEDENTE o pedido formulado por KATIA CILENE BARBOSA contra BANCO NOSSA CAIXA NOSSO BANCO AS (BANCO DO BRASIL), com fundamento no art. 269, I, do CPC, para condenar o réu a pagar à autora o valor de  de R$ 3.352,84, que deverá ser atualizado pelos índices da Tabela Prática do TJSP desde o ajuizamento da demanda e acrescido de juros legais desde a data da citação.. 
+Sem sucumbência por força do disposto no artigo 55 da Lei n. 9.099/95. 
+A parte ré fica ciente do prazo de 15 dias para pagamento voluntário da condenação, o qual passará a fluir automaticamente, independentemente de nova intimação, a partir do trânsito em julgado da sentença, sob pena de acréscimo de multa de 10% sobre o total do débito, na forma do art. 475-J do CPC c.c. art. 52, IV, da Lei 9.099/95. 
+O valor das custas do preparo no Juizado Especial Cível, para eventual recurso, é de no mínimo 10 UFESPs, sendo  1% do valor da causa, no mínimo de 05 UFESPs, mais o valor de 2% do valor da causa, no mínimo de 05 UFESPs ou caso a sentença seja condenatória, o valor a ser recolhido deve corresponder a 2% do valor da condenação ao invés de 2% do valor da causa, conforme disposto nos incisos I e II do art. 4º na Lei 11.608/2003, e em cumprimento ao artigo 54, parágrafo único, da Lei n. 9.099/95, sem prejuízo do recolhimento do porte de remessa e retorno, no valor de R$29,50 por volume.
+P.R.I.C.
+
+São Paulo, 03 de abril de 2014.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

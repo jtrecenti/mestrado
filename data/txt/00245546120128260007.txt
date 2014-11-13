@@ -1,0 +1,57 @@
+
+
+SENTENÇA
+
+Processo nº:0024554-61.2012.8.26.0007 - Procedimento do Juizado Especial Cível
+Requerente:Paulo Henrique da Silva
+Requerido:Banco Santander
+
+
+
+
+
+Vistos.
+Dispensado o relatório, conforme o art. 38 da Lei nº 9.099/95,
+D E C I D O.
+Passo a apreciar o mérito.
+Este processo trata de fatos semelhantes a outros que são objeto de inúmeros processos contra o mesmo Banco Santander e que tramitam por este JEC: é creditada uma certa quantia na conta da parte autora, com histórico de ?transferência?, proveniente de outra conta mantida junto ao réu por alguém que não está identificado nos autos (informação que o réu não apresenta no processo), e, ato contínuo, são efetuados saques cuja soma atinge aquele valor creditado ou dele se aproxima muito. Mas não pára por aí: assim que o consumidor leva os fatos ao conhecimento do réu, este procede, na conta da parte autora, ao estorno a débito da quantia que fora creditada pela transferência, em geral lançando o histórico ?LCTO A DEBITO ? SAC?.  Supõe?se que o réu faça esse estorno para devolver o dinheiro ao outro cliente titular da conta da qual partiu aquela transferência inicial. Isso implica em concluir que o réu reconheceu que ocorreu uma fraude, em razão da qual aquela transferência inicial foi feita.
+Só que em todos os casos o réu não estorna a crédito do consumidor os débitos que foram efetuados logo em seguida àquela transferência, ou seja, todo o prejuízo da fraude fica para o consumidor que teve a conta utilizada para a prática da fraude.
+Ora, nesse contexto o que se conclui é que o réu imputa a prática da ilicitude à parte autora. 
+Desde que o réu imputa ato ilícito à parte autora, tinha o ônus de produzir tal prova, que não pode ser exigida da parte autora, na medida em que, a par de se presumir a boa fé do consumidor, este não pode ser obrigado a produzir prova de fato negativo, ou seja, de que não praticou aquele ato ilícito.
+O réu, aliás, sequer indicou onde os saques foram realizados, ou seja, a partir de qual máquina e onde esta se encontrava instalada. O réu não informou se o local dos saques era filmado ou não ou se tais máquinas fotografavam a pessoa que estava a realizar a movimentação.
+O réu não indicou como ocorreram a tal transferência e os saques, de maneira que pudesse imputar à parte autora responsabilidade pela sua realização, até mesmo porque essa responsabilização pela transferência era pressuposto para que o réu efetuasse o estorno acima mencionado.
+No caso presente, encontramos a peculiaridade de que o réu lançou um débito de R$ 2.100,33, que correspondia ao estorno de um crédito decorrente de transferência, mas também efetuou mais dois lançamentos com o histórico ?LCTO A DEBITO  SAC?, um no valor de R$ 3.450,00 (01.06.2012  fls. 12-verso) e outro no valor de R$ 2.975,00 (12.06.2012  fls. 32), que não correspondiam a estorno algum, visto que não houve os respectivos créditos a título de transferência, como no 1.º caso.
+Não é razoável isentar a responsabilidade do banco, sob o argumento de que todas as transações foram regulares, ou seja, que para aprovação das transações feitas com o uso do cartão magnético era necessário usar o próprio cartão e, ainda, apresentar todos os dados da parte autora, ou seja, seu código secreto, o que impunha a esta o dever de sigilo desses dados, por ela descumprido. Ocorre que o sistema informatizado do réu não é inviolável. Ao contrário: é de conhecimento público, verdadeiro fato notório, a enorme quantidade de fraudes praticadas por hackers e por outras pessoas com conhecimento em tecnologia da informação, mediante clonagem dos dados utilizados nas operações bancárias efetuadas com o uso de cartão magnético e senha. E isso acontece mesmo quando são utilizados sistemas auxiliares de segurança além da senha, como, por exemplo, as ?letras de acesso?.
+Nunca é demais lembrar que o cartão que o réu forneceu à parte autora  também possuía tarja magnética, o que, por si só, já representa uma facilitação à ação de estelionatários, pois os dados da tarja magnética são facilmente clonáveis por quadrilhas de criminosos especializados em fraudes ao sistema bancário, conforme se tem observado pelas inúmeras reportagens divulgadas pela imprensa.
+Não há sequer início de prova, pois, de culpa da parte autora.
+Portanto, o banco não provou o que alegou, ou seja, não provou que a parte autora tenha agido ilicitamente e não há dispositivo legal autorizando que se faça tal presunção de responsabilidade civil da parte autora.
+E tão pouco se pode excluir a responsabilidade do réu sob o fundamento da culpa exclusiva de terceiro, tal seja o estelionatário que aplicou o golpe, pois a responsabilidade pela segurança do sistema é do réu, enquanto fornecedor, e a ação do terceiro ocorreu justamente em cima de falha da segurança, que é, portanto, plenamente imputável ao réu, que responde pelos danos sofridos pela parte autora.
+Existem sistemas de segurança que poderiam ser usados pelo réu, tais como aqueles que envolvem biometria, mas que são desprezados em razão do elevado custo que representam para as operações. Ora, desde que o risco do negócio é do fornecedor, não é razoável que este, ao deixar de efetuar os investimentos necessários para manter a segurança, transfira ao consumidor o risco decorrente justamente da insuficiente segurança que forneceu.
+É o que basta para se concluir que a culpa não foi exclusiva do consumidor, nem de terceiro, e que, portanto, o réu deve lhe devolver o valor indevidamente retirado de sua conta.
+Esse valor é o resultado da soma de R$ 2.100,00, referentes aos débitos não reconhecidos em 26.03.2012 (fls. 12), com R$ 3.450,00 (01.06.2012  fls. 12-verso) e R$ 2.975,00 (12.06.2012  fls. 32), o que totaliza R$ 8.525,00. Dessa quantia deve ser deduzido o adiantamento feito pelo réu a fls. 78/79 (valor de R$ 1.705,96, em 25.10.2012).
+Além disso, o autor foi constrangido a contratar um empréstimo de R$ 1.480,00 em 16.04.2012 (fls. 12), que é nulo, pois não havia razão para o autor contratá-lo, pois o saldo devedor em sua conta bancária decorreu daqueles lançamentos indevidamente feitos pelo réu em desfavor do autor.
+Portanto, o contrato de empréstimo é nulo e devem ser estornados da conta do autor tanto a quantia creditada pelo empréstimo (R$ 1.480,00), quanto a soma das parcelas desse empréstimo que foram debitadas de sua conta bancária.
+Além disso, devem ser estornados a crédito do autor todos os lançamentos referentes a juros, encargos, taxas, tributos ou outros históricos, decorrentes tanto do empréstimo, quanto dos saldos devedores que foram constatados em sua conta bancária.
+Houve danos morais. Caracteriza mais do que mero aborrecimento ver o consumidor ser subtraída quantia de sua conta bancária sem que o depositário, a quem confiou a guarda de seu dinheiro, apresente justifica razoável para o ocorrido e, ainda, sem que este assuma sua responsabilidade, pela qual, aliás, era remunerado pelo consumidor.
+Nesse contexto, arbitro o valor de R$ 10.000,00 para a indenização por danos morais.
+DISPOSITIVO:
+Em razão do exposto, JULGO PROCEDENTE a ação para:
+a.) anular o contrato de empréstimo de R$ 1.480,00 e, em consequência, condenar o réu a estornar da conta do autor tanto a quantia creditada pelo empréstimo (R$ 1.480,00), quanto a soma das parcelas desse empréstimo que foram debitadas da conta bancária do autor, tudo com atualização monetária desde a data de cada desembolso pela Tabela do TJSP e juros moratórios de 1% desde a citação;
+b.) condenar o réu a se abster de debitar as parcelas do contrato de empréstimo referido no item anterior, que vencerem a partir da intimação desta sentença, o que se faz inclusive em antecipação de tutela;
+c.) condenar o réu a pagar à parte autora a quantia de R$ 8.525,00 (oito mil quinhentos e vinte e cinco reais), por danos materiais, a ser acrescida dos valores de todos os encargos, taxas e tributos que tenha cobrado da parte autora por conta dos fatos retratados neste processo, tudo com correção monetária desde as datas dos débitos (R$ 2.100,00 em 26.03.2012, R$ 3.450,00 em 01.06.2012 e R$ 2.975,00 em 12.06.2012) pela tabela do TJSP e de juros moratórios de 1% ao mês desde a data da citação, conforme arts. 405 e 406, do Código Civil c.c. art. 161, §1º, do Código Tributário Nacional. O réu poderá deduzir dessa quantia o valor de R$ 1.705,96, acima referida;
+d.) condenar o réu a pagar à parte autora a quantia de R$ 10.000,00 (dez mil reais), por danos morais, com acréscimo de correção monetária desde hoje pela tabela do TJSP (Sum. 362 do STJ) e de juros moratórios de 1% ao mês desde a data da citação, conforme arts. 405 e 406, do Código Civil c.c. art. 161, §1º, do Código Tributário Nacional.
+Em conseqüência, torno definitiva a liminar de fls. 17.
+Como o réu demorou muito mais de 15  dias para cumprir a liminar, da qual fora intimado em 20.07.2012 (fls. 76), aplico-lhe a multa total de R$ 1.500,00 (um mil e quinhentos reais), a ser atualizada a partir do 15.º dia após o término do prazo de três dias fixado para cumprimento da liminar, ou seja, a partir de 07.08.2012,  pela Tabela do TJSP, com incidência de juros moratórios de 1% ao mês desde a data da citação, conforme arts. 405 e 406, do Código Civil c.c. art. 161, §1º, do Código Tributário Nacional.
+Diante da repetição quase diária de processos idênticos a este neste JEC, encaminhe-se cópia dos autos ao Banco Central, ao Ministério Público com atribuição para defesa do consumidor e à Fundação Procon, para apuração da responsabilidade do réu em razão da aparente fragilidade de seu sistema informatizado, que está causando sérios transtornos aos consumidores.
+Honorários, custas  e despesas processuais: não há condenação ao pagamento de honorários e de custas e despesas processuais, porque incabíveis nesta fase processual do Juizado Especial Cível (Lei nº 9.099/95, arts. 54 e 55).
+Assim que publicada a presente sentença, ficam as partes intimadas: (a) do prazo de dez dias para apresentação de recurso, que não possui efeito suspensivo do julgado (art. 43, da Lei 9099/95); (b) do prazo de 48 horas para efetuar o pagamento do preparo do recurso, a partir da interposição, sob pena de deserção (art. 42, § 1º, da Lei 9099/95), bem como pagamento do porte de remessa e retorno (item 66, do Provimento CSM nº 806/2003, de 10.11.03, com a redação do Provimento 884/2004, DJE 23.09.2004). O valor do preparo deve ser a soma de 1% (um por cento) do valor da causa ou cinco UFESPS, o que for maior, mais 2% (dois por cento) do total da condenação ou cinco UFESPS, o que for maior, ressalvada a gratuidade da justiça deferida à parte recorrente, quando efetivamente concedida nos autos.
+Publique-se. Registre-se. Intimem-se.
+
+São Paulo, 21 de março de 2013.
+
+
+
+Assinado digitalmente
+
+Eduardo Francisco Marcondes
+Juiz(a) de Direito

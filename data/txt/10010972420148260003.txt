@@ -1,0 +1,67 @@
+
+
+SENTENÇA
+
+Processo Digital nº:1001097-24.2014.8.26.0003
+Classe - AssuntoProcedimento Ordinário - Seguro
+Requerente:Itaú Seguros S/A
+Requerido:Gollog Serviços de Cargas Aéreas
+
+
+
+Juiz(a) de Direito: Dr(a). Alessandra Laperuta Nascimento Alves de Moura
+
+
+Vistos.
+
+Trata-se de ação regressiva de ressarcimento de danos movida por ITAU SEGUROS S.A. em face de GOLLOG SERVIÇOS DE CARGAS AÉREAS.
+
+Alega a autora ter firmado contrato de seguro com a empresa CLARO S.A., representado pela apólice nº01.21.4003638 (fls. 24/38) e, por meio deste, sub-rogou-se nos direitos da empresa segurada. Afirma que, para realização das suas atividades comerciais, a empresa segurada contratou os serviços da ré para transportar 4 (quatro) volumes contendo 8.000 Sim Cards, conforme notas fiscais 39777, 397780, 397783 e 397784, pelo trajeto de Brasília/DF com destino em Porto Velho/RO. Alega que a carga foi embarcada na aeronave da requerida em perfeito estado qualitativo e quantitativo, conforme conhecimento de transporte aéreo emitido pela própria ré. Porém, na chegada em Porto Velho/RO, parte do lote havia desaparecido, sem qualquer explicação. O extravio do lote foi reconhecido e registrado pela ré no laudo de vistoria emitido sob nº135289 e Boletim de Ocorrência lavrado sob nº12E1002012919 (fl. 45/47). Afirma que suportou o prejuízo de R$19.920,00; pagando referido valor à sua segurada Claro, conforme o recibo de quitação de fl. 50. Nos termos do art. 786 do CC e Súmula 188 do STF, a autora sub-rogou-se nos direitos da segurada e, nesta qualidade, restaram infrutíferas todas as tentativas de composição entre a autora e a ré. A modalidade de obrigação contida no contrato de transporte é de resultado, decorrendo a responsabilidade objetiva. Pleiteia a aplicação do Código de Defesa do Consumidor notadamente com a inversão do ônus da prova. Requer a procedência da ação para condenar a ré ao pagamento de R$19.920,00 devidamente corrigidos, custas e honorários advocatícios. 
+
+Com a inicial (01/16), vieram documentos (fls. 17/57).
+
+Citada (fl. 51), a ré VRG LINHAS AÉREAS S.A., incorporadora de Gol Transportes Aéreos S.A. apresentou contestação (fls. 66/98). Defende-se afirmando a impossibilidade de sub-rogação da autora em razão da ausência de culpa por parte da ré. Refuta a aplicação do Código de Defesa do Consumidor pois no contrato celebrado há expressa previsão de incidência do Código Brasileiro de Aeronáutica (CBA). Pugna para que se, eventualmente, prevaleça o dever de indenizar que seja com base nos critérios previstos no art. 262 do CBA, de 03 Obrigações do Tesouro Nacional (OTN). Requer a improcedência da ação.
+
+Houve réplica às fls. 104/126.
+
+É o relatório.
+Decido.
+
+O feito comporta julgamento antecipado da lide, nos termos do artigo 330, I, do CPC. Trata-se de matéria de direito e de fato, sem que exista a necessidade de produção de outras provas além daquelas que constam dos autos. 
+
+Trata-se de ação regressiva movida por companhia seguradora. E, nesse caso, o segurador tem o direito de reaver do responsável pelo prejuízo o que efetivamente pagou pelo ressarcimento do dano ao segurado, competindo-lhe, apenas, provar o desembolso. 
+
+A requerida refuta a responsabilidade de indenização. Contudo, as alegações não merecem acolhida, diante dos documentos e demais elementos existentes nos autos. 
+
+No caso, conforme atestado no Certificado de Vistoria de fls. 45, quatro volumes, objeto das notas fiscais 397779, 397784, 397780 e 397783 foram extraviados e não mais localizadas.
+
+Assim, restou incontroversa a ocorrência do sinistro, que ensejou o pagamento de indenização por parte da autora, fazendo jus ao respectivo ressarcimento devidamente corrigido.
+
+Este é o entendimento pacífico do Colendo Superior Tribunal de Justiça e do Egrégio Tribunal de Justiça de São Paulo acerca da responsabilidade objetiva nas relações de transporte aéreo e quanto ao pagamento da indenização de forma ampla e integral. Veja-se: 
+
+EMENTA - CIVIL. TRANSPORTE AÉREO. CARGA. MERCADORIA. EXTRAVIO. TRANSPORTADOR. INDENIZAÇÃO INTEGRAL. CDC. APLICAÇÃO. CONVENÇÃO DE VARSÓVIA. AFASTAMENTO. 1 - A jurisprudência pacífica da Segunda Seção é no sentido de que o transportador aéreo, seja em viagem nacional ou internacional, responde (indenização integral) pelo extravio de bagagens e cargas, ainda que ausente acidente aéreo, mediante aplicação do Código de Defesa do Consumidor, desde que o evento tenha ocorrido na sua vigência, conforme sucede na espécie. Fica, portanto, afastada a incidência da Convenção de Varsóvia e, por via de consequência, a indenização tarifada. 2 - Recurso especial conhecido e provido para restabelecer a sentença.
+(REsp 552553 / RJ - RECURSO ESPECIAL - 2003/0109312-3 - Relator: Ministro FERNANDO GONÇALVES (1107) - Data do Julgamento: 12/12/2005). 
+
+EMENTA: APELAÇÃO - AÇÃO REGRESSIVA SEGURADORA EM FACE DA TRANSPORTADORA TRANSPORTE AÉREO DE MERCADORIAS INDENIZAÇÃO TARIFADA 1 Inaplicabilidade da Convenção de Varsóvia, datada de 1929. Por mais que tal convenção tenha sido ratificada pelo Brasil, é assente na jurisprudência pátria, inclusive no STJ, que não deve ser aplicada, diante da reparação integral prevista não apenas no Código de Defesa do Consumidor, mas também no próprio Código Civil em vigor. Afinal, a indenização se mede pela extensão do dano e não pelos parâmetros fornecidos por um tabelamento de mais de cem anos atrás, que em nada se coaduna com os princípios de direito interno. Após o advento do Código de Defesa do Consumidor, a responsabilidade civil do transportador aéreo pelo extravio de mercadoria subordina-se ao princípio da ampla reparação; 2 A transportadora assume uma obrigação de resultado, qual seja, de entregar a mercadoria incólume ao seu destinatário. Assim, ela responde por qualquer extravio ou dano sofrido pelo produto durante o transporte. Comprovando a seguradora o valor das mercadorias transportadas e o fato de que foram extraviadas ou avariadas, demonstrando-se, ainda, a quitação da indenização junto ao segurado, é possível e razoável o ajuizamento de ação regressiva contra a transportadora, causadora do dano. RECURSO NÃO PROVIDO.
+(Apelação nº0189294-28.2010.8.26.0000 - Relator(a): Maria Lúcia Pizzotti - Comarca: São Paulo - Órgão julgador: 20ª Câmara de Direito Privado - Data do julgamento: 27/05/2013).
+
+EMENTA: RESPONSABILIDADE CIVIL - Transporte Aéreo - Código Brasileiro de Aeronáutica - Regressiva de ressarcimento de indenização decorrente de falta e/ou avaria de mercadorias - Procedência parcial da demanda - Irrazoabilidade - Direito ao regresso, por parte da seguradora, ao valor correspondente ao que foi desembolsado a título de indenização - Reforma da sentença, para julgar procedente a demanda, condenando a ré-apelada no reembolso do valor efetivamente pago pela autora-apelante aos segurados, devidamente corrigido pela Tabela Prática do Tribunal, a partir do desembolso. Recurso provido.
+(Apelação nº0086836-64.2009.8.26.0000 - Relator(a): William Marinho - Comarca: São Paulo - Órgão julgador: 18ª Câmara de Direito Privado - Data do julgamento: 03/04/2013) 
+
+EMENTA: RESPONSABILIDADE CIVIL - Transporte aéreo doméstico - Extravio e avaria de mercadorias - Ação regressiva ajuizada por seguradora dos lesados contra a transportadora - Não se aplica a limitação indenizatória (tarifamento) prevista no Código Brasileiro de Aeronáutica às situações diversas daquelas decorrentes do chamado "risco de voo" - Vige, em nosso sistema, o principio da reparação integral do dano (art. 944., Código Civil) - Precedentes - O contrato de transporte cristaliza obrigação de resultado, mediante o qual o transportador se obriga a entregar incólume a mercadoria em seu destino, em estado idêntico ao em que a recebeu - Estando incontroversos o sinistro e os valores despendidos pela autora em decorrência deles, configurado está o dever da transportadora de indenizar a seguradora em regresso - Pretensão procedente - Recurso não provido. 
+(Apelação nº9267569-03.2008.8.26.0000 - Relator(a): Fernandes Lobo - Órgão julgador: 22ª Câmara de Direito Privado - Data do julgamento: 06/12/2012) 
+
+Portanto, é de ser reconhecido o direito de regresso (CC, art. 786, e STF, Súmula 188), bem como a responsabilidade objetiva da transportadora de pagar a respectiva indenização, diante da natureza dos contratos de transporte em geral, que encerram obrigação de resultado, ou seja, de transportar e entregar as mercadorias incólumes no destino.
+
+Ante o exposto, JULGO PROCEDENTE o pedido para condenar a requerida a pagar à autora a quantia de R$19.920,20; com correção monetária pela Tabela Prática do Tribunal de Justiça a partir do desembolso e acréscimo de juros de mora de 1% ao mês a partir da citação.
+
+Diante da sucumbência, condeno a ré ao pagamento das custas e despesas processuais, bem como dos honorários advocatícios, que arbitro em 15% do valor da condenação atualizado.
+
+Transitando em julgado e decorrendo o prazo de 15 dias para pagamento voluntário da condenação, apresente o credor demonstrativo atualizado do débito e para a execução observe o disposto no CPC, art. 475-J, acrescido pela Lei 11.232, de 22/12/2005; não sendo requerida a execução em 06 meses ao arquivo nos termos do 475-J, § 5º.
+
+P. R. I.
+
+São Paulo, 31 de março de 2014.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

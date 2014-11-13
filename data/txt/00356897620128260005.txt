@@ -1,0 +1,42 @@
+
+
+SENTENÇA
+
+Processo nº:0035689-76.2012.8.26.0005
+Classe - AssuntoProcedimento do Juizado Especial Cível - Perdas e Danos
+Requerente:JOAQUIM MENDES PINHEIRO
+Requerido:BANCO DO BRASIL S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Fabiana Tsuchiya
+
+
+Vistos.
+Dispensado o relatório, nos termos da Lei 9.099/95.
+Decido.
+Trata-se de ação visando a declaração de inexigibilidade da tarifa para a exclusão de dados do CCF e ressarcimento pelos danos morais sofridos em decorrência da manutenção da restrição CCF. 
+Não nega o autor que houve emissão de cártula sem fundos, tampouco houve questionamento sobre a inscrição dos dados em cadastro CCF.  A controvérsia nos autos se refere à possibilidade da instituição financeira manter a restrição, mesmo com quitação da cártula, em razão da ausência de pagamento da respectiva tarifa para realização da baixa nos sistemas.
+E, ainda que se reconheça a aplicação da legislação consumerista ao caso em análise, imperioso considerar que é lícita a cobrança da tarifa exigida, posto que autorizada pelo Banco Central.
+Dispõem os artigos 19 e 20 da Resolução n. 1.682/1990 do Banco Central:
+"Art. 19. As ocorrências serão excluídas do cadastro de emitentes de cheques sem fundos:
+a) Automaticamente, após decorridos 5 (cinco) anos da última inclusão;
+b) A pedido do estabelecimento sacado, ou por iniciativa do próprio executante, se comandada a inclusão por erro comprovado hipótese em que a instituição, tão logo tenha conhecimento do fato, deve comandar a exclusão do ccf, sem ônus para o cliente;.
+c) A qualquer tempo, a pedido do estabelecimento sacado, desde que o cliente comprove junto a ele o pagamento do cheque que deu origem a ocorrência, e, nos casos de prática espúria, regularize o débito;
+d) Por determinação do banco central do Brasil. 
+Art. 20. Será cobrada dos estabelecimentos bancários taxa de serviço, por ocorrência, correspondente a 10 (dez) BTN, admitido o ressarcimento junto ao correntista exclusivamente no caso previsto na alínea ?c? do artigo 19:
+b) Por ocasião da inclusão, nos demais casos."
+Assim, é certo que a conduta do banco não foi irregular, na medida em que o próprio autor deu causa a seu cancelamento pelo não cumprimento pontual de suas obrigações financeiras, independente do motivo que deu causa a seus problemas financeiros.
+Nesse sentido:
+"Responsabilidade civil - Dano moral - Rol de Inadimplentes - Não retirada do nome da autora do Cadastro de Emitentes de Cheque sem Fundo (CCF) - Falta de pagamento da taxa de serviço para a exclusão do CCF - Hipótese em que a autora deu causa a negativação e não providenciou o pagamento da tarifa para exclusão do cadastro - Não caracterizado qualquer dano moral - Sentença mantida - Recurso improvido" (Apelação 7.097.092-0 - Rio Claro - 13a Câmara de Direito Privado - Rei. Heraldo de Oliveira Silva - j.29.11.2006). 
+Assim, não há responsabilidade de indenizar quando, como no caso dos autos, os efeitos deletérios apontados como caracterizadores do dano moral decorrem da conduta adota pelo próprio ofendido, nada indicando que a inclusão ou a manutenção do autor no cadastro negativo tivessem origem no dolo ou culpa do réu.
+Ante o exposto, JULGO IMPROCEDENTE a pretensão inicial.
+Sem custas ou honorários advocatícios, na forma do art. 55 da lei 9099/95.
+PRI
+
+São Paulo, 02 de maio de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

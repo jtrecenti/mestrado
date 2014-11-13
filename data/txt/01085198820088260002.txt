@@ -1,0 +1,114 @@
+
+
+SENTENÇA
+
+Processo nº:0108519-88.2008.8.26.0002 - Procedimento Sumário
+Requerente:Rojemac Importação e Exportação Ltda
+Requerido:Embratel - Empresa Brasileira de Telecomunicações S/A
+
+Juiz(a) de Direito: Dr(a). Edson Luiz de Queiróz
+
+
+
+
+
+
+VISTOS.
+
+
+ROJEMAC IMPORTAÇÃO E EXPORTAÇÃO LTDA move ação declaratória de inexigibilidade de débito, cumulada com rescisão contratual e indenização por danos morais, com tutela antecipada, em face de EMPRESA BRASILEIRA DE TELECOMUNICAÇÕES S.A. - EMBRATEL, alegando que as partes firmaram contrato de prestação de serviços de telefonia voltados para a área de informática, com instalação de um "link Kbps". Alega defeito na prestação de serviços, vez que estes não atingiam a velocidade pactuada e constantemente permanecia poucas horas em funcionamento. 
+
+Informa que solicitou o cancelamento do contrato e, mesmo assim, a ré cobra a totalidade das contraprestações, inclusive com ameaça de negativações. Alega excesso do valor cobrado, má qualidade dos serviços prestados, não atendimento às reclamações do consumidor e, em conseqüência, direito à rescisão contratual e à indenização por danos morais. Pede tutela antecipada, para obstar cobrança e cancelamento de negativação. No mérito, pede a rescisão do contrato, com declaração da inexigibilidade dos débitos cobrados e a condenação do réu no pagamento de indenização por danos morais, no montante de R$ 10.000,00. 
+
+O pedido de tutela antecipada não foi deferido. Contra essa decisão, o autor interpôs agravo de instrumento, ao qual foi dado parcial provimento, para determinar a suspensão das negativações.
+
+Regularmente citado, o réu ofereceu defesa alegando inaplicabilidade das disposições do Código de Defesa do Consumidor, bem como a efetiva prestação de serviços, aliada à possibilidade de cobrança das devidas contraprestações. Afirma que não houve descumprimento do contrato firmado entre as partes e que não houve a constatação de quaisquer problemas técnicos. Defende a regularidade dos valores cobrados e a inexistência de prejuízos morais. Pede improcedência.
+
+Houve réplica e foi realizada audiência de conciliação, a qual resultou infrutífera. Decidiu-se pela inaplicabilidade das disposições do Código de Defesa do Consumidor e foi determinada a realização de prova pericial técnica. Contra essa decisão, o autor interpôs agravo retido. O laudo pericial foi apresentado, a instrução foi encerrada e as partes apresentaram alegações finais. 
+
+É o relatório do essencial.
+Fundamento e decido. 
+
+Trata-se de ação visando rescisão de contrato de prestação de serviços telefônicos, sob alegação de defeito na prestação de serviços, por parte do réu. Como já foi decidido, no caso presente, não há caracterização de relação de consumo, mas, de insumo e, por esse motivo, não há aplicação das disposições do Código de Defesa do Consumidor, bem como da norma que determina inversão do ônus probatório. 
+
+Visando solução do litígio, foi realizada prova pericial técnica e a perita judicial apresentou as seguintes conclusões, sem grifos ou sublinhados no original:
+
+Conclusão da perícia:
+Cronologia
+
+1) 24/08/2006  Habilitação do serviço.
+2) 25/08/2006  Reclamação da autora por inoperabilidade do sistema
+3) 25/08/266 a 28/08/2006  conserto da rede pública através da operadora Telefônica
+4) 29/08/2006  Normalização do sistema
+5) Reclamação da autora sobre performance do circuito
+6) 11/09/2006  Encerramento da reclamação pela empresa ré. Nada identificado pela empresa ré.
+7) 18/09/2006  Solicitação de cancelamento do circuito pela empresa autora com alegações pela empresa ré.
+8) 07/11/2006  encerramento dos serviços.
+
+Após analise e estudo dos documentos apresentados chegou-se a seguinte conclusão;
+O circuito ativado em 24/08/2006 e solicitado o cancelamento em 18/09/2006 pela autora por não funcionamento dos serviços, demonstra que não foi utilizado para o fim contratado.
+As reclamações da autora junta à ré demonstram problemas técnicos desde a instalação.
+A primeira ocorrência foi sanada por empresa de concessão da rede pública (Telefônica) em sua rede externa.
+A segunda ocorrência foi identificada pela empresa autora por baixa performance (velocidade menor a contratada), porém, nada encontrada pela empresa ré. 
+Logo após foi solicitado o cancelamento dos serviços pela empresa ré, isso ocorrido após 24 dias da habilitação porém só desabilitado pela empresa ré em 07/11/2006.
+Nessas condições conclui-se que os serviços não foram utilizados.
+A perícia é técnica e não esta apta a concluir sobre os valores cobrados pela empresa por estar atrelado a contrato, que é matéria de Direito.
+Desta forma, apenas descrevo o que esta sendo cobrado pela empresa ré como foi passado pela assistente técnico.
+As faturas em que a empresa ré cobra são referentes:
+
+VencimentoFaturasValor
+25/09/06611016033803.481,83
+25/10/06611016033371.721,72
+01/03/0770283100007281,25
+Valor total das faturas5.484,80
+
+Assim detalhadas:
+A fatura de R$ 3.481,83 é detalhada da seguinte forma: (i) acesso 24/08/06 a 25/08/06 (R$ 17,76); (ii) acesso 26/08/06 a 25/09/06 (R$ 266,29); (iii) outros serviços telecom 26/08/06 a 25/09/06 (R$ 1.051,16); (iv) outros serviços 24/08/06 a 25/08/06 (R$ 134,17) e 6/08/06 a 25/09/06 (R$ 2.012,45)
+
+A fatura R$ 1.721,72 é detalhada da seguinte forma: (i) acesso 26/09/06 a 25/10/06 (R$ 266,29); (ii) crédito por interrupção 451 minutos (-R$ 25,31); (iii) outros serviço telecom 26/09/006 a 25/10/06 (R$ 2.012,45); (iv) crédito reclamação 26/09/06 a 25/10/06 (-R$ 531,71).
+Obs.  contrato previa descontos por interrupções, conforme estabelecido na cláusula 7.4
+A fatura de R$ 281,25 refere-se a MULTA BLOQ. INADIMP.
+A multa contratual é devida R$ 281,25, conforme anexo II(Extinção Contratual 9.2)
+O cliente assinou o contrato em 19/06/06 e solicitou o cancelamento do serviço em 18/09/2006, ou seja encerrou o contrato antes do prazo determinado no contrato 24 meses.
+BASE DE CÁLCULO = 18 (MESES) x r$ 2.278,74 (C/I) x 30%/100 = R$ 287,12. O valor da multa faturado R$ 281,25 é menor, devido ao lançamento ser automático via sistema, onde o mesmo aplica o prórata das datas (assinatura do contrato x desativação), o calculo manual utilizamos meses, conforme acima.
+- segundo afirmado na contestação e OS 1-HY0U5F, o cliente solicitou por e-mail a desativação do serviço em 18/09/2006.
+- houve a emissão de fatura após o cancelamento, as quais foram devidamente canceladas, conforme segue:
+
+vencimentofaturavalorcancelamento
+25/11/06611016034582.278,7405/02/07
+25/12/06611016040792.278,7405/02/07
+25/01/07611016034762.278,7405/02/07
+Valor das faturas6.836,22
+
+- a única fatura levada a apontamento no SERASA foi a de 25/09/06, no valor de R$ 3.481,83, que é devida em razão da efetiva prestação de serviços antes do cancelamento requerido pelo cliente.
+- houve a baixa do referido apontamento no SERASA em razão da tutela antecipada concedida.
+
+Não houve impugnação técnica às conclusões da perícia. De qualquer modo, a prova pericial reflete o que efetivamente ocorreu e corrobora as demais provas produzidas nos autos. Assim sendo, constata-se que os serviços não foram prestados da forma como contratado, com a ocorrência de problemas técnicos desde a instalação e falhas de conexão, caracterizando falha na prestação de serviços e autorizando a resolução do contrato por inadimplemento da ré. Em conseqüência, a integralidade dos valores cobrados são inexigíveis e não há cabimento para imposição à autora, de multa contratual.
+
+Com relação ao pedido de indenização por danos morais, anote-se que é perfeitamente cabível o pedido de indenização por danos morais, mesmo tratando-se a autora de pessoa jurídica. É que a atual Constituição Federal, ao se referir à possibilidade de indenização por dano moral, nos incisos V e X, do artigo 5º, não faz distinção entre pessoa física e jurídica. A questão já está pacificada, ante o teor da Súmula 227, do Superior Tribunal de Justiça: 
+
+A pessoa jurídica pode sofrer dano moral.
+
+O dano moral existiu. A autora passou por situações constrangedoras e de aborrecimentos, não só pela necessidade de contactar indefinidamente a ré, para correção a erro que não deu causa, mas também pela negativação de seu nome perante cadastro de maus pagadores. O dano é presumido. Nesse sentido, configura-se a explanação de Yussef Said Cahali, comentando o artigo 6º da Lei nº 8078/90, em seu livro "Dano Moral", 2ª edição, 1998, Editora Revista dos Tribunais, pg. 520:
+
+"É da própria lei, portanto, a previsão de reparabilidade de danos morais decorrentes do sofrimento, da dor, das perturbações emocionais e psíquicas, do constrangimento, da angústia, do desconforto espiritual por bem ou serviço defeituoso ou inadequado fornecimento."
+
+O dano moral puro, em si mesmo é indenizável, sendo desnecessária a ocorrência de conseqüências patrimoniais ou prejuízos econômicos. O nexo de causalidade é patente e advém do defeito na prestação do serviço. Fixada a responsabilidade da ré, dos danos morais causados ao autor e do nexo causal, falta aferir o valor da indenização a ser concedida. Entretanto, para aferição da indenização devida a título de danos morais, devem ser verificados outros requisitos, tais como a intensidade da culpa, as conseqüências advindas do ato ilícito, etc. O IX ENTA (Encontro Nacional de Tribunais de Alçada) decidiu que:
+
+"Na fixação de dano moral deverá o Juiz, atendo-se ao nexo de causalidade inscrito no artigo 1.060, Código Civil, levar em conta critérios de proporcionalidade e razoabilidade na apuração do quantum, atendidas as condições do ofensor, do ofendido e do bem jurídico lesado."
+
+Além disso, o dano deve ser fixado em valor razoável, procurando compensar o lesado e desestimular o lesante, sem proporcionar enriquecimento ilícito. No caso presente, a autora sofreu inúmeros constrangimentos, indo da necessidade de reclamar inúmeras vezes perante a ré. A ré é instituição de grande porte, com patrimônio suficiente para suportar indenização por dano moral no montante de R$ 10.000,00, valor plenamente razoável, que guarda proporcionalidade com a lesão sofrida pela autora e a falta de qualidade na prestação do serviço oferecida pela ré.
+
+As demais questões argüidas pelas partes estão prejudicadas, anotando-se que não há obrigação processual no sentido de impor ao juiz a análise e pronunciamento sobre todos os pontos argüidos nos arrazoados das partes. Basta a explicitação dos motivos norteadores do seu convencimento, concentrando-se no núcleo da relação jurídico - litigiosa, com suficiência para o deslinde da causa.
+
+
+Pelo exposto, JULGO PROCEDENTES os pedidos iniciais, para: 1) declarar a resolução do contrato de prestação de serviços firmado entre as partes, por inadimplemento da ré; 2) para declarar a inexigibilidade dos débitos decorrentes do contrato e 3) para condenar a ré ao pagamento de R$ 10.000,00, a título de danos morais, corrigido monetariamente e acrescido de juros de mora de 1% ao mês, a partir da presente data. Torno definitiva a liminar deferida em grau de recurso.
+
+Condeno a ré no pagamento das custas, despesas processuais e honorários advocatícios, fixados em 15% (quinze por cento) sobre o valor da condenação, corrigido na forma da Lei 6.899/81. Após o trânsito em julgado desta decisão, nada sendo requerido, os autos serão arquivados independentemente de nova intimação.
+
+P.R.I.C.
+
+São Paulo, 1 de julho de 2011
+
+EDSON LUIZ DE QUEIROZ
+     Juiz de Direito

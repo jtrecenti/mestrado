@@ -1,0 +1,51 @@
+
+
+SENTENÇA
+
+Processo nº:010.07.102033-6 - Procedimento Ordinário
+Requerente:Microsoft Corporation
+Requerido:Parabor Ltda
+
+CONCLUSÃO
+
+Em  30 de abril de 2010 faço estes autos conclusos a MM. Juíza de Direito, Dra. Emerson Norio Chinen. Eu,       Daniela Christianini Komatsu, Escrevente Técnico Judiciário, lavrei este termo.
+
+
+
+
+VISTOS?.
+
+MICROSOFT CORPORATION ajuizou ação de indenização, precedida de medida cautelar contra PARABOR LTDA. Alegou, em suma, que em ação cautelar movida contra a ré obteve liminar de busca e apreensão de softwares de que é titular, indevidamente reproduzidos e utilizados pela ré, mediante contrafação. Discorreu sobre o que chama de pirataria de software, violação do direito de autor, que ofende disposições das Leis nºs 9.609/98 e 9.610/98. Requereu tutela antecipada para que a ré seja proibida de utilizar o produto apreendido, sob pena de multa; a citação da ré e final procedência da ação para confirmação da tutela e condenação no pagamento de indenização para reparação do dano causado (fls. 02/18). Juntou documentos a fls. 19/54.
+A parte requerida foi citada e apresentou contestação (fls. 64/77), argüindo preliminares de ausência de pressuposto de constituição e de desenvolvimento válido e regular do processo, por ausência de capacidade processual e defeito de representação da autora, inépcia da petição inicial por falta de pedido certo e denunciação da lide. No mérito, sustentou defesa no sentido de que o laudo é falho, os computadores e respectivas licenças foram adquiridos de revendedores idôneos, sendo desconhecida a ausência de licenças respectivas e que possui todas as licenças e notas fiscais comprobatórias. Assim ausente prova de inexistência de licença dos programas utilizados não haveria fundamento para a condenação pretendida. Requereu a improcedência. Juntou documentos a fls. 78/111.
+Réplica a fls. 125/138.
+As partes manifestaram-se ainda a fls. 140, 141, 143, 147 e 149.
+Ação principal precedida de medida cautelar entre as mesmas partes, pelos mesmos fundamentos de fato e de direito, em que houve concessão de liminar de busca e apreensão (tudo nos termos do artigo 842, § 3º, do Código de Processo Civil), executada por oficiais de Justiça e dois peritos judiciais nomeados para vistoria. Na ação cautelar, houve citação e contestação pela ré e oportunidade para réplica pela autora. Após, houve realização de laudo pericial e respectivas complementações a partir da juntada de novos documentos pela empresa requerida e manifestações das partes (fls. 469/489, 538, 540, 592/594, 642/644 e 663/666, tudo do apenso medida cautelar).
+É o relatório.
+DECIDO.
+Prescinde o feito dilação probatória, pois a matéria em debate dispensa a dilação probatória requerida pela ré, sem utilidade ao convencimento do Juízo.
+Por primeiro, a matéria preliminar deve ser rejeitada. Ainda que pessoa jurídica estrangeira a autora, não há que se falar em ausência da capacidade de ser parte ou de estar em Juízo, à vista dos documentos carreados aos autos com a inicial da ação principal e da medida cautelar. Ademais, considera-se regular a representação processual da autora, pessoa jurídica estrangeira, outorgada no Estado (país) de origem, traduzida para o vernáculo e reconhecida por autoridade consular brasileira.
+Igualmente, no caso em tela, a legitimidade e o interesse de agir estão, a princípio, evidenciados pela narrativa dos fatos na petição inicial e pelos documentos juntados; assim como o pedido indenizatório fundado em violação de direito do autor mostra-se certo e determinado, além de juridicamente possível, ante a ausência de vedação legal nos termos propostos.
+Segundo esmerada doutrina, `causa petendi` é o fato ou o conjunto de fatos suscetível de produzir, por si, o efeito jurídico pretendido pelo autor (STJ ? 4ª Turma, Resp 2.403 ? RS, rel. Min. Sálvio de Figueiredo, j. 28.8.90, in, Código de processo Civil e legislação processual em vigor, Theotônio Negrão, nota 8a ao artigo 282, p.348, 30ª).
+E, no caso em tela, não podem ser considerados os fatos (eventuais atos ilícitos) narrados na petição inicial como não apresentados ou negar a possibilidade de comprovação efetiva, inexistindo, portanto, violação da teoria da substanciação.
+Outrossim, da leitura da petição inicial verifica-se que dos fatos e fundamentos jurídicos decorre logicamente o objeto da lide, e estando a inicial clara, permitindo a total defesa, não há falar em inépcia.
+Por fim, ausente qualquer das hipóteses do artigo 70, do Código de Processo Civil, seja de direito de regresso decorrente de Lei ou de contrato, não há que se falar em denunciação da lide.
+No mais, as demais alegações suscitadas na ação principais e na cautelar estão mesmo superadas à vista das conclusões apresentadas no laudo pericial e suas complementações, cujo trabalho dos experts nomeados pelo Juízo foram conclusivos acerca da utilização pela ré de programas de computador com violação de direitos autorais.
+Nesse contexto, são as ações cautelar e principal por violação de direito autoral, nos termos das Leis nºs 9.609 e 9.610/98, para simultâneo julgamento.
+Na medida cautelar foi concedida liminar de busca e apreensão de [software] programas de computador; essa diligência foi procedida concomitantemente com perícia de vistoria produzida por técnicos nomeados para essa finalidade de coadjuvar o trabalho dos Oficiais de Justiça incumbidos da busca e apreensão (veja-se a auto respectivo de fls. 439/442, dos autos da medida cautelar em apenso).
+Nesse tipo de ação a prova documental e pericial sobressai em importância à prova puramente oral, porque é assim, por documento e perícia, que se verificará se um determinado produto [software utilizado nos computadores da empresa requerida] é legítimo ou não; se o usuário dispõe de licença de uso ou nota fiscal comprobatória da origem lícita.
+Os peritos examinaram nada menos que 19 computadores instalados em vários setores de operação e administração da empresa ré; nessas unidades (hardwares) foram encontrados 30 programas instalados (softwares denominados: Windows 98, Windows XP, Microsoft Office versões 2003, 2002 e 2000) de que a autora é titular por direito autoral; 09 deles (05 Windows XP e 04 Microsoft Office 2000) ? especialmente veja-se fls. 642/644, do apenso medida cautelar, não dispunham de prova de origem lícita, conclusão apurada mesmo após a empresa requerida apresentar suas notas fiscais de compra e licenças adquiridas que possuía.
+Segundo a conclusão da perícia realizada (tudo conforme laudo pericial e suas complementações a fls. 469/489, 538, 540, 592/594, 642/644 e 663/666, do apenso medida cautelar), a prova documental exibida pela ré não contém licença de uso nem notas fiscais de aquisição dos (09) programas instalados nos computadores acima indicado, quais sejam: (05 Windows XP e 04 Microsoft Office 2000 ? fls. 642/644). E, instada a exibir a prova documental, a ré insistiu na repetição de teses defensivas e impugnações ao trabalho pericial genéricas e sem fundamento anteriormente já apresentadas, mesmo após as retificações e complementações ao laudo pericial realizadas pelos senhores experts.
+Nesse panorama, argumentou-se que houve supressão e equívoco na menção de licenças dos programas Microsoft Office 2002 e 2000 e necessidade de novas diligências na empresa, todavia estas alegações cedem em face do robusto, seguro e criterioso trabalho pericial realizado, cujas críticas não abalam a conclusão de que computadores com programas [sem licença comprovada] foram encontrados e vistoriados nas dependências da ré, a teor da manifestação contundente dos peritos a fls. 663/665, até porque ainda que se considerada, em tese, a regularidade de todas as licenças dos programas Microsoft Office 2002 e 2000 conforme a tese defensiva, isto não excluiria a violação de direitos comprovada pela utilização dos demais programas denominados Microsoft Windows XP sem licença ? cópias de softwares ilegais, de origem não comprovada.
+Está suficientemente configurado o nexo de causalidade necessário ao reconhecimento da violação à propriedade intelectual em que se funda a autora para este pleito de direito autoral, conforme a disciplina da Lei 9.609/98.
+Sobre a prova pericial esta foi levada a efeito por Oficiais de Justiça que têm fé pública e por peritos judiciais nomeados para precisar a ocorrência de violação de direito autoral, tudo nos termos do artigo 842, § 3º, do Código de Processo Civil. 
+Ademais, acerca da reciprocidade de direitos autorais entre o Brasil e os Estados Unidos da América (EUA), lembre-se que a Convenção de Berna, da qual os dois países são signatários, põe pá de cal sobre a proteção jurídica de nacionais e estrangeiros. Nesse sentido, veja-se: RT 760/151.
+Em suma, as ações cautelar e principal são procedentes, para confirmação da liminar, e que a ré se abstenha de usar programas de computação de propriedade da autora Microsoft de origem não comprovada.
+A indenização reclamada pela autora comporta acolhimento, é conseqüência da procedência do pleito de defesa de seu direito de propriedade intelectual. Entretanto, sem condições e elementos atuais de convicção acerca do dano material e sua extensão, sua estimação fica diferida para oportuna liquidação por arbitramento, na forma da lei.
+Ante o exposto, JULGO PROCEDENTE as ações cautelar e principal movidas por MICROSOFT CORPORATION contra PARABOR LTDA. Confirmo a liminar e concedo tutela antecipada para que a ré se abstenha de usar os programas ilegais de computador pertencentes à autora que foram vistoriados, sob pena de responsabilidade e multa diária de um salário mínimo, mediante execução de obrigação de não fazer, nos termos do artigo 461, do Código de Processo Civil. E, ainda, condeno a ré no pagamento de indenização pelo uso indevido de cópias dos programas de computador apurados na perícia, cujos valores deverão ser apurados em liquidação de sentença por arbitramento.
+Ainda, a parte vencida arcará com as custas, despesas processuais e honorários advocatícios de dez por cento do valor da causa atualizado.
+P.R.I.
+
+ São Paulo, 30 de abril de 2010.
+
+EMERSON NORIO CHINEN
+JUIZ DE DIREITO

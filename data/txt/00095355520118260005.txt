@@ -1,0 +1,58 @@
+
+
+SENTENÇA
+
+
+Processo nº:0009535-55.2011.8.26.0005 - Procedimento Ordinário
+Requerente:Paulo Amaru Junior Me
+Requerido:Serasa S.A.
+
+
+
+Vistos.
+
+Paulo Amaru Junior Me, qualificada nos autos, ajuizou a presente Ação Declaratória de Inexistência de Relação Jurídica em face de Serasa S.A., também qualificada, alegando, em síntese, que contratou serviço de pesquisa junto ao banco de dados da ré, em 08/02/2006, tendo recebido nome de usuário e senha para acesso; utilizou o serviço normalmente, com média mensal de gastos de R$ 409,72; todavia, recebeu fatura com vencimento em 05/10/2010, no montante de R$ 2.674,10, bem como outras duas, com vencimentos em 05/11/2010, nos valores de R$ 605,63 e 332,25, as quais impugna. Aduz que houve consultas ao CPF 99999999999, o qual não existe (consultas essas repetidas duzentas e trinta vezes em curto período, entre 06 e 18 de setembro de 2010), bem como que somente o titular da autora tem a senha de acesso ao sistema da ré e não a forneceu a ninguém, de sorte que houve falha no sistema da ré. Contatou a requerida por diversas vezes, sem solução, de sorte que o serviço foi cancelado e teve seu nome negativado.
+
+Ademais, discorre acerca da responsabilidade da requerida em oferecer serviços com qualidade e segurança, esclarecendo que a autora se trata de consumidora final dos serviços, de sorte que requer a inversão do ônus da prova.
+
+Dispõe-se ao depósito em Juízo do valor da média mensal, com relação aos meses de outubro e novembro de 2010, e, com tais ponderações, requer antecipação de tutela para o cancelamento dos apontamentos desabonadores em seu nome e a final procedência da demanda, com condenação ao pagamento de indenização por danos morais, que estima em R$ 10.000,00 (dez mil reais).
+
+A petição inicial veio acompanhada dos documentos de fls. 15/72.
+
+Deferiu-se a antecipação de tutela, conforme r. decisão de fl. 73.
+
+Ofício-resposta da Serasa às fls. 83/84.
+
+Citada, a requerida apresentou contestação às fls. 90/106, acompanhada dos documentos de fls. 107/158. Alega, em síntese, que a autora não é consumidora, uma vez que utiliza os serviços da ré para desenvolvimento de outra atividade negocial. Ademais, a autora firmou contrato ciente de todas as condições e valores dos produtos, constantes de tabela de preços para cada consulta. Aduz que ao cliente é fornecida senha padrão, mas, quando do primeiro acesso, o sistema exige troca de senha, que passa a ser de conhecimento exclusivo do cliente e/ou seus prepostos, exclusiva para meio automatizado, razão pela qual refuta a hipótese de invasão por "hackers", sendo de responsabilidade da autora a guarda de logon e senha.
+
+Esclarece que consta dos extratos o CPF 99999999999 quando há utilização do produto denominado IDENTIFICA, mecanismo de pesquisa por outros dados cadastrais (como nome), caso o cliente não possua número de CPF a pesquisar, na tentativa de localização do CPF.
+
+Procedeu ao bloqueio do serviço por motivo de segurança, tendo em vista que o número de consultas foi superior à média da autora; contudo, ao informar o procedimento para desbloqueio, a autora solicitou-o, reconhecendo o débito. Aduz que atendeu prontamente a requerente e somente procedeu à inserção de seu nome nos cadastros dos órgão de proteção ao crédito face ao inadimplemento.
+
+Sustenta ausência dos requisitos para o dever de indenizar e, com tais ponderações, requer a improcedência da demanda ou arbitramento de indenização em quantum equitativo.
+
+Houve réplica (fls. 161/169). Alega que é consumidora final, posto que nunca repassa aos seus clientes as pesquisas obtidas junto à ré. Nega que tenha utilizado o sistema IDENTIFICA, uma vez que um dos dados que exige de seus clientes é o número de CPF, sendo a consulta por este dado mais vantajosa financeiramente. Ademais, depreende-se dos extratos trazidos pela requerida que quase todos os nomes impugnados foram consultados mais de uma vez, havendo inclusive nome consultado por oito vezes e nome consultado por seis vezes no mesmo dia, o que nega, posto que sabia que cada consulta seria cobrada. Esclarece ainda que a grande maioria de sua clientela é composta por pessoas jurídicas, não por pessoas físicas como as que foram objetos das consultas impugnadas.
+
+Por fim, nega que tenha reconhecido o débito perante a ré e aduz que pleiteou o desbloqueio do serviço porque dele necessita. Ademais, pondera que o documento que afirma tais fatos foi produzido unilateralmente pela requerida e requer a final procedência da demanda.
+
+Houve audiência de tentativa de conciliação, infrutífera, consoante se depreende do termo de fls. 177, oportunidade em que as partes declararam não haver outras provas a produzir, tendo-se determinado a conclusão dos autos para sentença.
+
+É o que de relevante havia a relatar.
+
+Passo a fundamentar e a decidir:
+
+O feito comporta julgamento antecipado, uma vez que o deslinde da demanda independe da produção de outras provas, além daquelas de natureza documental já anexadas aos autos.
+Independentemente da discussão da natureza da relação estabelecida entre as partes, de consumo ou não, o fato é que a autora sustenta fato negativo, de que não utilizou os serviços na forma cobrada. 
+O correspondente fato positivo, da efetiva utilização dos serviços, tinha que ser comprovado pela requerida. 
+Tenho que a mesma não comprovou tal fato de forma satisfatória, eis que somente a relação apresentada, impugnada, sem outros elementos, não é suficiente a tal comprovação, salvo melhor Juízo. 
+Com efeito, a requerida confirma a fls. 98 que a utilização fugiu ao padrão da requerente, motivo pelo qual foi procedido o bloqueio do serviço. Tal fato é elemento que confere verossimilhança à negativa da requerente. A própria requerida desconfiou da correção de seu sistema.
+No entanto, a procedência da demanda é apenas parcial para o fim de afastar a cobrança e cancelamentos desabonadores, como consequência da declaração de inexistência de relação jurídica especificamente no que pertine aos valores que suplantam a média dos meses antecedentes ao impugnado. 
+Danos morais não são reconhecidos, posto que somente nesta oportunidade há a declaração de que o débito não é devido. Logo, até então não se poderia falar em abusividade.
+Ante o exposto e o que mais dos autos consta, JULGO PARCIALMENTE PROCEDENTE o pedido inicial formulado por Paulo Amaru Junior Me em face de Serasa S.A. para declarar a inexigibilidade das notas fiscais elencadas na petição inicial, tornando definitiva a antecipação da tutela concedida. Poderá a requerida emitir novas cobranças em valores mensais que representem a média aritmética dos doze meses antecedentes às cobranças ora declaradas inexigíveis, nos termos da manifestação da requerente.
+Ambas as partes decaíram de parte do pedido, de sorte que ficam condenadas no pagamento de custas, despesas processuais e honorários advocatícios, que arbitro em 10% do valor inicialmente conferido à causa, na proporção de 50% para cada um.
+Anote-se. Publique-se. Registre-se. Intimem-se. 
+
+São Paulo, 01 de dezembro de 2011.
+
+Maria Cecilia Monteiro Frazão
+Juíza de Direito

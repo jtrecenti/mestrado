@@ -1,0 +1,80 @@
+
+
+SENTENÇA
+      C O N C L U S Ã O
+Em 12 de abril de 2013, faço estes autos conclusos à MMª. Juíza de Direito da Quadragésima Primeira Vara Cível Central, Drª. Patrícia Maiello Ribeiro Prado. _____________,##0¢. Escrevente, subscrevi.
+
+Processo nº:0136822-70.2012.8.26.0100
+Classe - AssuntoProcedimento Sumário - Programa de Computador
+Requerente:David Trevisan
+Requerido:Microsoft Corporation e outros
+
+
+
+Juiz(a) de Direito: Dr(a). Patricia Maiello Ribeiro Prado
+
+VISTOS.
+
+DAVID TREVISAN, qualificada nos autos, propôs a presente ação de obrigação de fazer, sob o rito ordinário, contra GOOGLE BRASIL INTERNET LTDA. E outros, qualificada nos autos, alegando, em síntese, que foi ofendido em sua honra em virtude da manutenção do envio de diversos e-mails ofensivos e com conteúdo ilícito por meio de sistema disponibilizado pelos réus. Notificou as rés para que fornecessem os dados cadastrais dos titulares das contas de e-emails, todavia, as rés permaneceram silentes. Assim, as informações inverídicas e ofensivas a seu respeito chegaram ao conhecimento de terceiros, causando vexame, humilhação e constrangimento à autora. Assim, requer a procedência do pedido para condenar a ré ao cumprimento da obrigação de fazer consistente em fornecer as informações necessárias para a identificação dos titulares das contas de e-mails utilizadas para o envio das mensagens eletrônicas. 
+
+Com a inicial, vieram aos autos os documentos a fls. 30/190. 
+
+A tutela antecipada foi deferida a fls. 192/193. Interposto recurso de agravo de instrumento, foi negado provimento a ele (fls. 734/736). 
+
+Citadas as rés (fls. 399/403), ofereceram contestação a fls. 200/225, 371/382 e 404/414, 435/456. A corré Telefônica deixou de apresentar resposta no prazo legal.
+
+Em sua defesa, a corré Microsoft, em preliminar, argüiu a carência da ação por ilegitimidade de parte passiva e a impossibilidade jurídica do pedido. No mérito, alega que a ré não é responsável pela administração do correio eletrônio ?hotmail?, o que é realizado pela Microsoft Corporation. Acrescenta que por serem empresas distintas, sem qualquer vinculação administrativo e/ou jurídica não tem acesso ao banco de dados da empresa Microsoft corporation. Assim, qual não pode ser compelida ao cumprimento da obrigação de fazer em questão. Requer a extinção do processo sem apreciação do mérito; e, subsidiariamente, a improcedência do pedido. Juntou documentos a fls. 95/152.
+
+A parte autora manifestou sobre a contestação apresentada pela corré Microsoft a fls. 638/647, juntando documentos.
+
+A fls. 667, foram homologados os acordos formalizados entre a parte autora e as corrés Vivo (fls. 621/622), Net (fls. 623/624), Google (fls. 632/633) e Globo (fls. 665/666).
+
+Em atenção ao despacho de fls.667, a corré Microsoft manifestou-se a fls. 679 e a parte autora a fls. 747/753.
+
+É o relatório.
+
+Fundamento e decido.
+
+O feito comporta julgamento no estado em que se encontra, pois os fatos narrados envolvem questões de direito, que não dependem de dilação probatória, bem como as partes concordaram com o julgamento no estado em que se encontra. 
+
+A preliminar de ilegitimidade de parte passiva em relação à corré Microsoft Informática Ltda. merece ser acolhida, como se verá.
+
+Tal se explica, pois o contrato firmado entre as partes é claro esclarecer o contratante responsável pela administração da conta de e-mail hotmail, em sua cláusula 13 (fls. 480). 
+
+Igualmente, o contrato social da corré acostado a fls. 458/469 prevê como sendo seu objeto social ?a prestação de serviços, treinamento e consultoria relacionados a programas e sistemas de computador; a prestação de serviços de veiculação e divulgação de textos e anúncios pela internet; c) a aquisição, desenvolvimento, comercialização e distribuição de programas e sistemas de computador, nos limites permitidos pela legislação de informática em vigor no país; e a participação em outras sociedades como sócia ou acionista.? 
+
+Inequívoco, portanto, que o objeto social e atividade empresarial desenvolvida pela corré não se confunde com aquela desempenhada pelo administrador da conta de e-mail, Microsoft Corporation. 
+
+E, por consequinte, inegável que a corré não teria acesso ao banco de dados cadastrais dos titulares das contas de e-mail e, ainda, por não ter firmado qualquer contrato de prestação de serviço com o usuário, ainda que remotamente obtivesse acesso a tais dados por qualquer meio, não poderia divulgá-lo, nem ser compelida a tanto, ainda que por ordem judicial.
+
+Em verdade, a corré, embora integrante do mesmo grupo econômico da empresa Microsoft Corporation, não participa da relação jurídica consistente na prestação de serviços de conta de acesso a mensagens eletrônicas, logo, nenhum vínculo há entre ela e a parte autora.
+
+Por derradeiro, ressalto que a presente demanda não tem por objeto o ressarcimento de danos advindos do uso indevido da conta de e-mail, mas sim o cumprimento de uma obrigação de fazer, que, como tal, somente pode ser exigida daquele que se obrigou a ela de alguma forma.
+
+A solidariedade prevista na legislação consumerista somente se aplica às hipóteses de responsabilidade civil por danos decorrentes do vício e/ou fato do produto e/ou serviço (art. 28 do CDC).
+
+Conclui-se, portanto, que as partes não possuem qualquer vínculo jurídico de direito material hábil a fazer nascer o vínculo processual, sendo de rigor o acolhimento da preliminar e, por conseguinte, a extinção do processo em relação a ela.
+
+Passo à apreciação do mérito em relação à corré Telefônica.
+
+A ré deixou de apresentar resposta no prazo legal, marcando-se revel e fazendo incidir a presunção de veracidade dos fatos alegados, nos termos do artigo 319, do CPC.
+
+Incontroversa, portanto, a obrigação a ela imputada de fornecer os dados cadastrais e IP'S dos titulares das contas de e-mail indicadas na inicial e administradas por ela.
+
+Para além da presunção, extrai-se dos autos que a corré Teelefônica forneceu os dados solicitados a fls. 365/366 e 685/687, dando integral cumprimento à liminar deferida nos autos e, por conseguinte, cumprindo a obrigação de fazer em questão.
+
+Frise-se que a impossibilidade de se identificar corretamente o autor da ofensa por serem as informações constantes de seu banco de dados insuficientes ou inverídicas não modifica o dever da corré, qual seja: fornecer as informações que detém em seu banco de dados e declaradas pelo suposto titular.
+
+Eventual responsabilidade da corré pela contratação a partir de dados falsos informados por terceiros deve ser apurado em ação própria, já que esta demanda restringe-se à obrigação de fazer. Não foi formulado qualquer pedido indenizatório e as perdas e danos pleiteadas decorrem da conversão da obrigação de fazer não cumprida. Desse modo, não há que se apreciar ou discutir tal responsabilidade.   
+
+
+Diante do exposto, acolho a preliminar de ilegitimidade de parte passiva da corré Microsoft Informática Ltda. e, por conseguinte, julgo extinto o processo, sem resolução do mérito, com fulcro no art. 267, inciso VI, do Código de Processo Civil. Em razão da sucumbência, arcará a autora com o pagamento das custas e despesas processuais, além dos honorários advocatícios, que fixo, por equidade, em R$ 1.500,00 a favor da corré Microsoft Informática Ltda., nos termos do art. 20, §4º, do Código de Processo Civil.
+
+E, ainda, com fulcro no artigo 269, inciso I, do Código de Processo Civil, JULGO PROCEDENTE o pedido inicial, tornando definitiva a liminar deferida, para condenar a corré Telefônica a fornecer os dados cadastrais disponíveis dos usuários responsáveis pelas contas de e-mail por ela administradas e indicadas na inicial (fls. 25/29), dando por cumprida a obrigação de fazer e extinta a execução desta. Condeno a corré Telefônica ao pagamento das custas e despesas processuais, bem como honorários advocatícios que fixo, por equidade, em R$ 1.500,00, nos termos do artigo 20, §3º, do Código de Processo Civil.
+P.R.I.
+
+São Paulo, 03 de maio de 2013.
+
+
+Patrícia Maiello Ribeiro Prado
+        Juíza de Direito

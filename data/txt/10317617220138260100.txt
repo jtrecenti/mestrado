@@ -1,0 +1,54 @@
+
+
+SENTENÇA
+
+Processo nº:1031761-72.2013.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Direito de Imagem
+Requerente:TAM - Linhas Aéreas S/A
+Requerido:Google Brasil Internet Ltda e outro
+
+
+
+
+Juiz(a) de Direito: Dr(a). Helmer Augusto Toqueton Amaral
+
+    C O N C L U S Ã O
+Em 06 de setembro de 2013, faço estes autos conclusos ao MM. Juiz de Direito da 8ª Vara Cível, Dr. HELMER AUGUSTO TOQUETON AMARAL. 
+Eu,      , Carolina Nobrega Zamataro, escrevente técnico judiciário ,  subscrevi.
+
+
+Vistos.
+
+TAM Linhas Aéreas S/A, qualificada nos autos, ajuizou a presente Ação de Obrigação de Fazer em face de Google Brasil Internet LTDA., NET Serviços de Comunicação S/A, TIM Celular S/A, Microsoft Informática LTDA., Telemar Norte Leste S/A e Paintweb Internet LTDA., também qualificadas. Alegou em síntese: ter tomado conhecimento de páginas eletrônicas nas quais terceiros anônimos publicam conteúdo inverídico e ofensivo, denegrindo sua imagem e utilizando indevidamente seu nome e marca; ter sido determinada, por ordem judicial, a remoção de tais páginas do ar bem como o fornecimento de dados para identificação do usuário anônimo; terem sido criadas, em razão da demora para retirada de tais páginas do ar, ?páginas espelhos? de responsabilidade das empresas Twitter, Facebook e Google; ter proposto contra tais empresas nova ação, na qual, após o deferimento de medida liminar, as rés informaram os dados que possuíam em relação ao usuário anônimo; ter sido constatado em laudo técnico que as conexões utilizadas para perpetuação das páginas eram fornecidas pelas rés Telemar, NET e Paintweb, e que os e-mails utilizados são providos pela Microsoft e Google, bem como que o número telefônico atrelado a tais contas é de responsabilidade da TIM, de modo que tais empresas devem cooperar com a autora para que o usuário anônimo seja identificado. Requereu a procedência. Juntou documentos.
+As rés Paintweb, Net, Tim e Microsoft foram excluídas do polo passivo pela decisão de fls.220, prosseguindo a demanda apenas em relação ao Google e à Telemar. 
+Citadas, as rés contestaram (fls. 332/346 e 347/354). Google Brasil Internet LTDA. alegou em síntese: ser inepta a petição inicial; ser o ?Gmail? um simples provedor de correio eletrônico, e não provedor de acesso, não havendo fundamento para a quebra do sigilo de dados de seus usuários; não poder divulgar as informações solicitadas sem ordem judicial que assim o determine; ser solicitada, quando da criação de uma ?Conta Google? para e-mail apenas o nome da pessoa, não sendo possível, por isso, o fornecimento de RG, CPF, endereço ou telefone; ser o fornecimento do Internet Protocol (IP) suficiente para a identificação do usuário. Requereu a improcedência. Juntou documentos. Telemar Norte Leste S.A (fls.347 e ss.)não se opôs ao fornecimento das informações requeridas, porém defendeu a necessidade de ordem judicial para fazê-lo, além da impossibilidade de conversão da obrigação de fazer em perdas e danos. Juntou documentos. 
+Houve réplica às contestações (fls. 358/369 e 370/378)
+É o relatório.
+Decido.
+Rejeito a preliminar de inépcia da petição inicial, vez que esta preenche de forma suficiente os requisitos do artigo 282 do Código de Processo Civil. 
+Conheço diretamente do pedido, nos termos do art. 330, inciso I, do Código de Processo Civil, por se tratar de questão preponderantemente de direito, já se encontrando os autos devidamente instruídos naquilo que diz respeito aos fatos.
+Inegável que a Constituição Federal garante expressamente o direito à liberdade de expressão e a livre manifestação do pensamento, através de seu artigo 5º, incisos IV e IX, in verbis:
+?Art. 5º Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos seguintes:
+(...)
+IV - é livre a manifestação do pensamento, sendo vedado o anonimato;
+(...)
+IX - é livre a expressão da atividade intelectual, artística, científica e de comunicação, independentemente de censura ou licença;?
+Ocorre que, ao passo que nossa Constituição prestigia os direitos supramencionados, ela também reconhece a importância da inviolabilidade da intimidade, da vida privada, da honra e da imagem das pessoas, assegurando o direito à indenização caso ocorra alguma violação a tais garantias (art. 5º, inciso X, Constituição Federal).
+Já é pacifico que a proteção aos direitos de personalidade se estende à pessoa jurídica, pois sua honra, imagem e reputação também estão sujeitas a lesões. 
+Assim, faz-se importante ressaltar que toda manifestação deve ser divulgada com responsabilidade e observância aos demais direitos de terceiros, não podendo apenas amparar-se na premissa da liberdade de expressão como se tal legitimasse todo e qualquer ato. Não o faz. 
+Havendo excesso na publicação ou divulgação, por qualquer meio público, bem como havendo na divulgação conteúdo que viole bens jurídicos de terceiros, é cabível a aplicação de medidas que coíbam tal prática.
+No caso concreto, apenas se pleiteia o fornecimento dos dados relativos ao usuário que, valendo-se de ferramentas disponibilizadas pelas rés, externaram manifestação que a autora considera exagerada, inverídica e ofensiva. E não sendo tal informação passível de simples divulgação sem ordem judicial porque protegida por sigilo, há necessidade de se propor ação judicial para que sejam fornecidos os dados de cadastro do usuário. E apenas os dados disponíveis, porque ausente prescrição normativa sobre exatamente quais dados deveriam ser solicitados, ou mesmo o lapso temporal de manutenção das informações. Inviável, inclusive, e justamente por isso, qualquer aplicação do art. 461 do CPC. Ora, se não há precisão certa e determinada da obrigação, não há como se exigir exato cumprimento, inviabilizando conversão, consequentemente. Se dano há relaciona-se a quem praticou o ato lesivo. E este seria, em tese, o usuário. Não as rés. Lembre-se, inclusive, o art. 248 do Código Civil. No mais, não há norma legal determinando o sigilo de processo público, razão pela qual não há que se falar em abstenção ou guarda sigilosa das solicitações aqui realizadas.
+Logo, as rés deverão fornecer à autora as informações e dados relativos ao usuário que possuam em seus arquivos.
+Confira-se, inclusive, a jurisprudência do Egrégio Tribunal de Justiça de São Paulo: ?Agravo de instrumento. Obrigação de fazer. Vídeos postados no sítio eletrônico Youtube. Conteúdo atentatório à imagem e honra dos agravantes. Decisão que determinou a retirada dos vídeos, bem como o fornecimento de dados que permitam a identificação daqueles que os postaram. Possibilidade. Direito à imagem e à honra que, no caso, prevalecem sobre o direito à liberdade de expressão, cujo anonimato é vedado. Art. 5º, inciso IV, da CF. Agravante que não pode realizar a defesa de direito constitucional de terceiros, por não possuir legitimidade extraordinária para tanto. Precedentes do STJ. Decisão mantida. AGRAVO DESPROVIDO?. (Agravo de Instrumento nº 0066999-18.2012.8.26.0000, 7ª Câmara de Direito Privado, Relator Miguel Brandi).
+Isto posto, julgo parcialmente procedente a demanda, na forma do art. 269, inciso I, do Código de Processo Civil, confirmando a liminar concedida, para determinar que as rés forneçam à autora as informações de cadastro e de identificação do usuário como solicitadas e indicadas às fls. 30 da petição inicial. A ré Telemar deverá fornecer os dados que possuir acerca do endereço IP 189.12.52.246 e a ré Google todos os dados cadastrais, registros eletrônicos de criação e acesso e todos os IPs, com data e horários de acesso, relativos às contas de e-mail ?oaviadoranonimo@gmail.com? e ?marcel.lippelt@gmail.com?. Rejeitadas as demais pretensões na forma anteriormente exposta. Em se tratando de procedimento judicial necessário, arcará apenas a requerente com as custas e despesas processuais. Cada parte arcará com os honorários de seu patrono. Mantido o valor da causa para fins recursais. Comunique-se o sentenciamento nos autos do agravo.
+
+P.R.I.
+
+São Paulo, 25 de setembro de 2013.
+
+
+
+Helmer Augusto Toqueton Amaral
+        Juiz de Direito
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

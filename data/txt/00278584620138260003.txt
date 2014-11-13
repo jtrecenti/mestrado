@@ -1,0 +1,79 @@
+
+
+SENTENÇA
+
+Processo Físico nº:0027858-46.2013.8.26.0003
+Classe - AssuntoProcedimento Ordinário - Perdas e Danos
+Requerente:Sul América Companhia Nacional de Seguros
+Requerido:Aerocargas Transportes Logística Ltda e outro
+
+
+
+
+Juiz(a) de Direito: Dr(a). Fábio Fresca
+
+Vistos.
+
+SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROSajuizou a presente ação regressiva em face deAEROCARGAS TRANSPORTES E LOGÍSTICA LTDA.eVRG LINHAS AÉREAS S.A.,alegando que firmou contrato de seguro com a empresa ?SIMM  SOLUÇÕES INTELIGENTES PARA MERCADO MÓVEL DO BRASIL S.A.?, por meio do qual se obrigou a garantir todas as avarias decorrentes do extravio de cargas. Alega que a sua segurada ?SIMM? contratou com as empresas rés e que, em decorrência de extravios supostamente causados por essas, teve de acionar a autora, a qual sub-roga-se na presente demanda nos direitos de sua segurada. Requer a condenação solidária das rés ao pagamento do valor de R$ 24.367,20. Com a inicial vieram documentos (fls. 39/116).
+Citada (fls. 125), a corréAEROCARGAS TRANSPORTES E LOGÍSTICA LTDA.apresentou contestação (fls. 128/141) alegando, preliminarmente, a falta de interesse de agir. No mérito, alega a ausência do direito de regresso, eis que o contrato de seguro sequer cobria os riscos de extravio, tendo a seguradora efetuado o pagamento por mera liberalidade. Com a contestação vieram documentos (fls. 144/151).
+Citada (fls. 121), a corréVRG LINHAS AÉREAS S.A.apresentou contestação (fls. 153/167) alegando, em síntese, o não cabimento da ação regressiva, tendo em vista a responsabilidade objetiva da autora pelos extravios ocorridos. Com a contestação vieram documento (fls. 168/190).
+Houve réplica (fls. 196/235), acompanhada de documentos (fls. 236/347). Manifestação da ré AEROCARGAS às fls. 352/365.
+É o relatório.
+
+DECIDO.
+
+O presente feito comporta julgamento antecipado (artigo 330, inc. I do Cód. Proc. Civil), por se tratar de matéria de direito, e, de fato, provada por documentos.
+Inicialmente, afasto a preliminar de falta de interesse de agir.
+O interesse de agir configura-se pela necessidade da provocação somada a adequação da via eleita. No caso, ambos os elementos estão presentes: a necessidade decorre da resistência das requeridas em ressarcir a requerente, e a via eleita está em conformidade com o bem da vida pretendido. 
+No mérito, é incontroverso que a autora firmou contrato de seguro com a empresa ?SIMM ? SOLUÇÕES INTELIGENTES PARA MERCADO MÓVEL DO BRASIL? (fls. 76/84), por meio do qual se obrigou a garantir todas as avarias que viessem a sofrer as cargas transportadas no ramo de atividade da segurada. 
+Também incontroverso que a segurada contratou diversas empresas (dentre as quais, as requeridas) para o transporte de mercadorias, conforme indicam os documentos de fls. 86/90. 
+O ponto controvertido reside na possibilidade da demanda regressiva em face das rés, tendo em vista o suposto extravio das mercadorias a que essas se comprometeram a transportar.
+Para tanto, é fundamental analisarmos os laudos de vistoria técnica, realizados conjuntamente com o transportador destinatário e a segunda ré (subcontratada da primeira ré), no qual se constatou a ausência de carga quando da chegada no aeroporto de destino (fls. 94 ? ?falta de volume?). Segundo aponta a vistoria, faltavam determinados produtos que eram objeto do contrato de transporte, totalizando um prejuízo no valor de R$ 24.367,20.
+O certificado de vistoria de nº 009.777 (fls. 96/101), emitido por empresa contratada especificamente para tal apuração, confirma os prejuízos ocorridos, e pontua:
+
+?Histórico da ocorrência
+Trata-se de falta de mercadoria, constatada em 01.12.2012 no ato da retirada dos volumes nas dependências do transportador aéreo Gollog, no Município de Porto Velho/R.
+Conforme informações fornecidas pelo transportador rodoviário subcontratado Girassol Transportes, no ato da coleta dos volumes junto ao transportador aéreo Gollog, percebeu-se que faltavam dois volumes contendo 10 caixas com 160 unidades diversas, e após conferência constataram que as falta eram referentes o presente embarque.
+(...)
+Segundo relato dos responsáveis, a mercadoria do referido carregamento não fora apresentada para retirada. Verificamos a devida emissão das cartas protesto e do Auto de Vistoria conjunta elaborado pelo transportador aéreo, o qual relaciona as faltas. Aproveitamos e coletamos todos os documentos e as informações pertinentes restantes disponíveis. Formalizamos a nossa visita e encerramos a nossa participação no local.?
+
+É importante ressaltar que o extravio das mercadorias foi devidamente comunicado às empresas transportadoras, mediante a expedição dos devidos protestos de fls. 103/108. 
+Como pode ser observado, tanto os laudos de vistoria, quanto as cartas de protesto encaminhadas às rés, tornam incontroversa a responsabilidade dessas pelo extravio das mercadorias. Note-se que tal fato acarretou prejuízos totais no valor de R$ 24.362,20 (fls. 97), pagos pela seguradora requerente à empresa segurada (fls. 110/111).
+Com o pagamento da indenização, a seguradora-autora sub-rogou-se nos direitos da segurada, conforme o disposto no artigo 786 do Cód. Civil:
+
+?Art. 786. Paga a indenização, o segurador sub-roga-se, nos limites do valor respectivo, nos direitos e ações que competirem ao segurado contra o autor do dano?.
+
+ Em que pese os esforços da primeira requerida, a Cláusula 16 do Contrato de Seguro (?Cláusula de Isenção de Sub-Rogação do Direito de Regresso? ? fls. 80) não se aplica ao presente caso, já que abrange tão somente aos percursos terrestres, conforme expressa redação do dispositivo:
+
+?Fica estendido e acordado que esta Seguradora deixará de exercer o direito de sub-rogação contra o transportador rodoviário, exceto nos casos de dolo, má fé, culpa grave e negligência do transportador, exclusivamente para os embarques com valor de até o equivalente em Reais de R$ 2.000.000,00 (Dois Milhõe de Reais), em conformidade com a Cláusula nº 503 ? Especifica de isenção de sub rogação do direito de regresso 
+Essa DDR é extensa aos percursos terrestres?
+
+Também não merece prosperar o argumento de que o contrato de seguro não previa indenização por extravio, eis que a cláusula de ?riscos cobertos? expressamente prevê (fls. 274): 
+
+?1. Riscos Cobertos
+1.1. A presente cobertura garante, ao Segurado, os prejuízos que venha a sofrer em consequência de todos os riscos de perda ou dano material sofridos pelo objeto segurado, descrito na apólice ou averbações, em consequência de quaisquer causas externas, exceto as previstas na Cláusula 2?
+
+Se a seguradora requerente se comprometeu a cobrir todos os riscos da empresa segurada, é evidente que nele estão abarcados os decorrentes de mercadoria extraviada, como é o caso. 
+E, ao contrário do que alegam as requeridas, a indenização pelo extravio de mercadorias no transporte aéreo não é limitada aos termos do Código Brasileiro de Aeronáutica.
+O extravio das mercadorias, apurados na chegada e entrega ao destinatário, por certo resultaram, no mínimo, da negligência das transportadoras rés. E os limites indenizatórios do Código Brasileiro da Aeronáutica - Lei nº 7.565/86, nos termos do artigo 246 e seguintes da lei, não se aplicam a partir do momento em que se inserir a responsabilidade decorrente de dolo ou culpa, dentro da própria previsão legal do artigo 248 desse estatuto. Neste sentido, a jurisprudência:
+
+"RESPONSABILIDADE CIVIL.Transporteaéreo. Extravio de mercadoria. Limitação da indenização. Inexistência após o advento do Código de Defesa do Consumidor.Ementa Oficial.Transporteaéreo. Extravio de mercadorias. A indenização pelo extravio de mercadorias notransporteaéreojá não é mais limitada após o Código do Consumidor. Recurso especial não conhecido. (STJ - REsp. nº 76.855/SP - 3ª T - Rel. Min. Ari Pargendler - DJU 18.12.00 - v.u)"
+
+?CONTRATO DE TRANSPORTE DE MERCADORIA AÉREO NACIONAL. AÇÃO DE REGRESSO DA SEGURADORA, POR SUB-ROGAÇÃO. LIMITAÇÃO DO VALOR DA INDENIZAÇÃO, COM BASE NO CÓDIGO BRASILEIRO DE AERONÁUTICA. IMPOSSIBILIDADE. É pacífica a jurisprudência do STJ no sentido de que a indenização decorrente de extravio de mercadoria em voo doméstico não se limita aos valores fixados no Código Brasileiro de Aeronáutica. A autora, ao efetuar o pagamento do capital segurado, se sub-rogou no direito da segurada de pleitear a indenização em face da ré, causadora do sinistro. É cediço que, com a sub-rogação, a seguradora se coloca na posição do segurado.? (Apelação Cível nº 9208538-52.2008/TJSP) 
+
+?RECURSO ESPECIAL. EXTRAVIO DE BAGAGEM. SEGURADORA SUB-ROGA-SE NOS DIREITOS DO SEGURADO EM AÇÃO DE REGRESSO. A INDENIZAÇÃO PELO EXTRAVIO DE MERCADORIA, APÓS O ADVENTO DO CDC, NÃO ESTÁ SOB O REGIME TARIFADO DO PACTO DE VARSÓVIA. SÚMULA 83/STJ. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO. (AgRg no RECURSO ESPECIAL Nº 1.181.252 - SP (2010/0032197-8)
+
+Prevalece, portanto, em nosso ordenamento jurídico o princípio da reparação integral (restitutio in integrum), pelo qual a parte deve ser restituída de qualquer diminuição em seu patrimônio causada por ato de outrem. 
+Logo, se a autora bem demonstrou os valores das mercadorias perdidas e o pagamento do capital segurado, não há razão para obrigá-la a receber valor menor. O valor da indenização destina-se a retomada do status quo ante,isto é, a recuperação do bem tal como era antes do evento danoso; trata-se, assim, de recomposição patrimonial.
+
+Diante dos acontecimentos aludidos, e do amplo e suficiente conjunto probatório dos autos, temos comprovada a responsabilidade das requeridas pelo extravio das mercadorias e, consequentemente, a procedência do pedido regressivo.
+
+Ante o exposto, com resolução de mérito (art 269, I do Cód. de Proc. Civil), JULGO PROCEDENTEa ação paraCONDENAR, solidariamente,as rés a pagar a seguradora-autora a quantia de R$ 24.367,20, devidamente corrigidos pelos índices de atualização dos débitos judiciais e acrescidos de juros legais de 1% ao mês, a contar do desembolso. Por força da sucumbência, condeno o réu ao pagamento das custas processuais e honorários advocatícios que fixo em 10% do valor da condenação (art. 20 § 3º do Cód. de Proc. Civil).
+
+PRI
+
+
+São Paulo, 20 de março de 2014.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

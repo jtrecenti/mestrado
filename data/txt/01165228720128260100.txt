@@ -1,0 +1,86 @@
+
+
+SENTENÇA
+
+Processo nº:0116522-87.2012.8.26.0100
+Classe - AssuntoProcedimento Sumário - Indenização por Dano Moral
+Requerente:Ricardo Gonçalves de Mello
+Requerido:Claro S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). José Gomes Jardim Neto
+
+
+Vistos.
+
+Ricardo Gonçalves de Mello ajuizou a presente ação, pedindo a rescisão de contrato, o desbloqueio de telefone celular e cumulando ainda pedido de condenação à indenização por danos morais contra Claro S.A. Em apertada síntese da petição inicial, nota-se que o autor aduziu ter firmado contrato com a ré em 20/12/2012, logo após ter adquirido um Iphone bloqueado para uso perante a Claro, na loja Fast Shop, por R$1.799,00. Comprometeu-se a permanecer fiel à ré por 12 meses, sob pena de pagamento de multa no valor de R$ 600,00. O respectivo termo de adesão para receber a prestação de serviços de telefonia celular estabeleceu a modalidade pós-paga, com vencimento da fatura em todo dia cinco de cada mês. Todavia, em 30/12/2011, antes mesmo do vencimento da primeira fatura, teve a sua linha bloqueada por suposta utilização excessiva dos serviços, obrigando o autor a pagar antecipadamente o débito, situação que veio a se repetir em 28/1/2012, quando o autor novamente antecipou o pagamento da fatura. Aduz ainda que, acionada pelo autor, que pretendia a extinção do contrato, a ré condicionou esta ao pagamento da multa por quebra da fidelização, bloqueando a utilização da linha novamente.
+
+O autor atribuiu à causa o valor de R$ 20.000,00, instruindo a exordial com os documentos de fls. 14/86, postulando a concessão de tutela antecipada para que se considerasse resolvido o contrato, o que foi indeferido (fls. 87 e 90).
+
+Devidamente citada, a ré ofereceu a contestação de fls. 96/112, por meio da qual não contesta os fatos alegados pelo autor. Alega, todavia, que o plano contratado pelo autor, denominado ?sob medida?, permite a ela bloquear os serviços a partir de ?um certo limite?, além da inexistência de valores indevidos, da legalidade da multa por descumprimento de prazo de fidelização e da ausência de dano moral. 
+
+Réplica foi apresentada (fls. 127 e 128).
+ 
+É o Relatório. DECIDO.
+
+                             O feito em questão comporta o julgamento antecipado, nos termos do art. 330, I do Código de Processo Civil, uma vez que a questão controvertida nos autos é meramente de direito. A ré não contesta os fatos narrados pelo autor e não junta documentos além dos atinentes à representação processual.
+
+Cuida-se de ação em que se pleiteia a declaração da resolução de contrato sem a culminação em multa, o cumprimento de obrigação de fazer consistente no desbloqueio de telefone e a indenização por danos morais decorrentes de inadimplemento contratual atribuído à ré.
+
+Não há preliminares a decidir. 
+
+Da análise da petição inicial e da contestação apresentadas, extrai-se a procedência do pedido deduzido pelo autor.
+
+Restaram incontroversos nos autos todos os fatos relatados pelo autor. A ré admite ter bloqueado por duas vezes a sua linha telefônica e também a negativa em aceitar a resolução do respectivo contrato sem o pagamento de multa por parte do autor. Justifica o bloqueio dos serviços no fato de que o autor teria ultrapassado o limite contratado de serviços adicionais além daqueles já estabelecidos antecipadamente no plano pós-pago. 
+
+ Sustenta a existência de ?um certo limite? de serviços adicionais, como se lê na petição inicial, nos seguintes termos: ?conforme consta do próprio contrato entregue ao autor, o plano por ele aderido, qual seja, 'sob medida', possui tarifação fixa, mais o valor das ligações efetuadas até um certo limite, razão pela qual o próprio nome do plano indica 'sob medida'?.
+ Todavia, a análise dos elementos de fato e de direito neste processo demonstra que não assiste razão à ré. Em primeiro lugar porque ela afirma haver um ?certo limite? para ligações, sem dizer que limite é esse: é ele objetivo ou está em poder da ré estabelecê-lo? Em segundo lugar, diz que isso é uma das condições do contrato, mas não junta cópia deste, limitando-se a informar que a condição consta ?do site da ré?.
+
+Quanto a essa última alegação, a atuação tangencia a litigância de má-fé. Isso porque o contrato que está disponível no site da ré na Internet, sob a nomenclatura ?sob medida?, não traz uma referência a bloqueio dos serviços. O contrato prevê meramente que ?Caso atinja o limite, as chamadas serão tarifadas e cobradas à parte do pacote, conforme a sua duração total e a tarifa vigente praticadas pela Embratel para seu plano? (cláusula 5.1.4 do regulamento do ?plano Sob Medida? disponível em https://minhaclaro.claro.com.br/Aplica%C3%A7%C3%B5es/Minha%20Claro/Arquivos/Simulador%20SobMedida/Regulamento%20Plano%20SobMedida.pdf).
+
+Aliás, se havia mesmo um ?certo limite?, qual a razão para aceitar-se, primeiramente, que o autor utilizasse serviços adicionais somente até R$ 353,08 e, no mês seguinte, aguardar que se utilizasse R$ 1.439,66 para só então bloquear os serviços?
+
+ De outra parte, obrigar um consumidor a antecipar a data de pagamento de fatura estabelecida por acordo é modificar o conteúdo do contrato unilateralmente. Qualquer disposição contratual que estabeleça esse poder para a ré é nula, por encontrar frontal proibição no inciso XIII do art. 51 do Código de Defesa do Consumidor.
+
+ Daí que, não se podendo justificar a negativa à prestação de serviço público, regularmente contratado, na nomenclatura dada a um plano de serviços (?sob medida?), faltam elementos mínimos a justificar a cessação dos serviços prestados pela ré. A única conclusão possível, portanto é a de que ela simplesmente se tornou inadimplente, justificando a resolução do contrato por culpa exclusivamente sua.
+
+Com efeito, a parte lesada pelo inadimplemento ? o autor ? pode pedir a resolução do contrato nos termos do art. 475 do Código Civil, além da indenização por perdas e danos.
+
+Não concorrendo para a resolução do contrato, portanto, não está o autor sujeito ao pagamento da multa contratual por quebra da fidelização. Para evitar problemas da dúvida do momento em que essa resolução se deu, deve ela ser considerada a partir do momento em que o autor deixou de utilizar definitivamente os serviços da ré em relação à linha de telefone celular ora em discussão.
+
+Resolvida a questão da multa, deve-se  enfrentar o problema do desbloqueio do telefone adquirido. Aqui, a solução deve seguir no mesmo sentido: sendo o bloqueio do telefone uma forma de dificultar a quebra da cláusula de fidelização, a culpa exclusiva da ré pela resolução do contrato não justifica a sua manutenção. Deverá ela, portanto, proceder ao desbloqueio do aparelho. 
+
+Por fim, cabe analisar o pleito de indenização por danos morais.
+
+ Como já afirmado acima, o art. 475 do Código Civil estabelece a indenização por perdas e danos para a parte lesada pelo inadimplemento contratual. No mesmo sentido dispõe o art. 247 do Código Civil, segundo o qual ?incorre na obrigação de indenizar perdas e danos o devedor que recusar a prestação a ele só imposta, ou só por ele exequível?.
+
+ Pois bem. Supera o mero aborrecimento o bloqueio de linha telefônica, ou seja, a cessação da prestação de serviços públicos, injustificadamente, por duas vezes. 
+ 
+A surpresa e o transtorno gerados por essa conduta não pode ser classificada como mero aborrecimento, em especial quando se nota, pelos documentos acostados à petição inicial, que o autor se encontrava com a saúde debilitada, por fratura que lhe impedia a normal locomoção (fls. 30 e 31), fato que não foi contestado pela ré.
+
+A negativa da ré em aceitar a resolução do contrato após esse proceder agrava o quadro, além de obrigar o autor a buscar a solução judicial de um problema que poderia ter sido solucionado pelo telefone.
+
+ A questão do valor da indenização por danos morais deve ser resolvida à luz do entendimento atual da doutrina e da jurisprudência sobre o assunto. Nesse sentido, vê-se assentado o entendimento de que deve haver a convergência dos caracteres consubstanciadores da reparação pelo dano moral, com a consideração do caráter compensatório com o punitivo. 
+
+ É de se reconhecer que a condenação frequente de algumas empresas a indenizar consumidores não tem servido como desincentivo a essa conduta. Pelo contrário, pode parecer mais econômico à iniciativa privada utilizar-se de uma estrutura cara, mas financiada por toda a sociedade ? o Poder Judiciário ?, para solucionar questões de simples resolução em um departamento jurídico. Em outras palavras, tudo indica que a punição nesses casos não tem sido suficiente.
+
+ Por ora, de todo modo, o caráter punitivo da indenização vem encontrando limite na razoabilidade do valor fixado enquanto elemento compensatório do dano sofrido, o que permite certa elasticidade. É por essa razão que, segundo o Superior Tribunal de Justiça, ?os valores arbitrados a título de danos morais somente comportam modificação (...) quando fixados de modo irrisório ou exagerado? (REsp 1059663 / MS, Terceira Turma, DJe 17/12/2008).
+
+Recentemente, por exemplo, a Terceira Turma do Superior Tribunal de Justiça (AgRg no AREsp 160725 / SP, DJe de 1/6/2012) entendeu que não se mostraria exagerada,  por ?Inocorrência de teratologia no caso concreto, em que, em razão de falha na prestação de serviço bancário, causando a indevida inscrição do nome da autora em cadastros de inadimplentes, foi fixado o valor de indenização de R$ 20.000,00 (vinte mil reais) devido pelo ora agravante à autora, a título de danos morais.?
+
+No caso concreto, tendo em vista os elementos concretos acima postos, parece razoável fixar o valor da indenização em R$ 6.000,00.
+
+Por tudo o quanto exposto, JULGO PROCEDENTE o pedido para, extinguindo o processo com resolução do mérito, nos termos do art. 269, I, do Código de Processo Civil: I) declarar resolvido o contrato entre as partes desde o momento em que o autor cessou definitivamente a utilização de serviços da ré referentes à linha de telefone celular objeto da presente demanda; II) determinar que a ré proceda ao desbloqueio do aparelho de telefone celular adquirido pelo autor no prazo de 2 (dois) dias úteis da apresentação do aparelho celular pelo autor à ré, sob pena de multa diária de R$ 50,00 até o limite de R$ 2.000,00; III) condenar a ré ao pagamento de R$ 6.000,00 (seis mil reais), atualizadas pela tabela prática do Egrégio Tribunal de Justiça de São Paulo desde o arbitramento (hoje), acrescidos de juros de mora de 1% desde a citação.
+
+Fixo os honorários advocatícios em 10% do valor da causa, que deverão ser, assim como as custas processuais, pagos pela ré. 
+
+P.R.I.
+
+
+São Paulo, 21 de novembro de 2012.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

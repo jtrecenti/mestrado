@@ -1,0 +1,32 @@
+
+
+SENTENÇA
+
+Processo nº:0025076-71.2010.8.26.0003
+Classe - AssuntoProcedimento Ordinário - Rescisão / Resolução
+Requerente:Coim Brasil Ltda
+Requerido:Serasa Autoridade de Registro e Ac Serasa SRF
+
+
+
+Vistos. etc.
+COIM BRASIL LTDA move AÇÃO DE OBRIGAÇÃO DE FAZER, C.C. RESCISÃO CONTRATUAL e TUTELA ANTECIPADA em face de SERASA AUTORIDADE DE REGISTRO E AC SERASA SRF, alegando, em síntese, que na data de 20/07/2000 firmou com a ré o contrato CAS 0768/00, e em 12/2008 firmou verbalmente contratos denominados de Monitore Anotações de Inadimplência e Monitore Anotações de Inadimplência + Riskscoring, mas em 19/01/2010 lhe foram bloqueados esses serviços por suposta falta de pagamento de faturas de 10/2008, encaminhando cópia e lhe sendo reativado em 25/01/2010, enviando em 04/03/2010 e-mail rescindindo tais contratos, recebendo resposta em 22/03/2010 de que retornariam a respeito, e na inércia notificou com recepção pela ré em 07/04/2010, tendo recebido em 31/03/2010 fatura dos serviços Monitore de 03/2010, expedindo e-mail à ré, e no dia 09/04/2010 tentou novamente cancelar os serviços, sendo orientado a respeito, mas não logrou acesso ao sistema por bloqueado com base na pendência de 2008, perdurando o bloqueio até 05/05/2010, data em que logrou acesso e conseguiu cancelar CNPJ pelo sistema os serviços Monitore, ficando ainda duas faturas em aberto, emitidas em 25/03 e 25/04, nos valores de R$ 1.465,19 e R$ 1.383,08, e delas teve o nome incluído na lista de inadimplentes, estando com acesso ao sistema também bloqueado para o contrato CAS 0768/00, contatando a ré em 09/08/2010 e 13/08/2010 sem que dê solução ao problema, motivos pelos quais e com fundamento no CDC requereu rescisão contratual, indenização por danos morais, e tutela antecipada. 
+Na contestação (fls.121/132) a ré alegou que o bloqueio decorreu de débito das faturas de R$ 380,00 e R$ 300,00, sendo-lhe encaminhado comprovantes de pagamento em 19/01/2010 e os serviços contratados liberados em 25/01/2010, tendo a autora solicitado em 17/03 cancelamento de funcionalidades, sendo-lhe enviada explicações e  manual, e como não solicitou cancelamento de todo o contrato foram geradas emissão de faturas mensais, e pela falta de pagamento exerceu regular direito ao inserir o nome da autora no cadastro de devedores, negando assim tenha causado dano moral, e discorrendo sobre valor de indenização requereu a improcedência.
+Em réplica (fls.157/169) com documentos a defesa foi refutada e ratificados os fundamentos e pedido.
+É o relatório. DECIDO.
+Julgo antecipadamente por prescindir da dilação probatória a vista das teses das partes e dos documentos juntados aos autos (CPC, art. 330, inc. I).
+O exame dos contatos das partes através de e-mails, bem como da notificação expedida pela autora e recepcionada pela ré, demonstra clara manifestação da autora de cancelamento dos serviços Monitore, só não se consumando em face aos entraves de sistema da ré, gerados por indevido bloqueio por débitos de faturas vencidas em 2008, igualmente indevidos porque regularmente pagas, corroborado na ausência de impugnação da assertiva de impossibilidade de acesso ao sistema para fins de auto cancelamento, o que se deu de 09/04/2010 a 05/05/2010.
+Resulta, portanto, provada conduta da ré amoldável no CDC, artigo 14, já que seus prepostos, decorrentemente dos sistemas, prestaram serviços defeituosos seja no bloqueio de acesso por débito de 2008 inexistente, seja na implementação do pedido de cancelamento dos serviços Monitore.
+Assim sendo, acolho o pedido de cancelamento dos serviços ou funcionalidades Monitore, e o implícito de declaração de inexigibilidade das faturas desses serviços, vencidas em 10/04/2010 e 10/05/2010 (fls.85/86); e, confirmo a tutela antecipada deferida.
+Rejeito, outrossim, o pedido de indenização por danos morais, pois em cuidando de pessoa jurídica havia necessidade de plena articulação e demonstração documental de reflexo concreto à honra empresarial, até porque no âmbito do banco de dados da SERASA consta ação judicial em desfavor da autora (fls.89) a incidir a Súmula 385 do C.STJ.
+Diante da parcial procedência compenso as verbas de sucumbência.
+
+Isto posto e considerando o mais que dos autos consta, JULGO PROCEDENTE EM PARTE a presente AÇÃO e declaro resolvido entre as partes desde 03/2010 o contrato verbal de serviços Monitore Anotações de Inadimplência e Monitore Anotações de Inadimplência + Riskscoring; declaro inexigível as faturas de R$ 1.465,19 e R$ 1.383,08 (fls.85/86); confirmo a tutela antecipada; rejeito o pedido de indenização por dano moral; e, compenso as verbas de sucumbência.
+P.R.I.
+São Paulo, 09 de dezembro de 2010
+
+
+
+
+JOSÉ WAGNER DE OLIVEIRA MELATTO PEIXOTO
+                                                JUIZ DE DIREITO

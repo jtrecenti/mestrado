@@ -1,0 +1,67 @@
+
+
+SENTENÇA
+
+
+Reclamação:0009966-20.2010.8.26.0007 - Procedimento do Juizado Especial Cível
+Requerente:Regina Magarian de Freitas
+Requerido:Banco do Brasil
+
+
+
+
+V I S T O S.
+
+Dispensado o relatório, nos termos do artigo 38, da Lei 9099/95, fundamento e decido.
+Alega a autora que em 30 de janeiro de 2010, ao tentar movimentar sua conta corrente, constatou que seu cartão havia sido bloqueado e que vários saques indevidos haviam sido feitos em sua conta. Sustenta ter entrado em contato com o banco réu para que os valores indevidamente debitados fossem ressarcidos, e pleiteia a procedência da demanda, para que sejam declarados nulos os contratos celebrados, para que seja a ré condenada a devolver-lhe em dobro os valores indevidamente descontados, bem assim ao pagamento de indenização por danos morais.
+O requerido, por sua vez, salienta que todos os valores indevidamente debitados foram ressarcidos à autora, e impugna o pedido de indenização por danos morais.
+Encerrada a instrução, tem-se que é parcialmente procedente o pedido inicial.
+De fato, a instituição financeira requerida juntou aos autos documentos que comprovam ter sido a autora integralmente ressarcida pelos valores que foram indevidamente debitados de sua conta. Tais documentos, anexados à fls. 120 e seguintes, demonstram que todos os valores reclamados foram depositados em sua conta corrente até o dia 29 de abril de 2010, data posterior à propositura da presente ação.
+Logo, considerando que a própria requerida já reconheceu serem indevidos os saques, não mais possui a autora interesse processual (modalidade necessidade) quanto ao pedido de declaração de inexigibilidade dos contratos de empréstimo e demais transações realizadas.
+No que tange ao pedido de devolução em dobro dos valores indevidamente debitados, entendo que razão alguma assiste à requerente.
+Ora, não se discute que, no presente caso, os saques e demais transações foram realizados após clonagem da senha eletrônica do cartão magnético disponibilizado à autora pela instituição financeira. 
+                                 Ainda que se admita ter ocorrido falha no serviço prestado pelo banco (o que será discutido posteriormente), não restam dúvidas de que os saques e transações foram realizados por terceiros, que se utilizaram da sobredita senha. Não foram os funcionários do banco que, de foram indevida e sem qualquer razão, procederam aos débitos, pelo que não procede o pedido de devolução em dobro formulado na inicial.
+De outro lado, faz jus a autora à indenização pelo dano moral suportado.
+Com efeito, o contrato firmado entre as partes evidencia típica relação jurídica de consumo, incidindo, na hipótese, as regras e princípios ditados pelo Código de Defesa do Consumidor.
+Conforme preceitua o art. 14, "caput", do referido Código (Lei n° 8.078, de 11.9.1990), o fornecedor de serviços responde, independentemente da existência de culpa, isto é, de forma objetiva, pela reparação dos danos causados aos consumidores por defeitos relativos aos serviços prestados, assim como por informações insuficientes ou inadequadas sobre sua fruição e riscos.
+Assim, pode, o fornecedor, eximir-se de sua responsabilidade, nos termos do artigo 14, parágrafo 3º, do referido estatuto, caso comprove que: a) tendo prestado o serviço, o defeito inexiste; b) a culpa é exclusiva do consumidor ou de terceiro.No caso dos autos, nenhuma das hipóteses de exclusão de responsabilidade restou verificada. Não logrou, a requerida, comprovar que o sistema operacional de leitura do cartão magnético disponibilizado à autora era imune à clonagem, ou que os dados criptografados e armazenados no "chip" não poderiam ser lidos por intermédio de equipamentos externos.
+E ainda que assim não fosse, seria inviável aceitar a tese de que tal sistema de segurança do cartão magnético não seja vulnerável a fraudes, como pretende fazer crer a requerida.
+                                   Como ressabido, o uso dos cartões magnéticos e de crédito constitui método criado pelas instituições financeiras visando à equiparação competitiva e à agilização de seus procedimentos operacionais. Sabe-se, além disso, que a responsabilidade de todo o sistema dirigido à operacionalização do procedimento cabe ao banco, sendo certo que o consumidor não detém qualquer modo de participação ou monitoramento em relação a esse sistema. 
+                                    A própria "Febraban" ("Federação Brasileira de Bancos"), em seu site (www.febraban.com.br/Arquivo/Serviços/Segurança) já abordou o tema referente aos golpes perpetrados contra correntistas e instituições financeiras, conforme trecho que segue: 
+
+                                    "(...) a complexidade e alcance das fraudes parecem, infelizmente, acompanhar a especialização tecnológica do sistema bancário. O Brasil, expoente mundial na área de tecnologia da informação (TI) aplicada à área financeira, também sofre com a ação de indivíduos que utilizam os novos canais de comunicação entre os bancos e seus clientes para cometerem crimes antes praticados no interior das próprias agências". 
+
+                                      A questão atinente à clonagem dos modernos cartões magnéticos munidos com "chip" de segurança já foi, inclusive, objeto de notícia veiculada em 30.6.2007, no site http://g1. globo.com/Noticias/SãoPaulo, conforme ressaltado pelo Exmo Des. José Marcos Marrone nos autos da APEL.N. 990.09.366929-3 - São Paulo.
+A propósito, também já decidiu o E. Tribunal de Justiça de São Paulo:
+
+(...) É justamente baseado na inviolabilidade e segurança do cartão magnético dotado de 'chip' que o apelante indica a autora como responsável pela contratação dos crediários. Como é notório, inclusive a imprensa tem deixado claro a toda população, não existe a alegada segurança que o Banco Itaú ressalta sobre o cartão magnético dotado de 'chip'. Tanto é assim que o documento de fls. (...), extraído da Internet, aponta a notícia de uma quadrilha brasileira que conseguiu burlar a segurança dos 'chips' dos cartões bancários e de crédito. Isso chegou a mover um agente do serviço secreto americano para este país. Em suma, a inviolabilidade do tal cartão magnético dotado de 'chip' não foi obstáculo para a malandragem brasileira. Aliás, é impossível não se reconhecer que os bancos têm investido muito na tentativa de tornar invioláveis esses sistemas de informática, mas, ao que parece, a indústria da 'bandidagem' é mais rápida, estando sempre à frente das tecnologias criadas para o bem. Essa questão coloca em destaque a responsabilidade objetiva do banco perante o correntista e, não bastasse isso, não se pode olvidar que se trata de relação de consumo, conseqüentemente, a inversão do ônus da prova é inafastável". (AP. n° 7.187.895-0, de São Paulo, 21ª Câmara de Direito Privado, v.u., Rei. Des. SOUZA LOPES);
+
+Ora, admitindo-se que a clonagem se deu em razão de falha no serviço prestado pelo banco, e uma vez delineado o nexo de causalidade entre a clonagem ocorrida e os transtornos vivenciados pela autora, resta verificar, tão somente, se a situação por ela narrada na inicial caracteriza dano moral.
+ Conforme se depreende dos documentos que instruem a inicial, a autora constatou os saques indevidos no início do mês de fevereiro de 2010, época em que foi instaurado procedimento interno pelo banco para apuração do ocorrido. Embora a instituição financeira tenha reconhecido a procedência das reclamações feitas pela autora, a devolução da integralidade dos valores indevidamente debitados somente ocorreu no final do mês de abril, logo, quase três meses após a constatação.
+ Segundo se verifica, a autora, ao longo dos quase três meses, se viu compelida a constantemente cobrar os funcionários da ré para que a devolução integral ocorresse. As cópias dos e-mails anexados aos autos evidenciam que os funcionários da ré chegaram a prometer uma data limite para que a devolução integral ocorresse, gerando, assim, uma expectativa na autora de que o problema seria finalmente resolvido, e que, não obstante, tal data foi desrespeitada, mesmo tendo decorrido quase dois meses a contar da constatação.
+Evidente, assim, que a situação vivenciada pela autora em razão dos fatos extrapola o mero aborrecimento, configurando verdadeiro abalo psíquico hábil a ensejar indenização.
+                                  Resta definir, a partir de agora, o montante indenizatório a ser fixado.
+                                  Como ressabido, deve o julgador considerar, no arbitramento do quantum debeatur, o grau de reprovabilidade da conduta ilícita, a capacidade econômica do causador do dano, as condições sociais do ofendido, para chegar a um quantitativo consentâneo com a natureza e intensidade da humilhação, da tristeza e do constrangimento sofridos. Em outras palavras, a indenização deve representar uma punição para o infrator, capaz de desestimulá-lo a reincidir na prática do ato ilícito, e deve ser capaz de proporcionar ao ofendido um bem estar psíquico compensatório do amargor da ofensa. 
+                                   A propósito:
+
+                                   "Dano moral. Quantificação. Critérios observáveis. O dano moral deve ser arbitrado de acordo com o grau de reprovabilidade da conduta ilícita, com a capacidade econômica do causador do dano, com as condições sociais do ofendido, em quantitativo consentâneo com a natureza e intensidade da humilhação, da tristeza e do constrangimento sofridos pelo ofendido, com o ato ilícito praticado pelo ofensor. A indenização deve representar uma punição para o infrator, capaz de desestimulá-lo a reincidir na prática do ato ilícito, e deve ser capaz de proporcionar ao ofendido um bem estar psíquico compensatório do amargor da ofensa. (Des. Pestana de Aguiar, Presidente e Des. Wilson Marques, Relator).
+
+                                   No caso em apreço, sopesando as circunstâncias acima relacionadas,  bem como os critérios acima delineados, reputo razoável a fixação de um dano moral no importe de R$ 1000,00 (mil reais), não se mostrando justificável a estipulação em montante superior.
+                                  Ante o exposto, JULGO: a) EXTINTO o processo, sem julgamento de mérito, com relação ao pedido de declaração de inexigibilidade dos contratos e transações celebrados por terceiros, por falta de interesse processual superveniente, o que faço com fulcro no artigo 267, VI, do Código de Processo Civil; b) PARCIALMENTE PROCEDENTE o pedido inicial, para o fim de condenar a requerida a pagar à autora, a título de indenização por danos morais, o importe equivalente a R$ 1000,00 (mil reais), corrigido monetariamente, conforme os índices da Tabela Prática do Tribunal de Justiça deste Estado, a partir da presente data, e acrescida de juros moratórios de 1% (um por cento), a contar da citação. 
+Sem condenação do vencido em custas processuais e honorários advocatícios, a teor do que dispõe o artigo 55, caput, da Lei 9099/95. Autorizo o desentranhamento dos documentos que instruíram a inicial.
+       Oportunamente, desmonte-se o processo, arquivando-se as peças necessárias, com as cautelas de praxe.
+             Publique-se. Registre-se. Intimem-se.
+
+
+
+
+
+
+São Paulo, 31 de maio de 2011
+
+
+
+ASSINADO DIGITALMENTE
+
+Maria Gabriela Riscali Tojeira Gaucher
+Juiz(a) de Direito

@@ -1,0 +1,85 @@
+
+
+SENTENÇA 
+
+Processo:0110224-69.2009.8.26.0008 - Outros Feitos Não Especificadosp
+Requerente:Fagulha Comercio de Calçados Ltda Me
+Requerido:Vivo S/A
+
+Juíza de Direito:  Cecília de Carvalho Contrera  
+
+
+
+Vistos.
+
+Fagulha Comercio de Calçados Ltda Me, qualificada nos autos, move ação declaratória de inexigibilidade de débito cumulada com pedido de indenização por danos morais contra Vivo S/A, também qualificada. Alega a autora, em síntese, que  em 24 de novembro de 2007 celebrou com a ré contrato de prestação de serviços de telefonia móvel, adquirindo quatro telefones celulares, de linhas 96466863, 96466805, 96475986 e 96476730. Os telefones celulares destivam-se a permancer no estabelecimento comercial, não se fazendo uso da internet, até porque a loja dispõe de computador. Na fatura com vencimento em 21 de janeiro de 2008, notou a cobrança pela utilização de serviço de dados, o que, todavia, não ocorreu. Questionou o débito e seguiu orientação da ré no sentido de pagar a conta e aguardar a restituição. Todavia, o valor não lhe foi restituído, e na fatura vencida em 14 de fevereiro de 2008 foram cobrados valores a título de plano de dados, indevidamente, e que atingiam quase o valor total da fatura, de R$3.504,44. Por não ter usufruído do serviço, deixou de pagar a conta, e por isso seu  nome foi incluído no cadastro de maus pagadores.. Requer o reconhecimento da inexigibilidade do débito e a condenação da ré a lhe indenizar os prejuízos morais experimentados, no valor equivalente a dez vezes o valor do débito impugnado (fls. 2/12). Apresenta os documentos de fls. 13/45.
+
+A antecipação de tutela foi deferida, suspendendo-se a publicidade da inscrição da autora no cadastro do SCPC (fls. 51).
+
+A ré apresentou a contestação de fls. 58/74, alegando em síntese, que a cobrança é decorrente do registro da efetiva utilização dos serviços de internet  WAP (Wireless Aplication Protocol), o que somente ocorre mediante ativação da rede de dados por comandos feitos no próprio aparelho. Não há qualquer registro de fraude ou erro na constatação da utilização do serviço de dados. A autora fez uso espontâneo do serviço e deve pagar por ele. Não praticou ato ilícito nem há dano moral a indenizar. Requereu a improcedência da demanda. A defesa veio instruída com os documentos de fls. 75/95.
+
+Houve réplica (fls. 104/124)
+
+A ré apresentou documentos (fls. 127/254). A autora apresentou documentos (fls. 260/446).
+
+Tentou-se a  conciliação em audiência, sem êxito (fls. 457).
+
+O processo foi saneado (fls. 463/464).
+
+A autora apresentou documentos (fls. 482/488). A ré apresentou documentos (fls. 539/661).
+
+Deferida a produção de prova pericial, sobreveio o laudo de fls. 666/681, sobre o qual se manifestaram as partes às fls. 689/692 e 685/686.
+
+
+É o relatório. Fundamento e decido.
+
+Concluída a prova pericial, impõe-se o julgamento da lide, mostrando-se desncessária a produção de prova oral em audiência.
+
+A ação é parcialmente procedente.
+
+De início atento para a aplicabilidade do Código de Defesa do Consumidor ao caso dos autos, já que, não obstante os serviços tenham sido prestados a pessoa jurídica empresária, verifica-se, na hipótese, que se trata de microempresa, sendo indiscutível sua vulnerabilidade face à fornecedora dos serviços. Nesse sentido:
+
+
+"PRESTAÇÃO DE SERVIÇOS DE TELEFONIA MÓVEL Ação declaratória de inexistência de débito c.c. rescisão contratual Aparelhos celulares - Cobrança de ligações negadas pelo usuário - Indícios de clonagem - Ônus da prova da empresa de telefonia em razão da aplicação do CDC - Pessoa Jurídica destinatária final e vulnerável - Ausência de demonstração da regularidade das ligações Necessidade de declaração de inexistência do débito cobrado pela ré e rescisão dos contratos de prestação de serviços telefônicos firmados entre as partes." (TJSP, Apelação com Revisão 0011248-18.2009.8.26.0302 , Des. Rel. Carlos Nunes, j. em 04/06/12 )
+
+
+Assentada essa premissa, cabe voltar a atenção ao específico objeto da controvérsia. A autora impugna a cobrança que a ré lançou em sua fatura de telefone, sob a rubrica "utilização de serviço de dados", serviço que, ao que consta da petição inicial, não foi prestado.
+
+
+Pois bem. É patente a hipossuficiência técnica da autora perante a ré, sendo essa última a detentora exclusiva dos registros com base nos quais são lançadas, unilateralmente, as cobranças na fatura telefônica. 
+
+
+E, sendo aplicável à hipótese o Código de Defesa do Consumidor, é de se inverter o ônus da prova, nos termos do artigo 6º, VIII, do diploma, já que, além da hipossuficiência da autora consumidora, é irrazoável exigir-se dela que faça prova de fato negativo.
+
+Assim, caberia à ré demonstrar que a autora efetivamente se utilizou dos serviços de dados cobrados, como aliás já se decidiu, incidentalmente, no v.acórdão de fls. 532/534.
+
+
+A perícia, todavia, nada concluiu nesse sentido: a conclusão exarada no laudo pericial foi de que "não foram observados elementos técnicos plausíveis capazes de contestar ou não os valores que figuram nas faturas de 'janeiro a março 2008' geradas pela suplicada, acerca da prestação do serviço de WAP  Internet" (fl. 676).
+
+
+E o caráter inconclusivo da perícia pode ser atribuído à inércia da ré, que deixou de apresentar ao perito a base de registros sobre a qual se fundou a cobrança, inviabilizando assim a própria resposta ao quesito do juízo, como consta de fl. 677: "Prejudicado. Tal prova documental não foi trazida aos autos pela ré, cf. solicitado pela Perícia desde março de 2010 na Orientação técnica de fl. 472 dos autos.".
+
+Ora, a cobrança, para que seja legítima, deve estar fundada em registros que demonstrem a concreta utilização dos serviços de dados, na forma apontada na fatura. Ausente a demonstração da efetiva utilização do serviço, impõe-se reconhecer o caráter indevido da cobrança.
+
+
+Nesse sentido:
+
+"Ementa: Prestação de serviços - Telefonia móvel - Declaratória de  inexistência de dívida    Devolução em dobro de quantias indevidamente cobradas nos últimos cinco anos.  Aumento exagerado das contas de telefone celular por cobrança de serviços de dados em  alta velocidade (downloads) não utilizados para acesso à Internet. Sentença de  improcedência reformada. Recurso parcialmente provido. 1. Ao contrato em questão, de  prestação de serviço de telefonia móvel aplicam-se as normas do Código de Defesa do  consumidor (CDC), em especial a possibilidade de inversão do ônus da prova nos termos do art. 6o, inciso VIM, em razão da hipossuficiência do consumidor frente ao prestador de serviço.
+2. Competia à ré comprovar a licitude e exigibilidade dos valores em cobrança, que haveriam de corresponder ao plano contratado e à efetiva prestação de serviço, com o fornecimento de todas as informações suficientes e adequadas sobre a fruição e riscos, visto como é ela quem tem o monopólio de todos os mecanismos de controle das especificidades do que foi contratado e do serviço que foi prestado. 
+3. Não o fazendo a fornecedora de serviços, o débito é inexigível, determinando-se a  devolução dos valores pagos, com correção monetária a partir de cada desembolso e juros de mora a partir da citação, apenas quanto as contas comprovadas.
+4. Restituição em dobro indevida, visto como não comprovada
+má-fé da credora. Recurso parcialmente provido para acolhimento parcial do pedido." TJSP, APELAÇÃO C/ REVISÃO  1 2 1 6 8 2 3 - 0 /5, Des. Rel. Reinaldo Caldas , j. em 26/08/09)
+
+Destarte, agiu ilicitamente a ré ao promover a inclusão do nome da autora nos cadastros do SCPC e da SERASA, como provam os documentos de fls. 20 e 22. E é evidente que a inclusão do nome da empresa em cadastros de maus pagadores dá ensejo a abalo moral indenizável, à medida que lhe prejudica o nome e a boa fama perante consumidores e fornecedores. 
+
+Resta quantificar a indenização.
+
+A fixação da indenização pelo dano moral está condicionada à aferição de determinadas condições pessoais do autor e do réu, ou vítima e agente, caso se faça uma analogia com as regras do Direito Criminal que norteiam a fixação das reprimendas. Devem ser levadas em conta a condição social e profissional do autor, as repercussões que o fato ocasionaram à sua vida pessoal, o grau de dor e sofrimento por ele experimentados, incumbindo observar que o recebimento da indenização evidentemente não recomporá a moral comprometida pelo ato ilícito, mas terá como finalidade, tão somente, minimizar os transtornos sofridos e subtrair as quase sempre presentes sensação de impotência diante de indivíduos poderosos e a impressão de que a impunidade impera. Há que se levar em conta também as condições financeiras e o grau de intensidade do dolo ou da culpa do agente, de modo a que a indenização não seja irrisória a ponto de ser insensível a ele e, ainda, que não sirva de instrumento a desestimulá-lo da prática de novos atos similares, e nem excessiva a ponto de tornar impossível o cumprimento da obrigação.
+
+Levando em conta os quesitos acima,   tenho por bem fixar a indenização pelos danos morais, obedecido o princípio da razoabilidade, em R$10.000,00 (dez mil reais), valor que considero adequado a reparar o dano moral e a punir o réu, levando-se em conta sua conduta negligente, sua capacidade econômica e o grau de intensidade do agravo causado à autora.
+
+Ante o exposto  julgo PROCEDENTE a ação para: a) reconhecer a inexigibilidade do débito referente ao contrato 2024403292, no valor de R$4.176,22; b) determinar o cancelamento definitivo dos apontamentos desse débito no cadastro da SERASA e ACSP, bem como de eventual outro órgão de proteção ao crédito que venha a publicá-los; c) condenar a ré a pagar à autora o valor de R$10.000,00 (dez mil reais) a título de indenização por danos morais. A quantia deverá sofrer atualização monetária a partir da publicação desta sentença, devendo ainda ser acrescida de juros legais a partir da citação. Pela sucumbência, arcará o réu com o pagamento das custas e despesas processuais e honorários advocatícios, que fixo, nos termos do artigo 20, §§ 3º e 4º do Código de Processo Civil, consideradas a natureza e complexidade da lide, em 20% do valor da condenação. Decorrido o prazo recusal, nada sendo querido, arquivem-se com as cautelas de praxe.
+P.R.I.
+
+  
+São Paulo,06 de junho de 2012.

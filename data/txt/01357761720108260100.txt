@@ -1,0 +1,75 @@
+
+
+SENTENÇA
+
+Processo nº:0135776-17.2010.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Assunto Principal do Processo >
+Requerente:Condominio Edificio Santa Fé
+Requerido:Eletropaulo Metropolitana Eletricidade de São Paulo S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Alexandre Felix da Silva
+
+
+Vistos, etc...
+
+CONDOMÍNIO EDIFÍCIO SANTA FÉ ajuizou a presente ação de indenização por danos materiais contra ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S/A, já qualificados, sob os seguintes fundamentos fáticos e jurídicos: na data de 16/07/2009, foram realizados reparos na rede elétrica da rua onde está localizado o condomínio-autor; após religar a energia, houve forte oscilação de tensão na rede elétrica, o que causou danos no elevador do condomínio; o laudo da empresa de manutenção apontou danificações no inversor, chave de potência e placa de comando ocasionadas pela variação da tensão na rede; ante a premente necessidade de conserto, pois parte dos condôminos é idosa e a utilização das escadas ser-lhes-ia extremamente difícil, o síndico autorizou o reparo do elevador por empresa de manutenção; o reparo custou R$ 4.892,00; administrativamente, a ré se recusou a ressarcir o autor, motivada por isenção prevista no artigo 10º, inciso II, da Resolução 360 da ANEEL. Requer a declaração de inconstitucionalidade do inciso II, do parágrafo único, do artigo 10, da Resolução 360 da ANEEL e a condenação da ré a indenizar o autor pelos danos materiais sofridos. 
+
+Instruiu a inicial com documentos (fls. 07/20).
+
+Citada, a ré ofereceu contestação (fls. 31/36), aduzindo que a negativa de ressarcimento está amparada no inciso II, do parágrafo único, do artigo 10, da Resolução 360 da ANEEL, em que a reparação de equipamento por conta e risco do consumidor sem aguardar o prazo para a inspeção da concessionária de energia ou sem autorização prévia desta nas hipóteses urgentes é causa excludente de sua responsabilidade; o autor não solicitou tal autorização, reparou os equipamentos e passado mais de um mês do suposto evento requereu o ressarcimento. Pela improcedência do pedido e condenação do autor nas verbas de praxe. Juntou documento (fls. 37/43).
+
+Houve impugnação (fls. 48/49), na qual o requerente salienta que a requerida não negou a ocorrência de sua intervenção na rede elétrica da rua do condomínio na data de 16/07/2009, tornando o fato incontroverso e, instados a especificarem provas, a parte requerida pugnou pela prova pericial no equipamento danificado, manifestando desejo na designação de audiência de tentativa de conciliação (fls. 51/52), e o autor, que não se opôs à realização da audiência, protestou a produção de prova testemunhal e pericial nas peças danificadas (fls. 54).
+
+A audiência de tentativa de conciliação designada foi infrutífera (fls. 99). O laudo pericial de fls. 115/161 teve como objeto as peças do elevador do condomínio-requerente e a finalidade de apurar a origem dos danos e se estes têm nexo causal com variação de tensão da rede de energia elétrica fornecida pela ré.
+
+É o relatório. 
+
+Segue a fundamentação.
+
+Não há preliminares. As partes são legítimas, estão bem representadas e não há vício ou irregularidades a serem sanadas. Passo, então, ao julgamento do mérito.
+
+O pedido é procedente, em parte.
+
+Pelo que se depreende das alegações, são fatos incontroversos que, no dia 16/07/2009, o elevador do condomínio-autor teve danificados os seguintes componentes: inversor e varistor; o orçamento apresentado traz o valor de R$ 4.892,00 para a substituição das peças danificadas e a mão-de-obra (fls. 14).
+
+Há, portanto, apenas duas controvérsias relevantes, quais sejam, se houve ou não a oscilação na rede de energia elétrica noticiada pelo autor, ocorrida no dia 16/07/2009, e se tal fato ensejou os danos. 
+
+Sem prejuízo, há evidente relação de consumo, em que a concessionária de energia é a fornecedora e o cliente, o consumidor, de modo que, nos termos do artigo 18 do CDC, a responsabilidade da ré é objetiva, competindo a ela, portanto, demonstrar que inocorreu o vício ou que ele ocorreu por culpa exclusiva do consumidor ou de terceiro. 
+
+Em sua contestação, a ré sustenta apenas que inexiste nexo de causalidade entre o fato relatado na inicial e os danos reclamados pelo requerente, tanto que indeferiu o requerimento administrativo realizado por ele, e a excludente de responsabilidade firmada no reparo do elevador pelo condomínio sem aguardar o prazo para a concessionária inspecioná-lo ou autorizar o conserto sem tal análise (artigo 10, parágrafo único, inciso II, da Resolução 360 da ANEEL).
+
+Como se vê dos autos, nada que pudesse refutar as alegações do autor foi trazido pela ré, tampouco a documentação solicitada pelo perito (fls. 145/146), consistente no histórico de ocorrências atmosféricas, registro de variação de tensão na data de 16/07/2009 na região dos fatos e relatório de manutenção das redes primárias que atendem a unidade consumidora do condomínio do dia 16/07/2009. 
+
+Em contrapartida, o autor produziu prova pericial, que aferiu os danos em peças que compõem o elevador (inversor e varistor), concluindo que tais danos decorreram de sobretensão na rede elétrica externa. Descartou, após vistoria, qualquer problema na rede interna do condomínio-autor a ensejar mencionada sobretensão e salientou que o inversor foi completamente carbonizado pela sobretensão ocorrida. 
+
+Constatou ainda que o inversor poderia ser reparado ao invés de substituído, como fez o requerente, e que o custo destes serviços seria de R$ 1.275,00 (fls. 170), diminuindo o gasto orçado a fls. 14, que resultaria em R$ 2.577,00, mantendo-se, no mais, o orçamento apresentado. 
+
+O parecer técnico divergente (fls. 204/215), que ressalta a não comprovação da sobretensão na rede elétrica, não tem o condão de infirmar as constatações do perito judicial, ao relatar que não existem outros pedidos de indenização de consumidores vizinhos servidos pela mesma rede acerca de danos ou queima de equipamentos e que, se o evento ocorreu, deve ser caracterizado como caso fortuito ou força maior, outras excludentes.
+
+Frise-se que a ré não negou oportunamente a existência do evento danoso e, nessa perspectiva, concluo que houve realmente falha na prestação dos serviços de fornecimento de energia elétrica e que, em razão dessa falha, algumas peças do elevador do condomínio-autor sofreram danificações, configurando o dano.
+
+Acolho o orçamento de fls. 170 trazido pelo auxiliar do juízo, no tocante ao valor do dano ocorrido no inversor, em detrimento àquele que acompanha a inicial (fls. 14). Desta forma, mantendo-se, no mais, o orçamento apresentado pelo autor, tem-se que o montante do dano material é de R$ 2.577,00.
+
+Por fim, acrescente-se que as disposições contidas na Resolução 360 da ANEEL visam tão somente evitar fraudes, impedindo possíveis indenizações indevidas. Com a vinda de laudo pericial elaborado no bojo de processo judicial, sob o crivo do contraditório, esse risco foi completamente suprimido de sorte que a inobservância daquele ato administrativo não repercute no deslinde.
+
+ISTO POSTO, julgo PARCIALMENTE PROCEDENTES os pedidos, para CONDENAR a ré a pagar ao autor a quantia de R$ 2.577,00, corrigida desde o evento, que coincidiu com o desembolso, e acrescida de juros moratórios de 1% ao mês desde a data da citação.
+
+As correções terão por base de cálculo a tabela prática do Tribunal de Justiça do Estado de São Paulo.
+
+Tendo em vista que autor e ré foram reciprocamente e na mesma proporção vencedores e vencidos, as verbas sucumbenciais são compensadas (art. 21 do CPC).
+
+P.R.I.C.
+
+
+De Leme para São Paulo, 28 de janeiro de 2013.
+
+
+Alexandre Felix da Silva
+Juiz de Direito Designado
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

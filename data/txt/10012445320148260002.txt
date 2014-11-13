@@ -1,0 +1,107 @@
+
+
+SENTENÇA
+
+Processo Digital nº:1001244-53.2014.8.26.0002
+Classe - AssuntoProcedimento Ordinário - Títulos de Crédito
+Requerente:Remar - Casa de Ferragens Ltda
+Requerido:UNIGRES CERÂMICA LTDA e outros
+
+
+
+
+Juiz(a) de Direito: Dr(a). Ricardo Dal Pizzol
+
+
+
+
+Vistos.
+
+
+
+
+
+REMAR CASA DE FERRAGENS LTDA ajuizou "ação declaratória de inexigibilidade de título cc indenização por danos materiais e morais" contra UNIGRES CERÂMICA LTDA e OUTROS.
+
+Alega a autora que a primeira requerida emitiu duplicata referente a negócio jurídico inexistente, a qual teria sido "descontada" perante os demais requeridos. Houve dano moral, em decorrência do protesto. 
+
+
+Tutela antecipada concedida às fls. 20/21.
+
+
+Contestação do requerido Banco Bradesco S/A às fls. 40/49. Alega o requerido ser parte ilegítima para figurar no polo passivo da demanda, visto que recebeu o título por endosso-mandato. Aplica-se, no caso, o disposto na Súmula 476 do STJ. 
+
+Contestação da requerida Unigres Cerâmica Ltda. às fls. 74/79. Alega a requerida que o título a que faz referência a autora a inicial não foi protestado, visto que "baixado em 09 de janeiro", não havendo que se falar, portanto, em prejuízo causado à requerente. 
+
+Contestação da requerida N A Fomento Mercantil Ltda. às fls. 99/116. Alega a requerida que é parte ilegítima para figurar no polo passivo da demanda, havendo mesmo notificado a autora quanto à cessão do crédito referente ao título objeto da demanda, não apresentando qualquer objeção quanto à cessão ou mesmo quanto à cobrança do débito realizada via boleto.
+
+Réplica às fls. 140/147.
+
+
+É o Relatório.
+
+
+
+
+Passo a Fundamentar.
+
+
+
+
+I ? Possível o julgamento antecipado da lide, uma vez que desnecessária a produção de outras provas.
+
+II - Rejeito as preliminares de ilegitimidade passiva suscitadas pelos requeridos às fls. 41/42 e 101/103. As questões levantadas são de mérito e não de legitimidade. Confira-se a lição de DINAMARCO: 
+
+?Será inadequado falar em ilegitimidade quando, ainda que contrariamente ao direito, do provimento se possa esperar o proveito jurídico e prático desejado. Se cobro judicialmente um crédito que não é meu, certamente não terei direito algum à sentença favorável, porque não sou credor; se peço a condenação de alguém a pagar débito alheio, idem; nessas duas situações, porém, a sentença que julgasse procedente a minha pretensão seria plenamente capaz de oferecer-me o proveito que desejo. Nada teria de inútil, embora contrária à lei material. (...) Sempre que se trate de obrigações fungíveis, a ausência de titularidade ativa ou passiva (direitos e obrigações) é questão de mérito, sendo improcedente a demanda e não ilegítima a parte. Os tribunais brasileiros são fortemente propensos a tratar como ilegitimidade esses casos de ausência do direito do autor perante o réu. (...) Na verdade, tais demandas são improcedentes? (Instituições, v. II, p. 307)
+
+III ? No que diz respeito ao requerido Banco Bradesco, o pedido é improcedente na íntegra.
+
+Isso porque tal instituição financeira recebeu o título por endosso-mandato (fl. 14).
+
+Logo, não assumiu, em momento algum, a efetiva titularidade do crédito, de forma que não cabe, em relação a esse requerido, sequer a declaração de inexigibilidade do débito (fl. 06, "c", [i]). 
+
+Quanto ao dano moral, segundo a jurisprudência do STJ, a instituição financeira só é responsável, na hipótese de endosso-mandato, se restar comprovado que excedeu os poderes do mandato, que agiu de forma negligente ou que tenha sido alertada, antes do protesto, da irregularidade ou da quitação do título. Nesse sentido:  STJ, AgRg no Ag 1086819 / RJ; STJ, REsp 549733 / RJ. 
+
+Estabelece a Súmula 476 do Superior Tribunal de Justiça, no mesmo sentido, que: "O endossatário de título de crédito por endosso-mandato só responde por danos decorrentes de protesto indevido se extrapolar os poderes de mandatário?.
+
+No caso, nenhuma dessas situações restou comprovada nos autos. 
+
+IV ? No que diz respeito às requeridas N. A. Fomento Mercantil Ltda. e  Unigres Cerâmica Ltda,  a ação deve ser julgada parcialmente procedente. 
+
+A requerida Unigres Cerâmica alega haver emitido o título objeto da presente demanda em razão de pedido realizado pela autora, visando à aquisição de produtos por ela fornecidos. Posteriormente, porém, a autora teria pleiteado o cancelamento da compra, o que ensejou, inclusive, o cancelamento do protesto. 
+
+Nesse contexto, é fato incontroverso que o débito não existe, visto que houve cancelamento da compra. De rigor, portanto, o acolhimento do pedido fl. 06, "c", (i), inclusive em relação à N. A. Fomento Mercantil, para quem o crédito foi transmitido.
+
+Vale lembrar que a duplicata mercantil é título causal, assim, inexistindo o negócio subjacente, o crédito não pode ser exigido, inclusive pelos endossatários ou cessionários de boa-fé. Some-se a isso o fato de a própria N. A. Fomento Mercantil ter afirmado que o título foi readquirido pela requerida Unigres Cerâmica (fl. 103), o que, porém, não restou provado. 
+
+Era ônus das requeridas, ainda, no caso, comprovar a regularidade da emissão da duplicata mercantil, exibindo a fatura e o comprovante de entrega da mercadoria, o que não ocorreu no caso. 
+
+Pelas razões expostas, a declaração de inexigibilidade do débito (fl. 06, "c", [i]) é solução de rigor. 
+O dano moral, por outro lado, não deve ser reconhecido. 
+Isso porque houve desistência do protesto antes mesmo deste se tornar público, conforme ofício do 6º Tabelião de Protesto de Títulos trazido à fl. 34.  Não houve lesão, assim, à honra objetiva ou à imagem da autora. 
+Nesse contexto, o fato não passou de mero transtorno, não indenizável.
+Vale consignar que a autora, enquanto pessoa jurídica, detém apenas honra objetiva e não honra subjetiva. Em sendo assim, se o protesto não se tornou público, em virtude da desistência, não se cogita de lesão à honra objetiva, e, por conseguinte, de dano moral indenizável. 
+O STJ, no exame do Resp 195.842/SP, Min. Ruy Rosado, bem decidiu: 
+?Quando se trata de pessoa jurídica, o tema da ofensa à honra propõe uma distinção inicial: a honra subjetiva, inerente a pessoa física, que está no psiquismo de cada um e pode ser ofendida com os atos que atinjam a sua dignidade, respeito próprio, auto-estima etc., causadores da dor, humilhação, vexame; a honra objetiva, externa do sujeito, que consiste no respeito, admiração, apreço, consideração que os outros dispensam à pessoa. (...) A pessoa jurídica, criação de ordem legal, não tem capacidade de sentir emoção e dor, estando por isso desprovida da honra subjetiva e imune à injúria. Pode padecer, porém, de ataque à honra objetiva, pois goza de uma reputação junto a terceiros, passível de ficar abalada por atos que afetem o seu bom nome no mundo civil ou comercial onde atua.?
+
+Já decidiu o Eg. TJSP em casos semelhantes: 
+
+INDENIZAÇÃO. DANOS MORAIS. Contrato de prestação de assistência médica hospitalar. Apresentação de pedido de desistência por escrito. Cobrança indevida de mensalidade e apontamento de duplicata mercantil para o fim de lavratura de protesto que não chegou a se aperfeiçoar, por iniciativa da própria apresentante. Dano moral inocorrente. Sentença de improcedência mantida. Recurso desprovido. (TJ-SP - Apel. 0007458-76.2007.8.26.0114, Rel. Des. Milton Carvalho, 17/06/2013)
+
+RESPONSABILIDADE CIVIL - Danos morais - Duplicata - Inocorrência de protesto ante o pedido de desistência pela própria ré-apelada - Indenização indevida - Recurso improvido. (TJSP ? Apel. 991060328970 SP , Rel. Des. J. B. Franco de Godoi, 15/09/2010)
+
+
+
+DECIDO.
+
+Ante o exposto, julgo PARCIALMENTE PROCEDENTE a ação, para DECLARAR INEXIGÍVEL, em relação às requeridas "Unigres" e "N. A. Fomento Mercantil",  o débito referente à duplicata mercantil mencionada na petição inicial. 
+Ficam expressamente indeferidos os demais pedidos formulados na inicial.
+No que diz respeito às requeridas "Unigres" e "N. A. Fomento Mercantil", sem condenação em custas, despesas e honorários advocatícios, em face da sucumbência recíproca.
+No que diz respeito ao Banco Bradesco, condeno a autora ao pagamento das custas e despesas deste requerido, bem como honorários advocatícios, que fixo em R$ 300,00 (trezentos reais). 
+Para interposição de eventual recurso, o preparo deverá corresponder a 2% (dois por cento) sobre o valor da condenação, se houver, ou do valor da causa atualizado. Transitada em julgado, certifique-se. Nada requerido, arquivem-se.
+P.R.I.C.
+
+São Paulo, 22 de maio de 2014.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

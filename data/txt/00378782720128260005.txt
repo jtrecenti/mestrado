@@ -1,0 +1,44 @@
+
+
+SENTENÇA
+
+Processo nº:0037878-27.2012.8.26.0005
+Classe - AssuntoProcedimento Ordinário - Obrigações
+Requerente:Organização Social Evangelica das Assembleias de Deus - OSEAD
+Requerido:Google Brasil Internet Ltda.
+
+CONCLUSÃO :
+Aos 26.10.2012, promovo a conclusão destes autos ao Dr. FÁBIO HENRIQUE FALCONE GARCIA, MM. Juiz de Direito Titular da 3ª Vara Cível deste Foro Regional de São Miguel Paulista, Comarca de São Paulo. _____________.
+
+
+ORGANIZAÇÃO SOCIAL EVANGÉLICA DAS ASSEMBLÉIAS DE DEUS OSEAD ajuizou ação ordinária em face de GOOGLE BRASIL INTERNET LTDA. visando a obrigar a ré, liminarmente, a "não mais disponibilizar, não mais fornecer o link que direciona, encaminha, as pesquisas aos hospedeiros das mensagens que denigrem a imagem do Autor, com a expedição do competente mandado de obrigação de fazer, sob pena de, na inércia, ser aplicada multa pecuniária no importe de R$ 100,00 por dia"; ao final, requer a indisponibilidade de tais "links".
+A liminar foi indeferida.
+Citada, a ré contestou, levantando preliminar de ilegitimidade passiva, ao argumento de que não é responsável pelo conteúdo exibido nas páginas da internet, já que atua apenas como ferramenta de busca. Sustenta carência, pois a exclusão do conteúdo de busca não acarretaria a exclusão do conteúdo propriamente dito, de maneira que a ofensa poderia se perpetuar, independentemente do provimento jurisdicional. No mérito, afirma a impossibilidade de controle de conteúdo, pelo Google, no exercício de sua atividade, em razão da maneira como é elaborado o sistema de buscas. Ainda, sustenta ser inconstitucional a monitoração do conteúdo das páginas pelo Google, o que o impediria de executar a tarefa pretendida pela autora.
+Houve réplica.
+É o relatório.
+As preliminares se confundem com o mérito da lide.
+O Google não é responsável pela ofensa e não tem ingerência sobre o conteúdo das páginas exibidas como resultado de uma operação de busca. Simplesmente, o Google informa aquilo que é exibido na rede mundial de computadores. Não praticou ilícito algum ao exibir os resultados da busca. Na realidade, apenas aqueles que ofenderam, em tese, a imagem da requerente poderiam ser responsabilizados pela exibição, na Internet, de notícias falsas a respeito da autora.
+Por outro lado, a medida tampouco seria efetiva. A exclusão do nome da autora do mecanismo de buscas não atingiria o objetivo perseguido, que é a ocultação dos conteúdos supostamente lesivos, na medida em que esses conteúdos permaneceriam na rede e poderiam ser exibidos por outros mecanismos de busca, ou mesmo poderiam ser acessados diretamente, por usuários indefinidos. Mesmo que fosse excluída da busca qualquer menção ao nome da autora, outras palavras poderiam fazer com que as reportagens fossem automaticamente selecionadas pelo critério de busca e, portanto, poderiam figurar nos resultados da página da internet.
+De qualquer modo, a medida reclamada não eliminaria a suposta lesão.
+Ainda por outro motivo a pretensão seria improcedente.
+É que não há qualquer possibilidade de vincular a ação do Google, como ferramenta de busca, à lesividade decorrente do conteúdo postado por terceiros. Essa pretensão esbarra em óbices técnicos e jurídicos. A questão foi enfrentada pelo C. STJ, em acórdão paradigmático, citado pela requerida (RESP 1.316.921-RJ, j. 29.6.12, Rel. Min. Nancy Andrighi, de cujo voto se colhem os seguintes trechos:
+Ora, se a página possui conteúdo ilícito, cabe ao ofendido adotar medidas tendentes à sua própria supressão, com o que estarão, automaticamente, excluídas dos resultados de busca virtual dos sites de pesquisa.
+Não se ignora a evidente dificuldade de assim proceder, diante da existência de inúmeras páginas destinadas à exploração de conteúdo ilícito ? sobretudo imagens íntimas, sensuais e/ou pornográficas, como é o caso dos autos ? mas isso não justifica a transferência, para mero provedor de serviço de pesquisa, da responsabilidade pela identificação desses sites, especialmente porque teria as mesmas dificuldades encontradas por cada interessado individualmente considerado.
+Com efeito, é notório que nosso atual estágio de avanço tecnológico na área da ciência da computação, notadamente no ramo da inteligência artificial, não permite que computadores detenham a capacidade de raciocínio e pensamento equivalente à do ser humano. Vale dizer, ainda não é possível que computadores reproduzam de forma efetiva faculdades humanas como a criatividade e a emoção. Em síntese, os computadores não conseguem desenvolver raciocínios subjetivos, próprios do ser pensante e a seu íntimo.
+Sendo assim, não há como delegar a máquinas a incumbência de dizer se um determinado site possui ou não conteúdo ilícito, muito menos se esse conteúdo é ofensivo a determinada pessoa.
+Diante disso, por mais que os provedores de informação possuam sistemas e equipamentos altamente modernos, capazes de processar enorme volume de dados em pouquíssimo tempo, essas ferramentas serão incapazes de identificar conteúdos reputados ilegais.
+Não bastasse isso, a verificação antecipada, pelo provedor de pesquisa, do conteúdo de cada página a compor a sua base de dados de busca eliminaria ? ou pelo menos alijaria ? um dos maiores atrativos da Internet, que é a disponibilização de dados em tempo real.
+Como bem descreve a recorrente na inicial do agravo de instrumento, o mecanismo de busca dos provedores de pesquisa trabalha em 03 etapas: (i) uma espécie de robô navega pela web identificando páginas; (ii) uma vez identificada, a página passa por uma indexação, que cataloga e mapeia cada palavra existente, compondo a base de dados para as pesquisas; e (iii) realizada uma busca pelo usuário, um processador compara os critérios da pesquisa com as informações indexadas e inseridas na base de dados do provedor, determinando quais páginas são relevantes e apresentando o resultado.
+Evidentemente, esse mecanismo funciona ininterruptamente, tendo em vista que, além de inúmeras páginas serem criadas a cada dia, a maioria das milhões de páginas existentes na web sofrem atualização regularmente, por vezes em intervalos inferiores a uma hora, sendo que em qualquer desses momentos pode haver a inserção de informação com conteúdo ilícito.
+Essa circunstância, aliada ao fato de que a identificação de conteúdos ilícitos ou ofensivos não pode ser automatizada, torna impraticável o controle prévio por parte dos provedores de pesquisa da cada página nova ou alterada, sob pena, inclusive, de seus resultados serem totalmente desatualizados.
+...
+A verdade é que não se pode, sob o pretexto de dificultar a propagação de conteúdo ilícito ou ofensivo na web, reprimir o direito da coletividade à informação.
+Sopesados os direitos envolvidos e o risco potencial de violação de cada um deles, o fiel da balança deve pender para a garantia da liberdade de informação assegurada pelo art. 220, § 1º, da CF/88, sobretudo considerando que a Internet representa, hoje, importante veículo de comunicação social de massa.
+Embora seja possível identificar a existência de páginas ofensivas à pessoa da recorrida, seriam imensuráveis os danos derivados das restrições por ela pretendidas para impedir a facilitação no acesso aos respectivos sites, prejuízos esses que atingiriam até mesmo a própria recorrida na divulgação do seu trabalho e construção da sua imagem.
+
+Ante o exposto, JULGO IMPROCEDENTE o pedido e resolvo o processo com solução do mérito, a teor do disposto no artigo 269, I, do CPC. Condeno a autora ao pagamento de custas, despesas processuais e honorários fixados, nos termos do artigo 20, § 4º, do CPC, em R$ 1.500,00.
+P. R. I. C.
+São Paulo, 26 de março de 2013
+
+FÁBIO HENRIQUE FALCONE GARCIA
+Juiz de Direito

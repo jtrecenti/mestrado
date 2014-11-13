@@ -1,0 +1,58 @@
+
+
+SENTENÇA
+
+Processo nº:0012220-07.2012.8.26.0003
+Classe ? Assunto:Procedimento do Juizado Especial Cível - Perdas e Danos
+Requerente:José Pereira Ribeiro
+Requerido:Vital Lab Laboratório de Análises Clínicas
+
+
+
+
+Juiz(a) de Direito: Dr(a). Samira de Castro Lorena
+
+
+Vistos.
+
+Dispensado o relatório, na forma do artigo 38, da Lei nº 9.099/95.
+
+Fundamento e Decido.
+
+Inicialmente devem ser afastadas defesas preliminares suscitadas pela ré. 
+Isto porque, é incabível a intervenção de terceiros no procedimento regido pela Lei nº 9.099/95, conforme prevê seu artigo 10, bem como a via eleita é adequada para o processamento da presente demanda, já que é despicienda a produção de prova pericial para o julgamento da lide, sendo suficientes as provas documental e oral produzidas.
+Noutra parte, tendo a ré realizado o exame médico cujo resultado teria, em tese, gerado danos de ordem moral ao autor, é parte legítima para responder pelos termos da ação. 
+No mérito o pedido é procedente.
+Cuida-se a demanda em tela de pleito de indenização por danos morais, em virtude de o exame realizado pelo autor no laboratório réu por determinação da sua empregadora ter dado resultado de falso positivo para sífilis, cujo diagnóstico posteriormente foi afastado com a realização de outros exames.
+Nesse passo, verifica-se que possui bastante coerência a tese sustentada pela ré e corroborada pela documentação que acompanhou a contestação (fls. 72/75) e por sua funcionária Sueli, ouvida como informante, no sentido de que o exame a que se submeteu o demandante (fls. 18), não é específico para de sífilis, mas de triagem, razão pela qual é passível de dar ensejo ao resultado de falso positivo, como ocorreu na hipótese dos autos, de modo deve ser interpretado por médico que determinará a realização de outro exame específico para então ser feito o diagnóstico confirmatório da enfermidade.
+No entanto, a despeito disso, é certo que o laboratório réu não cuidou de demonstrar que por algum meio informou o autor acerca da falta de especificidade do exame, da probabilidade do resultado ser um falso positivo e da necessidade de realização de outro específico para a confirmação do diagnóstico. 
+Da mesma forma, o método de divulgação dos resultados dos exames pela ré, conforme informado na contestação, ou seja, via internet através de login e senha (fls. 70), e não com remessa direta ao médico como alegado pela informante, certamente não impede, como não impediu no caso em tela, o seu acesso pelo paciente sem a assistência de médico, tampouco sua a linguagem técnica é apta para, nos dias atuais, obstar o entendimento por leigos do alcance ou possível alcance do seu resultado.
+Ressalte-se sobre isso que a testemunha Sueli, que retirou os exames dos funcionários da empresa, inclusive o do autor, disse que embora não tenha entendido o seu resultado ?jogou no google? e descobriu que ele estava com sífilis, recomendando que procurasse um médico.
+Vale destacar que diferentemente do sustentado pelo réu, aplica-se as regras do Código de Defesa do Consumidor ao caso vertente, já que embora tenha a empregadora do autor custeado o exame, o destinatário final é o demandante. 
+Logo, a conclusão que se extrai é que houve falha da ré, não em virtude do resultado em si do exame (erro de diagnóstico), mas diante da ausência de prestação de informações adequadas e corretas ao consumidor sobre a probabilidade de falso positivo e das providências complementares a serem realizadas para o correto diagnóstico de doença, tendo havido, assim, afronta ao artigo 14 do CDC. Relevante ponderar na hipótese que a responsabilidade é objetiva, isto é, independe da perquirição acerca de culpa ou dolo da fornecedora, tampouco é excluída pela existência de eventual culpa concorrente de terceiro, empregadora do autor na divulgação do resultado do exame. 
+Nesse sentido, confira o seguinte julgado sobre caso semelhante:
+INDENIZAÇÃO POR DANOS MORAIS - Erro de diagnóstico - Gestante submetida a exame que resultou positivo para sífilis - Realização de novos exames, pelo mesmo método, atestando a doença - Ausência de informação a respeito da probabilidade de obtenção de resultado equivocado em virtude da gravidez da coautora - Responsabilidade objetiva do laboratório, nos termos do artigo 14, do CDC - Responsabilidade solidária do laboratório e do farmacêutico responsável pela liberação do exame - Dano moral configurado - Evidente sofrimento causado aos autores, ante o diagnóstico de grave moléstia - Indenização que deve ser fixada com razoabilidade, afigurando-se excessivo o valor pretendido pelos autores - Sentença improcedente - Recurso parcialmente provido. (TJSP ? Apelação n° 0138289-35.2008.8.26.0000 ? 5ª Câmara de Direito Privado ? Relator ? j. 25/04/2012 - maioria de votos).
+Relevante transcrever trecho de julgado do STJ que instrui o citado acórdão:
+RESPONSABILIDADE CIVIL. REPARAÇÃO DE DANO MORAL. PRESCRIÇÃO. MATÉRIA PRECLUSA. EXAME LABORATORIAL HIV - AIDS. FALSO POSITIVO. DEVER DE INFORMAR O PACIENTE SOBRE A POSSIBILIDADE DO RESULTADO NÃO SER CONCLUSIVO. RESPONSABILIDADE DO LABORATÓRIO. INDENIZAÇÃO POR DANOS MORAIS. QUANTUM EXCESSIVO. SUCUMBÊNCIA RECÍPROCA. SÚMULA N. 326/STJ. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESTA EXTENSÃO PROVIDO.
+1. Deve ser obedecido o comando expresso na coisa julgada, estando preclusa a argüição de prescrição.
+2. Negligente o laboratório, displicente sua conduta, sendo responsável pela ausência de informação suficiente e adequada ao paciente do resultado de sua sorologia anti-HIV, ressalvando inclusive a possibilidade do resultado se mostrar equivocado, bem como de realizar novos exames, uma vez ciente de que o exame realizado não era conclusivo.
+3. A revisão do valor da indenização por dano moral só ocorre nos casos de valores excessivos ou irrisórios. In casu, se mostra excessiva a quantia fixada, devendo ser reduzida a patamares razoáveis.
+4. Evidente o propósito de reexame do conjunto fático-probatório, ao se pretender a revisão das provas produzidas nos autos quanto à responsabilidade solidária da segunda ré.
+5. Na ação de indenização por dano moral, a condenação em montante inferior ao postulado na inicial não implica sucumbência recíproca (Súmula n. 326/STJ).
+6. Recurso parcialmente conhecido e, na extensão, provido. (REsp 707541/RJ, Rel. Ministro HÉLIO QUAGLIA BARBOSA, QUARTA TURMA, julgado em 12/12/2006, DJ 30/04/2007, p. 323, grifo nosso).
+Inegáveis, de outro lado, a angústia, aflição e o aborrecimento anormais do autor ao receber o resultado do exame em questão relativo à doença sexualmente transmissível de razoável gravidade, cujo sofrimento possui nexo causal com o defeito de informação atribuível ao laboratório réu, de modo que reputo caracterizado o dano moral indenizável.
+Por fim, no que diz respeito ao valor da indenização, partindo-se da premissa de que a indenização por danos morais não pode configurar-se em causa de enriquecimento ilícito ao credor, e consequente empobrecimento sem causa pelo devedor, tendo em conta a extensão do dano, bem assim seu caráter punitivo, preventivo e reparatório, entendo por bem fixá-lo em R$ 3.000,00.
+Ante o exposto, e por tudo mais que dos autos consta julgo PROCEDENTE o pedido, para condenar a ré a pagar ao autor R$ 3.000,00, monetariamente corrigidos desde a publicação desta sentença e com juros de mora de 1% a contar da citação. Julgo, pois, extinto o feito com resolução do mérito, nos termos do artigo 269, inciso I, do CPC.  Deixo de arbitrar verba honorária, na medida em que incabível na espécie (artigo 55, da Lei n. 9.099/95). Em caso de recurso inominado, o preparo recursal deverá ser recolhido nos termos da Lei estadual nº 11.608/03, artigo 4º, incisos I e II, e calculado em duas etapas. A primeira, calcular 1% sobre o valor da causa (dispensado quando da propositura da ação nos termos do artigo 54 da Lei nº 9.099/95, mas agora obrigatório seu recolhimento), sendo no mínimo 5 Ufesps, isto é, R$92,20 (resultado da primeira etapa). Na segunda etapa, calcular 2% sobre o valor da condenação (também no mínimo 5 Ufesps), somando-se com o valor encontrado da primeira etapa, resultando sempre um recolhimento mínimo de 10 Ufesps, isto é, R$184,40, (podendo ser maior dependendo do valor da causa ou da condenação), devendo o advogado ficar atento que em casos de improcedência do pedido, os 2% devem ser calculados com base no valor dado à causa. Deverá ainda ser recolhido o porte de remessa e retorno dos autos ao Colégio Recursal, no valor de R$ 25,00 (por volume), a ser recolhido em guia do fundo de despesas do Tribunal de Justiça (cód. 110-4), nos termos do Provimento nº 833/04 do Conselho Superior da Magistratura.
+
+P.R.I.
+
+
+
+
+
+
+São Paulo, 23 de novembro de 2012.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

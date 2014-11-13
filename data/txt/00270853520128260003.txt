@@ -1,0 +1,81 @@
+
+
+SENTENÇA
+
+Processo nº:0027085-35.2012.8.26.0003
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Moral
+Requerente:A W S Indústria e Comércio de Eletrodos Ltda.
+Requerido:Banco Itaú S/A e outro
+
+
+
+
+Juiz(a) de Direito: Dr(a). Fábio Fresca
+
+
+Vistos.
+
+
+Processo nº 0027085-35.2012 ? Ação declaratória cumulada com indenizatória
+
+AWS INDÚSTRIA E COMÉRCIO DE ELETRODOS LTDA. ajuizou a presente ação declaratória, cumulada com indenizatória por danos morais, em face de BANCO ITAÚ S/A e FLAFEL COMÉRCIO G.A. Ltda., alegando que recebeu aviso de intimação do 5º Cartório de Protesto de Títulos, a fim de que efetuasse o pagamento do título nº 0699-04, no valor de R$ 829,73, sob pena de ser efetivado o protesto. Alega desconhecer a origem do título, já que nunca manteve qualquer relação com os requeridos. Requer a declaração de inexistência do débito, a condenação pelo pagamento em dobro (art. 940 do CC) e por danos morais, no valor de R$ 30.000,00. Com a inicial vieram documentos (fls. 6/19).
+ Citada (fls. 26), a ré ITAÚ UNIBANCO S/A apresentou contestação (fls. 29/42) alegando, em preliminares, a sua ilegitimidade passiva. No mérito, alega ausência de provas dos danos morais reclamados. Com a contestação vieram documentos (fls. 43/46). 
+A ré FLAFEL COMÉRCIO G.A. Ltda. não apresentou contestação no prazo legal (fls. 49), embora devidamente citada (fls. 27). 
+
+Houve réplica (fls. 54/61).
+É o relatório.
+ 
+Processo nº 0025267-48.2012 ? Ação cautelar
+
+AWS INDÚSTRIA E COMÉRCIO DE ELETRODOS LTDA. ajuizou a presente ação cautelar em face de BANCO ITAÚ S/A e FLAFEL COMÉRCIO G.A. Ltda., insurgindo-se contra o protesto feito pela requerida, no valor de R$ 829,73, referente a um título cuja origem de apontamento a autora desconhece. Alega que não efetuou qualquer negócio com as requeridas que justifique a cobrança do título. Requer, liminarmente, o cancelamento do protesto e, ao final, a confirmação da liminar. Com a inicial vieram documentos (fls. 08/22). 
+A liminar foi deferida às fls. 23.
+Citado, o réu ITAÚ UNIBANCO S/A apresentou contestação (fls. 31/39) alegando, em preliminares, a sua ilegitimidade passiva. No mérito, afasta o seu ônus de sucumbência. Com a contestação vieram documentos (fls. 40/45).
+A ré FLAFEL COMÉRCIO G.A. Ltda. não contestou no prazo legal (fls. 46). 
+Às fls. 47, foi determinado o julgamento conjunto da cautelar com a ação principal nº 0027085-35.2012.
+É o relatório.
+
+DECIDO.
+
+Não havendo necessidade de produção de prova em audiência, por se tratar de matéria de direito, e, de fato, provada por documentos, passo à decisão (artigo 330, inc. I do Cód. Proc. Civil).
+Inicialmente, acolho a preliminar de ilegitimidade passiva do réu ITAÚ UNIBANCO S/A.
+No caso, o estabelecimento bancário recebeu os títulos para simples cobrança, por meio de endosso-mandato. Não houve, portanto, a transferência da propriedade das duplicatas endossadas ou do crédito por elas representado. 
+Se o mandatário não adquiriu direitos por conta do endosso-mandato, não é dele a responsabilidade por eventuais danos decorrentes da presente demanda. 
+Nesse sentido, João Eunápio Borges leciona: "Pelo endosso-mandato, o endossador visa apenas constituir o endossatário, seu procurador. Ele é mero instrumento de mandato, por ele nem se transfere a propriedade do título, nem assume o endossatário, qualquer responsabilidade. O endossatário, em tal caso, é mero representante do endossador, agindo amigável ou judicialmente em nome deste e não no seu próprio nome. A defesa oponível pelo devedor, será a que tiver contra o endossador e não a que pudesse opor pessoalmente ao endossatário procurador" (Títulos de crédito. 2a ed. Rio de Janeiro: Forense, 1983, p. 78).
+O Tribunal de Justiça de São Paulo já teve a oportunidade de firmar tal entendimento, a exemplo dos seguintes julgados:
+
+ ?ILEGITIMIDADE PASSIVA - Banco que recebeu duplicatas por endosso-mandato - Instituição que passou a ser mera portadora dos títulos, efetuando a cobrança por conta do endossante-mandante - Endossatário-mandatário que é parte ilegítima para responder à presente ação - Precedentes ? Extinção do processo, sem exame do mérito, com fundamento no art. 267, VI, do CPC - Recurso provido. DECLARATÓRIA DE INEXIGIBILIDADE DE CRÉDITO C.C. INDENIZAÇÃO POR DANOS MORAIS - Duplicata mercantil - Ausência de causa subjacente - Ação de inexigibilidade procedente - Danos morais - Não cabimento, no caso, pois houve simples apontamento para protesto, oportunamente retirado pelo apresentante, sem outras repercussões - Recurso improvido.? (Apel.nº: 0006229-47.2006/TJSP)
+
+?AÇÃO DECLARATÓRIA DE NULIDADE E INEXIGIBILIDADE DE TÍTULO. IMPROCEDÊNCIA EM RELAÇÃO BANCO QUE RECEBE O TÍTULO EM ENDOSSO MANDATO. APELO DA AUTORA PRETENDENDO RESPONSABILIZAÇÃO DO BANDO. RECONHECIMENTO DA ILEGITIMIDADE PASSIVA DO BANCO. ENDOSSO-MANDATO. Banco que agiu dentro dos limites do endosso-mandato que lhe foi conferido. Não caracterização de culpa. Súmula 476 do STJ. Recurso não provido, com observação, para alterar o fundamento da extinção em relação ao banco. Sucumbência inalterada.? (Apel. nº 0008619-97.2002/TJSP)
+
+?RESPONSABILIDADE CIVIL Inexigibilidade de título de crédito Réu que recebeu duplicata via endosso-mandato e encaminhou para protesto Atuação na qualidade de procurador da empresa credora, ausente demonstração de negligência Reconhecida a ilegitimidade passiva do réu. Extinção do processo com fundamento no artigo 267, inciso VI, do Código de Processo Civil. Sentença reformada RECURSO PROVIDO.? (Apel. nº 0000277-82.2009/TJSP)
+
+Quanto ao mérito, é incontroverso que a autora teve a duplicata mercantil nº 0699 protestada em seu desfavor, como fazem prova os documentos de fls. 11/13.
+A discussão se limita ao dever de pagamento dessas duplicatas e, consequentemente, do direito da autora à indenização por danos morais. 
+E, nesse ponto, com razão a autora.
+Embora a revelia não induza à presunção de veracidade quando, havendo pluralidade de réus, algum deles contesta a ação (artigo 320, inciso I do Código de Processo Civil), a corré FLAFEL COMÉRCIO G.A. Ltda. não supriu a oportunidade que lhe foi concedida de provar a venda e a entrega da mercadoria, quando à esta incumbia tal comprovação
+De acordo com a própria ordem de protesto juntada às fls. 12, ?o sacador, por sua conta e risco, declarou possuir prova da compra/venda/entrega da mercadoria e exibirá onde e quando exigida?. 
+Sendo certo que a contestação era o momento processual em que a ré deveria ter provado tais fatos, nada há que justifique o prejuízo da autora em detrimento do protesto indicado. 
+Em casos como o presente, o sacador tem o dever de demonstrar a regularidade do negócio subjacente que permitiu o saque da duplicata, mais ainda em se tratando de endosso-mandato, em que o banco endossatário não tem qualquer responsabilidade por tal verificação.
+Isto posto, o caso é o de declaração de inexigibilidade da duplicata, com a consequente baixa do protesto. 
+Ademais, como o protesto se mostrou irregular, deverá a ré FLAFEL COMÉRCIO G.A. Ltda. suportar o pagamento dos danos morais sofridos pela sacada.
+Ainda que se trate de pessoa jurídica, de acordo com a Súmula 227 do STJ, indubitável que ?nos casos de protesto indevido de título ou inscrição irregular em cadastros de inadimplentes, o dano moral se configura in re ipsa, isto é, prescinde de prova, ainda mais que a prejudicada seja pessoa jurídica? (REsp. 1059663/MS, Rel. Min. Nancy Andrighi; no mesmo sentido: AgRg no REsp. 1.186.167/RS, Rel. Min. Luis Felipe Salomão; AgRg no REsp. 1.252.125/SC, Rel. Min. Sidnei Beneti; REsp. 959.565/SP, Rel. Min. Paulo de Tarso Sanseverino; e, AgRg no REsp. 740.694/RS, Rel. Min. João Otávio de Noronha.).
+Na fixação do quantum devido a título de danos morais, é preciso atentar aos princípios da igualdade, proporcionalidade e razoabilidade, de modo que o valor arbitrado compense razoavelmente o desprestígio moral experimentado, sem que isso configure um enriquecimento ilícito.
+É esse o entendimento do Superior Tribunal de Justiça:
+"O valor da indenização por dano moral sujeita-se ao controle do Superior Tribunal de Justiça, sendo certo que, na fixação da indenização a esse título, recomendável que o arbitramento seja feito com moderação, proporcionalmente ao grau de culpa, ao nível socioeconômico do autor e, ainda, ao porte econômico dos réus, orientando-se o juiz pelos critérios sugeridos pela doutrina e pela jurisprudência, com razoabilidade, valendo-se de sua experiência e do bom senso, atento à realidade da vida e às peculiaridades de cada caso". (STJ, 4a T., REsp 145.358/MG, Rei. Min. SÁLVIO DE FIGUEIREDO TEIXEIRA, j . 29/10/1998, DJ 01/03/1999, p. 325).
+Assim, considerando as particularidades do caso concreto, fixo a indenização em R$ 2.000,00 (dois mil reais), o que é suficiente para assumir um caráter pedagógico (e não punitivo) à requerida, a fim de que evite novos fatos danosos como este, sem significar enriquecimento ilícito em favor da autora.
+
+
+Ante o exposto,
+
+A) com fundamento no artigo 267, VI, do Código de Processo Civil, DECLARO extinta a relação jurídica processual, sem resolução do mérito, em face de ITAÚ UNIBANCO S/A. Por força da sucumbência condeno a autora ao pagamento das custas processuais e honorários advocatícios que fixo, por equidade, em R$ 300,00 (art. 20 § 4º Cód Proc. Civil); e,
+B) com resolução de mérito (art. 269, inc. I do Cód. de Proc. Civil), JULGO PROCEDENTE a ação em face de FLAFEL COMÉRCIO G.A. Ltda., para DECLARAR a inexigibilidade do débito protestado, CONSOLIDANDO a liminar deferida, e para CONDENAR a ré FLAFEL COMÉRCIO G.A. Ltda. ao pagamento de R$ 2.000,00 a título de danos morais, devidamente corrigido de acordo com os índices de atualização do Tribunal de Justiça, a contar da data do arbitramento, e acrescidos de juros de 1% ao mês, contados da citação. Por força da sucumbência, condeno a ré ao pagamento das custas processuais e honorários advocatícios que fixo em 10% do valor da condenação (art. 20 § 3º Cód Proc Civil).
+Oficie-se o Cartório de Protestos e Títulos.
+
+P.R.I.
+
+
+São Paulo, 18 de março de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

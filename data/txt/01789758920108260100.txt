@@ -1,0 +1,72 @@
+
+
+SENTENÇA
+
+Processo nº:0178975-89.2010.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Defeito, nulidade ou anulação
+Requerente:Parmalat Brasil S/A Industria de Alimentos e outros
+Requerido:Glg Emerging Markets Special Situation Fund e outros
+
+
+
+
+Juiz(a) de Direito: Dr(a). Antonio Carlos de Figueiredo Negreiros
+
+
+Vistos.
+GLG EMERGING MARKETS SPECIAL SITUATIONS FUND e EMERGING MARKETS SPECIAL SITUATIONS 3 LIMITED ofereceram EMBARGOS de DECLARAÇÃO da sentença de fls. 5.071/5.085 alegando: a) omissão no relatório da sentença sobre a presença da Lácteos no polo ativo e sobre os pedidos formulados no aditamento de fls. 1.743/1.746; b) omissão quanto à apreciação da preliminar de carência da ação em relação aos pedidos de anulação de contratos celebrados por terceiro.
+GRAZ PARTICIPAÇÕES LTDA ofereceu os EMBARGOS de DECLARAÇÃO de fls. 5.099/5.102 alegando obscuridade na parte dispositiva quanto à capitulação da extinção do processo em relação à mesma, com ou sem resolução de mérito.
+LÁCTEOS DO BRASIL e outros ofereceram os EMBARGOS de DECLARAÇÃO de fls. 5.104/5.112 alegando: a) contradição quanto à alegada vinculação das intervenientes garantidoras à cláusula arbitral; b) omissão da sentença quanto à apreciação dos pedidos "b", "d", "e" e "f" da inicial e respectivo aditamento; c) não apreciação da alegada inexigibilidade das garantias; d) ausência de fundamentação dos motivos específicos da improcedência de cada um dos pedidos formulados em face da Morgan Stanley; e) omissão sobre o motivo do julgamento antecipado sem prévio indeferimento das provas cuja produção as autoras protestaram.
+É o relatório.
+DECIDO.
+I) DAS NECESSÁRIAS COMPLEMENTAÇÕES AO RELATÓRIO
+Inicialmente, faz-se necessária a regularização do polo ativo para inclusão da LÁCTEOS DO BRASIL S/A no litisconsórcio ativo, conforme requerido pelos réus, com expressa concordância das autoras (vide fls. 2.304). 
+Além disso, é necessário acrescentar ao relatório da sentença que as autoras, conforme petição de fls. 1.743/1.746 aditaram a inicial para especificar os pedidos formulados que constam nos itens da "a" a "g" do referido aditamento.
+II) EMBARGOS OFERECIDOS PELA GRAZ
+No que tange aos embargos oferecidos pela GRAZ, não há que se falar em sua ilegitimidade ad causam em relação aos fatos apreciados na sentença, haja vista que está devidamente comprovado nos autos que a embargante é braço operacional da EMSS3 em território nacional, que foi constituída exatamente para viabilizar a cessão das debêntures.
+Logo, como a inicial imputa às rés prática de atos simulados e a própria constituição da empresa GRAZ integraria o conjunto desses atos praticados pelas rés para levar a cabo tal intento, em tese a embargante reponde pelas consequências da alegada simulação da qual teria participado, independentemente da ordem cronológica que os fatos ocorreram.
+III) DA NULIDADE/ANULAÇÃO DA CESSÃO DE DEBÊNTURES A TERCEIROS
+Por outro lado, tem razão a embargante GLG quando alega omissão do julgado em relação à preliminar de ilegitimidade passiva da mesma em relação especificamente ao pedido de declaração de nulidade/anulação  do contrato de cessão das debêntures celebrado com terceiro, fato anterior e estranho ao objeto dos contratos submetidos ao julgamento pelo Tribunal Arbitral.
+As autoras, que participaram de todas as etapas da negociação da dívida do contrato bancário, tinham inequívoco conhecimento de que a  parte das debêntures foi devolvida à Parmalat por ocasião da celebração do contrato de empréstimo com a GLG/EMSS3 e o restante das debêntures foram adquiridas pela Wordwide Investments LLC, numa operação realizada pela EMSS3 com prévio conhecimento da Parmalat e participação decisiva da LAEP (fls. 1.747/1.766).
+O reconhecimento de alguma nulidade pretérita ensejaria a nulidade das obrigações posteriores ainda insatisfeitas.
+No entanto, aflora a carência da ação em relação ao pedido de nulidade/anulação do contrato de cessão das Debêntures à WWI - que correspondem a R$ 35 milhões -, tendo em vista que referida cessão produziu efeitos em relação a terceiros - pagamento das debêntures pela avalista da Parmalat (Lácteos), mediante cessão de 100% das ações da Intergralat Integração Agropecuária S/A para a subsidiária brasileira da WWI (CBAA) -, conforme cláusulas XI e XII do instrumento de fls. 1.747/1.766..
+Logo, em relação às debêntures cedidas a teceiros, as rés são parte ilegítima quanto ao pedido de nulidade/anulação do contrato de cessão, sem prejuízo da legitimidade das rés quanto ao pedido cumulado de indenização por perdas e danos decorrentes da alegada simulação de uma regular operação bancária e  demais atos  desencadeados.
+IV) QUANTO À VINCULAÇÃO DOS GARANTIDORES À CLÁUSULA ARBITRAL
+Os embargos neste aspecto possuem nítido caráter infringente ao julgado, uma vez que a sentença é clara sobre a sujeição de todos os subscritores do contrato à cláusula arbitral, independentemente de figurar como garantidor, haja vista que, em relação à obrigação de pagamento do empréstimo - contrato unilateral - todos os garantidores são igualmente responsáveis pela dívida, haja vista a presença de cláusula textual de solidariedade entre eles.
+  O inconformismo do embargante, portanto, desafia recurso de apelação.
+V) SOBRE O JULGAMENTO ESPECÍFICO DOS PEDIDOS "B", "D", "E" e "F" reproduzidos no aditamento de fls. 1.743/1.746.
+Alguns apontamentos neste tópico são necessários.
+V.1 - Em relação ao pedido de anulação da cessão de debêntures à WWI, conforme acima exposto, impõe-se a extinção do processo, sem resolução de mérito, pelo reconhecimento da ilegitimidade passiva dos réus.
+V.2  - Quanto à renegociação da dívida das debêntures cedidas à GLG (R$ 85 milhões), a extinção sem resolução de mérito foi decretada nos termos do art. 267, VII, do CPC.
+V.3 - O pedido do item "c" refere-se ao alegado efeito vinculante à GLG,/EMSS3 de uma oferta de cessão da integralidade do crédito por R$ 26 milhões à empresa CALDLASER LTDA.
+Na sentença, por se tratar de questão que envolve fato posterior à celebração do contrato, considerei que deveria ser apreciada pelo Juízo Arbitral, juntamente com as questões relacionados com a validade dos contratos e o montante da dívida reproduzida nos contratos.
+No entanto, como a pretensão das autoras é atribuir a determinado fato o caráter de uma oferta vinculante para remissão da dívida (cumprimento da obrigação), passo a apreciar a questão.
+O pedido é totalmente inconsistente.
+Primeiro, porque a única prova da existência da referida oferta é o depoimento da testemunha Francisco (fls. 1.039/1.040) e eventualmente de outras pessoas presentes na reunião, meio de prova insuscetível de comprovar, isoladamente, um negócio jurídico (oferta) de R$ 26.000.000,00 (CPC, art. 401)!
+Segundo, é inverossímel que os credores, alguns poucos meses após a celebração do contrato e obtenção das garantias exigidas para renegociação da dívida, abririam mão de aproximadamente 3/7 de seu crédito mediante declaração de rompante de um negociador enviado para uma reunião.
+Terceiro, porque eventual "oferta" aventada em reunião sobre a "possibilidade" da remissão caducou por ausência de formalização da proposta por escrito ou de  inequívoca manifestação dos interessados nos dias subsequentes sobre a intenção de promover imediato pagamento da obrigação com o desconto ofertado.
+A alegada promessa do representante da ré de encaminhar para análise e formalização pela GLG da proposta de pagamento imediato de R$ 26 milhões para quitação da dívida não passou de uma potencial transação, não concretizada. 
+Foge à lógica atribuir efeito vinculante a uma manifestação que não teria passado de uma bravata, posto que desconsiderada, em manifestação formais ou condutas, por todos os envolvidos no contrato nos dias que se seguiram.
+V.4 - Por outro lado, o artigo 585, II, do CPC, confere ao contrato celebrado entre as partes a condição de título executivo extrajudicial, haja vista que exprime dívida líquida, certa e exigível.
+O pagamento realizado em amortização não afasta a liquidez e a certeza do saldo devedor remanescente e o vencimento da obrigação torna a dívida expressa no título executivo extrajudicial exigível em relação a todos os devedores solidários.
+V.5 - Sobre o julgamento antecipado, a partir do convencimento do Juízo de que a Morgan Stanley não tinha obrigação alguma de prestar contas à autora do contrato derivativo que celebrou para minimizar o risco da operação (uma vez que referidas operações não configuram cessão de crédito).
+O que a embargante procura é montar uma estória a partir do final (resultado).
+Não fosse a crise mundial que causou uma sensível redução da atividade empresarial da Parmalat ? fato inesperado que coincidiu com o momento que a Companhia  passava  por sensível reestruturação, após ser beneficiada com a recuperação judicial -, o contrato bancário seria integralmente cumprido e a autora não teria qualquer interesse em conhecer qual o investidor que apostou no sucesso da empresa para celebrar o contrato derivativo.
+No entanto, a partir da inadimplência, a autora busca transferir responsabilidades e, então, o Banco agiu de forma dissimulada com o investidor usurpador para tirar injustificado proveito econômico da ré.
+Assim, na versão dos fatos a partir do resultado, a crise mundial e as dificuldades econômica da ré ? em recuperação judicial - passam a caracterizar meros detalhes, dos quais se aproveitaram os poderosos réus para esfoliar as autoras, exigindo mais e mais garantias para a renegociação da dívida.
+Referida versão, como visto na sentença, não foi acolhida pelo Juízo que considerou o negócio lícito e ausente qualquer dolo de obter vantagem superior à remuneração prevista no contrato bancário e livremente aceita pela contratante.
+Não cabe ao Juízo fazer qualquer julgamento ético sobre a conduta do Banco,  tampouco substituir a Autoridade Financeira para impor limites ao montante do empréstimo que pode ser objeto de contratos derivativos.
+Inviável, por outro lado, a revisão de cláusulas de um contrato exaurido.
+V.6 - Ouso discordar do entendimento exposado nos pareceres dos renomados juristas contratados pela autora, haja vista que o contrato de derivativo em questão (TRS) não configura uma cessão simulada das debêntures, uma vez que há previsão regulamentar dessa modalidade de contrato para a instituição bancária diluir os riscos de uma determinada operação de crédito, sem alteração de titularidade do contrato; o investidor que celebrou o contrato derivativo não estava mancomunado com a Instituição Bancária para adquirir as debêntures da ré, mas sim optou por uma lícita modalidade de investimento cuja remuneração considerou compensadora em comparação com o risco de inadimplência. Todos os envolvidos na operação, assim, contavam com a saúde financeira da autora para quitação do empréstimo bancário.
+Ante o exposto, CONHEÇO e DOU PARCIAL PROVIMENTO aos EMBARGOS de DECLARAÇÃO oferecidos pelas partes para:
+A) Incluir no relatório da sentença a quanto constou no item I desta decisão;
+B)  Julgar improcedente o pedido constante no item "c" do aditamento à inicial, conforme fundamentação constante no item ;
+C) Julgar extintos, sem resolução de mérito, os pedidos de nulidade/anulação dos contratos de Loan Agreement, de Framework Agreement e de transferência a terceiro (WWI) de parte das debêntures, com fundamento no artigo 267, incisos VI e VII do CPC.
+D) Julgar improcedente o pedido em relação ao pedido de nulidade/anulação, e indenização formulados em face das rés, referente a fatos anteriores à renegociação da dívida com recompra das debêntures.
+E) Julgar improcedente o pedido de revisão do exaurido contrato bancário.
+P.R.I., anotando-se à margem da sentença embargada. 
+São Paulo, 18 de janeiro de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

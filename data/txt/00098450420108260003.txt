@@ -1,0 +1,63 @@
+
+
+SENTENÇA
+
+Processo nº:003.10.009845-5
+Classe - AssuntoProcedimento Sumário - Seguro
+Requerente:Ione Pereira da Silva
+Requerido:Itaú Seguros S/A
+
+Justiça Gratuita
+
+
+Vistos. etc.
+
+IONE PEREIRA DA SILVA move AÇÃO DE COBRANÇA em face de ITAÚ SEGUROS S.A., relatando o falecimento em acidente automobilístico de seu marido, JOSÉ MARIA DA SILVA FILHO, ocorrido em 26 de novembro de 1990, requerendo indenização do DPVAT no valor de 40 salários mínimos previsto na Lei nº 6.194/74.
+A ré contestou (fls. 20/40) alegando em preliminar inépcia da inicial por ausência de documentos indispensáveis à comprovação do nexo causal entre o acidente e a morte da vítima; requereu sua substituição pela Seguradora Líder dos Consórcios DPVAT S.A.; alegou sinistro anterior à lei a exigir prova de pagamento do prêmio de seguro; e, no mérito sustentou a legalidade das disposições emanadas da SUSEP e CNSP quanto a tabela dos valores de indenização; que a aplicação do limite da Lei 6194/74 em detrimento da Tabela da SUSEP viola direito constitucional; que é  inconstitucional a utilização do salário mínimo; e, discorreu sobre correção monetária, juros e sucumbência. Requereu a extinção ou a improcedência.  
+É o relatório. DECIDO.
+Julgo antecipadamente por prescindir da dilação probatória a vista das teses das partes e dos documentos juntados aos autos (CPC, art. 278, § 2º, c.c. 330, inc. I).
+
+ACIDENTE
+O réu alega a não ocorrência do nexo causal entre o acidente e a morte da vítima, pois os documentos juntados pela autora não seriam suficientes para comprovar que o falecimento tenha ocorrido em consequência de acidente de trânsito.
+Ocorre que a autora juntou à inicial o B.O. (fls.09) e a certidão de óbito do de cujus (fls. 10), nos quais consta registrado o acidente de veículos e a morte por lesões traumáticas do marido da autora, corroborando o nexo de causalidade, razões pelas quais rejeito a preliminar.
+
+PÓLO PASSIVO
+"A indenização do seguro obrigatório (DPVAT) pode ser cobrada de qualquer seguradora que opere no complexo, mesmo antes da vigência da Lei nº 8.441/92, independentemente da identificação dos veículos envolvidos na colisão ou do efetivo pagamento dos prêmios" (REsp. nº 602.165/RJ, rel. Min. CÉSAR ASFOR ROCHA, 4ª Turma, j. 18/03/2004, DJ 13/09/2004, p. 260).
+E agora, no âmbito administrativo, pode o beneficiário requerer o pagamento da indenização ou de diferença de indenização seja diretamente às seguradoras integrantes do Consórcio de Seguradoras ou de suas representante, a "Seguradora Líder", uma não excluindo a outra.
+Todavia, como a natureza jurídica da "Seguradora Líder" é de mera representação correta é a figuração de qualquer seguradora integrante do Consórcio de Seguradoras no pólo passivo de processo judicial, pois é a parte passiva legítima na posição jurídica de representada, não transmudando o fato da nominada representante centralizar informações técnicas e administrar os recursos do sistema.
+Necessário consignar ainda que em tendo a "Seguradora Líder" sede na cidade do Rio de Janeiro se antevê indiscutíveis entraves aos beneficiários que lá não residam na dedução de seus direitos no DPVAT.
+Rejeito, portanto, a implícita arguição de ilegitimidade passiva e o requerimento de substituição processual.
+
+PRÊMIO DE SEGURO
+Nos termos da Súmula 257 do C. STJ "A falta de pagamento do prêmio do seguro obrigatório de Danos Pessoais Causados por Veículos Automotores de Vias Terrestres (DPVAT) não é motivo para a recusa do pagamento da indenização."
+
+INDENIZAÇÃO
+O valor da indenização deve ser o equivalente ao valor de 40 salários mínimos na data de liquidação do sinistro, uma vez que o critério da Lei nº 6.194/74, art. 3º, não foi revogado pelas leis números 6.205/75 e 6.423/77, art. 1º, e nem é inconstitucional frente ao artigo 7º, IV da CF/88, pois inexiste vinculação com salário mínimo ou com atualização monetária (JTACivil 199/352), sendo mero critério de mensuração financeira, além de ter natureza alimentar (JTACivil 199/327), prevalecendo em detrimento das unilaterais Resoluções CNSP 3 e 7 e da tabela objeto de Circular SUSEP, ou ainda dos valores da Resolução CNSP nº 35/2000, cujo princípio informador não condiz com a "ratio essendi" da lei protetiva/reparadora.
+
+A Súmula nº 15 do E. Primeiro TACivil foi revogada e criado o Enunciado nº 37 quanto ao cabimento da indenização em valor equivalente a 40 salários mínimos, conf. Incidente de Uniformização de Jurisprudência nº 483.244-6-02-SP - Pleno - j.18/3/1993, Rel. Juiz ELLIOT AKEL, por v.u., "in" JTACSP-RT 141/186, in verbis:
+"Enunciado nº 37 do 1º TACivil/SP: Na indenização decorrente de seguro obrigatório, o artigo 3º da Lei nº 6.194, de 1974, não foi revogada pelas Leis nº 6.205, de 1975 e nº 6.423, de 1977".
+Da Apelação nº 837.127-9,  Relator Juiz REMOLO PALERMO, ficou assentada nos termos abaixo a tese ora acolhida.
+
+"Prevalece o salário mínimo da Lei 6194/74 em detrimento das Resoluções da SUSEP:  Segundo o Juiz PINHEIRO FRANCO "...Com efeito, tais resoluções podem "estabelecer normas para o pagamento da indenização e a forma da distribuição da responsabilidade entre as seguradoras participantes do consórcio, sem interferir, porém, no "quantum"da indenização, porque este esta regulado por lei" (RJTJSP 58/157).... Na verdade a Lei nº 6.205/75 não revogou a Lei nº 6194/74. E isso porque o instituto da revogação de leis obedece a parâmetros especiais fixados na Lei nº 4.657/42, ou seja, a chamada "Lei de Introdução ao Código Civil"..." (v.JTACSP - 117/47)..." (vide JTACSP- LEX - 143/171, deste Relator, na apelação com revisão nº 570.457-0, da 10º Câmara Especial de Julho de 1.994).
+No mesmo sentido:
+
+SEGURO OBRIGATÓRIO - Na indenização decorrente de seguro obrigatório, o artigo 3º da Lei nº 6.194, de 1974, não foi revogado pelas Leis nº 6.205, de 1975 e nº 6423, de 1977 (Súmula nº 37, deste E. 1º TAC/SP) - Recibo que, na situação, quita tão-só parte dos quarenta salários mínimos previstos no artigo 3º, "a", da Lei nº 6.194/74 - Obrigação da Seguradora pagar a diferença - Correção monetária é de Lei e incide desde quando tornou-se exigível a dívida de valor - Juros moratórios contam-se da citação válida (verbete da Súmula nº 163 do Colendo S.T.F.) - Recurso improvido. (Ap.nº 974.138-4/SP; rel. Juiz PAULO HATANAKA-; j.31/07/01; Décima Câm. de Férias 07/01 do E. 1º TACSP).
+O C. Superior Tribunal de Justiça igualmente sedimentou a tese acolhida, conforme o julgado que segue:
+
+"a indenização de sinistro, coberto por apólice de seguro obrigatório de veículos terrestres, se faz segundo os parâmetros do art. 3º da Lei 6.194/74, não revogada pela Lei 6.205/75" (E.STJ; 3ª T.; REsp. nº 19.962-5/SP; DJU 20/06/92).
+
+VALOR DA INDENIZAÇÃO
+No advento da Lei nº 11.482/07 prevalece o critério da Lei nº 6.194/74 a remeter ao patamar de 40 salários mínimos no piso nacional porque a lei nova não comporta retroação, já que a indenização é devida pelo valor da lei vigente à data do óbito, no caso 15/12/1990, apurando-se o respectivo valor indenizatório pelo valor do salário mínimo na data da liquidação do sinistro.
+Igualmente, pelas razões acima, não comporta incidência a Lei Estadual nº 12.640/07 que fixou no Estado de São Paulo o valor do salário mínimo superior ao do piso nacional, e nem a Lei Estadual do Rio de Janeiro nº 5.357, de 23/12/2008.
+JUROS DE MORA
+Os juros de mora são devidos no percentual de 12% a.a. (art. 406 do CC/02, c.c. CTN, art. 161, § 1º), contados a partir da citação por constituir dívida de valor (CC/02, art.405), inaplicável outro termo ou a data do sinistro por não constituir ato ilícito a impor aplicação do artigo 398 do CC/02 ou a interpretação objeto da Súmula nº 54 do C. STJ. 
+A propósito:
+"Juros moratórios - Seguro obrigatório - Responsabilidade civil - Acidente de trânsito - Arts. 956 e 1064 do Código Civil - Incidência a partir da citação, e não do evento" (1º TACivil, Proc. 00387600-2/00, 4ª Câmara, Rel. Juiz OCTAVIANO LOBO, j. 02/03/1998).
+No mesmo sentido REsp. nº 906.174-SP, Rel. Min. MASSAMI UYEDA, Quarta Turma, j. 06/12/2007; REsp.546392-MG, Rel. Min. JORGE SCARTEZZINI, Quarta Turma, DJ 12.09.2005, p. 334.
+Hoje a questão está sedimentada consoante Súmula 426 do C. STJ: Os juros de mora na indenização do seguro DPVAT fluem a partir da citação.
+Isto posto e considerando o mais que dos autos consta, JULGO  PROCEDENTE a ação e CONDENO a ré a pagar para a autora o valor de R$ 20.400,00, atualizando-se pela tabela de débitos judiciais desta data até final pagamento, acrescendo-se juros de mora de 12% a.a., contados da citação, arcando ainda com as custas, despesas processuais e honorários advocatícios de 15% sobre o valor da condenação. 
+P.R.I.
+São Paulo, 28 de maio de 2010
+
+JOSÉ WAGNER DE OLIVEIRA MELATTO PEIXOTO
+                  JUIZ DE DIREITO

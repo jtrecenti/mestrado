@@ -1,0 +1,76 @@
+
+
+CONCLUSÃO
+Em 19 de março de 2013, faço estes  autos conclusos à MMª. Juíza de Direito, Dra. CECÍLIA DE CARVALHO CONTRERA. Eu_________Escrev. Subscrevi.
+
+
+SENTENÇA 
+
+Processo:0019883-89.2012.8.26.0008 - Procedimento Ordinário
+Requerente:Rui Giraldo da Silva
+Requerido:EDP BANDEIRANTES
+
+Juíza de Direito:  Cecília de Carvalho Contrera  
+
+
+
+Vistos.
+
+Rui Giraldo da Silva, qualificado nos autos, move ação declaratória de inexigibilidade de débito cumulada com pedido de indenização por danos morais contra Bandeirantes Energia S/A, também qualificada. Alega o autor, em síntese, que é proprietário de imóvel de veraneio situado na Rua Braz Ricardo Santana, 415, no município de Caraguatatuba. Em junho de 2012, em procedimento de rotina, funcionários da empresa ré subsituíram o aparelho medidor de luz por outro mais novo. O autor, então foi surpreendido pela cobrança no valor de R$4.344,12, referente ao suposto consumo não medido entre junho de 2009 e junho de 2012, unilateralmente apurado pela ré. Em 15 de outubro de 2012, por falta de pagamento de tal valor, a ré cortou o fornecimento de energia ao imóvel. Ocorre que a medição não equivale ao real consumo de energia da residência, já que se trata  de casa de veraneio poucas vezes freqüentada pela família, composta pelo autor, sua esposa e seu filho único e especial. Outrossim, os registros de consumo medidos após a troca do aparelho foram inferiores aos registros anteriores à substituição do medidor apontado como defeituoso. Não concorda com a cobrança, por ser abusiva. Requer o restabelecimento da energia, a declaração de inexigibilidade do débito, o recálculo do valor com base no consumo médio aferido no ano seguinte à substituição e a condenação da ré à restituição dos valores cobrados a maior, em dobro (fls. 2/15). Apresenta os documentos de fls. 16/31.
+
+A antecipação de tutela foi deferida (fls. 39).
+
+Citada (fls. 60), a ré apresentou a contestação de fls. 43/54, alegando em síntese, que: apurou-se defeito no medidor, lavrando-se termo de ocorrência de irregularidade, o qual goza de presunção de legalidade; o consumidor é responsável pelos danos causados ao medidor; a medição retroativa do consumo se deu de acordo com a legislação aplicável à espécie; agiu em regular exercício de direito; o autor não experimentou dano moral. Requereu a improcedência da demanda. A defesa veio instruída com os documentos de fls. 55/58.
+
+Houve réplica, com documentos (fls. 61/68), dos quais se deu ciência à ré, que se manifestou às fls. 76/77.
+
+É o relatório. Fundamento e decido.
+
+É o caso de julgar-se antecipadamente a lide, porque a solução da controvérsia não depende da produção de  prova em audiência, nos termos do artigo 330, I, do Código de Processo Civil.
+
+A ação é parcialmente procedente.
+
+De início anoto que, nos termos expressos do artigo 396 do Código de Processo Civil, "compete à parte instruir a petição inicial (art. 283), ou a resposta (art. 297), com os documentos destinados a provar-lhe as alegações."
+
+Destarte, a oportunidade para qualquer das partes apresentar outros documentos, que não sejam novos, está preclusa.
+
+Pois bem. Ao que consta dos autos, a ré cobrou do autor o valor de R$4.344,12 (fls. 24), supostamente referente ao consumo de energia não medido entre junho de 2009 e junho de 2012, apurado após a lavratura de termo de ocorrência de irregularidade em 06 de junho de 2012.
+
+Nos termos do demonstrativo de cálculo de fls. 17/23, a ré calculou o valor por estimativa a partir da carga instalada, método previsto no inciso IV do artigo 130 da Resolução Normativa  414/2010 da ANEEL, arbitrando o consumo mensal da unidade em 323 kWh.
+
+O autor impugna tal cálculo, alegando que não  condiz com a realidade. Diz ainda que, se houvesse irregularidade no medidor substituído, esta consistiria na medição a maior e não na medição a menor, dado que o novo medidor apontou consumo inferior ao efetivamente medido no triênio em questão.
+
+Anoto, em primeiro lugar, que a requerida em momento algum fez juntar aos autos o Termo de Ocorrência de Irregularidade que embasou a cobrança. O documento, essencial para análise da regularidade da cobrança por estimativa, não consta em nenhuma folha dos autos deste processo. Não foi juntado pelo autor na inicial, sendo da ré, evidentemente, o ônus de apresentá-lo ao juízo.
+
+Sequer se sabe, portanto, em que consistiria a suposta irregularidade constatada no medidor. Sabe-se, todavia, que o medidor foi substituído em junho de 2012, o que é incontroverso. A ré promoveu o arbitramento do consumo relativo aos três anos anteriores à troca, supondo que a irregularidade  apurada em laudo desconhecido  tenha ensejado a medição de consumo inferior ao real. E o fez nos termos do artigo 130 da Resolução 414/10 da ANEEL, que assim dispõe:
+
+"Art. 130. Comprovado o procedimento irregular, para proceder à recuperação da receita, a distribuidora deve apurar as diferenças entre os valores efetivamente faturados e aqueles apurados por meio de um dos critérios descritos nos incisos a seguir, aplicáveis de forma sucessiva, sem prejuízo do disposto nos arts. 131 e 170: 
+ 
+I ? utilização do consumo apurado por medição fiscalizadora, proporcionalizado em 30 dias, desde que utilizada para caracterização da irregularidade, segundo a alínea "a" do inciso V do § 1o do art. 129; 
+II ? aplicação do fator de correção obtido por meio de aferição do erro de medição causado pelo emprego de procedimentos irregulares, desde que os selos e lacres, a tampa e a base do medidor estejam intactos; 
+III ? utilização da média dos 3 (três) maiores valores disponíveis de consumo mensal de energia elétrica, proporcionalizados em 30 dias, e de demanda de potências ativas e reativas excedentes, ocorridos em até 12 (doze) ciclos completos de medição regular, imediatamente anteriores ao início da irregularidade; 
+IV ? determinação dos consumos de energia elétrica e das demandas de potências ativas e reativas excedentes, por meio da carga desviada, quando identificada, ou por meio da carga instalada, verificada no momento da constatação da irregularidade, aplicando-se para a classe residencial o tempo médio e a frequência de utilização de cada carga; e, para as demais classes, os fatores de carga e de demanda, obtidos a partir de outras unidades consumidoras com atividades similares; ou 
+V ? utilização dos valores máximos de consumo de energia elétrica, proporcionalizado em 30 (trinta) dias, e das demandas de potência ativa e reativa excedentes, dentre os ocorridos nos 3 (três) ciclos imediatamente posteriores à regularização da medição. 
+Parágrafo único. Se o histórico de consumo ou demanda de potência ativa da unidade consumidora variar, a cada 12 (doze) ciclos completos de faturamento, em valor igual ou inferior a 40% (quarenta por cento) para a relação entre a soma dos 4 (quatro) menores e a soma dos 4 (quatro) maiores consumos de energia elétrica ativa, nos 36 (trinta e seis) ciclos completos de faturamento anteriores à data do início da irregularidade, a utilização dos critérios de apuração para recuperação da receita deve levar em consideração tal condição." 
+
+
+De acordo com a ré, a apuração se deu conforme o inciso "IV" do dispositivo, apurando-se, pela análise da carga instalada, consumo mensal médio de 323 kWh. Dispõe a mesma Resolução que a chamada "carga instalada" corresponde à "soma das potências nominais dos equipamentos elétricos instalados na unidade consumidora, em condições de entrar em funcionamento, expressa em quilowatts (kW)".
+
+Todavia, a ré não alegou nem demonstrou de que forma foi aferida a citada "carga instalada". Não há nos autos nenhuma indicação de quais aparelhos eletrônicos se achassem instalados na residência, nem de quais fossem as respectivas potências nominais. É possível que tal informação constasse do Termo de Ocorrência de Irregularidade, o qual, todavia, a ré não se preocupou em apresentar.
+
+Diante dos elementos coligidos, somente se pode considerar aleatória a estimativa do consumo mensal médio em 323 kWh, que não foi de modo algum justificado. Aleatória e incorreta, pois as medições de consumo posteriores, feitas por meio do medidor novo  e, presumidamente, hígido  registraram valores bastante inferiores à média apurada, a saber, 22  kWh em agosto de 2012 (fl. 25), 20 kWh em setembro de 2012 (fl. 26), 14 kWh em outubro de 2012 (fl. 67) e 14 kWh em novembro de 2012 (fls. 68).
+
+Em suma, a ausência de apresentação do TOI, aliada à absoluta falta de indicação dos critérios para aferição da carga instalada, bem ainda à constatação de que os consumos posteriores à substituição do medidor foram muito inferiores à média artificialmente considerada são suficientes para ensejar o reconhecimento da inexigibilidade dos valores cobrados do requerente.
+
+Não se cogita, todavia, da apuração de qualquer valor em favor do requerente. Ora,  se o autor pretendia obter a condenação da ré ao pagamento da eventual diferença entre os valores pagos e quaisquer outros valores, deveria ter instruído a petição inicial com cópia das faturas e dos comprovantes de pagamento referentes ao triênio em questão, o que não fez. Ademais, o consumo apurado no período posterior à troca do medidor não é determinante do recálculo de todo o consumo medido antes da troca, porque o consumo é, naturalmente, variável. Veja-se que uma coisa é considerar o consumo posteriormente apurado como um dos fatores para o reconhecimento da inexigibilidade do consumo arbitrado pela ré. Outra, bem diversa, é considerar que todo o consumo anterior devesse, forçadamente, equivaler ao posteriormente medido, o que não se justifica nem é razoável, sobretudo à míngua de qualquer pedido administrativo do autor nesse sentido, e do pagamento espontâneos dos valores à época em que foram cobrados.
+
+Impõe-se, portanto, o simples reconhecimento da inexigibilidade do consumo artificialmente arbitrado, sem repetição de qualquer outro valor em favor do requerente.
+
+Os danos morais, de seu turno, não ocorreram. É certo que houve corte no fornecimento de energia ao imóvel em 15 de outubro de 2012, consoante é incontroverso. A situação de normalidade, todavia, foi restabelecida com a prolação da liminar no dia 24 de outubro de 2012, à fl. 39 destes autos. Consta da própria petição inicial que o imóvel em questão, situado em Caraguatatuba, não serve de residência à família, que mora em São Paulo, tratando-se de "residência de veraneio poucas vezes freqüentada ao longo do ano", nos termos do item "7" de fl. 04. Não há relato de que a família estivesse no local  nos poucos dias de outubro durante os quais perdurou o corte.
+
+Ora, o corte do fornecimento de energia elétrica a imóvel desocupado, ademais por curto período, não é fato suficiente para ensejar dano moral, vislumbrando-se, na hipótese, mero aborrecimento comum da vida cotidiana, não indenizável.
+
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a ação tão somente para declarar inexigível a cobrança retratada à fl. 24, referente ao consumo apurado por força do TOI 0310108. Confirmando a antecipação de tutela, imponho à ré que se abstenha de promover, de qualquer forma, a cobrança do débito ora declarado inexigível, vedada, sobretudo, a suspensão do fornecimento de energia em razão de tal débito. Fica assim extinto o processo com resolução do mérito, nos termos do artigo 269, I, do Código de Processo Civil. Porque recíproca a sucumbência, declaro-a compensada entre as partes, nos termos do artigo 21 do Código de Processo Civil.  Decorrido o prazo recursal, certifique-se o trânsito em julgado e, nada sendo requerido, arquivem-se os autos com as cautelas de praxe.
+P.R.I.
+  
+São Paulo,19 de março de 2013.

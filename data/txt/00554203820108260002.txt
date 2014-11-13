@@ -1,0 +1,83 @@
+
+
+SENTENÇA
+
+Processo nº:0055420-38.2010.8.26.0002 - Procedimento Ordinário
+Requerente:Supermercado Venturo Ltda
+Requerido:Frigol S/A e outros
+
+
+
+Juiz(a) de Direito: Dr(a). Edson Luiz de Queiróz
+
+
+
+
+
+
+VISTOS.
+
+
+
+SUPERMERCADO VENTURO LTDA move ação declaratória de inexigibilidade de título de crédito, cumulada com nulidade de protesto e indenização por danos matérias e morais e pedido de tutela antecipada, em face de FRIGOL S/A, BANCO BRADESCO S/A e BANCO SAFRA S/A, alegando que firmou contrato de compra de produtos com a primeira ré, mas, que as mercadorias entregues eram diferentes do encomendado. As mercadorias foram devolvidas e o pedido cancelado. Não houve aceite da duplicata respectiva. Porém, em agosto de 2010, o título referente a essa compra, no valor de R$ 2.969,19, foi enviado a protesto. Não há justa causa para a emissão do título e não houve aceite. 
+
+Alega inexigibilidade do título, ocorrência de prejuízos morais e materiais, bem como responsabilidade da primeira ré, emitente e dos demais réus, na qualidade de apresentante e cedente do título. Pede antecipação da tutela, para sustação do protesto. No mérito, pede declaração de nulidade do título e de sua inexigibilidade, bem como indenização por danos materiais e morais, no montante de 30 salários mínimos.
+
+Foi deferida a liminar para a suspensão do protesto do título. Regularmente citados, os réus apresentaram contestações. A corré FRIGOL S/A alegou, preliminarmente, ilegitimidade passiva e inépcia da inicial. Requereu, ainda, suspensão do processo, em razão de distribuição de pedido de recuperação judicial, nos termos do disposto no artigo 6º, § 4º da Lei 11.101/05. No mérito, alega que cumpriu todas as obrigações que lhe cabiam, tendo enviado pedido de baixa do título à instituição financeira. Impugna alegação de ocorrência de danos morais e materiais e pede improcedência do pedido inicial.
+
+Os corréus Banco Bradesco S/A e Banco Safra alegaram, preliminarmente, ilegitimidade passiva e inépcia da petição inicial. No mérito, alegam ter cumprido com o mandato outorgado. Alegam a inexistência da responsabilidade civil, cabendo à prmeira ré informá-los sobre a irregularidade do título, em tempo hábil, o que não ocorreu. Pedem improcedência do pedido inicial. 
+
+Houve réplica e foi realizada audiência de conciliação, a qual restou infrutífera. 
+
+É o relatório do essencial.
+Fundamento e decido.
+
+Trata-se de ação declaratória de inexigibilidade de título de crédito e nulidade do protesto. O feito comporta julgamento antecipado, de conformidade com o disposto no artigo 330, inciso I, do Código de Processo Civil. 
+
+A preliminar de suspensão do processo, em razão de recuperação judicial da primeira corré é rejeitada. Inicialmente, anote-se que a recuperação judicial possui "vis atractiva", mas, apenas, em relação aos créditos já constituídos e não em relação aos processos em fase de conhecimento. Além disso, a recuperação judicial foi decretada em 17 de agosto de 2010 (fls. 79), tendo decorrido prazo superior ao fixado em lei para a suspensão. O artigo 6º, §4º, da Lei 11.101/2005 permite a suspensão da execução por período não superior a 180 dias, contado do processamento da recuperação, "restabelecendo-se, após o decurso do prazo, o direito dos credores de iniciar ou continuar suas ações e execuções, independentemente de pronunciamento judicial". 
+
+Não há que se falar em suspensão do processo, nos termos do artigo 265, do Código de Processo Civil, ante a inexistência de prejudicialidade externa. De qualquer forma, já houve decurso do prazo da suspensão e há necessidade de constituição de título executivo. Finalmente, não houve comprovação da fase atual do processo de recuperação e do valor do débito reconhecido em relação ao embargado.
+A preliminar de ilegitimidade passiva, arguida pelo segundo e terceiro corréus é acolhida. No Direito brasileiro existem dois tipos de endosso, o mandato e o traslativo. No caso em tela, trata-se de endosso mandato, segundo o qual a instituição financeira fica autorizada, na qualidade de mandatária, a receber o crédito em nome do real credor, o qual atua na qualidade de mandante. Não há transferência do crédito, o que significa que o banco fica isento de qualquer responsabilidade quanto ao protesto indevido. A instituição financeira apenas atua em cumprimento às determinações dadas pelo credor. Sobre o tema, confira-se:
+
+"DUPLICATA MERCANTIL. Ação declaratória de nulidade. Acolhimento. Exclusão, entretanto, da instituição financeira endossatária do pólo passivo do litígio. Endosso mandato.Hipótese não confirmada."0 endosso tem como um dos seus efeitos a transferência da titularidade do crédito ao endossatário, com este passando a ocupar a posição jurídica de efetivo credor, em substituição ao endossante. Recebendo o título por endosso e apresentando-o, ou determinando-lhe a apresentação para protesto, a instituição financeira endossatária somente se exime de qualquer responsabilidade a respeito, caso comprove, de forma eficiente, tratar-se de endosso-mandato, tendo agido, ao encaminhar o título a Cartório, em obediência às determinações da emitente. Não feita essa prova, havendo indícios suficientes quanto a tratar-se de endosso translativo, subsiste a legitimidade do estabelecimento de crédito endossatário para figurar no pólo passivo da ação que, movida pelo sacado, tem como desiderato obter o reconhecimento judicial da nulidade ou desconstituição do título transferido" (TJSC - Ap. Cív. n. 2000.016145-4, de Criciúma, Rei. Des. Trindade dos Santos, j . em 21/08/2003).
+
+Confira-se a respeito, os seguintes julgados:Tribunal de Justiça de São PauloDANO MORAL - Responsabilidade civil - Protesto indevido - Duplicata mercantil quitada, protestada por falta de pagamento - Imputação de culpa ao banco mandatário - Descabimento - Recebimento da cártula por endosso mandato - Estrito cumprimento da ordem da emitente mandante - Recurso adesivo improvido (Apelação Cível n. 977.847-0 - Ibitinga - 19ª Câmara de Direito Privado - Relator: Ricardo Negrão - 23.05.06 - V. U. - Voto n. 4830) psrTribunal de Justiça de São PauloDANO MORAL - Protesto indevido - Duplicata quitada - Apontamento e protesto pelo banco - Título recebido pela instituição em razão de endosso mandato - Irrelevância ante a configuração, nas circunstâncias, de culpa do mandatário - Indenizatória procedente - Recursos principal e adesivo desprovidos. (Apelação Cível n. 972044-9 - Catanduva - 22ª Câmara de Direito Privado - 08/11/05 - Rel. Des. Matheus Fontes - V. U. - V. 13490) wtcn.
+
+No caso presente, verifica-se, ainda, que a primeira corré não providenciou a notificação aos demais réus, visando evitar o protesto do título. Assim é que o documento de fls. 58 não contém recibo ou data de recebimento pelo destinatário. No entanto, verifica-se que o documento está datado de 10 de agosto de 2010 e o documento de fls. 22 indica que o título foi encaminhado para protesto no dia 05 de agosto de 2010, tendo sido fixada a data de 10 de agosto de 2010, como data-limite para pagamento. O corréu Banco Safra informou que a notificação somente foi recebida após a efetivação do protesto (fls. 112), alegação essa que se encontra em consonância com as demais provas dos autos, acima explicitadas. Nessas condições, verifica-se a ilegitimidade passiva do segundo e terceiro corréus. Há legitimidade passiva da primeira corré, vez que houve reconhecimento de emissão de título executivo sem justa causa e sua emissão para os demais réus, visando sua cobrança.
+
+A alegação de inépcia da petição inicial é parcialmente acolhida, vez que não houve declinação dos fatos, fundamentos jurídicos e do pedido em relação à pretensão de indenização por danos materiais. Em relação ao pedido de danos morais, houve o preenchimento dos requisitos do artigo 282 e seus incisos, do Código de Processo Civil. A quantificação dos prejuízos morais pode ser feita judicialmente.
+
+No mérito, a duplicata mercantil é título eminentemente causal e representa operação comercial entre sacador e sacado. A presunção de liquidez e certeza inerente aos títulos de crédito pode ser elidida mediante a demonstração, de que a relação negocial não se efetivou. No caso presente, tornou-se incontroverso que as mercadorias adquiridas foram devolvidas ao fornecedor e a devolução foi aceita por ele. Nessas condições, não há que se falar em justa causa para emissão de título executivo. 
+
+De qualquer modo, é pacífico o entendimento de que a duplicata sem aceite pode ser considerada como título executivo extrajudicial, por se constituir título líquido, certo e exigível, se acompanhada de notas fiscais devidamente com comprovante de entrega da mercadoria e serviços, nos termos do art. 15, incisos II, alíneas "a" e "b", da Lei n. 5.474/68, bem como do comprovante de protesto. Verifica-se dos autos que não há comprovação idônea da entrega das mercadorias. Nessas condições, não há título executivo extrajudicial e, por esse motivo, o documento não poderia, efetivamente, ser levado a protesto. 
+Em relação ao pedido de indenização por danos morais, anote-se que é perfeitamente cabível o pedido de indenização por danos morais, mesmo tratando-se a autora de pessoa jurídica. É que a atual Constituição Federal, ao se referir à possibilidade de indenização por dano moral, nos incisos V e X, do artigo 5º, não faz distinção entre pessoa física e jurídica. A questão já está pacificada, ante o teor da Súmula 227, do Superior Tribunal de Justiça: 
+
+?A pessoa jurídica pode sofrer dano moral?.
+
+A autora evidentemente passou por situação de constrangimento e de aborrecimento. É que, atualmente, o crédito é um bem imaterial, em uma sociedade eternamente desconfiada. A existência de restrição cadastral configura dano moral, não sendo necessária a prova de qualquer outro dano. O ?negativado? não pode abrir conta corrente, não tem crédito, não pode praticar atos negociais. O dano é presumido. A emissão de carta de anuência não exonera a ré da responsabilidade pelos atos praticados, mesmo porque sua entrega ocorreu muito após a efetivação do protesto.
+
+O dano moral puro, em si mesmo é indenizável, sendo desnecessária a ocorrência de conseqüências patrimoniais ou prejuízos econômicos. O nexo de causalidade é patente e advém do defeito na prestação do serviço, com encaminhamento de títulos a protesto. Fixada a responsabilidade da ré, dos danos morais causados à autora e do nexo causal, falta aferir o valor da indenização a ser concedida. Para a aferição da indenização devida a título de danos morais, devem ser verificados outros requisitos, tais como a intensidade da culpa, as conseqüências advindas do ato ilícito, etc. O IX ENTA (Encontro Nacional de Tribunais de Alçada) decidiu que:
+
+"Na fixação de dano moral deverá o Juiz, atendo-se ao nexo de causalidade inscrito no artigo 1.060, Código Civil, levar em conta critérios de proporcionalidade e razoabilidade na apuração do quantum, atendidas as condições do ofensor, do ofendido e do bem jurídico lesado."
+
+Além disso, a indenização deve ser fixada em valor razoável, procurando compensar o lesado e desestimular o lesante, sem proporcionar enriquecimento ilícito. No caso presente, o réu agiu com culpa, na forma acima explicitada. Finalmente, a ré é instituição de porte, com patrimônio suficiente para suportar indenização por dano moral no montante de R$ 10.000,00, valor plenamente razoável, que guarda proporcionalidade com a lesão sofrida. 
+
+As demais questões argüidas pelas partes estão prejudicadas, anotando-se que não há obrigação processual no sentido de impor ao juiz a análise e pronunciamento sobre todos os pontos argüidos nos arrazoados das partes. Basta a explicitação dos motivos norteadores do seu convencimento, concentrando-se no núcleo da relação jurídico - litigiosa, com suficiência para o deslinde da causa.
+
+
+Pelo exposto, JULGO EXTINTO o processo, sem análise de mérito, por ilegitimidade passiva, relativamente aos corréus BANCO BRADESCO S/A e BANCO SAFRA S/A. Condeno a autora no pagamento de honorários advocatícios de 20% do valor dado à causa, a ser partilhado igualmente entre os procuradores dos réus.
+
+Em relação à corré FRIGOL S/A:
+1) julgo inepto o pedido de indenização por danos materiais:
+2) JULGO PARCIALMENTE PROCEDENTE o pedido inicial, para declarar a inexigibilidade e conseqüente nulidade do título de crédito objeto do presente processo;
+3) condeno a corré no pagamento de indenização por danos morais fixada em R$ 10.000,00, corrigida e acrescida de juros moratórios de 1% ao mês, a partir da presente data;
+4) torno definitiva a liminar de sustação dos efeitos do protesto.
+5) sendo sucumbente na maior parte da pretensão, condeno a corré no pagamento das custas, despesas processuais, reembolso de honorários advocatícios e honorários advocatícios sucumbenciais fixados em 20% (vinte por cento) sobre o valor da condenação, corrigido nos termos da Lei 6899/81.
+
+P.R.I.C.
+
+São Paulo, 6 de setembro de 2011
+
+
+EDSON LUIZ DE QUEIROZ
+     Juiz de Direito

@@ -1,0 +1,85 @@
+
+
+SENTENÇA
+
+Processo nº:0182442-08.2012.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Obrigação de Fazer / Não Fazer
+Requerente:Taniel Oliveira Marcolino
+Requerido:Google Brasil Internet Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Wander Benassi Junior
+
+
+
+Vistos,
+
+TANIEL OLIVEIRA MARCOLINO ajuizou ação de obrigação de fazer, com pedido de tutela antecipada, em face de GOOGLE BRASIL INTERNET LTDA., aduzindo em síntese que é pessoa idônea e que é citado nominalmente, em referências pejorativas, que denigrem publicamente sua imagem pessoal e profissional, em sítios eletrônicos localizados no comando de busca que qualquer pessoa pode fazer junto ao sítio do requerido. Ante a eficiência e repercussão de tal mecanismo de busca, que exponencializa os danos acima mencionados, notificou o réu solicitando a retirada de seu nome do sistema de busca, sem sucesso. Pede tal providência por meio desta demanda. Alternativamente, pede o bloqueio do acesso aos sítios que veiculem as informações sustentadas como difamatórias (v. fls. 31/32).
+
+Antecipação dos efeitos da tutela indeferida (fls. 35).
+
+Regularmente citado, o réu apresentou contestação (fls. 62/87), com duas preliminares. No mérito, em síntese, sustentou a impossibilidade técnica de controle de conteúdo veiculado por outros sítios, explicando tecnicamente como funciona o mecanismo de busca Google Search. Pela própria estrutura varrida ? cerca de um trilhão de páginas de internet junto ao database ?, é impossível restringir o resultado da busca, bem como o conteúdo das páginas encontradas, que nada tem a ver com o próprio réu, pois pertencem a outros domínios.
+
+Réplica (fls. 110/129).
+
+É o relatório. Fundamento e Decido.
+
+Afasto a preliminar de falta de interesse de agir, uma vez que a pretensão inicial é clara em querer obstar a localização de páginas que o autor entende difamatórios, por meio do Google Search, a fim de não possibilitar o acesso público imediato a tais informações, nada se pretendendo no tocante às próprias páginas localizadas (ou seus respectivos titulares).
+
+Pela mesma razão, afasto a preliminar de ilegitimidade passiva, anotando que o responsável pelo mecanismo de busca é o próprio réu. O mais concerne ao mérito.
+
+No mérito, julgo antecipadamente o pedido, nos termos do art. 330, inciso I, do Código de Processo Civil, em razão dos documentos juntados, suficientes ao desate da causa, desnecessária a produção de prova pericial e testemunhal.
+
+A discussão cinge-se à possibilidade ou não de o réu pode retirar o acesso aos sítios que trazem as referências pejorativas declinadas na inicial. Em outras palavras, o que se pretende é que o mecanismo de busca do Google Search não retorne, quando fornecidos os argumentos de pesquisa descritos a fls. 16/17, links a páginas que se refiram à pessoa do autor.
+
+A análise se põe, assim, sob dois aspectos.
+
+De um lado, funciona o mecanismo de busca eletrônica fornecido pelo réu, notoriamente conhecido por sua eficiência, no qual se apontam páginas com o conteúdo desejado, além de links patrocinados, que são aqueles pagos por anunciantes ao próprio Google, para que apareçam em primeira ou segunda página, por exemplo, servindo como verdadeira publicidade a quem anuncia. Não se verifica a ocorrência dessa última hipótese nos autos em relação ao réu.
+
+De outro lado, sabe-se que o sítio mantido na internet pelo réu se presta à divulgação de informações das mais variadas, e funciona como poderoso instrumento de pesquisas, tratando-se de espaço livre de comunicação entre a sociedade e os indivíduos no mundo.
+
+Assim, verifica-se o cumprimento de diretrizes constitucionais com o funcionamento em geral do mecanismo de busca, tanto no tocante às liberdades de comunicação e expressão do pensamento, como no direito de informação, nele compreendidos sobretudo os direitos de informar e de ser informado.
+
+Justamente nessa acepção, a decisão que indeferiu a antecipação de tutela, mantida pelo venerando acórdão de fls. 177/182, já apontara que as menções ao autor se reportavam a investigações e procedimentos criminais existentes. Assim, tratava-se de informação verdadeira, o que afasta o cunho difamatório.
+
+Nesse diapasão, não há comprovação ? sequer menção na inicial ? de que o réu, ele mesmo, tenha feito inserir conteúdo difamatório, mas apenas de que opera o mecanismo de busca; tampouco de que seja pago por alguém para divulgar tal tipo de conteúdo, situações que, por si sós, não configuram nenhum tipo de ilícito civil.
+
+A utilização do mecanismo de busca, feita por inúmeros usuários, também não significa assunção de responsabilidade pelo réu ? sequer pelo risco da atividade ? no tocante à difusão de conteúdos difamatórios já iniciados, de autoria de terceiros, e contidos nos sítios que surgem quando da resposta da busca efetuada via Google Search.
+
+Nesse ponto, justamente, reside a afirmação da defesa de que o réu ?não é dono da internet?, já que não tem meios ? e nem pode ? interferir na expressão manifestada por terceiros ? esses, sim, que detêm responsabilidade direta pelo que expõem e podem ser diretamente demandados, o que não ocorreu nestes autos.
+
+Assim, os limites de exame do pedido restringem-se ao pedido alternativo, deduzido no aditamento à inicial. Isto é, eventual restrição do conteúdo de respostas fornecidas pelo mecanismo de busca, a fim de preservar direitos fundamentais do autor. Nessa acepção é possível adequar a atividade do réu.
+
+Do que se tem nos autos, os resultados fornecidos para as buscas reputadas como desmoralizantes, há notícias acerca do envolvimento do autor em atividades ilícitas, em nível federal, que geraram investigações pelas autoridades competentes à época, há mais de dez anos.
+
+A inexistência de condenações encontra amparo no estado constitucional de inocência, pelo qual o autor não pode ser condenado um criminoso para nenhum fim. Mesmo assim, preocupa-lhe a permanência de tais referências em consulta pública, o que de fato contribui para o desprestígio de sua imagem.
+
+Apresentam-se, pois, alguns princípios constitucionais para harmonização: liberdade de comunicação e expressão, incluída a liberdade de imprensa; estado de inocência; livre iniciativa e direito à honra, do qual decorre o direito ao esquecimento, bem mencionado na réplica.
+
+Os fatos se deram há mais de dez anos, e a ação foi ajuizada em 2012, o que atenua a alegação de aflição e os prejuízos pessoais alegados na inicial ? até porque o autor permanece empresário e reside em bairro de altíssimo padrão nesta Capital ?, não havendo indício de que sofreu ruína pessoal e financeira durante o período.
+
+Assim, de se assegurar o direito difuso ao registro histórico dos fatos ? o que é de interesse público ?, que inexoravelmente garante o acesso aos nomes de seus protagonistas ? no particular, não havendo notícia de que se tenha quebrado sigilo daquela investigação ?, mantido, de outro lado, o direito ao autor a ver reconhecido seu estado de inocência ? como esta própria sentença, também documento público, o faz, caso a solução do procedimento criminal não tenha sido outra que não uma condenação judicial transitada em julgado.
+
+Deve se prestigiar ainda o direito à dignidade de qualquer investigado, que não pode sofrer execração social por essa simples condição, e menos ainda de forma eterna ? aí a assecuração do direito ao esquecimento ?, recomendável a exclusão de qualquer termo ou evento diretamente ofensivo à sua honra.
+
+Com esses parâmetros, e verificando-se a impossibilidade prática de se reverterem todos os efeitos de uma exposição pública, não obstante necessária a reversão do maior número de efeitos deletérios possível, a composição correta desta causa, considerado ainda o modo restrito como foi proposta (somente em face do Google), é o acolhimento do pedido para a retirada de respostas ao mecanismo de busca que mostrem referências diretamente ofensivas à pessoa do autor ? excluídas aquelas que somente documentaram os fatos.
+
+Nesses termos, do que consta nos autos, a única página trazida na pesquisa que se coaduna com tal situação é a da revista Istoé, que expressamente denomina o réu como ?trambiqueiro?.
+
+Ainda que sustente que não, o réu detém condições técnicas para excluir da resposta à busca o link para tal página, único âmbito em que a demanda prospera ? e inclusive produz efeitos desde logo.
+
+E, embora desnecessário, consigno que tal provimento não obriga a própria revista ? que não é parte nestes autos ? a retirar a página do ar, nem tampouco impede que o público a acesse por outro mecanismos de busca eletrônica, concorrentes do réu.
+
+Nesses termos, e diante de todo o exposto, resolvendo o mérito, nos termos do art. 269, inciso I, do Código de Processo Civil, JULGO PARCIALMENTE PROCEDENTE o pedido inicial, deduzido por TANIEL OLIVEIRA MARCOLINO em face de GOOGLE BRASIL INTERNET LTDA., tão somente para determinar à ré que retire do mecanismo de busca Google Search a exibição de link para a página da revista Istoé, onde consta a reportagem copiada a fls. 34, busca essa que tenha como argumento o nome do autor, ou o mesmo nome combinado com qualquer dos argumentos de pesquisa descritos a fls. 16/17. A medida deve ser cumprida no prazo máximo de vinte dias a partir da publicação desta sentença, sob pena de multa diária de R$ 1.000,00 (mil reais) ao depois, sem limitação de dias.
+
+No tocante à obrigação e fazer, eventual apelação será recebida apenas no efeito devolutivo, nos termos do art. 520, inciso VII, do Código de Processo Civil. Quanto aos demais termos da sentença, prevalecerá o duplo efeito.
+
+Sucumbência recíproca, cada parte arcará com metade das custas e das demais despesas processuais, bem assim com os honorários dos respectivos patronos.
+
+P.R.I.C.
+
+São Paulo, 22 de agosto de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

@@ -1,0 +1,52 @@
+
+
+SENTENÇA
+
+Processo nº:0208994-44.2011.8.26.0100
+Classe - AssuntoProcedimento Sumário - Acidente de Trânsito
+Requerente:Paulo da Silva Florencio
+Requerido:Maritima Seguros S/A
+
+
+Juiz(a) de Direito: Dr(a). Ricardo Dal Pizzol
+
+
+
+Vistos.
+
+
+Trata-se de ação de cobrança ajuizada por PAULO DA SILVA FLORENCIO contra MARÍTIMA SEGUROS S/A.
+Alega o autor que: ( i ) foi vítima de acidente de trânsito que lhe causou lesões corporais graves, com trauma abdominal fechado, sendo submetido a esplenectomia (retirada do baço); ( ii ) a requerida recusou o pagamento. Requer a condenação da requerida ao pagamento de indenização no importe R$ 13.500,00.
+Contestação às fls. 106/124. Alega que: ( i ) a indenização deve respeitar os limites estabelecidos na tabela própria; ( ii ) necessidade de realização de perícia técnica; ( iii ) os juros de mora devem incidir a partir da citação; ( iv ) a correção monetária deverá incidir a partir do ajuizamento da ação.  
+Réplica às fls. 141/152.
+Despacho saneador às fls. 153/155. 
+Laudo pericial às fls. 167/169.
+É o Relatório.
+Passo a fundamentar.
+A ação deve ser julgada parcialmente procedente. 
+O acidente do qual o autor foi vítima ocorreu em 12.06.2010 (fl.23), ou seja, após a entrada em vigor da lei 11.945/09, que conferiu a seguinte redação ao art. 3º da lei 6.194/74:
+Art. 3o Os danos pessoais cobertos pelo seguro estabelecido no art. 2o desta Lei compreendem as indenizações por morte, por invalidez permanente, total ou parcial, e por despesas de assistência médica e suplementares, nos valores e conforme as regras que se seguem, por pessoa vitimada: 
+(...)
+II - até R$ 13.500,00 (treze mil e quinhentos reais) - no caso de invalidez permanente; 
+(...)
+§ 1o No caso da cobertura de que trata o inciso II do caput deste artigo, deverão ser enquadradas na tabela anexa a esta Lei as lesões diretamente decorrentes de acidente e que não sejam suscetíveis de amenização proporcionada por qualquer medida terapêutica, classificando-se a invalidez permanente como total ou parcial, subdividindo-se a invalidez permanente parcial em completa e incompleta, conforme a extensão das perdas anatômicas ou funcionais, observado o disposto abaixo:
+I - quando se tratar de invalidez permanente parcial completa, a perda anatômica ou funcional será diretamente enquadrada em um dos segmentos orgânicos ou corporais previstos na tabela anexa, correspondendo a indenização ao valor resultante da aplicação do percentual ali estabelecido ao valor máximo da cobertura; e 
+II - quando se tratar de invalidez permanente parcial incompleta, será efetuado o enquadramento da perda anatômica ou funcional na forma prevista no inciso I deste parágrafo, procedendo-se, em seguida, à redução proporcional da indenização que corresponderá a 75% (setenta e cinco por cento) para as perdas de repercussão intensa, 50% (cinquenta por cento) para as de média repercussão, 25% (vinte e cinco por cento) para as de leve repercussão, adotando-se ainda o percentual de 10% (dez por cento), nos casos de sequelas residuais. 
+Nesses termos, considerando que o acidente ocorreu após a entrada em vigor da lei 11.945/09, é compulsória a utilização da Tabela do "Anexo" da lei nº 6.194/74, a qual estipula os percentuais devidos para cada tipo de perda anatômica ou funcional em situações de invalidez permanente parcial. Não merece acolhida, portanto, a argumentação do autor, exposta na inicial, de que faz jus ao valor integral de R$ 13.500,00, independentemente de a invalidez ser total ou parcial (fl. 06).
+Ressalto que, mesmo antes da referida alteração legislativa, a jurisprudência do Eg. TJSP já entendia, majoritariamente, que era lícita a aplicação da Tabela da SUSEP em casos de invalidez parcial. Nesse sentido: 
+SEGURO ? Obrigatório (DPVAT) ? Responsabilidade Civil ? Fixação do valor indenizatório ? Incapacidade parcial e permanente do autor comprovada ? Aferição por laudo pericial ? Adoção de percentual correspondente, segundo a tabela editada pelo SUSEP ? Incidência sobre o teto legal vigente quando da liquidação do sinistro, no caso a data do ajuizamento da demanda - Recurso do autor provido em parte e improvido o da ré (Apelação Cível n. 1.132.221-0/6 ? Igarapava ? 35ª Câmara de Direito Privado ? Relator: Artur Marques ? 17.03.08 ? V.U. ? Voto n. 15360)
+Segundo o laudo pericial médico elaborado por instituto oficial (IMESC), o autor sofreu "perda integral do baço", sem outras incapacidades. 
+De acordo com a tabela do "anexo" da lei 6.194/74, bem como segundo o laudo pericial, a perda integral (retirada cirúrgica) do baço, dá direito à indenização no importe de 10% do valor do capital segurado (R$ 13.500,00), ou seja, R$ 1.350,00.
+Tal valor deve ser acrescido de correção monetária desde a data do acidente. Neste sentido:
+DPVAT. Invalidez permanente. Falta de requerimento administrativo que não afasta o interesse de agir do Autor. Boletim de ocorrência prescindível para provar o sinistro. Perda do baço que, segundo a Tabela da SUSEP, equivale à indenização de 10% do capital segurado. Correção monetária que deve incidir desde a data do acidente como forma de preservar o valor da moeda. Recurso parcialmente provido apenas para reduzir os honorários advocatícios para R$1.500,00. (Apelação com revisão nº 0003424-20.2010, j. 19.09.2013, Rel. Pedro Baccarat)
+Os juros de mora, por sua vez, devem incidir desde a citação. Nesse sentido, a jurisprudência do STJ: 
+AGRAVO INTERNO. DIREITO CIVIL. COBRANÇA DE DIFERENÇA DE SEGURO OBRIGATÓRIO ? DPVAT - JUROS MORATÓRIOS. TERMO INICIAL.Em consonância com a iterativa jurisprudência desta Corte, mesmo nas ações em que se busca o complemento de indenização decorrente do seguro obrigatório - DPVAT -, por se tratar de ilícito contratual, os juros de mora devem incidir a partir da citação, e não da data em que é efetuado o pagamento a menor do que o devido. Agravo improvido. (STJ, AgRg no REsp 936053 / SP, Rel. Min. Sidnei Beneti)
+
+DECIDO.
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a ação, para condenar a ré ao pagamento de R$ 1.350,00 (mil, trezentos e cinquenta reais), acrescidos de correção monetária, conforme a Tabela Prática do TJSP, desde o acidente, e de juros de mora de 1% ao mês, desde a citação até o efetivo pagamento. 
+Ante a sucumbência recíproca, cada uma das partes arcará com as custas que tenham desembolsado, bem como com os honorários advocatícios de seus respectivos advogados.
+P.R.I.C.
+
+São Paulo, 08 de outubro de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

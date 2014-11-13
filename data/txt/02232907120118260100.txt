@@ -1,0 +1,47 @@
+
+
+SENTENÇA
+
+Processo nº:0223290-71.2011.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Moral
+Requerente:Jc Master Elétrica e Hidráulica Ltda
+Requerido:Telecomunicações de São Paulo S/A - Telesp Telefonica
+
+
+
+
+Juiz(a) de Direito: Dr(a). Paula Narimatu De Almeida
+
+
+Vistos.
+
+Trata-se de ação de indenização por danos morais e materiais ajuizada por JC MASTER ELÉTRICA E HIDRAULICA LTDA. em face de TELECOMUNICAÇÕES DE SÃO PAULO S.A.  TELESP (TELEFONICA) para pleitear o pagamento de indenização por danos materiais e lucros cessantes no valor de R$ 258.949,68 e indenização por danos morais em montante a ser arbitrado.
+Narra a autora que em junho de 2011 solicitou à ré a instalação do serviço de busca automática de linhas telefônicas, de forma que a linha 2581-2966 passou a funcionar como linha tronco. De acordo com esse serviço os clientes ao ligaram para o telefone principal (linha tronco) automaticamente a ligação é transferida para as outras quatro linhas da autora (2585-9136, 2585-9137, 2156-9808 e 2025-2134).
+Contudo, a busca automática não passou a funcionar de pronto. Primeiramente a ré informou que o problema decorria da diferença de prefixos entre as linhas telefônicas, razão pela qual a autora solicitou a alteração dos prefixos das linhas, de modo a que todas tivessem o prefixo compatível com a linha tronco. Após esse pedido de alteração somente uma linha teve o prefixo mudado para ?2581?.
+Entre os dias 15/07/2011 e 19/07/2011 nenhuma linha telefônica funcionou, nem a com prefixo já alterado nem a linha tronco, que informavam ?número inexistente?. Em contato com a ré, a autora foi informada que a linha tronco teve seu número alterado por erro de um atendente.
+No dia 25/07/2011 a linha tronco voltou a funcionar com o número antigo, porém ficou sem funcionamento nos dias 27/07 a 29/07, 02/08 a 04/08 e 12/08 a 24/08.
+As linhas voltaram a funcionar normalmente após as 14:45 horas do dia 24/08/2011.
+A autora alega que seu faturamento mensal caiu em virtude dos problemas com as linhas telefônicas, pois a maior parte dos pedidos que recebia eram feitos por telefone.
+Citada, a ré apresentou contestação as fls. 207/219 para sustentar que a queda no faturamento da autora não pode ser atribuída ao mau funcionamento de suas linhas telefônicas, não comprovação do prejuízo econômico, não ocorrência do dano moral e, eventualmente a fixação do quantum da indenização por danos morais de forma a evitar o enriquecimento sem causa. Por fim, aduz a impossibilidade de inversão do ônus da prova.
+Réplica as fls. 229/232.
+É o relatório.
+DECIDO.
+A matéria debatida nos autos é somente de direito e de fato comprovável por meio de prova documental, autorizando o julgamento antecipado da lide, nos termos do art. 330, I, do CPC.
+Sendo a ré de pessoa jurídica de fornecedora de serviços de telefonia, sua responsabilidade, frente à relação consumerista instalada, é objetiva, nos termos do artigo 20 do CDC.
+Os fatos narrados pela autora na petição inicial, referentes à prestação defeituosa dos serviços contratados de instalação de linha tronco com busca automática das demais linhas telefônicas, não foram impugnados pela ré, de sorte que restaram incontroversos. Deste modo, não há dúvidas a respeito da falha na prestação do serviço pela ré, de modo que deve responder pelos prejuízos causados.
+Evidente, que a autora sofreu significativo prejuízo em sua atividade comercial por falha do serviço de responsabilidade exclusiva da ré, pois ficou vários dias sem o funcionamento de suas linhas telefônicas, o que impediu a conclusão de pedidos por esse meio de comunicação.
+Infelizmente a quantificação dos lucros cessantes é tarefa que se mostra inviável na medida em que não há como se estabelecer parâmetros entre o que a autora deixou de ganhar em razão do não acesso da sua clientela.
+As notas fiscais juntadas com a inicial não são suficientes para comprovar os prejuízos sofridos, até porque, pela numeração das notas colacionadas, verifica-se que nem todas estão nos autos.
+Mas é impositiva a condenação da ré em danos morais, facilmente identificável no processo de angústia gerado entre os funcionários e sócios da ré pela impossibilidade de manterem pleno e eficaz atendimento à clientela, o que resultou em efetivo prejuízo, se não quantificável materialmente, possível de ser compensado pelo dano moral.
+Contrato - Prestação de serviços - Serviço de conexão à internet de alta velocidade ("Speedy") - Indenizatória por danos materiais e morais, decorrentes da aquisição do "modem" e a não instalação do serviço por falta de condições técnicas - Ajuizamento da ação contra a prestadora de serviços de telefonia, que vendeu o produto, não prestou o serviço, mas procedeu à sua cobrança - Erro da companhia que deveria ter verificado antes, a impossibilidade técnica - Validade do ajuizamento - Preliminar afastada.CONTRATO - Prestação de serviços - Serviço de conexão à internet de alta velocidade ("Speedy") - Indenizatória por danos materiais e morais, decorrentes da aquisição do "modem" e a não instalação do serviço por falta de condições técnicas - Serviço oferecido na mídia sem qualquer ressalva quanto à ausência de condições técnicas em determinadas localidades - Ausência de avaliação prévia para verificação da existência ou não de tais condições no local pretendido pelos contratantes - Conduta negligente da ré configurada - Existência de dano moral e material suscetíveis de reparação - Ação parcialmente procedente quanto à reparação do dano material, arbitrado em R$ 129,00, sendo totalmente procedente quanto ao dano moral, arbitrado em R$ 2.000,00 - Valores adequado às circunstâncias do caso - Recurso desprovido.(TJSP - Ap. Cível nº 7.177.277-9 - Mogi das Cruzes - 18ª Câmara de Direito Público - Relator Roque Mesquita - J. 21.07.2008 - v.u).
+
+DANO MORAL - Responsabilidade civil - Contrato - Prestação de serviços - Telefonia - Alegação de débito decorrente de mudança de plano telefônico - Ausência de prova, pela concessionária, de que a autora tenha requerido a alteração - Contratação que teria sido feita por via telefônica - Responsabilidade da prestadora de serviço quanto à segurança da contratação e que decorre do risco profissional de sua atividade - Empresa que, diante do inadimplemento, cortou as linhas telefônicas da autora - Configuração do dano moral - Consumidora que é pessoa jurídica e que ficou impedida de manter contato com seus clientes - Desnecessidade de outras provas em razão das graves conseqüências advindas da conduta da ré - Indenização devida - Valor que deve ser fixado atentando-se, principalmente, ao dano causado e ao poder aquisitivo do responsável e da vítima, sem no entanto, constituir fonte de enriquecimento ilícito para o autor - Recurso não provido.(TJSP - Ap. Cível nº 1.180.100-0/1 - Sorocaba - 32ª Câmara de Direito Privado - Relator Ruy Coppola - J. 11.09.2008 - v.u). Voto nº 15.66.
+Deste modo, fixo o valor dos danos morais, considerada a suportabilidade econômica da ré, no valor de R$ 50.000,00.
+Ante o exposto, JULGO PROCEDENTE EM PARTE o pedido inicial para condenar o requerido ao pagamento de danos morais no valor de R$ 50.000,00, corrigidos e acrescidos de juros de 1% ao mês a partir da presente decisão. Diante da sucumbência recíproca, cada parte arcará com as custas e honorários de seus advogados, na forma do art. 21 do Código de Processo Civil.
+P. R. I.
+
+São Paulo, 01 de abril de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

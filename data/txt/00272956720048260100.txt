@@ -1,0 +1,73 @@
+
+
+SENTENÇA
+
+Processo nº:0027295-67.2004.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Assunto Principal do Processo >
+Requerente:Valdeias de Caria
+RequeridoLitisconsorte Passivo:Hospital Israelita Albert Einstein e outro, Itau Seguros S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Alberto Alonso Muñoz
+
+
+I. Relatório
+
+Cuida-se de ação de indenização pelos danos materiais e morais. Sustenta a parte autora, em síntese, que sua esposa se internou no nosocômio réu para realização de uma cirurgia de transplante de fígado, eis que padecia de hepatite C. No entanto, por defeito do serviço, a ré efetuou-lhe transfusão com sangue incompatível. Em vez de ministrar-lhe sangue tipo O+, foram trocadas as bolsas de sangue e lhe foi aplicado sangue tipo A+. A família entrou em desespero, só foi atendida pelo médico meia hora depois de comunicado, que não acreditou no ocorrido. Por conta disso, veio a vítima a entrar em coma, falecendo sete dias após a transfusão de sangue incompatível, sem que o transplante pudesse vir a ser realizado. Por fim, após sustentar que sofreu dano moral pela morte de sua esposa e dano material resultante do tratamento interrompido pelo erro médico e das despesas decorrentes de sua morte, pediu o exercício da jurisdição para o fim de:
+1.º) condenar a ré ao pagamento de despesas com medicamentos e tratamentos, desde a época em que se descobriu que a vítima estava acometida da enfermidade até sua morte, eis que foi frustrado o transplante em razão da conduta imprudente da ré, que a levou à morte; despesas com médicos particulares, pelos mesmos fundamentos; e despesas de velório e sepultamento, tudo totalizando R$ 73.906,40 (setenta e três mil novecentos e seis reais e quarenta centavos);
+2.º) condenar a ré ao pagamento de lucros cessantes consistentes em redução da renda familiar, correspondendo à expectativa de vida da mulher brasileira multiplicada pelo valor que auferia mensalmente, no total de R$ 192.270,00 (cento e noventa e dois mil duzentos e setenta reais);
+3.º) condenar a ré ao pagamento de indenização pelo dano moral suportado.
+Citada, contestou, requerendo, em preliminar, o chamamento ao processo da seguradora. No mérito, admitiu ter havido transfusão de sangue incompatível, negando, porém, que a morte tenha resultado do erro médico. Sustentou que a doença era impeditiva de atividade laboral, dada a gravidade do quadro clínico, que, segundo afirma, teria sido a verdadeira causa da morte, sendo que já se encontraria em choque antes da transfusão incompatível. Negou, por conseguinte, a existência de nexo de causalidade, o valor do pedido de condenação e a existência de dano moral indenizável. Juntou documentos (fls. 368/957).
+Houve réplica (fls. 959/968).
+Por força de acórdão em agravo de instrumento, foi citada a seguradora, que contestou requerendo a denunciação da lide ao IRB e, no mérito, reiterou a defesa do hospital corréu e, na hipótese de condenação, pediu fosse observado o porcentual do resseguro (90%) e o critério de participação obrigatória do segurado (20% dos prejuízos e despesas indenizáveis, com o mínimo de R$ 60.000,00), nos termos da apólice contratada. Juntou documentos (fls. 1189/1226).
+Produziu-se prova pericial a fls. 1365/1374.
+Relatei o essencial. Decido.
+
+II. Fundamentação
+
+O processo comporta julgamento antecipado do mérito, na forma do art. 330, I do Código de Processo Civil, não se caracterizando cerceamento de defesa se não eram necessárias outras provas. Ao contrário, nas hipóteses em que se impõe, o julgamento antecipado do mérito não é faculdade do julgador, mas dever legalmente imposto até mesmo pela Constituição Federal quando o feito se encontra em condições de ser sentenciado, sendo corolário do princípio da economia processual (que decorre daquele do devido processo legal: art. 5.º, LIV da CF/88) e da razoável duração do processo (art. 5.º, LXXVIII).
+O pedido é parcialmente procedente.
+Há um fato incontroverso: que a vítima, esposa do autor, sofreu transfusão incompatível com seu tipo sanguíneo. As partes admitem que o fato ocorreu.
+Há, por outra banda, dois pedidos condenatórios: um ao pagamento de danos materiais decorrentes da morte da vítima, que a parte autora atribui ao defeito na prestação do serviço, causador do falecimento de sua esposa; e outro ao pagamento de dano moral decorrente do sofrimento imposto pelo desespero ao saber que sua consorte sofreu transfusão de sangue incompatível com o tipo sanguíneo. São dois pedidos condenatórios diversos, com fundamentos diversos.
+O primeiro depende da aferição do nexo de causalidade entre a conduta culposa e o resultado.
+Não resta dúvida de que o estado crítico de saúde da falecida contribuiu para seu falecimento. Resta saber se foi a causa exclusiva de sua morte ou se o ato ilícito culposo teria contribuído para seu agravamento.
+Sabe-se que há controvérsia doutrinária a respeito de qual teoria da causalidade teria sido adotada pelo Código Civil de 2002. Carlos Roberto Gonçalves, entre os doutrinadores, sustenta que o código adotou a Teoria do Dano Direto e Imediato  (veja-se também o célebre acórdão do Ministro Moreira Alves nesse sentido: STF, 1ª. T., RE 130 764, Rel. Min. Moreira Alves, julg. 12/05/1992, DJ 07/08/1992). O mestre Agostinho Alvim segue nessa via. Já Pablo Stolze Gagliano e Rodolfo Pamplona Filho apontam várias decisões jurisprudenciais em que se adotou a Teoria da Causalidade Adequada. 
+No caso em tela, porém, são irrelevantes os debates doutrinários. Aqui tivemos uma causa preexistente, a saber, o estado crítico de saúde da falecida, e um ato culposo subsequente. A quaestio facti cinge-se a saber se o estado crítico de saúde da vítima foi condição suficiente para sua morte. Ou seja, se, presente ou ausente o ato ilícito, o falecimento ocorreria da mesma maneira ou não.
+A resposta só pode ser pericial. E a perícia concluiu que a moléstia que a acometia foi a causa exclusiva de sua morte, sem que a transfusão de sangue incompatível tivesse agravado seu quadro.
+Remeto a fls. 1373, em que o perito médico conclui, peremptoriamente: ?não há nexo entre sua morte e a transfusão de sangue incompatível?. Descreve que a falecida recebeu pequena quantidade de sangue incompatível (cerca de 130 ml) e não teria apresentado nenhum sinal de hemólise nas horas que se seguiram, mantendo os parâmetros hemodinâmicos e respiratórios estáveis (fls. 1372).
+Inexistindo nexo de causalidade entre o falecimento e o ato ilícito, a indenização pelo dano material deve ser afastada. Presume-se que a vítima faleceria independentemente do defeito do serviço prestado. Tanto é assim que o sr. Perito afirma, a fls. 1372, que ?em qualquer UTI, no Brasil ou no restante do mundo, a mortalidade no caso da falecida beira os 100%, independentemente de ser adotada a melhor conduta ou não?. Refere-se, aqui, ao óbito decorrente de falência múltipla de órgãos em razão do quadro infeccioso que a falecida já apresentava.
+Por conseguinte, ainda que não tivesse havido transfusão incompatível, a falecida viria a entrar em óbito, dada a gravidade de seu quadro clínico. Não foi, portanto, a transfusão causa suficiente nem agravadora do quadro.
+E se o evento morte se sucederia inevitavelmente, o hospital réu não pode responder pelos danos materiais, sejam eles decorrentes dos lucros cessantes (presumivelmente a vítima auferia receita com seu trabalho), seja pelo dano emergente decorrente de um tratamento que não pôde acontecer (eventual transplante não teria permitido a sobrevida, já que a vítima, reitero, encontrava-se em trágico estado de saúde) ou das despesas funerárias (que ocorreriam de toda forma após o óbito iminente).
+Não assim, porém, no que diz respeito ao dano moral. Aqui cuida-se de algo inteiramente diverso. 
+A notícia de que a falecida, tendo sofrido transfusão de sangue incompatível, poderia vir a ter seu quadro clínico agravado e entrar em óbito criou transtorno imediato na família e no autor, viúvo da falecida. Tal sofrimento ? que, o senso comum ensina, não deve ter sido pouco ? constitui um dano cuja compensação deve ser feita. 
+De outra banda, a dimensão punitivo-pedagógica é de ser examinada aqui. Não se admite que aquele que é talvez o melhor hospital do país seja incapaz de proceder a um controle das bolsas de sangue que serão ministradas aos pacientes. Se já é inaceitável que num precário e entristecedor hospital da periferia de nossa cidade isso ocorra com pessoas humildes que a ele têm de recorrer, com ainda mais forte razão quando se cuida do hospital privado que é considerado padrão em prestação de serviços médicos de nosso País. E um hospital cujos honorários médicos atingem cifras astronômicas deveria destinar parte maior de proporcionais seus lucros ao controle da qualidade de seus serviços.
+Havendo o an debeatur, resta o quantum debeatur da indenização pelo dano moral.
+Utilizando o critério punitivo-pedagógico, de um lado, e reparador, de outro, e cuidando para que não haja enriquecimento sem causa de uma parte a custas da outra, entendo razoável a condenação da ré ao pagamento de R$ 40.000,00 (quarenta mil reais). Considerei o sofrimento do autor, sua situação econômica, o contexto fático, de um lado; e de outro o grau de culpa e o porte econômico da ré, bem como o comportamento imediatamente após ter tido ciência do ocorrido, com as medidas de reversão tomadas.
+Termo inicial dos juros e correção monetária:
+?O termo inicial da correção monetária incidente sobre a indenização por danos morais é a data do seu arbitramento, consoante dispõe o verbete da Súmula n. 362/STJ: 'A correção monetária do valor da indenização do dano moral incide desde a data do arbitramento'. Os juros moratórios, em se tratando de responsabilidade extracontratual, incidem desde a data do evento danoso, na forma da Súmula n. 54/STJ: 'Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual'. Precedente da Segunda Seção do STJ no julgamento do REsp n. 1.132.866/SP, em sessão realizada em 23/11/2011, cujo acórdão encontra-se pendente de publicação.? (REsp 827.010/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/02/2012, DJe 13/03/2012).
+A data do evento danoso é a data do ato ilícito.
+Porcentual dos juros e da correção monetária e seu cálculo: Selic, na forma pacificada no STJ:
+?Os juros moratórios de 6% ao ano são devidos a partir da data do evento danoso, na forma da Súmula 54 do STJ, observando-se o limite disposto nos arts. 1.062 e 1.063 do CC/16, até janeiro de 2003, momento a partir do qual passa a vigorar a disposição contida no art. 406 do CC/02, nos moldes do precedente da Corte Especial, que aplica a taxa SELIC. A correção monetária, também incidente a partir do evento danoso e que deve ser alcançada mediante a aplicação de índice que reflita a variação de preços ao consumidor, terá sua incidência cessada a partir do momento em que iniciada a da taxa SELIC, sob pena de bis in idem. Precedente.? (REsp 1139997/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/02/2011, DJe 23/02/2011).
+Quanto ao chamamento ao processo, a responsabilidade da chamada limita-se a R$ 60.000,00 (sessenta mil reais), valor da franquia. Dessa maneira, não responde pela indenização, por força do avençado no contrato.
+O pedido, portanto, há de ser acolhido apenas parcialmente.
+
+III. Dispositivo
+
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE o pedido da parte autora e EXTINGO o processo, COM RESOLUÇÃO DE MÉRITO, na forma do art. 269, I, do Código de Processo Civil para o fim de CONDENAR a parte ré ao pagamento de R$ 40.000,00 (quarenta mil reais) a título de dano moral. Julgo IMPROCEDENTE o pedido de condenação ao pagamento de danos materiais. E julgo, por fim, IMPROCEDENTE o pedido de condenação da ré ITAÚ SEGUROS, chamada ao processo, a indenizar pela via regressiva a ré HOSPITAL ISRAELITA ALBERT EINSTEIN.
+Termo inicial dos juros e correção monetária:
+?O termo inicial da correção monetária incidente sobre a indenização por danos morais é a data do seu arbitramento, consoante dispõe o verbete da Súmula n. 362/STJ: 'A correção monetária do valor da indenização do dano moral incide desde a data do arbitramento'. Os juros moratórios, em se tratando de responsabilidade extracontratual, incidem desde a data do evento danoso, na forma da Súmula n. 54/STJ: 'Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual'. Precedente da Segunda Seção do STJ no julgamento do REsp n. 1.132.866/SP, em sessão realizada em 23/11/2011, cujo acórdão encontra-se pendente de publicação.? (REsp 827.010/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/02/2012, DJe 13/03/2012).
+A data do evento danoso é a data do ato ilícito.
+Porcentual dos juros e da correção monetária e seu cálculo: Selic, na forma pacificada no STJ:
+?Os juros moratórios de 6% ao ano são devidos a partir da data do evento danoso, na forma da Súmula 54 do STJ, observando-se o limite disposto nos arts. 1.062 e 1.063 do CC/16, até janeiro de 2003, momento a partir do qual passa a vigorar a disposição contida no art. 406 do CC/02, nos moldes do precedente da Corte Especial, que aplica a taxa SELIC. A correção monetária, também incidente a partir do evento danoso e que deve ser alcançada mediante a aplicação de índice que reflita a variação de preços ao consumidor, terá sua incidência cessada a partir do momento em que iniciada a da taxa SELIC, sob pena de bis in idem. Precedente.? (REsp 1139997/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/02/2011, DJe 23/02/2011).
+A parte ré deverá proceder ao pagamento integral do valor nestes autos, após o trânsito em julgado, no prazo de quinze dias de sua intimação, sob pena de prosseguir-se na forma do art. 475-J do CPC. Nessa última hipótese, elaborado cálculo do débito pela parte autora e recolhidas as custas correspondentes, fica desde já autorizada a penhora online via sistema Bacenjud.
+Custas repartidas igualmente entre autor e ré. Honorários fixados em 10% sobre o valor da condenação, considerando a complexidade do feito e o número de atos praticados, na forma do art. 20, §§ 3.º e 4.º do Código de Processo Civil, que cada parte deverá a seu advogado. Condeno, ademais, pela lide secundária, o réu HOSPITAL ISRAELITA ALBERT EINSTEIN ao pagamento de R$ 5.000,00 (cinco mil reais) a título de honorários sucumbenciais para a corré ITAÚ SEGUROS S.A.
+Publique-se. Registre-se. Intimem-se.
+
+
+São Paulo, 19 de novembro de 2012.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

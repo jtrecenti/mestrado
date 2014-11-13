@@ -1,0 +1,83 @@
+
+
+SENTENÇA
+
+Processo nº:0194889-28.2012.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Obrigação de Fazer / Não Fazer
+Requerente:Irineu Ferreira Vieira Junior
+Requerido:Bradesco Vida e Previdencia S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Ricardo Dal Pizzol
+
+
+
+
+Vistos.
+
+
+
+
+IRINEU FERREIRA VIEIRA JUNIOR ajuizou ?ação de obrigação de fazer c/c danos morais? contra BRADESCO VIDA E PREVIDÊNCIA S/A.
+
+Alega o autor que: (i) celebrou contrato de seguro de acidentes pessoais com o requerido, com vigência prevista para o período entre 12/10/2012 e 11/02/2012; (ii) em 22/09/2010, sofreu acidente pessoal, com a consequente ruptura do tendão de Aquiles direito; (iii) solicitou do requerido, em 08/12/2010, o pagamento da indenização por conta de sua situação de invalidez, sendo este pedido, porém, negado, sob o argumento de que as sequelas sofridas pelo autor seriam temporárias e passíveis de recuperação; (iv) sofreu danos morais por conta do ocorrido.
+
+Tutela antecipada indeferida à fl. 47.
+
+Emenda às inicial às fls. 70/72.
+Contestação às fls. 96/110. Alega o requerido que: (i) houve extinção de demanda idêntica proposta anteriormente no Foro Regional de São Miguel Paulista, por conta do não recolhimento das custas processuais devidas, razão pela qual não é possível a repropositura da demanda sem o cumprimento da determinação constante no art. 268 do Código de Processo Civil; (ii) deve ser reconhecida a prescrição da pretensão do autor, nos termos das Súmulas 229 e 278 do STJ; (iii) não se caracterizou o quadro de invalidez permanente; (iv) não estão presentes os requisitos do dever de indenizar. 
+
+Réplica às fls. 176/184.
+
+É o Relatório.
+
+Passo a Fundamentar.
+
+I ? Rejeito a preliminar de aduzida à fl. 98, uma vez que a extinção do feito anterior não se deu propriamente pelo não recolhimento de custas, mas sim pelo descumprimento da decisão judicial que determinava a juntada de documentos. 
+
+II ? O requerido alega estar prescrita a pretensão do autor.
+
+Com razão, nesse ponto, no que diz respeito à pretensão de pagamento do seguro. 
+Isto porque o art. 206, §1º, II, ?b?, do Código Civil, é claro ao dispor que a pretensão do segurado contra o segurador prescreve em 01 (um) ano, contado da ?ciência do fato gerador da pretensão?. 
+No caso, o fato gerador seria, em tese, a invalidez permanente do autor. Logo, o prazo prescricional só começou a correr a partir da ciência pelo autor de sua suposta invalidez permanente. 
+A Súmula 278 do STJ, nos mesmos termos, dispõe que o termo inicial do prazo prescricional ?é a data em que o segurado teve ciência inequívoca da incapacidade laboral?. 
+No caso, segundo o que consta nos autos, tal ciência inequívoca da invalidez permanente só ocorreu após o exame de fl. 17, realizado em 08/12/2010. Observo que o próprio autor adota tal data como termo inicial do prazo prescricional (vide fl. 179, item 20).
+Nos termos da Súmula 229 do STJ, o prazo permaneceu suspenso entre o pedido de pagamento à seguradora (09/12/2010, conforme fls. 16 e 179) e a ciência inequívoca do indeferimento, que se deu em 27/01/2011, conforme o próprio autor reconhece à fl. 179.
+O autor ajuizou a primeira demanda visando a condenação da seguradora no dia 09/02/2012 (fl. 44). Contudo, ao contrário do alegado pelo requerente, não é possível, no caso, reconhecer qualquer hipótese de interrupção do prazo prescricional em decorrência da propositura dessa primeira demanda, uma vez que ela foi extinta sem o julgamento do mérito antes de ser determinada a citação do réu, pois indeferida a petição inicial.
+De fato, o art. 219, caput, do Código de Processo Civil foi derrogado pelo art. 202, I, do Código Civil de 2002, de modo que, atualmente, o despacho judicial é o ato interruptivo da prescrição, ficando a sua eficácia, contudo, condicionada à existência de citação, na forma e prazo previstos na legislação processual. (Nesse sentido: STJ ? REsp 1066288/PR, Rel. Min, Eliana Calmon, DJe 27/02/2009). 
+Além disso, no caso, sequer chegou a ser proferido despacho determinando a citação, como preceitua o art. 202, I, do Código Civil de 2002 (vide, nesse sentido, fls. 44/45). 
+Assim, sem que tenha ocorrido a citação, ou mesmo o despacho que ordenou a citação, não se pode cogitar de interrupção da prescrição pela propositura da primeira demanda (fls. 44/45).
+Já decidiu, nesse sentido, o Eg. Tribunal de Justiça de São Paulo:
+
+
+Apelação Cível. Seguro de vida e acidentes pessoais. Ação de indenização. Prescrição. Sentença de extinção, nos termos do artigo 269, IV, CPC. Ação proposta. Aditamento da inicial não cumprido. Ação extinta sem que houvesse despacho inicial determinando a citação. Ação reproposta quando mais de 1 (um) ano havia se passado. Inexistência de ato interruptivo, por falta de citação na ação antecedente. Prescrição. Reconhecimento. Recurso não provido. (TJSP ? Apel. Cível nº 9146698-07.2009.8.26.0000, Rel. Des. Hélio Nogueira, 14/01/2013)
+
+
+DANO MORAL TRANSPORTE URBANO MORTE DE IRMÃO PRESCRIÇÃO SENTENÇA.
+1. Nos termos do art. 514 do CPC , o apelo deve conter os fundamentos de fato e de direito para alteração da decisão recorrida. Ou seja, o recurso deve atacar os fundamentos da sentença, profligar seus argumentos.
+2. Se o feito é extinto por falta de interesse processual e a sentença transita em julgado, somente com alteração dos termos do feito ele poderia ser novamente proposto. Ação idêntica, sem demonstração do interesse antes declarado ausente, não deve ser conhecida.
+3. Ação extinta sem julgamento de mérito, sem que houvesse citação, não enseja interrupção da prescrição.
+4. O prazo preconizado no Código Civil de 1916 para casos como o presente era de vinte anos. Como não houve interrupção da prescrição, ela restou configurada, já decorrido o prazo vintenário.Recurso não provido.
+(TJSP ? Apel. Cível nº 0112957-52.2011.8.26.0100, Rel. Des. Melo Colombi, 13/10/2011).
+
+
+Assim, não havendo qualquer causa apta a interromper ou suspender o prazo prescricional no período entre 27/01/2011 (ciência inequívoca do indeferimento do pagamento extrajudicial) e 25/09/2012 (data da propositura da presente demanda, com a retroação do art. 219, §1º, do CPC), faz-se necessário o reconhecimento da prescrição da pretensão de pagamento do seguro,  visto que superado o prazo legal de 01 (um) ano. 
+
+III  A prescrição não atinge, porém, a pretensão referente à indenização por dano moral, para a qual aplica-se o prazo trienal da reparação extracontratual. 
+Nesse ponto, todavia, a demanda é improcedente. 
+A simples negativa da seguradora em efetuar o pagamento extrajudicialmente não configura dano moral.
+Consoante precedentes do STJ, o mero descumprimento contratual não acarreta a condenação na referida indenização, uma vez que os aborrecimentos advindos do inadimplemento do contrato constituem natural reação a incômodos que decorrem da vida em sociedade. Nesse sentido são os seguintes julgados: REsp 729.456-MG, DJ 3/10/2005; REsp 173.190-SP, DJ 3/4/2006; REsp 930.307-RJ, DJ 14/8/2007; REsp 222.642-SP, DJ 9/4/2001; REsp 854.325-PR, DJe 25/9/2009; REsp 153.209-RS, DJ 2/2/2004; REsp 562.336-ES, DJ 3/5/2004, e REsp 337.083-SP, DJ 18/2/2002; REsp 746.087-RJ, DJ 1º/6/2010. 
+Somente os fatos e acontecimentos capazes de romper com o equilíbrio psicológico do indivíduo, violando direitos da personalidade, com desconsideração da pessoa ou ofensa à sua dignidade, devem ser considerados para fins de reparação por dano moral, sob pena de banalização e desvirtuamento deste instituto. 
+De rigor, portanto, a improcedência nesse ponto. 
+DECIDO.
+Ante o exposto:
+(a) No que diz respeito ao pedido de pagamento do seguro, RECONHEÇO A PRESCRIÇÃO da pretensão, extinguindo o feito, nesse ponto, com resolução do mérito, nos termos do art. 269, IV, do CPC;
+(b) No que diz respeito ao pedido de indenização por danos morais, JULGO IMPROCEDENTE o pleito. 
+Condeno o autor ao pagamento das custas, despesas processuais e honorários advocatícios, que fixo em R$ 1000,00 (mil reais), nos termos do art. 20, §4º, do CPC. Tais verbas permanecerão, contudo, com a exigibilidade suspensa, ante a gratuidade deferida em favor do autor. 
+P.R.I.C.
+
+São Paulo, 06 de dezembro de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

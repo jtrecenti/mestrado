@@ -1,0 +1,124 @@
+
+
+SENTENÇA
+
+Processo nº:003.10.008734-8
+Classe - AssuntoProcedimento Ordinário - Contratos Bancários
+Requerente:João Francisco Simões
+Requerido:Banco Itaubank
+
+
+
+Juiz(a) de Direito: Dr(a). Marcos Alexandre Santos Ambrogi
+
+
+Vistos.
+
+
+
+JOÃO FRANCISCO SIMÕES, já devidamente qualificado nos autos, ajuizou demanda visando à revisão do contrato bancário contra BANCO ITAUBANK S/A, alegando, em resumo, que firmou contrato bancário com o réu; que há capitalização ilegal de juros, o que deve ser expurgado; que a utilização da tabela price é ilegal; que o contrato ofende o CDC. 
+
+O réu ofereceu contestação, aduzindo, em síntese, que os valores estão corretos, não havendo ofensa ao CDC, devendo o contrato ser cumprido.
+
+O autor se manifestou a respeito da contestação.
+
+É o relatório.
+DECIDO.
+
+O feito comporta o julgamento antecipado, nos termos do art. 330, I, do Cód. de Proc. Civil, já que o desate da lide independe da produção de outras provas. A matéria é essencialmente de Direito. De outro lado, desnecessária a assinalação de audiência visando à conciliação, tendo em vista o que ordinariamente se observa em casos semelhantes.
+
+O autor se insurge contra a capitalização dos juros. 
+
+O contrato de abertura de crédito em conta-corrente bancária (cheque especial) é daqueles em que "o creditado pode utilizar várias vezes o crédito e, com sucessivas reposições repristinar a disponibilidade" (Giacomo Molle, referido por Nelson Abrão, in Curso de Direito Bancário, Ed. RT, 1982, p. 68). É, como disse  Lauro Muniz Barreto, um contrato "de durata, isto é, de execução constante" (Direito Bancário, Ed. EUD, 1975, p. 419), que tem como característica específica o fato  "de ser uma conta recíproca, e nesta, o Banco deve ora ser credor, ora devedor, o mesmo acontecendo com a outra parte" (ob.cit., p. 415). Assim, dada natureza própria desse contrato, de sucessividade, de durata e de reciprocidade na posição de credor/devedor, podendo o correntista, a qualquer tempo cobrir o saldo devedor, mediante depósitos na conta-corrente, não há que se falar em anatocismo ilícito no cálculo dos juros. 
+
+Assim, ainda que houvesse cumulação de juros, certo é que, nos meses em que não houve crédito promovido pelo correntista em sua conta, tal não se mostra irregular, pois se houvesse algum crédito nos meses em que negativo o saldo, também não haveria capitalização composta; todavia, tal fato (ausência de crédito) não significa que crédito não poderia ter ocorrido, mas, ao contrário, promoção de crédito para evitar a falta de fundos disponíveis em poder do sacado até era dever do correntista e, deste modo, dada a natureza peculiar desse contrato (de durata e reciprocidade), com possibilidade - e até obrigação - que o devedor tinha de cobrir o débito, em meu ver e com respeito ao entendimento diverso, penso que não se pode falar em ilicitude na capitalização de juros que é fruto, exclusivamente, da operacionalidade desse tipo  contratual e da ausência de depósito promovido pelo correntista (em conta corrente - cheque especial).
+
+Juro importa em renda e usualmente é definido como Remuneração que o tomador de um empréstimo deve pagar ao dono do capital (Sandroni, Paulo. Dicionário de Economia. São Paulo. Circulo do Livro. S.D.. verbete Juro. p. 175).
+
+Assim, a taxa de juros é o prêmio percentual que será pago ao dono do capital por sua utilização por um período de tempo, ou seja, há uma troca de um bem presente por um bem futuro, o que implica no reconhecimento do crédito. Nesse sentido a doutrina:
+
+A teoria dos juros guarda uma estreita analogia com a teoria dos preços, da qual, de fato, é um aspecto particular. A taxa de juros expressa um preço na troca entre bens presentes e futuros. Assim como na teoria dos preços corrente à razão da troca de quaisquer dois artigos é baseada, em parte, em um elemento psicológico ou subjetivo ? sua desejabilidade marginal comparativa ? também na teoria do juro ou prêmio sobre   a troca entre bens presentes e futuros é baseada, em parte, em um elemento subjetivo, um derivado da desejabilidade marginal, a sabe: a preferência marginal pelos bens presentes sobre os bens futuros. Esta preferência tem sido chamada preferência temporal ou impaciência humana.  A outra parte principal é um elemento objetivo, a oportunidade de investimento (Fisher, Irving. A teoria do Juro. São Paulo. Nova Cultural. 1986. p. 47).
+
+E não se pode ignorar que diariamente são contratados mútuos bancários cuja remuneração do capital ? juros ? é fixada em consideração à taxa de mercado existente no dia. 
+
+
+Segundo lição do MM Juiz da Terceira Vara de Caraguatatuba, Arion Silva Guimarães, em sentença proferida nos autos de nº410/05, Muito embora esse Juízo até já tenha aplicado o conceito de forma equivocada,  a leitura da obra de Cançado e Viana permite concluir que a aplicação dos conceitos de capitalização pela doutrina  da ciência do direito e, talvez por conseqüência, também a jurisprudência, não tem observado o rigor científico necessário(Juros. Correção Monetária. Danos Financeiros Irreparáveis. 3a ed. Belo Horizonte. Del Rey. 2003).
+
+As observações a seguir nada mais são do que um resumo do quanto contido no primeiro capítulo da obra de Cançado e Viana, onde se encontra um estudo realmente esclarecedor a respeito da possibilidade de conciliar a realidade financeira de milhares de brasileiros e aquilo que vem sendo, reconheça-se, mal aplicado pelo Poder Judiciário.
+
+De fato, da leitura da obra acima mencionada, verifica-se que não há coincidência de conceitos entre anatocismo e capitalização. O primeiro conceito importa em exigir juros antes de seu vencimento e no segundo caso, os juros, por constituírem renda, vão, naturalmente, incorporar-se ao capital mutuado, pois essa é a finalidade econômica do contrato de mútuo bancário e não se pode confundir .
+Essa a lição de Cançado e Lima:
+
+Quem assim entende confunde capital capital com renda. Capital,  em um mútuo financeiro, na acepção adequada a esta exposição, é o valor atual do saldo de um débito, expresso pelo montante  que resultar do capital original, acrescido dos juros vencidos, convertidos e incorporados periodicamente ao capital, abatidos os valores eventualmente pagos(parte dos juros, total dos juros, total dos juros e amortização). Juro  ou  renda  é o fruto deste capital que, após ser gerado, pelo decurso do período de geração (e se tornar, assim, juro vencido  ou  renda vencida)  - independentemente de haver ou não sido pago ? se converte e se incorpora ao capital inicial  do período, transformando-o em capital final  do período.
+
+A única peculiaridade da renda vencida paga, em relação  à  renda vencida não paga,  é que esta última fica aplicada com o mesmo mutuário, elevando o saldo devedor de capital. Daí o equívoco comum de se considerar o juro  de um segundo período como sendo representado por dois diferentes tipos de juros: o juro do capital  e o juro do juro.  Este equívoco decorre de se imaginar que a renda vencida  ou o juro vencido  não se converte nem se incorpora ao capital. 
+
+É fato que a renda produzida pelos juros, no segundo período, é superior à renda produzida por eles, no primeiro período.  Isto se dá porque, embora a taxa de juros continue sendo a mesma, a renda se torna maior, por ser produzida por um capital maior. O capital inicial foi acrescido de um novo capital,  produzido pela conversão e incorporação a ele da renda (ou juros vencidos) produzida anteriormente. Neste caso a contagem  dos juros é feita fazendo-se incidir a taxa de juros do período sobre o total do capital do mutuante, representado pelo capital inicial  e pelo novo capital, a ele convertido e incorporado, que constitui fruto do capital inicial no período. Isto é o que se denomina capitalização dos juros. (Juros. Correção Monetária. Danos Financeiros irreparáveis. Uma abordagem jurídico econômica /   Romualdo Wilson Cançado e Orlei Claro de Lima ? 3.ed.rev.atual.e ampl. ? Belo Horizonte: Del Rey, 2003. pág. 27/28)
+E prosseguem quanto a aplicação do art. 4o do Dec. 22.626/33:
+
+Contar juros dos juros,  ou  cobrar juros por antecipação significa cobrar juros sobre renda ainda não gerada, exigindo seu pagamento no início do período cujo decurso completo é condição sine qua non para sua geração. Este artigo proíbe, em geral, a prática da contratação da taxa de juros antecipada. Esta forma de contratação permitiria a contagem e cobrança dos juros dos juros que, como já vimos, é prática equivalente à da cobrança de juros antecipados. 
+
+O artigo ressalta que esta proibição não se confunde  com a ...acumulação de juros vencidos aos saldos líquidos de conta corrente de ano a ano. Fica claro que a capitalização dos juros, no fim do período(quando os juros se tornam vencidos), à razão de 6 unidades para cada 100 unidades de capital, ou em outra razão, especificada em taxa de juros anual, não se confunde com a contagem de juros sobre juros,  ou cobrança antecipada de juros. Isto porque, já dissemos, os juros vencidos  se  convertem e se incorporam naturalmente ao capital, ao final de cada período de capitalização expresso na taxa de juros.
+A referência do artigo 4º a período anual constitui mera decorrência do período de capitalização utilizado no texto do  Decreto n. 22.626/33, que é anual, necessário a que a aplicação de um capital financeiro de 100 unidades gere renda vencida ou juro vencido  de 6 unidades e, pela sua acumulação, transforme o capital inicial de 100 unidades  em 106 unidades, ao final do período(anual).
+ 
+Pode-se concluir que o legislador não proibiu a  capitalização dos juros em prazos inferiores a ano.  Ele apenas vedou práticas  de cálculos financeiros inadequados para refletir a taxa de juros legal, estipulada em 6% ao ano (ou ao seu dobro, 12% ao ano), que indica juros capitalizados anualmente.(Juros. Correção Monetária. Danos Financeiros irreparáveis. Uma abordagem jurídico econômica /  Romualdo Wilson Cançado e Orlei Claro de Lima ? 3.ed.rev.atual. e ampl. ? Belo Horizonte: Del Rey, 2003.  33/34)
+
+Dornelles da Luz, do mesmo modo, mostra-se favorável à capitalização dos juros:
+
+Não há como escapar da realidade. Os Bancos, fazendo o que se convencionou chamar de intermediação financeira, têm que repassar o dinheiro pelo seu custo, mais o spread que constitui sua comissão. Ora, se a capitalização mensal é consentida na captação como seria possível proibir seu repasse? Pode um comerciante ser obrigado a vender sua mercadoria com prejuízo? Há fundamento jurídico a respaldar uma proibição dessa natureza? Só mesmo em uma economia de guerra ter-se-á justificativa jurídica.
+Aos poucos os Tribunais foram-se dando conta da absurdidade de algumas teses que entre eles encontrava sustentação.[...]. Mas, não demorará muito, chegará a admiti-lo [refere-se ao computo capitalizado dos juros] em toda operação bancária indistintamente, enquanto perdurarem essas ruinosas condições em nossa economia(LUZ, Aramy Dornelles da. Negócios jurídicos bancários, o banco múltiplo e seus Contratos, Revista dos Tribunais, São Paulo, 1996, p. 99-100)
+Uma leitura atenta do art. 4º, inciso IX, da Lei nº 4.595/94 e da Súmula nº 596, do E. STF,  revela que a prática da capitalização, nos termos como acima denominados, incorporação do capital após o decurso do prazo para a incidência da remuneração não mais é proibida de há muito.
+A partir do momento que as taxas de juros podem ser livremente pactuadas, se tornou livre a forma de calculá-las, desde que os valores dos juros resultantes da aplicação das taxas contratadas estejam corretos.
+A proibição dos juros compostos leva a situações absurdas, como, por exemplo, uma instituição financeira pode contratar uma taxa de juros simples de 500% ao ano, mas não pode estabelecer essa taxa a 2% ao mês, a juros compostos, o que dá apenas 26,8% em um ano. 
+Se a taxa de juros é estabelecida para um determinado período, tanto faz calculá-la pelo regime simples ou composto.
+Tanto faz contratar uma operação de 26,8% ao ano a juros simples ou compostos, que o desembolso final do mutuário será absolutamente o mesmo. 
+
+No caso, pelo exame dos extratos apresentados, os quais revelam que os juros sempre foram exigidos e lançados a débito na conta corrente do devedor, após o período de vencimento, não há que se falar na espécie na prática de anatocismo, pois tal prática não se confunde com a da capitalização dos juros em seu conceito estrito e que, como viso acima, não se faz ilícita.
+A Tabela Price, concebida pelo matemático inglês Richard Price, no século passado, importa em estabelecer prestações que levam às amortizações crescentes com valor dos juros decrescentes, não caracterizando pois anatocismo.
+
+O financiamento contratado pelo sistema francês de amortização, também chamado Tabela Price,  configura um sistema de cálculo muito comum nos empréstimos desta natureza. A Tabela Price é um plano de amortização da dívida, em prestações periódicas, iguais e sucessivas, em que o valor de cada prestação é composto por duas parcelas distintas: uma de juros e outra de capital. Assim, uma parte de cada prestação corresponde aos juros remuneratórios e outra parte corresponde ao capital emprestado, de modo que o saldo devedor é zerado, ao final do prazo estipulado para o empréstimo, quando devidamente adimplido.
+
+A título ilustrativo, se o valor financiado é de R$ 100,00, a ser pago em 10 (dez) parcelas, com correção monetária de 10% e juros de 10%, cada uma das parcelas será composta de R$ 10,00 referente à amortização do principal acrescida de R$ 1,00 da correção monetária e R$ 1,00 correspondente aos juros. Ao final do prazo estipulado, o mutuário terá pago 10 parcelas de R$ 12,00, totalizando R$ 120,00.
+
+Constata-se, assim, que o sistema de cálculo da Tabela Price aplica os juros simples. Os encargos (correção monetária e juros) e a amortização do principal são calculados em sua totalidade, só então essa soma é devida nas parcelas mensais. Cada uma das parcelas, de R$ 12,00 (na ilustração), quita mensalmente, ou no intervalo temporal estipulado, parte do principal e parte dos encargos do empréstimo, que por isso não passam a integrar o saldo devedor.
+
+Os encargos correção monetária e juros são pagos mensalmente, junto com a parcela do principal financiado, isto é, não é acrescido ao saldo devedor. Assim, nem os encargos, nem o montante amortizado, são capitalizados. Os números utilizados são ilustrativos e comprovam de forma objetiva, matematicamente, a aplicação de juros simples.
+
+E quanto à taxa de juros superiores a 12%:
+
+STF - Súmula nº 596 - "As disposições de Decreto nº 22.626/33 não se aplicam às taxas de juros e aos outros encargos nas operações realizadas por instituições públicas ou privadas que integram o sistema financeiro nacional".
+
+STF ? Súmula 648 - "A norma do parágrafo terceiro do artigo 192 da Constituição, revogada pela EC nº 40/2003, que limitava a taxa de juros reais a 12% ao ano, tinha sua aplicabilidade condicionada à edição de lei complementar".
+
+Embora contrato de adesão, não se pode negar validade às cláusulas de reajuste presentes nos instrumentos do contrato de mútuo, não se divisando na espécie qualquer abuso de direito. Como lembra o Prof.. WASHINGTON DE BARROS MONTEIRO, "a igualdade econômica e a igualdade verbal não são condições para a validade dos contratos; basta a igualdade jurídica", e mais adiante acrescenta: "se a outra parte se submete, vem a aceitar-lhe as disposições, não pode mais tarde fugir ao respectivo cumprimento" ("Curso de Direito Civil", vol. 5º/31, 2ª parte, 11ª ed.).
+
+Adverte ORLANDO GOMES que "a exagerada tendência para negar força obrigatória às cláusulas impressas é de todo condenável até porque não deve o juiz esquecer que certas cláusulas rigorosas são necessárias à consumação dos fins perseguidos pelos contratos de adesão em série" ("Contratos", 9ª ed., p. 139)".
+
+Na interpretação dos contratos de adesão regulados pelo direito consumerista, parte-se do pressuposto de que, nas relações de consumo, existe de fato uma vulnerabilidade do consumidor em face do fornecedor de bens e serviços ou porque não tem ele os mesmos conhecimentos de natureza técnica sobre as informações a respeito do objeto negocial ou porque não consegue alcançar plenamente as conseqüências jurídicas do seu engajamento ou porque não goza das mesmas condições econômicas e sociais da outra parte.
+
+Diante desta situação, a legislação consumerista corrige um possível desvio da liberdade contratual, concedendo ao consumidor direitos que restabeleçam, juridicamente, o equilíbrio negocial. O princípio do equilíbrio, essencial ao exercício da autonomia privada, manifesta-se na lei pela nulidade de cláusulas abusivas. 
+
+Assim, abusividade não é um conceito discricionário, posto na lei para permitir ao aplicador uma opção subjetiva, mas é um conceito indeterminado, cujo sentido, apesar de difuso, pressupõe um significado estável que deve ser alcançado pelo intérprete. 
+
+À primeira vista, portanto, o artigo 51 da Lei 8.078/90 não parece distinguir entre as cláusulas abusivas nulas de pleno direito, que não comportam apreciação judicial em nenhuma circunstância, e aquelas que a admitem, podendo ser corrigidas. 
+
+O princípio diretor desta possibilidade está no equilíbrio contratual. Isto porque a função da proteção ao consumidor não se localiza na supressão da autonomia da vontade, mas na equalização das condições do seu exercício. Assim, não se deve substituir a autonomia privada pela heteronomia, pois isso deslocaria as relações econômicas do âmbito da livre iniciativa e dos objetivos da justiça social, ao inviabilizar a atividade e o benefício dela decorrente ou porque a encareceria insuportavelmente para o consumidor ou porque a eliminaria como possibilidade econômica para o fornecedor. 
+
+A idéia diretriz, presente no Código de Defesa do Consumidor, não é, pois, de um "favorecimento" mas de evitar um "desfavorecimento" do consumidor. Daí a prescrição expressa, com o auxílio de conceitos indeterminados, constante do artigo 51,IV, que considera iníqua, abusiva, cláusula que estabeleça obrigação que coloque o consumidor "em desvantagem exagerada" ou sejam incompatíveis com a boa-fé ou a equidade. Desvantagem exagerada significa quebra ostensiva de equilíbrio. 
+
+Sob o manto do equilíbrio não se pode extrair que a tutela criada para evitar a inferioridade de uma das partes em face da outra implique na total imunidade da parte tutelada aos efeitos obrigacionais por ela assumidos de forma a causar prejuízos para todos.
+
+Do resto, não se pode conhecer de ofício (STJ, Súmula 381) e, em mora o devedor, possível que seu nome seja incluído no serviço de proteção ao crédito (STJ, Súmula 380).
+
+Não há o que revisar, repetir, declarar inexistente ou extinto.
+
+Diante do exposto, JULGO IMPROCEDENTES os pedidos do autor, pondo fim ao processo, com resolução do mérito, nos termos do art. 269, I, do Cód. de Proc. Civil. Condeno o autor no pagamento de custas e despesas processuais, corrigidos a partir de seu desembolso, bem como no pagamento de honorários advocatícios, os quais fixo em 10% do valor dado à causa, ficando a apreciação definitiva do pedido de gratuidade relegado ao cumprimento da decisão de fls. 295 no prazo derradeiro de cinco dias a contar da publicação da presente.
+
+P.R.I.C.
+
+São Paulo, 06 de julho de 2010.
+
+Marcos Alexandre Santos Ambrogi
+Juiz de Direito
+
+São Paulo, 06 de julho de 2010.

@@ -1,0 +1,59 @@
+
+
+SENTENÇA
+
+Processo nº:0209062-28.2010.8.26.0100
+Classe ? Assunto:Procedimento Ordinário - Indenização por Dano Material 
+Requerente:Dom Pedro II Comercio de Bebidas e Alimentos Ltda
+Requerido:Adt Security Services do Brasil Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Alberto Alonso Muñoz
+
+
+Vistos.
+Dom Pedro II Comercio de Bebidas e Alimentos Ltda, qualificado(s) na inicial, ajuizou(aram) ação de Procedimento Ordinário em face de Adt Security Services do Brasil Ltda.
+A parte autora alega, em síntese, que teria firmado contrato com a ré cujo objeto seria a prestação de serviços de segurança, consistentes em instalação de alarme eletrônico e correspondente monitoramento de atividades suspeitas. Segundo a parte autora, em 25/10/2010 teria ocorrido furto em seu estabelecimento, com corte da fiação de comunicação. Acrescenta que instalou serviço denominado ?módulo de GPRS?, cuja finalidade seria justamente manter a comunicação em caso de corte da linha telefônica. Apesar disso, a ré não teria cumprido o contrato na ocasião. Mais ainda, aduz que a cláusula 14 (que exclui a obrigação de indenizar na hipótese de furto) seria nula, pois violaria o art. 51, I do Código de Defesa do Consumidor. Pediu a condenação ao pagamento de indenização no valo de R$ 51.580,30 (cinquenta e um mil quinhentos e oitenta reais e trinta centavos), quantia que estaria depositada no cofre da empresa ou, alternativamente, o arbitramento de outro valor pelo dano suportado. Juntou documentos.
+Citada, contestou. Alegou que o contrato seria válido e que a obrigação foi devidamente cumprida, conforme avençado no negócio jurídico. Segundo a ré, o objeto do contrato não é impedir, mesmo porque impossível, a existência de dano ao patrimônio na hipótese de furto, mas apenas inibir e alertar o cliente para atividade suspeita. Ainda acrescentou que no dia dos fatos o sistema funcionou normalmente, empregado da ré se teria deslocado até o local para verificação e nada teria constatado (o funcionário não pode ingressar no local sem autorização do proprietário), tendo ainda havido comunicação com o sócio da autora. Finalmente, ainda destacou a validade da cláusula eximente de indenização e a ausência de prova do valor do dano.
+Houve réplica.
+Saneado, as partes pediram a produção de prova testemunhal, que restou preclusa.
+Relatei. DECIDO.
+O pedido é parcialmente procedente.
+Este Magistrado adota a teoria prevalecente no STJ, denominada "finalista mitigada", conforme a qual a pessoa jurídica pode ser considerada consumidora desde que dois requisitos sejam preenchidos: a) o produto ou serviço não seja transferido para o mercado; b) haja vulnerabilidade. Veja-se o extremamente didático acórdão da Min. Nancy Andrighi:
+
+CONSUMIDOR. DEFINIÇÃO. ALCANCE. TEORIA FINALISTA. REGRA. MITIGAÇÃO.
+FINALISMO APROFUNDADO. CONSUMIDOR POR EQUIPARAÇÃO. VULNERABILIDADE.
+1. A jurisprudência do STJ se encontra consolidada no sentido de que a determinação da qualidade de consumidor deve, em regra, ser feita mediante aplicação da teoria finalista, que, numa exegese restritiva do art. 2º do CDC, considera destinatário final tão somente o destinatário fático e econômico do bem ou serviço, seja ele pessoa física ou jurídica.
+2. Pela teoria finalista, fica excluído da proteção do CDC o consumo intermediário, assim entendido como aquele cujo produto retorna para as cadeias de produção e distribuição, compondo o custo (e, portanto, o preço final) de um novo bem ou serviço. Vale dizer, só pode ser considerado consumidor, para fins de tutela pela Lei nº 8.078/90, aquele que exaure a função econômica do bem ou serviço, excluindo-o de forma definitiva do mercado de consumo.
+3. A jurisprudência do STJ, tomando por base o conceito de consumidor por equiparação previsto no art. 29 do CDC, tem evoluído para uma aplicação temperada da teoria finalista frente às pessoas jurídicas, num processo que a doutrina vem denominando finalismo aprofundado, consistente em se admitir que, em determinadas hipóteses, a pessoa jurídica adquirente de um produto ou serviço pode ser equiparada à condição de consumidora, por apresentar frente ao fornecedor alguma vulnerabilidade, que constitui o princípio-motor da política nacional das relações de consumo, premissa expressamente fixada no art. 4º, I, do CDC, que legitima toda a proteção conferida ao consumidor.
+4. A doutrina tradicionalmente aponta a existência de três modalidades de vulnerabilidade: técnica (ausência de conhecimento específico acerca do produto ou serviço objeto de consumo), jurídica (falta de conhecimento jurídico, contábil ou econômico e de seus reflexos na relação de consumo) e fática (situações em que a insuficiência econômica, física ou até mesmo psicológica do consumidor o coloca em pé de desigualdade frente ao fornecedor).
+Mais recentemente, tem se incluído também a vulnerabilidade informacional (dados insuficientes sobre o produto ou serviço capazes de influenciar no processo decisório de compra).
+5. A despeito da identificação in abstracto dessas espécies de vulnerabilidade, a casuística poderá apresentar novas formas de vulnerabilidade aptas a atrair a incidência do CDC à relação de consumo. Numa relação interempresarial, para além das hipóteses de vulnerabilidade já consagradas pela doutrina e pela jurisprudência, a relação de dependência de uma das partes frente à outra pode, conforme o caso, caracterizar uma vulnerabilidade legitimadora da aplicação da Lei nº 8.078/90, mitigando os rigores da teoria finalista e autorizando a equiparação da pessoa jurídica compradora à condição de consumidora.
+6. Hipótese em que revendedora de veículos reclama indenização por danos materiais derivados de defeito em suas linhas telefônicas, tornando inócuo o investimento em anúncios publicitários, dada a impossibilidade de atender ligações de potenciais clientes. A contratação do serviço de telefonia não caracteriza relação de consumo tutelável pelo CDC, pois o referido serviço compõe a cadeia produtiva da empresa, sendo essencial à consecução do seu negócio.
+Também não se verifica nenhuma vulnerabilidade apta a equipar a empresa à condição de consumidora frente à prestadora do serviço de telefonia. Ainda assim, mediante aplicação do direito à espécie, nos termos do art. 257 do RISTJ, fica mantida a condenação imposta a título de danos materiais, à luz dos arts. 186 e 927 do CC/02 e tendo em vista a conclusão das instâncias ordinárias quanto à existência de culpa da fornecedora pelo defeito apresentado nas linhas telefônicas e a relação direta deste defeito com os prejuízos suportados pela revendedora de veículos.
+7. Recurso especial a que se nega provimento.
+(REsp 1195642/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/11/2012, DJe 21/11/2012)
+
+No caso em tela não há dúvida de que a autora é consumidora. O objeto social é o comércio de bebidas e alimentos. Não é uma empresa do ramo de segurança. O serviço que lhe é prestado não retorna ao mercado. É, portanto, destinatária final, comprovada a vulnerabilidade técnica da autora.
+Assim, aplica-se a sistemática do Código de Defesa do Consumidor, inclusive o disposto no art. 14, caput e parágrafos do respectivo artigo.
+A questão fática controvertida diz respeito: a) à adequação do serviço prestado; b) ao valor do dano. Incide, aqui, o disposto no art. 6.º, VIII do Código de Defesa do Consumidor, já que a alegação é verossímil, cabendo à parte ré a demonstração de que o serviço foi prestado adequadamente.
+Pois bem, reputo que a ré não se desvencilhou da prova de que o serviço foi adequadamente prestado. 
+Não se discute que não cabia à ré impedir a existência de furto. Foi contratada para alertar a existência de atividade suspeita, detectada pelo alarme eletrônico instalado, e informar a Autoridade Policial. 
+Ocorre que, embora seja fato incontroverso, mesmo porque admitido na réplica, que a ré alertou a autora de que o alarme tinha disparado e enviou um veículo ao local, nada mais fez além disso.
+As fotografias de fls. 38, 42 e 45 são gritantemente eloquentes ao demonstrarem que os furtadores adentraram ao estabelecimento da autora rompendo o muro (presumivelmente a marretadas). Um buraco desse tamanho não poderia ter passado despercebido dos fiscais da ré que se deslocaram ao local.
+Ainda mais: era sua obrigação, contratuamente estabelecida na cláusula 19, ?a? do correspondente instrumento, ?informar por via telefônica as autoridades competentes? desde que o contratante tivesse optado pelo serviço ADT Móvel. E a parte autora optou por esse serviço.
+Portanto, que foi prestado inadequadamente, não há dúvida. Houve evidente descumprimento do contrato, ensejando o dever de indenizar.
+Resta a aferição do prejuízo causado. Não é possível, neste ponto, acolher integralmente a pretensão da parte autora.
+E isso porque a obrigação da ré não era impedir o furto, mas sim alertar o contratante do alarme disparado, enviar ao local viatura para averiguar o que estaria acontecendo e comunicar à Autoridade Policial. A possibilidade ? no entanto, apenas a possibilidade ? de que, se o serviço tivesse sido adequadamente prestado (informando-se ao representante da autora que tinha sido avistado um buraco no muro por onde os furtadores ingressaram, e, mais ainda, comunicando-se imediatamente à polícia o que estaria ocorrendo), o dano teria sido evitado, parece bem certa. 
+Houve, por conseguinte, perda de uma chance, que deve ser arbitrada por equidade. No que tange ao valor pretendido, não há prova de que a quantia de R$ 51.580,30 (cinquenta e um mil quinhentos e oitenta reais e trinta centavos) se encontraria efetivamente depositada no estabelecimento (vejam-se fls. 53/59). Ali o relatório gerencial emitido parece indicar, a fls. 59, que o valor constante em caixa no dia 25/10/2010 seria de R$ 19.177,44 (dezenove mil cento e setenta e sete reais e quarenta e quatro centavos). Sobre esse valor deverá incidir fator que, por equidade, se chegue à indenização pela perda da chance.
+Entendo razoável que a indenização seja de 2/3 desse valor. Isso porque, por um lado, a contratação de serviços de segurança eletrônica objetiva resguardar o máximo o patrimônio do contratante, para além do que a polícia já assegura (ou deveria assegurar) de proteção. Por outro, porque não é objeto do contrato impedir o furto (nem se cuida de contrato de seguro), mas diminuir a chance de que o dano ao patrimônio venha a ocorrer. Ou seja, o valor indenizável será de R$ 12.784,96 (doze mil setecentos e oitenta e quatro reais e noventa e seis centavos).
+Sobre esse valor, corrigido desde a data do dano (25/10/2010), pela tabela do TJ/SP, incidirão também juros de mora no porcentual de 1% ao mês, capitalizados anualmente (mora extracontratual, portanto ex re). 
+Pelo exposto, julgo PARCIALMENTE PROCEDENTE o pedido e EXTINGO o processo, COM RESOLUÇÃO DE MÉRITO, o que faço para CONDENAR a parte ré ao pagamento de R$ 12.784,96 (doze mil setecentos e oitenta e quatro reais e noventa e seis centavos).
+Sobre esse valor, corrigido desde a data do dano (25/10/2010), pela tabela do TJ/SP, incidirão também juros de mora no porcentual de 1% ao mês, capitalizados anualmente (mora extracontratual, portanto ex re). 
+Considerando-se a sucumbência quase integral da ré, arcará com a taxa judiciária (atualizada) e com os honorários advocatícios do patrono do autor, estes fixados em 10% (dez por cento) do valor integral e atualizado do débito. 
+A ré fica intimada a cumprir a obrigação de pagamento reconhecida judicialmente, em 15 (quinze) dias, contadas da data em que a decisão se tornar exigível em primeiro ou segundo graus, independente de novas intimações, sob pena de incidir em multa moratória de 10% (dez por cento), na forma do artigo 475-J do Código de Processo Civil.
+P.R.I.
+
+São Paulo, 07 de fevereiro de 2013.

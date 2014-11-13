@@ -1,0 +1,103 @@
+
+
+SENTENÇA
+
+Processo nº:0004009-67.2012.8.26.0007
+Classe - AssuntoProcedimento Ordinário - Contratos de Consumo
+Requerente:Geni Urgnani
+Requerido:Eletropaulo Metropolitana Eletricidade de São Paulo S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Alessander Marcondes França Ramos
+
+Vistos, etc.
+
+GENI URGNANI ingressou com ação destinada a obtenção de indenização por dano moral, pois a autora alega que teve, indevidamente, suspenso o fornecimento de energia elétrica.
+
+Citada (fl. 29) a ré ofertou defesa (fls. 31/48) sustentando: a) a suspensão do fornecimento de energia ocorreu 31.10.11 as 12h10 por haver irregularidade na leitura; b) o impedimento a leitura ocorreu nos meses de março, julho, agosto, setembro e outubro de 2011 e janeiro de 2012; c) após o pleito de religação, a concessionária atendeu a solicitação as 15h01; d) ser possível a suspensão do fornecimento de energia elétrica quando não há acesso ao medidor; e) culpa exclusiva da consumidora; f) inexistência de prejuízo; g) reduzido lapso em que houve suspensão da energia elétrica; h) inexistência de dano moral; i) inexistência de ato ilícito; j) falta de provas da existência de ato ilícito; k) em caso de procedência, fixação da indenização com razoabilidade; l) improcedência do pleito inicial.
+
+Houve réplica (fls. 53/63), o feito foi saneado (fl. 69), foram anexados documentos (fls.74/77). Em audiência de instrução houve desistência do pleito da .
+
+As partes reiteraram suas posições anteriores, em memorial.
+ 
+É o relatório. 
+
+D E C I D O.
+
+Trata-se de ação de ação civil destinada à obtenção de indenização por danos morais.
+ 
+Não há preliminares a serem analisadas e, no mérito, o pedido não encontra bom porto.
+
+A tese da autora funda-se, claramente, na existência de pretenso dano moral pela suspensão do fornecimento de energia elétrica, que entende como indevido.
+
+Na época o artigo 87 da Resolução 414/10 da ANEEL tinha a seguinte redação:
+"Art.87. Ocorrendo impedimento de acesso para fins de leitura, os valores faturáveis de energia elétrica e de demanda de potência excedentes, ativas e reativas, devem ser as respectivas médias aritméticas dos 12 (doze) últimos faturamentos anteriores à constatação do impedimento, exceto para a demanda de potência ativa cujo montante faturável deve ser o valor contratado, quando cabível.
+§1º O procedimento previsto no caput pode ser aplicado por até 3 (três) ciclos consecutivos e completos de faturamento, devendo a distribuidora, tão logo seja caracterizado o impedimento, comunicar ao consumidor, por escrito, sobre a obrigação de permitir o acesso à unidade consumidora e da possibilidade da suspensão do fornecimento.
+§2º Após o terceiro ciclo de faturamento, persistindo o impedimento de acesso, a distribuidora deve faturar exclusivamente o custo de disponibilidade ou a demanda contratada, conforme o caso.
+§3º O acerto de faturamento deve ser realizado no ciclo de faturamento subseqüente à regularização da respectiva leitura."
+
+Percebe-se, portanto, que fora facultado à concessionária de energia elétrica, quando houvesse impedimento para a leitura, utilizar a média dos doze faturamentos anteriores por até três ciclos.
+
+Indica-se, pela redação, que houve indicação de prazo máximo em favor da concessionária e não haver direito subjetivo a tal periodicidade.
+
+Isto, pois, o artigo 171 da Resolução 414/10 da ANEEL prevê-se:
+?Art. 171. Faculta-se à distribuidora suspender o fornecimento por razões de ordem técnica ou de segurança na unidade consumidora, precedida da notificação prevista no art. 173, nos seguintes casos:
+I - pelo impedimento de acesso para fins de leitura, substituição de medidor e inspeções, devendo a distribuidora notificar o consumidor até o terceiro ciclo de faturamento seguinte ao início do impedimento;
+II - pela inexecução das correções indicadas no prazo informado pela distribuidora, quando da constatação de deficiência não emergencial na unidade consumidora, em especial no padrão de entrada de energia elétrica; ou
+III - pela inexecução das adequações indicadas no prazo informado pela distribuidora, quando, à sua revelia, o consumidor utilizar na unidade consumidora carga que provoque distúrbios ou danos ao sistema elétrico de distribuição, ou ainda às instalações e equipamentos elétricos de outros consumidores.
+Parágrafo único. A notificação de que trata o inciso I, sem prejuízo da prevista no art. 87, deve ser escrita, específica e com entrega comprovada ou, alternativamente, impressa em destaque na própria fatura.?
+
+Ou seja, há determinação de suspensão do fornecimento de energia elétrica em até três períodos ? demonstrando claramente que trata-se de prazo máximo.
+
+A própria autora anexou carta indicando que houve impedimento do acesso (fl. 09).
+
+Houve, assim, a necessária comunicação prévia a suspensão do fornecimento de energia elétrica.
+
+Atente-se que no instrumento indicou-se a necessidade de liberação do acesso na próxima leitura, mas não se indicou quando ocorreria.
+
+Não fora, pela mencionada comunicação, indicada data para a nova medição.
+
+A concessionária anexou, ainda, duas outras comunicações indicando que a leitura não se realizava pelo imóvel estar fechado (fls. 76/77).
+
+Nítido que nos ciclos de agosto/11, setembro/11 e outubro/11 (fl. 09) houve impedimento do acesso ao bem, de modo que a concessionária não tinha outra possibilidade, observada a regulamentação da matéria, senão suspender o fornecimento de energia elétrica da autora.
+
+O terceiro ciclo é relativo a outubro de 2011 o que revela que a suspensão haveria de ocorrer naquele mês sob pena de haver infração à regulamentação da matéria.
+
+Cumpriu, efetivamente, seu mister a concessionária de energia, havendo culpa exclusiva do consumidor pela suspensão de energia elétrica.
+
+Não há nenhuma evidência de irregularidade cometida pelo réu que, é exercício regular do direito e incapaz de gerar direito a indenização, por observar o que há de regulamentar no sistema elétrico.
+
+Rui Stoco ensina:
+?Sustenta Caio Mário que o fundamento moral dessa causa de isenção da responsabilidade civil encontra-se no adágio: 'qui iure suo utitur neminem laedit', ou seja, quem usa de um direito seu não causa dano a ninguém. Na idéia de ato ilícito exigi-se o procedimento antijurídico ou da contravenção a uma norma de conduta preexistente, de modo que não há ilícito quando inexiste procedimento contra direito. Daí o ic. I do art. 188 do CC enunciar a inexistência de ato ilícito quando o dano é causado no exercício regular de um direito reconhecido. Mas o indivíduo, no exercício de seu direito, deve conter-se no âmbito da razoabilidade. Se o excede, embora o esteja exercendo, causa um mal desnecessário e injusto e equipara o seu comportamento ao ilícito. Assim, ao invés de excludente de responsabilidade, incide no dever de indenizar.?
+
+Se dano houve, decorreu da exclusiva conduta da autora que, por três ciclos, inviabilizou a leitura do medidor.
+
+Tanto é verdade que não se questiona na inicial, tal circunstância, fundando a pretensão na necessidade de se aguardar a leitura de 07.11.11 para proceder-se a mencionada suspensão.
+
+Esqueceu-se, entretanto, de que a situação já se prolongava desde agosto/11, o que inviabilizaria o aguardo de nova leitura.
+
+É dever do devedor-consumidor que deu causa a suspensão do fornecimento de energia elétrica ? por não haver acesso ao poste de medição, arcar com os custos e obrigações decorrentes da religação, suportando eventuais prejuízos à sua imagem.
+
+Não praticou, assim, o requerido nenhum ato ilícito nos termos do artigo 186 do Código Civil, inexistindo direito a indenização.
+
+Ante o exposto, e por tudo o mais o que consta dos autos, JULGO IMPROCEDENTE o pedido inicial, posto inexistir conduta ilícita do réu, sendo dever do consumidor viabilizar o acesso ao leitor de medição. No caso concreto a autora inviabilizou a leitura desde agosto/11 até outubro/11 (três ciclos), não restando alternativa à concessionária senão a suspensão dos serviços, nos moldes dos artigos 87 e 171 da Resolução 414/10 da ANEEL, de sorte que eventuais danos decorrem de culpa exclusiva do consumidor, afastando o dever de indenizar da requerida. 
+
+Caberá ao autor arcar com custas e despesas processuais, além de honorários advocatícios arbitrados em 10% do valor atualizado da causa.
+
+Nos termos do artigo 12 da lei 1.060/50 suspendo a execução das verbas sucumbenciais, observando-se a prescrição quinquenal.
+
+P.R.I.
+
+Itaquera, 31 de janeiro de 2013
+
+Alessander Marcondes França Ramos
+       Juiz de Direito
+
+
+São Paulo, 31 de janeiro de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

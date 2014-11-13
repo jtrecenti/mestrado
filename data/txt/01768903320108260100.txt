@@ -1,0 +1,52 @@
+
+
+SENTENÇA
+
+Processo nº:0176890-33.2010.8.26.0100
+Classe - AssuntoProcedimento Sumário - Obrigações
+Requerente:Luciano Pinto Ramalho
+Requerido:Vivo S/A
+
+
+
+Juiz(a) de Direito: Dr(a). Lúcia Caninéo Campanhã
+
+
+
+
+Vistos.
+
+
+
+LUCIANO PINTO RAMALHO moveu Ação de Obrigação de Fazer cumulada com Indenização por Dano Moral contra VIVO S/A alegando que adquiriu, em novembro de 2009, modem e contratou o pacote Vivo Internet Ilimitado 3G pelo valor mensal de R$ 119,90; os trinta primeiros dias não seriam cobrados, facultando-se nesse período o cancelamento do serviço; a requerida demorou 15 dias para entrega do aparelho, e nos 15 dias remanescentes não conseguiu acesso à internet; depois de dois dias de tentativa, recebeu a informação via SMS que a velocidade de conexão seria reduzida para 128kbps, pois teria ultrapassado 2.0 GB de utilização, no entanto, sequer conseguira a conexão; entrou em contato com a requerida para requerer o desbloqueio da limitação e com a Anatel para reclamar; decidiu rescindir o contrato, a requerida informou que enviaria portador para a retirada do aparelho, o que até agora não fez; a requerida continua encaminhando as faturas de um serviço indisponível; o plano é vendido como ilimitado, mas há uma clara limitação de velocidade; reportou-se ao Código de Defesa do Consumidor. Requereu a antecipação da tutela para fins de rescisão do contrato, retirada do modem e que a ré se abstenha da cobrança e deixe de incluir o seu nome no cadastro dos órgãos de proteção ao crédito e no fim seja o contrato rescindido sem ônus ao autor, com dispensa do pagamento da multa e devolução dos valores dispendidos na aquisição do modem e das mensalidades pagas, além da condenação da ré no pagamento de indenização por danos morais.
+A medida cautelar foi julgada extinta (fls.33).
+Deferido parcialmente o pedido de tutela antecipada para vedar a inclusão do nome do autor no cadastro dos órgãos de proteção ao crédito, ficando à disposição da requerida o modem adquirido (fls.26).
+A ré foi citada e contestou a ação, alegando preliminar de decadência e falta de interesse de agir. No mérito sustentou que o serviço estava disponível; solicitado o cancelamento da linha do modem em 18 de dezembro de 2009, a linha já se encontra cancelada, sem débitos em aberto; faculta-se à requerida a retirada ou não do equipamento; na área onde o cliente reside existe cobertura 3G, onde não existe, utiliza a tecnologia 2G com velocidade um pouco inferior; o autor não compareceu em sua loja, o problema poderia ser solucionado com a troca do equipamento; o termo ilimitado refere-se à quantidade de transmissão de dados e não à velocidade; ao atingir 2GB de dados trafegados dentro do período da conta mensal, a velocidade de conexão pode ser reduzida até 128kbps, o que se normaliza com o início de um novo ciclo; mesmo que se chegue ao volume de 2GB no mês não há interrupção de serviço nem cobrança de valores adicionais, mas apenas diminuição na velocidade de conexão, prevista na cláusula quarta; a informação pertinente à diminuição da velocidade consta no site, não houve propaganda enganosa; informado ao cliente que a velocidade de transmissão de dados é de até 1Mbps; não houve pagamento indevido nem má-fé para justiçar devolução em dobro; não demonstrado o dano moral.
+É o relatório.
+DECIDO.
+O feito comporta julgamento antecipado, visto que desnecessária a produção de provas em audiência, nos termos do art.330, inciso I, do Código de Processo Civil.
+Deixo de designar audiência de tentativa de conciliação em razão da falta de interesse de uma das partes.
+Trata-se de pedido de rescisão de contrato com dispensa do pagamento da multa e devolução dos valores, além de indenização por danos morais decorrentes de propaganda enganosa e defeito na prestação de serviço.
+Afasto a alegação de decadência.
+Conforme constou da própria contestação, solicitado o cancelamento da linha do modem porque o consumidor não conseguia conectar-se, na data de 18 de dezembro de 2009 (fls.49), portanto, dentro do prazo de 90 dias previsto no art.26, inciso II, do Código de Defesa do Consumidor, contado da aquisição em 10 de novembro de 2009 (fls.23).
+ Afasto a preliminar de falta de interesse de agir.
+O autor tem interesse na rescisão do contrato, com devolução de valores e indenização por dano moral. A ausência de cobrança de multa não afasta os demais pedidos.
+No mérito, com razão em parte o autor.
+O requerente adquiriu, em novembro de 2009, modem e contratou o pacote Vivo Internet Ilimitado 3G pelo valor mensal de R$ 119,90. No entanto, no primeiro mês de utilização do serviço tomou conhecimento de que ultrapassado 2.0 GB, a velocidade de conexão seria reduzida para 128kbps.
+A requerida sustentou que o termo ilimitado refere-se à quantidade de transmissão de dados e não à velocidade, ao atingir 2GB de dados trafegados dentro do período da conta mensal, a velocidade de conexão pode ser reduzida até 128kbps.
+Ocorre que a redução brusca da velocidade praticamente inviabiliza a transmissão de dados, e de uma forma indireta o que deveria ser ilimitado sofre restrições.
+Assim, a oferta do pacote ?ilimitado?, na verdade, não é cumprida, pois de maneira enviesada a requerida obsta à utilização do serviço da forma como ordinariamente se espera.
+Faculta-se ao consumidor a rescisão do contrato com restituição dos valores pagos e perdas e danos, se o fornecedor recusar cumprimento à oferta, nos termos do art.35, inciso III, do Código de Defesa do Consumidor.
+O autor optou pela rescisão do contrato, requerendo a retirada do equipamento instalado, o que foi deferido em tutela antecipada. 
+O equipamento encontra-se à disposição da requerida, que informou ter a faculdade de retira-lo ou não. Por outro lado, o consumidor não é obrigado a guardar eternamente o equipamento. Assim, caso não retirado o modem no prazo de trinta dias, contado do trânsito em julgado da sentença, o autor não estará mais obrigado a devolve-lo, podendo se desfazer do equipamento.
+Considerando a rescisão do contrato, por culpa da requerida, nenhum valor é devido a título de multa e a requerida deverá restituir o valor desembolsado pelo autor para aquisição do produto, no valor de R$ 414,99 (fls.23), de forma simples e não em dobro, visto que a princípio a quantia era devida.
+Não houve comprovação de desembolso de outros valores para fins de restituição.
+Por fim, não é o caso de indenização por dano moral. Pode-se definir dano moral como uma violação aos direitos da personalidade, por exemplo, ofensas relacionadas à honra, ao nome, afeições legítimas (perda de um ente querido), segurança pessoal e integridade física, dentre outros.
+O inadimplemento contratual causa certa irritação. Não há dúvidas do dissabor decorrente dessa situação, mas trata-se de mais um aborrecimento suportável, inerente à vida moderna, e não uma ofensa ao direito de personalidade ou à dignidade humana, observando que a questão foi logo resolvida com o cancelamento da linha.
+Diante do exposto, JULGO PARCIALMENTE PROCEDENTE o pedido, confirmando decisão que antecipou os efeitos da tutela, para rescindir o contrato sem ônus ao autor e condenar a requerida na restituição da quantia de R$ 414,99 (quatrocentos e quatorze reais e noventa e nove centavos) acrescida de correção monetária desde a data do desembolso (novembro de 2009) e juros de 1% ao mês desde a citação, e improcedente o pedido de indenização por danos morais; caso não retirado o modem pela requerida, no prazo de trinta dias, contado do trânsito em julgado da sentença, o autor não estará mais obrigado a devolve-lo. Considerando a sucumbência recíproca, cada parte arcará com metade das custas e despesas processuais e com os honorários advocatícios do respectivo patrono.
+P.R.I.C.
+São Paulo, 11 de março de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

@@ -1,0 +1,66 @@
+
+
+SENTENÇA
+
+Processo nº:1002752-31.2014.8.26.0003
+Classe - AssuntoProcedimento Ordinário - Interpretação / Revisão de Contrato
+Requerente:MARCELO GONÇALVES DIAS
+Requerido:BANCO VOLKSWAGEN S/A
+
+
+
+
+
+Vistos, etc.
+MARCELO GONÇALVES DIAS move AÇÃO DE REVISIONAL DE CLÁUSULAS CONTRATUAIS C.C. REPETIÇÃO DE INDÉBITO C.C. CONSIGNAÇÃO EM PAGAMENTO E MANUTENÇÃO DE POSSE C.C. PEDIDO DE LIMINAR em face de BANCO VOLKSWAGEN S/A, alegando, em síntese, ilegalidade das cláusulas da ?cédula de crédito bancário? garantida por alienação fiduciária de veículo, acostada às fls.29/31, que estipulou juros de forma capitalizada; abusividade da utilização da ?Tabela Price? para amortização de dívidas, sendo cabível o ?Método de Gauss?; impossibilidade de cumulação da comissão de permanência com outros encargos de mora; ilegalidade da cobrança da tarifa de cadastro e de registro de gravame; e, requereu declaração de nulidades e ilegalidades, revisão, compensação, repetição dobrada, e tutela antecipada para consignação em pagamento das prestações no valor que entende devido, para manutenção na posse do bem e para que o réu se abstenha de inscrever seu nome junto aos cadastros dos órgãos de proteção ao crédito.
+O réu contestou (fls.56/140) arguindo preliminares de carência da ação por impossibilidade de cumulação do pedido revisional com consignação em pagamento, por serem incompatíveis entre si; por falta de interesse de agir em relação do pedido consignatório, pois os valores foram apurados de forma unilateral pelo autor; impossibilidade jurídica do pedido revisional, por violação do ato jurídico perfeito; inépcia da inicial, em razão do julgamento do REsp 1.251.331 quanto à legalidade da cobrança das tarifas expressamente pactuadas; e, no mérito, alegando, em síntese, possibilidade de capitalização dos juros na ?cédula de crédito bancário? e constitucionalidade da Medida Provisória 2.170/01; possibilidade da utilização da ?Tabela Price? como método de amortização de dívidas; legalidade dos encargos moratórios pactuados; legalidade da cobranças das tarifas pactuadas; descabimento dos pedidos de compensação e repetição em dobro de quaisquer valores; e, requereu extinção ou improcedência. 
+É o relatório. DECIDO.
+Julgo nos termos do CPC, artigo 330, I.
+Rejeito as preliminares de carência da ação por impossibilidade de cumulação do pedido revisional com consignação em pagamento e de falta de interesse processual em relação do pedido consignatório dos valores que o autor entende devidos, pois a consignação em pagamento é prevista no CC, artigo 334, sendo também forma de cumprimento da exigência do CPC, artigo 285-B.
+Rejeito também a preliminar de carência da ação por impossibilidade jurídica do pedido, pois o ordenamento jurídico em vigor permite a propositura de ações para o fim de rever cláusulas abusivas inseridas em contratos firmados entre fornecedores e consumidores, principalmente quando a obrigação se torna excessivamente onerosa para uma das partes, por força do CDC, artigo 6º, V. Nesse sentido, preleciona a doutrina que ?em relação à proteção contratual do consumidor, o magistrado tanto pode invalidar a cláusula abusiva como realizar a modificação do seu conteúdo.? (BENJAMIN, Antônio Herman et. al., Manual de Direito do Consumidor, São Paulo : RT, 2012, pág. 357 ? grifamos).
+A preliminar de inépcia da inicial se confunde com o mérito e assim é julgada.
+CAPITALIZAÇÃO/TABELA PRICE/GAUSS
+No que diz respeito à alegada prática de anatocismo pela ré, a Súmula 121, STF estabelece que ?é vedada a capitalização dos juros, ainda que expressamente convencionada?.
+Entretanto, por se tratar de ?CCB?, o artigo 28, § 1º, I, da Lei nº 10.931/04 admite a estipulação dos juros de forma capitalizada, desde que expressamente pactuada pelas partes.
+In casu, a capitalização mensal dos juros está prevista no quadro 1 da ?CCB? juntada às fls. 29/31.
+Além disso, tal prática é admitida pelo artigo 5º, Medida Provisória 2.170/01, que dispõe: ?Nas operações realizadas pelas instituições integrantes do Sistema Financeiro Nacional, é admissível a capitalização de juros com periodicidade inferior a um ano? (grifamos).
+De acordo com o referido dispositivo legal, para os contratos firmados a partir de 31 de março de 2000 com as instituições financeiras, ficou estabelecida a possibilidade de capitalização dos juros para períodos inferiores a 1 ano.
+A constitucionalidade da supracitada Medida Provisória é objeto da Ação Direta de Inconstitucionalidade nº 2.316, pendente de julgamento perante o Supremo Tribunal Federal.
+Entretanto, o E. Tribunal de Justiça de São Paulo vem entendendo que ?não se cogita da inconstitucionalidade da MP nº 1.963-17/00, reeditada sob o nº 2.170-36/01, pois até o final julgamento da ADI nº 2.316/DF pelo STF, fica presumida sua constitucionalidade.? (14º Câmara de Direito Privado, Ap. 0219050-73.2010.8.26.0100, Rel. Des. Carlos Abrão, j. 14.08.2013 - grifamos).
+E o Superior Tribunal de Justiça firmou posicionamento no sentido de que ?deve prevalecer a presunção de constitucionalidade do art. 5º da MP nº 1.963-17/00, reeditada sob o nº 2.170-36/01, que admite a capitalização mensal de juros nas operações realizadas por instituições financeiras. O princípio da imperatividade assegura a auto-executoriedade das normas jurídicas, dispensando prévia declaração de constitucionalidade pelo Poder Judiciário. Ainda que esta presunção seja iuris tantum, a norma só é extirpada do ordenamento com o reconhecimento de sua inconstitucionalidade. E essa questão, na hipótese específica do art. 5º da MP nº 1.963-17/00, ainda não foi resolvida pelo STF, nem mesmo em sede liminar.? (2ª Seção, REsp 1.061.530, Rel. Min. Nancy Andrighi, j. 22.10.2008 ?g.).
+Rejeito a alegação de abusividade da cláusula de capitalização mensal dos juros.
+Ademais, a aplicação da ?Tabela Price? não se confunde com atualização monetária, porque é a decomposição de um valor principal ao longo do prazo contratual e com a incidência da taxa de juros pactuada, também decomposta ao longo do prazo contratual. 
+Segundo preleciona Arnaldo Rizzardo, ?pelo sistema da ?Tabela Price?, também conhecido como Sistema Francês de Amortização, as prestações mantêm um valor uniforme desde o início até o final do contrato. As prestações são constantes, em termos reais, para todos os meses do financiamento.? (Contratos de Crédito Bancário, 9ª ed., São Paulo, RT, 2010, pág. 143).
+Tal método é, enfim, a amortização do principal e juros, tendo por finalidade a eliminação ao término do contrato de qualquer valor a título de resíduo, observada ainda nos cálculos a atualização monetária.
+Rejeito, portanto, a alegação de ilegalidade da utilização da ?Tabela Price?.
+ENCARGOS DE MORA
+No que tange a comissão de permanência, instituída na Resolução BACEN nº 15/66, alterada na Circular 77/67 e hoje disciplinada na Resolução BACEN nº 1.129/86, ilegal também não é sua contratação e cobrança, pois cuidando de negócio bancário essa forma de retribuição conta com a autorização legislativa acima fundamentada. 
+A ilegalidade somente ocorre quando cumulada a comissão de permanência com correção monetária (Súmula 30 do C. STJ), situação, porém, diversa de quando é substituto contratual da correção (caso de aplicação da TR, este o índice próprio do SFN a teor das Leis 8.880/94 e 9.069/95). 
+E em sendo a comissão de permanência retribuição financeira, possível mesclar objetivo de mera atualização monetária (substituto de correção) com índices do próprio sistema bancário com objetivo remuneratório pelo não retorno do dinheiro na verificação de inadimplementos, o que se dá com juros acrescidos. 
+A propósito a Súmula 296 do C. STJ: ?Os juros remuneratórios, não cumuláveis com a comissão de permanência, são devidos no período de taxa média de mercado estipulada pelo Banco Central do Brasil, limitada ao percentual contratado?.
+Ilegalidade também inocorre na cumulação de comissão de permanência com multa, pois a vedação legal (inciso I da Resol. 1.129/86) só atinge a cobrança cumulada de quantias compensatórias, e multa não tem essa natureza, uma vez constituir penalidade pelo descumprimento contratual, sendo de natureza indenizatória. 
+Rejeito, assim, a alegação de ilegalidade e abusividade de cumulação de comissão de permanência com outros encargos de mora.
+TARIFAS
+A cobrança da tarifa de abertura de cadastro é expressamente autorizada pelo artigo 3º, I, da Resolução 3.919 do BACEN.
+Sobre o tema, o C. Superior Tribunal de Justiça assentou no julgamento do Recurso Especial nº 1.251.331 (repetitivo) que ?permanece legítima a estipulação da Tarifa de Cadastro, a qual remunera o serviço de 'realização de pesquisa em serviços de proteção ao crédito, base de dados e informações cadastrais, e tratamento de dados e informações necessários ao inicio de relacionamento decorrente da abertura de conta de depósito à vista ou de poupança ou contratação de operação de crédito ou de arrendamento mercantil, não podendo ser cobrada cumulativamente' (Tabela anexa à vigente Resolução CMN 3.919/2010, com a redação dada pela Resolução 4.021/2011).? (2ª Seção, REsp 1.251.331, Rel. Min. Maria Isabel Gallotti, j. 28.08.2013).
+Dessa forma, rejeito o pedido de invalidade da cobrança da tarifa de abertura de cadastro, pois foi cobrada corretamente no início da relação contratual, no valor de R$ 603,00 (fls.29).
+Acerca dos valores a título de tarifa de registro de gravame no valor de R$ 97,04 (quadro 4 ? fls.29), não há qualquer ilegalidade na cobrança desse encargo, pois foram expressamente pactuados pelas partes.
+Aliás, conforme dispõe o artigo 1º, da Resolução 3.919 do BACEN: ?A cobrança de remuneração pela prestação de serviços por parte das instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil, conceituada como tarifa para fins desta resolução, deve estar prevista no contrato firmado entre a instituição e o cliente ou ter sido o respectivo serviço previamente autorizado ou solicitado pelo cliente ou pelo usuário? (g.).
+Rejeito, portanto, alegação de abusividade da cobrança de tarifas.
+CONTRATO/CUMPRIMENTO
+A instituição financeira cumpriu as suas obrigações decorrentes da relação creditícia, mediante a disponibilização do crédito contratado, razão que o autor não pode se furtar ao cumprimento das cláusulas livremente acordadas, a pretexto de serem abusivas. 
+O contrato deve ser cumprido como pactuado pelas partes, em respeito ao princípio do pacta sunt servanda, eis que inexistente qualquer vício da vontade. 
+Diante da legalidade das cláusulas da ?CCB?, é descabido o pedido de compensação ou repetição em dobro de quaisquer valores e de indenização por perdas e danos.
+Prejudicado o pedido de tutela antecipada diante da improcedência resulta ausente verossimilhança exigida no CPC, artigo 273.
+
+Ante o exposto, JULGO IMPROCEDENTE a AÇÃO e CONDENO o autor nas custas, despesas processuais, e honorários advocatícios de 15% sobre o valor da causa atualizado do ajuizamento (STJ, Súmula 14).
+P.R.I.
+São Paulo, 14 de abril de 2014
+
+
+JOSÉ WAGNER DE OLIVEIRA MELATTO PEIXOTO
+              JUIZ DE DIREITO
+        (assinatura digital)
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

@@ -1,0 +1,33 @@
+
+
+SENTENÇA
+
+Processo nº:0012584-42.2013.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Telefonia
+Requerente:Ipartners Integrando Parceiros SS Ltda ME.
+Requerido:Oi (Telefonia Móvel)
+
+
+Juiz(a) de Direito: Dr(a). Miguel Ferrari Junior
+
+Vistos.
+
+Trata-se de demanda proposta por IPARTNERS INTEGRANDO PARCEIROS SS LTDA.-ME em face de TNL PCS S/A em que pretende a condenação da ré ao cumprimento de obrigação de fazer e ao pagamento de indenização por dano moral. A autora afirma ter adquirido 92 (noventa e duas) linhas telefônicas operadas pela ré para a realização de chamadas local e de longa distância (DDD). Todavia, ao longo do tempo, a ré passou a obstar a realização de chamadas de longa distância, sem dar explicação para tanto. Defende a ilegitimidade da conduta da ré e pugna pelo cumprimento do contrato nos termos em que pactuado. Postula, também, indenização por danos morais. Com a petição inicial vieram os documentos de folhas 16/93.
+Os efeitos da tutela de mérito foram antecipados (fl. 94), porém foram cassados pelo Tribunal de Justiça em decisão proferida no recurso de agravo de instrumento interposto pela ré (fls. 211/253).
+Citada para os termos da demanda, a ré ofereceu contestação às folhas 105/119. Sustenta que ao longo dos meses foi identificado um volume desproporcional de tráfego gerado e recebido pelas linhas de titularidade da autora. Argumenta que o perfil de tráfego informado pela autora não corresponde às suas necessidades, tornando as condições comerciais excessivamente onerosas para a ré. Aduz que por meio de análise técnica foi identificado um tráfego de acesso com alta dispersão de chamadas, inclusive para locais onde a autora não atua. Sustenta a ocorrência de fraude traduzida na revenda de tráfego conhecido pelo nome de ?by-pass?.  Por fim, defende a inexistência de dano moral e bate-se pela total improcedência da demanda. Com a contestação vieram os documentos de folhas 120/169.
+A autora ofereceu réplica às folhas 198/202.
+É o relatório do essencial.
+Fundamento e decido.
+A causa está madura para julgamento, na forma do artigo 330, inciso I, do Código de Processo Civil, porquanto a questão de mérito versada nos autos é de fato e de direito, entretanto não há necessidade da produção de outras provas. 
+A demanda não merece acolhimento.
+Verte-se dos autos que a autora é uma sociedade simples cujo objeto social é o tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na internet (cf. documento de folha 17). Para exercer as suas atividades, a despeito de seu pequeno porte, adquiriu o expressivo número de 92 (noventa e duas) linhas telefônicas da empresa ré para a realização de ligações locais e de longa distância. Porém, a autora assevera que ao longo do tempo a ré passou a obstar a realização de chamadas de longa distância (DDD), contra o que se insurge. 
+Em juízo, a ré demonstrou por meio do laudo pericial de folhas 137/169 a ocorrência da fraude denominada ?by-pass?, cuja finalidade é a obtenção de ganhos financeiros por meio da reorganização das chamadas mediante a utilização de acessos das prestadoras de serviços de telecomunicações. No aludido documento, o técnico lista 19 (dezenove) motivos concretos que apontam para a ocorrência da fraude. Dentre estes motivos, alguns valem ser ressaltados. Constatou-se que os valores faturados não correspondem à quantidade de minutos utilizados. Identificou-se a existência de tráfego de acessos alarmados com alta dispersão de chamadas. E feitas ligações para o terminal alarmado com alta dispersão de chamadas, não houve atendimento. O perito também identificou que autora oferece pela internet serviços de telecom (fls. 143/144).
+Vale ressaltar que não há razão plausível para desconfiar-se da idoneidade do trabalho técnico desenvolvido pela ré, porquanto não é do seu interesse desfazer os contratos celebrados. Ao contrário, por ser uma forte empresa do ramo de telecomunicações, no qual a competição é acirrada, o seu escopo máximo é o de comercializar quantas linhas puder. A interrupção dos serviços, no caso concreto, ocorreu de forma fundamentada em virtude da suspeita de fraude, conduta prejudicial à sua atividade.
+Vale destacar que em juízo a autora não infirmou a prova produzida pela ré, tampouco demonstrou necessitar de expressivo número de linhas telefônicas para desenvolver as suas atividades, fato também constatado pelo perito (item 13).    
+E não foi por outra razão, que o Tribunal de Justiça de São Paulo, ao julgar o agravo de instrumento interposto pela ré, revogou a antecipação dos efeitos da tutela de mérito concedida em primeiro grau. No acórdão, deixou assente o eminente Desembargador-relator Arantes Theodoro: ?Lembre-se que a prática do ?by-pass?, indicado no laudo, consiste em atribuir a uma chamada de longa distância a aparência de chamada originada local, que por isso não será então remunerada como deveria. Isto é, tal prática por si só viola o sistema tarifário e mais grave fica quando a atividade passa a ser oferecida ao mercado, eis que a exploração de qualquer serviço de telecomunicação depende de autorização específica (artigos 83 e 181 da Lei Geral das Telecomunicações).? (fl. 250).  
+Dessa arte, configurado o ilícito, não pode a ré ser compelida a manter o contrato em detrimento de sua atividade empresarial. 
+Em face do exposto, julgo improcedente a demanda e condeno a autora ao pagamento das despesas processuais e honorários advocatícios que arbitro consoante apreciação equitativa (CPC, artigo 20, parágrafo 4º.) em R$ 1.000,00 (um mil reais).
+P.R.I.C.
+São Paulo, 09 de agosto de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

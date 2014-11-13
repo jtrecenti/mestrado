@@ -1,0 +1,78 @@
+
+
+SENTENÇA
+
+Processo nº:1002735-29.2013.8.26.0100
+Classe - AssuntoEmbargos de Terceiro - Constrição / Penhora / Avaliação / Indisponibilidade de Bens
+Embargante:MARCO AURÉLIO NOPHAL VAZQUEZ e outro
+Embargado:Orvieto Construtora e Incorporadora Ltda.
+
+Justiça Gratuita
+Juiz de Direito: Dr(a). Rodrigo Garcia Martinez
+
+Vistos.
+
+
+
+
+Tratam-se de embargos de terceiro, alegando, em síntese, que adquiriram o imóvel penhorado nos autos da execução promovida pelos embargados, antes do registro a penhora, com a maior boa-fé.
+                                                A embargada foi citada e apresentou contestação, alegando inexistência de boa-fé, assim decidido anteriormente no processo de execução.
+
+É o Relatório.
+DECIDO.
+
+
+
+
+Os embargos são improcedentes.
+Houve fraude à execução.
+A fraude de execução é instituto processual que, quando verificada, autoriza o magistrado a declarar ineficaz perante o credor qualquer transferência de bens que atinja o crédito dos exeqüentes, desfalcando o patrimônio do devedor e impedindo à própria atividade jurisdicional.
+Seu reconhecimento, portanto, não se dá apenas em benefício do credor, mas em benefício e em respeito à própria atividade jurisdicional.
+Dispõe o artigo 593 do Código de Processo Civil:
+Art. 593. Considera-se em fraude de execução a alienação ou oneração de bens:
+I - quando sobre eles pender ação fundada em direito real;
+II - quando, ao tempo da alienação ou oneração, corria contra o devedor demanda capaz de reduzi-lo à insolvência;
+III - nos demais casos expressos em lei.
+Em caso de verificação das condições de qualquer um dos incisos do artigo citado acima, há presunção peremptória de fraude e, por isso, em execução movida contra o alienante a penhora pode recair sobre os bens transmitidos, como se não tivesse havido alienação (RTJ 94/918, RT 499/228, RJTJESP 99/274, 118/138, 118/140).
+Desse modo, para o seu reconhecimento, nos termos do artigo 593, II, do Código de Processo Civil, é imprescindível existir, ao tempo da alienação ou oneração, demanda capaz de reduzir o devedor à insolvência.
+Ou seja, dois requisitos devem estar inequivocamente presentes:
+- existência de ação ou execução ao tempo da transferência do bem; e
+- capacidade dessa demanda tornar o devedor insolvente.
+Com efeito, no caso em tela, como admitido pelos embargantes, estes adquiriram o imóvel posteriormente a penhora, em que pese ela não estar registrada ao tempo da alienação pelos executados. 
+Cabe lembrar que a citação em sede de execução é dispensável para a configuração de fraude à execução, ?bastando que se tenha verificado em processo de conhecimento de que possa resultar condenação? (STJ 3ª T., REsp 74.222-RS, rel. Min. Eduardo Ribeiro, j. 14.5.96). Todavia, como acima observado, a alienação ocorreu após a penhora, o que reforça a tese da fraude a execução.
+No entanto, faz-se necessária, ainda, a prova de que a transferência do bem seria capaz de causar a insolvência do devedor, Porém, cumpre transcrever os ensinamentos do ilustre professor Humberto Theodoro Júnior, in CURSO DE DIREITO PROCESSUAL CIVIL vol II 27ª edição Ed. Forense:
+?Sem dúvida, a hipótese de maior relevância, em matéria de fraude à execução, é a alienação ou oneração praticada pelo devedor contra o qual corre demanda capaz de reduzi-lo à insolvência (art. 593, II).
+A aplicação do dispositivo deve ser feita distinguindo-se a hipótese em que o bem alienado esteja ou não vinculado especificamente a execução (penhora, direito real ou medida cautelar).
+Não havendo prévia sujeição do objeto à execução, para configurar-se a fraude deverá o credor demonstrar o eventus damni, isto é, a insolvência do devedor decorrente da alienação ou oneração. Esta decorrerá normalmente da inexistência de outros bens penhoráveis ou da insuficiência dos encontrados?(g.n.).
+Demais disso, cabe ressalvar a jurisprudência do Colendo Superior Tribunal de Justiça, no sentido de que é necessário para o reconhecimento da fraude à execução, o prévio registro de penhora do bem alienado ou prova da má-fé do adquirente. Veja-se:
+?PROCESSO CIVIL. FRAUDE À EXECUÇÃO. ALIENAÇÃO ANTES DA PENHORA E SUA INSCRIÇÃO. CPC, ART. 593, II. BOA-FÉ PRESUMIDA DOS TERCEIROS ADQUIRENTES. I. Ainda que relativamente a casos anteriores à Lei n. 8.953/94, hipótese dos autos, não basta à configuração da fraude à execução a existência, anteriormente à venda de imóvel, de execução movida contra o alienante, somente se admitindo tal situação se já tivesse, antes, a inscrição da penhora no cartório competente, salvo se inequívoco o conhecimento dos adquirentes sobre a pendência judicial, prova que incumbe ao credor fazer. II. Recurso especial conhecido e provido, para cancelar a constrição. (STJ, 3ªT, Resp. 442.583/MS, Rel.Min. ALDIR PASSARINHO JUNIOR, DJ 16.02.2004).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. FRAUDE À EXECUÇÃO. ALIENAÇÃO NA PENDÊNCIA DE AÇÃO CONTRA O VENDEDOR. INEXISTÊNCIA DE INSCRIÇÃO DA PENHORA. LEI N. 8.953/1994. CPC, ART. 659. I. É inequívoco o prequestionamento quando a questão objeto do especial é o tema central do acórdão estadual. II. Nos termos do art. 659 do CPC, na redação que lhe foi dada pela Lei n. 8.953/1994, exigível a inscrição da penhora no cartório de registro imobiliário para que passe a ter efeito erga omnes e, nessa circunstância, torne-se eficaz para impedir a venda a terceiros em fraude à execução. III. Caso em que, à míngua de tal requisito, a alienação é hígida, salvo se demonstrado o consilium fraudis, o que na espécie não aconteceu. IV. Agravo regimental improvido. (STJ, 3ªT, Resp. 493.914/SP, Rel.Min. FERNANDO GONÇALVES, DJ 05.05.2008).?.
+Tal entendimento restou, inclusive, sedimentado com a edição da Súmula 375 do STJ, in verbis:
+ ?O reconhecimento da fraude à execução depende do registro da penhora do bem alienado ou da prova de má-fé do terceiro adquirente?.
+Com efeito, ainda que a constrição não tenha sido registrada junto à matrícula do imóvel, cabia à compradora verificar a pendência de eventuais demandas ajuizadas contra os vendedores, pois é sabido que a existência de ações fundadas em direito real ou capazes de reduzir o devedor à insolvência caracterizam ato de fraude à execução, consoante o disposto no artigo 593, inciso II, do Código de Processo Civil. 
+Todavia, no caso em exame, supõe-se (já que os embargantes não s desincumbiram no seu ônus probante de juntar a escritura de venda e compra do imóvel - apenas parcialmente juntada a fls. 101) a  dispensa da apresentação de vários dos documentos previstos na Lei n° 7433/85, inclusive aqueles relativos a feitos ajuizados.
+Segundo a Lei n° 7433/85:
+?Art. 1º - Na lavratura de atos notariais, inclusive os relativos a imóveis, além dos documentos de identificação das partes, somente serão apresentados os documentos expressamente determinados nesta Lei. 
+ § 1º - O disposto nesta Lei se estende, onde couber, ao instrumento particular a que se refere o art. 61, da Lei nº 4.380, de 21 de agosto de 1964, modificada pela Lei nº 5.049, de 29 de Junho de 1966. 
+ § 2º - O Tabelião consignará no ato notarial, a apresentação do documento comprobatório do pagamento do Imposto de Transmissão inter vivos, as certidões fiscais, feitos ajuizados, e ônus reais, ficando dispensada sua transcrição. 
+ § 3º - Obriga-se o Tabelião a manter, em Cartório, os documentos e certidões de que trata o parágrafo anterior, no original ou em cópias autenticadas.?. 
+ Ora, aquele que compram imóvel sem as devidas diligências perante o distribuidor judicial ficam sujeito às conseqüências de sua negligência, dentre as quais, a declaração de ineficácia da alienação, porquanto afastada a presunção a boa-fé que favorece o adquirente.
+No caso em testilha, poder-se-ia argumentar que o embargante agiu com má-fé, na medida em que propositalmente dispensou a apresentação das certidões negativas necessárias, conduta que nenhum comprador de imóvel toma nos dias de hoje.
+Nesse diapasão, precedente que equaciona com precisão a questão:
+"Cabe ao comprador do imóvel provar que desconhece a existência da ação em nome do proprietário do imóvel, não apenas porque a Lei n. 7.433/95 exige a apresentação de certidões dos feitos ajuizados em nome do vendedor para a lavratura da escritura pública de alienação de imóveis, mas, sobretudo, porque só se pode considerar, objetivamente, de boa-fé, o comprador que toma mínimas cautelas para a segurança jurídica de sua aquisição. Tem o terceiro adquirente o ônus de provar que, com a alienação do imóvel, não ficou o devedor reduzido à insolvência ou demonstrar qualquer outra causa passível de ilidir a presunção de fraude disposta no art. 593, II, do CPC (STJ-3. T, REsp n. 655.000 Apelação com Revisão n° 0015864-38.2000 - Voto n° 6456+ - São Caetano do Sul Min. Nancy Andrigui, j. 23 de agosto de 2007 - 2 votos vencidos).  
+Corrobora tal entendimento a lição de NELSON NERY JUNIOR e ROSA MARIA DE ANDRADE NERY:
+?Portanto, citado validamente o réu para uma ação que possa leva-lo à condenação no cumprimento de obrigação (pagar, entregar coisa, fazer ou não fazer etc.), ainda que seja de simples despesas processuais e honorários de advogado, como nas ações meramente declaratórias, constitutivas, cautelares, procedimentos de jurisdição voluntária etc., qualquer ato de liberalidade, de oneração ou de alienação capaz de leva-lo à insolvência pode ser declarado como havendo sido celebrado em fraude de execução, sendo ineficaz com relação àquela demanda. Daí a razão pela qual convém que, por exemplo, o comprador exija do vendedor de imóveis certidões de distribuições cíveis, criminais, trabalhistas e das fazendas públicas, para averiguar se há pendência de demanda capaz de levar o vendedor-devedor à insolvência.? (Código de Processo Civil Comentado, 11ª Edição, Editora RT, 2010 pp. 1043).
+Em situações análogas, esta já se decidiu que:
+"LOCAÇÃO DE IMÓVEIS - EMBARGOS DE TERCEIRO - FRAUDE À EXECUÇÃO CARACTERIZADA - RECURSO IMPROVIDO. O contingente probatório, na realidade, não permite concluir que a apelante é adquirente de boa-fé, cumprindo acrescer que não se faz necessário o registro da penhora para que se considere a alienação em fraude à execução, bastando a existência de lide pendente e a situação de insolvência do devedor que, no caso, é presumida. (...) Há presunção de fraude à execução quando o adquirente do imóvel dispensa certidão da Comarca do domicílio do vendedor relativa a feitos ajuizados" (Apelação com Revisão n° 0009201-12.2009.8.26.0000 - Relator Des. Renato Sartorelli, 26ª Câmara do TJSP). 
+"MANDATO. COBRANÇA. EMBARGOS DE TERCEIRO. 1. Não há cerceamento de defesa no julgamento antecipado da lide se as questões versadas nos autos, conquanto de direito e de fato, não exigem dilação probatória (CPC, art. 330, I). 2. Se à época da alienação do bem, já havia demanda judicial capaz de levar o devedor à insolvência, está caracterizada a fraude à execução. Inteligência do artigo 593, II, do CPC. Sentença mantida. Recurso improvido" (Apelação n° 0014219- 69.2010.8.26.0292 - Relator Des. Felipe Ferreira, 26ª Câmara do TJSP).
+Como se nota, levando-se em conta o entendimento firmado sobre a questão, plausível a conclusão de que o adquirente deve comprovar a sua boa-fé, em especial, por meio de elementos capazes de demonstrar que desconhecia a existência de ações em face do alienante do imóvel, sendo certo que a simples ausência de registro de penhora sobre o bem não á capaz, por si só, de descaracterizar a fraude. Portanto, é lícito que se presuma, de parte do adquirente, o conhecimento de que corriam tais demandas (RSTJ 139/225).
+Assim, não há presunção de aquisição de boa-fé no presente caso e restará ao embargante apenas ressarcir-se de eventual perdas e danos, em ação própria.
+Pelo exposto, JULGO IMPROCEDENTES os pedidos dos embargos de terceiro, nos termos do artigo 269,I, do CPC.
+Custas e despesas processuais, bem como honorários advocatícios em 20% do valor da causa, a cargo dos embargantes, aplicado-se o artigo 12 da lei 1060/50 aos beneficiados.
+Certifique-se nos autos do processo executivo.
+
+P. R e I.
+
+
+
+                         São Paulo, 23 de agosto de 2013.

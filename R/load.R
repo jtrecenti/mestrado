@@ -60,42 +60,8 @@ save(bancos, file='data/bancos.RData')
 ## DADOS TJSP
 ####################################################################################################
 
-# Processos com palavra-chave dano/danos pesquisados ate xx/xx/2014
-load("data/d_sp.RData")
-
-
-
-# dados na forma de texto
-# metadados
-# andamentos - nao carregar, mas guardar no projeto (talvez nao de)
-
-# bd externo - Juizes
-# bd externo - Bancos
-
-load("d_sp.RData")
-
-d_sp <- d_sp %>% 
-  tbl_df %>%
-  mutate(n_processo=gsub('[^0-9]', '', n_processo)) %>%
-  select(n_processo, classe_p=Classe, assunto_p=Assunto, juiz_p=Magistrado, comarca=Comarca,
-         foro=Foro, vara=Vara, data_disp=`Data de Disponibilização`, cod_sentenca, txt)
-
-load('d_meta_raw.RData')
-
-## OBS: LISTA DE BANCOS
-link <- 'http://www.buscabanco.com.br/AgenciasBancos.asp?uf=&ordem=banco&wtexto=&tipo=&origem=&natural='
-bancos <- GET(link, encoding='latin1') %>%
-  content('text') %>%
-  html('UTF-8') %>%
-  html_node(xpath="//table[@bgcolor='#003366']") %>%
-  html_table(header=T, trim=T, fill=T, dec=',') %>%
-  set_names(c('numero', 'nome', 'site', 'qtd_agencias')) %>%
-  select(-site) %>%
-  mutate(nome=gsub(' +', ' ', gsub('[./,\n()-]', '', rm_accent(toupper(nome)))),
-         qtd_agencias=as.numeric(gsub('[.]', '', qtd_agencias))) %>%
-  filter(!is.na(qtd_agencias)) %>%
-  tbl_df %>%
-  arrange(desc(qtd_agencias))
+# Processos da area civel com palavra-chave dano/danos pesquisados ate xx/xx/2014
+load("data/d_tjsp.RData")
 
 ## RECLASSIFICACAO DOS REQUERIDOS
 banco <- c('BANCO', 'BRADESCO', 'ITAU', 'SANTANDER', 'VOTORANTIM',

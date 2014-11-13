@@ -1,0 +1,102 @@
+
+
+SENTENÇA
+
+Processo nº:0225730-40.2011.8.26.0100
+Classe - AssuntoProcedimento Sumário - Telefonia
+Requerente:Claudete Pizzo Kitagaki
+Requerido:Telefonica Brasil S.a.
+
+
+
+
+Juiz(a) de Direito: Dr(a). Renan Paes Felix
+
+
+
+Vistos.
+
+
+CLUDETE PIZZO KITAGAKI ajuizou ação de obrigação de fazer cumulada com indenização por danos materiais e morais contra TELEFONICA BRASIL S.A., objetivando a adequação de plano de internet contratado perante e empresa ré e a condenação na reparação aos danos materiais e morais sofridos, sob a alegação de existência de falha na prestação de serviço de internet banda larga e cobrança indevida por serviços que não podem ser disponibilizados por incapacidade técnica da empresa ré.
+
+Segundo a inicial (fls. 02/14) a autora celebrou, em setembro de 2007, contrato de fornecimento de serviços de internet banda larga intitulado Speedy Negócios Profissional, que prometia velocidade de até 4 Mbps. No entanto, posteriormente descobriu, por intermédio de informação fornecida por técnicos que compareceram ao seu estabelecimento, que a capacidade técnica máxima da região é de 2 Mbps. Alega, então, que vem pagando cerca de R$ 289,68 (duzentos e oitenta e nove reais e sessenta e oito centavos) mensais por um serviço que nunca existiu e que caberia, diante dessa limitação técnica, o pagamento de R$ 99,90 (noventa e nove reais e noventa centavos) mensais, valor que se refere a um plano básico. Afirma que a empresa se nega a alterar seu plano atual para o plano básico e que é a única a fornecer o serviço na região. Aponta ainda a ocorrência de falha na prestação do serviço e requer a alteração do plano e o ressarcimento dos danos materiais (valores pagos a mais por um serviço que nunca esteve disponível) e morais.
+
+A antecipação de tutela foi indeferida (fls. 119).
+
+O réu foi citado (fls. 123) e ofertou contestação (fls. 125/139), acompanhada de documentos (fls. 140/149), em que sustentou, em suma: a) que a empresa ré tem feito melhorias e ampliado a rede de acesso à banda larga; b) que a prestação do serviço está condicionada à disponibilidade técnica; c) que observou os princípios norteadores da relação de consumo; d) que não há prova dos danos materiais alegados; e) que não é cabível a restituição em dobro; f) que não são cabíveis os danos morais alegados; g) caso sejam arbitrados danos morais, sejam estimados de modo a não configurar enriquecimento sem causa. Pede, ao final, a total improcedência dos pedidos.
+
+Houve réplica (fls. 156).
+
+Intimados a especificar provas (fls. 157), autora e réu nada requereram.
+
+Designada audiência de tentativa de conciliação, restou infrutífera (fls. 159).
+
+É a síntese do necessário.
+
+DECIDO.
+
+Trata-se de ação civil destinada à obrigação de fazer cumulada com pedido de ressarcimento aos danos materiais e morais, tendo como objeto um contrato de fornecimento de serviço de internet banda larga.
+
+Pode-se conhecer diretamente do pedido, com o julgamento antecipado da lide, nos termos do artigo 330, inciso I, do Código de Processo Civil, pois embora haja matéria de fato e de direito, existem provas e elementos suficientes nos autos para o adequado exame da lide, como se verá linhas a seguir.
+
+Insurge-se a autora contra a alegada falha na prestação do serviço de internet banda larga, sob o argumento de que, mesmo sendo inviável tecnicamente na região a velocidade contratada, desde setembro de 2007, paga por um serviço do qual não pode usufruir. E afirma que sequer tinha conhecimento disso, até que técnicos lá compareceram, por solicitação da autora, e fizeram a medição da velocidade da banda larga (fls. 20/23). Pede a alteração do pacote e o pagamento de danos materiais e morais.
+
+Primeiramente registro que o caso dos autos, dado a presença das particularidades destinação final e vulnerabilidade, trata-se de uma evidente relação de consumo, regulada pela Legislação Consumerista, situação que pode ser conhecida, inclusive, ex officio dado o caráter da legislação citada, ou seja, de ordem pública (art. 1º, da Lei n.° 8.078, de 11 de setembro de 1990).
+
+Registre-se que a controvérsia gira em torno da contratação e pagamento de um serviço pela autora que não foi a ela de fato prestado, vindo a tomar conhecimento desta situação após decurso de largo lapso temporal, pelo que requer o devido ressarcimento.
+
+Pois bem, de fato, a autora, contratou o serviço SPEEDY NEGÓCIOS PROFISSIONAL, junto à ré, em setembro de 2007. A ré não apresentou oposição a essa afirmação e também não contestou que a alegação de que autora vinha recebendo o acesso ao serviço na velocidade de 2 MB e não na velocidade contratada de 4 MB. Aliás, na contestação a ré afirmou que a incompatibilidade técnica e estrutural do local onde reside os clientes da empresa de telefonia para recepção do sinal da internet de banda larga é uma questão que está além da responsabilidade da ré (fls. 130).
+
+Com efeito, ao contrário do alegado na contestação, a ré é sim responsável pela recepção do sinal de internet banda larga nos moldes do contrato celebrado, sob pena de responsabilização, a teor do art. 14 do Código de Defesa do Consumidor: Art. 14. O fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos.
+
+Está claro nos autos que, em visitas técnicas realizadas no estabelecimento da autora, os técnicos responsáveis aferiram capacidade de 2Mbps na velocidade da internet (fls. 20/21), velocidade bem inferior à contratada e regularmente cobrada na fatura. Assim, o serviço contratado pela autora não era efetivamente o mesmo que recebia, já que na localização em que reside não há a disponibilidade da velocidade de 4 MB para uso da internet. Também sem contraposição o fato de que restou infrutífero qualquer tipo de acordo entre as partes para alteração do plano ou ressarcimento de valores indevidamente pagos, não tendo lhe restado outra saída senão acionar a via judicial.
+
+A autora comprovou, ainda, o pagamento das faturas no lapso temporal em que fora ludibriada (fls. 50/109), também não tendo havido qualquer tipo de impugnação a tais pagamentos na contestação.
+
+Nesse diapasão, anote-se que a Ré apenas limitou-se a tecer considerações genéricas sobre a melhoria dos serviços e ampliação da rede de acesso e afirmou que não se pode falar em redução do valor de R$ 289,69, referente ao serviço SPEEDY NEGÓCIOS PROFISSIONAL para o valor de R$ 99,90, referente ao serviço SPEEDY NEGÓCIOS BÁSICO, por se tratar de produtos com tecnologias, atendimento e velocidade diferentes.
+
+Como se vê, a empresa ré não logrou êxito em demonstrar que presta o serviço contratado pela autora. Por outro lado, a autora conseguiu provar que o serviço foi prestado de forma defeituosa e que paga por um serviço que não está disponível. Sequer se necessita da regra da inversão probatória, pois a regra ordinária (art. 333, do Código de Processo Civil) é de que aquele que pretenda provar algo deve trazer os elementos para a convicção motivada do Juiz na sentença, já que a ré, ao contrário disso, admitiu a situação, embora tenha afirmado que o regular funcionamento do serviço não é de sua responsabilidade por depender da estrutura local da região e da disponibilidade de portas (centrais ramificadas da ré e instaladas em determinados pontos para atender a demanda da região ? fls. 130/131).
+
+Ora, é de clareza solar que a empresa tem sim responsabilidade pela prestação do serviço que oferece, mediante pagamento, à população. A qualidade e características do serviço deve corresponder às informações fornecidas pela empresa ao consumidor no momento da contratação, sob pena de responsabilização (art. 14, CDC).
+
+Pois bem. A autora pretende receber a título de danos materiais o valor correspondente ao que pagou a maior pelo serviço no período citado, já que  pagava pelo serviço SPEEDY NEGÓCIOS PROFISSIONAL, com velocidade de 4 MB, recebendo apenas velocidade equivalente ao SPEEDY NEGÓCIOS BÁSICO, sendo este o único que se apresenta tecnicamente disponível no local em que reside. 
+
+Logo, é devida à autora a quantia equivalente às diferenças nas mensalidades entre outubro de 2007 e novembro de 2011, que foram pagas a maior (fls. 110/111), já que o pagamento se deu pela velocidade de 4 MB, quando na realidade a ré fornecia acesso à internet com velocidade de 2 MB.
+
+Assim, pode-se afirmar que ocorreu o prejuízo material, que deve ser ressarcido, conforme planilha de cálculo acostada aos autos (fls. 110/111), no valor de R$ 7.881,35 (sete mil, oitocentos e oitenta e um reais e trinta e cinco centavos). Tais valores devem ser devidamente corrigidos monetariamente pela Tabela Prática do Tribunal de Justiça de São Paulo desde os respectivos desembolsos mensais, acrescidos de juros de mora à taxa de 1% ao mês, nos termos do art. 406 do Código Civil, c.c. art. 161, § 1º, do Código Tributário Nacional, a partir da citação (art. 405 do Código Civil, c.c. 219, do Código de Processo Civil), até o efetivo pagamento.
+
+Afasto a aplicação do art. 42 do Código de Defesa do Consumidor (repetição em dobro), pois entendo que não foi comprovada a má-fé da empresa ré. Assim, não há dever de restituição em dobro.
+
+Quanto aos danos morais, verifica-se que exsurge da própria situação, pois se trata de dano in re ipsa, presumível pela própria dinâmica fática e, por isso mesmo, dispensada a comprovação do dano in concreto.
+
+Logo, sendo certos os danos materiais pelo pagamento indevido, como vimos, por longo tempo em que a autora pagou, mas não levou, tudo acreditando na probidade da Ré, certo também é o dever de indenizar pelos danos morais sofridos, que superam o mero aborrecimento do cotidiano.
+
+Na concepção moderna de reparação do dano moral prevalece a orientação de que a responsabilização do agente se opera por força do simples fato da violação, de modo a tornar-se desnecessária a prova do prejuízo em concreto.
+
+A ofensa à sua honra subjetiva restou comprovada, muito embora já pudesse ser presumida da forma com que foi enganada, na frustração experimentada e da demora quando da tentativa de obter solução do problem.  Nesse sentido, a CF/88 prevê a possibilidade de indenização dos danos extrapatrimoniais ou morais (inciso X, do art. 5º).
+
+O quantum da indenização deve ser arbitrado pelo Juiz (parágrafo único do art. 953 do Código Civil Brasileiro) levando-se em conta a condição de quem vai ser indenizado e de quem vai pagar, de forma a inibir futuras reincidências por parte deste último, além de ensejar-lhe, considerável, porém, adequado e não insuportável, gravame patrimonial.
+
+Após todas estas considerações e pelo mais que dos autos consta, entendo adequada a fixação da reparação em R$ 4.000,00 (quatro mil reais), devidamente corrigida monetariamente a partir desta data, nos termos da Súmula 362, do Superior Tribunal de Justiça, também pelos índices constantes da Tabela Prática do Tribunal de Justiça, mais juros de 1% ao mês, a partir da citação (art. 405, do Código Civil, c.c. art. 219, caput, do Código de Processo Civil), tudo à data do efetivo pagamento.
+
+Por fim, procede o pedido deduzido pela autora para adequação do plano e valores ao serviço efetivamente disponibilizado pela empresa ré. Tendo em vista que os serviços prestados pela Telefônica foram sucedidos pela Vivo (conforme avisto que consta no sítio eletrônico da empresa ? www.telefonica.com.br), não há como fixar o plano e o respectivo valor exato na sentença. Apenas registra-se que o plano e os valores devem ser adequados ao serviço efetivamente disponível na região.
+
+Ante o exposto, com fundamento no art. 269, inciso I, do Código de Processo Civil, extingo o feito com resolução de mérito e JULGO PARCIALMENTE IMPROCEDENTES os pedidos deduzidos na inicial, para CONDENAR a RÉ a:
+
+a) - devolver à Autora o percentual a maior que ela pagou entre outubro de 2007 e novembro de 2011 pelo serviço Speedy Negócios Profissional, a título de danos materiais, no patamar de R$ 7.881,35 (sete mil, oitocentos e oitenta e um reais e trinta e cinco centavos), devidamente corrigido monetariamente pela Tabela Prática do Tribunal de Justiça de São Paulo desde os respectivos desembolsos mensais, acrescidos de juros de mora à taxa de 1% ao mês, nos termos do art. 406 do Código Civil, c.c. art. 161, § 1º, do Código Tributário Nacional, a partir da citação (art. 405 do Código Civil, c.c. 219, do Código de Processo Civil), até o efetivo pagamento;
+
+ b) - indenizar a Autora por danos morais na quantia de R$ 4.000,00 (quatro mil reais), devidamente corrigida monetariamente a partir desta data, nos termos da Súmula 362, do Superior Tribunal de Justiça, também pelos índices constantes da Tabela Prática do Tribunal de Justiça, mais juros de 1% ao mês, a partir da citação (art. 405, do Código Civil, c.c. art. 219, caput, do Código de Processo Civil), tudo à data do efetivo pagamento.
+
+c) - determino a manutenção do contrato com prestação do serviço com a velocidade de 2 MB (a não ser que neste meio tempo tenha se tornado possível a entrega de velocidade maior, como contratado originariamente, no estabelecimento da Autora), com a cobrança adequada ao que esteja prestando (de 2 MB).
+
+Como a autora decaiu de parte mínima do pedido, condeno a ré ao pagamento de custas, despesas processuais e honorários advocatícios que fixo em 15% sobre o valor da condenação, nos termos do art. 20, § 3°, do Código de Processo Civil.
+
+P.R.I.C.
+
+São Paulo, 14 de novembro de 2012.
+
+RENAN PAES FELIX
+Juiz Substituto
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

@@ -1,0 +1,51 @@
+
+
+SENTENÇA
+
+Processo nº:0026064-95.2010.8.26.0002
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Moral
+Requerente:Superabrasivos, Comércio, Serviços, Importação, Exportação Ltda
+Requerido:Conquest Informática Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Nélson Ricardo Casalleiro
+
+
+
+Vistos,
+
+SUPERABRASIVOS, COMÉRCIO, SERVIÇOS, IMPORTAÇÃO, EXPORTAÇÃO LTDA., promoveu a presente ação ordinária de rescisão contratual contra CONQUEST INFORMÁTICA LTDA. Afirma que contratou a requerida, em janeiro de 2010, contrato de licença de uso de uma sistema integrado de gestão empresarial denominado SISGEM, cumulado com prestação de serviço de assistência técnica e atualizações, pelo valor de R$ 3.000,00, a serem pagos em 5 parcelas iguais, além de uma manutenção mensal de R$ 300,00. Sustenta que até a presente data o referido programa não foi instalado, ainda que a autora já tenha pago uma das cinco parcelas contratadas, quando foi surpreendida pela informação de que havia sido ?protestada? pela requerida. Diante destes fatos, requereu a rescisão contratual e a condenação da ré na obrigação de reparar danos morais. Juntou documentos (fls. 14/37).
+Informa, também, que ingressou com ação cautelar (no. 018777-81) visando a sustação dos efeitos do protesto, sendo concedida liminar a fls. 21, mediante a caução do valor da dívida.
+Citada, a requerida apresentou contestação (fls. 48/56), afirmando que não deixou de instalar o produto adquirido. Sustenta que ao realizar a instalação detectou que o servidor da requerente possuía sistema operacional ?Linux?, incompatível com o sistema comercializado pela requerida, situação prevista contratualmente. Alega que recebeu instrução da empresa autora a instalar o sistema em duas máquinas, enquanto resolvia o problema de incompatibilidade. Sustenta que a requerente jamais resolveu o problema técnico necessário à implantação do software. , deixando  de permitir a visita dos técnicos da empresa e deixando de honrar os pagamentos contratados. Requereu a improcedência da ação. Juntou documentos (fls. 57/68).
+Réplica a fls. 71/74.
+Saneador a fls. 75.
+Foi ouvida uma testemunha arrolada pela requerida (fls. 133).
+Manifestou-se a requerida em memoriais (fls. 141/144).
+É o relatório.
+Fundamento e decido.
+Passo ao julgamento conjunto da ação ordinária e da cautelar tomada sob  o no. 018777-81).
+A ação deve ser julgada improcedente.
+Ao contrário do afirmado na petição inicial, ficou comprovado que a requerida efetuou a instalação do programa de computador, tornando-o disponível para uso da autora.
+Neste sentido o depoimento da testemunha RAPHAEL (fls. 133):
+?que tem conhecimento do serviço prestado a Superabrasivos, que foi a instalação do sistema SINGEM, sistema que chegou a ser instalado em sua plenitude, ao menos da parte inicial...? (grifei).
+O fato é que o sistema oferecido pela requerida não se mostra operacional em virtude de descumprimento contratual por parte da requerente, conforme se pode observar do depoimento da testemunha HENRIQUE (fls. 133), que reproduzo:
+?era possível a instalação do sistema SINGEM numa plataforma ?Linux? desde que fosse implantado um aplicativo de nome SAMBA e que caberia ao contratante a instalação deste sistema...?
+Suas declarações foram corroboradas pelas prestadas pela testemunha RAPHAEL (fls. 133):
+?que o cliente teria solicitado a instalação da plataforma ?Linux? que utilizado o aplicativo chamado SAMBA viabilizaria a instalação do sistema em sua plenitude...?
+Neste sentido é importante destacar que o contrato celebrado entre as partes prevê a necessidade de existência de plataforma ?Windows? e configuração adequada para a instalação do programa fornecido pela requerida, nos termos da cláusula 1.2 do contrato celebrado entre as partes (fls. 22).
+Comprovado, portanto, o inadimplemento contratual  deve incidir o disposto no artigo 476 do Código Civil, não podendo a autora exigir o cumprimento das obrigações contratuais da requerida, estando em mora com suas próprias obrigações.
+Neste sentido:
+?TJ-DF - Apelação Cí?vel APL 819421220058070001 DF 0081942-12.2005.807.0001 (TJ-DF) 
+Data de publicação: 11/05/2009 
+Ementa: APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. NÃO CONFIGURAÇÃO. I- NOS CONTRATOS BILATERAIS SINALAGMÁTICOS, AS P ARTES TÊM O DEVER DE CUMPRIR AS OBRIGAÇÕES RECIPROCAMENTE ASSUMIDAS. O ART. 476 DO NCC DISPÕE QUE NENHUM CONTRATANTE PODERÁ EXIGIR O ADIMPLEMENTO DA OBRIGAÇÃO DO OUTRO, ANTES DE CUMPRIDA A SUA PRESTAÇÃO. II- COMPROVADO O ADIMPLEMENTO DAS OBRIGAÇÕES ASSUMIDAS PELA CONTRATADA, NÃO HÁ QUE SE FALAR EM JUSTIFICATIVA PARA A SUSPENSÃO DA CONTRAPRESTAÇÃO PECUNIÁRIA PELA CONTRATANTE.?
+Diante do exposto, JULGO IMPROCEDENTE a ação ordinária, bem como a ação cautelar, com apreciação do mérito, na forma do disposto no artigo 269, I do Código de Processo Civil.
+Condeno a autora nas custas do processo e em honorários de advogado que arbitro em 20% do valor da causa.
+
+P.R.I.C.
+
+
+São Paulo, 30 de julho de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

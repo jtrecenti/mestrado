@@ -1,0 +1,65 @@
+
+
+SENTENÇA
+
+Processo nº:0009540-49.2012.8.26.0003
+Classe - AssuntoProcedimento Ordinário - Interpretação / Revisão de Contrato
+Requerente:Gil Plásticos Ltda e outro
+Requerido:Banco Itaú S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Alexandre Batista Alves
+
+
+
+Vistos.
+
+
+
+GIL PLÁSTICOS LTDA e EMILY JORGE ajuizaram ação de revisão contratual cumulada com repetição de indébito e antecipação de tutela contra BANCO ITAÚ S/A alegando, em resumo, que: a) firmaram com o réu cédula de crédito bancário no valor de R$250.000,00, montante a ser pago em 24 parcelas de R$13.227,99 cada; b) adimpliram dezenove parcelas e não lograram quitar as demais prestações; c) é abusiva a cláusula que prevê, em caso de mora, a cobrança de taxa de juros moratórios de 12% ao ano e comissão de permanência; d) é ilegal a cobrança de juros capitalizados.
+
+Por essas razões, pleiteiam a revisão do contrato para afastar as ilegalidades apontadas. A petição inicial veio instruída com documentos (fls. 23/35).
+
+Concedida a antecipação da tutela em grau recursal, o réu foi citado e ofertou contestação (fls. 72/91), na qual sustentou a legalidade das cláusulas contratuais e encargos cobrados.
+
+É o relatório.
+Fundamento e Decido.
+
+A matéria debatida nos autos é somente de direito e de fato comprovável por meio de prova documental, prescindindo-se da realização de outras provas, razão pela qual é de rigor o julgamento antecipado da lide.
+
+Improcede a pretensão.
+
+Anote-se que o art. 5º da MP 1.963-17, de 30/03/2000, substituída pela MP n. 2.170/36, admite a prática de capitalização de juros em periodicidade inferior a um ano nos contratos celebrados por instituições financeiras integrantes do Sistema Financeiro Nacional.
+
+Ademais o art. 28, §1º, I, da Lei n. 10.931/04 permite a capitalização de juros. Mas não se trata de capitalização ilegal a incorporação de juros vencidos decorrente de saldo devedor ao capital. Os juros vencidos se convertem e se incorporam naturalmente ao capital, ao final de cada período de capitalização expresso na taxa de juros.
+
+?Quem assim entende confunde capital com renda. Capital, em um mútuo financeiro, na acepção adequada a esta exposição, é o valor atual do saldo de um débito, expresso pelo montante que resultar do capital original, acrescido dos juros vencidos, convertidos e incorporados periodicamente ao capital, abatidos os valores eventualmente pagos (parte dos juros, total dos juros, total dos juros e amortização). Juro  ou  renda  é o fruto deste capital que, após ser gerado, pelo decurso do período de geração (e se tornar, assim, juro vencido  ou  renda vencida)  - independentemente de haver ou não sido pago ? se converte e se incorpora ao capital inicial  do período, transformando-o em capital final  do período.
+A única peculiaridade da renda vencida paga, em relação  à  renda vencida não paga,  é que esta última fica aplicada com o mesmo mutuário, elevando o saldo devedor de capital. Daí o equívoco comum de se considerar o juro de um segundo período como sendo representado por dois diferentes tipos de juros: o juro do capital  e o juro do juro? (Juros. Correção Monetária. Danos Financeiros irreparáveis. Uma abordagem jurídico econômica /   Romualdo Wilson Cançado e Orlei Claro de Lima ? 3.ed.rev.atual.e ampl. ? Belo Horizonte: Del Rey, 2003. pág. 27/28).
+
+Em relação às instituições financeiras, as taxas de juros e outros encargos não se sujeitam às restrições do Decreto 22.626/33 (Lei de Usura), mas à Lei 4595/64, ou seja, às deliberações do Conselho Monetário Nacional e às limitações e disciplinas ditadas pelo Banco Central. Nesse sentido é a Súmula 596 do STF.
+
+Como não há norma no Conselho Monetário Nacional limitando os juros em operações de crédito nos moldes daquela realizada entre as partes, conclui-se que legislação especial afasta a incidência do art. 4°, ?a?, da Lei 1.521/51, que se refere à taxa máxima prevista em lei.
+
+E não havendo demonstração de que a taxa de juros excede em muito a taxa média para as operações similares, o que caracteriza ofensa ao art. 4°, ?b?, da citada lei, é válida a taxa de juros cobrada pelo réu, motivo pelo qual é descabido falar em spread abusivo.
+
+Vale acentuar que os autores, quando da contratação, tinham a exata noção dos juros e encargos praticados, de maneira que poderiam procurar outra instituição bancária para contratar se considerassem as taxas elevadas.
+
+É oportuno reproduzir os seguintes trechos do AgRg no Recurso Especial n. 688.627- RS (2004/012651-3), relatado pelo Min. Aldir Passarinho Júnior:
+
+?Por outro lado, ainda que aplicável às instituições bancárias a Lei n. 8.078/1990, a Segunda Seção desta Corte, em 12.03.2003, no julgamento do Resp n. 407.097/RS, relator para acórdão Ministro Ari Pargendler, sedimentou o entendimento de que o pacto referente à taxa de juros só pode ser alterado se reconhecida sua abusividade em cada hipótese, desinfluente para tal fim a estabilidade inflacinonária no período, imprestável o patamar de 12% ao ano já que sequer a taxa média de mercado, que não é potestativa, se considera excessiva, para efeitos de validade da avença?.
+
+Não se perca de vista que os autores nem ao menos declinaram o valor do débito que reputa devido.
+
+No que se refere à comissão de permanência, vale assinalar que a Resolução n. 1.129/86 do BACEN faculta aos bancos e outras instituições a cobrança de seus devedores por dia de atraso no pagamento ou na liquidação de seus débitos, além de juros de mora na legislação em vigor, comissão de permanência, a ser calculada às mesmas taxas pactuadas no contrato original ou à taxa de mercado do dia do pagamento.
+
+Assim sendo, não se afigura potestativa a cláusula que prevê a comissão de permanência, calculada pela taxa média de mercado apurada pelo Banco Central do Brasil, limitada à taxa do contrato (Súmula 294 do STJ).
+
+Acrescente-se que não há um mínimo de prova documental a comprovar que a ré cobrou comissão de permanência cumulativamente com outros encargos, bem como juros de forma diversa da contratada, o que desautoriza a realização de perícia e/ou a inversão do ônus da prova.
+
+Ante o exposto, JULGO IMPROCEDENTES os pedidos formulados na inicial. Vencidos autores, arcarão com o pagamento das custas, despesas processuais e honorários advocatícios, arbitrados estes, por equidade, dada a ausência de condenação, em R$3.000,00 (três mil reais).
+
+P.R.I.
+
+        São Paulo, 19 de setembro de 2012.

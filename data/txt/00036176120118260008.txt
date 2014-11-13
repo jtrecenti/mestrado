@@ -1,0 +1,51 @@
+
+
+C O N C L U S Ã O
+
+Em 22 de setembro de 2011,
+faço estes autos conclusos ao MM. Juiz de Direito,
+DR. Luis Fernando Nardelli
+Eu__________ (Anderson Correia) Escrev. Subscrevi
+Juiz(a) de Direito: Dr(a). Luis Fernando Nardelli
+
+SENTENÇA
+
+Processo nº:0003617-61.2011.8.26.0008 - Procedimento Ordinário
+Requerente:Di Florence Estética e Beleza Ltda - Me
+Requerido:Telecomunicações de São Paulo S.A - Telesp
+
+
+
+
+
+
+Vistos.
+DI FLORENCE ESTÉTICA E BELEZA LTDA ME, MARIA DE FÁTIMA DE SANTANA, ALBA MARLI DE SANTANA E FLÁVIA MODA DE SÁ, qualificadas nos autos, ajuizaram ação de obrigação de fazer c.c. indenização por danos materiais e morais contra TELECOMUNICAÇÕES DE SÃO PAULO S.A. - TELESP, também qualificada, em que alegam que a coautora Maria de Fátima é titular da linha telefônica 2674-1896 e sem nenhum motivo aparente a linha deixou de funcionar a partir de 17.02.2011, não obstante a autora estar em dia com o pagamento das faturas da linha. As autoras pedem o religamento da linha, bem como a condenação da ré em danos morais no valor de R$ 10.000,00 para cada autora e danos materiais por lucros cessantes.
+Dá-se à causa o valor de R$ 1.000,00.
+Com inicial de fls. 02/07, juntam documentos de fls. 08/24.
+Tutela antecipada para restabelecimento da linha é deferida a fls. 25.
+Citada (fls. 34), a ré oferece contestação de fls. 36/48, com documentos de fls. 49/57, em que pugna pela improcedência da ação.
+Réplica a fls. 62/66.
+Audiência de tentativa de conciliação infrutífera a fls. 69.
+Instadas as partes a especificarem provas (fls. 72), somente a ré se manifesta a fls. 77.
+É o relatório.
+D E C I D O.
+O presente processo comporta o julgamento antecipado do pedido, com base no art. 330, I, do CPC, em razão de a matéria prescindir de instrução probatória em audiência.
+No mérito, não procede a ação.
+Consta que a coautora Maria de Fátima é titular da linha telefônica fixa de uso residencial 11 2674-1896 (fls. 17) e sem nenhum motivo aparente a linha deixou de funcionar a partir de 17.02.2011, não obstante a autora estar em dia com o pagamento das faturas da linha. (fls. 18/19).
+Informa a ré em contestação que a tutela antecipada foi integralmente cumprida.
+As autoras em réplica desistem do pedido de danos materiais (fls. 65, item IV).
+O problema estava na rede interna, ou seja, na fiação interna local onde a ré, concessionária, não tem obrigação de consertar. De acordo com a cópia do comprovante de execução de serviço de fls. 50, elaborado em 04.3.2011, às 14h30 min, o serviço executado foi ?troca de fio interno?, comprovante esse devidamente assinado pela  sócia da empresa, ora coautora Maria de Fátima. Em outras palavras, não foi verificado defeito na rede telefônica pública externa, essa sim de responsabilidade da fornecedora.
+É certo que por força  do art. 20 da lei 8.078/90 o fornecedor de serviços responde, independentemente da existência de culpa, pelos vícios de qualidade que os tornem impróprios ao consumo ou lhes diminuam o valor, porém não é menos verdade que esse fornecedor somente não será responsabilizado quando provar a culpa exclusiva do consumidor (idem, art. 14, §3º, II, initio). E é o que ocorre no caso vertente, visto que a culpa é exclusiva do consumidor que não manteve em ordem a fiação interna.
+Em se tratando de casa (fls. 127), como na espécie, a fiação interna localiza-se  entre o poste de entrada da linha e os pontos de instalação do telefone dentro do imóvel. Cabe aqui lembrar o poste aqui referido é o poste de instalação da rede, o poste particular de metal de responsabilidade do cliente, dentro da propriedade desse último, também conhecido como postinho telefônico, que não se confunde  com o poste de luz de concreto armado da rua. É nesse postinho telefônico que se encontra uma caixa que liga o cabo telefônico por onde passa a linha.
+De acordo com Mário Iorio Aranha (Coletânea de Normas e Julgados de Telecomunicações e Glossário Brasileiro de Direito das Telecomunicações. São Paulo: Quartier Latin, 2006, p. 596), a rede interna é definida como ?segmento de rede  de telecomunicações que se inicia nas dependências do imóvel indicado pelo assinante para a disponibilidade do Serviço Telefônico Fixo Comutado, e se estende até o Ponto de Terminação de Rede (PTR), exclusive?.
+O mesmo autor (idem, p. 585) define o Ponto de Terminação de Rede (PTR) como: ?ponto de conexão da rede externa com a rede interna do assinante?.
+Com efeito, o assinante é responsável pela instalação, manutenção e funcionamento adequado da fiação da rede interna do imóvel, conforme art. 72 da resolução 426 de 2005 da Anatel (fls. 104).
+Nesse sentido: ?Telefone. Impossibilidade de efetuar e receber chamadas. Problema na rede interna. Lucros cessantes não comprovados. Ausência de prova razoável que pudesse autorizar a procedência do pleito? (1ª Turma Recursal dos Juizados especiais Cíveis do Estado do Rio Grande do Sul, recurso n. 71.000930040, rel. Heleno Tregnago Saraiva, j. 21.09.2006).
+Conforme se extrai do voto do v. acórdão acima: ? a instalação de linha telefônica pressupõe duas fases, sendo a primeira a instalação da rede externa que vai até a terminação PTR (Ponto de Terminação de Rede) , de responsabilidade da Companhia telefônica, e a segunda a instalação da rede interna que inicia na terminação PTR e finda no local em que se fixará o aparelho telefônico para uso daquela linha de responsabilidade do consumidor ? ocorre que tal caixa externa é de responsabilidade do usuário, pois é o ponto disposto pela parte apto (ou não) a receber o sinal advindo da fiação (ou cabeamento) efetuado pela empresa de telefonia?.
+No mesmo sentido: ?Responsabilidade civil ? prestação de serviços ? alegação de defeitos na prestação de serviços telefônicos ante a impossibilidade de uso da linha ? hipótese em que se demonstrou que a ré Telesp procedeu aos reparos no equipamento na parte que lhe incumbia, mas o autor não comprovou ter efetuado verificações na parte interna, de sua responsabilidade . Defeito na prestação de serviço incomprovado. Dever de indenizar não comprovado ? recurso não provido? (TJSP 14ª Câm de Direito priv. apelação 7.088.092-1, rel. Melo Colombi, j. 11.07.07). 
+E também: ?Indenização ? prestação de serviços ? telefonia fixa ? reparos na rede externa ? curto circuito na rede interna ? dever de manutenção ? responsabilidade do usuário do serviço ? resolução 85/98 da Anatel ? inexistência de dano moral ? sentença de parcial procedência reformada ? apelação da ré provida para julgar improcedente a ação? (TJSP 26ª Câm. Dir Privado, apelação com revisão 978.868-00/6, rel .Norival Oliva, j. 04.08.09).
+Posto Isso, JULGO IMPROCEDENTE a presente ação e condeno as autoras em custas, despesas processuais, além de verba honorária fixada em R$ 500,00.
+P., R., I. e C.
+
+São Paulo, 22 de setembro de 2011.

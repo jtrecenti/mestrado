@@ -1,0 +1,103 @@
+
+
+SENTENÇA
+
+CONCLUSÃO
+
+Em 13 de fevereiro de 2014, faço estes autos conclusos à MMª Juíza de Direito da 4ª Vara Cível do Foro Regional da Lapa, Dra. LUCIANA MENDES SIMÕES BOTELHO. Eu, _______, escrevente, digitei e subscrevi.
+
+Processo nº:0011463-10.2012.8.26.0004 - Procedimento Ordinário
+Requerente:Antonio Mariz Feitosa
+Requerido:Banco Itaucard S.A.
+
+
+
+Juiz(a) de Direito: Dr(a). Luciana Mendes Simões Botelho
+
+
+
+VISTOS.
+
+ANTONIO MARIZ FEITOSA propõe a presente ação de revisão contratual contra BANCO ITAUCARD S/A, visando à revisão do contrato de financiamento que firmou com o requerido, sob a alegação de que este prevê a cobrança de juros capitalizados, com aplicação da Tabela Price, além de juros superiores a 12% ao ano, comissão de permanência e multa superior a 2%. Aduz a existência de lesão enorme e onerosidade excessiva. Requer que tais encargos abusivos sejam afastados e o réu condenado a devolver-lhe em dobro as quantias cobradas a maior, além de pagar-lhe indenização por danos materiais e morais  (fls. 2/78).
+
+O réu foi citado e ofereceu contestação a fls. 164/168, pugnando pela improcedência do pedido, sustentando, em resumo, a legalidade das cláusulas contratuais e a intangibilidade do contrato. Juntou o contrato cuja revisão pretende a autora.
+
+Deu-se réplica (fls. 217/223).
+
+A tentativa de conciliação das partes resultou prejudicada em face da ausência do autor ou de quem o representasse (fls. 277).
+
+
+É o RELATÓRIO.
+
+FUNDAMENTO e DECIDO.
+ 
+
+Sendo a questão de mérito unicamente de direito, passo ao julgamento antecipado da lide, na forma do artigo 330, I do Código de Processo Civil.
+ 
+No mérito, não procedem os pedidos. 
+
+O autor firmou contrato de financiamento com o réu. O valor das parcelas e a taxa de juros aplicada foram bem especificados quando da contratação, sabendo o requerente desde logo a importância que deveria despender por mês, bem como por quanto tempo.
+
+Ao contrário do alegado pelo autor, a metodologia de cálculo da Tabela Price não implica capitalização de juros. À toda evidência, trata-se de sistema de amortização e não capitalização.
+
+O sistema de amortização francês, conhecido como Tabela Price, não implica juros capitalizados, mas  simples distribuição dos juros e do capital em parcelas justas durante o período estabelecido no contrato para amortização do empréstimo.
+
+De acordo com PAULO SANDRONI, a Tabela Price consiste em um ?sistema de amortização de dívidas em prestações iguais, compostas de duas parcelas, uma de juros e a outra do principal, isto é, do capital inicialmente emprestado. A Tabela Price deve seu nome provavelmente ao inglês R. Price, que durante o século XVIIII relacionou a teoria dos juros compostos às amortizações de empréstimos, e se denomina também sistema francês de capitalização. Na medida em que a prestação é composta de dois elementos ? uma de juros e outra do principal -, a fórmula permite calcular os juros devidos na primeira parcela e, por subtração da prestação que se deseja pagar, a parcela do principal que se deseja amortizar? (DICIONÁRIO DE ECONOMIA E ADMINISTRAÇÃO, ED. NOVA CULTURAL, 1.996, P. 404).
+
+A fórmula da Tabela Price é desenvolvida para determinar um fator que multiplicado pelo valor do principal, venha resultar num valor de prestação constante no tempo. O mérito dessa fórmula é o de permitir que um valor seja amortizado no tempo estipulado, apropriando-se, sempre, uma parcela de juros que se apura multiplicando a taxa mensal pelo saldo devedor. Esse valor de juros, deduzido do valor da prestação calculada pelo fator da fórmula, resultará no valor da amortização que será deduzida do saldo. No período seguinte, é sobre este novo saldo apurado que a mesma taxa de juros voltará a incidir para se apurar os novos juros da prestação. Assim ocorre sucessivamente. Pode-se observar que, em nenhum momento, se processa qualquer mecanismo de capitalização, vale dizer, de incorporação dos juros ao saldo devedor que sirva como base para cálculo de novos juros.
+
+Ainda que assim não fosse, com relação à alegada capitalização mensal dos juros, o E. Superior Tribunal de Justiça vem sedimentando a questão no sentido de que é possível referida prática nos contratos bancários celebrados a partir de 31 de março de 2.000, data da publicação da Medida Provisória nº 1.963-17, de 30 de março de 2.000, atualmente reeditada sob o nº 2.170-36/2001 (cf. RESP nº 2.003/0191967-5).
+
+O artigo 5º da MP nº 2.170-36/01 é expresso no sentido de que ?Nas operações realizadas pelas instituições integrantes do Sistema Financeiro Nacional é admissível a capitalização de juros com periodicidade inferior a um ano?
+
+Ainda, esta última Medida Provisória está vigente por força do disposto no artigo 2º da Emenda Constitucional nº 32, de 11 de setembro de 2.001.
+
+No caso dos autos, o contrato foi firmado em data bem posterior, sendo perfeitamente admitida a capitalização mensal dos encargos.
+
+Com relação aos juros cobrados, com o advento da Lei nº 4.595/64, que regulamentou o sistema financeiro, foi editada súmula (nº 596) pelo E. Supremo Tribunal Federal, que dispõe: ?As disposições do Decreto nº 22.626/33 não se aplicam às taxas de juros e aos outros encargos cobrados nas operações realizadas por instituições públicas ou privadas, que integram o sistema financeiro nacional?.
+
+Assim, não há se falar em submissão do requerido aos limites da Lei de Usura. 
+
+O requerimento de limitação dos juros reais a 12% ao ano, assim, não prospera. De fato, além da expressa revogação de referido parágrafo pela Emenda Constitucional nº 40/2.003, o próprio Supremo Tribunal Federal sumulou a matéria, nos seguintes termos: ?A norma do § 3º do art. 192 da Constituição, revogada pela EC nº 40/2.003, que limitava a taxa de juros reais a 12% ao ano, tinha sua aplicabilidade condicionada à edição de lei complementar? (Súmula 648 do STF).
+
+No que concerne à comissão de permanência, constitui esta encargo moratório que pode ser cobrado após o vencimento da dívida, mas apenas nos seguintes termos: (i) não pode ser cumulada com correção monetária (Súmula nº 30 do STJ) ou com juros remuneratórios (Súmula nº 296 do STJ); (ii) será cobrada pela taxa média de mercado apurada pela Banco Central do Brasil, mas limitada à taxa de juros contratada (Súmula nº 294 do STJ); (iii) não pode ser cumulada com multa (Resolução nº 1.129/86 do BACEN) ou com os juros moratórios (v. RESP nº 595.653/RS, rel. Min. Carlos Alberto Menezes Direito, 3ª T. j. 28/10/2004; AgReg no RESP nº 671.861, 3ª T. rel. Min. NANCY ANDRIGUI, j. 09/05/2005; AgReg no RESP nº 712.801, 2ª Seção, Rel. Min. Carlos Alberto Menezes Direito, j. 04/05/05; Ag.Reg no AG. nº 360421/RS, 3ª T., rel. Min. ANTONIO DE PÁDUA RIBEIRO, j. 22/11/2004; AgReg no RESP nº 536.588/RS, rel. Min. Humberto Gomes de Barros, 3ª T., j. 18/05/2004).
+
+Todavia, analisando-se o contrato firmado entre as partes, verifica-se que ele não prevê a cobrança de comissão de permanência, pelo que não prosperam as alegações do requerente.
+
+Também ao contrário do alegado pelo autor, a multa moratória prevista em contrato, de seu turno, é de 2% (cláusula 18.2 ? fls. 184), não havendo que se falar em sua abusividade.
+
+Inaplicável na hipótese, outrossim, a chamada Teoria da Lesão.
+
+Em outras palavras, a lesão só se configuraria naquelas hipóteses em que havido lucro excessivo, decorrente de ajuste firmado por quem, em condições de extrema necessidade, o assinasse por inexperiência, de que se aproveitasse a outra parte.
+
+Esta a lição de Caio Mário, para quem ?a lesão qualificada ocorre quando o agente, premido pela necessidade,, induzido pela inexperiência ou conduzido pela leviandade, realiza um negócio jurídico que proporciona à outra parte um lucro patrimonial desarrazoado ou exorbitante da normalidade. ? (in Instituições, Forense, 18ª ed., vol. I, pág. 349).
+
+Não é decerto o caso em tela, concernente a contrato sobre o qual estava bem ciente o autor das consequências de seus atos.
+
+Mas ainda, mesmo no que toca à vertente objetiva da lesão, é forçoso convir que o lucro do réu não pode ser considerado como consubstanciado na totalidade dos juros cobrados. Lembre-se, a propósito, que o dinheiro mutuado precisa ser captado no mercado, mediante remuneração que pague no mercado financeiro.
+
+Assim, válidas as cláusulas contratuais impugnadas pelo autor, não há que se falar em ocorrência de lesão ou onerosidade excessiva.
+
+A regra é justamente a intangibilidade do contrato, sendo somente possível alteração de seu conteúdo em situações excepcionais, o que não é o caso dos autos. 
+
+Ora, os juros altos refletem política econômica que, no Brasil, não constitui, é evidente, evento imprevisível. A própria recessão não dá suporte à aplicação da cláusula ?rebus sic stantibus?. A propósito já se decidiu que a recessão, como resultado da deflação, tanto quanto a inflação, ?não constituem, a rigor, acontecimentos extraordinários e imprevisíveis? (RT 707/102). 
+
+Ademais, dificuldades econômicas passageiras experimentadas individualmente por quaisquer dos contratantes não justificam a revisão judicial da avença. E mesmo o desajuste econômico não é motivo a ensejar a alteração judicial do contrato, que, como mencionado, é situação excepcional e exige prova cabal da alteração fática, assim como sua  imprevisibilidade absoluta. 
+
+Não basta a mera alegação de dificuldade econômica geral do país para furtar-se à observância do contratualmente pactuado, que faz ?lei entre as partes?.
+
+Por fim, não procedem os pedidos de indenização por danos materiais e morais pleiteados pelo requerente, haja vista que não comprovados nos autos.
+
+Diante de todo o exposto, impõe-se a decretação da improcedência do pedido.
+
+
+
+ANTE O EXPOSTO e considerando o mais que dos autos consta, JULGO IMPROCEDENTE o pedido e resolvo no mérito o processo, na forma do artigo 269, I do Código de Processo Civil.
+ 
+Sucumbente, arcará o autor com o pagamento das custas e despesas processuais, assim como dos honorários advocatícios da parte adversa, ora fixados, por equidade, em R$ 1.500,00, na forma do artigo 20, §4º do Código de Processo Civil.
+
+Com o trânsito em julgado, faculto à ré o levantamento das quantias depositadas nos autos, para abatimento do valor do débito.
+
+P.R.I.C.
+
+São Paulo, 25 de fevereiro de 2014.

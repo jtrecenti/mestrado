@@ -1,0 +1,105 @@
+
+
+C O N C L U S Ã O
+
+Em  05 de agosto de 2013
+faço estes autos conclusos ao (à) MM(ª). Juiz (a) de Direito
+DR (ª)Paulo André Bueno de Camargo 
+Eu, ______________________,  escrev., digitei.
+
+
+SENTENÇA
+
+Processo nº:0066174-39.2010.8.26.0002 - Procedimento Ordinário e 0052337-14.2010.8.26.0002  Cautelar Inominada
+Requerente:Adobe Systems Incorporated e outro
+Requerido:Hands Empreendimentos S/A
+
+
+
+Juiz(a) de Direito: Dr(a). Paulo André Bueno de Camargo
+
+
+Vistos.
+
+
+
+
+Trata-se de ação indenizatória sob alegação de que a ré praticou contrafação em relação a programas de computador dos quais as autoras são titulares de direitos autorais, requerendo, assim, as autoras indenização nos termos das Leis 9.609/98 e 9.610/98, cujo montante será apurado em liquidação de sentença por arbitramento, condenando-se a ré, ainda, a arcar com os ônus da sucumbência.
+
+Citada, a requerida contestou o pedido, aduzindo, preliminarmente, inépcia da petição inicial e falta de comprovação, em língua portuguesa, da titularidade dos direitos autorais. No mérito, pugnou pela sua improcedência, uma vez que não ocorreu a alegada contrafação, já que o uso dos programas de computador pertencentes às autoras se deu de forma legal. Requer a condenação das autoras nas penas de litigância de má-fé (fls. 256/278). 
+ 
+Réplica a fls. 401/410.
+
+Determinada a especificação de provas (fl. 411), as autoras pugnaram pelo julgamento antecipado (fl. 416) e a ré pela realização de nova prova pericial e prova testemunhal (fl. 417).
+
+A realização de nova perícia foi indeferida (fl. 418), bem como a realização de prova testemunhal por preclusão (fl. 425). 
+
+Nos autos em apenso há uma medida cautelar, cujo pedido liminar foi deferido. As duas demandas serão julgadas simultaneamente.
+
+É o relatório.
+
+D E C I D O.
+
+Conheço do pedido nesta fase. Faço-o com supedâneo no artigo 330, inciso I, do Código de Processo Civil, uma vez que desnecessária a dilação probatória, já que indeferida nova prova pericial por decisão que restou irrecorrida (fl. 418), bem como declarada preclusa a prova testemunhal (fl. 425), a qual, todavia, era mesmo desnecessária e deveria ser indeferida com base nos arts. 130 e 400, inc. II, do Código de Processo Civil, já que os atos tratados nesta ação provam-se por documentos (notas fiscais de aquisição do programa e licenças de uso ? art. 9º da Lei 9.609/98) e perícia já realizada na cautelar em apenso.
+
+Tratando-se de julgamento conjunto da ação principal e cautelar, servindo a ambas a prova documental produzida em uma ou na outra, e já tendo as questões preliminares sido analisadas na cautelar pela decisão de fls. 895, à qual me reporto, rejeito as preliminares. Ainda que assim não fosse, é clara a dicção da o § 3º do art. 2º da Lei 9.609/98, no sentido de que a proteção aos direitos de que trata esta Lei independente de registro e a garantia prevista no § 4º do mesmo dispositivo legal aos estrangeiros domiciliados no exterior, como as autoras, da mesma proteção aos direitos autorais sobre programas de computador, desde que haja reciprocidade, a qual foi demonstrada pelas autoras a fls. 175/183 e, mais especificamente, a fls. 180.
+
+O pedido inicial é parcialmente procedente.
+
+Considerando que as autoras, na petição inicial desta indenizatória, não mencionam expressamente sobre quais programas são objeto de contrafação da ré, fazendo referência apenas ao laudo pericial da cautelar preparatória (fl. 05), ficam as autoras sujeitas, para fins de análise da sucumbência, aos programas apontados como objeto de contrafação pelos peritos judiciais em seu laudo pericial de fls. 635/643 da cautelar, daí porque se falar em procedência parcial do pedido, como se verá a seguir.
+
+Sobre os programas da autora Adobe, foram apontados pelo laudo pericial como sendo de utilização ilegal os seguintes programas: Adobe Creative Suite 4 Des. Premium, Adobe Air e Adobe Photoshop CSS 5 Design Premium (fl. 638). Dos três, contudo, apenas um deve ser considerado objeto de contrafação.
+
+Isso porque o programa Adobe Air, conforme bem salientado pelo assistente técnico da ré a fls. 787 é de uso livre de cobrança ou licença, fato reconhecido pelo perito judicial a fls. 873, em seus esclarecimentos. Daí, portanto, ser improcedente o pedido indenizatório quanto a esse programa.
+
+Em relação ao programa Adobe Photoshop CSS 5 Design (1 cópia), o pedido também é improcedente.
+
+Isso porque a ré apresentou nota fiscal eletrônica de aquisição de uma cópia do referido programa (fl. 647), que, portanto, está sendo usado em conformidade com o que dispõe o parágrafo único do art. 9º da Lei 9.609/98, não havendo demonstração pelas autoras de que o programa esteja sendo utilizado em mais de um computador, prova que lhes competia produzir, já que a perícia constatou a utilização desse programa em somente um computador (fl. 638), daí que a mera divergência entre localidades da emissão da nota fiscal e da efetiva utilização do programa nada tem de ilegal, já que esclarecido pela ré que o programa foi adquirido em endereço de sua matriz, tratando-se da empresa onde foi realizada a diligência de sua filial. Como bem ressaltou o assistente técnico da ré em seu parecer de fls. 787/788:
+
+Uma leitura do Contrato de Licença de Software referente ao produto Adobe Creative Suite 5 (em anexo no arquivo ContratoAdobe_CS5.pdf) não apresenta qualquer restrição a uma localidade geográfica para qual o produto tenha sido inicialmente licenciado. Na verdade, são citadas duas condições que levam a concluir o contrário, a saber:
+
+A cláusula 2.4 do referido contrato de licenciamento afiram que qualquer computador pode ter uma instalação válida desde que este esteja conectado às instalações de rede interna da empresa. (...).
+
+Sobre esse parecer, o perito judicial, de forma insuficiente para afastar os argumentos do assistente técnico, limitou-se a afirmar que (...) quanto ao segundo programa mencionado, qual seja, o 'Adobe Creative Suit 5', esclarece o perito signatário que tal programa não tem livre distribuição [o que não foi negado pelo assistente técnico e não é este o ponto de divergência de seu parecer em relação ao laudo pericial], motivo pelo qual, deveria por parte da empresa Ré, ter sido apresentada durante as diligências a devida nota fiscal de compra do produto em questão. Acontece que a nota fiscal número 81619 (anexo 3 do Laudo Pericial), apresentada aos peritos, referente ao produto em questão, não deve ser considerada como documento regulamentador pelo fato de o endereço dela constante não ser o mesmo do local onde a diligência foi realizada. Os argumentos do perito judicial, como se vê, não foram suficientes para afastar o afirmado pelo assistente técnico da ré, que agiu, neste ponto, com razão, já que não há, como já mencionado, limitação geográfica para utilização do software adquirido, bem como não há prova de que a ré utilizava-se desse programa em mais de um computador, de forma a violar a licença do programa legalmente adquirido. Afasta-se, pois, o pedido de indenização em relação também a esse programa.
+
+Por fim, quanto ao último programa da autora Adobe em testilha (Adobe Creative Suite 4 Des. Premium ? 1 cópia), procede o pedido inicial, porquanto verificado que a ré não dispunha mesmo de licença para sua utilização (fl. 640), fato esse não negado ? antes confessado ? pelo próprio assistente técnico da ré, que a fls. 788 de seu parecer consignou:
+
+Obs.: A Hands informou que o produto Adobe Creative 5 Design foi adquirido justamente para substituir uma cópia ilegal que estava sendo utilizada sem o conhecimento da pessoa responsável. Essa cópia ilegal (da versão anterior CS4) foi encontrada na perícia e a Hands não contesta a situação de ilegalidade da mesma.
+
+A utilização de cópia ilegal do referido programa por empregado da ré, mesmo sem conhecimento da pessoa responsável, configura ato passível de indenização, diante do que dispõe o art. 932, inc. III, do Código Civil, e no art. 102 da Lei 9.610/98:
+
+Art. 102. O titular cuja obra seja fraudulentamente reproduzida, divulgada ou de qualquer forma utilizada, poderá requerer a apreensão dos exemplares reproduzidos ou a suspensão da divulgação, sem prejuízo da indenização cabível (destaque nosso).
+
+Acolhe-se, portanto, neste ponto, o pedido inicial.
+
+Por fim, resta analisar o pedido quanto aos programas de titularidade da Microsoft listados a fls. 638 (Windows XP HE, MS Office Pro 2007 Plus, Windows Vista Business, MS Office Plus 2010, Windows 7 Enterprise, Windows Vista Home Basic, MS Office Powerpoint 2007, MS Office 2008, MS Server 2003, MS SQL Server 2000 e MS Office Enterprise).
+
+Na ocasião da perícia judicial, a ré apresentou aos peritos do Juízo o Certificado de Parceria Ativo, válido até 31 de janeiro de 2011 (data posterior da perícia realizada no local dos fatos em 17 de setembro de 2010 (fl. 637).
+
+Ao contrário do concluído pela perícia judicial, este certificado de parceria concedia à ré licença para utilizar em seus computadores da empresa os programas listados pelos senhores peritos, independentemente do endereço que consta de fls. 653, pois não se verifica do certificado nenhuma limitação geográfica da utilização dos softwares licenciados, mas apenas limitação quantitativa e de finalidade, as quais não há elementos de que foram descumpridas pela ré.
+
+Necessário consignar que é princípio basilar do Direito a vedação do enriquecimento sem causa e ficou constatado na perícia que o número de cópias de programas licenciados à ré em razão do certificado de parceria ativo é muito superior ao utilizado pela ré. Por exemplo, em relação ao programa Windows 7 Enterprise, que a perícia constatou a utilização de 1 cópia (fl. 638), verifica-se que a ré tinha direito ao uso de 50 cópias (fl. 663), e tratando-se de sistema operacional superior aos Windows XP HE, Windows Vista Business e Windows Vista Home Basic, cujas cópias utilizadas, se somadas, não chegam às 50 a que tinha direito de uso a ré em relação ao Windows 7 Enterprise, deve-se ter como lícita a utilização desses últimos programas pela ré, ainda que não expressamente licenciado, já que como dito, tinha licença para utilizar 50 cópias do Windows 7 Enterprise, versão muito superior às demais descritas, que não foram utilizadas em quantidade superior às 50 licenciadas, razão por que nenhuma indenização quanto a esses programas é devida às autoras, sob pena de enriquecimento sem causa.
+
+O programa Microsoft Office Professional Plus 2010 a ré tinha licença para utilizar até 25 cópias, sendo constatada a utilização de apenas 3 (fl. 638 da cautelar), e valendo-se do mesmo raciocínio utilizado no parágrafo anterior, os programas de versões inferiores, como o MS Office Pro 2007 (1 cópia ? fl. 638), MS Office 2008 (1 cópia) e MS Office Powerpoint 2007 (que certamente integra o MS Office Pro 2007 Plus ? 1 cópia), devem ser tidos como legalmente utilizados, já que o foram em número de cópias inferior às 25 a que tinha direito a ré em relação ao Microsoft Office de 2010, versão superior e mais atual do que esses últimos programas mencionados.
+
+Por fim, quanto aos programas MS Server 2003 e SQL 2000, foi encontrada uma cópia de cada um desses programas nos computadores da ré e verifica-se a fls. 659 que a ré tinha direito ao uso de 25 cópias do programa em versão posterior Microsoft SQL Server 2008 R2, dentre outros programas de servidor, o que, pelos fundamentos já expostos, leva à conclusão de que a utilização desses programas pela ré não trouxe qualquer prejuízo ou dano às autoras e, sem prejuízo, não surge o dever de indenizar, até porque indenizar as autoras nessas circunstâncias, repita-se, geraria um enriquecimento sem causa, uma vez que já estavam recebendo valor que lhe dava direito a utilizar muito mais cópias dos programas supracitados, em versões melhores.
+
+Ressalte-se, por fim, que é comum que, mesmo tendo direito a licenças de programas mais novos e atualizados, muitas empresas, dado o trabalho para realizar essas atualizações em seus computadores, acabam optando por utilizar versões mais antigas, que ficam, contudo, fora da licença adquirida por essas empresas, o que, embora seja uma irregularidade na forma, não traz o direito à indenização pelos titulares dos direitos autorais desses programas, já que estes estão recebendo o pagamento de versões superiores dos mesmos programas que não estão sendo utilizados, e desde que não se ultrapasse o número de cópias licenciadas, somando-se as cópias utilizadas as versões mais novas ou mais antigas.
+
+Dessarte, procede apenas em parte o pedido inicial, para o fim de determinar a indenização às autoras da utilização ilegal do programa Adobe Creative Suite 4 Des. Premium, já que a ré tinha direito ao uso de apenas uma cópia da versão superior como já apontado, fazendo, assim, uso ilegal da cópia do referido programa, gerando o dever de indenizar as autoras, nos termos do art. 102 da Lei 9.610/98.
+
+Para o cálculo da indenização, não é cabível a aplicação do art. 103, parágrafo único, da Lei 9.610/98, uma vez que conhecido o número de cópias ilegalmente utilizadas pela ré: 1 cópia.
+
+Segundo orientação jurisprudencial do Superior Tribunal de Justiça (REsp. nº 1.136.676 - RS, rel. Min. Nancy Andrighi, j. 17.06.2010), à qual se filia este magistrado, o valor da indenização, no caso, deve corresponder a 10 vezes o valor da licença para uso de uma cópia do programa Adobe Creative Suite 4 Des. Premium, valor esse que terá como base o cobrado no mercado pelas autoras na data da perícia (17/09/2010), atualizado nos termos da Tabela Prática do Tribunal de Justiça de São Paulo desde a publicação desta sentença (súmula 362 do STJ), com juros de mora de 1% ao mês a partir de 17/09/2010, por se tratar de ilícito extracontratual (súmula 54 do Superior Tribunal de Justiça), sendo desnecessária a liquidação por arbitramento, uma vez que as autoras deverão proceder na forma do art. 475-B do Código de Processo Civil, já que dispõem da informação do valor da licença para uso de uma cópia do programa supracitado à época do fato, bastando realizar cálculo aritmético para chegar ao quantum debeatur.
+
+Posto isso, JULGO PARCIALMENTE PROCEDENTES os pedidos formulados na ação de indenização e cautelar, para o fim de condenar a ré a pagar indenização às autoras no valor correspondente a 10 vezes o valor da licença para uso de uma cópia do programa Adobe Creative Suite 4 Des. Premium, na data de 17/09/2010, atualizado nos termos da Tabela Prática do Tribunal de Justiça de São Paulo desde a publicação desta sentença (súmula 362 do Superior Tribunal de Justiça), com juros de mora de 1% ao mês também a partir dde 17/09/2010, por se tratar de ilícito extracontratual (súmula 54 do Superior Tribunal de Justiça), sendo desnecessária a liquidação por arbitramento, uma vez que as autoras deverão proceder na forma do art. 475-B do Código de Processo Civil, já que dispõem da informação sobre o valor da licença para uso de uma cópia do programa supracitado à época do fato, bastando realizar cálculo aritmético para chegar ao quantum debeatur.
+
+Sucumbentes na maior parte do pedido, condeno as autoras a arcarem com as despesas processuais e honorários advocatícios que fixo em R$ 2.000,00, por equidade, nos termos do art. 20, § 4º, do Código de Processo Civil.
+
+P.R.I.
+                 
+São Paulo, 16 de setembro de 2013 (somente nesta data em razão do volume de serviço existente).
+
+
+PAULO ANDRÉ BUENO DE CAMARGO
+                JUIZ DE DIREITO

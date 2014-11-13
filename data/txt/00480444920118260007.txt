@@ -1,0 +1,48 @@
+
+
+SENTENÇA
+
+Processo nº:0048044-49.2011.8.26.0007 - Procedimento Sumário
+
+
+Juiz de Direito: Dr. Carlos Alexandre Böttcher
+
+
+Vistos.
+ROBERTO EDUARDO SANTANA GUEDES ajuizou ação de cobrança, pelo rito ordinário, em face de BV LEASING ARRENDAMENTO MERCANTIL S/A. Alegou o autor, em síntese, que firmou com o réu contrato de arrendamento mercantil, tendo por objeto o veículo descrito na inicial. Entretanto, em razão de inadimplência, a ré obteve reintegração de posse do veículo, fazendo o autor jus à devolução do montante pago, antecipadamente, a título de Valor Residual Garantido (VRG) e de tarifa de abertura de crédito. Requereu a procedência. Com a petição inicial, vieram documentos (fls. 10/23).
+A petição inicial foi emendada para especificação do valor do pedido para R$ 16.222,59 (fls. 30 e 48/50).
+A ré foi citada (fls. 62) e ofertou contestação (fls. 63/76), alegando, em síntese, que o autor firmou o contrato mediante livre e espontânea vontade, inexistindo importância a ser restituída. Requereu a improcedência. Com a contestação, veio documento (fls. 80/82).
+O autor apresentou réplica (fls. 84/94).
+Instadas as partes a especificarem provas (fls. 95), o autor requereu julgamento antecipado (fls. 97), ao passo que a ré não se manifestou (fls. 98). 
+É o relatório.
+Fundamento e Decido.
+Julgo antecipadamente o feito, nos termos do artigo 330, inciso I, do Código de Processo Civil, vez que a matéria tratada nos autos prescinde da realização de outras provas, conforme requerido pelas partes expressa e tacitamente (fls. 97 e 98).
+O pedido é parcialmente procedente.
+O autor pleiteia a condenação da ré na restituição do Valor Residual Garantido (VRG) pago antecipadamente e de Tarifa de Abertura de Crédito (TAC). 
+A ré opôs-se à pretensão. De fato, a ela assiste parcial razão.
+Primeiramente, tem-se que a denominada Tarifa de Abertura de Crédito (TAC) não comporta restituição ao autor, uma vez que a cobrança não pode ser considerada abusiva. Com efeito, o autor teve  opção de pesquisar as tarifas disponíveis no mercado para escolher a empresa arrendadora e celebrou contrato, razão por que referido valor é devido, não se verificando abusividade. 
+No tocante à retenção pela ré da importância paga, antecipadamente, a título de Valor Residual Garantido (VRG) somente seria cabível em caso de opção pela compra do bem. 
+Contudo, houve a rescisão do contrato e reintegração de posse do bem (fls. 33/34), de sorte que se faz mister a restituição de tal valor ao autor. 
+Tal restituição, contudo, não é ilimitada, visto que o VRG antecipado será primeiramente utilizado para pagar o débito remanescente do contrato de arrendamento, sendo apenas eventual valor excedente restituído ao autor.
+O débito remanescente deve englobar somente os valores vencidos entre o inadimplemento e a devolução do bem, no presente caso caracterizado pela reintegração de posse, visto que eventual valor excedente deve ser objeto de cobrança em ação própria, caso persista o interesse da ré.
+Neste sentido:
+
+ARRENDAMENTO MERCANTIL. AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO. VALOR RESIDUAL GARANTIDO COBRADO ANTECIPADAMENTE. RESCISÃO DO CONTRATO. DIREITO DA ARRENDATÁRIA À DEVOLUÇÃO. RECURSO IMPROVIDO. O VRG cobrado antecipadamente permanece em depósito da parte arrendadora, cabendo-lhe efetuar a respectiva restituição à arrendatária, caso não efetivada a compra e venda. Esse crédito, porém, pode ficar sujeito à compensação com os valores eventualmente pendentes, seja a título de prestações em atraso, seja aquele eventualmente resultante de condenação ao pagamento de perdas e danos, ficando aberta à ré a possibilidade de pleitear a tutela do seu direito pela via apropriada. (TJSP, Apelação nº 0215547-10.2011.8.26.0100 ? 31ª Câmara de Direito Privado ?  Rel. Des. Antônio Rigolin ? jul. 09.10.12).
+
+Agravo de Instrumento. Arrendamento Mercantil. Ação de rescisão contratual cumulada com pedido de restituição do VRG. Arrendatário que pretende devolver o veículo porque está com dificuldade de adimplir o contrato de 'leasing'. Admissibilidade. Presença dos requisitos previstos no artigo 273 do CPC. Rescindido o contrato, não se cogitando da opção pela compra pelo arrendatário, são indevidas as parcelas relativas ao valor residual garantido que, então, devem ser restituídas ou compensadas com contraprestações vencidas e não pagas. Recurso parcialmente provido. (TJSP, AI nº 0170233-16.2012.8.26.0000 ? 36ª Câmara de Direito Privado ?  Rel. Des. Pedro Baccarat ? jul. 04.10.12).
+
+ Apelação. Ação revisional de contrato de arrendamento mercantil cumulada com pedido devolução de saldo. Devolução do VRG devida diante do não exercício da opção de compra. Precedentes do STJ. Admissível a compensação com os valores devidos até a efetiva devolução do bem. Exclusão do nome da autora dos cadastros de proteção do crédito determinada. Apelo da ré desprovido e apelo da autora a que se dá provimento. (TJSP, Apelação nº 0018833-96.2011.8.26.0223 ? 29ª Câmara de Direito Privado ? Rel. Des. Pereira Calças ? jul. 03.10.12).
+
+O saldo devedor a ser considerado é aquele composto pelas prestações efetivamente vencidas por ocasião da reintegração de posse em caráter liminar. 
+Hipótese diversa, qual seja, a inclusão das prestações vincendas até o final do contrato em razão do vencimento antecipado implicaria tolher esse direito do arrendatário, mostrando-se tal prática evidentemente abusiva. 
+De fato, o pretendido desconto das prestações vincendas mostra-se inequivocamente iníquo, incompatível com o equilíbrio contratual e com o espírito protecionista do Código de Defesa do Consumidor, o qual prevê como exagerada a vantagem que restringe direitos ou obrigações fundamentais inerentes à natureza do contrato, de tal modo a ameaçar seu objeto ou o equilíbrio contratual (art. 51, § 1º, inciso II).
+Ademais, tem-se que as cláusulas contratuais serão interpretadas de maneira mais favorável ao consumidor, nos termos do artigo 47, da Lei nº 8078/90. Em se tratando de contrato de adesão, suas cláusulas, como um todo, são interpretadas de maneira mais favorável ao consumidor, a parte hipossuficiente, que adere àquelas cláusulas.
+Isso quer significar que não apenas as cláusulas ambíguas dos contratos de adesão se interpretam em favor do aderente, contra o estipulador, mas o contrato de consumo como um todo, seja 'contrato de comum acordo' (contrat de gré à gré), seja de adesão será interpretado de modo mais favorável ao consumidor (A.P. Grinover et alli. Código Brasileiro de Defesa do Consumidor comentado pelos autores do anteprojeto, 5ª ed., São Paulo, Forense Universitária, 1998, p. 380).
+Infere-se, portanto, que o pedido comporta acolhimento parcial.
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE o pedido da presente ação de cobrança, pelo rito ordinário, proposta por ROBERTO EDUARDO SANTANA GUEDES em face de BV LEASING ARRENDAMENTO MERCANTIL S/A, condenando a ré na devolução do Valor Residual Garantido (VRG) pago antecipadamente pelo autor até o limite do valor obtido na venda do bem com dedução do saldo devedor composto apenas das prestações efetivamente vencidas até a data da reintegração de posse, devendo a ré trazer aos autos comprovação da venda do veículo e os respectivos cálculos em fase de cumprimento da sentença.
+Em razão da sucumbência mínima do autor, condeno a ré no pagamento de 80% (oitenta por cento) das custas e despesas processuais despendidas e 80% (oitenta por cento) dos honorários advocatícios, que arbitro em 10% (dez por cento) do valor da condenação, devidamente atualizado.
+P.R.I.
+São Paulo, 26 de fevereiro de 2013.
+
+CARLOS ALEXANDRE BÖTTCHER
+                  Juiz de Direito

@@ -1,0 +1,69 @@
+
+
+SENTENÇA
+
+Processo nº:0036311-07.2011.8.26.0001 - Procedimento Ordinário
+Requerente:Pedro Henrique Cheixas Dias
+Requerido:Almir da Silva Domingos - Epp
+
+
+Juiz(ª) de Direito Dr.(ª): Enéas Costa Garcia
+
+
+Vistos. 
+
+
+
+1. PEDRO HENRIQUE CHEIXAS DIAS, qualificado nos autos, ingressou com ação indenizatória contra ALMIR DA SILVA DOMINGOS - EPP, alegando, em síntese, que: a) levou seu computador para reparo no estabelecimento requerido; b) o técnico apresentou orçamento, sendo cobrado R$ 20,00 para realização de backup dos arquivos e programas, bem como R$ 80,00 para realizar reinstalação do sistema operacional; c) por ocasião da retirada do equipamento constatou que a empresa não havia realizado o backup da máquina e que o HD fora formatado, acarretando  perda de todos os programas e informações arquivados no computador; d) o computador era utilizado para o trabalho do autor, suportando grande prejuízo com a perda das informações arquivadas.  
+Pretende o acolhimento do pedido para condenação da requerida ao pagamento de indenização de dano material e moral.  
+
+2. O réu foi citado e apresentou contestação (fls. 26/31)). Alega em defesa que: a) foi informado que o computador tinha sistema operacional antigo e que poderia haver perda do sistema; b) o usuário deve fazer backup dos seus dados.  
+
+3. Veio aos autos a réplica (fls. 51/56).
+É o relatório. 
+
+DECIDO.
+
+4. O feito comporta julgamento antecipado, sendo dispensável a produção de prova oral, nos termos do art. 330, I do Código de Processo Civil.
+
+5. A ação é PARCIALMENTE PROCEDENTE. 
+A inicial, expressamente, atribui ao réu a seguinte falha na prestação do serviço: formatação do HD sem realização do backup, serviço o qual havia sido pago separadamente. 
+Alega o autor que pagou para realização do backup e que tal serviço não foi realizado.
+O réu, por sua vez, não impugnou qualquer destes fatos, os quais se tornaram incontroversos.
+Não foi observado o ônus da impugnação específica, tal como disposto no art. 302 do Código de Processo Civil. 
+A contestação simplesmente afirma que o usuário deve fazer cópia de seus arquivos e, posteriormente, estende-se em considerações a respeito de como reparar computadores, de quais os defeitos possíveis, etc. 
+Há, inclusive, argumentação a respeito de Direito Penal e sobre tópico de direito do consumidor (orçamento), matérias que não guardam conexão com o tema sub judice. 
+Em nenhum momento o réu impugnou ou se insurgiu contra a alegação do autor de que houve específica contratação do serviço de realização do backup, serviço que não foi realizado. 
+A falta de impugnação específica leva à presunção de veracidade dos fatos alegados. 
+E não basta o réu alegar genericamente que os fatos narrados na inicial talvez não sejam verdadeiros, o que caracterizaria inadmissível contestação por negativa geral. 
+Essa a lição de CALMON DE PASSOS (Comentários ao Código de Processo Civil, v. III, p. 328): A primeira conseqüência a retirar-se do dispositivo é a da impossibilidade da contestação por negação geral. Não só a tradicional contestação por negação geral, mas também a contestação que se limita a dizer não serem verdadeiros os fatos aduzidos pelo autor. Firmar isso e não impugnar são coisas que se equivalerão. (...) Cumpre ao réu dizer não somente que os fatos são inverídicos, mas também como ocorreram ou que outros fatos são verdadeiros. A pura e simples negação pelo réu carece de eficácia para impedir que se estabeleça a presunção de verdade referida no art. 302, caput, retirando-se dele as conseqüências que veremos adiante.
+Portanto, os fatos alegados tornaram-se incontroversos e dispensam a produção de qualquer outra prova.
+E o vício do serviço está bem demonstrado. 
+Inicialmente porque teria sido descumprida a oferta realizada ao consumidor, deixando o réu de realizar o serviço contratado (backup). 
+Em segundo lugar porque o proceder do réu contraria as regras técnicas e o mínimo de consideração dos deveres acessórios de conduta (boa-fé objetiva). 
+O próprio réu, ao narrar os procedimentos para reparo de um computador e formatação do HD, ressalta a necessidade de fazer o backup (fls. 28). 
+É tão básica tal cautela que sua não adoção caracteriza grave falha do prestador do serviço, especialmente quando ele foi contratado para também realizar esta tarefa. 
+Em razão da falha na realização do serviço tem o autor direito à indenização dos danos causados. 
+O autor comprovou documentalmente o valor orçado para tentar recuperar os dados indevidamente perdidos (R$ 4.190,00), verba a ser ressarcida pelo réu. 
+Menciona o requerente a existência de prejuízo em torno de R$ 4.000,00 por conta da perda dos arquivos e prejuízos para o trabalho, contudo, não há qualquer elemento de prova que ampare este arbitramento. 
+É certo que a perda de dados e a necessidade de refazer serviços acarretam perturbação (o que inclusive é objeto do pedido de dano moral), mas não se demonstrou concreta perda material que ensejasse a indenização reclamada. 
+No que concerne ao dano moral, considerando o desgaste a que submetido o autor, obrigado a refazer serviços, bem como a potencial perturbação da sua imagem profissional perante os clientes, entendo que cabível a indenização. 
+Considerando as circunstâncias do caso, consequências do evento, grau de culpa e valor do contrato, fixo a indenização em R$ 4.000,00 (quatro mil reais), o que se aproxima de seis salários. 
+Incide correção monetária desde a sentença (Súmula 362 do STJ). Os juros de mora, à taxa legal, incidem desde a sentença, considerando que nesta data houve liquidação do dano, conforme nova orientação do Superior Tribunal de Justiça (REsp 494183/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/09/2011; REsp 903258/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 21/06/2011).
+
+6. Diante do exposto, JULGO PARCIALMENTE PROCEDENTE o pedido para CONDENAR o requerido ao pagamento:
+a) de indenização de dano material, no montante de R$ R$ 4.190,00, com correção monetária desde a propositura da ação e juros de mora, à taxa legal, desde a citação;
+b) de indenização de dano moral, no montante de R$ 4.000,00 (quatro mil reais), correção monetária e juros de mora, à taxa legal, desde a sentença.
+Tendo em vista a sucumbência recíproca, cada parte arcará com as respectivas custas e despesas processuais, compensando-se os honorários advocatícios.
+
+P. R. I
+
+
+São Paulo, 06 de fevereiro de 2012.
+
+
+
+ ENÉAS COSTA GARCIA
+        JUIZ DE DIREITO
+
+         (assinatura digital)

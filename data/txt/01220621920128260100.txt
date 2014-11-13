@@ -1,0 +1,78 @@
+
+
+SENTENÇA
+
+Processo nº:0122062-19.2012.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Responsabilidade Civil
+Requerente:Allianz Seguros S/A
+Requerido:Schenker do Brasil Transportes Internacionais Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Alexandre Felix da Silva
+
+
+
+Vistos.
+
+
+ALLIANZ SEGUROS S/A. ajuizou a presente ação regressiva de reparação de danos contra SCHENKER DO BRASIL TRANSPORTES INTERNACIONAIS LTDA., sob os seguintes fundamentos fáticos e jurídicos: a relação instalada entre as partes é de consumo; na qualidade de seguradora firmou contrato de seguro com terceira empresa, cujo objeto foram mercadorias (quinze bobinas de cabos transpostos) transportadas pela ré; todos os carretéis sofreram avarias; a carga foi retirada pela ré das dependências da exportadora, na Áustria, com destino às dependências da importadora segurada, no município de Guarulhos/SP; diante da comprovação dos danos causados nas mercadorias, a autora arcou com os prejuízos decorrentes do sinistro sofrido pela segurada, no importe final de R$ 499.215,30; sub-rogou-se nos direitos da segurada; obteve a quantia de R$ 175.000,00 com a venda dos salvados. Requereu a condenação da ré ao pagamento de R$ 324.215,30. 
+
+A inicial veio acompanhada de documentos (fls. 21/93).
+
+Citada, a ré apresentou contestação acompanhada de documentos (fls. 96/159), suscitando preliminares de carência de ação e ilegitimidade ativa, bem como as prejudiciais de prescrição e decadência. Quanto ao mérito, aduziu que: a ré foi contratada para coordenar o transporte das mercadorias desde o porto de Hamburgo, na Alemanha, até o porto de Santos, no Brasil, conforme conhecimento de embarque nº ATVIE400200222 (fls. 38); quando da chegada das mercadorias ao porto de Santos, a empresa Smera, primeira a realizar vistoria, liberou as mercadorias ante a inexistência de avarias, constatando-se apenas danos nas embalagens; não é responsável pelos danos, porque eles decorreram do inadequado acondicionamento das mercadorias no interior do contêiner; o transporte foi contratado na modalidade FCL (Full Container Load), segundo a qual o contêiner é lacrado pelo embarcador/exportador e deslacrado pelo importador; o laudo técnico acostado pela autora demonstra a inadequação do acondicionamento das mercadorias; não há nexo causal entre a conduta da ré e os danos; não se aplica o CDC na relação entre as partes, pois os produtos adquiridos pela segurada configuram-se insumo; à luz do art. 750 do CC, a base de cálculo da reparação é o valor constante do conhecimento.  Requereu a improcedência dos pedidos.
+Houve réplica (fls. 162/179).
+
+A ré juntou documentos traduzidos (fls. 201/247).
+
+Respectiva manifestação da autora (fls. 249/250).
+
+É o relatório. 
+
+Segue a fundamentação.
+
+O feito comporta o julgamento antecipado, nos termos do art. 330 I, do CPC, porquanto a análise das alegações e dos documentos coligidos é suficiente para resolução das questões fáticas. No mais, remanescem matérias de direito, que prescindem de produção probatória.
+
+O Código de Defesa do Consumidor não se aplica ao caso, pois o contrato firmado entre a ré e a segurada ABB ? Asea Brown Boveri Ltda., em cujos direitos a seguradora autora se sub-rogou, envolveu o transporte internacional marítimo e rodoviário de mercadoria, segundo sustentou a autora, ou somente marítimo, como aduziu a ré, com a finalidade de incremento de atividade direcionada ao lucro, não sendo a segurada destinatária final da mercadoria.
+
+Logo, o contrato de transporte não implicou relação de consumo, mas sim relação jurídica situada no âmbito da Lei nº 9.611/1998, que trata do transporte multimodal de cargas, definido como ?aquele que, regido por um único contrato, utiliza duas ou mais modalidades de transporte, desde a origem até o destino, e é executado sob a responsabilidade única de um Operador de Transporte Multimodal?
+(artigo 2º).
+
+Com efeito, o artigo 22 da lei supramencionada dispõe:
+
+?Art. 22. As ações judiciais oriundas do não cumprimento das responsabilidades decorrentes do transporte multimodal deverão ser intentadas no prazo máximo de um ano, contado da data da entrega da mercadoria no ponto de destino ou, caso isso não ocorra, do nonagésimo dia após o prazo previsto para a referida entrega, sob pena de prescrição?.
+
+Regula igualmente a prescrição o art. 8º, do Decreto-lei nº 116/1967, segundo o qual: 
+
+Art. 8º. Prescrevem ao fim de um ano, contado da data do término da descarga do navio transportador, as ações por extravio de carga, bem como as ações por falta de conteúdo, diminuição, perdas e avarias ou danos à carga.
+
+E quando se trata de direito de regresso de seguradora, o prazo é igualmente ânuo, nos moldes em que o C. STF sumulou (Súmula 151 do STF: Prescreve em um ano a ação do segurador sub-rogado para haver indenização por extravio ou perda de carga transportada por navio).
+
+A indenização securitária foi quitada pela autora em 02/12/2010, conforme faz prova o documento de fls. 79 por ela juntado. A ação foi proposta em 05/03/2012, após, portanto, a decorrência do prazo prescricional de um ano previsto na lei.
+
+Nesse sentido é o entendimento do E. TJ/SP:
+
+?SEGURO - Transporte Marítimo ? Ação Regressiva - Prescrição - Reconhecimento, certo que a demora na notificação das rés é imputável exclusivamente ao comportamento omissivo dá autora, que retardou culposamente a realização do protesto, permitindo, com isto, a consumação do prazo prescricional - Inteligência dos artigos 8º do Decreto-lei n°116/67 e 22 da Lei n° 9.611/98 e das Súmulas 151 do Supremo Tribunal Federal e 106 do Superior Tribunal de Justiça - Processo extinto - Recurso provido? (APELAÇÃO CÍVEL n° 7.050.015-3, Vigésima Primeira Câmara de Direito Privado, Rel. Des. Itamar Gaino, j. 6.12.2006).
+
+?Ação regressiva ressarcimento de indenização securitária - contrato de transporte de coisas ? prescrição ânua - aplicação do Código de Defesa do Consumidor afastada - segurada sub-rogada que não se amolda afigura do consumidor? (Apelação com revisão 959072-0- 7, 32ª Câmara de Direito Privado, Rel. Des. DES. ANDRÉ LUÍS BICALHO BUCHIGNANI, j. 4.12.2006).
+
+9086535-61.2009.8.26.0000 ? Apelação - Relator(a): Álvaro Torres Júnior - Órgão julgador: 20ª Câmara de Direito Privado - Data do julgamento: 30/07/2012 - Data de registro: 07/08/2012 - Outros números: 7416261500 - Ementa: PROCESSO CIVIL Ilegitimidade passiva Inocorrência Ação indenizatória regressiva Deterioração de mercadorias objeto de transporte marítimo - Ré identificada como transportadora pela alfândega Ainda que seja apenas agente marítimo, permanece legitimada Precedentes. PRESCRIÇÃO Ação indenizatória de regresso ajuizada pela seguradora para ressarcimento de danos ocorridos na mercadoria segurada - Ocorrência Prazo ânuo Art. 8º do decreto-lei nº 116/67 Prazo quinquenal do CDC Inaplicabilidade Direito sub-rogado pela seguradora que não se originou de relação de consumo Prazo expirado em 15-8-2006, um ano depois do desembarque Ação proposta em 13-6-2007 Prescrição consumada Honorários advocatícios Majoração Desnecessidade - Sentença mantida. Recursos desprovidos. 
+
+ISTO POSTO, reconheço a prescrição e julgo extinto o processo, com resolução do mérito, nos termos do artigo 269, IV, do Código de Processo Civil.  
+
+Condeno a autora, em face da sucumbência, a reembolsar as custas despendidas pela ré, inclusive aquelas comprovadamente despendidas com traduções juramentadas de documentos,  atualizadas desde os respectivos desembolsos, e a pagar aos patronos desta honorários advocatícios que fixo em R$ 16.000,00, nos termos do art. 20 § 4º, do CPC. 
+
+As correções terão por base de cálculo a tabela prática do Tribunal de Justiça do Estado de São Paulo. 
+ 
+P.R.Int.
+
+De Leme para São Paulo, 28 de janeiro de 2013.
+
+
+ALEXANDRE FELIX DA SILVA
+Juiz de Direito Designado
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

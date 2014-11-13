@@ -1,0 +1,103 @@
+
+
+SENTENÇA
+
+Processo Digital nº:4004044-37.2013.8.26.0002
+Classe - AssuntoProcedimento Ordinário - Cédula de Crédito Bancário
+Requerente:Valeria de Oliveira medrado
+Requerido:Banco Itaucard S.A.
+
+
+
+
+Juiz(a) de Direito: Dr(a). Ricardo Dal Pizzol
+
+
+
+Vistos.
+
+
+
+VALERIA DE OLIVEIRA MEDRADO ajuizou "ação revisional de contrato cc pedido de restituição de valores" contra BANCO ITAUCARD S/A. 
+
+Alega a autor (fls. 97/107) que celebrou contrato de financiamento com o requerido, para aquisição do veículo descrito na inicial. Alega, ainda, que o contrato apresenta várias abusividades (capitalização indevida, juros abusivos, etc.). 
+
+Contestação às fls. XX. Alega que o contrato não apresenta as irregularidades alegadas na inicial. 
+
+Foi apresentada réplica. 
+
+É o Relatório.
+
+Passo a Fundamentar. 
+
+I  Possível o julgamento antecipado da lide, pois não há necessidade de produção de outras provas. 
+
+II  Rejeito a preliminar de inépcia da inicial, pois entendo que restou cumprido o artigo mencionado. 
+
+III - Alega a autora que os juros cobrados são abusivos.
+
+Sem razão, nesse ponto.
+
+Primeiramente, deve-se ter em mente que o art. 192, §3º, da CF, foi revogado pela EC 40/2003. Além disso, a jurisprudência é uníssona no sentido de que a norma do art. 192, §3º, da CF, não era auto-aplicável. O STF editou, inclusive, uma súmula vinculante acerca do tema: ?A norma do §3º do artigo 192 da Constituição, revogada pela Emenda Constitucional nº 40/2003, que limitava a taxa de juros reais a 12% ao ano, tinha sua aplicação condicionada à edição de lei complementar (Súmula Vinculante nº 7)?.
+
+A jurisprudência também é pacífica no sentido de que não se aplicam às instituições financeiras os limites da Lei de Usura. Nesse sentido, a Súmula 596 do STF: ?As disposições do Decreto 22.626/33 não se aplicam às taxas de juros e aos encargos cobrados nas operações realizadas por instituições públicas ou privadas que integram o Sistema Financeiro Nacional?. 
+
+Da mesma forma, não se aplicam aos contratos bancários as disposições dos artigos 591 e 406 do Código Civil de 2002. Nesse sentido, a jurisprudência do STJ: REsp 680.237/RS; REsp 1.061.530/RS. 
+
+Segundo a jurisprudência mais recente do STJ, os juros pactuados em contrato bancário só são considerados abusivos quando excedem a taxa média do mercado para o período. Nesse sentido: ?Embora incidente o diploma consumerista nos contratos bancários, os juros pactuados em limite superior a 12% ao ano não são considerados abusivos, exceto quando comprovado que discrepantes em relação à taxa de mercado, após vencida a obrigação? (AgRG nos EDcl no Resp 604.470/RS, Min. Castro Filho). 
+
+No presente caso, a autora sequer chegou a alegar, quanto menos comprovar, que a taxa pactuada no contrato excedia consideravelmente a taxa praticada no mercado nas mesmas circunstâncias (tipo de contrato; prazo para pagamento; grau de solvência do mutuário; praça de pagamento; etc.). 
+
+Além disso, conforme pesquisa efetuada no site do Banco Central do Brasil (http://www.bcb.gov.br/ftp/depec), observa-se que a taxa de juros pactuada (25,13%, conforme fl. 08) é inferior à taxa média de juros para aquisição de veículos por pessoa física, na data da contratação (junho de 2011), que era de 29,81%. 
+
+IV - Alega a autora, ainda, que há capitalização indevida de juros. 
+
+Sem razão, nesse ponto. 
+
+A jurisprudência do STJ é pacífica no sentido de que é possível a capitalização mensal de juros nos contratos bancários celebrados após a edição da MP 1.963-17/2000. Nesse sentido: 
+?Admite-se a capitalização mensal dos juros nos contratos bancários celebrados após à vigência da Medida Provisória nº 1.963-17/2000 (reeditada sob o nº 2.170/36)?. (AgRg no REsp 861699 / RS, Min. Nancy Andrighi)
+?A capitalização mensal dos juros é vedada em contrato de abertura de crédito, permitida a anual, salvo nos contratos posteriores a 31/3/2000, data da publicação da Medida Provisória nº 1.963-17, revigorada pela de nº 2.170-36 (DJ de 24/8/01), vigente nos termos do art. 2º da Emenda Constitucional nº 32/01 (DJ de 12/9/01)?. (Resp 697379/RS, Min. Carlos A. M. Direito)
+O contrato em questão foi celebrado após a edição da MP 1.963-17/2000. Além disso, o contrato prevê expressamente a possibilidade de capitalização de juros com periodicidade inferior a 01 (um) ano.
+É certo, ademais, que a capitalização mensal dos juros pode ser depreendida facilmente a partir do resumo de fl. 08. Considerando que a taxa anual é de 25,13% e que a taxa mensal é de 1,86%, é evidente que os juros são capitalizados mensalmente, afinal se os juros fossem simples a taxa anual seria outra (1,86% x 12 = 22,32%). Ressalto que o STJ, no julgamento do REsp n.º 973827/RS, sob o rito dos recursos repetitivos, estabelecido no artigo 543-C do Código de Processo Civil, decidiu que a previsão no contrato bancário de taxa de juros anual superior a 12 vezes (duodécuplo) a taxa mensal é suficiente para permitir a capitalização com periodicidade inferior a um ano. Confira-se:
+
+CIVIL E PROCESSUAL. RECURSO ESPECIAL REPETITIVO. AÇÕES REVISIONAL E DE BUSCA E APREENSÃO CONVERTIDA EM DEPÓSITO. CONTRATO DE FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. CAPITALIZAÇÃO DE JUROS. JUROS COMPOSTOS. DECRETO 22.626/1933 MEDIDA PROVISÓRIA 2.170-36/2001. COMISSÃO DE PERMANÊNCIA. MORA. CARACTERIZAÇÃO.
+1. A capitalização de juros vedada pelo Decreto 22.626/1933 (Lei de Usura) em intervalo inferior a um ano e permitida pela Medida Provisória 2.170-36/2001, desde que expressamente pactuada, tem por pressuposto a circunstância de os juros devidos e já vencidos serem, periodicamente, incorporados ao valor principal. Os juros não pagos são incorporados ao capital e sobre eles passam a incidir novos juros.
+2. Por outro lado, há os conceitos abstratos, de matemática financeira, de "taxa de juros simples" e "taxa de juros compostos", métodos usados na formação da taxa de juros contratada, prévios ao início do cumprimento do contrato. A mera circunstância de estar pactuada taxa efetiva e taxa nominal de juros não implica capitalização de juros, mas apenas processo de formação da taxa de juros pelo método composto, o que não é proibido pelo Decreto 22.626/1933.
+3. Teses para os efeitos do art. 543-C do CPC:
+- "É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada."
+- "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada".
+4. Segundo o entendimento pacificado na 2ª Seção, a comissão de permanência não pode ser cumulada com quaisquer outros encargos remuneratórios ou moratórios.
+5. É lícita a cobrança dos encargos da mora quando caracterizado o estado de inadimplência, que decorre da falta de demonstração da abusividade das cláusulas contratuais questionadas.
+6. Recurso especial conhecido em parte e, nessa extensão, provido.
+ 
+Diante disso, conclui-se que a capitalização mensal de juros não foi indevida.
+
+V  Quanto à tarifa de cadastro, no valor de R$ 690,00, sem razão a autora. Decidiu o STJ no julgamento do Resp 1255573/RS acerca da tarifa de cadastro: 
+
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. CONTRATO DE FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. COMISSÃO DE PERMANÊNCIA. COMPENSAÇÃO?REPETIÇÃO SIMPLES DO INDÉBITO. RECURSOS REPETITIVOS. TARIFAS BANCÁRIAS. TAC E TEC. EXPRESSA PREVISÃO CONTRATUAL. COBRANÇA. LEGITIMIDADE. PRECEDENTES. FINANCIAMENTO DO IOF. POSSIBILIDADE. 
+[...]
+5. Com o início da vigência da Resolução CMN 3.518?2007, em 30.4.2008, a cobrança por serviços bancários prioritários para pessoas físicas ficou limitada às hipóteses taxativamente previstas em norma padronizadora expedida pelo Banco Central do Brasil. 
+6. A Tarifa de Abertura de Crédito (TAC) e a Tarifa de Emissão de Carnê (TEC) não foram previstas na Tabela anexa à Circular BACEN 3.371?2007 e atos normativos que a sucederam, de forma que não mais é válida sua pactuação em contratos posteriores a 30.4.2008. 
+7. A cobrança de tais tarifas (TAC e TEC) é permitida, portanto, se baseada em contratos celebrados até 30.4.2008, ressalvado abuso devidamente comprovado caso a caso, por meio da invocação de parâmetros objetivos de mercado e circunstâncias do caso concreto, não bastando a mera remissão a conceitos jurídicos abstratos ou à convicção subjetiva do magistrado. 
+8. Permanece legítima a estipulação da Tarifa de Cadastro, a qual remunera o serviço de "realização de pesquisa em serviços de proteção ao crédito, base de dados e informações cadastrais, e tratamento de dados e informações necessários ao inicio de relacionamento decorrente da abertura de conta de depósito à vista ou de poupança ou contratação de operação de crédito ou de arrendamento mercantil, não podendo ser cobrada cumulativamente" (Tabela anexa à vigente Resolução CMN 3.919?2010, com a redação dada pela Resolução 4.021?2011). 
+9. É lícito aos contratantes convencionar o pagamento do Imposto sobre Operações Financeiras e de Crédito (IOF) por meio financiamento acessório ao mútuo principal, sujeitando-o aos mesmos encargos contratuais. 
+10. Teses para os efeitos do art. 543-C do CPC: 
+- 1ª Tese: Nos contratos bancários celebrados até 30.4.2008 (fim da vigência da Resolução CMN 2.303?96) era válida a pactuação das tarifas de abertura de crédito (TAC) e de emissão de carnê (TEC), ou outra denominação para o mesmo fato gerador, ressalvado o exame de abusividade em cada caso concreto. 
+- 2ª Tese: Com a vigência da Resolução CMN 3.518?2007, em 30.4.2008, a cobrança por serviços bancários prioritários para pessoas físicas ficou limitada às hipóteses taxativamente previstas em norma padronizadora expedida pela autoridade monetária. Desde então, não mais tem respaldo legal a contratação da Tarifa de Emissão de Carnê (TEC) e da Tarifa de Abertura de Crédito (TAC), ou outra denominação para o mesmo fato gerador. Permanece válida a Tarifa de Cadastro expressamente tipificada em ato normativo padronizador da autoridade monetária, a qual somente pode ser cobrada no início do relacionamento entre o consumidor e a instituição financeira. 
+- 3ª Tese: Podem as partes convencionar o pagamento do Imposto sobre Operações Financeiras e de Crédito (IOF) por meio de financiamento acessório ao mútuo principal, sujeitando-o aos mesmos encargos contratuais. 
+11 . Recurso especial conhecido e parcialmente provido.
+(STJ, REsp 1255573 / RS)
+
+VI - Quanto ao seguro contratado, nenhuma ilegalidade existe, na medida em que foi expressamente pactuado, além de se destinar à proteção do próprio autor. Nesse sentido: TJSP, 0920948-55.2012.8.26.0506, Rel. Jovino de Sylos.
+VII - No que diz respeito ao tributo (IOF), não há qualquer ilegalidade na cobrança de tal valor do consumidor, até mesmo porque se trata de cobrança compulsória, determinada por lei, decorrente da opção do consumidor de adquirir o bem mediante operação de crédito (Nesse sentido: TJSP, 89684420118260451; TJSP, 196573120118260037).
+VIII - Quanto às tarifas cobradas a título de "registro do contrato" (R$ 55,66) e "avaliação do bem" (R$ 209,00), com razão a autora, na medida em que são custos inerentes à atividade do fornecedor. Nesse sentido: TJSP, Apel. Nº 0012660-57.2012.8.26.0664, Rel. Melo Colombi; TJSP, 0127973-12.2012.8.26.0100, Jovino de Sylos; TJSP, Ap. 0005422-50.2011.8.26.0428,  Rubens Cury.
+IX  O pedido de indenização por dano moral deve ser rejeitado. 
+Não houve qualquer ofensa à dignidade pessoal da autora, pressuposto da reparação por dano moral. 
+A única ilegalidade apurada diz respeito ao item VIII acima, não sendo fundamento suficiente para condenação por dano moral. 
+DECIDO. 
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a ação, para CONDENAR a requerida a restituir ao autor a quantia de R$ 264,66 (duzentos e sessenta e quatro reais e sessenta e seis centavos), com acréscimo de correção monetária, conforme a Tabela Prática do TJSP, a partir do ajuizamento da demanda, e de juros de mora de 1% ao mês, a partir da citação.
+Sem condenação em custas, despesas ou honorários advocatícios, em face da sucumbência recíproca. 
+Para interposição de eventual recurso, o valor deverá corresponder a 2% (dois por cento) sobre o valor da condenação, se houver, ou do valor da causa atualizado. Transitada em julgado, certifique-se. Nada requerido, arquivem-se.
+PRIC
+São Paulo, 15 de abril de 2014.
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

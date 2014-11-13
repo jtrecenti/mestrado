@@ -1,0 +1,83 @@
+
+
+SENTENÇA
+
+Processo nº:0172244-09.2012.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Material
+Requerente:Antonio Fernandes e outro
+Requerido:Caph Incorporadora Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Ricardo Dal Pizzol
+
+
+
+
+Vistos, 
+
+
+ANTONIO FERNANDES e RACHEL ROCHA FERNANDES ajuizaram ?ação ordinária de reparação por danos materiais, pelo procedimento ordinário? contra CAPH INCORPORADORA LTDA.
+
+Alegam que: ( i ) celebraram com a requerida contrato de compromisso de venda e compra referente à unidade autônoma 91 do Edifício Olimpíadas, integrante do Condomínio Momento Vila Olímpia, com valor de R$ 695.986,14; ( ii ) a conclusão das obras deveria se dar em 14 de dezembro de 2.010; ( iii ) o prazo de tolerância de 180 dias para entrega da obra esgotou-se em 14 de junho de 2.011; ( iv ) o Habite-se foi expedido somente em 28 de fevereiro de 2.012;  ( v ) entre a data prevista para entrega, já com a tolerância de 180 dias, e o habite-se, transcorreram 259 dias; ( vi ) sofreram dano material pelo atraso injustificado na conclusão das obras. Requerem a condenação da ré a reparar os lucros cessantes pelo atraso na conclusão da obra, na base de 0,1% sobre o preço de venda atualizado pelo INCC/FGV por dia de atraso, em simetria à cláusula 10.8-J que esse patamar para o caso de inadimplemento do comprador. 
+
+Contestação às fls. 56/66. Alega a requerida: ( i ) ausência de culpa no atraso da entrega do imóvel, já que este decorreu de fatos supervenientes, a saber, redução da mão-de-obra disponível no mercado e fortes períodos de chuva; ( ii ) impossibilidade de aplicação da multa por analogia; ( iii ) eventuais perdas e danos devem ser efetivamente apurados e provados; ( iv ) não há prova nos autos dos supostos prejuízos; ( v ) que a aplicação do índice de 0,1% por dia de atraso implicaria em enriquecimento ilícito, devendo ser aplicado, em caso de condenação, o índice de 0,8% por mês.
+
+Réplica às fls. 82/88.
+
+É o Relatório.
+
+Passo a Fundamentar. 
+
+I - Possível o julgamento antecipado da lide, pois não há necessidade de produção de outras provas. Ressalto que ambas as partes requereram expressamente o julgamento antecipado da lide às fls. 93 e 95. 
+
+II ? A ação deve ser julgada parcialmente procedente.
+
+Primeiramente, deve-se considerar que restou incontroverso o atraso na entrega do imóvel.
+
+O prazo de entrega contratado era de 36 (trinta e seis) meses, contados do registro da incorporação (cláusula 9.1  fl. 25), que ocorreu em 14/12/2007, conforme cláusual 5.6, item "b" (fl. 18). Assim, o prazo esgotou-se, a princípio, em 14/12/2010.
+
+Aplicando, porém, o prazo de tolerância de 180 (cento e oitenta) dias, previsto no contrato, chega-se ao prazo de 14 de junho de 2011. Assim, deve-se entender que a mora da requerida iniciou-se em 15/06/2011, sendo que o "habite-se" foi expedido apenas em 28 de fevereiro de 2012 (fl. 38). Importante considerar, nesse ponto, o disposto na cláusula 9.3 do contrato:?Para os efeitos deste contrato, será considerada terminada cada unidade autônoma, quando da expedição do Auto de Conclusão da Obra (Habite-se)?.
+
+Logo, o atraso perdurou entre 15/06/2011 e 28/02/2012 (parâmetros estes que, diga-se de passagem, foram expressamente referidos na inicial e não impugnados pela requerida). 
+
+Não merece acolhida a tese da requerida de que o atraso na entrega da unidade seria decorrente de fatos supervenientes alheios a sua vontade (fls. 58/59). 
+
+Já decidiu o Eg. TJSP que a alegação de escassez de materiais e de mão-de-obra, em virtude do suposto boom imobiliário ocorrido nos últimos anos, não serve como justificativa para o descumprimento do prazo estabelecido no contrato, sobretudo quando não comprovada, como no caso, a efetiva falta de tais elementos de produção (materiais e mão-de-obra) em relação especificamente ao empreendimento em análise (Nesse sentido: TJSP, Ap. 0027434-02.2010.8.26.0361, Rel. Vito Guglielmi; TJSP, Ap. 0214281- 85.2011.8.26.0100, Vito Guglielmi).
+
+Da mesma forma, a suposta ocorrência de fortes chuvas durante o período da construção do prédio também não afasta a responsabilidade da requerida, por não haver qualquer prova de que: (i) tais chuvas tiveram um impacto concreto sobre o cronograma da obra; (ii) tais chuvas excederam o padrão médio dos anos anteriores. 
+
+Ademais, tais eventualidades (falta de materiais e de mão de obra; eventos climáticos com impacto na obra) configuram típico fortuito interno, visto que fazem parte da atividade desenvolvida pelo empreendedor, integrando o risco próprio da atividade de construção civil, não afastando, portanto, a responsabilidade pelos danos decorrentes. Nesse sentido, ensina SÉRGIO CAVALIERI FILHO: 
+
+O fortuito interno assim entendido o fato imprevisível e, por isso, inevitável ocorrido no momento da fabricação do produto ou da realização do serviço, não exclui a responsabilidade do fornecedor porque faz parte da sua atividade, liga-se aos riscos do empreendimento, submetendo-se à noção geral de defeito de concepção do produto ou de formulação do serviço. Vale dizer, se o defeito ocorreu antes da introdução do produto no mercado de consumo ou durante a prestação do serviço, não importa saber o motivo que determinou o defeito; o fornecedor é sempre responsável pelas suas consequências, ainda que decorrente de fato imprevisível (Programa de Responsabilidade Civil. 10ª ed., São Paulo, Atlas, 2012, p. 475).
+
+
+Contudo, não é caso de aplicar "por simetria", como pretendem os autores, a cláusula 10.8, alínea "j", do contrato (fl. 27), para fins de fixação da indenização.
+
+Isso porque tal multa contratual foi estabelecida expressamente apenas em favor da empresa vendedora. Embora se possa questionar a equidade de tal previsão unilateral, é certo que o juiz, no controle judicial dos contratos de consumo, deve atuar de maneira negativa, declarando a nulidade das cláusulas que contrariem o CDC e demais normas cogentes, sem poder, contudo, criar cláusulas que repute justas (Nesse sentido: TJSP, Ap. 374885820108260577). 
+
+Assim, é vedado estender aos autores uma multa contratual que foi criada apenas em favor da requerida.
+
+Isso não quer dizer, contudo, que o dano dos autores não deve ser reparado. As perdas e danos podem ser legais ou convencionais. Ainda que não previstas no contrato, derivam diretamente da lei, nos termos dos artigos 389 e seguintes do Código Civil. 
+
+Se o apartamento tivesse sido entregue na data aprazada, os autores poderiam utilizá-lo para sua habitação ou mesmo disponibilizá-lo para locação por terceiros. Assim, (i) ou os autores foram obrigados a pagar aluguel para residir em outro local (ii) ou foram privados do direito de locar o imóvel para terceiros. Evidente, portanto, o dano dos autores, que corresponde, economicamente, ao somatório do valor locativo do imóvel no período correspondente ao atraso. 
+
+Pelas razões já expostas acima, deve-se entender que o atraso perdurou entre 15/06/2011 e 28/02/2012,  ou seja, por 08 (oito) meses e 13 (treze) dias. 
+
+O preço de venda do apartamento foi de R$ 695.986,14 (fl. 14) em março de 2008. Corrigindo tal valor pela Tabela Prática do TJSP até o início do inadimplemento (junho de 2011) tem-se R$ 840.170,77 (R$ 695.986,14 / 37,869080 x 45,714264). Considerando que o valor locativo do imóvel corresponde a aproximadamente 0,8% de seu valor de mercado (Nesse sentido: TJSP, 9247323-83.2008.8.26.0000; TJSP 0048231-30.2001.8.26.0000), chega-se ao valor do aluguel mensal de R$ 6.721,36, que deve ser aplicado pelo período do inadimplemento (entre 15/06/2011 e 28/02/2012,  ou seja, 08 (oito) meses e 13 [treze] dias), com correção monetária, conforme a Tabela Prática do TJSP, e juros de mora de 1% ao mês, a contar do vencimento de cada parcela até o efetivo pagamento.
+
+Ressalto que tal parâmetro (0,8% ao mês sobre o valor do imóvel) foi sugerido pelo próprio requerido (fl. 65), de forma que este não pode alegar qualquer excesso. 
+
+DECIDO.
+
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a ação, para CONDENAR a requerida ao pagamento da quantia de R$ 6.721,36 (seis mil, setecentos e vinte e um reais e trinta e seis centavos), por mês, no período entre 15/06/2011 e 28/02/2012 (08 meses e 13 dias), com correção monetária, conforme a Tabela Prática do TJSP, e juros de mora de 1% ao mês, a contar do vencimento de cada parcela até o efetivo pagamento.
+
+Sem condenação em custas, despesas e honorários advocatícios, em face da sucumbência recíproca. 
+
+P.R.I.C.
+São Paulo, 11 de março de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

@@ -1,0 +1,49 @@
+
+
+SENTENÇA
+
+Processo nº:007.09.225046-3
+Classe  Assunto:Procedimento do Juizado Especial Cível - Assunto Principal do Processo >
+Requerente:Maria de Lourdes Camargo
+Requerido:Itaucard
+
+
+
+
+Juiz(a) de Direito: Dr(a). Maria Gabriela Riscali Tojeira Gaucher
+
+
+V I S T O S.
+
+Dispensado o relatório, nos termos do artigo 38, da Lei 9099/95, fundamento e decido.
+Inexistindo questões preliminares a serem apreciadas, tampouco nulidades a serem reconhecidas, passo, desde já, a analisar o mérito da demanda.
+Alega a autora que no dia 13 de maio de 2009 teve furtado seu cartão de crédito Mastercard de n. 5274.9602.2374.1490, tendo efetuado, na ocasião, a imediata comunicação à requerida, inclusive com o envio de cópia do boletim de ocorrência alusivo aos fatos. Salienta que, apesar de ter adotado as providências necessárias, recebeu, na fatura do mês de agosto de 2009, a cobrança das despesas efetuadas por terceiros com seu cartão. Inconformada, pleiteia a declaração de inexigibilidade dos valores não reconhecidos em sua fatura, que no mês de agosto totalizavam a importância de R$ 386,52 (trezentos e oitenta e seis reais e cinqüenta e dois centavos).
+A requerida, em sua contestação, insurge-se contra o pedido deduzido sustentando que as compras impugnadas foram efetuadas com cartão com CHIP, que requer, necessariamente, a utilização de senha pessoal. Salienta que, em razão disso, apenas a autora, ou alguém que estivesse de posse do cartão, poderia ter contraído as despesas.
+Malgrado os argumentos expendidos pela requerida, razão assiste à autora em sua pretensão inaugural.
+Com efeito, o contrato firmado entre as partes evidencia típica relação jurídica de consumo, incidindo, na hipótese, as regras e princípios ditados pelo Código de Defesa do Consumidor.
+Conforme preceitua o art. 14, "caput", do referido Código (Lei n° 8.078, de 11.9.1990), o fornecedor de serviços responde, independentemente da existência de culpa, isto é, de forma objetiva, pela reparação dos danos causados aos consumidores por defeitos relativos aos serviços prestados, assim como por informações insuficientes ou inadequadas sobre sua fruição e riscos.
+Assim, pode, o fornecedor, eximir-se de sua responsabilidade, nos termos do artigo 14, parágrafo 3º, do referido estatuto, caso comprove que: a) tendo prestado o serviço, o defeito inexiste; b) a culpa é exclusiva do consumidor ou de terceiro. No caso dos autos, nenhuma das hipóteses de exclusão de responsabilidade restou verificada. Não logrou, a requerida, comprovar as alegações feitas em sua contestação, de que o sistema operacional de leitura do cartão magnético disponibilizado à autora era imune à clonagem, e de que os dados criptografados e armazenados no "chip" não poderiam ser lidos por intermédio de equipamentos externos.
+E ainda que assim não fosse, seria inviável aceitar a tese de que tal sistema de segurança do cartão de crédito não seja vulnerável a fraudes, como pretende fazer crer a requerida.
+                                   Como ressabido, o uso dos cartões magnéticos e de crédito constitui método criado pela instituição financeira não por razões altruístas, mas visando à equiparação competitiva e à agilização de seus procedimentos operacionais. Sabe-se, além disso, que a responsabilidade de todo o sistema dirigido à operacionalização do procedimento cabe ao banco, sendo certo que o consumidor não detém qualquer modo de participação ou monitoramento em relação a esse sistema. 
+                               A própria "Febraban" ("Federação Brasileira de Bancos"), em seu site (www.febraban.com.br/Arquivo/Serviços/Segurança) já abordou o tema referente aos golpes perpetrados contra correntistas e instituições financeiras, conforme trecho que segue: 
+
+                                    "(...) a complexidade e alcance das fraudes parecem, infelizmente, acompanhar a especialização tecnológica do sistema bancário. O Brasil, expoente mundial na área de tecnologia da informação (TI) aplicada à área financeira, também sofre com a ação de indivíduos que utilizam os novos canais de comunicação entre os bancos e seus clientes para cometerem crimes antes praticados no interior das próprias agências". 
+
+                           A questão atinente à clonagem dos modernos cartões magnéticos munidos com "chip" de segurança já foi, inclusive, objeto de notícia veiculada em 30.6.2007, no site http://g1. globo.com/Noticias/SãoPaulo, conforme ressaltado pelo Exmo Des. José Marcos Marrone nos autos da APEL.N. 990.09.366929-3 - São Paulo.
+ A propósito, também já decidiu o E. Tribunal de Justiça de São Paulo:
+
+(...) É justamente baseado na inviolabilidade e segurança do cartão magnético dotado de 'chip' que o apelante indica a autora como responsável pela contratação dos crediários. Como é notório, inclusive a imprensa tem deixado claro a toda população, não existe a alegada segurança que o Banco Itaú ressalta sobre o cartão magnético dotado de 'chip'. Tanto é assim que o documento de fls. (...), extraído da Internet, aponta a notícia de uma quadrilha brasileira que conseguiu burlar a segurança dos 'chips' dos cartões bancários e de crédito. Isso chegou a mover um agente do serviço secreto americano para este país. Em suma, a inviolabilidade do tal cartão magnético dotado de 'chip' não foi obstáculo para a malandragem brasileira. Aliás, é impossível não se reconhecer que os bancos têm investido muito na tentativa de tornar invioláveis esses sistemas de informática, mas, ao que parece, a indústria da 'bandidagem' é mais rápida, estando sempre à frente das tecnologias criadas para o bem. Essa questão coloca em destaque a responsabilidade objetiva do banco perante o correntista e, não bastasse isso, não se pode olvidar que se trata de relação de consumo, conseqüentemente, a inversão do ônus da prova é inafastável"(Ap n° 7.187.895-0, de São Paulo, 21ª Câmara de Direito Privado, v.u., Rei. Des. SOUZA LOPES). 
+20.2.2008).
+
+                                   Logo, imperioso reconhecer-se que o sistema de segurança do cartão de crédito, mesmo que munido com "chip", é suscetível de falhas, que, se ocorrerem, podem dar ensejo a sérios prejuízos para o consumidor, tal como aconteceu no caso em tela.
+E inexistindo, nos autos, provas seguras de que não houve qualquer falha no serviço prestado pela requerida, conforme as regras de inversão do ônus da prova previstas no Código de Defesa do Consumidor, de rigor a procedência da presente ação, com a declaração de inexigibilidade das despesas contraídas através do cartão 5274.9602.2374.1490 junto aos estabelecimentos Quixelo Modas, World Tennis e Central Surf, todas realizadas no dia 13/05/2009, totalizando a importância de R$ 1719,86 (mil setecentos e dezenove reais e oitenta e seis centavos).
+Ressalte-se, a propósito, que a própria requerida, em sua contestação, declarou ter efetuado o estorno inicial de tais despesas, após ter recebido a comunicação do furto do cartão, não havendo, portanto, qualquer dúvida de que são estas as despesas impugnadas pela autora na presente ação.
+                                 Ante o exposto, JULGO PROCEDENTE a pretensão inaugural para declarar inexigíveis as despesas não reconhecidas pela autora junto aos estabelecimentos acima mencionados (Quixelo Modas, em 13/05/2009, no valor de R$ 691,00 em três parcelas de R$ 230,33; World Tennis, em 13/05/2009, no valor de R$ 799,96, em 10 parcelas de R$ 80,05; Central Surf, em 13/05/2009, no valor de R$ 228,90, em três parcelas de R$ 76,30) contraídas através do cartão de n. 5274.9602.2374.1490, totalizando a importância de R$ 1719,86 (mil setecentos e dezenove reais e oitenta e seis centavos).
+    Sem condenação do vencido em custas processuais e honorários advocatícios, a teor do que dispõe o artigo 55, caput, da Lei 9099/95.
+          Após o trânsito em julgado, ao arquivo.
+          P.R.I.C.
+
+
+
+
+São Paulo, 01 de outubro de 2010.

@@ -1,0 +1,83 @@
+
+
+SENTENÇA
+
+Processo nº:0053518-19.2011.8.26.0001 - Procedimento Ordinário
+Requerente:Damião dos Santos
+Requerido:Banco do Brasil S.A.
+
+
+
+Juiz(ª) de Direito Dr.(ª): Enéas Costa Garcia
+
+
+Vistos. 
+
+
+1. DAMIÃO DOS SANTOS, qualificado nos autos, ingressou com ação contra BANCO DO BRASIL, alegando, em síntese, que foi surpreendido pela notícia de inclusão do seu nome nos bancos de dados de inadimplentes, em razão de contratos celebrados junto ao requerido e cheques devolvidos de conta mantida junto ao réu, negócios que jamais celebrou com o banco.  
+Pretende o acolhimento do pedido para declaração de inexistência dos débitos e da conta corrente, com cancelamento da restrição de crédito e condenação do réu ao pagamento de indenização de dano moral. 
+
+2. Foi deferida tutela antecipada para suspensão das restrições de crédito (fls. 24).
+
+3. O réu foi citado e apresentou contestação (fls. 32/42). Alega em defesa que: a) não houve culpa na sua conduta, havendo fraude praticada por terceiro; b) o fato de terceiro exclui a responsabilidade civil; c) não há dano moral a ser indenizado, impugnando o valor reclamado.  
+É o relatório. 
+
+DECIDO.
+
+4. O feito comporta julgamento antecipado, sendo dispensável a produção de prova oral, nos termos do art. 330, I do Código de Processo Civil.
+Ademais, houve requerimento expresso de julgamento antecipado (fls. 51/52).
+
+5. A ação é PROCEDENTE. 
+O defeito na prestação do serviço ficou bem caracterizado, não tendo o réu demonstrado a celebração adequada do contrato. 
+A contestação sequer apresentou os documentos elaborados por ocasião da abertura da conta ou da celebração dos contratos que geraram a restrição de crédito. 
+Era ônus do réu comprovar a regularidade da contratação, o que não ocorreu. 
+O próprio requerido reconheceu a existência de fraude e invocou a excludente de fato de terceiro. Sem razão, contudo. 
+Não se considera causa excludente de responsabilidade, pelo menos nas hipóteses de responsabilidade objetiva, o denominado fortuito internofortuito interno, consistente naquele evento ligado à própria pessoa do demandado, à máquina ou à sua atividade. 
+Conforme ATILIO ANÍBAL ALTERINI (Temas de responsabilidad civil, p. 76): O fato deve ser, ademais, estranho ao devedor, vale dizer, há de produzir-se 'no exterior da esfera de ação pela qual o devedor deve responder (Carbonnier). Las V Jornadas Sanrafaelinas de Derecho Civil (San Rafael, Mendoza, 1978) declararam nesse sentido que 'nos casos de responsabilidade objetiva [...] o caso fortuito deve ser estranho à coisa ou à atividade.
+Esta distinção, ainda que com terminologia ligeiramente diferente, foi exposta por AGOSTINHO ALVIM (Da inexecução das obrigações e suas conseqüências, nº 208, p. 330): A distinção que modernamente a doutrina vem estabelecendo, aquela que tem efeitos práticos e que já vai se introduzindo em algumas leis, é a que vê no caso fortuito um impedimento relacionado com a pessoa do devedor ou com a sua empresa, enquanto que a força maior é um acontecimento externo. Tal distinção permite estabelecer uma diversidade de tratamentos para o devedor, consoante o fundamento da sua responsabilidade. Se a sua responsabilidade fundar-se no risco, então o simples caso fortuito não o exonerará. Será mister haja força maior ou, como alguns dizem, caso fortuito externo. 
+Malgrado a divergência surgida na doutrina ? especialmente francesa ? a respeito da necessidade de que a causa de exclusão da responsabilidade seja exterior ao demandado, parece bem adequada a síntese exposta por VINEY & JOURDAIN (Traité de droit civil. Les conditions de la responsabilité, nº 385, p. 219.): Ela [a condição de exterioridade] é, a nosso ver, inerente a toda , qualquer que seja o regime de responsabilidade aplicável, porque ela significa simplesmente que o demandado não pode invocar, para isentar-se da sua responsabilidade nem um fato que ele mesmo teria provocado ou dado origem, nem um fato em relação ao qual uma regra jurídica qualquer lhe impõe precisamente de garantir as conseqüências danosas perante os terceiros. A condição de exterioridade se impõe, portanto, em todos os casos de responsabilidade porque o demandado não pode se beneficiar de uma causa que lhe seria imputável.
+A ocorrência de fraudes por terceiros é risco inerente à atividade bancária, não constituindo a excludente de responsabilidade prevista no Código de Defesa do Consumidor.
+Nesse sentido a orientação consolidada do Superior Tribunal de Justiça em recurso com incidente de Recurso Repetitivo:
+
+?RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. JULGAMENTO PELA SISTEMÁTICA DO ART. 543-C DO CPC. RESPONSABILIDADE CIVIL.
+INSTITUIÇÕES BANCÁRIAS. DANOS CAUSADOS POR FRAUDES E DELITOS PRATICADOS POR TERCEIROS. RESPONSABILIDADE OBJETIVA. FORTUITO INTERNO. RISCO DO EMPREENDIMENTO.
+1. Para efeitos do art. 543-C do CPC: As instituições bancárias respondem objetivamente pelos danos causados por fraudes ou delitos praticados por terceiros - como, por exemplo, abertura de conta-corrente ou recebimento de empréstimos mediante fraude ou utilização de documentos falsos -, porquanto tal responsabilidade decorre do risco do empreendimento, caracterizando-se como fortuito interno.
+2. Recurso especial provido.?
+(STJ - REsp 1199782/PR, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 24/08/2011, DJe 12/09/2011)
+ 
+No mesmo sentido:
+
+?AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INSCRIÇÃO EM CADASTRO DE PROTEÇÃO AO CRÉDITO. ABERTURA DE CONTA-CORRENTE. DOCUMENTOS FALSIFICADOS. DANOS MORAIS. DEVER DE INDENIZAR. QUANTUM INDENIZATÓRIO. RAZOABILIDADE. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. RECURSO NÃO PROVIDO.
+1. Consolidou-se no STJ, em julgamento submetido ao rito do art. 543-C do CPC - recursos repetitivos, o entendimento no sentido de ser cabível a condenação de instituição financeira ao pagamento de indenização por dano moral decorrente de inscrição indevida do nome de particular em cadastro restritivo de crédito em virtude de débito em conta corrente aberta por terceiro utilizando-se de documentos falsos, uma vez que o serviço bancário mostrou-se evidentemente defeituoso, caracterizando-se o fato do serviço (REsp 1.199.782/PR e REsp 1.197.929/PR).
+2. A fixação do valor indenizatório em R$5.500,00 operou-se com moderação, na medida em que não concorreu para a geração de enriquecimento indevido do recorrido e, da mesma forma, manteve a proporcionalidade da gravidade da ofensa ao grau de culpa e ao porte sócio-econômico do causador do dano, não divergindo dos parâmetros adotados pelo STJ.
+3. Agravo regimental não provido, com aplicação de multa.?
+(STJ - AgRg no AREsp 111.657/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/03/2012, DJe 19/03/2012)
+
+Assim, responde o réu pela contratação fraudulenta e pela indevida negativação de crédito suportada pelo autor. 
+A indevida restrição de crédito, por si só, caracteriza dano moral, independentemente de outras consequências. 
+Desnecessária a produção de prova da existência do dano. Ampliado, porém o conceito de abalo de crédito, para compreender também as suas projeções na esfera subjetiva dos direitos da personalidade do indivíduo, já então, e contrariamente ao decidido por alguma jurisprudência, a existência do dano moral não reclama rigorosa demonstração probatória. (YUSSEF SAID CAHALI, Dano moral, p. 361).
+Como salientou o Ministro Castro Filho: Cabe ainda ressaltar que, em casos que tais, faz-se desnecessária a prova do prejuízo, que é presumido, uma vez que o dano moral decorre da própria inclusão indevida do nome do autor no cadastro de inadimplentes. (STJ ? AgRg no Ag. nº 470538/SC  - Rel. Min. Castro Filho ? j. 6/11/03).
+No mesmo sentido: Resp. nº 389.879/MG - Rel. Min. Sálvio de Figueiredo Teixeira; Resp. nº 332.622/RJ - Rel. Min. César Asfor Rocha; Resp. nº 285.854/PB - Rel. Min. Carlos Alberto Menezes Direito; Resp. nº 51.158/ES - Rel. Min. Ruy Rosado de Aguiar.
+Considerando as circunstâncias do caso, o grau de culpa, as consequências do evento e a intensidade da lesão, fixo a indenização em R$ 6.000,00 (seis mil reais), o que se aproxima de dez salários. 
+Incide correção monetária desde a sentença (Súmula 362 do STJ) e juros de mora, à taxa legal, desde a data da primeira negativação (Súmula 54 do STJ).
+A fixação da indenização de dano moral em valor inferior ao reclamado não caracteriza sucumbência, nos termos da Súmula nº 326 do Superior Tribunal de Justiça: Na ação de indenização por dano moral, a condenação em montante inferior ao postulado na inicial não implica sucumbência recíproca.
+
+
+6. Diante do exposto, JULGO PROCEDENTE o pedido para: 
+a) declarar a nulidade da abertura de conta corrente em nome do autor e dos contratos indicados na inicial;
+b) declarar a inexistência de débito em relação aos referidos contratos e inexigibilidade dos cheques mencionados;
+c) determinar o cancelamento das restrições de crédito promovidas pelo réu, tornando definitiva a tutela antecipada;
+d) condenar o requerido ao pagamento de indenização de dano moral, no montante de R$ 6.000,00 (seis mil reais), com correção monetária desde a sentença (Súmula 362 do STJ) e juros de mora, à taxa legal, desde a data da primeira negativação (Súmula 54 do STJ).
+Condeno o requerido ao pagamento de custas, despesas processuais e honorários advocatícios, que arbitro em 10% do valor da condenação.  
+
+P. R. I
+
+
+   São Paulo, 20 de abril de 2012.
+
+
+
+ ENÉAS COSTA GARCIA
+        JUIZ DE DIREITO
+
+         (assinatura digital)

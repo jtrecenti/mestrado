@@ -1,0 +1,82 @@
+
+
+SENTENÇA
+
+Processo nº:0106643-56.2012.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Telefonia
+Requerente:Disbrasa Distribuidora Brasileira de Veículos Ltda
+Requerido:Telecomunicações de São Paulo - Telefônica
+
+
+
+
+Juiz(a) de Direito: Dr(a). Rodrigo Faccio da Silveira
+
+1. Sob o procedimento ordinário, a sociedade demandante DISBRASA DISTRIBUIDORA BRASILEIRA DE VEÍCULOS LTDA deduz o pedido de condenação da demandada TELECOMUNICAÇÕES DE SÃO PAULO S.A. à obrigação de pagar a indenização a título de danos materiais e morais, sob a alegação de que a interrupção, durante quatro dias, dos serviços de telefonia e ?internet?, contratados junto à sociedade demandada, lhe causou um prejuízo financeiro e abalou sua reputação perante o mercado consumidor. Juntou documentos (fls.19-143). 
+Houve a citação da demandada com apresentação da contestação de fls. 147-159, na qual houve a alegação de inexistência de defeito no serviço prestado, enfatizando-se a ausência de comprovação dos danos supostamente sofridos. Pugnou pela improcedência da ação.
+Réplica a fls. 169-174. 
+Pronunciamento de fls. 175-176, que saneou o feito, deferiu a produção de prova oral e documental bem como instou as partes a se manifestarem acerca da produção de outras provas.
+Manifestação da demandante, com apresentação de documentos e rol de testemunhas (fl.183). 
+Realizada audiência de instrução e julgamento, com oitiva da testemunha da demandante (fls. 243-245). 
+Eis o relatório.
+
+2. Fundamentação (meritum causae).
+
+Restou incontroverso, nos autos, a ocorrência de interrupções nos serviços de ?internet? e telefonia, contratados pela demandante junto à sociedade demandada, durante alguns dias, no ano de 2011.
+Não há, contudo, comprovação acerca do que teria motivado tais interrupções, tampouco indicação precisa das datas de sua ocorrência. 
+Enquanto a demandante alega falha na prestação dos serviços, a demandada defende que as interrupções foram realizadas a pedido da demandante, como indicado nas ?telas de consulta? exibidas no bojo da contestação (fls. 150-152).
+Quanto aos períodos de interrupção, as datas indicadas na inicial (23/08/2011, 05/10/2011, 06/10/2011 e 07/10/2011) não coincidem com as lançadas nos ?termos de execução de serviços? apresentados pela demandante a fls. 184-186.
+A divergência entre as datas e a ausência de quaisquer esclarecimentos, por parte da demandante, levanta dúvidas sobre o período das interrupções. Ademais, o depoimento da testemunha também não traz informações a respeito. 
+Logo, não é possível saber (1º) se as interrupções foram motivadas por falha na prestação dos serviços, (2º) se houve equívoco nas datas indicadas na inicial, (3º) a data na qual os serviços foram regularizados ? antes ou depois das visitas técnicas feitas pela demandada.
+Os supostos danos sofridos pela demandante também não restaram caracterizados. 
+A demandante alega que, em razão das interrupções nos serviço de ?internet? e telefonia, viu-se impossibilitada de realizar negócios e manter contatos com clientes, fatos que teriam gerado prejuízo financeiro da monta de R$ 33.901,47.
+Ocorre que, ao contrário do afirmado na inicial (fl. 14) e na réplica (fl. 172), não há, nos autos, nenhuma planilha demonstrativa de tais prejuízos financeiros.
+Ademais, a afirmação da testemunha da demandante, confirmando a ocorrência de prejuízos financeiros (?Em razão de os serviços de telecomunicações não terem sido prestados, houve uma diminuição no número de vendas de veículos? ? fl. 244), por si só, não tem o condão de comprovar a alegação de dano material.
+Ao disciplinar especificamente a questão do dano material, no que se refere às perdas e danos, o art. 402 do Código Civil dispõe: ?salvo as exceções expressamente previstas em lei, as perdas e danos devidas ao credor abrangem, além do que ele efetivamente perdeu, o que razoavelmente deixou de lucrar.?
+No entanto, para que as perdas e danos sejam indenizáveis, é preciso que exista um nexo causal entre a conduta do devedor e os prejuízos, ou seja, é preciso que fique perfeitamente demonstrado que os lucros cessantes ou os danos emergentes decorreram diretamente da falta imputada ao devedor.
+É o que deixa claro o art. 403 do Código Civil, de seguinte teor: ?Ainda que a inexecução resulte de dolo do devedor, as perdas e danos só incluem os prejuízos efetivos e os lucros cessantes por efeito dela direto e imediato, sem prejuízo do disposto na lei processual.?
+Ao adotar tais disposições, o legislador inviabilizou pedidos que não guardem relação de causa e efeito com a mora. De fato, conforme adverte DE PLÁCIDO E SILVA:
+
+?dano emergente (damnum emergens) é o que consiste na perda efetivamente sofrida. E o prejuízo real ou aquilo que se perdeu, em virtude do ato praticado ou do fato ocorrido.? [Vocabulário Jurídico, Forense, vol. III, p. 4]. 
+
+Ainda sobre tema, a oportuna lição de CAIO MÁRIO DA SILVA PEREIRA: 
+
+?As perdas e danos não poderão ser arbitrários. Não pode o credor receber, a esse título, qualquer lucro hipotético. Somente lhe cabe, com fundamento na reparação, receber, como benefício de que o dano o privou, aquilo que efetivamente decorreu do fato imputável, e os lucros cessantes por efeito direto e imediato do descumprimento da obrigação.? [Instituições de Direito Civil, vol. II, 15ª ed., Forense, p. 238].
+
+Ora, se a pretensão da sociedade demandante é a obtenção de indenização de dano patrimonial (damnum emergens e lucrum cessans), a sociedade demandante tinha o ônus de provar os respectivos danos, o que se daria através do exame da respectiva contabilidade (prova pericial). Se uma sociedade empresária ? concessionária mercantil ? alega que, em decorrência de falha nos serviços da sociedade demandada ? houve uma redução do seu número de venda, nada mais natural que tal fato se reflita na respectiva contabilidade, provando-se pericialmente que, nos dias nos quais o serviço não foi prestado, o número de venda cai de "X" para "Y" se comparado com a semana anterior; o mês anterior; os mesmos dias do ano anterior etc. 
+Entretanto, nos autos, não houve a produção de prova pericial, prova pericial essa que é a única capaz de constatar se houve ou não houve a redução das vendas de uma sociedade empresária ? concessionária mercantil ? em um determinado momento. Não havendo a produção da referida prova, não há que se falar em dano patrimonial presumido.
+Igualmente, o alegado dano moral sofrido pela demandante também não restou configurado, vez que não é possível sequer identificar a motivação das interrupções nos serviços de ?internet? e telefonia.
+A configuração de danos à esfera moral exige dor, sofrimento, angústia profunda. Desta forma, o ilícito praticado deve revestir-se de relevância e gravidade, sob pena de se colocarem no mesmo patamar os desgostos ou incômodos cotidianos, decorrentes do convívio em sociedade. 
+O suposto ato praticado pela demandada deveria, portanto, ter atingido bens personalíssimos do demandante, vez que o mero dissabor ou desconforto não são aptos a ensejar o dever de indenizar. 
+Ocorre que não produziu o demandante qualquer prova de que tenha sofrido danos morais, que não se presumem.
+A respeito do dano moral, eis a interpretação de FÁBIO HENRIQUE PODESTÁ,
+
+[...] consoante bem situa a doutrina, não é qualquer suposta violação aos direitos da personalidade que justificará o reconhecimento do dano moral, ou seja, como bem situa Antônio Chaves, o ressarcimento do dano moral não envolve
+''todo e qualquer melindre, toda suscetibilidade exacerbada, toda exaltação do amor-próprio pretensamente ferido, a mais suave sombra, o mais ligeiro roçar de asas de uma borboleta, mimos, escrúpulos, delicadezas excessivas, ilusões insignificantes desfeitas, possibilitando sejam extraídas da caixa de Pandora do direito, centenas de milhares de cruzeiros.
+É preciso que exista realmente dano moral, que se trate de um acontecimento grave como a morte de um ente querido, a mutilação injusta, a desfiguração de um rosto, uma ofensa grave, capaz de deixar marcas indeléveis, não apenas em almas de sensibilidade de filme fotográfico, mas na generalidade das pessoas, no homem e na mulher medianos, comuns, a ponto de ser estranhável que não sentissem mágoa, sofrimento, decepção, comoção'' [Tratado de direito civil. São Paulo: Revista dos Tribunais, 1985. v. 3, p. 637].
+
+A lição, não sem dose de advertência, tem exata medida para evitar a banalização do dano moral ou seu descrédito, sendo nesse ponto de grande responsabilidade a tomada de postura de todo profissional do direito ? principalmente do Juiz ? na fixação da justa medida da atribuição indenizatória (desde que devida). Assim, impõe-se repelir pretensões requeridas em juízo de quantias estratosféricas que muitas vezes têm mais objetivo de enriquecer a vítima da noite para o dia.
+Eis a interpretação de FÁBIO ULHOA COELHO,
+
+A indenização dos danos morais está exposta a dois tipos de desvirtuamento: de um lado, a banalização da dor; de outro, o exagero na fixação do valor devido. Não estou aqui considerando situações de abuso de autoridade ou corrupção no Judiciário, que, embora representem também objeto de grande preocupação, possuem causas e desdobramentos gerais, não específicos da matéria da responsabilidade civil por dano moral (cf. Passos, 2002). Cuido de decisões proferidas por magistrados honestos e bem-intencionados, que, no afã de garantir à vítima a completa indenização e pensando aplicar o corretivo ao demandado que imagina eficiente, consideram passíveis de indenização simples desconfortos ou fixam elevadas somas na condenação.
+O primeiro cuidado ao juiz, no julgamento de ações em que é pleiteada indenização por danos morais, deve ser o de não banalizar a dor. Destina-se o instituto a atender àquelas pessoas atingidas por acidentes ou atos ilícitos que lhe causaram profundo sofrimento. Se os sentimentos experimentados não se caracterizam como uma dor tormentosa, excepcional, significativa, não é o caso de fixar indenização por danos morais. Desde sempre, a doutrina tem recomendado no trato da matéria, para que não se tome por referência nem as pessoas frias e insensíveis, nem as de sensibilidade extremada e doentia, mas as médias (Silva, 1955:513).
+Também deve ficar atento o magistrado para não cair ingenuamente nas artimanhas da indústria da vitimização. Há os que, diante da chance de se envolverem em situações embaraçosas, propositadamente não reagem a tempo de desfazer o mal-entendido, com o objetivo de enriquecer com os danos morais. A hipótese de simulação da dor nunca pode ser descartada, principalmente quando o evento não importou danos à vida ou integridade física do prejudicado. Em todos os casos, porém, o juiz não pode contentar-se com a simples alegação do demandante. Se os fatos e circunstâncias constantes dos autos não sugerirem o experimento de profunda dor, não deve impor ao demandado a indenização moral.
+Quanto ao segundo desvirtuamento, deve o valor da indenização moral destinar-se unicamente à compensação da dor experimentada. A liquidação dos danos morais não presta à sanção dos devedores da obrigação de indenizar. Se a conduta do demandado for particularmente reprovável, pode o juiz até mesmo fixar indenização punitiva, mas convém deixar claro, na decisão, que o valor correspondente à sanção não integra os danos morais. A responsabilidade civil não tem caráter sancionatótio quando objetiva, porque os danos objeto de indenização (inclusive os morais) decorrem de atos lícitos. Os acidentes inevitáveis da era contemporânea não deixarão de acontecer pelo aumento das indenizações. Eles continuarão ocorrendo enquanto homens e mulheres forem falíveis. Indenizações elevadas apenas importarão, na maioria das vezes, carestia e inflação, porque serão, sempre que possível, socializadas.
+
+Dois desvirtuamentos podem comprometer o instituto dos danos morais: a banalização da dor e a elevação dos valores da indenização. Se dissabores forem considerados indenizáveis e o valor dos danos morais for utilizado como medida de desestímulo quando o acidente é inevitável, estaremos criando um mundo de não-me-toques que não interessa à sociedade e à economia.
+
+Em suma, a indenização por danos morais será instituto tanto mais prestigiado e justo quanto menos for desvirtuado. Não interessa à sociedade ou à economia que dissabores, desconfortos, aborrecimentos ou apoquentação gerem custos socializáveis. Definitivamente, não interessa criarmos um mundo de não-me-toques.
+
+Assim, como nos autos não houve a produção de nenhuma prova de falha dos serviços da sociedade demandada, não há nenhum fundamento para se falar em condenação à obrigação de indenizar os danos patrimoniais e extrapatrimoniais da sociedade demandante, danos esses que não restaram provados.
+Eis os fundamentos da improcedência do pedido.
+
+3. Conclusão.
+
+Sob o fundamento do art. 269, inc. I, do Código de Processo Civil, é indispensável a improcedência dos pedidos da sociedade demandante DISBRASA DISTRIBUIDORA BRASILEIRA DE VEÍCULOS LTDA. e, assim, a extinção da 1ª fase do processo, em 1º grau de jurisdição, com o julgamento do mérito. 
+Finalmente, é indispensável a condenação da sociedade demandante à obrigação de pagar as despesas (1º) do art. 4º, inc. I e § 1º, da Lei n.º 11.608, de 29 de dezembro de 2003, do Estado de São Paulo, (2º) do art. 48, caput e §§ 1º e 2º, da Lei n.º 10.394, de 16 de dezembro de 1970, do Estado de São Paulo etc. e os honorários de R$ 2.000,00 para os advogados do(a) demandado(a) (art. 20, §§ 3º e 4º, do Código de Processo Civil).
+
+4. Registre-se a sentença.
+
+5. Intime(m)-se.
+
+São Paulo, 26 de abril de 2013.

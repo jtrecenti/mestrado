@@ -1,0 +1,111 @@
+
+
+SENTENÇA
+C O N C L U S Ã O
+Em 03 de agosto de 2010, faço estes autos conclusos à MM. Juiz(a) de Direito, Dr(a).Cristina Aparecida Faceira Medina Mogioni . Eu, _______________, RITA DE CASSIA LOURENCAO GARCIA, Diretor de Divisão, subs.
+Processo nº:006.07.111672-8 - Procedimento Ordinário
+Requerente:Microsoft Corporation
+Requerido:Tobu Equipamentos Industriais Ltda
+
+
+
+Juiz(a) de Direito: Dr(a). Cristina Aparecida Faceira Medina Mogioni
+
+
+                          Vistos.
+
+            MICROSOFT CORPORATION, AUTODESK INC e SYMANTEC COPORATION, qualificados nos autos, propuseram ação de indenização cumulada com pedido de tutela antecipada, precedida de cautelar de vistoria, busca e apreensão, em face da TOBU EQUIPAMENTOS INDUSTRIAIS LTDA., também qualificada sob alegação de que a requerida irregularmente reproduziu e utilizou programas de computador de suas titularidades, violando seus direitos autorais, conforme a perícia demonstrará. Suscitam fundado receio de dano irreparável ou de difícil reparação e a prova da verossimilhança da alegação para pleitear a antecipação de tutela para o fim de proibir a ré de continuar utilizando os programas de computador de titularidade das autoras sob pena de cominação de multa diária no valor de R$ 1.000,00 por programa utilizado indevidamente. Invoca o artigo 14 da Lei 9.609/98 e os artigos 102 e seguintes da Lei  9.610/98 para amparar a pretensão reparatória, de natureza civil, em montante indenizatório a ser apurado em liquidação de sentença na forma de arbitramento.  A inicial veio instruída com os documentos a fls. 21 a 83.
+
+A antecipação de tutela foi deferida para determinar que a requerida se abstivesse de utilizar o programa de softwares indicados no laudo pericial encartado nos autos da cautelar, sob pena de pagamento de multa diária de R$ 600,00 (fls. 02).
+
+Pela decisão a fls. 89 foi deferida a exclusão da Autodesk Inc. e  Symantec Corporation  do polo ativo da ação, determinando-se, ainda, o apensamento desta demanda à cautelar que gerou a distribuição por dependência.
+
+A ré foi citada (fls.92) apresentou contestação (fls. 94/99), alegando, preliminarmente, ilegitimidade das partes Autodesk Inc. e Symantec Corporation, porque não são proprietárias de nenhum dos programas apreendidos na empresa ré; impossibilidade jurídica da antecipação de tutela porque ausentes os requisitos do artigo 273 do Código de Processo Civil; e impossibilidade jurídica e perda do objeto porque todas as máquinas apontadas no laudo como operando com programas copiados, atualmente operam como software legitimamente adquiridos.  No mérito, alega que adquiriu os programas originais e que realizou apenas uma cópia, realizando a reprodução autorizada pelo artigo 6º da Lei 9.609/98. Em caráter eventual, aduz que a indenização deve ser fixada com razoabilidade, considerando, sobretudo, que apenas quatro máquinas possuíam programas piratas. 
+
+A autora manifestou-se em réplica a fls. 110/122, refutando a contestação e reiterando a inicial.
+
+Instadas a especificarem provas, a autora requereu o julgamento antecipado e a requerida requereu prova pericial técnica em relação ao laudo pericial apresentado nos autos da medida cautelar em apenso.
+
+A audiência de tentativa de conciliação restou infrutífera (fls. 127).
+
+Em despacho saneador, as preliminares foram afastadas, fixando-se a controvérsia na alegada contrafação ou na ocorrência da reprodução autorizada pelo artigo 6º, da Lei 9.609/98, deferindo-se a prova pericial (fls. 133/134). 
+
+O laudo pericial a fls. 160/177, concluiu que o parque de informática atual da requerida, se comparado com as irregularidades apontadas na diligência de 03 de julho de 2007, está regularizado com a aquisição pela requerida de programas por 3 Notas Fiscais.
+
+As partes manifestaram-se sobre o laudo pericial, sendo que a autora alega que a posterior aquisição de licença para uso do software não inibe a aplicação de sanção pelo ilícito anteriormente praticado e a ré expressou concordância  com o laudo, uma vez que atualmente a situação já foi regularizada.
+
+A fls. 200 foi encerrada a instrução deferindo às partes prazo para apresentação de alegações finais.
+
+As partes manifestaram-se em alegações finais, reiterando suas manifestações anteriores (fls.202/206 e 208/211).
+
+Em apenso, processou-se a cautelar de vistoria, busca e apreensão, onde igualmente foi realizada prova pericial, sendo a cautelar, posteriormente, unificada para decisão conjunta com a ação principal.
+
+É o relatório.
+
+Decido. 
+
+A ação é parcialmente procedente.
+
+A autora imputou à requerida a prática de contrafação e uso ilegal de programas de sua titularidade.
+
+O uso ilegal de programas de titularidade da autora ficou comprovado, haja vista o laudo pericial realizado nos autos da cautelar em apenso, que restou confirmado nestes autos, revelar que a requerida utilizou-se de programas, softwares, de propriedade da requerente, sem a indispensável formalidade do licenciamento.
+
+O laudo apresentado pelos peritos nomeados pelo Juízo não foi contrariado pelas partes. O laudo concluiu que a requerida havia providenciado a regularização de seu parque de informática, adquirindo as licenças para as máquinas que, na ocasião da prova pericial realizada em apenso, não dispunha.
+
+A regularização operada pela requerida não tem o condão de afastar o ilícito anteriormente praticado.
+ 
+O laudo pericial realizado nos autos da cautelar em apenso concluiu que, vistoriados um servidor Linus e oito microcomputadores em operação pertencentes à requerida, não foram apresentadas as licenças de uso para os seguintes softwares, todos da requerente Microsoft Coorporation: MS Office 2003 Pro: 1 instalação indevida; MA Office 2000 Standard: 3 instalações indevidas; MS Word 97: 1 cópia indevida; MS Excel 97: 1 cópia indevida; e MS Outllok 97: 1 cópia indevida.
+
+O laudo ainda demonstra que para os aplicativos MS OFFICE 2003-Pro, MS Word 97, MS Excel 97 e MS Outlook 97, nenhuma licença foi apresentada pela requerida (fls. 799/800). Já, com relação aos demais aplicativos, a requerida dispunha de ao menos uma licença.
+
+Não havendo qualquer licença para os programas relacionados no parágrafo anterior, não há como da guarida à alegação da requerida de que apenas realizou a reprodução autorizada pelo artigo 6º da Lei 9.609/98.
+
+Aliás, o dispositivo legal retro mencionado não autoriza a extração de cópia a não ser para salvaguarda ou armazenamento eletrônico, e, mesmo assim, apenas é autorizada a reprodução de um só exemplar. 
+
+O uso indevido de programa contrafeito constitui ofensa ao direito de autor, nos termos do que estabelece o artigo 9º, da Lei 9.608/98:
+
+"Art. 9º O uso de programa de computador no País será objeto de contrato de licença.
+Parágrafo único. Na hipótese de eventual inexistência do contrato referido no caput deste artigo, o documento fiscal relativo à aquisição ou licenciamento de cópia servirá para comprovação da regularidade do seu uso".
+
+Caberia à requerida, portanto, comprovar que dispõe de contrato de licença ou documento fiscal relativo à aquisição de licenciamento de cópia para com relação a todos os programas encontrados em seus computadores, o que, todavia, não o fez.
+
+Nesse sentido, já se decidiu:
+
+EMENTA - Indenização - Uso Indevido de Programas de Computador e cominação de multa em caso de reiteração de descumprimento - preliminar de cerceamento do direito de defesa rejeitada  prova desnecessária, uma vez que o Laudo Pericial, devidamente jurisdicionalizado, referiu o uso indevido - Quanto ao mérito - prova de correspondência entre os programas utilizados e aquisições legítimas realizável por meio de exibição de Notas Fiscais de compra -demonstração não realizada nos autos - Utilização de programas em rede vedada pelo ordenamento normativo -compartilhamento de informações admissível por lei, nunca de programas - art. 6o da Lei Federal n° 9 6 0 9 / 98 - Apelação da Autora insubsistente - indenização do art. 103 da Lei Federal n° 9 6 1 0 / 9 8 inaplicável como instituto de proteção contra o uso indevido de programas de computador - precedentes - recursos de Apelação conhecidos e, quanto ao mérito, improvidos ambos (Apelação com revisão, 435.862.4/5-00, j. 27 de novembro de 2008; Relator Maurício Simões de Almeida Botelho Silva, 9ª Câmara "B" de Direito Privado do Egrégio Tribunal de Justiça de São Paulo).
+
+A indenização pleiteada pela autora, na inicial, foi embasada nos artigos 102 e seguintes da Lei 9.610/98.
+
+No entanto, só é devida a indenização do artigo 102, sendo incabível a indenização do artigo 103 da mencionada lei.
+
+O artigo 102  assim dispõe:
+
+"O titular cuja obra seja fraudulentamente reproduzida, divulgada ou de qualquer forma utilizada, poderá requerer a apreensão dos exemplares reproduzidos ou a suspensão da divulgação, sem prejuízo da indenização cabível".
+
+A indenização cabível, no caso, corresponde ao valor dos programas indevidamente utilizados.
+Quanto à aplicação do artigo 103 da Lei 9.610/98, a pretensão da autora não procede, uma vez que o "software" não está contido na proteção desse artigo.
+Confira-se o dispositivo legal:
+"Art. 103. Quem editar obra literária, artística ou científica, sem autorização do titular, perderá para este os exemplares que se apreenderem e pagar-lhe-á o preço dos que tiver vendido.
+Parágrafo único. Não se conhecendo o número de exemplares que constituem a edição fraudulenta, pagará o transgressor o valor de três mil exemplares, além dos apreendidos".
+
+Nesse sentido:
+
+ AÇÃO ORDINÁRIA - PIRATARIA DE 'SOFTWARE' CAUTELAR DE VISTORIA, BUSCA E   APREENSÃO - CAUÇÃO - PERÍCIA - UTILIZAÇÃO DE PROGRAMAS DE COMPUTADOR  INDENIZAÇÃO QUANTO À CONTRAFAÇÃO - INTELIGÊNCIA DA LEI N° 9610/ 98 -MÁ-FÉ - NÃO OCORRÊNCIA.
+A caução prevista no art. 835 do CPC não impõe ao Magistrado a obrigação  de determinar a prestação desta garantia, mas outorga-lhe a faculdade de assim fazer, observadas as peculiaridades de cada caso. A regularidade do uso de um "software", de acordo com o art. 9º, da Li 9.608/98, é comprovada mediante a apresentação do respectivo contrato de licença e, na sua falta, pelo documento fiscal relativo à aquisição, ainda que após a primeira vistoria, em instrução da ação ordinária. A indenização prevista no artigo 102 da Lei n° 9.610/98 corresponde ao valor dos programas indevidamente utilizados, não se aplicando ainda o disposto nos artigos 103 e 107 da mesma Lei. Comprovado que três das autoras não foram lesadas em seus direitos autorais, deverá ser modificada a sentença, fixando-se os ônus da sucumbência. A litigância de má-fé só é admitida mediante prova do comportamento malicioso e propositado da parte, visando a dificultar o andamento do feito através de alegações que afrontam a realidade dos fatos. 
+(Apelação Cível nº 1.00024.90.012210-3/001(1), 14a Câmara Cível do TJMG, Relator: o Desembargador VALDEZ LEITE MACHADO, j. 30;.08.2007, unânime, publ. 25.09.2007).
+
+Ante o exposto, julgo parcialmente procedente a presente ação, movida por MICROSOFT CORPORATION em face de TOBU EQUIPAMENTOS INDUSTRIAIS LTDA, nos termos do artigo 269, I, do Código de Processo Civil, para confirmar a liminar concedida nos autos da cautelar de vistoria, busca e apreensão apensada à presente ação, bem como para condenar a requerida a pagar à autora indenização equivalente ao valor dos programas descritos no laudo pericial da cautelar como desacompanhados de licença, a ser apurada em liquidação. Julgo procedente a cautelar em apenso e confirmo a tutela antecipada para manter a proibição da autora de usar os programas indicados no laudo pericial retro mencionado, sob pena de pagamento de multa diária de R$ 600,00 (fls. 02). O valor sofrerá correção monetária até a data do pagamento e incidência de juros de mora, de 1% ao mês, a contar da data da vistoria realizada no apenso. Condeno a requerida a pagar as custas e despesas processuais, bem como os honorários advocatícios ao autor, que fixo em 15% sobre o valor da condenação, nos termos do artigo 21, parágrafo único do Código de Processo Civil.   
+
+Transitada em julgado a sentença, aguarde-se o prazo do artigo 475-J para cumprimento voluntário e, oportunamente, arquivem-se os autos, com as cautelas de estilo.
+
+P.R.I.C.
+
+São Paulo, 30 de setembro de 2010
+
+
+
+
+D A T A
+Em ______________________ recebi estes autos da conclusão. Eu, ____________, subs.
+CERTIDÃO - ENCAMINHAMENTO
+Certifico e dou fé que a decisão supra foi relacionada para encaminhamento a Imprensa Oficial em ______/_______/_______. Relação nº ____________/______.
+ Eu, _________________________, escrevente.

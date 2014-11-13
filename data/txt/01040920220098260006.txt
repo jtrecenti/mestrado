@@ -1,0 +1,61 @@
+
+
+DESPACHO
+
+               C O N C L U S Ã O
+
+Em 19 de ABRIL de 2010, faço estes autos conclusos ao MM. Juiz de Direito Dr. (a) Karina Ferraro Amarante Innocencio. Eu,   SERGIO ANTONIO BERNARDES, Escrevente, subscrevi.
+
+Processo:006.09.104092-4 - Procedimento do Juizado Especial Cível
+Requerente:Renata Ferreira
+
+Requerido:Evolute Pc e outro
+
+
+
+
+Vistos etc.
+Dispensado o relatório, na forma da lei.
+Passo, pois, a decidir.
+A ação é parcialmente procedente.
+Anoto, desde logo, que a relação existente entre as partes é de consumo, razão pela qual aplicáveis à espécie os dispositivos do Código de Defesa do Consumidor, no que couber.
+Pois bem.
+A co-ré Pentec é revel, visto que, citada e intimada, não se fez representar em audiência e não justificou a ausência.
+Contudo, dada a existência de litisconsórcio passivo entre tal empresa e a fabricante, a contestação por esta ofertada será aproveitada em favor da revel, no que couber.
+Quanto à existência de vícios de fabricação na CPU fabricada pela primeira ré, que ensejaram sua ida por duas vezes a conserto, a matéria é incontroversa, visto que, em momento algum, a fabricante, que apresentou contestação, nega a existência dos vícios e sua natureza.
+Com relação aos períodos em que o aparelho ficou na assistência técnica, além de haver prova documental (conforme se infere dos documentos acostados à inicial), também é incontroversa a matéria: a ré confirma que, numa primeira vez, a máquina foi deixada na assistência técnica em 23 de dezembro de 2008 e liberada apenas em 31 de janeiro de 2009 e, num segundo momento, deixada a máquina no dia 10 de fevereiro, o conserto foi aprontado apenas para 18 de março de 2009.
+Por outro lado, conforme se vê das mensagens eletrônicas trocadas entre as partes e das ordens de serviço, a máquina foi entregue na assistência técnica pelo fato de ter, repentinamente, desligado no dia 22 de dezembro de 2008.
+Até entende-se que, de fato, era necessária a troca da fonte, que, efetivamente, foi feita pela autorizada.
+Contudo, não se pode negar que, uma vez que o computador teve de ser levado de volta à assistência técnica apenas uma semana depois, essa troca não foi suficiente para resolver o problema, que somente foi sanado com a troca da placa-mãe.
+Desta forma, ainda que a fabricante alegue que não havia interligação entre os defeitos, em momento algum há impugnação da alegação de que, depois da volta do primeiro conserto, o computador não funcionou por completo (já que ficou impossível acessar a internet).
+Há que se entender, pois, que, ainda que fossem dois os defeitos e sem qualquer ligação, não houve o seu saneamento em trinta dias (já que, em ambas as vezes, a CPU ficou na assistência técnica por período superior a um mês).
+Outrossim, conforme já afirmado, o que se conclui é que, quando o computador teve a fonte trocada (na primeira vez em que foi à autorizada), não foram feitos os testes necessários para se verificar se tal procedimento era o suficiente para fazer a CPU voltar a funcionar.
+Tais testes deveriam ter sido feitos pela autorizada, o que teria tornado desnecessária a retirada do aparelho e nova entrega na assistência técnica, com mais uma longa espera para se trocar a placa-mãe que, como se infere de todo esse contexto, já deveria ter sido trocada quando da primeira vez, para fazer a CPU voltar a funcionar.
+Fossem dois problemas diversos, ou seja, tivesse a máquina voltado em perfeito funcionamento para a casa da autora e o problema da placa-mãe aparecido apenas posteriormente, responderia apenas a fabricante pelos vícios de fabricação e seu não saneamento no prazo de trinta dias, tanto da primeira quanto da segunda ida ao conserto.
+No entanto, ainda que a autorizada não responda pela demora no conserto referente à primeira vez (já que os defeitos eram de fabricação e a própria fabricante não nega que o atraso no conserto decorreu da demora na entrega das peças, também de responsabilidade dela, fabricante), com relação ao fato de a máquina ter voltado ao conserto e demorado, novamente, a ser devolvida à autora, a autorizada responde frente à autora de forma solidária junto à fabricante (art. 7º, parágrafo único, do Código de Defesa do Consumidor).
+A fabricante responde não só porque os vícios eram todos de fabricação, mas, também, porque a autorizada age como sua preposta e falhou na execução do serviço quando da primeira vez, já que não detectou de forma satisfatória tudo o que seria necessário reparar para colocar a CPU em perfeito funcionamento. Além disso, responde a fabricante porque era a responsável pela entrega das peças para conserto no prazo legal, o que não ocorreu.
+A autorizada, por sua vez, responde por essa segunda demora (e não pela primeira, como já asseverado), porque, tivesse detectado corretamente o defeito já da primeira vez, fazendo todos os testes, não teria sido imposta à autora nova privação do aparelho.
+Em decorrência desse não saneamento do vício, assistia não só à autora o direito de ver o produto substituído ou ter o valor a ele correspondente devolvido (art. 18, parágrafo primeiro, incisos I e II), como também o direito de se ver indenizada pelas perdas e danos decorrentes, por óbvio, da existência dos vícios e demora na sua reparação (art. 18, parágrafo primeiro, inciso II, parte final, do CDC, cc o artigo 20, do CDC).
+Com o recebimento da CPU após o ajuizamento do processo e ausência de novas reclamações sobre seu funcionamento, não há que se falar em substituição ou devolução de valores, tendo-se a autora como não interessada em tais alternativas, já que aceitou de volta o aparelho.
+Contudo, não se lhe pode subtrair o direito de se ver reparada pelas perdas e danos decorrentes não só dos vícios e demora no seu saneamento, como também da prestação dos serviços por parte das rés.
+Com relação às perdas e danos, a autora requereu indenização por danos materiais (visto que pagou pela NET virtua sem poder usar internet enquanto a CPU esteve no conserto), mas, também, por lucros cessantes e por danos morais.
+Com relação aos danos materiais, não só não há impugnação de que a ré não pôde usar a internet no período em que ficou privada do uso da CPU (ou seja, de 23 de dezembro de 2008 a 18 de março de 2009), mas, também, há prova de qu a autora pagava pela internet banda larga da NET, conforme documentos de fls. 44/45.
+Considerando-se o prazo de três meses pelos quais a autora ficou privada do uso da CPU e, consequentemente, da internet contratada, há que se condenar a primeira ré ao pagamento dos valores das mensalidades vencidas em janeiro, fevereiro e março de 2009.
+Por sua vez, a autorizada (segunda co-ré) deve ser condenada solidariamente junto à primeira ao pagamento das mensalidades vencidas em fevereiro e março de 2009 (já que, pelas razões expostas no bojo da sentença, não é responsável pela privação da autora do uso da máquina quando da primeira permanência no conserto).
+No tocante ao pedido de indenização por lucros cessantes, não há como se acolher o pedido da autora.
+Isto porque, a teor do disposto no artigo 333, I, do Código de Processo Civil, era ônus da autora ter trazido prova suficiente de que, efetivamente, não pôde prestar os serviços para os quais contratada no período em que esteve sem a CPU.
+A autora trouxe prova, realmente, da existência do contrato de prestação de sérvios firmado com a BARBOSA E GUIMARÃES ADVOGADOS ASSOCIADOS.
+No entanto, não trouxe qualquer declaração, prova oral ou outro meio de prova de que o serviço não foi prestado e/ou de que deixou de receber os valores contratados no período tratado nos autos, razão pela qual não comporta acolhimento o pedido de indenização por lucros cessantes.
+Quanto ao pedido de indenização por danos morais, este merece prosperar, ainda que se mostre exacerbada a pretensão de indenização a tal título trazida pela autora na inicial.
+Há que se falar em danos morais, visto que, em decorrência da existência dos defeitos e da demora imposta pelas rés para saná-los de forma eficaz, a autora passou pelo dissabor, aflição e nervoso de se ver privada do uso do computador (que, ainda mais nos dias de hoje, é essencial nos lares brasileiros).
+Foi, também, a autora desconsiderada como consumidora, já que a demora para sanar o vício foi excessiva, sem justificativa plausível, já que as rés não provaram que quaisquer das peças seja de difícil aquisição no mercado.
+A autora teve de insistir por inúmeras vezes junto às rés (como se vê dos documentos acostados à inicial) para ter alguma solução para o seu problema, que perdurou por cerca de três meses, como já mencionado.
+Desta forma, de rigor a condenação das rés ao pagamento de indenização por danos morais, sendo que, no tocante à fabricante, atenta à sua maior responsabilidade (como já aqui destacado), à extensão dos danos que impôs à autora, sua capacidade econômica e caráter pedagógico (para a ofensora) e compensatório (para a ofendida) da indenização, deverá pagar à autora indenização por danos morais no valor de R$ 4.000,00.
+No tocante à autorizada, fica esta condenada a, do valor supra fixado, arcar, solidariamente junto à fabricante, com o pagamento de indenização por danos morais de R$ 2.000,00, pelas razões já expostas.
+Por fim, não há que se falar em extensão da garantia, já que, neste aspecto, a ação perdeu seu objeto, dado o decurso do tempo, durante o qual, diga-se, não houve mais reclamações por parte da autora.
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a ação e, assim, EXTINTO o feito, com apreciação do mérito, na forma do artigo 269, I, do Código de Processo Civil, para condenar a co-ré THINKTECH INDÚSTRIA E COMÉRCIO DE INFORMÁTICA LTDA. (EVOLUTEC) a pagar à autora indenização por danos materiais no valor de R$ 45,00 (valor da internet banda larga dos meses de janeiro a março de 2009), devendo a correção monetária incidir sobre o valor de cada mensalidade (de R$ 15,00) a partir do respectivo vencimento e os juros de mora, de 1% ao mês, a contar da citação, bem como indenização por danos morais, no valor de R$ 4.000,00, corrigido monetariamente e acrescido de juros de mora de 1% ao mês, a contar da data da sentença.
+Outrossim, condeno a PENTEC a pagar à autora as mensalidades de fevereiro e março de 2009 da internet banda larga de forma solidária junto à Thinktech (total de R$ 30,00, com incidência de juros e correção monetária na forma supra fixada), bem como, do valor fixado a título de indenização por danos morais, deverá tal ré arcar com o pagamento de R$ 2.000,00 (corrigidos monetariamente e acrescidos de juros de mora de 1% ao mês, a contar da data da sentença), de forma solidária junto à Thinktech, frente à autora.
+Advirto as rés de que o não pagamento do valor da condenação em até quinze dias após o trânsito em julgado implicará, de forma automática, a incidência da multa prevista no artigo 475, J, do Código de Processo Civil.
+Sem condenação ao pagamento de custas ou honorários.
+P.R.I.C.
+São Paulo, 28 de maio de 2010.

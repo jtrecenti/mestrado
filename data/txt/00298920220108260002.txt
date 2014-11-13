@@ -1,0 +1,94 @@
+
+
+SENTENÇA
+
+Processo Físico nº:0029892-02.2010.8.26.0002
+Classe - AssuntoProcedimento Ordinário - Defeito, nulidade ou anulação
+Requerente:ADM Comércio de Roupas Ltda
+Requerido:Private Label Indústria e Comércio de Confecções e outro
+
+
+
+
+Juiz(a) de Direito: Dr(a). Ricardo Dal Pizzol
+
+Processo nº 0029892-02.2010.8.26.0002 (principal)
+Processo nº 0022340-83.2010.8.26.0002 (cautelar)
+
+
+
+
+Vistos.
+
+
+
+
+ADM COMÉRCIO ROUPAS LTDA ajuizou "ação declaratória de inexigibilidade de título de crédito c/c dano moral" e "medida cautelar de sustação de protesto" contra PRIVATE LABEL INDÚSTRIA E COMÉRCIO DE CONFECÇÕES e BANCO DO BRASIL S/A.
+
+Liminar concedida às fls. 32/33 dos autos da ação cautelar.
+
+Alega a autora que foi notificada para que realizasse o pagamento de duplicata mercantil por indicação no valor de R$ 6.892,30. Tal cobrança, no entanto, é indevida, uma vez que não houve celebração de qualquer negócio entre a autora e a requerida Private Label no mês de novembro de 2009. Sofreu danos morais por conta do ocorrido.
+
+Emenda à inicial às fls. 46/47.
+
+Contestação do requerido Banco do Brasil às fls. 58/75. Alega o requerido que é parte ilegítima para figurar no polo passivo da demanda, uma vez que o endosso-mandato não transfere a propriedade do título. No mérito, alega que apenas exerceu atos inerentes à função de mandatário para a cobrança do título. 
+
+Réplica às fls. 83/90.
+A requerida Private Label, apesar de devidamente citada (fl. 158), deixou transcorrer in albis o prazo para contestação (fl. 167).
+
+É o Relatório.
+
+
+Passo a Fundamentar.
+
+
+I ? Possível o julgamento antecipado da lide, uma vez que desnecessária a produção de outras provas. Vale lembrar que ?sendo o Juízo o destinatário da prova, somente a ele cumpre aferir sobre a necessidade ou não de sua realização? (TJSP, AI 13811-5, Rel. Des. Hermes Pinotti).
+
+II- Rejeito a preliminar de ilegitimidade passiva suscitada pelo banco requerido. A questão levantada é de mérito e não de legitimidade. Confira-se a lição de DINAMARCO: 
+
+?Será inadequado falar em ilegitimidade quando, ainda que contrariamente ao direito, do provimento se possa esperar o proveito jurídico e prático desejado. Se cobro judicialmente um crédito que não é meu, certamente não terei direito algum à sentença favorável, porque não sou credor; se peço a condenação de alguém a pagar débito alheio, idem; nessas duas situações, porém, a sentença que julgasse procedente a minha pretensão seria plenamente capaz de oferecer-me o proveito que desejo. Nada teria de inútil, embora contrária à lei material. (...) Sempre que se trate de obrigações fungíveis, a ausência de titularidade ativa ou passiva (direitos e obrigações) é questão de mérito, sendo improcedente a demanda e não ilegítima a parte. Os tribunais brasileiros são fortemente propensos a tratar como ilegitimidade esses casos de ausência do direito do autor perante o réu. (...) Na verdade, tais demandas são improcedentes? (Instituições, v. II, p. 307).
+
+III ? No mérito, no que diz respeito ao banco requerido, os pedidos não procedem (na ação principal e na cautelar). 
+Conforme documento de fl. 15, o banco requerido recebeu o título da primeira requerida por endosso-mandato. 
+Assim, não era o banco requerido titular do crédito, de forma que sem fundamento, em relação a ele, o pedido de declaração de inexigibilidade do débito. 
+Segundo a jurisprudência do STJ, a instituição financeira só é responsável pelos danos decorrentes do protesto, na hipótese de endosso-mandato, se restar comprovado que excedeu os poderes do mandato, que agiu de forma negligente ou que tenha sido alertada, antes do protesto, da irregularidade ou da quitação do título. Nesse sentido:  STJ, AgRg no Ag 1086819 / RJ; STJ, REsp 549733 / RJ.
+Estabelece a Súmula 476 do Superior Tribunal de Justiça que: "O endossatário de título de crédito por endosso-mandato só responde por danos decorrentes de protesto indevido se extrapolar os poderes de mandatário?.
+
+No caso, a autora sequer chegou a alegar tal situação na petição inicial. Além disso, não restou comprovada qualquer circunstância excepcional que ensejaria a responsabilidade do banco endossatário. 
+
+IV  No que diz respeito à requerida Private Label, a ação cautelar deve ser julgada procedente, enquanto a ação principal deve ser julgada parcialmente procedente. 
+A duplicata mercantil, como se sabe, é título causal, tendo origem em uma compra-e-venda ou em uma prestação de serviços.
+Nesses termos, era ônus da primeira requerida, enquanto emitente da duplicata mercantil, comprovar a regularidade do crédito, demonstrando a ocorrência de uma compra-e-venda ou de um ato de prestação de serviços. 
+A primeira requerida, no entanto, não se desincumbiu desse ônus probatório. 
+Além disso, houve revelia da parte da primeira requerida, presumindo-se verdadeira, portanto, a alegação da autora de inexistência de relação jurídica válida entre as partes. 
+Em face disso, o débito deve ser tido como inexistente, sendo indevido, por conseguinte, o protesto. 
+O dano moral, por sua vez, não deve ser reconhecido. 
+Isso porque houve sustação do protesto, conforme liminar concedida nos autos da cautelar. Não houve lesão, assim, à honra objetiva ou à imagem da autora. 
+Nesse contexto, o fato não passou de mero transtorno, não indenizável. 
+Nesse sentido, já decidiu o Eg. TJSP: 
+
+TÍTULOS DE CRÉDITO. Ação anulatória de títulos e ação cautelar de sustação de protesto. Duplicatas já quitadas. Nulidade dos títulos. Reconhecimento. Danos morais. Não cabimento, no caso, pois houve simples apontamento para protesto, devidamente sustado, sem outras repercussões. Recurso da ré provido para excluir a condenação por danos morais. O simples apontamento para protesto, devidamente sustado, sem outras repercussões, não acarreta, por si só, dano moral. (TJSP, Rel. Gilberto dos Santos, 296903.2008.8.26.0456)
+
+AÇÃO DECLARATÓRIA - Nulidade de Título c.c. Dano Moral Cheque objeto de furto e emitido de forma fraudulenta Talão de cheque furtado, que foi cancelado e devidamente sustado pela instituição financeira responsável Nulidade do título declarada Dano moral afastado ante a sustação do protesto Ausência de prejuízo Mero aborrecimento - Sentença parcialmente reformada Recurso parcialmente provido. (TJSP, 9078203-08.2009.8.26.0000, Rel. Heraldo de Oliveira). 
+
+
+
+DECIDO.
+a) Ante o exposto, quanto ao processo principal (nº 0029892-02.2010.8.26.0002), julgo PARCIALMENTE PROCEDENTE a ação em relação à primeira requerida, para DECLARAR INEXIGÍVEL o débito referente à duplicata mercantil mencionada na petição inicial, CANCELANDO, em definitivo, o protesto. 
+Sem condenação em custas, despesas e honorários advocatícios, entre autora e primeira requerida, em face da sucumbência recíproca na ação principal. 
+Condeno a autora ao pagamento das custas, despesas e honorários advocatícios, que fixo em R$ 500,00 (quinhentos reais), em favor do segundo requerido (Banco do Brasil S/A). 
+b) Ante o exposto, quanto ao processo cautelar (nº 0022340-83.2010.8.26.0002), julgo PROCEDENTE a ação em relação à primeira requerida, confirmando a liminar concedida às fls. 32/33.
+Condeno a primeira requerida ao pagamento, em favor da autora, das custas, despesas processuais e honorários advocatícios, que fixo em R$ 1.000,00 (mil reais), com base no art. 20, §4º, do CPC. 
+Sem condenação em custas, despesas e honorários advocatícios em favor do segundo requerido no processo cautelar, visto que sequer houve contraditório no feito referido.
+Após o trânsito em julgado, expeça-se mandado de levantamento da caução ofertada nos autos da cautelar em favor da autora.  
+Após o trânsito em julgado, oficie-se ao respectivo Tabelionato para cancelamento definitivo do protesto. 
+Traslade-se cópia da sentença para os autos da cautelar.
+Para interposição de eventual recurso, o valor deverá corresponder a 2% (dois por cento) sobre o valor da condenação, se houver, ou do valor da causa atualizado, e deverá ser recolhido a título de porte de remessa e retorno dos autos o valor de R$ 29,50 por volume, observando-se o disposto na Lei 11.608/03. Transitada em julgado, certifique-se. Nada requerido, arquivem-se.
+
+P.R.I.C.
+
+
+São Paulo, 18 de março de 2014.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

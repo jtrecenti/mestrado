@@ -1,0 +1,92 @@
+
+
+SENTENÇA
+
+Processo nº:0007605-81.2013.8.26.0053
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Moral
+Requerente:Sergio Almeida da Silveira
+Requerido:Fazenda do Estado de São Paulo
+
+
+
+
+Juiz(a) de Direito: Dr(a). Carmen Cristina Fernandez Teijeiro e Oliveira
+
+
+
+
+
+
+
+
+VISTOS.
+
+SERGIO ALMEIDA DA SILVEIRA ajuizou a presente AÇÃO ORDINÁRIA em face de FAZENDA DO ESTADO DE SÃO PAULO, alegando, em síntese, que teve inscritos em dívida ativa débitos de IPVA relativos aos anos de 2.006 a 2.010, devidos em razão da propriedade do veículo descrito na inicial. Sustentou, contudo, que este veículo sofreu perda total no ano de 1.996, oportunidade em que transferido para a seguradora, razão pela qual inexistiram os fatos geradores respectivos a partir de então. Requereu, assim, a procedência da ação, a fim de que sejam declarados inexigíveis os débitos de IPVA referidos a partir de 1.997, bem como para que seja a ré condenada a indenizar o autor pelos danos morais sofridos com a inscrição dos débitos no CADIN.
+
+Regularmente citado(a), o(a) réu(é) apresentou contestação, na qual sustentou, em suma, que o autor não comunicou ao DETRAN quanto à ocorrência de perda total do veículo, nem tampouco procedeu à baixa respectiva, razão pela qual subsiste a sua situação de proprietário perante o fisco. No que concerne o pedido de indenização, argumentou que inexistem os danos a indenizar.
+
+Adveio réplica as fls. 119/122.
+
+Apensa encontra-se a Ação Cautelar nº 0002130-47.2013.8.26.0053, ajuizada pelo autor em face da ré, por meio da qual ele pretende a sustação, ou desconstituição, do protesto relativo a dívida de IPVA ora discutida. A liminar foi concedida e a ré apresentou contestação.
+
+É O RELATÓRIO.
+
+DECIDO.
+
+É caso de julgamento antecipado da lide, eis que a questão é apenas de direito, sendo desnecessária a produção de provas, nos termos do artigo 330, inciso I, do Código de Processo Civil.
+
+A ação é parcialmente procedente.
+
+Pretende o autor a declaração de inexigibilidade de débito de IPVA alusivo ao veículo descrito na inicial, a partir do exercício de 1.997, sob o fundamento de que, à data dos supostos fatos geradores, referido veículo já havia sofrido perda total e, portanto, não podia mais ser objeto de tributação.
+
+A Lei 6.606/89, que normatizava o IPVA à época dos fatos, assim dispunha sobre o assunto:
+
+"Art. 11. O Poder Executivo dispensará o pagamento do imposto quando ocorrer perda total do veículo por furto, roubo, sinistro ou outro motivo que descaracterize seu domínio ou sua posse, segundo normas fixadas em decreto.
+Parágrafo único ? A dispensa prevista neste artigo não desonera o interessado do pagamento do tributo no exercício."
+
+Desta feita, a despeito de toda a argumentação trazida pela ré, a comunicação ao DETRAN para a baixa do veículo em seu cadastro não figura como condição legal à dispensa do pagamento do tributo, porquanto a partir do sinistro (no caso, a perda total) deixou de existir o "veículo automotor" e, assim, não ocorre a hipótese de incidência do IPVA.
+
+Sobre o tema, oportuno trazer à colação os seguintes julgados:
+
+"IPVA. Inexigibilidade. Perda total do veículo decorrente de acidente de trânsito. Dispensa do pagamento do IPVA nos termos do art 11 da Lei Estadual n° 6.606/89. 1. A não comunicação imediata do sinistro à repartição competente não acarreta a responsabilização do proprietário pelo pagamento do imposto até essa providência administrativa, mesmo porque desapareceu, com o evento, o fato gerador. 2. Recurso improvido".
+
+
+"APELAÇÃO. IPVA. Exercícios de 2001 a 2006. Perda total do veículo em razão de roubo comprovado nos autos. Fato gerador não ocorrido, uma vez que desaparecido o próprio objeto do tributo. Dispensa do pagamento de IPVA prevista no artigo 11 da Lei Estadual nº 6.606/89. Irrelevância da ausência de baixa no DETRAN, podendo a qualquer momento ser reconhecida a dispensa se comprovada a condição para o benefício, que é a perda total do veículo. Precedentes deste Tribunal. Sentença de procedência mantida por seus próprios fundamentos. Recurso não provido."
+
+
+E de outra forma realmente não poderia ser, pois não subsistindo mais a propriedade, a comunicação feita ao DETRAN tem efeito meramente declaratório.
+
+E, nesta toada, ante a inexistência de fato gerador, não poderia subsistir a responsabilidade do autor pelo pagamento do tributo, pela simples ausência de comunicação ao DETRAN, que é imposta pelos artigos 134, do CTB, e 4º, inciso III, e 16, §§ 2º e 3º, da Lei 6.606/89, os quais "... não tem o condão de impedir que o antigo proprietário comprove posteriormente, por meio idôneo, perante o órgão público encarregado do registro e licenciamento (DETRAN/SP) e o órgão da administração tributária competente do Estado de São Paulo, que já havia alienado/transferido o automotor (in casu, perdido a propriedade do automotor), nos termos do artigo 155, III, da CF."
+
+Frise-se, contudo, que o parágrafo único do artigo 11 supra transcrito estabelece a obrigatoriedade de pagamento integral do IPVA referente ao exercício em que ocorrido o sinistro.
+
+Assim, a data do sinistro, e não a baixa no DETRAN, conforme já exposto, é a que se deve tomar como termo inicial, sendo indevidos, pois, os lançamentos efetuados a partir do ano seguinte em que ocorrido o sinistro, circunstância observada no pedido inicial.
+
+Sem razão ao autor, contudo, no que se refere ao pedido de danos morais.
+
+Isto porque, embora a comunicação da perda total e/ou a baixa do veículo junto ao banco de dados do DETRAN tenham efeitos meramente declaratórios no que tange ao IPVA, fato é que, antes delas, a Fazenda não dispõe de meios para saber que o veículo não mais existe.
+
+De fato, se ninguém a comunicar acerca desta circunstância, seja o proprietário anterior, no caso, o requerente, ou a seguradora que recebeu a sucata, não se pode exigir da Fazenda, por meio do seu órgão de trânsito, que deixe de lançar o tributo.
+
+Em verdade, a obrigação legal de fazer esta comunicação em casos de perda total é da seguradora, conforme dispõem a Lei 8.722/93 e o Decreto 1.305/94.
+
+E, no caso dos autos, verifica-se que esta comunicação não foi feita à ré, razão pela qual ela lançou o IPVA respectivo e, uma vez não pago o débito, remeteu-o para protesto, conforme direito que lhe assistiria, caso o veículo ainda existisse fisicamente.
+
+Conclui-se, pois, que a Fazenda agiu escorreitamente e, portanto, o dano moral sofrido pelo autor não lhe pode ser imputado, porquanto decorreu de omissão da seguradora, que deixou de comunicar o sinistro ao órgão de trânsito.
+
+E, assim, o nexo causal não se estabelece, no caso, entre o dano e a conduta comissiva da Fazenda de inscrever o débito em dívida ativa e remetê-lo para protesto, e sim com a conduta omissiva da seguradora, esta sim, verdadeira causadora do dano moral sofrido pelo autor.
+
+Posto isto, JULGO PARCIALMENTE PROCEDENTE o pedido desta ação, para declarar a inexigibilidade dos IPVAs lançados a partir do ano seguinte à ocorrência do sinistro do veículo descrito na inicial, JULGO PROCEDENTE o pedido da ação cautelar, para o fim de desconstituir o protesto descrito nas fls. 44 dos autos apensos.
+
+Em face da sucumbência recíproca, arcarão as partes, em proporções iguais, com o pagamento de custas e despesas processuais, bem como suportarão os honorários advocatícios respectivos.
+
+Deixo de remeter os autos para reexame necessário, nos termos do que dispõe o artigo 475, § 2º, do Código de Processo Civil.
+
+Traslade-se cópia da presente sentença para os autos da ação cautelar apensa.
+
+P.R.I.
+
+São Paulo, 24 de outubro de 2013.
+
+       Carmen Cristina F. Teijeiro e Oliveira
+    Juíza de Direito

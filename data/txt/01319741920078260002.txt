@@ -1,0 +1,74 @@
+
+
+SENTENÇA
+
+Processo nº:0131974-19.2007.8.26.0002
+Classe - AssuntoProcedimento Sumário - Indenização por Dano Material
+Requerente:Fabio Neves da Silva
+Requerido:Fourway Consultoria Em Informatica
+
+
+
+
+Juiz(a) de Direito: Dr(a). Nélson Ricardo Casalleiro
+
+Vistos.
+
+
+Fábio Neves Da Silva ajuizou ação declaratória cumulada com indenização por danos materiais em face de Fourway Consultoria em Informática, alegando, em síntese, que desde março de 2000 prestou serviços para a empresa ré como consultor na área de seguros. Afirmou ainda, que nas suas horas vagas, inovou, criou e desenvolveu um software capaz de regular integralmente as ocorrências de Sinistros.  Assevera que através de conversas informais, os sócios da ré mostraram interesse em estabelecer um contrato de parceria, caso realmente o software fosse desenvolvido com as características indicadas pelo autor. Com a finalização do software, alegou que as partes celebraram um contrato verbal de gestão e intermediação, em que o módulo de sinistro criado pelo autor foi anexado ao módulo de resseguros de titularidade da ré, aliado aos módulos de sistema de produto, emissão, cobrança, comissão e interface contábil da empresa Prodexter tecnologia em Informática Ltda, e ao sistema de cosseguro da empresa TKWM Informática Ltda. Afirmou ainda que através da sua empresa Webset Informática S/C Ltda, seus serviços foram contratados pela empresa TKWM em 02 de setembro de 2004. Afirmou ainda que a prestação de serviço consistia exclusivamente na adequação do programa do autor no sistema integrado, não abrangendo licença nem a comercialização do seu software. Afirmou ainda que em TKWM Informática rescindiu o contrato de prestação de serviços em 29 de julho de 2005, pelo fato da integralização dos sistemas já ter sido concluída. Afirmou, inclusive, que em setembro de 2005, a plataforma do sistema integralizado foi vendido para a empresa Mutsui Sumitomo Seguros, e posteriormente para outras empresas do ramo de seguros. Alegou que não recebeu qualquer quantia em relação às vendas, sendo que sua parte foi repassada à empresa ré, que não procedeu a qualquer acerto de contas, razão pela qual ajuizou a presente ação, requerendo a procedência da ação para o fim de: a) declarar que é proprietário do software de sinistro; b) condenar ao pagamento do valor correspondente a cada venda; c) condenar ao pagamento de danos morais; d) proibir a ré de efetuar quaisquer cessões ou transferências de uso do software de seguros. Juntou documentos (fls. 16/71). Houve emenda `a petição inicial (fls. 75/76).
+
+Após ser citada, a ré apresentou contestação (fls.97/113), defendendo que o software de seguros foi registrado perante o INPI, contando a data de criação em 26.02.1998.  Alegou ter mantido relação com a empresa Webset Informática tão somente para prestação de serviços na área de tecnologia, e não para desenvolvimento de softwares.
+
+ Houve réplica (fls. 238/247). 
+
+Determinou-se  a  realização  de  prova
+documental e pericial (fls. 253).
+
+Laudo pericial às fls. 341/471 e fls. 539/551.
+
+Na audiência de instrução e julgamento (fls. 680/681), foi tomado o depoimento pessoal do réu, e colhida a oitiva das testemunhas André Aparecido da Silva (fls. 682/683) e Carlos Batista Augusto (fls. 684/685).
+
+
+
+Ao final, as partes apresentaram alegações finais.
+
+FUNDAMENTO E 
+DECIDO.
+
+A ação é improcedente.
+
+
+Tratam-se de pontos controvertidos: a propriedade do software, a existência de contrato verbal para desenvolvimento do software no módulo de seguros, a efetiva venda do módulo após a integração com outros sistemas a empresas de seguros e a existência de repasse ao autor.
+
+Alega o autor, em sua tese inicial,  que teria desenvolvido  software de seguros, e que após tratativa verbal com a ré,  após ser finalizado, o mesmo foi integrado a outros módulos destinados à área de seguros, que no conjunto, foram vendidos a outras empresas, sem que sua cota parte fosse repassada.
+
+A requerida, em sua antítese, defendeu a inexistência de qualquer contrato verbal para o desenvolvimento do software, e afirmou, ainda, que o módulo sinistro foi registrado perante o INPI.
+
+Pois bem. Primeiro, verifico que a  prova da existência do contrato de desenvolvimento de software de sinistro entre as partes, uma vez que se trata de fato constitutivo do direito, cabe ao autor, nos termos do artigo 333, I do Código de Processo Civil.
+
+O autor, entretanto, não logrou a comprovação de tal fato, arcando com o ônus do descumprimento.
+
+Os depoimentos das testemunhas arroladas pelo autor não se prestam a comprovar a existência do contrato.
+
+Em primeiro lugar porque os depoimentos das testemunhas não comprovaram de forma satisfatória os fatos narrados constitutivos do direito do autor. O depoimento da ?testemunha? de nome André (fls. 682/683), apesar de compromissado, declarou que ajudou o autor na elaboração inicial do sistema de sinistro, a meu ver, interesse direto na causa, contrariando o disposto no artigo 405, § 3º, IV do Código de Processo Civil.
+
+Em segundo lugar porque o artigo 401 do Código de Processo Civil é expresso na previsão de que não se admite prova exclusivamente testemunhal para comprovar a existência de contratos cujo valor excedam o décuplo do salário mínimo, como é o caso dos autos.
+
+Nem se admite, como parece querer o patrono da autora, que os documentos carreados nos autos, consistentes nas trocas de email entre as partes, possa servir como ?começo de prova escrita?, uma vez que referidos documentos sequer estão firmado por ambas as partes ou por testemunhas.
+
+Além disso, o que o referido documento pode eventualmente comprovar é que as partes, em algum momento, negociaram a prestação de serviços de informáticas, mas não o desenvolvimento de softwares.
+
+Ademais, o laudo pericial foi conclusivo no sentido de que: ?a) os contratos celebrados entre as partes são de prestação de serviços relativo a desenvolvimento de software, e nada dispõem sobre propriedade intelectual (ex.: a quem pertenceria a titularidade do software, ou outras considerações  da mesma ordem); b) não foram localizados contratos de cessão de direitos ou declarações a respeito de titularidade (o que se teria por convenção em contrário), capaz de transferir a presunção legal em favor da requerida Fourway para o contratado Fábio Neves, Requerente; c) nenhum dos contratos previa criação de software, apenas e tão somente prestação de serviços, o que é corroborado pelas notas fiscais emitidas pela pessoa jurídica Website, de titularidade do requerente, e que discriminar tão somente horas de prestação de serviços.?.
+
+Não é demais comentar que ainda, que o autor é profissional da área de análise de sistemas, custa que desconheça a necessidade de registrar uma criação perante o INPI, e alegou ter desenvolvido referido software, sem qualquer documento lastreando a operação.
+
+Assim, não comprovada a existência de contrato de desenvolvimento de software, improcedente não só o pedido de declaração de domínio como também é improcedente os demais pedidos de condenação em indenização por eventuais danos.
+
+Ante o exposto, JULGO IMPROCEDENTE A AÇÃO, com análise de mérito, com fundamento no artigo 269, I do Código de Processo Civil. Condeno o autor, ainda, em custas e honorários de advogado, que arbitro em 15% do valor da causa, atentando ser a parte beneficiária da Justiça Gratuita.
+
+P.R.I.
+
+
+São Paulo, 28 de fevereiro de 2014.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

@@ -1,0 +1,61 @@
+
+
+SENTENÇA
+
+Processo Físico nº:0042731-57.2013.8.26.0001
+Classe ? Assunto:Procedimento Ordinário - Interpretação / Revisão de Contrato 
+Requerente:Maria Silva Nunes
+Requerido:Banco Itaucard S.A.
+
+
+
+Juiz(a) de Direito: Dr(a). Marcelo Bonavolontá
+
+
+Vistos.
+
+MARIA SILVA NUNES move AÇÃO DE REVISIONAL DE CLÁUSULAS CONTRATUAIS C.C. PEDIDO DE LIMINAR em face de BANCO ITAUCARD S/A, alegando, em síntese, ilegalidade das cláusulas da cédula de crédito bancário garantida por alienação fiduciária, que estipulou juros de forma capitalizada; abusividade da utilização da Tabela Price para amortização de dívidas, sendo cabível o Método de Gauss; impossibilidade de cumulação da comissão de permanência com outros encargos de mora; ilegalidade da cobrança da tarifa de cadastro; e, requereu declaração de nulidades e ilegalidades, revisão, compensação, repetição dobrada, e tutela antecipada para consignação em pagamento das prestações no valor que entende devido; declaração de ilegalidade na cobrança das tarifas e encargos de terceiro, devendo ser restituída do valor de R$ 955,16 pelo seu dobro. Pugnou pela procedência da ação.
+Juntou os documentos de fls. 07/29.
+O pedido de tutela antecipada restou indeferido (fls. 30).
+Citado o banco requerido apresentou a contestação de fls. 42/72 arguindo preliminar de inépcia da inicial. No mérito alegou que o autor detinha plena e total ciência das cláusulas e termos do pacto; que trata-se de contrato de adesão, cabendo ao autor ajustar não somente o valor que pretende ver concedido, assim como a forma de pagamento, data de vencimento e percentual de juros; que não houve onerosidade excessiva; da não limitação dos juros; da legalidade da capitalização dos juros. Pugnou pela improcedência da ação. 
+Manifestação da autora a fl. 81 do banco requerido a fls. 83.
+É o relatório. DECIDO.
+A jurisprudência tem admitido, em casos análogos ao presente, que o convencimento do julgador se forme com base exclusivamente nos elementos probatórios constantes dos autos, independentemente da realização de prova pericial.
+Ora, se mesmo quando realizada a prova pericial, não fica o juiz adstrito ao laudo, podendo, nos termos do artigo 436 do Código de Processo Civil, formar sua convicção com base em outros elementos de prova, com maior razão poderá julgar o feito sem a produção de prova técnica quando considerá-la desnecessária.
+Ademais, a análise da legalidade ou abusividade de juros e encargos contratuais constitui matéria de direito, podendo o quantum ser apurado na fase de liquidação ou cumprimento de sentença, além do que as matérias aqui combatidas são diversas das discutidas no âmbito do E. STJ, nos Recurso Especiais 1251331/RS e 1255573/RS, decididos sob a disciplina do artigo 543-C, do CPC, nada impedindo, portanto, o julgamento antecipado.
+Inicialmente, entendo que a petição inicial não é inepta. Ora, esta preencheu todos os requisitos do artigo 282 do Código de Processo Civil.
+Não procede a alegação de que ocorreram irregularidades no contrato firmado com a parte requerida. Inexiste qualquer cláusula abusiva ou comprovação de vício de vontade.
+No que diz respeito à alegada prática de anatocismo pela ré, a Súmula 121, STF estabelece que é vedada a capitalização dos juros, ainda que expressamente convencionada.
+Entretanto, por se tratar de CCB, o artigo 28, § 1º, I, da Lei nº 10.931/04 admite a estipulação dos juros de forma capitalizada, desde que expressamente pactuada pelas partes.
+In casu, a capitalização mensal dos juros está prevista na cláusula 11.4 da CCB juntada às fls. 19/22.
+Além disso, tal prática é admitida pelo artigo 5º, MP 2.170/01, que dispõe: Nas operações realizadas pelas instituições integrantes do Sistema Financeiro Nacional, é admissível a capitalização de juros com periodicidade inferior a um ano 
+De acordo com o referido dispositivo legal, para os contratos firmados a partir de 31 de março de 2000 com as instituições financeiras, ficou estabelecida a possibilidade de capitalização dos juros para períodos inferiores a 1 ano.
+A constitucionalidade da supracitada Medida Provisória é objeto da Ação Direta de Inconstitucionalidade nº 2.316, pendente de julgamento perante o Supremo Tribunal Federal.
+Entretanto, o E. Tribunal de Justiça de São Paulo vem entendendo que não se cogita da inconstitucionalidade da MP nº 1.963-17/00, reeditada sob o nº 2.170-36/01, pois até o final julgamento da ADI nº 2.316/DF pelo STF, fica presumida sua constitucionalidade. (14º Câmara de Direito Privado, Ap. 0219050-73.2010.8.26.0100, Rel. Des. Carlos Abrão, j. 14.08.2013).
+E o Superior Tribunal de Justiça firmou posicionamento no sentido de que deve prevalecer a presunção de constitucionalidade do art. 5º da MP nº 1.963-17/00, reeditada sob o nº 2.170-36/01, que admite a capitalização mensal de juros nas operações realizadas por instituições financeiras. 
+O princípio da imperatividade assegura a auto-executoriedade das normas jurídicas, dispensando prévia declaração de constitucionalidade pelo Poder Judiciário. Ainda que esta presunção seja iuris tantum, a norma só é extirpada do ordenamento com o reconhecimento de sua inconstitucionalidade. 
+E essa questão, na hipótese específica do art. 5º da MP nº 1.963-17/00, ainda não foi resolvida pelo STF, nem mesmo em sede liminar. (2ª Seção, REsp 1.061.530, Rel. Min. Nancy Andrighi, j. 22.10.2008 g.).
+Rejeito a alegação de abusividade da cláusula de capitalização mensal dos juros.
+Ademais, a aplicação da Tabela Price não se confunde com atualização monetária, porque é a decomposição de um valor principal ao longo do prazo contratual e com a incidência da taxa de juros pactuada, também decomposta ao longo do prazo contratual. 
+Segundo preleciona Arnaldo Rizzardo, pelo sistema da Tabela Price, também conhecido como Sistema Francês de Amortização, as prestações mantêm um valor uniforme desde o início até o final do contrato. As prestações são constantes, em termos reais, para todos os meses do financiamento. (Contratos de Crédito Bancário, 9ª ed., São Paulo, RT, 2010, pág. 143).
+Tal método é, enfim, a amortização do principal e juros, tendo por finalidade a eliminação ao término do contrato de qualquer valor a título de resíduo, observada ainda nos cálculos a atualização monetária. Rejeito, portanto, a alegação de ilegalidade da utilização da Tabela Price.
+Além disso, os encargos de mora pactuados no contrato não traduzem situação de comissão de permanência.
+De qualquer modo, no que tange a comissão de permanência, instituída na Resolução BACEN nº 15/66, alterada na Circular 77/67 e hoje disciplinada na Resolução BACEN nº 1.129/86, ilegal também não é sua contratação e cobrança, pois cuidando de negócio bancário essa forma de retribuição conta com a autorização legislativa acima fundamentada. A ilegalidade somente ocorre quando cumulada (Súmula 30 do C. STJ), situação, porém, diversa de quando é substituto contratual da correção (caso de aplicação da TR, este o índice próprio do SFN a teor das Leis 8.880/94 e 9.069/95). 
+E em sendo a comissão de permanência retribuição financeira, possível mesclar objetivo de mera atualização monetária (substituto de correção) com índices do próprio sistema bancário com objetivo remuneratório pelo não retorno do dinheiro na verificação de inadimplementos, o que se dá com juros acrescidos. 
+A propósito a Súmula 296 do C. STJ: Os juros remuneratórios, não cumuláveis com a comissão de permanência, são devidos no período de taxa média de mercado estipulada pelo Banco Central do Brasil, limitada ao percentual contratado. 
+Ilegalidade também inocorre na cumulação de comissão de permanência com multa, pois a vedação legal (inciso I da Resol. 1.129/86) só atinge a cobrança cumulada de quantias compensatórias, e multa não tem essa natureza, uma vez constituir penalidade pelo descumprimento contratual, sendo de natureza indenizatória. Rejeito, assim, a alegação de ilegalidade e abusividade de cumulação de comissão de permanência com outros encargos de mora.
+No tocante as tarifas, o autor, quando da assinatura do contrato, já sabia quais valores pagaria a título de tarifa de cadastro (R$ 615,00), IOF (R$ 34,15) e registro de Contrato (R$ 55,66). 
+E não ficou demonstrada a obtenção de vantagem exagerada, de modo a permitir a declaração de nulidade da cláusula por abusividade. Os valores cobrados podem ser considerados pequenos diante do montante objeto do contrato (R$ 8.000,00) e não provocam qualquer desequilíbrio na relação jurídica. 
+O contrato foi celebrado em 10.11.2011 e não há vedação para a cobrança das referidas tarifas nas Resoluções do Conselho Monetário Nacional, as quais ostentam natureza de remuneração pelo serviço prestado pela instituição financeira ao cliente. 
+O recente pronunciamento do Superior Tribunal de Justiça, quando do julgamento do REsp 1251331/RS, sob o rito do art. 543-C, do Código de Processo Civil, quanto à tarifa de cadastro e o IOF, já pacificou a questão: ?... Teses para os efeitos do art. 543-C do CPC: - 1ª Tese: Nos contratos bancários celebrados até 30.4.2008 (fim da vigência da Resolução CMN 2.303/96) era válida a pactuação das tarifas de abertura de crédito (TAC) e de emissão de carnê (TEC), ou outra denominação para o mesmo fato gerador, ressalvado o exame de abusividade em cada caso concreto. - 2ª Tese: Com a vigência da Resolução CMN 3.518/2007, em 30.4.2008, a cobrança por serviços bancários prioritários para pessoas físicas ficou limitada às hipóteses taxativamente previstas em norma padronizadora expedida pela autoridade monetária. Desde então, não mais tem respaldo legal a contratação da Tarifa de Emissão de Carnê (TEC) e da Tarifa de Abertura de Crédito (TAC), ou outra denominação para o mesmo fato gerador. Permanece válida a Tarifa de Cadastro expressamente tipificada em ato normativo padronizador da autoridade monetária, a qual somente pode ser cobrada no início do relacionamento entre o consumidor e a instituição financeira. - 3ª Tese: Podem as partes convencionar o pagamento do Imposto sobre Operações Financeiras e de Crédito (IOF) por meio de financiamento acessório ao mútuo principal, sujeitando-o aos mesmos encargos contratuais. 10. Recurso especial parcialmente provido?. (REsp 1251331/RS, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 28/08/2013, DJe 24/10/2013- grifei). 
+A instituição financeira cumpriu as suas obrigações decorrentes da relação creditícia, mediante a disponibilização do crédito contratado, razão que a autora não pode se furtar ao cumprimento das cláusulas livremente acordadas, a pretexto de serem abusivas. 
+O contrato deve ser cumprido como pactuado pelas partes, em respeito ao princípio do pacta sunt servanda, eis que inexistente qualquer vício da vontade. 
+Diante da legalidade das cláusulas da CCB, é descabido o pedido de repetição em dobro de quaisquer valores e de indenização por perdas e danos.
+Por último, o cálculo apresentado pela autora é unilateral e está em desacordo com o contrato. Em suma, é possível concluir que não foram praticadas as ilegalidades descritas pela autora, impondo-se, por corolário, a improcedência do pedido.
+Ante o exposto, JULGO IMPROCEDENTE a ação e CONDENO a autora nas custas, despesas processuais, e honorários advocatícios de 15% sobre o valor da causa atualizado do ajuizamento.
+P.R.I.
+
+De Santa Fé do Sul para São Paulo, 15 de abril de 2014.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

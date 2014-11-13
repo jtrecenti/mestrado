@@ -1,0 +1,74 @@
+
+
+SENTENÇA
+
+Processo nº:1004418-67.2014.8.26.0003
+Classe - AssuntoEmbargos À Execução - Nulidade / Inexigibilidade do Título
+Embargante:BORDOPLAST INDÚSTRIA E COMÉRCIO LTDA
+Embargado:Itaú Unibanco S/A.
+
+
+
+
+
+Vistos, etc.
+
+BORDOPLAST INDÚSTRIA E COMÉRCIO LTDA. opôs EMBARGOS DO DEVEDOR C.C. INCIDENTE DE FALSIDADE DOCUMENTAL na Execução (Proc. nº 1000849-58.2014) que lhe move ITAÚ UNIBANCO S/A, arguindo falsidade do título executivo extrajudicial, pois assinou contrato diverso, não lhe sendo entregue cópia do instrumento, e o contrato que embasa a execução não está rubricado em todas as páginas; e, no mérito, alegando, em síntese, ausência de título executivo, pois o contrato não foi firmado por duas testemunhas, nos termos do CPC, artigo 585, II; ilegalidade da utilização da ?Tabela Price? como método de amortização da dívida, por acarretar anatocismo; abusividade do percentual dos juros remuneratórios; impossibilidade de cobrança de comissão de permanência cumulada com correção monetária; cabimento de indenização por danos morais, em razão da inscrição do seu nome e de seus sócios junto aos cadastros dos órgãos de proteção ao crédito; e, requereu concessão de efeito suspensivo e a procedência.
+O embargado impugnou (fls.75/106) alegando em síntese, que a embargante deixou de impugnar a abertura da conta corrente e a utilização do crédito contratado, tendo adimplido 25 das 48 parcelas contratadas, motivo pelo qual o título executivo é verdadeiro; que o contrato que embasou a execução é título executivo, por força do CPC, artigo 585, VIII, c.c. artigo 26 e seguintes da Lei número 10.931/04; desnecessidade de rubrica nas páginas da ?CCB?, por não configurar requisito de emissão do título de crédito; legalidade das cláusulas contratuais, motivo pelo qual o contrato deve ser cumprido como pactuado pelas partes, em respeito ao princípio do pacta sunt servanda; possibilidade de cobrança de juros capitalizados na ?CCB?, nos termos do artigo 28, § 1º, da Lei número 10.931/04; que a utilização da ?Tabela Price? para amortização da dívida não acarreta anatocismo; legalidade da cobrança da comissão de permanência; e, requereu improcedência.
+É o relatório. DECIDO.
+Julgo nos termos do CPC, artigo 740, ?caput?. 
+INCIDENTE DE FALSIDADE
+Rejeito a arguição de falsidade da cédula de crédito bancário que embasa a execução ajuizada contra os embargantes, pois é desnecessária aposição de rubrica em todas as páginas do contrato, de modo que tal fato, por si só, não é suficiente para demonstrar falsidade material ou ideológica do documento contratual.
+Sobre o tema, o Egrégio Tribunal de Justiça de São Paulo assentou que: ?Por essa lente, decorrendo o crédito exequendo de cédula de crédito bancário, é viva sua liquidez, certeza e exigibilidade, as quais decorrem de expresso mandamento legal (art. 28, Lei nº 10.931/04). Anote-se que é irrelevante o fato de não haver a assinatura de duas testemunhas e a rubrica dos contraentes em todas as páginas da aludida cédula, uma vez que dos extratos juntados pelo banco-credor se percebe claramente que os devedores se utilizaram do valor que lhes fora liberado após a assinatura do referido título (fls. 36/40).? (11ª Câmara de Direito Privado, Ap. 0034826-14.2010.8.26.0451, Rel. Des. Rômolo Russo, j. 04.07.2013 - grifamos).
+Além disso, a embargante deixou de comprovar assinatura de contrato diverso, não especificando sequer qual teria sido esse contrato e seu valor, razão pela qual não se desincumbiu do ônus da prova, nos termos o CPC, artigo 333, I.
+Portanto, acolho alegação do embargado de validade da CCB emitida de instrumento de confissão de dívida pactuado pelas partes, pois a embargante deixou de impugnar a contratação anterior que o originou, bem como a utilização do crédito contratado, além de ter efetuado pagamento de mais da metade do valor da ?CCB?.
+TÍTULO EXEXCUTIVO 
+A cédula de crédito bancário é título executivo extrajudicial, por força do artigo 28, da Lei número 10.931/04, que estabelece: ?A Cédula de Crédito Bancário é título executivo extrajudicial e representa dívida em dinheiro, certa, líquida e exigível, seja pela soma nela indicada, seja pelo saldo devedor demonstrado em planilha de cálculo, ou nos extratos da conta corrente.? (g.).
+Nesse sentido, a Súmula 14 do Egrégio Tribunal de Justiça de São Paulo estabelece: ?A cédula de crédito bancário regida pela Lei nº 10.931/04 é título executivo extrajudicial?.
+E, como a ?CCB? de fls.31/39 trata de confissão de dívida, é aplicável ao caso também a Súmula 300, do C. STJ, que dispõe: ?O instrumento de confissão de dívida, ainda que originário de contrato de abertura de crédito, constitui título executivo extrajudicial?.
+Rejeito, portanto, a alegação de ausência de título executivo extrajudicial.
+CAPITALIZAÇÃO/TABELA PRICE/GAUSS
+No que diz respeito à alegada prática de anatocismo pela ré, a Súmula 121, STF estabelece que ?é vedada a capitalização dos juros, ainda que expressamente convencionada?.
+Entretanto, por se tratar de ?CCB?, o artigo 28, § 1º, I, da Lei nº 10.931/04 admite a estipulação dos juros de forma capitalizada, desde que expressamente pactuada pelas partes.
+No caso, a capitalização mensal dos juros está prevista na cláusula 1.7.3 da ?CCB? acostada às fls. 31/39.
+Além disso, tal prática é admitida pelo artigo 5º, Medida Provisória 2.170/01, que dispõe: ?Nas operações realizadas pelas instituições integrantes do Sistema Financeiro Nacional, é admissível a capitalização de juros com periodicidade inferior a um ano? (grifamos).
+De acordo com o referido dispositivo legal, para os contratos firmados a partir de 31 de março de 2000 com as instituições financeiras, ficou estabelecida a possibilidade de capitalização dos juros para períodos inferiores a 1 ano.
+A constitucionalidade da supracitada Medida Provisória é objeto da Ação Direta de Inconstitucionalidade nº 2.316, pendente de julgamento perante o Supremo Tribunal Federal.
+Entretanto, o E. Tribunal de Justiça de São Paulo vem entendendo que ?não se cogita da inconstitucionalidade da MP nº 1.963-17/00, reeditada sob o nº 2.170-36/01, pois até o final julgamento da ADI nº 2.316/DF pelo STF, fica presumida sua constitucionalidade.? (14º Câmara de Direito Privado, Ap. 0219050-73.2010.8.26.0100, Rel. Des. Carlos Abrão, j. 14.08.2013 - grifamos).
+E o Superior Tribunal de Justiça firmou posicionamento no sentido de que ?deve prevalecer a presunção de constitucionalidade do art. 5º da MP nº 1.963-17/00, reeditada sob o nº 2.170-36/01, que admite a capitalização mensal de juros nas operações realizadas por instituições financeiras. O princípio da imperatividade assegura a auto-executoriedade das normas jurídicas, dispensando prévia declaração de constitucionalidade pelo Poder Judiciário. Ainda que esta presunção seja iuris tantum, a norma só é extirpada do ordenamento com o reconhecimento de sua inconstitucionalidade. E essa questão, na hipótese específica do art. 5º da MP nº 1.963-17/00, ainda não foi resolvida pelo STF, nem mesmo em sede liminar.? (2ª Seção, REsp 1.061.530, Rel. Min. Nancy Andrighi, j. 22.10.2008 ? g.).
+Rejeito a alegação de abusividade da cláusula de capitalização mensal dos juros.
+Ademais, a aplicação da ?Tabela Price? não se confunde com atualização monetária, porque é a decomposição de um valor principal ao longo do prazo contratual e com a incidência da taxa de juros pactuada, também decomposta ao longo do prazo contratual. 
+Segundo preleciona Arnaldo Rizzardo, ?pelo sistema da ?Tabela Price?, também conhecido como Sistema Francês de Amortização, as prestações mantêm um valor uniforme desde o início até o final do contrato. As prestações são constantes, em termos reais, para todos os meses do financiamento.? (Contratos de Crédito Bancário, 9ª ed., São Paulo, RT, 2010, pág. 143).
+Tal método é, enfim, a amortização do principal e juros, tendo por finalidade a eliminação ao término do contrato de qualquer valor a título de resíduo, observada ainda nos cálculos a atualização monetária.
+Rejeito, portanto, a alegação de ilegalidade da utilização da ?Tabela Price?.
+JUROS REMUNERATÓRIOS
+O percentual de juros remuneratórios superiores a 1% a.m. ou 12% a.a. não é ilegal, pois a limitação prevista no Decreto Lei nº 22.626/33 não se aplica às instituições financeiras por força da Lei de Reforma Bancária (Lei número 4.595/64), recepcionada na CF/88 ao remeter regulamentação à lei complementar, e ao Conselho Monetário Nacional, do que continua prevalecendo interpretação do C. STF exarada no verbete da Súmula 596 de que ?As disposições do decreto 22.626/1933 não se aplicam às taxas de juros e aos outros encargos cobrados nas operações realizadas por instituições públicas ou privadas, que integram o sistema financeiro nacional?.
+Além disso, o artigo 192, §3º, CF, que previa a necessidade de lei complementar a fim de regular a limitação da taxa de juros em 12% ao ano, foi expressamente revogado pela EC 40/2003. Por tal razão, o Supremo Tribunal Federal editou a Súmula Vinculante 7, que dispõe: ?A norma do §3º do artigo 192 da Constituição, revogada pela Emenda Constitucional nº 40/2003, que limitava a taxa de juros reais a 12% ao ano, tinha sua aplicação condicionada à edição de lei complementar?.
+Rejeito, portanto, a alegação de ilegalidade e abusividade do percentual dos juros remuneratórios.
+COMISSÃO DE PERMANÊNCIA
+No que tange a comissão de permanência, instituída na Resolução BACEN nº 15/66, alterada na Circular 77/67 e hoje disciplinada na Resolução BACEN nº 1.129/86, ilegal também não é sua contratação e cobrança, pois cuidando de negócio bancário essa forma de retribuição conta com a autorização legislativa acima fundamentada. 
+A ilegalidade somente ocorre quando cumulada a comissão de permanência com correção monetária (Súmula 30 do C. STJ), situação, porém, diversa de quando é substituto contratual da correção (caso de aplicação da TR, este o índice próprio do SFN a teor das Leis 8.880/94 e 9.069/95). 
+No caso, inexiste cumulação da comissão de permanência com correção monetária, tanto que a cláusula 12.2 estipula expressamente: ?No caso de processo judicial, em lugar da comissão de permanência, autorizamos o Itaubanco a optar pela cobrança de correção monetária? (fls.35 ? grifamos).
+E em sendo a comissão de permanência retribuição financeira, possível mesclar objetivo de mera atualização monetária (substituto de correção) com índices do próprio sistema bancário com objetivo remuneratório pelo não retorno do dinheiro na verificação de inadimplementos, o que se dá com juros acrescidos. 
+A propósito a Súmula 296 do C. STJ: ?Os juros remuneratórios, não cumuláveis com a comissão de permanência, são devidos no período de taxa média de mercado estipulada pelo Banco Central do Brasil, limitada ao percentual contratado?.
+Ilegalidade também inocorre na cumulação de comissão de permanência com multa, pois a vedação legal (inciso I da Resol. 1.129/86) só atinge a cobrança cumulada de quantias compensatórias, e multa não tem essa natureza, uma vez constituir penalidade pelo descumprimento contratual, sendo de natureza indenizatória. 
+Rejeito, assim, a alegação de ilegalidade e abusividade de cumulação de comissão de permanência com correção monetária.
+CONTRATO/CUMPRIMENTO
+A instituição financeira cumpriu as suas obrigações decorrentes da relação creditícia, mediante a disponibilização do crédito contratado, razão pela qual a embargante não pode se furtar ao cumprimento das cláusulas livremente acordadas. 
+O contrato deve ser cumprido como pactuado pelas partes, em respeito ao princípio do pacta sunt servanda, eis que inexistente qualquer vício da vontade.
+INDENIZAÇÃO
+Por fim, descabe indenização por danos morais, pois a inscrição do nome do devedor nos cadastros dos órgãos de proteção ao crédito configura exercício regular de direito da instituição financeira em função do débito contratual, da mora.
+Improcede os embargos à execução.
+
+Ante o exposto, JULGO IMPROCEDENTE estes EMBARGOS À EXECUÇÃO e condeno a embargante nas custas, despesas processuais, e honorários advocatícios de 15% sobre o valor da causa atualizado do ajuizamento (STJ, Súmula 14). 
+Certifique-se na Execução para os efeitos legais.
+P.R.I. 
+São Paulo, 16 de abril de 2014
+
+JOSÉ WAGNER DE OLIVEIRA MELATTO PEIXOTO
+                    JUIZ DE DIREITO
+           (assinatura digital)
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

@@ -1,0 +1,44 @@
+
+
+SENTENÇA
+
+Processo nº:0617195-52.2010.8.26.0016
+Classe ? Assunto:Procedimento do Juizado Especial Cível - Indenização por Dano Moral
+Requerente:JOAZ JOSE DA ROCHA FILHO
+Requerido:MERCADO LIVRE.COM ATIVIDADES DE INTERNET LTDA
+
+
+
+
+Juiz(a) de Direito: Dr(a). Henrique Vergueiro Loureiro
+
+
+Vistos.
+
+Dispensado o relatório, nos termos do art. 38, ?caput?da Lei nº. 9.099/95. 
+Os pedidos são parcialmente procedentes. 
+O sitio do Requerido não oferece mera pesquisa de preço, para posterior conclusão do negócio em outro ambiente da internet. 
+O Requerido efetivamente hospeda ofertas de produtos e serviços, que são, em seu próprio sítio, adquiridos. As negociações são efetivadas em seu sítio (por meio de perguntas dirigidas ao vendedor, e por ele respondidas). Ao final, o adquirente dá o seu lance, adquirindo (ou não) o produto ou serviço desejado. O Requerido percebe comissão pelos negócios concretizados (item 14 dos ?Termos e Condições Gerais de Uso do Mercado Livre?: (...) O cadastro no MercadoLivre é gratuito. Ao colocar um produto à venda, o usuário deverá pagar uma tarifa por anúncio e somente pagará uma tarifa de venda ao Mercado Livre quando a negociação se concretizar (,,,)? in www.mercadolivre.com.br). 
+Assim, diante desse quadro, pode o Requerido ser enquadrado no conceito de fornecedor (art. 3º da Lei nº. 8.078/90), respondendo pelos danos causados aos consumidores em razão de vício ou fato do serviço. 
+Nesse sentido já decidiu os nossos Tribunais: 
+?PRELIMINAR - A empresa apelante é fornecedora de serviço, enquadrando-se na forma especificada no artigo 3o, caput, do CDC e, assim sendo, participando, efetivamente, da "cadeia de consumo" tem ela efetiva responsabilidade pelos serviços disponibilizados aos seus consumidores. Princípio da solidariedade da responsabilidade dos fornecedores pela ocorrência de danos na relação de consumo. Art. 7o, parágrafo único e Art. 25, parágrafo único, ambos do CDC. Preliminar rejeitada. INDENIZAÇÃO - DANO MORAL INEXISTÊNCIA - SITUAÇÃO QUE CONFIGURA MERO DISSABOR - A ocorrência de mero dissabor não tem força necessária para autorizar o arbitramento de condenação por danos morais. Recurso do autor apelante não provido para esse fim. INDENIZAÇÃO - DANOS MATERIAIS EXISTÊNCIA E COMPROVAÇÃO - SERVIÇOS DE INTERNET PRESTADOS DE FORMA INADEQUADA - ART. 14 DO CDC. EFETIVA EXISTÊNCIA DE RELAÇÃO DE CONSUMO - A empresa que disponibiliza site de intermediação para compra e venda de produtos tem o dever de fiscalizar a idoneidade das empresas que oferecem seus  produtos em tal site. Se p a /empresa que disponibiliza tal serviços em seu site é negligente na fiscalização da idoneidade dessas empresas vendedoras responde pelos prejuízos suportados pelos consumidores que utilizam o seu site. Danos materiais existentes. Recurso da empresa apelante não provido para esse fim.
+(TJSP; Apelação 991090312679 (7390505000); Relator(a): Roberto Mac Cracken; 37ª Câmara de Direito Privado; Data do julgamento: 21/10/2009).
+
+?APELAÇÃO CÍVEL. COMÉRCIO ELETRÔNICO. COMPRA E VENDA DE APARELHO DE FAX VIA INTERNET. NÃO-ENTREGA DE MERCADORIA. DEVOLUÇÃO DO PREÇO. LEGITIMIDADE DO SITE QUE DISPONIBILIZA A REALIZAÇÃO DE NEGÓCIOS E RECEBE UMA COMISSÃO DO ANUNCIANTE, QUANDO CONCRETIZADO O NEGÓCIO. DEVOLUÇÃO DA QUANTIA PAGA. 1. O RÉU, NA QUALIDADE DE MANTENEDOR DO MEIO ELETRÔNICO EM QUE SE CONSUMOU O CONTRATO DE COMPRA E VENDA, É PARTE LEGÍTIMA PARA RESPONDER PELOS TERMOS DA AVENÇA, MORMENTE, NO PRESENTE CASO, EM QUE RECEBE COMISSÃO SOBRE AS VENDAS CONCRETIZADAS. 2. O SERVIÇO PRESTADO PELA RÉ, DE APRESENTAR O PRODUTO AO CONSUMIDOR E INTERMEDIAR NEGÓCIO JURÍDICO, RECEBENDO COMISSÃO PELA CONCRETIZAÇÃO DO CONTRATO, ENQUADRA-SE NAS NORMAS DO CÓDIGO DE DEFESA DO CONSUMIDOR (ARTIGO 3º, PARÁGRAFO SEGUNDO, DA LEI Nº 8.078/90). 3. MERECE CONFIRMAÇÃO SENTENÇA QUE CONDENOU A INTERMEDIADORA A INDENIZAR CONSUMIDOR PELO NÃO-RECEBIMENTO DE PRODUTO ADQUIRIDO EM SITE DE INTERNET DE RESPONSABILIDADE DAQUELA. REJEITADA A PRELIMINAR, APELAÇÃO DESPROVIDA. UNÂNIME. (TJRS; APELAÇÃO CÍVEL Nº 70.016.093.080; NONA CÂMARA CÍVEL - COMARCA DE FLORES DA CUNHA; APELANTE: MERCADOLIVRE ATIVIDADES DE INTERNET LTDA.; APELADO: SILMABI EQUIPAMENTOS ELÉTRICOS LTDA.)
+
+A atuação do Requerido é distinta dos jornais e revistas (que disponibilizam ofertas) e dos sítios de busca e comparação de preços. Pois, além de ostentar ofertas, o Requerido abriga espaço, em seu próprio ambiente virtual, para tratativas e conclusão do negócio, percebendo comissão pelas aquisições/vendas efetuadas.
+Afasto, ainda, a excludente de responsabilidade ?culpa exclusiva do consumidor?. Em que pese tenha o Autor acreditado em email falso (fl. 22), cabe ao Requerido verificar dados e fiscalizar compradores e vendedores, para evitar fraudes, como a presente. Ou seja, apesar de o Autor ter agido com culpa, não vislumbro culpa exclusiva apta a afastar a responsabilidade do Requerido. 
+Ressaltando-se que o Requerido deduziu cobrança de comissão (fl. 29), reforçando a sua responsabilidade pelo cumprimento da obrigação. 
+Assim, deverá o Requerido reparar os danos materiais experimentados pelo Requerente (R$ 1.000,00, menos o valor relacionado à comissão ? R$ 95,00 - corrigido monetariamente desde o mês do fato, junho de 2010 e acrescido de juros de mora de 1% ao mês, a partir da citação). A comissão é devida, diante da venda concretizada, cuja responsabilidade pelo pagamento foi imputada ao Requerido. 
+Por seu turno, o pedido de reparação por dano moral não merece acolhida.
+Dano moral é lesão a direito da personalidade. Neste caso, não vislumbramos lesão a direito da personalidade do Requerente.
+O Requerente, é bem verdade, teve aborrecimentos com a alienação do bem e com o posterior bloqueio de utilização (pelo não pagamento de comissão). Mas esses aborrecimentos são ordinários, decorrentes da vida em sociedade. Mesmo porque o Autor é advogado (exerce outra atividade profissional), restando irrelevante a possibilidade de se utilizar novamente dos serviços do Requerido (principalmente após a ocorrência de fraude). 
+Nessa linha de entendimento Sérgio Cavalieri Filho pondera que ?mero dissabor, aborrecimento, mágoa, irritação ou sensibilidade exacerbada estão fora da órbita do dano moral, porquanto, além de fazerem parte da normalidade do nosso dia a dia, no trabalho, no trânsito, entre amigos e até no ambiente familiar, tais situações não são intensas e duradouras, a ponto de romper o equilíbrio psicológico do indivíduo. Se assim não se entender, acabaremos por banalizar o dano moral, ensejando ações judiciais em busca de indenizações pelos mais triviais aborrecimentos?. (in Programa de Responsabilidade Civil, 2ª Edição, p. 78, Malheiros Editores).
+No caso em tela, não se vislumbra qualquer ofensa a direito da personalidade do Requerente, mas mero aborrecimento decorrente de inadimplemento contratual.
+O não pagamento de um contrato, o não pagamento dos honorários periciais ou advocatícios, o não pagamento dos serviços médicos, um acidente de trânsito, em suma, o ato ilícito em geral, por si só, não é suficiente à configuração da lesão moral. 
+É necessário algo mais, que não restou configurado ?in casu?. 
+Portanto, o pedido de dano moral é improcedente.
+Assim, e por todo o exposto, julgo parcialmente procedente o pedido, para (i) condenar o Requerido ao pagamento da quantia de R$ 905,00, corrigida monetariamente desde junho de 2010 e acrescida de juros de mora de 1% ao mês, a partir da citação; (ii) pela compensação aqui concretizada, declarar extinta a obrigação do Autor de pagar ao Requerido o valor relacionado à comissão pela venda descrita na inicial (R$ 95,00, fls. 29/30); (iii) condenar o Requerido ao cumprimento de obrigação de não fazer, consistente em não mais bloquear o cadastro do Autor em seu sítio eletrônico (pelo não pagamento da obrigação descrita no item ?ii? ? comissão ? aqui declara extinta, pela compensação). 
+Sem custas e honorários advocatícios. 
+
+São Paulo, 09 de setembro de 2011.

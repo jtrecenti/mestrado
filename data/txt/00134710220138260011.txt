@@ -1,0 +1,80 @@
+
+
+SENTENÇA
+
+Processo Físico nº:0013471-02.2013.8.26.0011
+Classe - AssuntoProcedimento Ordinário - Responsabilidade Civil
+Requerente:Yamaha Motor da Amazônia Ltda.
+Requerido:Odair de Souza Melo
+
+Juiz(a) de Direito: Dr(a). Rogério de Camargo Arruda
+
+Vistos.
+
+YAMAHA MOTOR DA AMAZÔNIA LTDA. ajuizou ação cominatória de obrigação de não fazer c.c. indenização por danos materiais, e pedido de tutela antecipada em face de ODAIR DE SOUZA MELO, alegando, em síntese, o réu se valendo da condição de prestador de serviços de informática e da confiança que lhe fora depositada pela autora por meio de contrato de sigilo e confidencialidade, adentrara no sistema de gestão empresarial denominado Oracele E-Busines Suite e desviara ordens de pagamentos em favor da sua empresa Leadership Consultoria de Sistemas S/C Ltda. nas importâncias de R$ 21.048,00 e de R$ 3.743,00, cujos pagamentos seriam destinados às empresas Loducca Publicidade Ltda. e Conquest Consulting Tecnologia em Informação Ltda. Além disso, pugna pela antecipação da tutela visando inibir o requerido adentrar no sistema novamente, sob pena de multa. Pugna pelo recebimento dos valores indevidamente apropriados pelo réu de R$ 24.791,00; reembolso das despesas com contratação de perito profissional de R$ 44.500,00; honorários com advogado de R$ 51.194,16; e despesas com emolumentos perante o Tabelião de Notas de R$ 11.695,28, que totalizam o montante de R$ 132.180,44. Emenda à inicial às folhas 192/200.
+
+A tutela foi antecipada às folhas 201.
+
+Citado por carta precatória (folha 247), o réu ofereceu contestação às folhas 258/269, alegando, preliminarmente, ilegitimidade passiva ad causam, pois a prestação de serviços teria sido firmada entre a autora e a empresa Leadership Consultoria de Sistemas S/C. Ltda. Conformou que realmente ocorreram os lançamentos indevidos em favor da empresa Leadership pelo sistema da empresa autora, porém tais problemas seriam decorrentes da própria unificação dos serviços seja por erro de digitação ou de lançamento. Não tomou nenhuma providência em relação ao dinheiro creditado porque a empresa em questão seria credora da empresa requerente. Apesar da apuração do problema pelo requerido, não foi possível a solução porque fora acusado de ato que não teria praticado. Negou que tivesse tentado adentrar no sistema da autora. Impugnou o teor do laudo pericial e o valor dos honorários pretendidos. Pediu que houvesse a compensação dos montantes cobrados nesta ação com os créditos que sua empresa faria jus.
+
+Réplica às folhas 274/287.
+
+É o relatório.
+
+Fundamento e decido.
+
+De início, rejeito a preliminar de ilegitimidade suscitada pela parte requerida, uma vez que, sendo ele o apontado como o beneficiário da apropriação narrada pela inicial, tem legitimidade para figurar no polo passivo da presente ação indenizatória.
+
+Posto isso, o feito comporta julgamento de seu mérito,  no estado em que se encontra, tendo em vista que as alegações das parte e a documentação por elas acostada aos autos permitem a prolação da sentença, independentemente da produção de outras provas, nos termos do artigo 330, inciso I do Código de Processo Civil.
+
+Posto isso, a ação é parcialmente procedente.
+
+Isso porque, resta incontroverso nos autos que a parte requerida prestou serviços de consultoria de sistemas à requerente, sendo ele sócio proprietário da empresa denominada Leadership Consultoria de Sistemas S/C Ltda., como atestam os documentos de folhas 113/117. 
+
+Empresa essa que, como apurado pelo minucioso trabalho técnico acostado às folhas 119/178, se beneficiou de valores que deveriam ter sido dirigidos à outas empresas (Loducca Publicidade Ltda. e Conquest) ? folhas 126/136, em razão de manipulação de dados, como consta das conclusões de folhas 136 e 163, das quais se destacam:
+...
+Logo, resta claro que houve manipulação de dados para realizar a troca de notas fiscais (de número 85/Conquest para número 185/Leadership), ambas associadas ao número de recebimento 1049084. Foi realizado pagamento para a Ladership no valor de R$ 3743,00;
+(...)
+Por maio desses controles, a empresa detectou a existência de pagamentos indevidos que têm como beneficiária a empresa Leadership. 
+(...)
+Os dados para crédito na conta corrente correspondem à Leadership, porém os demais dados imprescindíveis para que o sistema efetue o pagamento não estão corretos, porque correspondem a dados utilizados no pagamento de outros fornecedores.
+(...)
+Como o sistema previne a reutilização dos dados, a ocorrência indica que houve manipulação direta desses registros, com duplicação e reaproveitamento indevido de dados, sem controle via telas do sistema.
+Os pagamentos com inconsistências que beneficiam a empresa Leadership têm cadastrados os valores R$ 21.048,00 e R$ 3.743,00 e datas de pagamento 27 de novembro e 03 de dezembro de 2012, respectivamente.
+Embora não autorizado, há registros de acesso do código de usuário flar-odair1 ao ambiente de produção da consulente (g.N.)
+
+Como se observa, além da evidência dos próprios fatos ? o consultor réu prestou serviços à requerente e, no período, houve alteração de dados de pagamentos que deveriam ser dirigidos para terceiros, mas o foram destinados para sociedade controlada pelo requerido, o trabalho técnico realizado por Instituto de renomada higidez corrobora as afirmações iniciais.
+
+E, ademais, o requerido, em sua contestação, confessa a existência dos lançamentos equivocados (folhas 261) ? chama a atenção o fato de que tais equívocos tenham se dado justamente em seu período de atuação como consultor e tenham lhe favorecido e a mais ninguém? apenas justificando seu (conveniente) silencio em razão da existência de supostos e não comprovados valores a receber. 
+
+Note-se, nesse particular, que, além da confissão, não se pode reconhecer o direito à referida compensação, uma vez que não se preocupou o requerido em trazer aos autos sequer um único documento ? sobretudo na forma determinada pelo artigo 396, do Código de Processo Civil, capaz de comprovar seu alegado crédito.
+
+Portanto, aplicada a norma do artigo 302, do Código de Processo Civil, impõe-se o reconhecimento da veracidade do quanto alegado na petição inicial, amparado, ademais, por relevantes elementos técnicos, de forma a se reconhecer o direito da requerente em se ver reparada pelo requerido dos prejuízos sofridos, seja pelo benefício evidentemente por ele auferido ilicitamente  ainda que por interposta pessoa -, seja pelo fato de ter ele sido o causador do dano. 
+
+Nesse sentido, além dos valores desviados, impõe-se o acolhimento dos demais pedidos da requerente tendo em vista que a prova documental juntada no feito bem demonstra a apropriação indébita de numerário pelo réu, bem como as despesas com a contratação de perito profissional visando apuração da fraude em seu sistema, além do desembolso com custas junto ao Tabelionato de Notas (folhas 61, 179/183 e 185/187).
+
+Todavia, ainda que se reconheça o dever do réu em responder por tais valores e também pelos gastos tidos com a apuração, não se pode incluir nessa conclusão, as rubricas relacionadas aos valores pelo requerente gastos com a contratação de seus nobres e competentes advogado para lhe representar nesta demanda.
+
+Isso porque, nos termos do que leciona Yussef Said Cahali: não são reembolsáveis, a título de honorários de advogado, as despesas que a parte enfrenta em razão do ajuste com o profissional a título de honorários profissionais, para o patrocínio de sua causa 'in misura superiore a quella poi ritenuta côngrua dal giudice' (Honorários Advocatícios, 3.ª edição, págs. 418-419). 
+
+Nesse sentido, deve a requerente arcar com as despesas relativas à contratação de seu advogado uma vez que o contrato de prestação de serviços advocatícios entre eles entabulados apenas os vincula, não sendo possível o ressarcimento. Nesse sentido:
+
+INDENIZAÇÃO - DANO MATERIAL - CONTRATAÇÃO DE ADVOGADO - O contrato de honorários vincula apenas o advogado e seu cliente, não cabendo ressarcimento pela contratação do profissional (TJSP - Apelação 9139057-41.2004.8.26.0000 - Rel. Roberto Mac Cracken - DJ: 07.05.2008 - g.n.).
+
+Ademais, a contratação de advogados, por si só, não gera direito à indenização reclamada, não sendo aplicáveis ao caso os artigos 389 e 404 do Código Civil, como, aliás, também já decidiu o Egrégio Tribunal de Justiça deste Estado:
+
+Os honorários de advogado contratado pela autora para defesa de seus direitos não são reembolsáveis eis que não se encartam no conceito de danos materiais (TJSP: Apel. 0015782-06.2008.8.26.0604 - Rel. Des. Kioitsi Chicuta - DJ: 17/02/2011 - g.n.).
+
+Diante do exposto, JULGO PARCIALMENTE PROCEDENTE os pedidos para: a) tornar definitiva tutela que fora antecipada (folhas 201); b) condenar o requerido a se abster de acessar o sistema da requerente, por qualquer meio, sob as penas definidas às folhas 201; c) condenar o requerido à pagar à autora o valor de R$ 80.986,28 - referente aos valores desviados, trabalho técnico contratado e emolumentos - acrescido de correção monetária calculada pela Tabela Prática do E.TJSP, desde o desembolso e de juros de mora de 1% ao mês a partir da citação.
+
+Pela causalidade e sucumbência na substância da demanda, arcará o requerido com as custas e despesas processuais, bem como com os honorários advocatícios da  parte contrária, fixados em 10% sobre o valor atualizado da causa.
+
+Restam as partes advertidas, desde logo, que a oposição de embargos de declaração fora das hipóteses legais e/ou com efeitos infringentes lhes sujeitará a imposição da multa prevista pelo artigo 538, parágrafo único, do Código de Processo Civil.
+
+P.R.I.C.
+
+
+São Paulo, 11 de abril de 2014.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

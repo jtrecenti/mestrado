@@ -1,0 +1,57 @@
+
+
+SENTENÇA
+
+Processo nº:0010478-72.2011.8.26.0005
+Classe - AssuntoProcedimento Ordinário - Rescisão / Resolução
+Requerente:José Izidorio dos Santos
+Requerido:Real Leasing Arrendamento Mercantil
+
+
+
+
+
+CONCLUSÃO :
+Aos     25.6.2013                        , promovo a conclusão destes autos ao Dr. FÁBIO HENRIQUE FALCONE GARCIA, MM. Juiz de Direito Titular da 3ª Vara Cível deste Foro Regional de São Miguel Paulista, Comarca de São Paulo. _____________.
+
+JOSÉ IZIDORO DOS SANTOS ajuizou ação ordinária em face de REAL LEASING ARRENDAMENTO MERCANTIL visando à rescisão de contrato firmado para aquisição de veículo. Alega que não estava pagando as prestações do arrendamento mercantil, quando o veículo foi furtado, pelo que entende não ter mais o dever de custear o financiamento, diante do perecimento do objeto.
+A inicial foi indeferida, desafiando recurso de apelação, provido (fls. 67/72).
+Citada, a SANTANDER LEASING S/A ARRENDAMENTO MERCANTIL (sucessor da Real Leasing) contestou, sustentando a necessidade de manutenção do contrato, tendo em vista a impossibilidade de vir a responder pelo furto praticado por terceiro. 
+Houve réplica.
+A financeira não pugnou por provas. O autor pediu que a ré apresentasse planilha dos valores pagos.
+É o relatório.
+Não há necessidade de dilação probatória.
+Embora eu tenha assinalado, quando do indeferimento da inicial, que o autor estava em mora, reexaminando os autos, tenho que razão lhe assiste no que diz respeito ao direito de rescisão contratual e de recuperação do VRG pago.
+Deveras, na ocasião, interpretei o inadimplemento do contrato de seguro como parte do contrato de arrendamento mercantil. Mas o contrato não faz qualquer menção ao seguro que foi contratado com terceira pessoa.
+Assim, não havia inadimplemento capaz de justificar a imposição da responsabilidade pelo perecimento da coisa ao consumidor. 
+Na realidade, o contrato de arrendamento permaneceu sendo pago, inclusive depois do furto (fls. 39/50). Esses pagamentos, por outro lado, não foram impugnados em defesa.
+Se assim é, a solução é a procedência do pleito rescisório.
+Dispõe o Código Civil: 
+Art. 399. O devedor em mora responde pela impossibilidade da prestação, embora essa impossibilidade resulte de caso fortuito ou de força maior, se estes ocorrerem durante o atraso; salvo se provar isenção de culpa, ou que o dano sobreviria ainda quando a obrigação fosse oportunamente desempenhada.
+
+Ausente a mora, contudo, aplica-se o disposto no artigo 393 do CC:
+Art. 393. O devedor não responde pelos prejuízos resultantes de caso fortuito ou força maior, se expressamente não se houver por eles responsabilizado.
+Parágrafo único. O caso fortuito ou de força maior verifica-se no fato necessário, cujos efeitos não era possível evitar ou impedir.
+
+Essa a hipótese dos autos. A solução da questão deve ser feita à luz da natureza do contrato de arrendamento mercantil. O contrato de arrendamento mercantil envolve duas operações, coligadas: uma, de locação; outra, de venda e compra, caracterizada pela opção ao final.
+Se a opção de compra torna-se impossível, em virtude do perecimento do objeto, e o autor não deu causa a esse perecimento, o contrato deve ser resolvido, sem perdas e danos de parte a parte.
+Isso significa que o VRG deveria ser restituído integralmente ao consumidor, que somente deverá responder pelos encargos contratuais (leia-se, locação) devidos até a subtração do bem.
+No caso, porém, o pedido se limita a reconhecer a exoneração do consumidor, em relação aos encargos contratuais vencidos após a subtração. Com razão.
+Até pouco tempo, nas ações destinadas à restituição do VRG pago, eu vinha decidindo pela necessidade de liquidação do contrato para apuração de eventual saldo credor, em favor do arrendatário. Os fundamentos de minha posição eram embasados em posicionamento jurisprudencial do Tribunal de Justiça de São Paulo, a seguir transcrito:
+(...) Tendo-se em vista que, enquanto o arrendatário detém a  posse do bem ele deve pagar as contraprestações mensais avençadas, devidas pelo uso e gozo da coisa arrendada (uma espécie de aluguel pelo uso da coisa), evidentemente que, no caso, o pedido de perdimento a favor da arrendadora das ?parcelas pagas? refere-se, exclusivamente às parcelas do VRG pagos antecipadamente com as contraprestações, já que estes são os valores passíveis de devolução ao arrendatário em caso de não exercício da opção de compra.
+Como cediço, na hipótese de resolução do contrato fundada no inadimplemento do arrendatário com a apreensão do bem arrendado, cabe a restituição dos valores pagos antecipadamente a titulo de VRG, pois a resolução impede o exercício da opção de compra.
+Não se desconhece que, conforme definido pela Portaria nº 564/78-MF, inciso 2, o valor residual é ?o preço contratualmente estipulado para o exercício da opção de compra, ou valor contratualmente garantido pela arrendatária como mínimo que será recebido pela arrendadora na venda a terceiros do bem arrendado na hipótese de não ser exercida a opção de compra?.
+Contudo, consoante esclarece José Francisco Lopes de Miranda Leão, ?(...) essa antecipação tem o caráter de caução, e, como qualquer garantia, deverá ser liberada em favor do caucionante, uma vez integralmente cumprida a obrigação contratual garantida. Portanto, caso o arrendatário não opte pela compra do bem, as antecipações deverão, sim, ser restituídas a ele, depois que o bem for vendido, alcançando pelo menos o valor previsto contratualmente. Caso não alcance esse valor, o arrendador, como qualquer credor caucionado, pode lançar mão da garantia, até o limite que falar para completar o montante estipulado. Em contrapartida, se o bem alcançar, na venda a terceiro, valor maior do que o que o contrato previa, não somente deverá ocorrer a devolução dos depósitos caucionários, como deverá haver, também, o repasse para o arrendatário do excesso recebido, uma vez que a estipulação contratual de valor para o bem é bilateral, valendo tanto para uma parte como para a outra?. (Leasing o arrendamento financeiro, Malheiros, 1999, p. 82) 
+Esta, também a orientação dominante no STJ: ? Desfeito o arrendamento mercantil, e não importa a causa, nada justifica a manutenção, com o arrendador, do referido valor pago por antecipação, devendo ser restituída ao arrendatário a quantia paga a título de VRG? (AREsp 093722, Rel.Min. Nancy Andrighi, DJ 07/02/2012). Neste mesmo sentido: AREsp 068755Rel. Min. Sidnei Beneti, DJ 25/11/2011; REsp 1285333, Rel. Min. Massami Uyeda, DJ 07/11/2011.
+Assim, rescindido o contrato, e apreendido o bem garantidor do contrato, somente após a liquidação será possível aferir a necessidade ou não de devolução do valor antecipado à arrendatária, sendo descabido o seu perdimento como penalidade pelo inadimplemento confessado (...). (TJSP, 35ª Câmara de Direito Privado, APELAÇÃO COM REVISÃO Nº 0022555-70.2010.8.26.0451, Rel. Des. Clóvis Castelo, j. 23.4.2012)
+No entanto, esse posicionamento carece de algumas ponderações, que justificam a alteração do modo de decidir. Ora, se, conforme definido pela legislação, o valor residual representa a opção de compra, não é possível tratá-lo como caução da compra do bem, sob pena de desvirtuamento do contrato de leasing. O contrato de arrendamento mercantil, ou leasing, caracteriza-se pela combinação de locação com a opção de compra ao final. Ora, para que o contrato tenha mantida sua característica natural, é preciso que se garanta ao consumidor a possibilidade de optar pela locação, pura e simples. 
+Isso significa que, embora possível a cobrança antecipada do VRG (Súmula 293 do C. STJ), em qualquer que seja a hipótese de resolução do contrato (ou seja, quer decorrente da opção ao final, quer decorrente de inadimplemento), o consumidor sempre terá o direito de reaver os valores pagos, caso não tenha sido efetuada a opção de compra. 
+Por isso, não é razoável condicionar a devolução do VRG à liquidação do contrato ou ao término do contrato. Em tese, a locação poderia ser refeita a favor de outro consumidor. A venda do veículo e o prejuízo correlato são opções da arrendadora. Nesse contexto, o reconhecimento do VRG como garantia da financeira somente poderia ser aceito, para não desnaturar o contrato de arrendamento mercantil, como uma caução restrita aos débitos referentes à locação, exclusivamente. 
+Não há como determinar a permanência do contrato, se o objeto pereceu, sem culpa do consumidor. E o consumidor não pode responder por uma locação que não mais ocorrerá. 
+Dito de outro modo: quem opera arrendamento mercantil poderia até, em tese, esperar receber o valor devido pela locação e pelos encargos decorrentes da mora; mas não pode opor o investimento realizado pela compra do bem, nas hipóteses de resolução do contrato sem realização dessa opção pelo consumidor. Por isso, até que se execute por completo o contrato de arrendamento mercantil, o risco de perecimento da coisa deve ser carreado ao arrendador.
+Ante o exposto, JULGO PROCEDENTE o pedido, para resolver o contrato, exonerando o autor dos pagamentos contratuais vencidos desde 31/8/2010 e para condenar a ré a devolver ao autor os valores pagos após essa data, atualizados desde o desembolso de cada prestação e acrescidos de juros de mora de 12% ao ano, a contar da citação. Reconhecido o adimplemento das prestações até essa data, antecipo a tutela para determinar que a ré se abstenha de incluir o nome do autor em cadastros de inadimplentes, por esse contrato ou, caso já tenha feito, providencie a exclusão do registro em 72 horas, sob pena de multa diária de R$ 200,00, limitada ao valor do contrato. Ante a sucumbência, a ré suportará as custas, despesas processuais, além dos honorários advocatícios fixados em 20% sobre o valor da condenação.
+P. R. I. C.
+São Paulo, 25 de junho de 2013
+
+FÁBIO HENRIQUE FALCONE GARCIA
+Juiz de Direito

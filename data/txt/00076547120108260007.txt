@@ -1,0 +1,91 @@
+
+
+SENTENÇA
+
+CONCLUSÃO
+Em 26 de novembro de 2010, faço estes autos conclusos à MMª Juíza de Direito Auxiliar da 3ª Vara Cível do Foro Regional de Itaquera, Dra. MARIA CLÁUDIA BEDOTTI. Eu, _______, escrevente, digitei e subscrevi.
+
+Processo nº:0007654-71.2010.8.26.0007 - Procedimento Ordinário
+Requerente:Francisco de Souza Duzarte
+Requerido:Banco Santander
+
+
+
+Juiz(a) de Direito: Dr(a). Maria Cláudia Bedotti
+
+
+
+Vistos.
+
+
+FRANCISCO DE SOUZA DUZARTE promoveu ação anulatória de débito c/c. pedido de indenização por danos materiais e morais contra BANCO SANTANDER S/A, alegando, em síntese, que terceiros, mediante fraude, efetuaram transações bancárias em sua conta, a saber, contratação de empréstimo e saques, e que o banco, mesmo ciente da fraude, debitou valores indevidos de sua conta, fatos que lhe causaram prejuízos materiais e morais. Requereu a procedência da ação, com a declaração de nulidade do contrato de empréstimo e a condenação do réu ao pagamento de indenização por danos materiais e morais, além das verbas de sucumbência.
+
+O réu contestou a ação a fls. 37/49, alegando, em síntese, que o autor é responsável pelas transações realizadas em sua conta com o cartão magnético, mesmo porque não comunicou a ocorrência ao banco. Argumentou, ainda, que não há provas de que os alegados danos morais teriam sido causados pelo banco e que inexiste o dever de indenizar. Impugnou, por fim, o valor pretendido a título de indenização e requereu a improcedência da ação.
+
+Réplica a fls. 61/65.
+
+Em especificação de provas, as partes pugnaram pelo julgamento antecipado da lide (fls. 69 e 70).
+
+É o relatório.
+
+DECIDO.
+
+O feito comporta o julgamento antecipado que ora se profere, porquanto encerra questão de direito e de fato que prescinde da produção de provas em audiência.
+
+A ação é procedente.
+
+Se não, vejamos.
+
+Os contratos bancários se sujeitam às disposições da legislação consumerista, de modo que a responsabilidade dos bancos, como prestadores de serviços, é objetiva. Logo, os bancos respondem, independentemente de culpa, pela reparação dos danos causados a seus clientes por defeitos decorrentes dos serviços que lhes prestam.
+
+Bem assim que a exclusão da responsabilidade da instituição financeira somente se dará nos casos em que o fornecedor de serviços comprovar que o defeito inexiste ou que, apesar de existir, a culpa é exclusiva do consumidor ou de terceiro (art. 14, § 3º do CDC).
+
+Demais disso, tratando-se de contrato de conta corrente ou contrato de depósito bancário, o banco responde objetivamente pelo numerário confiado em sua guarda. De fato, (...) o banco, como depositário do numerário confiado à sua guarda, responde por esses valores, independentemente de qualquer indagação ou circunstância, por força da teoria da guarda da coisa, quando assume obrigação de guardar e manter a incolumidade do bem, tendo em vista que responsabilidade deve recair sobre quem aufere os lucros com a utilização da riqueza alheia. De sorte que, se houver estelionato, fraude, furto ou roubo, de modo a privar o correntista dos valores depositados, a responsabilidade do banco é objetiva, não se indagando acerca da culpa (RUI STOCO, in Tratado da Responsabilidade Civil, 6ª edição, RT, 2004, p. 627).
+
+De outra banda, em matéria de movimentação indevida de conta-corrente, o ônus de provar a autoria das operações contestadas pelo cliente compete ao banco, seja em razão da inversão do ônus da prova facultada pelo artigo 6º, inciso VIII, do Código de Defesa do Consumidor, seja porque o ordenamento jurídico vigente não contempla a prova de fato negativo, de modo que não há como se exigir do cliente que prove que não efetuou a transação em sua conta.
+
+A propósito do tema, a 3ª Turma do C. Superior Tribunal de Justiça recentemente firmou jurisprudência no sentido de que i) é plenamente viável a inversão do ônus da prova (art. 333, II do CPC) na ocorrência de saques indevidos de contas-correntes, competindo ao banco (réu da ação de indenização) o ônus de provar os fatos impeditivos, modificativos ou extintivos do direito do autor, isto é, deve o réu demonstrar que das alegações do autor não decorrem as conseqüências por ele pretendidas; ii) incumbe ao banco demonstrar, por meios idôneos, a inexistência ou impossibilidade de fraude, tendo em vista a notoriedade do reconhecimento da possibilidade de violação do sistema eletrônico de saque por meio de cartão bancário e?ou senha; iii) se foi o cliente que retirou o dinheiro, compete ao banco estar munido de instrumentos tecnológicos seguros para provar de forma inegável tal ocorrência (Recurso Especial n. 727.843-SP ? 2005/0031192-7; Relatora Ministra NANCY ANDRIGHI, 3ª Turma, j. 15/12/2005, DJ 01.02.2006, p. 553, RDDP vol. 40, p. 145).
+
+Pois bem.
+
+No caso dos autos, o banco limitou-se a alegar que o autor é o único responsável pelas operações bancárias realizadas em sua conta, mesmo porque não comunicou a ocorrência ao banco.
+
+Sem razão, contudo, porque, como visto alhures, somente a culpa exclusiva da vítima, quando se trata de relação de consumo, é que poderia excluir a responsabilidade do fornecedor (art. 14, § 3 o, inciso II).
+
+Neste contexto, de rigor a declaração de inexigibilidade das operações realizadas na conta-corrente do autor e por ele contestadas, sendo inequívoca, outrossim, a obrigação do banco de compor os prejuízos suportados pelo cliente, mediante a restituição dos valores debitados indevidamente da conta e a indenização dos danos morais vinculados ao episódio.
+
+Nesse sentido, confira-se:
+
+RESPONSABILIDADE CIVIL ? Dano material ? Autor que mantinha conta poupança na agência do banco réu ? Saldo que, em 14.03.2000, alcançava o montante de R$ 10.642,52 ? Constatação em março de 2002 que seu saldo estava zerado ? Realização de diversos saques na conta do autor por meio do cartão poupança banco dia e noite no período de 20.03.2000 a 22.01.2001 ? Banco réu que alega ser o sistema inviolável, necessitando para a efetivação do saque o conhecimento da senha secreta ? Responsabilidade objetiva do fornecedor do serviço passível de ser refutada nas hipóteses do § 3º, do artigo 4º, do Código de Defesa do Consumidor ? Situações de exclusão de responsabilidade não verificadas ? Indenização devida - Recurso desprovido. (Apelação cível n. 7.063.379-7 ? São Paulo - 23ª Câmara de Direito Privado ? Relator: José Marcos Marrone ? 09.06.06 - V.U.) aca 
+
+De fato, o autor foi surpreendido com movimentação irregulares, que geraram débito e a cobrança de prestações de contrato de empréstimo de valor elevado (cf. docs. de fls. 16 e 20/21), o que gera aflição incomum e que não pode ser atribuída a fatos corriqueiros e comuns em nossa desordenada sociedade. 
+
+A ausência de providências administrativas concretas por parte do banco, reconhecendo não ser o seu sistema infalível e desde logo ressarcindo o cliente de seus prejuízos materiais, aumentaram ainda mais o desconforto moral. 
+
+Por certo que o autor teve sua vida pessoal afetada, quer pela preocupação em solucionar a pendência, que pelas providências que precisou tomar, inócuas, aliás, antes da propositura da ação; e nem se diga que propor uma ação está abrangido pelo cotidiano, já que a própria procura de solução junto ao Poder Judiciário, por si só, é desgastante e extrapola uma atividade normal.
+
+A posição da jurisprudência não discrepa. Confira-se:
+
+DANO MORAL ? Responsabilidade civil ? Instituição financeira ? Banco ? Saque indevido na conta corrente do autor ? Falha no sistema - Transtornos e contratempos, que caracterizaram uma situação de sofrimento moral ? O prejuízo de ordem moral é lesão de caráter subjetivo, que dispensa comprovação do reflexo patrimonial do prejuízo ? O valor indenizatório deve levar em conta o porte econômico do ofensor e o dano causado, de molde a desestimular a instituição financeira na conduta ofensiva - Recurso do autor provido em parte, improvido o do banco-réu (Apelação Cível n. 7.128.470-9 - Cubatão - 14ª Câmara de Direito Privado - Relator: Pedro Ablas ? 23.05.07 - V.U. - Voto n.2.513) qsg 
+
+
+Feitas tais considerações, passo à fixação do quantum devido a título de indenização.
+
+Quanto aos danos materiais, o autor deve ser reembolsado do valor indevidamente sacado de sua conta, no importe de R$ 80,00. 
+
+ De seu turno, a indenização pelos danos morais deve ser arbitrada em quantia apta a satisfazer a dor da vítima e a dissuadir, de igual e novo atentado, o autor da ofensa, considerando-se, no mais, a reprovabilidade da conduta ilícita, a intensidade e duração do sofrimento experimentado pela vítima, a capacidade do causador do dano e, finalmente, as condições sociais do ofendido.
+
+Neste cenário, razoável a fixação da referida indenização em R$ 5.000,00 (cinco mil reais), quantia que alcança a função satisfatória da indenização do dano moral, incorporando, a um só tempo, o caráter punitivo e o compensatório, como preleciona CAIO MÁRIO DA SILVA PEREIRA. 
+
+Ante o exposto e o que mais dos autos consta, JULGO PROCEDENTE a ação para declarar a nulidade do contrato de empréstimo eletrônico nº 320000104480, bem como da operação de saque realizada no dia 07/12/2009, no valor de R$ 80,00, bem como para condenar o réu a reembolsar o autor deste valor (R$ 80,00),  corrigida monetariamente desde a data do saque indevido, e a pagar-lhe indenização por danos morais no valor de R$ 5.000,00 (cinco mil reais), corrigido monetariamente a partir da data desta sentença (S. 362 STJ) e  acrescido de juros de mora de 1% ao mês contados da citação.
+
+A correção monetária far-se-á pelos índices da Tabela Prática do E. Tribunal de Justiça.
+
+Arcará o banco, ainda, com o pagamento das custas, despesas processuais e honorários advocatícios, que fixo, com fundamento no artigo 20, parágrafo 3º, do Código de Processo Civil, em 15% sobre o valor atualizado da condenação.
+
+Veja-se que não houve sucumbência por parte do autor no pedido de indenização por danos morais, em que pese o valor proposto na peça inicial a esse título não ter sido acolhido, porquanto tal valor era meramente enunciativo (S. 326 STJ).
+P.R.I.C.
+
+
+Maria Cláudia Bedotti
+    Juíza de Direito

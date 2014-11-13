@@ -1,0 +1,71 @@
+
+
+SENTENÇA
+Em 07 de junho de 2013 faço estes autos conclusos ao Mm. Juíz de Direito da 2ª VARA CÍVEL DO FORO REGIONAL DE PINHEIROS ? XI. Eu, Antonio Valoto Junior, subscrevi.
+Processo nº:0005003-49.2013.8.26.0011
+Classe - AssuntoProcedimento Ordinário - Planos de Saúde
+Requerente:Maximo Eigi Yoshikawa
+Requerido:Sul América Companhia de Seguro Saúde
+
+Prioridade Idoso
+
+
+Juiz(a) de Direito: Dr(a). Eduardo Tobias de Aguiar Moeller
+
+Vistos.
+
+Maximo Eigi Yoshikawa ajuizou ação de obrigação de fazer cumulada com pedido de indenização por danos morais  em face de Sul América Companhia de Seguro Saúde.  Alegou que foi diagnosticado com aneurisma na aorta abdominal e que, por conta disso, seu médico prescreveu procedimento cirúrgico, o qual deveria ser pago pela ré por força de contrato de seguro saúde firmado entre as partes. Alega o autor que, injustificadamente, a ré se nega a fornecer material necessário para a cirurgia (stents multicamadas). Requereu tutela antecipada para determinar à ré que fornecesse os materiais necessários à cirurgia, em especial o stent multicamadas, e ao final a procedência da ação para confirmar a tutela antecipada e condenar a ré ao pagamento de indenização a título de danos morais em valor não inferior a R$ 20.000,00. 
+A inicial veio instruída com contrato de seguro saúde (fls. 20/48), exames médicos (fls. 55/58), relatório médico (fls. 59), guia de internação (fls. 60), validação prévia do procedimento pela Sul América (fls. 61), recusa no fornecimento do material stent (fls. 62).
+A tutela antecipada foi deferida à fl. 83.
+A ré contestou o feito (fls. 90/101). Alegou que a recusa foi legítima tendo em vista que o procedimento solicitado não consta no rol da ANS e que o material "stent" multicamadas não possui eficácia comprovada. Alegou também que a indenização por danos morais é indevida tendo em vista a ausência dos requisitos necessários. Juntou autorizações liberação do procedimento ante a liminar concedida (fls. 102/103) e manual do beneficiário (fls. 104/136).
+Houve réplica (fls. 159).
+
+É o relatório
+D E C I D O.
+
+Julgo antecipadamente esta lide na forma do art. 330, I, do Código de Processo Civil, pois a matéria é exclusivamente de direito.
+A ação deve ser julgada totalmente procedente.
+O autor, na petição inicial, narra que a ré autorizou o procedimento cirúrgico, porém negou cobertura para os materiais necessários ao ato, especialmente o stent multicamadas. A ré em sua contestação, confusamente, alega que tanto o procedimento quanto os materiais requeridos foram negados por não constarem no rol da ANS e por não estarem previstos no contrato de seguro saúde firmado. 
+A alegação é confusa pois, em leitura aos contratos juntados tanto pelo autor (fls 20/48) quanto pela ré (fls. 104/136) não se verifica qualquer cláusula capaz de contrariar a pretensão do autor. A ré não especifica em contestação quais cláusulas seriam estas. 
+A ré, inclusive, ao dizer que negou o procedimento, faz remissão à VPP (Validação Prévia de Procedimento) nº 13/00479697. Esta VPP não acompanhou a contestação. O autor, por sua vez, juntou VPP nº 13/00393523 em que consta o procedimento "ANEURISMA DE AORTICA TORÁCICA ABDOMEM E OU AO ABDOMINAL SUPRA RENAL" (fls. 61). Este documento é semelhante ao documento de fls. 102, juntado pela ré, o qual trata justamente de liberar o procedimento cirúrgico face a liminar concedida.
+De qualquer forma, não se pode dizer que o procedimento de que o autor necessitava contraria qualquer disposição contratual ou legal. 
+O relatório médico juntado pelo autor (fls. 59), assinado por Tony K. Furuie (CRM  68.282) é claro ao atestar a necessidade do tratamento cirúrgico com a prótese requerida, ressaltando a urgência. Não se trata, portanto, de artigo não ligado ao procedimento cirúrgico. O mesmo relatório médico veio instruído com diversos artigos que relatam a eficácia do procedimento, aumentando a verossimilhança de suas alegações, de forma que não se trata de tratamento experimental. 
+Em qualquer hipótese, na forma do art. 47 do Código de Defesa do Consumidor, deve-se sempre dar preferência a interpretação que seja mais favorável ao consumidor, do que resulta dever o contrato cobrir qualquer tratamento.
+Já a ré  - a quem cabia o ônus da prova, tendo em vista a verificada hipossuficiência e o disposto no artigo 6º, VII, CDC  - limitou-se a fazer alegações sobre a ineficácia do procedimento e sobre a exclusão do procedimento no rol da ANS. Faz inclusive menção a documento que comprovaria esta última alegação, o qual não acompanhou a contestação. 
+Cabe aqui ressaltar que, mesmo que o procedimento não estivesse elencado no rol da ANS, isso em nada seria empecilho ao direito do autor. O contrato de seguro saúde firmado entre as partes deve ser classificado como contrato de trato sucessivo, e assim, não pode ser exclusivamente sujeito aos critérios da ANS, sob pena de se abalar a própria finalidade do contrário que é a preservação da vida do consumidor. 
+A Súmula 102 do TJSP foi editada com este espírito: "Havendo expressa indicação médica, é abusiva a negativa de cobertura de custeio de tratamento sob o argumento da sua natureza experimental ou por não estar previsto no rol de procedimentos da ANS."
+O TJSP, inclusive, chegou a editar súmula 93, especificamente sobre a implantação de stent em cirurgia cardíaca: ?A implantação de ?stent? é ato inerente à cirurgia cardíaca/vascular, sendo abusiva a negativa de sua cobertura, ainda que o contrato seja anterior à Lei 9.656/98.?
+O STJ também já se manifestou diversas vezes reconhecendo a obrigatoriedade de as próteses indispensáveis à vida e à saúde serem custeadas pelas operadoras de planos de saúde.  Neste sentido:
+
+CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PLANO DE SAÚDE. PROCEDIMENTO CIRÚRGICO. PRÓTESE IMPORTADA. 
+1. Abusiva a cláusula restritiva de direito que exclui do plano de saúde o custeio de prótese em procedimento cirúrgico coberto pelo plano e necessária ao pleno restabelecimento da saúde do segurado, sendo indiferente, para tanto, se referido material é ou não importado. Precedentes.
+2. Agravo regimental desprovido. 
+(STJ Superior Tribunal de Justiça , AgRg no Ag 1139871 / SC 2008/0284137-6, Relator Ministro João Otávio de Noronha, 4ª Turma, j. em 27.4.2010, DJe DE 10.5.2010, v.u.)
+
+RECURSO ESPECIAL - PLANO DE SAÚDE - EXCLUSÃO DA COBERTURA O CUSTEIO OU O RESSARCIMENTO DE IMPLANTAÇÃO DE PRÓTESE IMPORTADA IMPRESCINDÍVEL PARA O ÊXITO DA INTERVENÇÃO CIRÚRGICA COBERTA PELO PLANO - INADMISSILIDADE - ABUSIVIDADE MANIFESTA DA CLÁUSULA RESTRITIVA DE DIREITOS -  RECURSO ESPECIAL PROVIDO. 
+I - Ainda que se admita a possibilidade do contrato de plano de saúde conter cláusulas que limitem direitos do consumidor, desde que estas estejam redigidas com destaque, permitindo sua imediata e fácil compreensão, nos termos do § 4º do artigo 54 do CDC, mostra-se abusiva a cláusula restritiva de direito que prevê o não custeio de prótese, imprescindível para o êxito do procedimento cirúrgico coberto pelo plano, sendo indiferente, para tanto, se referido material é ou não importado;
+II - Recurso provido. 
+(STJ Superior Tribunal de Justiça, REsp 1046355 / RJ 2008/0075471-3, Relator Ministro Massami Uyeda, 3ª Turma, j. em 15.5.2008, DJe de 5.8.2008, v.u.)
+
+PLANO DE SAÚDE. PROSTATECTOMIA RADICAL. INCONTINÊNCIA URINÁRIA. COLOCAÇÃO DE PRÓTESE: ESFÍNCTER URINÁRIO ARTIFICIAL.
+1. Se a prótese, no caso o esfíncter urinário artificial, decorre de ato cirúrgico coberto pelo plano, sendo conseqüência possível da cirurgia de extirpação radical da próstata, diante de diagnóstico de câncer localizado, não pode valer a cláusula que proíbe a cobertura. Como se sabe, a prostatectomia radical em diagnóstico de câncer localizado tem finalidade curativa e o tratamento da incontinência urinária, que dela pode decorrer, inclui-se no tratamento coberto, porque ligado ao ato cirúrgico principal.2. Recurso especial conhecido e desprovido.
+(RESP 519940 / SP 2003/0063287-0, Relator Ministro CARLOS ALBERTO MENEZES DIREITO, 3ª Turma, j. em 17.6.2003, in DJU de 1.9.2003, pág. 288, v.u.)
+
+Por fim, a Lei 9.656/98 deixa claro em seu artigo 10, inciso VII, que próteses ligadas ao ato cirúrgico devem ser fornecidas pelo plano de saúde. Assim, sob qualquer ângulo que se observe, constata-se a ilicitude da conduta da ré.
+Com relação ao pedido de condenação em danos morais, entendo como também procedente.
+Isto porque a ré, ao negar cobertura para o procedimento a que o autor indubitavelmente tinha direito certamente causou transtorno indenizável. 
+O autor teve sua vida colocada em risco por conta da espera para realização da cirurgia: deve-se levar em conta que sua condição era grave e havia o risco de ruptura do aneurisma, conforme as provas documentais produzidas. Trata-se, portanto, de situação que de forma alguma deve ser classificada como mero aborrecimento ou transtorno decorrente da vida moderna. 
+Trata-se de questão pacificada nos tribunais. O próprio STJ já decidiu neste sentido:
+
+"A recusa injustificada de Plano de Saúde para cobertura de procedimento médico a associado, configura abuso de direito e descumprimento de norma contratual, capazes de gerar dano moral indenizável" (AgRg no REsp nº 1253696 - SP, 4ª Turma do Superior Tribunal de Justiça, Rel. Min. Luis Felipe Salomão, em 18/8/11, DJe 24/8/11).
+
+Reputo a quantia de R$ 20.000,00 como suficiente para repelir novos abusos por parte da ré, sendo compatível com seu porte econômico e capaz de reparar os danos experimentados pelo autor sem causar enriquecimento injustificado.
+Por estas razões, JULGO PROCEDENTE esta ação que MAXIMO EIGI YOSHIMA ajuizou contra SUL AMÉRICA SEGURO SAÚDE e TORNO DEFINITIVA a liminar de fls. 83 e CONDENO a ré a custear integralmente o procedimento cirúrgico para tratamento de aneurisma torácico-abdominal, com todos os materiais úteis ou necessários requeridos pelo médico do autor para o procedimento, em especial o stent multilayer (multicamadas), sob pena de multa diária de R$ 1.000,00.
+Ainda, CONDENO a ré a pagar ao autor indenização por danos morais de R$ 20.000,00.  O valor deverá ser corrigido monetariamente desde esta sentença (junho de 2013) e acrescido de juros de mora de 1% ao mês desde esta sentença (junho de 2013).
+Por fim, CONDENO a ré a pagar as custas processuais e honorários advocatícios que fixo em 20% no valor da causa.
+P.R.I.
+São Paulo, 07 de junho de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

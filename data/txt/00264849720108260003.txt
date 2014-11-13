@@ -1,0 +1,80 @@
+
+
+SENTENÇA
+
+Processo nº:0026484-97.2010.8.26.0003
+Classe - AssuntoProcedimento Ordinário - Contratos Bancários
+Requerente:COOPERWEST -  COOPERATIVA DOS PROFISSIONAIS EM GESTÃO COMERCIAL E EMPRESARIAL
+Requerido:Itaú Unibanco S/A.
+
+
+Justiça Gratuita
+
+Juiz(a) de Direito: Dr(a). Alexandre Batista Alves
+
+
+
+
+
+Vistos.
+
+
+
+COOPERWEST- COOPERATIVA DE PROFISSIONAIS EM GESTÃO COMERCIAL E EMPRESARIAL move ação declaratória com pedido de antecipação de tutela contra BANCO ITÁU S/A alegando, em síntese, que: a) firmou oito contratos de empréstimo com o réu, os quais foram quitados com uma nova contratação; b) em razão das nulidades em cadeia dos contratos de empréstimo, tem saldo credor de R$42.832,36; c) o réu cobra valores indevidos em virtude da capitalização de juros, prática vedada (Súmula n. 121); d) é vedada igualmente a utilização da Tabela Price; e) houve cobrança em duplicidade em relação a um dos contratos, justificando a devolução em dobro.
+
+Por essas razões, pleiteou a declaração de inexistência de débito, bem com a devolução em dobro dos valores indevidamente cobrados. Requereu, ainda, a antecipação de tutela para excluir seu nome dos cadastros de proteção ao crédito. Juntou documentos (fls. 25/238).
+
+Negada a antecipação de tutela, a autora interpôs recurso de agravo de instrumento, ao qual foi dado provimento pelo E. Tribunal de Justiça de São Paulo.
+
+Citado, o réu ofertou contestação (fls. 349/360), na qual suscitou preliminar de inépcia da inicial. No tocante ao mérito, sustentou basicamente a legalidade da cobrança e das cláusulas e encargos pactuados.
+
+Sobreveio réplica.
+
+É o relatório.
+Fundamento e Decido.
+
+Possível o julgamento antecipado da lide, nos termos do art. 330, I, do CPC.
+
+Rejeito a preliminar de inépcia, visto que há pedido expresso na medida cautelar incidental de sustação definitiva do protesto. Da mesma forma, na ação principal, a autora requereu a exclusão de seu nome dos cadastros de proteção de crédito até decisão final.
+
+No mérito, o pedido é improcedente.
+
+Ressalte-se que as instituições bancárias incluem-se no conceito de fornecedor, para fim de aplicação do Código de Defesa do Consumidor nas relações entre estas e os usuários de serviços, matéria pacificada na jurisprudência (Súmula 297 do STJ).
+
+Assentada essa premissa, anote-se que o art. 5º da MP 1.963-17, de 30/03/2000, substituída pela MP n. 2.170/36, admite a prática de capitalização de juros em periodicidade inferior a um ano nos contratos celebrados por instituições financeiras integrantes do Sistema Financeiro Nacional.
+
+Ademais o art. 28, §1º, I, da Lei n. 10.931/04 permite a capitalização de juros. Mas não se trata de capitalização ilegal a incorporação de juros vencidos decorrente de saldo devedor ao capital. Os juros vencidos se convertem e se incorporam naturalmente ao capital, ao final de cada período de capitalização expresso na taxa de juros.
+
+?Quem assim entende confunde capital com renda. Capital, em um mútuo financeiro, na acepção adequada a esta exposição, é o valor atual do saldo de um débito, expresso pelo montante que resultar do capital original, acrescido dos juros vencidos, convertidos e incorporados periodicamente ao capital, abatidos os valores eventualmente pagos (parte dos juros, total dos juros, total dos juros e amortização). Juro  ou  renda  é o fruto deste capital que, após ser gerado, pelo decurso do período de geração (e se tornar, assim, juro vencido  ou  renda vencida)  - independentemente de haver ou não sido pago ? se converte e se incorpora ao capital inicial  do período, transformando-o em capital final  do período.
+A única peculiaridade da renda vencida paga, em relação  à  renda vencida não paga,  é que esta última fica aplicada com o mesmo mutuário, elevando o saldo devedor de capital. Daí o equívoco comum de se considerar o juro de um segundo período como sendo representado por dois diferentes tipos de juros: o juro do capital  e o juro do juro? (Juros. Correção Monetária. Danos Financeiros irreparáveis. Uma abordagem jurídico econômica /   Romualdo Wilson Cançado e Orlei Claro de Lima ? 3.ed.rev.atual.e ampl. ? Belo Horizonte: Del Rey, 2003. pág. 27/28).
+
+Anote-se que, em relação às instituições financeiras, as taxas de juros e outros encargos não se sujeitam às restrições do Decreto 22.626/33 (Lei de Usura), mas à Lei 4595/64, ou seja, às deliberações do Conselho Monetário Nacional e às limitações e disciplinas ditadas pelo Banco Central. Nesse sentido é a Súmula 596 do STF.
+
+Como não há norma no Conselho Monetário Nacional limitando os juros em operações de crédito nos moldes daquela realizada entre as partes, conclui-se que legislação especial afasta a incidência do art. 4°, ?a?, da Lei 1.521/51, que se refere à taxa máxima prevista em lei.
+
+E não havendo demonstração de que a taxa de juros excede em muito a taxa média para as operações similares, o que caracteriza ofensa ao art. 4°, ?b?, da citada lei, é válida a taxa de juros cobrada pelo embargado, motivo pelo qual é descabido falar em spread abusivo.
+
+É oportuno reproduzir os seguintes trechos do AgRg no Recurso Especial n. 688.627- RS (2004/012651-3), relatado pelo Min. Aldir Passarinho Júnior:
+
+?Por outro lado, ainda que aplicável às instituições bancárias a Lei n. 8.078/1990, a Segunda Seção desta Corte, em 12.03.2003, no julgamento do Resp n. 407.097/RS, relator para acórdão Ministro Ari Pargendler, sedimentou o entendimento de que o pacto referente à taxa de juros só pode ser alterado se reconhecida sua abusividade em cada hipótese, desinfluente para tal fim a estabilidade inflacionária no período, imprestável o patamar de 12% ao ano já que sequer a taxa média de mercado, que não é potestativa, se considera excessiva, para efeitos de validade da avença?.
+
+Por outro lado, a aplicação da Tabela Price não se confunde com atualização monetária porque é a decomposição de um valor principal ao longo do prazo contratual e com a incidência da taxa de juros pactuada, também decomposta ao longo do prazo contratual. É, enfim, a amortização do principal e juros, tendo por finalidade a eliminação ao término do contrato de qualquer valor a título de resíduo.
+
+Por outro lado, a Tabela Price não é ilegal, pois é a operação de matemática financeira própria à execução da amortização do principal e juros, pactuados, aliás, à taxa nominal de 12% ao ano.
+
+A propósito da sistemática de amortização Francês, conhecido como Tabela Price, preciosos são os ensinamentos do juiz Alexandre Augusto P. M. Marcondes:
+
+?A fórmula da Tabela Price é desenvolvida para determinar um fator que multiplicado pelo valor do principal venha resultar num valor de prestação constante no tempo. O mérito dessa fórmula é o de permitir que um valor seja amortizado no tempo estipulado, apropriando-se, sempre, uma parcela de juros que se apura multiplicando a taxa mensal de juros pelo saldo devedor. Esse valor de juros, deduzido do valor da prestação calculada pelo fator da fórmula, resultará no valor da amortização, que será deduzido do saldo. No período seguinte, é sobre este novo saldo apurado que a mesma taxa de juros voltará a incidir para se apurar os novos juros da prestação. Assim ocorre sucessivamente. Pode-se observar que, em nenhum momento, se processa qualquer mecanismo de capitalização, vale dizer, de incorporação dos juros ao saldo devedor que sirva como base de cálculo de novos juros.
+Dessa forma, em qualquer Sistema Price, os juros serão sempre decrescentes e as amortizações crescentes, em valores reais. Não há, portanto, juros sobre juros no Sistema Price de amortização de uma dívida, pois os juros são simples e sempre calculados sobre o saldo devedor remanescente, que nunca incorpora os juros anteriores? (Cadernos Jurídicos, Volume 2, número 3- janeiro/fevereiro 2001- Escola Paulista da Magistratura, p 25).
+
+Por fim, o pedido de restituição em dobro funda-se na pretendida revisão de encargos, a qual não foi aceita pelas razões acima expostas, não na comprovação de que houve efetivamente cobrança indevida.
+
+Nesse contexto, a improcedência da pretensão é medida de rigor.
+
+Por decorrência lógica do exposto, improcede igualmente a medida cautelar.
+
+Ante o exposto, JULGO IMPROCEDENTES os pedidos formulados nas ações principal e cautelar incidental e extingo os processos com resolução de mérito, nos termos do art. 269, I, do CPC. Vencida a autora, arcará com o pagamento das custas, despesas e honorários advocatícios, arbitrados estes em 10% do valor atualizado da causa, sobrestada a execução, nos termos dos arts. 11 e 12 da Le in. 1.060/50.
+
+P.R.I.
+
+São Paulo, 30 de setembro de 2011.

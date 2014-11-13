@@ -1,0 +1,63 @@
+
+
+SENTENÇA
+
+Processo nº:0128132-57.2009.8.26.0003
+Classe - AssuntoProcedimento Ordinário - Assunto Principal do Processo >
+Requerente:Condomínio Edifício Plaza Royale
+Requerido:LGW Digytal S/C Ltda Me
+CONCLUSÃO
+Em 22 de agosto de 2012, faço estes autos conclusos à(o) MMª(º). Juiz(a) de Direito abaixo.  
+Eu, _______, (   Vera     ), escrevente, digitei.
+Juiz(a) de Direito: Dr(a). Ana Luiza Villa Nova
+
+
+Vistos.
+
+Trata-se de ação de obrigação de fazer ajuizada por CONDOMÍNIO EDIFÍCIO PLAZA ROYALE contra LGW DIGYTAL S/C LTDA. ME.
+
+O autor afirma que recebeu do réu proposta para automatização do quadro de bombas, a qual foi aprovada, com a efetiva prestação de serviços, pelo qual pagou o valor de R$ 1.650,00 conforme nota fiscal emitida em 1/12/06, e que os serviços vinham sendo prestados até 23/9/09, quando foi requisitado ao réu a devolução de duas luminárias que estavam há tempos com ele para a troca de baterias, o que foi feito, acompanhado de comunicado de cancelamento do contrato de manutenção elétrica, quando então os serviços deixaram de ser prestados.
+
+Alega que o réu, ao instalar equipamentos de automatização das bombas, trocou as senhas originais de fábrica para acionamento, as quais somente ele conhece, e desde que deixou de prestar os serviços, se nega a fornecê-las.
+
+Informa que contratou outra empresa, e que esta informou que se o réu não fornecer as senhas será necessário apagar o software das bombas e instalar um novo, para obtenção de outra senha.
+
+Pede a antecipação da tutela para que o réu forneça, no ato de sua citação, as senhas das bombas, sob pena de multa, e a procedência da ação, com a condenação da obrigação de fazer requerida em sede de antecipação da tutela, além da condenação decorrente da sucumbência.
+
+A petição inicial veio instruída com documentos (fls.7/40).
+
+O pedido de antecipação da tutela foi indeferido (fls.41).
+O réu apresentou contestação e documentos (fls.51/122) na qual alega que não há necessidade de senha alguma para o acionamento das bombas, e que é exigida senha apenas para proteção do programa que foi gravado no dispositivo que foi instalado no condomínio, porém, a proteção por senha está desativada e somente após o programador carregar a memória do dispositivo, ele poderá ativá-la, definindo assim uma senha de quatro dígitos a seu critério.
+
+Acrescenta que não instalou as bombas, as quais já estavam instaladas quando foi contratado, e que apenas cumpriu sua obrigação de instalar dispositivo para automatizar o seu funcionamento e evitar que fosse feito manualmente.
+
+Informa que a senha que instalou destinou-se exclusivamente à proteção do programa que foi gravado no dispositivo, a qual funciona como proteção na hipótese de acesso acidental ao programa interno, para que seus parâmetros não sejam alterados ou apagados e evitar acidentes.
+
+Observa que caso fosse mesmo necessário o fornecimento de senhas para funcionamento das bombas, tal pedido não teria sido formulado seis meses após o cancelamento do contrato.
+
+Pede a improcedência da ação.
+
+É o relatório.
+
+Decido.
+
+É caso de julgamento antecipado da lide, nos termos do artigo 330, inciso I, do Código de Processo Civil.
+
+O autor alega que após a rescisão do contrato pelo qual o réu automatizou as bombas d'água e realizou a manutenção, houve necessidade de fornecimento das senhas que foram alteradas pelo réu, a fim de possibilitar o funcionamento das bombas, porém, este se nega a fornecê-las.
+
+Ocorre que em contestação o réu informou que a única senha existente é de proteção ao dispositivo do programa, a fim de evitar que este seja acidentalmente apagado ou alterado, o que pode provocar acidente e danos, e que para o funcionamento das bombas não há e nunca houve senha alguma, inclusive, se assim fosse, o autor não teria ingressado com esta ação somente seis meses após a cessação da prestação dos serviços.
+
+O autor não apresentou réplica e não especificou provas.
+
+À vistas das explicações técnicas instruídas com documentos pelo réu, o que não foi impugnado pelo autor, aliado ao fato de que se as bombas não estivessem mesmo funcionando em razão da necessidade de senhas para tanto, era de se esperar que o autor já tivesse há muito, logo em seguida à rescisão do contrato, ingressado com o pedido, a conclusão é a de que o autor não se desincumbiu do ônus da prova, e, portanto, não está comprovada a necessidade e obrigação do réu de fornecer as referidas senhas, porque estas não são necessárias ao funcionamento das bombas.
+
+Isto posto e considerando o mais que dos autos consta, JULGO IMPROCEDENTE a ação e extinto o processo com fundamento no artigo 269, inciso I, do Código de Processo Civil.
+
+Condeno o vencido ao pagamento das custas processuais e honorários advocatícios, estes fixados nos termos do artigo 20, §4º, do Código de Processo Civil, em R$ 1.800,00.
+
+P.R.I.
+
+São Paulo, 10 de setembro de 2012
+
+           Ana Luiza Villa Nova
+                Juíza de Direito

@@ -1,0 +1,78 @@
+
+
+SENTENÇA
+
+Processo nº:0153102-19.2012.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Obrigação de Fazer / Não Fazer
+Requerente:Indústria e Comércio de Fitas Sideraço Ltda Me
+Requerido:Credit Brasil Fomento Mercantil Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Elaine Faria Evaristo
+
+
+Vistos.
+
+INDÚSTRIA E COMÉRCIO DE FITAS SIDERAÇO LTDA. ME ajuizou ação de obrigação de fazer contra CREDIT BRASIL FOMENTO MERCANTIL LTDA., alegando que, em diversas operações de factoring realizadas entre as partes, remeteu a título de caução à ré as duplicatas indicadas na inicial, que, entretanto, perderam a causa de sua emissão e se tornaram inexigíveis. Embora a autora tenha comunicado tal fato à ré, esta vem cobrando o valor dos títulos dos sacados, inclusive com a ameaça de levá-los a protesto, o que pode prejudicar a imagem da autora, que se encontra em recuperação judicial. Assim, pleiteia que a ré retire de cartório as duplicatas indicadas na inicial, cancelando os protestos, bem como que a ré se abstenha de enviar outros títulos a protesto.
+
+A ré apresentou contestação, alegando preliminarmente a ilegitimidade ativa da autora. Quanto ao mérito, alegou não haver prova de que os negócios realmente tenham sido cancelados.
+
+A autora apresentou réplica.
+
+Intimadas a especificarem provas, as partes informaram não possuírem outras provas a produzir.
+
+É o relatório. Decido.
+
+Preliminarmente, rejeito a preliminar de ilegitimidade ativa arguida em contestação.
+
+Entendo que a autora tem legitimidade para discutir os protestos das duplicatas mencionadas na inicial. Isto porque os títulos são, na verdade, duplicatas mercantis cujos créditos foram cedidos pela autora à ré. Se os negócios que ensejaram a emissão desses títulos foram cancelados, tal como relatado na inicial, o indevido protesto dos títulos pode gerar prejuízo moral à autora, pois seus clientes irão sofrer protestos e, em consequência, irão se voltar contra a autora.
+
+Portanto, afastada a preliminar, passo ao exame do mérito.
+
+A ação é parcialmente procedente.
+
+Em sua contestação, a ré impugnou a alegação da autora de que os negócios que ensejaram a emissão dos títulos foram cancelados. 
+
+Pois bem. Diante da controvérsia instaurada, incumbia à autora comprovar o cancelamento desses negócios.
+
+Com os documentos de fls. 49, 149/150, 152 e 154, a autora comprovou o cancelamento dos negócios referentes às notas fiscais n. 19419, 19736, 19738 e 19739. Entendo que se trata de prova suficiente. Especialmente quanto às DANFEs (fls. 49 e 154), conferi, no portal da Nota Fiscal Eletrônica (www.nfe.fazenda.gov.br/portal), a sua regularidade, conforme documentos que seguem.
+
+Uma vez que referidos títulos perderam sua causa de emissão, entendo que a ré não tem direito de cobrá-los dos sacados. Isto porque os títulos foram recebidos pela ré em contrato de factoring, que equivale a uma cessão civil de crédito.
+
+Portanto, as exceções pessoais que os sacados teriam contra o sacador podem ser opostas à ré e, nesse sentido, se os negócios que ensejaram a emissão dos títulos foram cancelados, não pode a ré cobrar dos sacados os valores dos títulos, nem levá-los a protesto. 
+
+Nesse sentido, já se decidiu que:
+
+TJSP
+0010640-54.2008.8.26.0302 Apelação 
+Relator(a): Álvaro Torres Júnior 
+Comarca: Jaú 
+Órgão julgador: 20ª Câmara de Direito Privado 
+Data do julgamento: 01/10/2012 
+Data de registro: 15/10/2012 
+Outros números: 106405420088260302 
+Ementa: PROCESSO CIVIL Ação declaratória de inexistência de débito c. c. nulidade de duplicatas Ilegitimidade passiva do Banco-mandatário Ocorrência Crédito não lhe pertence - Diferente seria o cenário, caso a presente demanda contivesse também pleito indenizatório por danos provocados pela cobrança indevida Ilegitimidade passiva da ré faturizada Configuração - No contrato de factoring há verdadeira cessão de créditos da faturizada à faturizadora, assumindo esta a titularidade dos créditos, bem como os riscos que envolvem o seu recebimento - Se a ré Rionorte (faturizada) não é mais titular dos créditos aqui discutidos, nem tampouco portadora das respectivas duplicatas, não é parte legítima para integrar a presente demanda, que visa unicamente a declaração de inexistência do débito e de nulidade das cártulas Ilegitimidade passiva da ré faturizadora Inocorrência É titular do crédito e portadora dos títulos, restando evidente sua aptidão para figurar na demanda em que se pretende declarar inexistente tal crédito e nulas tais cártulas Extinção do processo sem resolução do mérito também com relação à ré faturizada. DUPLICATA MERCANTIL Ação declaratória de inexistência de débito c.c. nulidade de duplicatas Negócio jurídico subjacente não concluído, seja por ser inexistente, seja por ter sido cancelado Inexistência do crédito Oposição de exceções pessoais contra a faturizadora Possibilidade Factoring equivale a cessão civil de crédito - A ré Odyssey, como cessionária do crédito da ré Rionorte, simplesmente assumiu sua posição na relação obrigacional com a autora, podendo esta opor àquela inclusive as exceções que tivesse contra a cedente (art. 294 do Código Civil), relacionadas com o negócio jurídico que deu origem à duplicata Ação procedente. Recurso da ré Rionorte provido. Recursos da autora e da ré Odyssey desprovidos. 
+
+Logo, com razão a autora ao pleitear o cancelamento dos protestos desses títulos, ou que a ré se abstenha de protestá-los, visando evitar prejuízo moral a seus clientes e, em consequência, também a si própria.
+
+Quanto a outros títulos que a ré tenha recebido da autora, a ação improcede, pois não há prova de que seus negócios tenham sido cancelados. É evidente que mero pedido de baixa endereçado pela autora à ré não constitui prova de cancelamento do negócio.
+
+Ressalto não haver nos autos prova de que títulos tenham sido entregues à ré como mera caução. Ao contrário, tudo indica que foram entregues à ré em operação de factoring, como aliás mencionado na própria inicial e como decorre dos documentos de fls. 139/140 e 144/145.
+
+A recuperação judicial da autora não interfere no crédito cedido à ré em desfavor dos sacados.
+
+Nesse sentido, o art. 49, parágrafo 1º, da Lei Federal n. 11.101/05 dispõe que "os credores do devedor em recuperação judicial conservam seus direitos e privilégios contra os coobrigados, fiadores e obrigados de regresso".
+
+Portanto, não havendo prova de que outros negócios tenham sido cancelados, pode a ré exigi-los dos sacados, independentemente da recuperação judicial da autora. 
+
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a ação proposta e, em consequência, condeno a ré na obrigação de fazer consistente em promover o cancelamento do protesto dos títulos descritos na inicial, referentes às notas fiscais n. 19736, 19419, 19738 e 19739,  ou abster-se de levar tais títulos a protesto, tornando definitiva a medida de antecipação da tutela deferida a fls. 160. 
+
+Diante da sucumbência recíproca, cada parte arcará com metade das custas e despesas processuais e com os honorários advocatícios de seu próprio patrono.
+
+P.R.I.C.
+
+São Paulo, 14 de junho de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

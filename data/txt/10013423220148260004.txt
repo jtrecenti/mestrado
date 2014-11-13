@@ -1,0 +1,51 @@
+
+
+SENTENÇA
+
+Processo Digital nº:1001342-32.2014.8.26.0004
+Classe - AssuntoProcedimento do Juizado Especial Cível - Indenização por Dano Moral
+Requerente:Rafael Anselmo Micha
+Requerido:Itapeva Multicarteira de Fundo de Investimento em Direitos Creditorios
+
+
+
+
+Juiz(a) de Direito: Dr(a). Fernando Salles Amaral
+
+Vistos.
+
+Dispensado o relatório, na forma do art. 38, caput, da Lei nº 9099/95.
+
+O autor sustenta que não celebrou o contrato cujo suposto inadimplemento gerou anotação negativa a seu nome junto aos órgãos de proteção de crédito. Em contestação, sustenta a Ré que tal débito é oriundo de cessão de crédito adquirido do Banco Santander S/A (Fls.117) e que em virtude da substituição do polo ativo na relação obrigacional, a devedora foi formalmente notificada para o início do processo de cobrança, em consonância com a lei.
+
+No entanto, os documentos apresentados junto com sua contestação não são aptos a comprovar mencionada cessão de crédito, tampouco comprovam a origem do débito inserido no rol de inadimplentes. Não obstante, o direito de cobrança por parte da Ré não produziria efeitos perante a Autora, tendo em vista que da cessão não foi ela cientificada, conforme art. 290 do Código Civil.
+
+Nesse sentido, acórdão prolatado no julgamento do recurso de apelação de nº 0101535-46.2012.8.26.0100 pela 9ª Câmara de Direito Privado do E. Tribunal de Justiça do Estado de São Paulo em que figurou como Relator o Desembargador Galdino Toledo Júnior em 18/02/2014:
+
+"RESPONSABILIDADE CIVIL - Dano moral - Alegada inserção ilícita de mácula cadastral em órgãos de proteção ao crédito por força de suposto inadimplemento de contrato firmado entre o Banco Santander e a autora - Pretensão contraposta de cobrança do aludido crédito - Impossibilidade - Ausência de notificação à devedora da cessão de crédito entre aquele e a financeira reconvinte - Ausência, ademais, de prova verossímil da existência da aventada avença e, por consequência, da dívida dela advinda - Inexigibilidade do crédito reconhecida - Direito da ofendida de obter a exclusão da mácula cadastral - Inaplicabilidade da Súmula 385 do C. STJ, diante da prova de demais apontamentos são objetos de semelhantes demandas judiciais - Dever de indenizar reconhecido com base no princípio jurídico da responsabilidade objetiva, em razão do risco do negócio (Súmula 479 do C. STJ) - Indenização - Fixação que deve ser apta para desestimular a reiteração de atos gravosos, sem, no entanto, constituir fonte de enriquecimento desproporcional à vítima - Arbitramento nesta sede em R$ 12.000,00 - Verba honorária devida pelo réu em face de sua exclusiva sucumbência (Súmula 326 do STJ) - Recurso provido em parte." (grifei) 
+
+No caso concreto, ausentes, portanto, a prova de cessão, a prova da notificação da Autora, então devedora, e prova da origem do débito. Desse modo, torno definitiva a tutela antecipada concedida às fls. 13.
+
+Resta discussão sobre os danos morais. Documentalmente provado está que o nome da Autora foi lançado no rol dos maus pagadores (Serasa - fls.11) por dívida inexigível, que tem sua data de constituição em 18/12/2009.
+
+Ocorre que a autor passou a ter outras inscrições no SPC já a partir de 31/03/2010 , conforme comprova o documento de fls.54/55. Não parece crível que ter ficado por três meses em rol de inadimplentes há mais de 4 anos tenha causado verdadeiro dano moral ao autor no sentido de que foi impedido de realizar algum ato jurídico em razão da restrição. Em mais de 4 anos de inscrição irregular, apenas durante 3 meses essa inscrição tinha o verdadeiro potencial de provocar, exclusivamente, a restrição do crédito ao autor, posto que, no restante do período até a concessão da antecipação de tutela, havia outras inscrições que por si só já prejudicavam o crédito do autor.
+
+Reconheço assim que existe nos autos situação que enseja a aplicação da Súmula 385 do Superior Tribunal de Justiça, que estabelece que da anotação irregular em cadastro de proteção ao crédito não cabe indenização por dano moral quando preexistentelegítima inscrição, ressalvado o direito ao cancelamento.
+
+A súmula 385 do Superior Tribunal de Justiça consolidou o entendimento segundo o qual aquele que já tem outras inscrições legítimas no SPC não pode se sentir moralmente ofendido, pois se já não possui crédito, e a nova inscrição não lhe causa constrangimento. Nesse sentido, alguns precedentes que acarretaram na referida súmula:
+
+AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. INSCRIÇÃO EM CADASTRO DE INADIMPLENTES. COMUNICAÇÃO PRÉVIA. CDC, ART. 43, § 2º. EXISTÊNCIA DE OUTRO REGISTRO. PRECEDENTE DA SEGUNDA SEÇÃO.
+I - Afasta-se a pretensão indenizatória pois, conforme orientação da Segunda Seção desta Corte, "quem já é registrado como mau pagador não pode se sentir moralmente ofendido pela inscrição do seu nome como inadimplente em cadastros de proteção ao crédito" (REsp 1.002.985/RS, Rel. Min. ARI PARGENDLER, DJ 27.08.2008).
+Agravo Regimental improvido.
+(AgRg no REsp 1057337/RS, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 04/09/2008, DJe 23/09/2008)
+
+AGRAVO REGIMENTAL - AGRAVO DE INSTRUMENTO -  MANUTENÇÃO DA DECISÃO AGRAVADA PELOS SEUS PRÓPRIOS FUNDAMENTOS - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS C.C PEDIDO DE CANCELAMENTO DE INSCRIÇÃO NOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO ?  CANCELAMENTO DAS ANOTAÇÕES NÃO PRECEDIDAS DE COMUNICAÇÃO AO CONSUMIDOR, NOS TERMOS DO ART. 43, § 2º, DO CDC ? VERIFICAÇÃO - EXISTÊNCIA DE OUTROS REGISTROS - DANO MORAL DESCARACTERIZADO - INCIDÊNCIA DO ENUNCIADO N. 83 DA SÚMULA/STJ - AGRAVO IMPROVIDO.
+(AgRg no REsp 1081845/RS, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 04/12/2008, DJe 17/12/2008)
+
+Diante do exposto e considerando tudo mais que dos autos consta, JULGO PROCEDENTE o pedido para o fim de declarar a inexigibilidade da dívida citada na inicial, determinando-se a exclusão definitiva do nome da parte autora do rol de inadimplentes, confirmando-se a antecipação de tutela, julgando-se improcedente o pedido de indenização por danos morais. Por consequência, julgo extinto o processo com resolução de mérito, com fundamento no artigo 269, I, do Código de Processo Civil. Sem custas nesta fase processual.
+
+PRI
+
+São Paulo, 11 de julho de 2014.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

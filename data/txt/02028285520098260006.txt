@@ -1,0 +1,56 @@
+
+
+SENTENÇA
+
+Processo nº:0202828-55.2009.8.26.0006
+Classe  Assunto:Embargos À Execução - Efeito Suspensivo / Impugnação / Embargos à Execução 
+Embargante:Cibele Loureiro
+Embargado:FBM Fomento Mercantil Ltda.
+
+
+
+
+
+Juiz(a) de Direito: Dr(a). Patricia Soares de Albuquerque
+
+
+
+
+
+Vistos.
+
+
+CIBELE LOUREIRO ajuizou os presentes embargos à execução contra FBM FOMENTO MERCANTIL S/A pretendendo a extinção do processo de execução, com a liberação dos valores bloqueados. Alega a princípio, que apesar de sócia da empresa, não a administra. Sustenta ainda, a ilegitimidade do título, eis que advém de pagamento de empréstimos, com a prática de agiotagem, o que descaracteriza o contrato. Ainda, ressalta que o risco da operação de fomento é do requerido, e assim, a nota promissória é inexigível. Impugna por fim, a desconstituição da personalidade jurídica. Juntou documentos (f. 15/21 e   38/54).
+O embargado manifestou-se, e informou que o valor veiculado na nota promissória, refere-se a débitos advindos de títulos desprovidos de causa subjacente e assim,legítima a cobrança (f. 25/29).  Requer a improcedência dos presentes embargos. Juntou documentos (f. 30/35).
+Realizada a audiência de instrução, foram tomados depoimentos pessoais do embargado (f. 101) e de uma testemunha arrolada pela embargante (f. 118/119).
+É o relatório.
+Decido.
+Limita-se a controvérsia à verificação da exigibilidade do título executado, considerando-se a sua origem.
+A princípio, vale consignar que o contrato de "factoring", a faturizada cede seus créditos à faturizadora, que assume os riscos pelo inadimplemento dos títulos cedidos e, ao mesmo tempo, garante o pagamento dos valores neles insertos à faturizada (FÁBIO ULHOA COELHO - "MANUAL DE DIREITO COMERCIAL
+- págs. 446/447 - SARAIVA - 1 993 - São Paulo).
+É da essência deste contrato a transferência não apenas do crédito, mas também do risco pelo não recebimento do crédito cedido: "Assim, nos contratos de factoring ou faturização, não há apenas a transferência dos títulos mediante endosso, mas verdadeira 'compra de movimento', vale dizer, cessão de crédito com responsabilidade do cessionário pelo negócio subjacente, o que se faz mediante comissão paga pelo faturizado ao faturizador, ou seja, pelo cedente ao cessionário" (Apel. 1.204.661-4 - 13a Câmara de Direito Privado do TJ/SP - Rei. Des. CAUDURO PADIN - j . 03.10.07).
+Ora, havendo a transferência do risco do negócio à empresa de "factoring", inadmissível a exigência de prestação de garantia pelos débitos objetos dos contratos.
+A exigência de garantia pela solvabilidade dos débitos cedidos descaracteriza a operação de "factoring" e mascara um verdadeiro contrato de mútuo com cobrança de juros abusivos, que se mostra inadmissível uma vez que a empresa de "factoring" não se qualifica como instituição financeira.
+Nesse sentido a lição de ARNALDO RIZZARDO: "Efetivamente, não se consideram as empresas que atuam no factoring instituições financeiras reguladas pelo Banco Central. Nem são disciplinadas pela Lei n° 4 595/64. (...) Verdade que a sua maior finalidade consiste na aplicação de recursos, mas de recursos próprios e não de terceiros. Não se lhes permite a captação de dinheiro, sob pena de passar a desempenhar uma atividade específica de bancos." ("CONTRATOS" - 6a ed. - pág. 1 385/1 386 - FORENSE - 2 006 - Rio de Janeiro).
+Inadmissível, portanto, a exigência da emissão das notas promissórias para garantir os danos inerentes ao risco do contrato de "factoring".
+Assim também entende o E. Tribunal de Justiça: 
+"Factoring - Contrato de fomento ? Risco do faturizador pela liquidação dos títulos negociados - Exigência de garantia inadmissível, ante a natureza do relacionamento entre faturizados e faturizado - Anulação de cheque caução, emitido pelo faturizado - Apelação provida para esse fim." (Apel. n° 990.10.119339-6 - 13a Cam. Dir. Priv. - Rei. Des. LUIZ SABBATO - j . 30.06.2 010)
+"Apelação - Inexistência de inépcia da inicial - Acessoriedade da ação cautelar - Eventuais vícios da ação cautelar não contaminam a ação principal - Contrato de fomento mercantil - Assunção da faturízadora pelo risco da solvabilidade dos créditos cedidos - Inadmissibilidade de emissão de notas promissórias em garantia ? Recurso improvido." (Apel. n° 991.07.038961-5 - 19a Cam. Dir. Priv. - Rei. Des. MAURO CONTI MACHADO - j . 08.06.2 010)
+Nem se diga que a nota promissória teria sido dada para garantir a própria existência do crédito.
+Certo é que o cedente responde pela existência do crédito, conforme disposto no art. 295 do Código Civil, entretanto, esse direito deve ser exercido através de ação própria, apurando-se a responsabilidade e o "quantum" devido pela empresa cedente.
+Nesse sentido já decidiu este E. Tribunal de Justiça:
+"DUPLICATAS MERCANTIS ? Operação de "factoring" - Execução movida pela faturizadora não contra a sacada, mas contra a faturizada cedente e seu representante legal - Inadmissibilidade - Desconto de títulos vedado às empresas de "factoring" - Operação de risco onde o faturamento representado pelas duplicatas sacadas contra terceiros é cedido sem direito de regresso - Apelo provido para inverter o resultado dos embargos. (...) A única possibilidade de a empresa de "factoring" voltar-se contra o faturizado seria se, sem seu conhecimento, tivessem-lhe sido cedidos títulos falsos, mas aí o ressarcimento só poderia ser buscado em ação de conhecimento de natureza indenizatória, com produção de prova suficiente da ocorrência da fraude e prova de quanto foi efetivamente pago por esse faturamento." (Apel.n° 990.10.367996-2 - 13a Cam. Dir. Priv. - Rei. Des.ULISSES DO VALLE RAMOS - j. 29.09.2 010)
+"EMBARGOS À EXECUÇÃO ? Nota promissória vinculada a contrato de factoring ? Impossibilidade de cobrança - Risco do negócio - Julgamento antecipado - Cerceamento de defesa que não ocorre ? Embargos procedentes - Decisão mantida. (...) Assim, eventual responsabilidade da apelante por haver transferido duplicatas sem causa ou cheques sem provisão de fundos, agindo de máfé, deve se deduzida por via adequada, na qual poderá pleitear o ressarcimento dos prejuízos que sofreu. Inadmissível, portanto, a utilização de nota promissória como meio para assegurar-se dos danos inerentes ao risco do contrato de factoring, mesmo que seja de responsabilidade do faturizado a existência do crédito cedido. Essa modalidade de negócio não comporta garantia mediante títulos de crédito." (Apel. n° 7.294.703-0 - 19a Cam. Dir. Priv. - Rei. Des. SEBASTIÃO ALVES JUNQUEIRA - j . 11.05.2 009) 
+A exigência de assinatura de nota promissória para garantir a existência do crédito mostra-se abusiva e descaracteriza o contrato de "factoring", transformando-o em verdadeira operação de desconto de título permitida apenas às instituições financeiras, conforme já decidido pelo E.Superior Tribunal de Justiça:
+"AGRAVO DE INSTRUMENTO ? AÇÃO DECLARATÓRIA - NULIDADE DE NOTAS PROMISSÓRIAS - EMPRESA DE FACTORING - REALIZAÇÃO DE EMPRÉSTIMOS E DE DESCONTO DE TÍTULOS COM GARANTIA DE DIREITO DE REGRESSO IMPOSSIBILIDADE - PRÁTICA PRIVATIVA DE INSTITUIÇÕES FINANAEIRAS INTEGRANTES DO SISTEMA FINANCEIRO NACIONAL - PRECEDENTES DESTA CORTE - INCIDÊNCIA DO ENUNCIADO N. 83 DA SÚMULA/STJ - ADEMAIS, ENTENDIMENTO OBTIDO DA ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO - REEXAME DE PROVAS - ÓBICE DO ENUNCIADO N 7 DA SÚMULA/STJ - AGRAVO IMPROVIDO. É notório, entretanto, que as empresas de 'factoring' costumam assumir uma interpretação equivocada da natureza e limites de suas atividades e habitualmente pretendem garantir-se, inserindo estipulações contratuais de garantia da idoneidade dos títulos e exigindo a emissão de cambiais semelhantes aos tratados nos autos, para através deles cobrar seus prejuízos perante a faturizada, num ilegítimo direito de regresso." (AgRg no Ag 1.071.538 - SP - Rei. Min. MASSAMI UYEDA-j. 31.10.2 008) 
+Assim, a nota promissória é inexigível. 
+Acredito que do mais seja desnecessário aduzir. 
+Diante do exposto, e por tudo o mais que dos autos consta, JULGO PROCEDENTE os presentes embargos à execução e, em conseqüência, julgo extinta a execução, por inexigibilidade do título executivo extrajudicial, nos termos do art. 618, inc. I, do Código de Processo Civil.  Libere-se os valores bloqueados da embargante, nos autos da execução. 
+O embargado arcará com a integralidade das custas e despesas processuais, além de honorários advocatícios que fixo, por eqüidade, em R$ 1.5000,00, com fundamento no art. 20 §4º do Código de Processo Civil, atualizáveis a partir desta condenação. 
+Certifique-se na execução o resultado dos presentes embargos.
+P.R.I.C.
+
+São Paulo, 16 de março de 2011. 
+
+Patrícia Soares de Albuquerque
+Juíza de Direito

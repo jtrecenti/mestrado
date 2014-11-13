@@ -1,0 +1,179 @@
+
+
+SENTENÇA 
+
+
+Processo:0074894-58.2011.8.26.0002 - Procedimento Sumário
+Requerente:Silvio Carlos Prudente Ivo - ESPÓLIO
+Requerido:Banco do Brasil S/A
+
+
+VISTOS.
+
+
+
+Consta do pedido inicial, em resumo, que, o falecido SILVIO CARLOS PRUDENTE IVO possuía conta-corrente no banco réu. Diante do seu falecimento, houve instauração de arrolamento dos bens por ele deixados, processo n. 0038752-36.2003, que tramitou na 2ª Vara da Família e Sucessões de Santo Amaro, no âmbito do qual houve um depósito do saldo de conta-corrente e aplicações no banco réu de R$ 2.195,46. Porém, depois, a inventariante constatou uma sucessão de saques indevidos na conta-corrente do falecido, entre os dias 02 e 07 de abril de 2004. O saldo que era de R$ 8.742,17 foi reduzido  por conta dos saques indevidos. Ao final, o espólio autor deduziu pedido de indenização de danos materiais no valor de R$ 6.161,37.
+
+
+
+O réu ofertou contestação (fls. 49/65).  Esclareceu o réu, ainda, que, em eventual intervenção de terceiro, teria atuado como mero instrumento dos atos praticados pelo suposto estelionatário, não podendo ser responsável por atos dolosos praticados por terceira pessoa. No mais, impugnou o pedido de indenização por danos materiais. 
+
+
+
+Houve réplica (fls. 75/77).
+
+
+
+É O BREVE RELATÓRIO.
+
+FUNDAMENTO E DECIDO.
+
+
+O processo comporta imediato julgamento, dispensando a produção de outras provas, nos termos do artigo 330, inciso I do Código de Processo Civil. 
+
+
+A lide cinge-se à discussão da responsabilidade do banco réu por despesas efetuadas por terceiro em razão de furto do cartão de crédito.
+
+
+A análise do litígio passa, necessariamente, pela qualificação da relação jurídica travada entre as partes como uma relação de consumo, tornando aplicáveis as disposições da Lei n. 8.078/90 (Código de Defesa do Consumidor - CDC). A matéria encontra-se pacificada pelas posições assumidas pelo Supremo Tribunal Federal (no julgamento da ADI 2.591) e pelo Superior Tribunal de Justiça (súmula 297: ?O Código de Defesa do Consumidor é aplicável às instituições financeiras?).
+
+
+Nesta linha, cabe inicialmente a qualificação do evento danoso narrado pelo espólio autor: saques indevidos na conta-corrente do falecido  e após o falecimento do titular. Trata-se de fato do serviço, na linguagem do Código de Defesa do Consumidor (CDC), disciplinado mais especificamente no artigo 14 daquele diploma legal.
+
+
+O banco réu em suas manifestações não impugnou a existência de responsabilidade civil sobre evento danoso qualificado como fato do serviço. Buscou demonstrar, todavia, as seguintes excludentes de sua responsabilidade (art. 14, parágrafo 3º., incisos I e II do CDC): a) inexistência de defeito do serviço e b) culpa exclusiva do consumidor.
+
+
+Por isso, é necessário corrigir o foco relativo ao ônus da prova: não era atribuição da parte autora (consumidora) provar a existência do defeito, mas sim do réu (fornecedor) provar aquelas excludentes (inexistência do defeito do serviço e culpa exclusiva do consumidor). Preservado o convencimento externado na sentença, era irrelevante que o fato ? inexistência do defeito ? fosse ?negativo?. Tratava-se de atribuição legal de ônus da prova e não de inversão operada pelo juiz.
+
+As premissas do julgamento ? incidência do CDC e atribuição do ônus de provar as excludentes de responsabilidade por fato do serviço ? facilitam a construção da fundamentação. Resta analisar-se, diante do conjunto probatório: a) se o serviço bancário revelou-se sem defeito e b) se houve culpa exclusiva de terceiro. 
+
+
+A prova documental (fls. 31) não deixou dúvidas: quatro transações de saques com cartão foram realizadas depois do falecimento do titular da conta, todas no curto período entre 02.1.2004 e 07.1.2004. 
+
+
+Ora, entendo que aquelas operações indicavam que o cartão era objeto de uso indevido. Não é necessário ter enorme experiência investigativa, para desconfiar da idoneidade das operações, quando realizadas em poucos dias e numa conta cujo titular havia falecido. E eram completamente fora do perfil do consumidor  a conta não era movimentada fazia meses.
+
+
+Em outras palavras, entendo que o sistema de movimentação de conta-corrente pela Internet ou por cartão magnético deve conter uma forma para evitar pagamentos de títulos, saques e transferências indevidos.  Trata-se da segurança do serviço bancário, requisito elementar para a idoneidade do serviço. Aliás, não é por outro motivo que restrições são feitas, destacando-se, dentre outras: a) horário para utilização do serviço de saque em caixas eletrônicos, b) a limitação de valores para saques, c) senhas de acesso à Internet, etc. 
+
+
+Sendo assim, estranha-se que não se tenha desenvolvido nenhum sistema capaz de gerar um alerta para transações fora do perfil do correntista em dias seguidos, criando-se um procedimento de segurança que possa, por exemplo, checar a idoneidade da movimentação pelo pedido de confirmação pelo telefone ou por telegrama. Aliás, registre-se que rito semelhante já acontece no sistema de cartão de crédito, em que, por segurança, diante de transações seguidas em curto espaço de tempo, o fornecedor (administradora do cartão de crédito) telefona para o consumidor (cliente) para confirmar a idoneidade das operações. 
+
+
+
+
+
+Passo a apreciar a culpa exclusiva do terceiro.  O banco réu não cogitou da culpa do consumidor falecido ou de alguém de sua família. 
+
+
+Afasto a alegação de que culpa exclusiva de terceiro. Importante lembrar que todo o sistema e a extensão da dinâmica do procedimento de movimentação pela Internet ou são concebidos pelo fornecedor (instituição financeira). A ele devem ser creditados os méritos pela facilidade que o sistema proporciona, tanto ao consumidor (agiliza os serviços), como a ele fornecedor (reduz o custo da operação bancária e aumenta o lucro). Porém, a ele também devem ser debitados os riscos da insegurança do sistema.
+
+
+
+
+A forma como a senha chegou ao conhecimento do terceiro assume pouca importância na conclusão da responsabilidade do banco. Ora, numa sociedade em que as pessoas são identificadas por números (RG, CIC, conta-corrente, etc.), não se pode descartar a possibilidade da pessoa fazer uso de senha com número de fácil lembrança. É o natural e não pode ser qualificado como negligência ou imprudência ? culpa. Se o consumidor deve ter facilitado o uso do serviço do caixa eletrônico e da própria Internet, não pode ser submetido a conceber uma senha com números completamente estranhos. Não basta que o banco faça advertência de que tais números são indesejáveis. Se o risco é grande, deve o banco réu impedir ? pelo sistema ? o uso de tais números (com datas de aniversários, casamentos, nascimentos, etc.). 
+
+
+
+Concluindo-se, entendo que o serviço prestado pelo banco réu foi defeituoso, ao não proporcionar a segurança dele esperada e sem que se possa imputar a terceiro culpa exclusiva pelo evento danoso.
+
+
+A respeito do tema, confira-se valioso precedente da 3ª. Turma do Superior Tribunal de Justiça, REsp. n. 727.843-SP, relatora a Ministra Nancy Andrighi, julgado em 15.12.2005, DJ 01.02.2006, destacando-se:
+
+
+?Diferenciando-se apenas quanto ao fundamento utilizado para a inversão do ônus da prova (art. 6º, inc. VIII do CDC), aplica-se perfeitamente à hipótese dos autos o precedente supra transcrito, de cujo voto-condutor vale transcrever as seguintes conclusões:
+
+"a) o sistema é suscetível de falhas que se ocorrerem, podem dar azo a enormes prejuízos para o consumidor; 
+
+?b) tratando-se de sistema próprio das instituições financeiras e geridos pelas mesmas, ocorrendo retirada indevida de numerário da conta corrente do cliente, não se vislumbra nenhuma possibilidade deste ilidir a 'presunção de culpa' que deseja construir a instituição bancária."
+
+?Nada há que possa distinguir o presente processo da jurisprudência acima colacionada, a qual traz ainda, à liça, a enxurrada de notícias veiculadas pela imprensa a respeito de fraudes e golpes perpetrados contra correntistas e instituições financeiras, sobre os quais inclusive tem se debruçado a Federação Brasileira de Bancos - FEBRABAN na busca da equalização do problema.
+
+?Como solução a esse impasse, ínsito à área de tecnologia da informação e que figura como uma das conseqüências funestas do alvissareiro avanço tecnológico mundial, impõe-se a inderrogável salvaguarda do equilíbrio da relação jurídica estabelecida entre o usuário dos serviços e o banco.
+
+?Para tanto, deve necessariamente recair sobre a instituição detentora e/ou produtora dessas tecnologias o ônus de produzir mecanismos de verificação e controle hábeis a comprovar que as operações foram realizadas pelo correntista, ou sob as ordens deste.
+
+?Assim, embora comprovado o dissídio jurisprudencial com a Quarta Turma do STJ, de cujo precedente paradigma se extrai a orientação consistente na inviabilidade de inversão do ônus da prova em hipóteses como a em apreço, cabendo ao banco demonstrar tão-só que não agiu com culpa, incumbindo, por seu turno, ao correntista, a prova da negligência, imperícia ou imprudência da instituição financeira, tal posicionamento não se coaduna com a mais recente jurisprudência desta Terceira Turma do STJ, da qual se extraem os seguintes fundamentos:
+
+?i) é plenamente viável a inversão do ônus da prova (art. 333, II do CPC) na ocorrência de saques indevidos de contas-correntes, competindo ao banco (réu da ação de indenização) o ônus de provar os fatos impeditivos, modificativos ou extintivos do direito do autor, isto é, deve o réu demonstrar que das alegações do autor não decorrem as conseqüências por ele pretendidas;
+
+?ii) incumbe ao banco demonstrar, por meios idôneos, a inexistência ou impossibilidade de fraude, tendo em vista a notoriedade do reconhecimento da possibilidade de violação do sistema eletrônico de saque por meio de cartão bancário e/ou senha;
+
+?iii) se foi o cliente que retirou o dinheiro, compete ao banco estar munido de instrumentos tecnológicos seguros para provar de forma inegável tal ocorrência.?(negrito e grifo nossos).
+
+
+Também no E. Tribunal de Justiça de São Paulo há precedentes na mesma direção, destacando-se a Apelação n° 7.163.647-2 -, 24ª. Câmara de Direito Privado, relator o Desembargador Roberto Mac Cracken, julgado em 16.8.2007, com a seguinte ementa:
+
+?INDENIZATÓRIA - PERDAS E DANOS - MÁ PRESTAÇÃO DOS SERVIÇOS BANCÁRIOS - PRESUMIDA A BOA-FÉ DA CONSUMIDORA - INEXISTÊNCIA DE PROVAS PARA O FIM DE AFASTAR TAL PRESUNÇÃO.
+
+?É evidente, com o devido respeito, a possibilidade de falha no serviço bancário, tanto que, infelizmente, ao longo da história, inúmeras fraudes, das mais diversas modalidades, são registradas. Ainda mais, deve ser registrado que a fragilidade e insegurança do sistema bancário, em especial em alguns segmentos de sua atividade, é patente. Pelas provas carreadas, a apelante teve valores indevidamente retirados de sua conta corrente, após ser auxiliado por suposto funcionário do Banco réu. O fato se deu no caixa eletrônico existente no interior do prédio onde se localiza a agência bancária da ré. Ao que tudo indica, ocorreu falha no dever de segurança e vigilância, que impõe o dever de indenizar. Não se pode argumentar em revelação da senha pela correntista, já que inexiste prova neste sentido, bem como, porque, efetivamente, não existem indícios que levem à conclusão que a senha tenha sido obtida com o consenso do consumidor. A questão toma certa gravidade uma vez que o próprio Banco, depois de tomar conhecimento dos fatos, realizou um crédito na conta da apelante, no valor reclamado pela autora, e, posteriormente, promoveu, sponte própria, o estorno de tal valor, cobrando inclusive uma taxa por ter adiantado o valor. Não pode o Banco, unilateralmente, creditar e debitar valores na conte corrente da autora, por seu exclusivo entendimento. Assim, uma vez creditada determinada quantia, ainda que o crédito tenha sido feito peta Instituição Financeira, não pode mais esta, isoladamente, retirar tal valor da conta corrente da apelante. Tal ocorrência só poderia se dar com concordância expressa do cliente ou por determinação judicial, ou, ainda, excepcionalmente, de forma comprovada, por erro operacional (vide: Resolução n° 2878 do Banco Central do Brasil, de 26/7/2001, artigo 16, inciso I, parágrafo 1º, com as alterações contidas na Resolução n° 2892 do Banco Central do Brasil, de 27/9/2001, artigo 1o, inciso IX). Nenhuma das hipóteses acima elencadas ocorreu no caso em exame. Danos material e moral existentes. Indenização devida. Recurso parcialmente provido.?  (negrito nosso).
+
+
+E na mesma linha, confiram-se os seguintes julgados do Tribunal de Justiça de São Paulo, com as ementas destacadas:
+
+?APELAÇÃO AÇÃO INDENIZATÓRIA DANOS MORAIS CONTRATOS DE EMPRÉSTIMOS NEGATIVAÇÃO INDEVIDA Relação de consumo caracterizada - Inversão do ônus da prova Não demonstrado que os contratos de empréstimos foram celebrados pelo autor - Possibilidade de clonagem do cartão ou da senha, ou do sistema eletrônico ser destravado, possibilitando o uso do cartão sem a respectiva senha, que não podem ser desconsideradas - Responsabilidade objetiva da instituição financeira decorrente do risco integral de sua atividade - Falha no sistema de segurança do banco caracterizada Dano moral puro que é presumível, independendo de comprovação Inteligência do art. 14 do CDC Indenizatória procedente Apelo improvido.?
+
+(Apelação Cível nº 9111268- 28.2008.8.26.0000 , 24ª Câmara de Direito Privado, Relator o Desembargador SALLES VIEIRA, julgado em 10.11.2011)
+
+=========
+
+"RESPONSABILIDADE CIVIL DANO MORAL empréstimos e saque indevido na conta corrente da apelada relação de consumo inversão do ônus da prova pela verossimilhança da versão da apelada dever do apelante de demonstrar que não houve movimentação indevida da conta, ônus do qual não se descurou responsabilidade objetiva do prestador de serviço na hipótese dever de zelar pela segurança do serviço prestado danos morais existentes indenização corretamente fixada em R$ 10.000,00 recurso desprovido."
+
+(Apelação Cível nº 0026258- 50.2010.8.26.0114 , 12ª Câmara de Direito Privado, Relator o Desembargador CASTRO FIGLIOLIA, julgado em 09.11.2011)
+
+=========
+
+"RESPONSABILIDADE CIVIL Conta corrente Indenização. Saques realizados sem conhecimento ou autorização do correntista - Banco-réu não comprovou que os saques foram realizados pelo correntista ou por terceiros por eles autorizados Aplicação do art. 6º, VIII, do CDC - Responsabilidade objetiva do Banco pelo fato do produto e do serviço (cf. arts. 12 a 14 do CDC), bem como pelo vício do produto e do serviço (cf. arts. 18 a 20, 21, 23 e 24) - Responsabilidade evidenciada Restituição dos valores retirados indevidamente Possibilidade Limitação, contudo, ao valor pedido (R$ 5.598,00), menor que a soma dos saques indevidos (R$ 6.650,00). 
+
+"DANOS MORAIS Saques em conta corrente não reconhecidos pelo correntista Admissibilidade Inscrição da correntista nos cadastros de órgãos de proteção ao crédito Dano in re ipsa Fixação do valor em R$ 8.000,00 - Admissibilidade."
+
+
+(Apelação Cível nº 9063611- 27.2007.8.26.0000 , 20ª Câmara de Direito Privado, Relator o Desembargador ÁLVARO TORRES JÚNIOR, julgado em 07.11.2011)
+
+
+
+PASSO A FIXAR A INDENIZAÇÃO. 
+
+
+Acolho, em parte, o pedido de indenização dos danos materiais. 
+
+
+Entendo que traduz prejuízo patrimonial o fato do espólio autor ver sacados inúmeros valores na sua conta bancária, inclusive com  utilização de saques por cartão (fls. 31). 
+
+
+Por isso, a indenização dos danos materiais alcançará a cifra de R$ 5.000,00 (cinco mil reais).  O valor será acrescido de juros de mora de 1% (um por cento) ao mês e de correção monetária calculada pelos índices adotados pelo TJ-SP, ambos a partir de cada saque indevido (entre 02.1.2004 e 07.1.2004). Não há que se falar em pagamento de outros valores debitados  a título de tarifas ou encargos incidentes na conta-corrente  porque o assunto não foi objeto da demanda. 
+
+
+DISPOSITIVO.
+
+
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE A AÇÃO promovida por Silvio Carlos Prudente Ivo contra o Banco do Brasil S/A, para condenar o réu ao pagamento de indenização no valor de R$ 5.000,00 (cinco mil reais).  O valor será acrescido de juros de mora de 1% (um por cento) ao mês e de correção monetária calculada pelos índices adotados pelo TJ-SP, ambos a partir de cada saque indevido (entre 02.1.2004 e 07.1.2004). 
+
+
+Em razão da sucumbência quase integral,  o réu deverá suportar o pagamento das custas judiciais (atualizadas) e dos honorários advocatícios, estes fixados em 15% (quinze por cento) do valor integral da dívida (principal com juros e correção monetária). Os honorários são fixados para a fase de conhecimento. Se não houver cumprimento voluntário da sentença, serão fixados honorários adicionais para a fase de execução.
+
+
+Fica o réu intimado a cumprir o pagamento em dinheiro ordenado na sentença, no prazo de 15 (quinze) dias contados da data em que a condenação se tornar exigível, em primeiro ou segundo graus de jurisdição, sob pena de incidência de multa processual de 10% (dez por cento), na forma do artigo 475-J do Código de Processo Civil. 
+
+
+A base de cálculo para a taxa judiciária incidente na fase recursal: valor da causa sem acréscimos.
+
+P.R.I.
+São Paulo15 de março de 2012
+
+Alexandre David Malfatti  
+
+
+
+
+
+    
+
+CERTIDÃO ? PUBLICAÇÃO
+
+Certifico e dou fé que a  decisão ou sentença anterior foi enviada ao D.J.E. Disponibilização em  _____ / _____ / 20__. Considera-se data da publicação o primeiro dia útil subseqüente à data acima mencionado. 
+Custas de preparo: R$ ________________.
+Taxa de porte e remessa: R$ _____________.
+
+Eu, .............................. escr. , digitei e subscrevo.

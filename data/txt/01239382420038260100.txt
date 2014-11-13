@@ -1,0 +1,45 @@
+
+
+SENTENÇA
+
+Processo nº:0123938-24.2003.8.26.0100
+Classe ? Assunto:Procedimento Ordinário - Assunto Principal do Processo > 
+Requerente:Metal Toq Indústria e Comércio Ltda
+Requerido:Arenil s Serviços S/c Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Carmen Lúcia da Silva
+
+
+
+VISTOS.
+
+METAL TOQ INSDÚSTRIA E COMÉRCIO LTDA. ajuizou ação em face de ARENIL'S SERVIÇOS S/C LTDA. objetivando a condenação na ré ao pagamento de indenização por danos materiais, no valor de R$119.764,63, decorrentes de falha na prestação de serviços.
+A empresa-ré foi citada (fls. 75) e ofereceu contestação a fls. 78/95. Afirmou, em preliminar, que a inicial é inepta. Quanto ao mérito, negou o descumprimento do contrato entre as partes, negando que tenha agido com culpa. 
+Não se logrou êxito em conciliar as partes (fls. 125).
+A fls. 126 e verso foi proferida decisão saneadora, oportunidade em que foi rechaçada a preliminar e deferida a produção de prova pericial.
+O laudo pericial foi juntado aos autos a fls. 150/182. Resposta aos quesitos suplementares a fls. 305/306; 321/323; 326/328.
+Em audiência de instrução foi tomado o depoimento pessoal do representante legal da empresa-ré (fls. 357/360) e inquiridas duas testemunhas (fls. 423/425; 442/443).
+Alegações finais da autora a fls. 448/452.
+É o relatório.
+D E C I D O.
+Trata-se de ação proposta por METAL TOQ INSDÚSTRIA E COMÉRCIO LTDA. em face de ARENIL'S SERVIÇOS S/C LTDA. objetivando a condenação da ré ao pagamento de indenização por danos materiais, no valor de R$119.764,63, decorrentes de falha na prestação de serviços.
+De acordo com a inicial, a autora exerce atividade comercial consistente na fabricação e comercialização de jóias, pedras preciosas etc. Em 18/05/1994, firmou com a ré contrato de prestação de serviços de monitoramento eletrônico, cujo valor mensal era de R$130,00. Os serviços da demandada consistiam no monitoramento de retorno de impulso telefônico, emitido em horários aleatórios escolhidos por computador. Caso o retorno não ocorresse, tal situação seria considerada como anormalidade, de modo que a empresa-ré deveria adotar conduta-patrão, como, por exemplo, o acionamento de patrulha. Em 04/05/2003, ocorreu furto no interior do estabelecimento, o que lhe acarretou prejuízo material de R$119.674,63. Fez registrar boletim de ocorrência no 9º Distrito Policial. Nenhuma comunicação foi realizada, sob a alegação da ré de que sua linha telefônica estaria ?cortada? e que, por conta disso, a Central de Operações não teria sido informada. O fato inviabilizou a tomada das medidas urgentes e necessárias. Em que pese a alegação da demandada, à época sua linha telefônica não apresentava  irregularidade alguma.
+A ré, ao oferecer contestação, sustentou que a central de alarmes depende da linha telefônica para o envio dos sinais de detecção e a falha desse sistema impossibilitou o seu funcionamento. Negou que a autora tenha sofrido qualquer prejuízo. 
+De acordo com o laudo pericial juntado a fls. 150/182, não houve falha na prestação dos serviços. Primeiro porque o monitoramento não previa ações relativas à monitoração da integridade das linhas telefônicas do sistema de telefonia fixa utilizada para transmissão dos sinais de alarme. Segundo porque a supervisão da integridade das linhas telefônicas por meio de sinais de testes diários enviados pela central de monitoramento é inverídica (item 5 do laudo pericial).
+Não bastasse, ao responder aos quesitos suplementares, o ?expert? reafirmou suas conclusões (fls. 305/306; 321/323; 326/328).
+De acordo com o contrato, ficou estabelecida a prestação de serviços de monitoramento e de manutenção no estabelecimento da empresa-autora, mediante a instalação do equipamento RADCOM-E, modelo 400 R. A prestação dos serviços contratados consistia na emissão de sinal de emergência na Central de Operações da RADCON quando acionado o sistema de segurança. Quanto à manutenção, esta era feita quando solicitada e em visitas preventivas trimestrais. Há previsão de cobertura total de peças e mão-de-obra atinente ao sistema do alarme instalado. A prestação de serviços restringia-se, pois, às ações relacionadas ao recebimento de sinais de emergência provocados pelo acionamento do sistema de segurança (especificações a fls. 15).
+Conclusão: as alegações da autora não podem prosperar, pois não há que se atribuir responsabilidade à empresa-ré sob a alegação de que houve falha na prestação do serviço porque, em tese, a demandada não teria adotado as medidas cabíveis com o fim de evitar a consumação do furto. De acordo com a prova técnica, o evento Teste Diário é programado na Central de Alarme do cliente, em datas e horários fixos, e não emitido pela Central de Monitoramento em horários aleatórios, como alegou a demandante. Assim sendo, não há a possibilidade de a Central de Monitoramento utilizar os sinais recebidos pelo teste ? programado ? para adotar alguma ação. O que é possível é, com a utilização deste software, ao receber sinal de teste em determinado dia e hora, aguardar-se até o dia seguinte, à espera de um novo sinal de teste dessa mesma instalação. Referido sinal somente será ?verdadeiro? se estiver programado para emissão diária. E mais: o atraso no registro não significa que a Central de Monitoramento realizou um teste, mas sim que aguardou um dia e uma hora por um sinal que poderia ter sido envidado da central de alarme local e que não fora recebido. Todo o exposto leva à reiterada conclusão de que não houve falha na prestação de serviços.
+Vale destacar que o contrato firmado entre as partes não tem por objeto a supervisão da comunicação telefônica, tampouco diz respeito à promoção de segurança patrimonial ou vigilância contínua por parte da ré. O objeto do contrato se restringe ao monitoramento à distância. Cuida-se de obrigação de meio e não de fim, o que difere da natureza jurídica das obrigações assumidas por instituições de seguro típicas, que são obrigadas a indenizar danos suportados e cobertos pela apólice. Justamente por isso, ficam afastadas as palavras da testemunha informante que, por trabalhar como polidor para a empresa autora desconhece os termos do contrato e simplesmente trouxe à tona detalhes do furto (fls. 423/425). O mesmo se diga quanto ao depoimento da testemunha informante Dulio Lopes Júnior, engenheiro eletricista que, ao tomar conhecimento das conclusões tiradas pelo perito judicial, veio a Juízo com o propósito de sustentar os argumentos da demandante.
+Destaquem-se, por fim, as palavras do representante legal da ré: ?Constava do contrato celebrado entre as partes a necessidade do perfeito funcionamento dos serviços telefônicos para que nossa empresa pudesse receber o sinal indicativo de invasão do prédio da empresa autora. Mesmo assim, quando os furtadores invadiram o edifício da demandante, foi disparada a sirene que havia sido instalada no local pela nossa empresa, tudo de acordo com o contrato (...) Quero destacar, por oportuno, que nossa empresa presta serviço de monitoramento e do contrato não consta nenhuma cláusula relativa a seguro de bens da empresa que contrata nossos serviços, tanto isso é verdade que não é feita nenhuma avaliação dos bens que compõem o patrimônio da empresa por nós monitorada. Considera-se cumprido o contrato quando se constata que o serviço de alarme prestado estava em perfeitas condições de funcionamento?.
+Referidas palavras estão em consonância com a prova técnica.
+Sendo o objeto do contrato o monitoramento e não a segurança, e não tendo sido constatada falha na prestação de serviço, é improcedente o pedido de indenização formulado pela empresa-autora.
+Posto isso, JULGO IMPROCEDENTE o pedido de indenização formulado por METAL TOQ INDÚSTRIA E COMÉRCIO LTDA. em face de ARENIL'S SERVIÇOS S/C LTDA.
+Sucumbente, arcará a autora com as custas, despesas processuais e honorários advocatícios que fixo, por equidade, em R$12.000,00, nos termos do art. 20, § 4º, do CPC.
+Após o trânsito em julgado, caso seja de seu interesse, requeira a empresa-ré o cumprimento do julgado, na forma do art. 475-J do CPC. Caso nada seja requerido no prazo de seis meses, arquivem-se os autos do processo.
+P.R.I.C.
+São Paulo, 15 de fevereiro de 2013.
+CARMEN LÚCIA DA SILVA
+       Juíza de Direito

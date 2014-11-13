@@ -1,0 +1,103 @@
+
+
+CONCLUSÃO
+Em 07 de fevereiro de 2013, faço estes autos conclusos à MMª Juíza de Direito da 2ª Vara Civel do Foro Regional de Pinheiros, Dra. ANDREA FERRAZ MUSA. 
+Eu, ______, escrevente, subscrevi.
+
+SENTENÇA 
+
+
+Processo:0008225-59.2012.8.26.0011 - Procedimento Ordinário
+
+Requerente:Kenichi Hamada
+Requerido:Banco Bradesco S/A
+
+
+Juiz de Direito: Dra. Andrea Ferraz Musa
+
+
+
+Vistos.
+Trata-se de ação de revisão do contrato bancário movida por Kenichi Hamada em face de Banco Bradesco S/A. Alega o autor que firmou com o banco réucontratods de empréstimos, financiamentos e renegociações, não havendo recebido cópia dos contratos. Afirma que o banco réu desconta mensalmente de sua conta R$ 1.572,66, a título de amortização do empréstimo que tem valor total de R$ 27.537,84.
+Afirma porém, que o contrato em questão aplica a Tabela Price, que é ilegal. Pretende, dessa forma, que esta seja substituída pelo método Gauss.
+Afirma, ainda, que o banco réu aplica a Taxa Selic, que é ilegal. Aduz que os juros são abusivos e devem estar limitados a 12% ao ano, não podendo ser capitalizados.
+Pretende, ainda, que seja afastada a cobrança de comissão de permanência e de multa moratória superior a 2%.
+Assim, invocando o Código de Defesa do Consumidor, pede a revisão do contrato e do saldo devedor. Pede, ainda, que o banco réu seja impelido à exibir os contratos objeto da demanda. Por fim, requer indenização por dano moral e material.
+Houve pedido de tutela antecipada para consignação de valores, exibição de documentos e levantamento de negativação. Os pedidos foram indeferidos, observando-se que a Cédula de Crédito Bancária foi acostada aos autos a fls. 96/99 pelo próprio autor.
+Regularmente citado, o réu ofertou contestação na qual alega que, de fato, o autor fez sucessivas negociações com o banco, mas não conseguiu efetuar o pagamento dos empréstimos realizados. Assim, é devedor confesso.
+Afirma que o contrato é legal, que tem juros prefixados e que a multa moratória foi fixada em 2%, observando a disposição legal. Afirma que as taxas de juros são legais, sendo que, tratando-se de juros prefixados não há que se falar em anatocismo.
+Nega a existência de cobrança de comissão de permanência.
+Impugna o pedido de dano moral e material e acosta aos autos o contrato firmados com o autor.
+Assim, pede a improcedência da ação.
+Houve réplica.
+É o relatório.
+DECIDO.
+a) Da prova pericial:
+Inicialmente, necessário frisar que a controvérsia levantada nos presentes embargos refere-se a validade do contrato firmado entre as partes. Na verdade, o autor não diz que o valor cobrado pelo banco não condiz com o contrato firmado, mas que o contrato possui cláusulas nulas.
+Observo que apenas se forem consideradas nulas as cláusulas contratuais apontadas pelos embargantes é que devemos proceder ao cálculo do valor efetivamente devido, já que a inadimplência é reconhecida pelo devedor.
+Dito isto, fica claro que a produção de prova pericial não se faz necessária. Isso porque há dois os pontos controvertidos na presente ação: a validade das cláusulas contratuais e o valor do saldo devedor. No entanto, como já dito, só é cabível discutir o saldo devedor se ficar estipulado que as cláusulas contratuais são, de fato, nulas. 
+Portanto, se assim for declarado, e estipulado uma nova fórmula para o cálculo do débito existente, aí sim caberia perícia para verificar o quantum debeatur. 
+Logo, uma vez que a validade das cláusulas contratuais é matéria de direito, e a apuração do valor residual depende do acolhimento das teses do embargante, e poderá ser feito em liquidação de sentença se procedentes os embargos. Logo, nesta fase processual, desnecessária a prova pericial. Assim, com fundamento no art. 330, inciso I do Código de Processo Civil, passo ao julgamento antecipado da lide.
+b) Da relação de consumo, do contrato de adesão e das cláusulas abusivas:
+É evidente a existência de uma relação de consumo entre a autor e o réu. Isso porque o contrato firmado entre as partes espelha compra e venda de bem móvel, sendo a autora destinatária final do objeto do contrato.
+Assim, se o autor  encaixa-se no conceito de consumidor dado pelo art. 2º , da Lei 8.078/90, também é certo que o banco réu igualmente encaixa-se na definição de fornecedor, dada pelo art. 3º, daquela mesma lei, uma vez que é pessoa jurídica que desenvolve atividade de comercialização de produtos.
+Dessa forma, é aplicado o Código de Defesa do Consumidor ao caso em tela.
+O contrato discutido no caso em tela, por sua vez, é típico contrato de adesão. Isso porque o contrato é evidentemente elaborado pelo banco e utilizado em todas as operações de empréstimo, mudando apenas o seu valor. 
+O consumidor, nesse caso, adere ao contrato, sem liberdade de discutir cláusulas contratuais, impostas pelo outro contratante, embora lhe reste a liberdade de aceitar ou recusar o contrato.
+Nas palavras de Orlando Gomes:
+"No contrato de adesão uma das partes tem de aceitar, em bloco, as cláusulas estabelecidas pela outra, aderindo a uma situação contratual que encontra definida em todos os seus termos. O consentimento manifesta-se como simples adesão a conteúdo preestabelecido da relação jurídica" (Contratos, 7ª ed., Ed. Forense, p. 125/126)
+Em contratos de adesão passou-se a observar problemas comuns que surgiam após a assinatura, indicando que, na realidade, o consumidor desconhecia o seu conteúdo. Por isso, passando a enxergar o contratante que aderiu ao contrato como parte hipossuficiente, abrandou-se o entendimento de uma das regras mais importantes que regem o direito das obrigações: pacta sunt servanda.
+Nesse sentido a lição de Tupinambá Miguel Castro do Nascimento:
+"O problema que se tem, quanto ao contrato em exame, é se efetivamente, ao aderir, a parte conhecia o conteúdo e a extensão da cláusula que lhe é prejudicial, ou mesmo sabendo, não teve sua vontade reduzida pela necessidade de contratar. Aí, o consentimento por adesão pode estar viciado. Isto não é incomum em contratos com longas e numerosas cláusulas ter, entre elas, por exemplo, uma que cria o foro de eleição, para fins de ajuizamento da ação, em comarca distante onde mora o consumidor, tornando praticamente impossível o direito de ação. Indaga-se se o consumidor, ao consentir por adesão, sabia dos reflexos negativos desta cláusula, que lhe impede até o exercício de direito constitucional (art. 5º, XXXV, da Constituição) ou mesmo se sabia da existência da própria cláusula". (Comentários ao Código do Consumidor, Ed. Aide, 2ª ed., p. 73).
+Por tal razão, o legislador ao editar o Código de Defesa do Consumidor admitiu o contrato de adesão com ressalvas, ou seja, condicionando-o a certos requisitos, previstos no art. 54 desta lei. Se o contrato não respeitar os limites fixados as cláusulas serão declaradas nulas de pleno direito.
+Por outro lado, o Código de Defesa do Consumidor coíbe, em qualquer contrato, não apenas nos de adesão, a inserção de cláusulas abusivas. O art. 51 da mencionada lei elenca um série de cláusulas que, se estipuladas serão declaradas nulas de pleno direito.
+Segundo Nelson Nery Júnior, as cláusula abusivas são conceituadas da seguinte forma:
+"São aquelas notoriamente desfavoráveis à parte mais fraca na relação contratual de consumo. São sinônimas de cláusulas abusivas as expressões cláusulas opressivas, onerosas, vexatórias ou, ainda, excessivas. Não se confundem com o abuso de direito (CC 160 a contrario sensu). Sua existência não torna nulo todo o contratos e pode estar presente tanto nos contratos de adesão como em qualquer outro contrato de consumo, verbal ou escrito". (Código de Processo Civil Comentado, 2ª ed., Ed. RT, p. 1687).
+O rol do art. 51, porém, é exemplificativo, podendo outras serem identificadas caso a caso. E também é certo que há outras cláusulas abusivas coibidas no próprio corpo do Código de Defesa do Consumidor, porém em outros dispositivos. 
+Aplicando os comentários tecidos ao caso em tela, temos que o contrato firmado é de adesão, tendo como parte hipossuficiente o consumidor que muitas vezes não tem nem ao menos conhecimento de todas suas cláusulas contratadas.
+Tal contrato, por ser de adesão, e por envolver relação de consumo, deve obedecer as limitações impostas pelo Código de Defesa do Consumidor, que objetiva proteger o consumidor de situações desiguais, que possam lhe causar prejuízos em benefício do fornecedor.
+Assim, se verificado que determinada cláusula ofende tais direitos, deve ser considerada nula.
+Visto isto, é preciso fazer algumas considerações sobre o contrato ora discutido. Observo que, inicialmente, que o débito discutido nesses autos teve origem no instrumento particular de ocnfissão de dívidas e outras avenças firmado pelo autor com o banco réu. Tal contrato demonstra claramente as cláusulas pactuadas, indicando os juros pré e pós-fixados, bem como a conseqüência do inadimplemento contratual (cláusula 5).
+Ainda em sede de considerações preliminares, devemos lembrar que o objetivo do banco ao realizar operações como empréstimo, o mútuo, o leasing e outras operações, é o lucro, que está justamente na cobrança de juros. Tal fato é notório. E ao fazer o contrato com uma instituição financeira o cliente busca aquele que oferece menores juros, ou melhores condições de pagamento.
+É evidente que as taxas de juros oferecidas para as aplicações dos clientes é inferior a que decorre de contratos como o discutido nesses autos. É justamente desta diferença que decorre o lucro do banco.
+Se não estiver satisfeito com um banco, é possível que contrate com outro, cuja taxa de juros seja mais favorável.
+Da mesma forma devemos ponderar que o cliente não é obrigado a fazer o financiamento. Ao fazê-lo, porém, está ciente do pagamento dos juros, que gera lucro ao banco.
+Assim, embora seja possível a revisão do contrato com fulcro no Código de Defesa do Consumidor, não prospera a alegação de que o cliente-consumidor não tem ciência das taxas de juros, já a autora demonstrou ter conhecimento de tais cláusulas, nem que os valores serão altos, vistos que é notório que o lucro dos bancos está justamente na cobrança de juros.
+Se ciente de tudo isso, ainda assim, opta por fazer o financiamento, é porque está ciente que pagará ao banco de volta valor superior ao que o banco lhe emprestou, com os juros fixados no contrato.
+Dessa forma, a revisão contratual no caso em tela não tem como base o desconhecimento do consumidor, ou a imposição de cláusulas cujo teor seja ignorado pelo contraente. Em conseqüência, embora seja um contrato de adesão, não vislumbro consentimento viciado do consumidor, que tem ciência da taxa de juros, da forma de cobrança, além de ter opções de mercado. Portanto, a princípio deve vigorar o ?pacta sunt servanda?.
+Logo, admissível a revisão contratual, apenas na hipótese de se vislumbrar a fixação de cláusula ilegal.
+c) Quanto as cláusulas nulas que prevêm aplicação da Taxa Selic, Comissão de Permanência, Tabela Price e multa moratória superior a 2%.
+Analisando o contrato objeto de demanda de fls. 136/139, bem como o de fls. 96/99, observa-se que não há previsão de aplicação de Tabela Price, Taxa Selic, Comissão de Permanência, nem está fixada multa moratória superior a 2%.
+Portanto, tais alegações são inócuas, visto que não contempladas nas contratações firmadas entre as partes.
+d) Quanto aos juros aplicados:
+Os juros pactuados são pré aplicados e claramente identificados ao consumidor. Em ambos contratos. O valor das parcelas também pré fixadas é identificado, não havendo cláusulas em letras miúdas, ou que gerem dúvida sobre o valor cobrado e os juros aplicados.
+Os juros estabelecidos são legais, mesmo porque pacífica a jurisprudência que a limitação do art. 192 da CF não se aplica, não se aplicando, ainda, às instituições financeiras as limitações da Lei de Usura.
+Há que se ponderar que a Lei de Usura não é aplicável às instituições financeiras. Com efeito, o ordenamento jurídico atual posiciona-se no sentido de que o banco credor, em hipóteses como a que tratam estes autos, por integrar o sistema financeiro nacional, está autorizado a convencionar mútuos à taxa d mercado, conforme dispõe a Lei no. 4.595/64, ou seja, fora do controle da Lei de Usura que, em tais casos, constitui norma disciplinante de juros apenas quando inexistente pacto entre os concordantes (RT 540/193; 565/212; 578/211).
+Nesse sentido a Súmula 596 do STF:
+?As disposições do Decreto 22.626/33 não se aplicam às taxas de juros e outros encargos cobrados nas operações realizadas por instituições públicas ou privadas que integram o sistema financeiro nacional?.
+É sabido que os bancos pagam ao investidor, quando da captação, juros acima desse percentual, o que implicaria, em caso de aplicação simplista do dispositivo constitucional à instituição bancária, um forçoso subsídio da parte desta ao mutuário; a contrariar integralmente a finalidade dos bancos que, em realidade, vivem, obviamente, dos lucros de emprestar dinheiro.
+Como se vê, mesmo após a vigência da nova Constituição Federal, não foi a regra de o mercado financeiro permanecer em tal patamar de juros, proceder a esse a que não fugiram as partes destes autos quando firmaram contratos óbvio reconhecimento de que a situação de fato é diversa da previsão do dispositivo constitucional.
+Diante de tal quadro, verifica-se que a opção mais jurídica e mais consentânea com a realidade dos fatos não é inserir a disposição do art. 192, parágrafo 3º, da Constituição Federal no rol das normas de eficácia plena porque dependente de regulamentação que limite sua eficácia e aplicabilidade.
+Assim, sem edição de legislação regulamentadora do dispositivo constitucional respeita-se a cláusula contratual que avençou juros em patamar superior a tal determinação, em avença firmada em perfeito consenso e em consonância com a realidade do mercado.
+Nesse sentido:
+?CONTRATO DE ABERTURA DE CRÉDITO EM CONTA CORRENTE ? Juros ? Pactuação livre ? Admissibilidade ? Inaplicabilidade das disposições do Dec. 22.626/33 às instituições que integram o Sistema Financeiro Nacional ? Inteligência da Súm. 596 do STF? (RT 757/270).
+e) Capitalização de juros.
+Insurge-se, ainda, o réu contra a capitalização de juros. Porém, não há ilegalidade nesse ponto. De fato, o contrato prevê capitalização de juros.
+Todavia, a capitalização só é admitida quando o contrato foi pactuado após a edição da Medida Provisória nº 1963-17/2000, de 30.03.2000, dês que pactuada, o que ocorre no caso em tela, visto que o contrato é posterior a essa data. Nesse sentido:
+"JUROS  Capitalização  Contrato  Abertura de crédito em conta corrente (cheque especial)  Ação revisional  Cabível a capitalização mensal se o contrato for celebrado após a entrada em vigor da Medida Provisória nº 1963-17/2000, de 30.03.2000, dês que pactuada, o que é o caso dos autos  Recurso do banco provido". (Apelação Cível n. 7.030.217-1 - Araçatuba - 24ª Câmara de Direito Privado - Relator: Salles Vieira  15.03.07 - V.U. - Voto n. 7494).
+Nessa forma, não há ilegalidade nos contratos, sendo a improcedência da ação de rigor.
+Ante ao exposto, JULGO IMPROCEDENTE a presente ação, e julgo extinto o feito com fulcro no art. 269, inciso I, do Código de Processo Civil. Em face da sucumbência do autor, condeno-o ao pagamento de custas e despesas processuais que arbitro em 20% do valor da causa. 
+P.R.I.
+
+  
+São Paulo,07 de fevereiro de 2013.
+
+
+
+
+
+
+   D  A  T  A
+Em 07 de fevereiro de 2013
+recebi estes autos em Cartório.
+Eu,______________, Escr., subsc.

@@ -1,0 +1,52 @@
+
+
+SENTENÇA
+
+Processo nº:005.09.115869-6
+Classe  Assunto:Procedimento do Juizado Especial Cível - Perdas e Danos
+Requerente:Claudinei Donizete Radica
+Requerido:Banco Bradesco S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Rogerio Leitão Torezan
+
+
+
+
+Vistos.
+
+Dispenso o relatório.
+Fundamento e decido.
+A preliminar articulada com o mérito confunde.
+A matéria, unicamente de direito, não exige produção de prova oral, merecendo julgamento de plano, nos termos do inciso I, do artigo 330, do Código de Processo Civil.
+Inicialmente, deixo consignado, que o cheque é um título autônomo e não causal, que representa uma ordem incondicional de pagamento da quantia nele representada. Significa dizer que sua existência e exigibilidade não dependem da demonstração de uma relação jurídica que as justifique. A liquidez e certeza contidas nesta espécie de título de crédito apenas poderiam ser ilididas mediante prova inequívoca em contrário não se prestando para tanto a testemunhal.
+Isto porque a palavra, por mais idônea que seja, não se sobrepõe ao teor de um documento que a parte firmou por expressa e livre manifestação de sua vontade. Significa dizer, se alguém preenche e assina a folha de cheque e a entrega a outrem, assume a obrigação de honrar o pagamento do valor nela descrito de forma incontinente. É dispensável qualquer outra prova além da própria cártula.
+A emissão e entrega ao credor gera presunção de que seu emitente recebeu da parte contrária a contraprestação a que fazia jus.
+Cabe ainda, para melhor podermos examinar a questão, recordar a respeito dos Princípios Gerais do Direito Cambiário. Com efeito, segundo a doutrina, três são os princípios que informam o regime jurídico-cambial: cartularidade, literalidade e autonomia. Interessa-nos explicitar sobre a autonomia. Explica-se como sendo as obrigações independentes entre si, representadas por um mesmo título de crédito. Assim, se uma das obrigações for nula ou anulável, eivada de vício jurídico, tal fato não comprometerá a validade e eficácia das demais obrigações constantes do mesmo título de crédito. Portanto, tal princípio se desdobra, em dois outros, quais sejam: o da abstração e o da inoponibilidade das exceções pessoais aos terceiros de boa-fé. Assim, assegura-se ao credor poder receber, sem receios, em pagamento por parte de seu devedor, um título de crédito de que este seja o titular, todavia sendo o emitente um terceiro desconhecido.
+Afora isso, é bom esclarecer que no tocante a certos títulos de crédito, a lei faz abstração da causa que inspirara sua origem. São títulos abstratos ou neutros, a letra de câmbio, a nota promissória e o cheque, visto que não se ligam a qualquer causa certa e determinada. A sua circulação se efetiva independentemente da causa que decorreram, causa essa que não faz parte do título.
+Aperfeiçoando o entendimento, a jurisprudência assim tem se manifestado:
+"Dentre as defesas oponíveis contra o credor, pelo devedor originário do título cambiário, avulta a consistente na falta de causa da obrigação. Esse princípio se aplica ao cheque. A lei admite que o executado repila a pretensão do credor, desde que esse vício (erro, simulação, dolo, causa ilícita) existente de relação jurídica, esteja relacionado com o indivíduo que está exigindo o pagamento" (Ac. da 3ª Câm. do TJPR na Ap. 269/78, RT 516/165).
+"A discussão da 'causa debendi' segundo jurisprudência reiterada de nossos Tribunais, só é admissível entre as partes diretamente ligadas ao negócio que originou o título cambiário" (RT 534/185).
+Na espécie dos autos, a autora não nega que tenha assinado o cheque que chegou ao poder da requerida mediante endosso translatício, apenas sustenta que credor inicial da cártula noticiou o extravio da mesma razão pela qual procedeu ao pagamento conforme fl. 12.
+Não há alegação sobre ter o réu recebido o título sem que estivesse de boa-fé, de forma que a parte autora não pode opor exceções fundadas em relações pessoais com o suposto portador anterior (NOVA JO-LU AUTOMÓVEIS LTDA).
+Veja-se a redação do art. 25 da Lei do Cheque:
+Quem for demandado por obrigação resultante de cheque não pode opor ao portador exceções fundadas em relações pessoais com o emitente, ou com os portadores anteriores, salvo se o portador o adquiriu conscientemente em detrimento do devedor.
+Observo, a propósito, que em nenhum momento a autora imputa má-fé ao réu.
+O cheque é titulo literal e abstrato, e as relações dele advindas são autônomas, de forma que o desacordo alegado, embora pudesse viciar a relação cambial mantida entre a autora e aquele em favor de quem emitiu os cheques inicialmente, jamais poderia ser oposta ao requerido (terceiro de boa-fé).
+Aliás, o art. 24 da Lei do Cheque determina que:
+Desapossado alguém de um cheque, em virtude de qualquer evento, o novo portador legitimado não está obrigado a restituí-lo, se não o adquiriu de má-fé.
+Nesse sentido:
+EXECUÇÃO ? Cheque ? Título furtado e na posse de terceiro de boa-fé. Impossibilidade de alegação contra o portador de defesa ou exceção lidada à causa ou à falta de causa, uma vez que este não tinha conhecimento de qualquer vício ou irregularidade relativa ao título. Dívida, portanto, de responsabilidade do emitente. (TAMG, RT, 645/174).
+A boa-fé do segundo requerido faz prevalecer o crédito, ainda que viciada a origem do título. Ressalte-se que em nenhum momento o embargante diz ser de má-fé a posse do réu em relação ao título.
+Ensina RUBENS REQUIÃO acerca do tema, que:
+A segurança do terceiro de boa-fé é essencial na negociabilidade dos títulos de crédito. O direito, em diversos preceitos legais, realiza essa proteção, impedindo que o subscritor ou devedor do título se valha, contra o terceiro adquirente, de defesa que tivesse contra aquele com quem manteve relação direta e a favor de quem dirigiu a sua declaração de vontade. Por conseguinte, em toda a fase da circulação do título, o emissor pode opor ao seu credor direto as exceções de direito pessoal que contra ele tiver, tais como, por exemplo, a circunstância de já lhe haver efetuado o pagamento do mesmo título, ou pretender compensá-lo com crédito que contra ele possuir. Mas, se o mesmo título houver saído das mãos do credor direto e for apresentado por um terceiro, que esteja de boa-fé, já nenhuma exceção de defesa ou oposição poderá usar o devedor contra o novo credor, baseado na relação pessoal anterior. Este, ao receber o título, houve-o purificado de todas as relações pessoais anteriores que não lhe dizem respeito (Curso de Direito Comercial, 2. vol, 19 ed, p. 296 ? grifei).
+Oportuna, nesse passo, a transcrição do seguinte julgado:
+O cheque é título literal e abstrato. Exceções pessoais, ligadas ao negócio subjacente, somente podem ser opostas a quem tenha participado do negócio. Endossado o cheque a terceiro de boa-fé, questões ligadas à 'causa debendi' originária não podem ser manifestadas contra terceiro legítimo portador do título (JSTJ 17/142, RT 661/188).
+A parte autora há de se valer de outra ação, contra o credor originário, visando solucionar as pendências decorrentes do pagamento realizado por cheque posteriormente extraviado. Mas, em relação ao requerido, detentor do título e terceiro de boa-fé, não lhe assiste razão, estando, pois, aquele legitimado à cobrança do valor nele cobrado (princípio da inoponibilidade das exceções pessoais ao terceiro de boa-fé).
+Anoto que a afirmação sobre ter a ré recebido o cheque mediante endosso translatício encontra amparo no documento de fl. 10.
+Ante o exposto e em razão do mais que dos autos consta julgo improcedente a demanda e julgo extinto o processo com resolução de mérito a teor do art. 269, I do CPC. Revogo a tutela antecipada outrora deferida. Com o trânsito em julgado comunique-se. Sem custas e honorários.
+Nos termos do item 72 do Provimento nº. 1.670/2009 do CSM do E. TJSP o preparo, sob pena de deserção, será efetuado, independentemente de intimação, nas 48 (quarenta e oito) horas seguintes à interposição do recurso e deverá corresponder à soma das seguintes parcelas: a) 1% sobre o valor da causa, observado que o valor mínimo desta parcela a corresponde a 05 UFESPs; b) 2% sobre o valor da causa, caso não haja condenação, observado o valor mínimo correspondente a 05 UFESPs; c) 2% sobre o valor da condenação, observado que o valor mínimo desta parcela corresponde a 05 UFESPs; d) porte de remessa e retorno calculado com base no Provimento CSM 833/04, devido quando houver despesas de combustível para tanto.
+PRI
+São Paulo, 10 de março de 2010.

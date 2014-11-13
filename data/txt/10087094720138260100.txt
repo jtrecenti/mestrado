@@ -1,0 +1,67 @@
+
+
+SENTENÇA
+
+Processo nº:1008709-47.2013.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Rescisão do contrato e devolução do dinheiro
+Requerente:Delta Service Logistic Line Ltda e outro
+Requerido:Claro Tecnologia em Processamento de Dados Ltda e outros
+
+Juiz(a) de Direito: Dr(a). Rogério de Camargo Arruda
+
+Vistos.
+
+DELTA SERVICE LOGISTIC LINE LTDA E POSTAL MIGUEL STEFANO LTDA. ajuizaram a presente ação em face de CLARO TECNOLOGIA EM PROCESSAMENTO DE DADOS LTDA, MICROSOFT DO BRASIL IMPORTAÇÃO E COMÉRCIO DE SOFTWARES E VÍDEO GAMES LTDA E MICROSOFT INFORMÁTICA LTDA, alegando, em apertada síntese, que as autoras contrataram para fornecimento de produtos da Microsoft e prestação desses serviços a Allen Comércio e Serviços de Informática. Todavia, a referida empresa, começou a falhar na prestação de serviços, razão pela qual o contrato foi rescindido. Relata a inicial que necessitando implantar o programa que já havia sido adquirido e pago para a requerida Microsoft, as autoras, contrataram a requerida Claro. Não obstante, esta também não prestou os devidos serviços de forma satisfatória, sob a justificativa que precisava fazer a renovação da licença com a empresa Microsoft. Anotam que, notificaram extrajudicialmente as empresas requeridas para dar seguimento ao contrato, porém estas quedaram inertes. Por isso, apontando a culpa pela rescisão aos requeridos, pretendem a sua condenação à devolução da quantia paga pela renovação do software recebido pela Claro, isenção do pagamento da multa cobrada pela renovação do software com atraso, condenação na multa contratualmente estipulada, bem como a lhe indenizar por danos materiais e morais. Com a inicial vieram documentos.
+
+Citada (folha 187), a requerida Claro deixou de apresentar contestação, como certificado às folhas 226. 
+
+De outro lado, devidamente citada, a requerida Microsoft Informática Ltda., ofertou nos autos a contestação de folhas 188/205, pela qual alegou preliminarmente, a ilegitimidade passiva e denunciação à lide da corré SAG. Quanto ao mérito, alegou a impossibilidade à aplicação das normas de proteção ao consumidor, uma vez que não há relação jurídica estabelecida entre as autoras e a primeira ré. Apontou que, a empresa requerente celebrou renovação do software diretamente com a empresa Claro, inexistindo responsabilidade contratual com a requerida Microsoft. Por isso, alegou a inexistência de culpa pela rescisão ou mesmo de ilícito de sua parte a justificar as verbas pleiteadas. Impugnou a existência de danos materiais e morais. Por isso, pediu o acolhimento das preliminares ou a improcedência da demanda. Juntaram documentos.
+
+Réplica às folhas 229/242.
+
+Instadas sobre eventual interesse na produção de provas (folhas 257), a requerente pugnou pela produção de prova pericial e testemunhal, ao passo que a requerida não se manifestou quanto à produção de provas (folhas 260). 
+
+É o relatório.
+
+Fundamento e decido.
+
+O feito comporta julgamento no estado em que se encontra, tendo em vista que as alegações das partes e os documentos acostados aos autos permitem a prolação da sentença, independentemente da produção de outras provas.
+
+Posto isso, as requeridas Microsoft Do Brasil Importação E Comércio De Softwares E Vídeo Games Ltda E Microsoft Informática Ltda são partes ilegítimas para figurarem no polo passivo da presente ação, de forma que, com relação a elas deve o feito ser extinto, sem julgamento do mérito.
+
+
+Com efeito, a requerente volta-se contra a má prestação os serviços da empresa que contratou para instalação do Software de propriedade da Microsoft ? a corré Claro ? que, tratando-se de falha do serviço, apenas a prestadora contratada deve figurar, de forma isolada no polo passivo da presente ação, não havendo, no caso, a solidariedade pretendida. Nesse sentido:
+
+
+Ação de rescisão contratual. descumprimento. Demora na instalação de software. Caso em que é de ser afastada a pretensão da autora relativa à responsabilidade solidária da co-demandada, já que a mesma não possui qualquer relação jurídica com a demandante, sendo que eventuais problemas existentes entre as duas empresas rés não interferem nos direitos contratuais da autora. Assim, deve a responsabilidade pela rescisão da avença diante do descumprimento dos deveres contratuais ser imputada somente a uma delas. (TJRS ? Apelação nº 70043055466- DJ: 30/06/2011 ? g.n.)
+
+
+Nesse sentido, a requerida Microsoft não foi contratada pela parte requerente para instalação e implementação do referido software, mas apenas cedeu à requerida a permissão de uso de referido produto. Dessa forma, não se referido a narrativa inicial a defeitos do produto adquirido, mas sim à má prestação dos serviços pela requerida Claro, não tem a fabricante Microsoft legitimidade para a causa.
+
+Até mesmo porque, parceria em negócios não gera responsabilidade solidária de uma parceira pela contratação jamais imposta da outra, inda mais se a primeira somente em meio da implantação, pela segunda, do software que licenciara passou a regê-la para tentar conclui-lá (TJSP - Apelação 9139103-93.2005.8.26.0000).
+
+
+Ou seja, se no caso acima mencionado o Egrégio Tribunal de Justiça deste Estado reconheceu a ilegitimidade da licenciadora, inclusive quando ela assumiu a conclusão da implantação falha, com mais razão se reconhecer sua ilegitimidade no caso presente, no qual ela se limitou a autorizar o uso do software adquirido. 
+
+Posto isso e ressaltando-se que a relação entre as partes discutida nestes autos não é regida pelo Código de Defesa do Consumidor, impõe-se o reconhecimento da ilegitimidade passiva de ambas as empresas requeridas Microsoft, extinguindo-se o feito, sem apreciação do mérito com relação a ambas.
+
+Já quanto à requerida Claro, a ação é procedente. 
+
+De fato, a requerida, devidamente citada (folhas 187), deixou de apresentar contestação, no prazo legal, como certificado às folhas 226, tornando-se revel. Por isso, é de se aplicar a norma do artigo 319, do Código de Processo Civil, reputando-se verdadeiros os fatos afirmados pela parte requerente, sobretudo no que concerne à contratação dos serviços pela requerente e o não cumprimento, pela parte requerida.
+
+Demais disso, não bastasse os efeitos da revelia, a documentação acostada aos autos pela parte requerente indica a contratação da requerida para prestação de serviços de um software (folhas 76/80), o pagamento dos valores a que se comprometeu (folhas 92/99), bem como as notificações que lhes foram enviadas relatando os problemas ocorridos (folhas 100/115). 
+
+Assim sendo, constatada a infração contratual alegada por parte da parte requerida, que não prestou os serviços a que se comprometeu, impõe-se a resolução do contrato, com reconhecimento por culpa da requerida, a fim de repor as partes ao status quo ante, nos termos do que permite o artigo 475, do Código Civil, com a devolução das quantias pagas à requerente. 
+
+Desse quadro, inegável a conclusão no sentido de que a rescisão se deu por força das constantes falhas na prestação dos serviços, por parte da requerida, de forma que a ela deve ser imputada a multa prevista pelo item II, paragrafo terceiro, do Contrato em questão.
+
+Multa essa que já possui o caráter indenizatório por perdas e danos e que, portanto, não justifica a condenação da requerida em outras indenizações por danos materiais ou morais, até mesmo porque nada nos autos indica que a requerente teve prejuízo em razão da falta de ferramenta de trabalho adquirida e não entregue (folhas 23).
+
+Nesse particular, resta evidente que sobre o valor previsto na referida cláusula deve haver a incidência de correção monetária, uma vez que não traz ela nenhum ganho a requerente, mas tão somente equaliza a moeda à data do efetivo pagamento.
+Diante do exposto:  A) Reconheço a ilegitimidade passiva das requeridas Microsoft do Brasil e Microsoft Informática Ltda. e, por via de consequência, com relação a elas, JULGO EXTINTO O PROCESSO, sem julgamento do seu mérito, com base no artigo 267, VI, do Código de Processo Civil. Pela sucumbência, arcará a requerente com as custas e despesas recolhidas por essas requeridas, bem como com honorários de seus advogados, fixados em R$ 3.000,00, nos termos do artigo 20, § 4º, do Código de Processo Civil; e  B) Com relação à requerida Claro Tecnologia em processamento de dados Ltda., JULGO PROCEDENTES os pedidos para: a) declarar rescindido o contrato de prestação de serviços firmado pelas partes, por culpa da requerida; b) condenar a requerida a restituir à requerente o valor de R$ 107.978,85 (folhas 25/26); e c) condenar a requerida na multa contratual prevista no anexo ao contrato, item II, paragrafo terceiro, devidamente atualizado pela tabela do TJSP e com juros de mora de 1% ao mês, desde a citação. Em consequência, julgo o feito extinto, com base no artigo 269, I, do Código de Processo Civil.  Pela sucumbência, arcará a parte requerida com as custas e despesas processuais, bem como com honorários advocatícios da parte contrária, fixados em R$ 3.000,00, nos termos do artigo 20, § 4º, do Código de Processo Civil
+
+Restam as parte advertidas, desde logo, que a oposição de embargos de declaração fora das hipóteses legais e/ou com efeitos infringentes lhes sujeitará a imposição da multa prevista pelo artigo 538, parágrafo único, do Código de Processo Civil.
+P.R.I.C.
+São Paulo, 16 de dezembro de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE, NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

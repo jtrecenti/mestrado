@@ -1,0 +1,62 @@
+
+
+SENTENÇA
+Processo nº:0009899-70.2010.8.26.0002
+Classe - AssuntoProcedimento Ordinário - Fornecimento de Energia Elétrica
+Requerente:ROMERIO FREITAS CRUZ
+Requerido:Eletropaulo Metropolitana
+
+
+Juiz(a) de Direito: Dr(a). Adriana Borges de Carvalho
+
+
+
+VISTOS.
+
+
+
+ROMÉRIO FREITAS CRUZ ajuizou ação declaratória cumulada com indenização em face da ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S/A, alegando que o consumo de energia elétrica de sua residência correspondia ao valor médio de R$ 38,00. Relata que no mês de novembro de 2009, a ré lhe enviou uma fatura no valor de R$ 117,19, que não foi paga, por tratar-se de valor controvertido. Ao questionar a ré, esta prometeu que seria efetuada a verificação através de um técnico, o que não ocorreu. Em fevereiro de 2010, foi suspenso o fornecimento de energia elétrica na residência do autor, sem prévio aviso. Assim, requereu o demandante a procedência da ação, para ver declarada a ilegalidade da suspensão, além da condenação da ré no pagamento de indenização por danos morais, em R$ 10.000,00, sem prejuízo das verbas de sucumbência. Além disso, postulou que a ré seja compelida a apresentar os resultados da aferição do medidor de energia elétrica. Como pedido de antecipação de tutela, requereu o imediato restabelecimento do fornecimento de energia elétrica, o que foi deferido (fls. 38/39).
+Citada, a ré apresentou contestação (fls. 46/54), sustentando que a cobrança é devida, ante a ausência de irregularidades. Enfatizou que a conta contestada deveria ter sido paga e, se constatada alguma irregularidade, os valores seriam compensados nas faturas seguintes. Salientou, ainda, que o autor foi previamente informado da interrupção no fornecimento. Impugnou o pedido de indenização e o valor pretendido, aguardando, ao final, a improcedência da ação. 
+Sobreveio réplica a fls. 67/82.
+É o relatório.
+DECIDO
+Conheço diretamente do pedido, com base no art. 330, inciso I, do Código de Processo Civil. O feito comporta julgamento antecipado, na medida em que a prova é essencialmente documental, sendo que ambas as partes já tiveram oportunidade de trazê-la aos autos, com a inicial e a contestação (artigo 396, CPC).
+A ação procede em parte.
+Deixa-se consignado desde logo, que a relação jurídica existente entre as partes é de consumo, pois o autor utiliza-se da energia como consumidor final, não havendo dúvidas que a ré é fornecedora, nos termos do artigo 3º do Código de Defesa do Consumidor. 
+A questão de fundo consiste na existência ou não de irregularidade no consumo de energia elétrica na residência do demandante, que ensejou a cobrança de valor superior à média mensal de faturamento, além da legitimidade na interrupção do fornecimento que, segundo o autor, causou-lhe prejuízo de ordem moral.
+Conveniente a análise da conduta de cada uma das partes, o que, por certo, auxiliará no deslinde da controvérsia, uma vez que, para ensejar o direito à indenização pretendida, é necessário que estejam presentes três requisitos essenciais, quais sejam: o ato ilícito; o evento danoso; e o nexo causal entre o ato e o dano.
+Alega o autor que a fatura com vencimento em novembro/09 apresentou valor excessivo em comparação com os demais meses, acreditando que poderia haver alguma irregularidade no medidor. Por esta razão, achou por bem não efetuar o pagamento e tentar resolver a questão por meio de contato telefônico com a requerida. Percebeu, então, que nos meses seguintes a situação se normalizou; contudo, continuou aguardando uma resposta da ré com relação ao valor controvertido.
+Até aqui, emergem verídicas as alegações do demandante, eis que, pelo histórico de consumo descrito nas faturas, constata-se que o faturamento do mês de outubro/2009 é excessivo perante os demais meses anteriores. Tal fato, por si só, indica que possa ter ocorrido eventual irregularidade no relógio medidor ou, ainda, no sistema de aferição do consumo, uma vez que a situação voltou a se normalizar nos meses subsequentes.
+Entretanto, a alegação de que os serviços foram subitamente interrompidos, sem aviso prévio e sem motivação legal, não encontra guarida. Os documentos de fls. 32, 34 e 35 comprovam que houve notificação ao consumidor, de que havia uma fatura pendente de quitação; além disso, constou expressamente que o não pagamento ensejaria a suspensão do fornecimento. 
+A Resolução 456/2000 da ANEEL, em seu artigo 91, regula que:
+A concessionária poderá suspender o fornecimento, após prévia comunicação formal ao consumidor, nas seguintes situações: 
+I - atraso no pagamento da fatura relativa a prestação do serviço público de energia elétrica;
+A jurisprudência consolidada do Superior Tribunal de Justiça tem reconhecido a legalidade do corte de energia elétrica na hipótese de inadimplemento, desde que previamente avisado o usuário. Portanto, a interrupção do fornecimento de energia elétrica por falta de pagamento é lícita, a teor do disposto no artigo 6º, parágrafo terceiro, da Lei nº 8.987/95: 
+"Art. 6º (...)Parágrafo terceiro - Não se caracteriza como descontinuidade do serviço a sua interrupção em situação de emergência ou após prévio aviso, quando:
+(...)
+II - por inadimplemento do usuário, considerado o interesse da coletividade." 
+Não bastasse, o artigo 91, acima citado, prevê, em seu § 1º, que: 
+A comunicação deverá ser por escrito, específica e de acordo com a antecedência mínima a seguir fixada: 
+a) 15 (quinze) dias para os casos previstos nos incisos I, II, III, IV e V;...
+Na mesma seara, extrai-se da leitura do artigo 83, II, d, da mesma Resolução 456/2000:
+Art. 83. A fatura de energia elétrica deverá conter as seguintes informações: 
+...
+II ? quando pertinente:
+...
+d) indicação de fatura vencida, apontando no mínimo o mês/ referência e valor em reais;
+Sobre o tema, colaciono o seguinte julgado:PROCESSUAL CIVIL E TRIBUTÁRIO. ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL. VIOLAÇÃO. INOCORRÊNCIA. SUSPENSÃO DO FORNECIMENTO DE ENERGIA ELÉTRICA. INADIMPLEMENTO. POSSIBILIDADE. INTERPRETAÇÃO SISTEMÁTICA DOS ARTIGOS 22 DO CÓDIGO DE DEFESA DO CONSUMIDOR E 6º, PARÁGRAFO TERCEIRO, II, DA LEI Nº 8.987/95.(...)2. O artigo 22 da Lei nº 8.078/90 (Código de Defesa do Consumidor), dispõe que: "os órgãos públicos, por si ou suas empresas, concessionárias, permissionárias ou sob qualquer outra forma de empreendimento, são obrigados a fornecer serviços adequados, eficientes, seguros e, quanto aos essenciais, contínuos".3. Esta Corte preconiza que o princípio da continuidade do serviço público assegurado pelo artigo 22 do Código de Defesa do Consumidor deve ser obtemperado, ante a exegese do artigo 6º, parágrafo terceiro, II da Lei nº 8.987/95 que prevê a possibilidade de interrupção do fornecimento de energia elétrica quando, após aviso, permanecer inadimplente o usuário, considerado o interesse da coletividade. (STJ, RESP 794.132/RS, 2ª TURMA, REL. MINISTRO CASTRO MEIRA, DJU 06.02.2006)
+Em que pese a essencialidade do serviço de energia elétrica, pelo seu fornecimento é exigida uma contraprestação, ou seja, compete àquele que se beneficia do serviço, pagar pelo que consome. Na hipótese de suspeita de irregularidade, eventualmente poderia o consumidor deixar de pagar o excedente ou impugnar o excesso.
+Em outras palavras, do valor total apontado na fatura, uma parte é devida pelo consumo da energia elétrica fornecida. Portanto, deve ser objeto de impugnação expressa, somente o valor excedente, ou seja, controverso. Depreende-se dos autos que o autor sequer se dispôs a depositar em Juízo, por meio do instrumento processual adequado, o valor que entendia devido. O pedido de depósito feito na inicial, a título de caução, é extemporâneo, posto que, além de decorridos três meses do inadimplemento da fatura, só foi elaborado em razão da suspensão do fornecimento. 
+Acrescente-se que, suspeitando de alguma irregularidade, deveria o autor solicitar a visita imediata de um preposto da requerida para verificação do relógio medidor. Não obstante tenha afirmado que assim procedeu, é certo que, mesmo diante do não cumprimento da promessa de regularização no prazo de trinta dias da primeira reclamação (anterior a 05/11/2009), o autor quedou-se inerte por mais de dois meses (11/01/2010) antes de entrar em contato com a ré novamente e apenas por telefone. 
+Feitas todas estas considerações, conclui-se que:
+1) houve irregularidade no faturamento do mês de outubro de 2009 (vencimento em 05/11/2009); contudo, diante da inegável hipossuficência do consumidor, competia à ré demonstrar tal irregularidade, a fim de apurar, ao menos, qual foi o real consumo do autor naquele mês e, por conseguinte, o valor por ele devido. É importante frisar que, na contestação, a requerida afirma que não encontra nenhuma irregularidade constatada pela Concessionária. Destarte, ainda que se abrisse a oportunidade para a realização de eventual perícia, esta seria inócua, por duas razões: em primeiro lugar, porque, como já salientado, a situação se normalizou nos meses subsequentes e, em segundo lugar, ante o lapso temporal decorrido;
+2) o inadimplemento é confesso, tendo havido a prévia e expressa notificação do consumidor com relação à interrupção dos serviços, portanto, a suspensão do fornecimento de energia elétrica não é ilegal, posto que encontra amparo na legislação aplicável à espécie;
+3) em decorrência da legalidade da suspensão, não se vislumbra a prática de qualquer ato ilícito praticado pela requerida. Em consequência, não há que se falar em indenização. 
+Com efeito, inexistindo a possibilidade de se apurar o consumo real do demandante no mês de outubro de 2009, assiste razão ao autor na discordância do valor consignado na fatura daquele mês (fl. 36), impondo-se a sua inexigibilidade.
+No que tange ao pedido de danos morais, fica ele desacolhido pelas razões acima já expostas, ressaltando que, ainda que a responsabilidade do fornecedor pelo fato ou vício do produto e do serviço, segundo a lei consumerista, seja de natureza objetiva (conforme artigos 12 a 14 e 18 a 21, 23 e 24, do CDC), a requerida somente tem responsabilidade civil objetiva de indenizar o consumidor, eximindo-se na hipótese ímpar de demonstrar culpa exclusiva deste. E, no caso sub exame, esta restou cabalmente demonstrada (consoante artigo 14, § 3º, inciso II, do Codex supra mencionado). 
+Diante do exposto e do mais que dos autos consta, JULGO PROCEDENTE EM PARTE a ação ajuizada por ROMÉRIO FREITAS CRUZ em face da ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S/A, para declarar a inexigibilidade da conta de energia elétrica do mês de outubro de 2009 (NF nº 000998351), relativa à instalação nº 60602601, cliente nº 0013190947, no valor de R$ 117,19.
+Na mesma oportunidade, JULGO IMPROCEDENTE o pedido de danos morais, pelas razões e fundamentos acima declinados. Confirmo a liminar concedida na decisão de fls. 38/39, para a manutenção do fornecimento de energia elétrica na residência do requerente. 
+Tendo em vista a sucumbência parcial, as partes ratearão as custas e despesas processuais, corrigidas desde o desembolso e bem assim ao pagamento dos honorários advocatícios, que fixo em 10% (dez por cento) sobre o valor atualizado da causa. 
+Após o trânsito em julgado, aguarde-se por 30 dias. Nada sendo requerido, arquivem-se os autos, com as cautelas de praxe.
+P.R.I.
+São Paulo, 05 de novembro de 2010.

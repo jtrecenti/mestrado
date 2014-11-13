@@ -1,0 +1,77 @@
+
+
+SENTENÇA
+
+Processo nº:0160147-74.2012.8.26.0100
+Classe - AssuntoProcedimento Sumário - Indenização por Dano Moral
+Requerente:Marly Nair Freire
+Requerido:Banco do Brasil S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Tiago Ducatti Lino Machado
+
+
+
+                         Vistos.
+
+
+
+MARLY NAIR FREIRE propôs a presente AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS contra BANCO DO BRASIL S/A juntando, com a inicial de fls.02/18, os documentos de fls.19/25. Alegou, em resumo, que o Banco Réu a induziu em erro ao contratar empréstimo no valor de R$ 21.574,20. Alega que a taxa de juros mensal aplicada é exorbitante não lhe sendo passadas as informações precisas acerca do conteúdo do contrato, o que lhe causou inúmeros aborrecimentos e problemas aptos a gerar dano moral. Por isso pleiteia indenização e devolução das parcelas pagas em dobro.
+
+Regularmente citada, a ré ofertou contestação às fls.34/58, sustentando a inexistência da obrigação de indenizar e a  inexistência de danos.
+ 
+Réplica às fls.62/67.
+ 
+É o breve relatório do feito.
+
+DECIDO.
+
+O presente feito merece julgamento no estado em que se encontra, uma vez que não há necessidade da produção de provas em audiência conforme preconiza o artigo 330, inciso I, do Código de Processo Civil.
+
+O pedido é absolutamente improcedente, se não vejamos.
+
+A insurgência da autora dirige-se à teoria dos contratos bancários e não há qualquer ilegalidade nas cobranças efetuadas pela Instituição Financeira.
+Quanto à inversão do ônus da prova, deve-se asseverar que ainda que a relação entre as partes seja de natureza consumerista a lei 8.078/90 não tem o condão de protegê-lo integralmente, pois se depreende que foi utilizado o Sistema Francês de Amortização (Tabela Price) para o cálculo da dívida.
+
+Anoto que a inversão somente poderia ser analisada, conforme o CDC, em relação à hipossuficiência da parte, esta entendida como desconhecimento técnico e informativo do contrato, não se podendo dizer que a autora seria hipossuficiente quando da assinatura do contrato ou apresentar dificuldades de compreensão, tudo dentro da regra do artigo 333 do CPC, para a demonstração de seu direito, não podendo ser a inversão embasada em mera diferença econômica existente entre as partes. 
+
+De outra banda, no tocante à cobrança excessiva de juros é bom lembrar que conforme a Súmula 596 do Supremo Tribunal Federal, os bancos não estão sujeitos à lei de usura, por isso, a pretensão de querer alegá-la não tem o menor cabimento, valendo conferir in RT 698/100.
+Neste sentido:
+
+STF RE 1609/7 Rel. Celso de Mello:
+
+Taxa de juros reais Limite fixado em 12% - norma constitucional de eficácia limitada. Impossibilidade de aplicação imediata, pois há a necessidade da edição de Lei Complementar exigido pelo próprio texto constitucional.
+
+Ademais, o contrato firmado entre as partes previu juros remuneratórios fixados em percentual acima de 12% ao ano inexistindo qualquer violação legal, pois não há que se falar em repristinação do artigo 1º do Decreto 22.626/33 em face do que dispõe os arts. 48, XIII, da CF, e 25 do ADCT, pois tal efeito, nos termos do art. 2º, § 3º, da LICC, apenas ocorre expressamente. Assim, se não considerado ser atribuição do Conselho Monetário Nacional fixar o limite da taxa de juros, violar-se-ia a Lei supra citada, qual seja, a 4595/64; portanto continuam, as instituições financeiras, livres da limitação contida na Lei de Usura.
+
+Melhor explicando, os juros, interesses e/ou frutos produzíveis pelo capital comprometido, prefixados no contrato não experimentaram as limitações do art. 6º, alínea "e", da Lei Federal 4.380/64, regulamentada pelo Decreto 63.182/68, art. 2º, alínea "b", de 10% ao ano, sendo lícita a taxa ajustada, pois que a hipótese foi daquelas realizadas com percentual dos recursos destinados a financiamentos habitacionais nas taxas realizadas pelo mercado aberto. A despeito de que o art. 6º foi editado como corolário lógico do art.5º [ambos da Lei Federal 4.380/64] que perdeu a sua função e a utilidade prática, não estando mais o reajuste das prestações mensais vinculados ao aumento do salário mínimo, posto que vedado pela ordem constitucional.
+
+A jurisprudência se inclina neste sentido:
+
+JUROS Compensatórios - Contrato bancário - Financiamento com taxas e prestações pré-fixadas - Pretensão de revisão de cláusulas contratuais supostamente abusivas - Impossibilidade de limitação da taxa de juros compensatórios no patamar de 12% (doze por cento) ao ano Aplicação da Súmula Vinculante nº 7 - Cobrança de juros feita de forma correta, eis que expressamente contratada por instrumento posterior à edição da Medida Provisória nº 1963-17/2000, atualmente convertida na Lei Federal n. 10931, de 02 de agosto de 2004 Sentença de improcedência mantida Recurso não provido. (Apelação Cível n. 1.346.472-9 São Paulo 24ª Câmara de Direito Privado Relator: Jacob Valente 10.07.08 V.U. Voto n. 5438).
+
+Logo, os juros reais cobrados são perfeitamente legais.
+
+De outro lado, a tabela Price não prevê capitalização de juros porque os juros do período devem ser liquidados dentro do próprio mês, não sendo então incorporados ao capital e, portanto, sobre eles não incidindo novos juros. Embora a fórmula da tabela Price empregue a exponenciação matemática, isso se dá para contemplar uma progressão geométrica na amortização do capital, e não na capitalização dos juros.
+
+Tanto é assim que com o pagamento de cada parcela calculada pelo sistema dessa tabela todo o montante de juros do período anterior é plenamente liquidado, restando, tão somente, como base para o cálculo dos juros do período seguinte, o saldo remanescente do capital.
+
+Portanto, a Tabela Price nada mais é do que uma fórmula utilizada para proporcionar a amortização do capital mediante pagamento de prestações fixas, compostas de duas parcelas distintas: uma de juros e outra de capital (chamada amortização), que observa a totalidade do empréstimo, bem como o tempo de amortização e da taxa de juros, portanto, é baseado em equações onde a amortização é crescente e o pagamento dos juros decrescentes.
+
+Tal sistema adotado nos contratos de financiamento, embora aparentemente se mostre como cobrança de juros compostos, na verdade tem-se que tais juros são compensados mês a mês no curso do empréstimo, de modo que ao final do prazo pactuado venham a quitar a dívida, não provocando, assim, o anatocismo, ou seja, a parcela de juros é obtida multiplicando-se a taxa de juros pelo saldo devedor existente no período anterior, e a parcela da amortização é determinada pela diferença entre o valor da parcela de juros. Portanto, nas primeiras prestações a parcela de juros é superior à parcela do capital, mas tal proporção vai sendo alterada conforme as prestações vão sendo satisfeitas até que, nas últimas prestações, a parcela de juros seja bem inferior à parcela do capital.
+
+Por conseguinte, correto o procedimento em primeiro se atualizar o saldo devedor para depois deduzir o pagamento (também atualizado), evitando-se enriquecimento sem causa, já que o fim buscado com a amortização é a mera recomposição de valores.
+
+Por qualquer ângulo em que se examine a questão é forçoso reconhecer ter o Banco agido dentro dos estreitos limites da legalidade não subsistindo o mínimo para consubstanciar danos morais indenizáveis.
+
+Ante o exposto e por tudo mais que dos autos consta, com fundamento no artigo 269, inciso I, do Código de Processo Civil, JULGO IMPROCEDENTE a presente ação pelas razões acima aduzidas CONDENANDO a autora ao pagamento das custas, despesas processuais e dos honorários advocatícios dos patronos do réu, que fixo em R$ 1.000,00 (mil reais), com fulcro no art. 20, §4º, do Código de Processo Civil, observado, no entanto, em seu benefício, a gratuidade concedida pela lei 1.050/60.
+
+P.R.I.
+
+
+
+São Paulo, 10 de junho de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

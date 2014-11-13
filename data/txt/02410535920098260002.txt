@@ -1,0 +1,67 @@
+
+
+SENTENÇA
+
+Processo nº:0241053-59.2009.8.26.0002
+Classe - AssuntoProcedimento Sumário - Telefonia
+Requerente:PRESCILA MAZZOLA
+Requerido:Net São Paulo LTDA
+
+
+
+Juiz(a) de Direito: Dr(a). Adriana Borges de Carvalho
+
+
+
+
+
+
+VISTOS.
+
+
+PRESCILA MAZZOLA ajuizou ação de cumprimento de obrigação de fazer cumulada com indenização em face da NET SÃO PAULO LTDA., alegando que contratou com a ré pacote de serviços incluindo banda larga, TV a cabo e outros, relatando que, desde a data da instalação, ocorreram problemas operacionais, cobranças indevidas, além da recusa da ré ao cumprimento do que foi ofertado. Após inúmeras reclamações, sem solução, a autora recorreu à Anatel e à ouvidoria; contudo, ainda não foram cumpridas as normas legais e contratuais. Assim, requer seja a ré compelida a cumprir o contrato entabulado, entregando as faturas com detalhamento das chamadas, além da condenação na multa pelo descumprimento e na devolução em dobro dos valores cobrados indevidamente, sem prejuízo dos danos morais, no valor de R$ 3.000,00 e das verbas de sucumbência. 
+Designada audiência, a conciliação resultou infrutífera (fl. 142).
+Citada, a ré apresentou contestação (fls. 164/185), aventando, em preliminar, a denunciação à lide da empresa Embratel, sob o argumento de que não tem responsabilidade sobre os problemas ocorridos na linha telefônica da autora. No mérito, repisou a tese preliminar, asseverando que alguns serviços exigidos na inicial não foram contratados pela demandante. Noticiou que as alegadas cobranças irregulares já foram sanadas, razão pela qual a reclamação quanto a este tópico perdeu o objeto. Impugnou o pedido e o valor pretendido a título de danos morais, sustentando a inexistência de prejuízo e o descabimento da repetição de indébito pleiteada. Ao final, aguarda o acolhimento da preliminar e a improcedência da ação.
+Houve réplica (fls. 213/225), na qual a autora refutou o pedido de denunciação à lide formulado na contestação.
+É o relatório.
+DECIDO.
+Conheço diretamente do pedido, com base no art. 330, inciso I, do Código de Processo Civil. O feito comporta julgamento antecipado, na medida em que a prova é essencialmente documental, sendo que ambas as partes já tiveram oportunidade de trazê-la aos autos, com a inicial e a contestação (artigo 396, CPC).
+A ré assevera que as reclamações feitas pela autora sobre as falhas no serviço de telefonia não são de sua responsabilidade, razão pela qual denunciou à lide a Empresa Brasileira de Telecomunicações ? Embratel. Tendo em vista que a fundamentação utilizada para o pedido de denunciação é, na verdade, matéria pertinente à questão de fundo da presente demanda ? tanto que foi reiterada pela requerida nas razões de mérito ?, com ela deve ser analisada.
+Assim, não se vislumbrando nenhuma das hipóteses elencadas no artigo 70, do Código de Processo Civil e, considerando que os serviços de TV a cabo, internet e telefonia foram contratados diretamente com a NET, que não demonstrou eventual direito de regresso com a EMBRATEL, fica indeferida a denunciação à lide.
+Eventual e qualquer transferência de responsabilização da uma empresa a outra haverá de ser feita pelas vias próprias do regresso e entre elas.
+No mérito, a ação procede em parte.
+É inquestionável a relação de consumo entre as partes, observados os termos dos artigos 2º e 3º do Código de Defesa do Consumidor. Logo, impõe-se mencionar que a responsabilidade do fornecedor pelo fato ou vício do produto e do serviço, segundo a lei consumerista, é de natureza objetiva (conforme artigos 12 a 14 e 18 a 21, 23 e 24, do CDC). Disto decorre que a ré tem responsabilidade civil objetiva de indenizar o consumidor, eximindo-se na hipótese ímpar de demonstrar culpa exclusiva daquele (consoante artigo 14, § 3º, inciso II, do Codex supra mencionado).
+No mesmo contexto, a regra é a de facilitação da defesa dos direitos do consumidor, inclusive com a inversão do ônus da prova quando forem verossímeis suas alegações, segundo as regras ordinárias de experiência (artigo 6º, inciso VIII, CDC). 
+No presente caso, a hipossuficiência técnica da autora é cristalina, na medida em que, se a ré disponibiliza a contratação de seus pacotes de serviços por telefone, assume perante seus consumidores a responsabilidade pelas informações prestadas. Consoante previsão dos artigos 30 e 31 do Código de Defesa do Consumidor, toda informação, que deve ser correta, clara e precisa acerca das características, qualidades, quantidade, composição e preço dos produtos e serviços oferecidos e que tenha sido veiculada por qualquer forma ou meio de comunicação, obriga o fornecedor que a fizer veicular e integra o contrato que vier a ser celebrado. 
+Com efeito, não só pelos problemas relatados com detalhes na inicial, os documentos com ela acostados demonstram que ocorreram algumas falhas na prestação dos serviços oferecidos pela requerida. Aliás, o ônus de desconstituir o direito da requerente e a veracidade das alegações por ela deduzidas era da ré, que não se desincumbiu de tal mister, limitando-se, em sua extensa contestação, a imputar à terceira empresa, a falha nos serviços e produtos que ela mesma presta e comercializa. 
+Destarte, diante dos elementos presentes nos autos é possível apurar a conduta da ré e quais os eventuais prejuízos causados à demandante. 
+A autora fez diversos pedidos em sua exordial, a seguir explanados:
+- Item c.1: a obrigação da ré em cumprir o contrato, entregando os 6Mb de velocidade de internet pelo prazo de 01 ano, ao preço de 3Mb, conforme contratados. Não obstante tenha a requerida trazido em sua contestação uma série de dados técnicos ? irrelevantes para o deslinde da questão ? constata-se que foi ofertado à autora (fl. 124), o dobro da velocidade da internet (6Mb) pelo preço de 3Mb, pelo período de 01 ano; pelas faturas de fls. 96/108, é possível verificar que foi lançada a velocidade de 3Mb. Não se trata, pois, de confusão errônea de números e cálculos, isto porque a velocidade cobrada está expressa na conta emitida pela ré.
+- Item c.2: liberação de sinal para acesso, pelo controle remoto, aos itens correspondentes à interatividade. A autora relata que negociou este serviço, porém, não consta da contratação transcrita a fls. 121/132; segundo a requerente, houve um corte na gravação, o que a impediu de comprovar a oferta. Considerando que a requerida limitou-se a afirmar que tal serviço não foi contratado, mas não trouxe aos autos a gravação na íntegra, para afastar a alegação inicial, deverá ela ser reputada como verídica, cabendo à ré fornecer este serviço como contratado;
+- item d: a entrega das faturas com a individualização das chamadas, com data, horário e duração, declarando-se a inexigibilidade dos valores cobrados. A requerente impugnou todas as ligações apontadas nas faturas, sem, no entanto, negar que tenham sido realizadas por ela. A simples alegação de que não consta a data da chamada, não exime a requerente do pagamento, pois se assim fosse, poder-se-ia configurar evidente locupletamento;
+- item e: a condenação da ré na multa contratual pelo descumprimento do acordo, no valor de R$ 360,00. Considerando que a autora noticia que não houve interrupção dos serviços, não se operando a rescisão do contrato, a pretensa multa é inaplicável. Conforme se verifica da oferta (fl. 127), a penalidade foi imposta apenas para o caso de cancelamento do contrato que ? repise-se ? não ocorreu;
+- item f: a condenação da ré no pagamento correspondente ao valor a maior constante das três primeiras faturas. As contas mencionadas pela autora foram canceladas e as que continham o valor correto foram reenviadas à autora, que procedeu à quitação conforme contratado. Logo, sem razão o pedido de restituição por um valor que a autora não despendeu;
+- item g: a condenação da ré ao pagamento equivalente aos 6Mb de internet, no valor de R$ 53,33. Como já se demonstrou, de fato, foi efetuada a cobrança sobre a velocidade de 3Mb e de 6Mb na mesma fatura (fl. 107), razão pela qual o valor pedido deve ser restituído à autora;
+- item h: a condenação da ré na devolução em dobro dos valores pagos referentes às chamadas não individualizadas. Depreende-se das contas juntadas, que as ligações foram individualizadas, constando, inclusive, todos os números dos telefones chamados. Consoante acima explanado, a autora fez impugnação genérica referente às ligações, sem negar que as tenha realizado ou que desconhece os números chamados, insurgindo-se tão-somente quanto à ausência da data das chamadas. Assim, se as ligações constantes das faturas são reconhecidas pela autora, não houve excesso no pagamento, portanto, não há que se falar em restituição;
+- item i: a condenação da ré na reparação por danos morais, no valor de R$ 3.000,00. A ré reconhece que a autora reclamou dos serviços, notadamente quanto à cobrança indevida de um valor não contratado, tanto que reenviou as faturas à requerente, que as quitou nas respectivas datas de vencimento. Ainda que se pondere acerca dos demais pedidos feitos pela demandante, os transtornos experimentados em decorrência da má prestação de serviços são inquestionáveis.
+Além disso, tem-se o desgaste emocional de cobrar a solução de um problema ao qual não deu causa, sem sucesso. É notório o despreparo de alguns atendentes das empresas que disponibilizam seus serviços e produtos por telefone, não se ignorando que, muitas vezes, após longo tempo de espera, sequer conseguem solucionar o problema reclamado pelo cliente. 
+Pode-se entender os danos morais como as lesões sofridas por uma pessoa, atingindo certos aspectos de sua personalidade em razão de injusta investida de outrem, causando avaria em sua moralidade e afetividade, fazendo brotar sentimentos de constrangimentos, vexames, sensações negativas e de desespero, em suma: de injustiça. 
+A indenização da lesão a direitos não patrimoniais tem previsão constitucional (artigo 5º, incisos V e X, da Constituição Federal), devendo ser observado o caráter dúplice desta verba, quais sejam, o aspecto compensatório em relação à vítima (para minimizar sua dor) e o aspecto punitivo em relação ao réu? (com o escopo de, através da punição, ser coibida a reiteração de condutas semelhantes pelo causador do dano).
+Por outro lado, é cediço que a indenização por dano moral não pode levar o beneficiário a um enriquecimento desproporcional. O valor deve equivaler para este como um alento ao desconforto sentido. 
+Considerando todos os elementos acima apontados, entendo razoável o montante pretendido pela requerente, de R$ 3.000,00. Tal quantia é suficiente para reparar os transtornos causados à autora, bem como é expressiva para a ré, de forma a lembrá-la do ocorrido, impulsionando-a a novas cautelas para evitar futuros atos semelhantes.
+Esta cifra será corrigida monetariamente a contar do ajuizamento da ação e acrescida de juros moratórios de 1% ao mês, contados a partir da citação.
+Recentemente, chegou aos autos petição da autora informando o cumprimento pela ré de tudo o quanto fora ofertado (fls. 227/229), dando-se por satisfeita quanto a este pedido. Insistiu, no mais, apenas no pleito indenizatório.
+Diante do exposto e do mais que dos autos consta, JULGO PROCEDENTE EM PARTE a ação ajuizada por PRESCILA MAZZOLA em face da NET SÃO PAULO LTDA., para determinar que a ré mantenha o serviço tal qual pactuado com a autora, nos moldes descritos no documento de fl. 229.
+Condeno a ré, ainda, a devolver à autora a quantia de R$ 53,33, relativa à cobrança indevida pelos 6Mb de velocidade, bem como no pagamento do valor de R$ 3.000,00, relativa à indenização por danos morais. Sobre os valores, devem incidir correção monetária desde o ajuizamento da ação e juros de 1% ao mês a partir da citação. Sem acolhimento apenas o pedido descrito no item h da inicial.
+Tendo em vista que a autora sucumbiu em parte mínima de seus pedidos, a ré arcará com as custas e despesas processuais, corrigidas desde o desembolso, além dos honorários advocatícios, que ora fixo em 20% (vinte por cento) do valor atualizado da condenação.
+Desde logo, fica a parte condenada ao pagamento de quantia certa intimada a cumprir a sentença e satisfazer a obrigação de pagamento, no prazo de 15 dias, contado da data em que o título judicial (sentença e acórdão) se tornar exigível, sob pena de acréscimo de multa de 10%, nos termos do artigo 475-J do Código de Processo Civil.
+Após o trânsito em julgado, aguarde-se por 30 dias. Nada sendo requerido, arquivem-se os autos, com as cautelas de praxe.
+Para cálculo da taxa de preparo, considerar-se-á o valor histórico atribuído á causa
+P.R.I.
+São Paulo, 24 de novembro de 2010.
+
+
+
+ADRIANA BORGES DE CARVALHO
+   Juíza de Direito
+         (assinatura digital)

@@ -1,0 +1,63 @@
+
+
+SENTENÇA
+
+Processo nº:004.07.125565-7 - Procedimento Ordinário
+Requerente:Porto Seguro Companhia de Seguros Gerais
+Requerido:Siemens Ltda
+
+
+
+Juiz(a) de Direito: Dr(a). Rodrigo de Castro Carvalho
+
+
+Vistos, etc.
+
+
+
+
+
+
+PORTO SEGURO COMPANHIA DE SEGUROS GERAIS ajuizou o presente pedido condenatório em face de SIEMENS LTDA. Alegando, em apertada síntese, ter celebrado contrato de seguro com a empresa Euratv Multimídia Ltda. E ressarciu sinistro de roubo no valor de R$ 115.505,86 referente à sua parte do contrato. A responsabilidade da requerida encontra-se no fato da paralisação ou falha nos sistemas de monitoramento à distância que não acionou sistema sonoro ou de sinal, ou alertou e informou que o imóvel estava sendo roubado. Quando da contratação do seguro, ficou condicionada ao atendimento das exigências que especifica, diante da sinistralidade que assola o País. Todavia, devido a falha no sistema de alarme, deverá se responsabilizar. De acordo com o relatório, o total do prejuízo foi de R$ 494.724,11, sendo de responsabilidade da autora 25,2% deste valor, descontada a franquia, cabendo, então, o pagamento de R$ 112.300,40. De acordo com a Súmula 188 do Superior Tribunal de Justiça, a seguradora tem direito de regresso contra o causador do dano.
+
+Regularmente citada, a requerida apresentou defesa alegando que o contrato celebrado com a empresa Euratv é exclusivamente de monitoramento e não um seguro de imóvel ou dos bens da empresa ou de segurança armada. Trata-se de equipamentos de monitoramento instalados nos imóveis dos clientes com sensores de localização e presença, ligados a uma central que envia sinais por linha telefônica, celular ou GPRS, de acordo com o equipamento e serviço contratado. Assim, seu dever é única e exclusivamente de monitorar o imóvel dentro da capacidade técnica contratada. No caso dos autos, o sistema enviava sinais por linha telefônica fixa e subsidiariamente por celular, mas não optou por serviço adicional, não se podendo descartar a hipótese do sistema de alarme estar desarmado no momento do roubo. No caso, como os assaltantes cortaram a linha de telefone e ao adentrarem no local imediatamente danificaram a central de monitoramento, impossibilitando qualquer envio de sinais à requerida. Inexiste prova de defeito do equipamento ou de má prestação do serviço que é obrigação de meio e não de resultado. Existem cláusulas que isentam de responsabilidade em caso de alguns eventos, salientando que o roubo deve ser considerado excludente de força maio. Impugna o valor pleiteado, por juntar documentos desordenados, sem demonstrar como chegou a tal valor.
+
+Em réplica o(a) requerente rebateu as alegações da defesa, reforçando seu pedido inicial.
+
+Saneado o feito, foi designada audiência de instrução, debates e julgamento em que foram ouvidas três testemunhas.
+
+Em memoriais as partes reiteraram as alegações da fase postulatória. 
+
+É o relatório necessário.
+
+D E C I D O.  
+
+Trata-se de ação regressiva da seguradora decorrente de sinistro ocorrido em empresa por ela segurada.
+
+A relação existente entre a contratante do serviço de monitoramento e a ré, através de um sistema de segurança realizado por meio de sinal codificado, visa apenas detectar, advertir ou minimizar o acontecimento de atos ilícitos, não garantindo que o equipamento instalado e o serviço de monitoramento irão prevenir ou impedir qualquer sinistro.
+
+Logo, consiste numa obrigação de meio da ré e não de resultado, regulada, portanto, pelas regras do Código Civil, e não pelo Código do Consumidor.
+
+Nas obrigações de resultado, o devedor somente se desonera quando o fim prometido é alcançado (ex. contrato de transporte); nas de garantia, visa-se a eliminação do risco que pesa sobre o credor, ou as suas conseqüências (ex. seguro, fiança).
+
+Já nas obrigações de meio o devedor promete empregar seu conhecimento, meios e técnicas para a obtenção de determinado resultado, sem, no entanto, responsabilizar-se por ele. (ex. serviços de advocacia, médico).
+
+A prova oral colhida não conseguiu apontar a culpa da requerida na causação do resultado.
+
+Se a linha telefônica foi cortada do lado externo do imóvel pela ação dos criminosos, não permitindo a comunicação com a empresa de monitoramento, não há que se falar em descumprimento do contrato, haja vista que ficou expresso que a prestação do serviço não impediria o assalto, apenas diminuiria a probabilidade.
+
+Saliente-se que o contrato de monitoramento não pode ser equiparado a uma apólice de seguro, haja vista que o objeto e as condições ajustada são completamente distintas. 
+
+Aliás, há que se esclarecer que o risco é inerente ao contrato de seguro. Aceitar o argumento de que o roubo foi ocasionado pela falha no serviço de monitoramento contratado pela segurada, é conceder à seguradora capitalismo sem risco, pois estaria sempre autorizada a ser ressarcida pelas indenizações pagas, e para as quais o prêmio recebido já considerou o risco efetivo por ocasião da contratação do seguro.
+
+Não vislumbro, pois qualquer culpa da requerida na causação do dano à autora.
+
+Registre-se, por fim, que por força do princípio do livre convencimento do Juiz, o magistrado não está obrigado a esclarecer cada argumento proposto pelas partes, mas sim a apenas justificar (motivar - artigo 93, IX, da CR) a razão do seu entendimento.
+
+Destarte, considere-se por enfrentados os dispositivos legais expressamente mencionados no caso em liça pelas Partes, com vistas ao suprimento do requisito do prequestionamento para eventual interposição de recursos aos Tribunais Superiores. 
+ 
+Isto posto e considerando o mais que dos autos consta, JULGO IMPROCEDENTE o pedido e condeno a requerente ao pagamento das custas, despesas processuais e honorários advocatícios que, nos termos do artigo 20, parágrafo 4o do Código de Processo Civil, fixo em R$ 1.200,00.
+
+R.P.I.
+
+São Paulo, 28 de dezembro de 2009.

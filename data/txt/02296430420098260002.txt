@@ -1,0 +1,106 @@
+
+
+DESPACHO
+
+Processo nº:0229643-04.2009.8.26.0002 - Procedimento Sumário
+Requerente:Iris Yamamoto
+Requerido:Vivo S/A
+
+
+Vistos.
+
+
+
+
+
+
+Cuida-se de AÇÃO DE RESCISÃO DE CONTRATO c.c. DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO c.c. REPARAÇÃO POR DANOS MORAIS ajuizada por IRIS YAMAMOTO contra VIVO S/A, alegando, em suma, que aos 25.10.2007 firmou com a ré um contrato de prestação de serviço móvel de internet, denominado Vivo Zap, com o numeral (11) 7120-4164, pelo valor mensal de R$ 139,90, posteriormente reduzido para R$ 99,00, em razão de promoção; que desde então o serviço oscila, pelo quê contatou a ré várias vezes, obtendo diagnóstico dando conta de que o problema ocorria em razão da qualidade de sinal, do local, e de que deveria alterar as configurações; que chegou a trocar de aparelho, sem sucesso; que em janeiro de 2009 foi informada pela ré de que deveria novamente mudar de aparelho, para outro de melhor tecnologia; que mesmo fazendo esta trova os problemas persistiram; que não logrou fazer o cancelamento do contrato através do SAC da ré, e tampouco através de suas lojas; e que ignorando todos estes contatos a réu levou seu nome a apontamento junto aos cadastros dos arquivos de consumo, por suposta dívida no valor de R$ 301,93, a qual não tem lastro, porque o serviço não foi prestado, e já havia sido cancelado há meses pela autora, através da central de atendimento da ré. Colima, assim, o decreto da rescisão do contrato, a declaração de inexigibilidade do aludido débito, e a condenação da ré ao pagamento da importância de R$ 9.057,90, a título de danos morais sofridos, mercê do indevido apontamento.
+
+Resultou deferido o pedido de antecipação dos efeitos da tutela, para suspensão da negativação do nome da autora (fl.43).
+
+Citada, a ré apresentou contestação (fls.50/79), arguindo inépcia da inicial e falta de interesse processual, bem como alegando, no mérito, em suma, que não consta de sue sistema a informação sobre a causa do problema; que a região da autora possui cobertura parcial 3G, razão pela qual a oscilação da região causou a reclamação, sendo que tais questões foram amplamente especificadas quando da contratação; que a qualidade do serviço também está sujeita a variações em função da disponibilidade e intensidade do sinal, bem como das condições geográficas e/ou meteorológicas; que a contratação do Vivo Zap foi para uso de internet com limite de 1 kilobyte, proporcional, pois, à conexão de linha discada, não tendo sido contratado, assim, serviço proporcional à capacidade de transferência de uma banda larga; que em função destas ponderações verifica-se que o serviço foi prestado corretamente, e que, por conseguinte, são legítimas a cobrança e a negativação do nome da autora, à guisa de sua inadimplência. Assim, sustentando ter agido no exercício regular de direito, refuta os pedidos e propugna, via de consequência, pela improcedência do pedido. Subsidiariamente postula pela fixação de indenização em montante que não caracterize enriquecimento sem causa para o ofendido.
+
+Houve réplica (fls.103/109).
+
+Apenas a autora especificou provas.
+
+É O RELATÓRIO.
+A FUNDAMENTAÇÃO.
+
+- 1 -   
+Prescindível a dilação probatória, porque a questão de mérito é unicamente de direito, passo ao julgamento antecipado da lide, com supedâneo no artigo 330, inciso I, do Código de Processo Civil. E, mercê do desinteresse manifestado pela ré, deixo de designar audiência de tentativa de conciliação.
+
+- 2 -    
+De proêmio trago à sirga a falta de primor no tangível à correta arguição de preliminares, que, no caso, foi fielmente observada pela ré, consoante depreendo da contestação apresentada.
+
+De fato, todas as preliminares suscitadas, em verdade, se confundem, numa amálgama indissociável, com o mérito da demanda ora sob apreço.
+
+Com efeito, diz respeito ao mérito aferir-se se o valor cobrado corresponde, ou não, a serviço prestado; da mesma forma eventual cumprimento, ou descumprimento de avença, por óbvio, concerne ao mérito da controvérsia.
+
+A petição inicial traz em seu bojo, de maneira assaz suficiente, a causa de pedir remota, bem como a causa de pedir próxima, a qual, aliás, sequer precisa ser explicitada com maior rigor, porquanto, consoante aforismo jurídico conhecido, iure novit curia. Os pedidos, na mesma vereda, foram deduzidos de forma clara, derivando sim, logicamente, da narrativa da causa petendi.
+
+- 3 -      
+A questão controversa, porquanto gravitar em torno de suposto vício de qualidade de serviço, deve ser dirimida consoante os ditames erigidos no artigo 18 do CDC.
+
+E, nessa vereda, pontifico, com espeque no princípio da inversão do ônus da prova, haurido do artigo 6º, inciso VIII, do CDC, que deveria a ré, antes de tudo, demonstrar cabalmente a inexistência do vício do produto. 
+
+A versão apresentada na prefacial, com efeito, é verossímil, porquanto é fato notório, bastando mera leitura de jornais para tal aferição, que as concessionárias de telefonia móvel estão entre as ocupantes, ano após ano, do pódio de reclamações por má prestação de serviços e vilipêndio dos direitos dos consumidores. São as empresas de telefonia móvel, aliás, contumazes figurantes do pólo passivo de ações judiciais.
+
+A hipossuficiência da parte autora outrossim não pode ser olvidada, porque lhe faltam os meios técnico-probatórios para demonstração do quanto aduzido preambularmente (falta do serviço de disponibilização da internet móvel).
+
+- 4 -    
+O termo de adesão mencionado pela ré, e que fora juntado pela autora com a prefacial (fls.23/25), realmente dá conta de que pode haver variação da velocidade da transmissão de dados, conforme as condições topográficas e/ou climáticas, a velocidade de movimento,... , consoante depreendo da cláusula 2.4.
+
+Cousa absolutamente discrepante de mera oscilação na velocidade da transmissão, no entanto, é a falta do próprio sinal de internet, já que da inicial colho claramente a irresignação da parte autora exatamente por esta razão, e não por meros problemas quanto à velocidade da transmissão.
+
+Do referido termo de adesão não consta qualquer ressalva quanto a possíveis falhas no tocante à captação do sinal de internet pelo fato de se cuidar de pacote de apenas 1 Kbyte, ou pelo fato de se tratar de localidade servida apenas parcialmente por serviço 3G, ou mesmo pela razão de disponibilidade e intensidade do sinal, ou condições geográficas e/ou meteorológicas.
+
+As simplórias telas de pesquisas efetuadas no sistema da própria ré não têm o condão de demonstrar a regularidade do serviço, no caso, do serviço de disponibilização da internet móvel.
+
+Como adminículo probatório a corroborar a versão da autora tenho que, acaso deveras fosse mero problema de velocidade de transmissão, não teria a ré aquiescido com a troca, por duas vezes, de aparelho telefônico (fls.26 e 27). 
+
+Diante deste cenário pontifico que o serviço deveras não foi prestado pela ré nos moldes da contratação, ou seja, foi prestado com vício de qualidade, tendo incorrido ela, destarte, em inexecução contratual, nos termos do artigo 18, caput, do Código de Defesa do Consumidor.
+
+Por consectário lógico, outra resolução não resta que, senão, pela rescisão do contrato Vivo Zap e pela declaração de inexigibilidade do débito, já que, inexistente o serviço, por óbvio é que não há se falar em débito.
+
+- 5 -    
+Vincada a premissa de que o valor levado a apontamento pela ré não tinha lastro jurídico, por não corresponder a serviço efetivamente prestado, com a qualidade esperada no átimo da contratação, assevero que a ré deveras incorreu na prática de ato ilícito, ao proceder à negativação indevida, nos termos dos artigos 186 e 927 do CC.
+
+E como o dano, no caso, está in re ipsa, ou seja, decorre do próprio apontamento írrito, porquanto se presume a ocorrência dos danos morais mercê da simples publicidade do ato, resta, apenas e tão-somente, aquilatar-se o quantum da indenização.
+
+- 6 -    
+Antes de tudo, na senda dos danos morais, assevero que o quantum da indenização há ser fixado com fulcro em um juízo de razoabilidade, segundo o caso concreto, sem que a indenização seja vultosa demais a ponto de importar um enriquecimento sem causa por parte do ofendido, e sem que seja irrisória, de modo a não ser suficiente para amenizar o sofrimento moral do ofendido. Ademais, não pode a indenização implicar um empobrecimento ilícito do ofensor.
+
+Atendidas estas premissas fundamentais, outras hão de ser aferidas, nos termos doravante declinados.
+
+Parto do pressuposto de que o apontamento ilícito, por si só, já é causa de constrangimento de cunho moral. O dano moral está in re ipsa, na própria negativação indevida. 
+
+Não foi apresentada qualquer prova hercúlea a demonstrar maior extensão do dano, além daquela ordinariamente oriunda da negativação. 
+
+A capacidade econômica da ré também não há ser olvidada; de fato, é de conhecimento público que as operadoras de telefonia têm lucros e rendimentos consideráveis. 
+
+A condição social e econômica da parte autora também merece ser aferida, sendo certo que é ela bancária, mas não há informes sobre os seus rendimentos.
+
+Também levo em consideração o valor do débito levado a apontamento. 
+
+Por fim, a necessidade de repressão à conduta negligente da ré, que, como prestadora de serviço submetido à égide do Código de Defesa do Consumidor, deve guardar zelo no tocante à efetiva e escorreita prestação dos serviços contratados pelo consumidor, e também no tocante aos apontamentos que faz. 
+
+Destarte, à vista destas considerações, entendo como justo que a ré pague para a autora, a título de indenização por danos morais, a importância de R$ 6.000,00 (seis mil reais).
+
+DIPOSITIVO.
+
+- 7 -   
+Ante ao exposto, com fundamento no artigo 269, inciso I, do Código de Processo Civil, com resolução do mérito, JULGO PROCEDENTE o pedido, o que faço para declarar a rescisão do contrato Vivo Zap firmado entre as partes, para declarar a inexigibilidade do débito mencionado no comunicado de fl.21, e para condenar a ré ao pagamento da importância de R$ 6.000,00 (seis mil reais) a título de indenização por danos morais, incidindo correção monetária a contar da data da publicação desta sentença, segundo os índices da tabela prática do TJSP, consoante Enunciado da Súmula nº 362 do STJ, e juros de mora, à taxa de 1% ao mês, a partir da citação da ré. 
+
+Sucumbente, condeno a ré ao pagamento das despesas com as custas processuais e ao pagamento dos honorários do patrono do autor, que fixo em 15% do valor da condenação, devidamente atualizado. 
+
+Oficie-se o SCPC e a SERASA para definitivo cancelamento dos apontamentos, às expensas da ré.
+
+P.R.I.C.
+
+De Santa Bárbara D'Oeste p/ São Paulo
+Aos 02 de fevereiro de 2011. 
+
+
+   THIAGO GARCIA NAVARRO SENNE CHICARINO
+  Juiz de Direito Designado

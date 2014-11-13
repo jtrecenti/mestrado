@@ -1,0 +1,67 @@
+
+
+SENTENÇA
+
+Processo nº:0209328-78.2011.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Moral
+Requerente:Felipe Andre de Souza da Silva
+Requerido:Banco Itau S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Laura de Mattos Almeida
+
+
+VISTOS.
+
+
+FELIPE ANDRÉ DE SOUZA DA SILVA ajuizou ação sob o rito ordinário contra BANCO ITAÚ S/A, alegando, em suma, que é titular da conta corrente/poupança indicada na inicial e que, em 12 de setembro de 2011, dirigiu-se a um caixa eletrônico no intuito de efetuar um saque e pagar contas, constatando a existência de saldo negativo de R$ 471,18, em razão de nove saques no valor total de R$ 4.160,00, os quais foram efetuados sem o seu conhecimento, no período de 01.09.2011 a 08.09.2011. Sustenta que em nenhum momento forneceu a senha ou seu cartão a terceiros. Em face disso, postula a condenação do réu ao ressarcimento de todo o valor sacado indevidamente de sua conta, no importe de R$ 4.160,00, bem como dos encargos gerados pelo saldo negativo, além de indenização por danos morais. Juntou os documentos de fls. 18/24.
+
+Citado (fls. 32), o réu ofereceu contestação (fls. 34/54), pugnando pela improcedência da ação, pois, como não houve clonagem do cartão do autor, ou as operações foram realizadas com a sua autorização ou ele se descuidou do cartão com CHIP, possibilitando que terceiros, sorrateiramente, tivessem acesso à senha e o utilizassem em benefício próprio. Discorreu sobre a segurança absoluta das transações realizadas com cartão com CHIP e sobre os procedimentos adotados pelo banco. Impugnou o pleito de indenização por danos morais. Juntou os documentos de fls. 62/236.
+
+Houve réplica (fls. 238/266).
+
+O autor pediu o julgamento antecipado da lide (fls. 269/274), ao passo que o réu especificou as provas que deseja produzir (fls. 275/276).
+
+O feito foi saneado (fls. 277).
+
+O laudo pericial encontra-se a fls. 295/315, seguindo-se as manifestações das partes (fls. 435/441 e 457/458).
+
+Encerrada a instrução, as partes ofertaram seus memoriais (fls. 464/469 e 474/479).
+
+É o relatório. Fundamento e decido.
+
+Colhidas as provas postuladas pelas partes, tem-se que o pedido inicial é improcedente.
+
+O autor é titular de conta corrente/poupança junto ao réu e pretende, nesta ação, o ressarcimento de nove saques, no valor total de R$ 4.160,00, sob a alegação de que não os efetuou, tampouco entregou seu cartão ou forneceu sua senha a terceiros.
+
+Os saques impugnados foram efetuados entre os dias 01 e 08 de setembro de 2011 (cf. extrato de fls. 21/22).
+
+No boletim de ocorrência que instrui a inicial, o requerente narra que, no dia 26 de agosto de 2011, esteve em certa agência do réu e, no momento em que efetuava um saque, seu cartão magnético foi engolido pela máquina. Narra, também, que o funcionário do banco que o atendeu por telefone disse que o cartão seria bloqueado naquele momento e outro seria enviado à sua residência em cinco dias úteis. Como não recebeu o cartão, compareceu novamente à agência e constatou diversos saques indevidos, no total de R$ 4.160,00.
+
+Pois bem. A instituição financeira requerida, na qualidade de prestadora de serviços, coloca à disposição de seus correntistas a possibilidade de realização de operações bancárias através do sistema de autoatendimento e também via internet, auferindo, com tal expediente, maiores lucros e vantagens. Isto porque, possibilita a realização do serviço pelo próprio correntista, facilitando, desta forma, o serviço dos funcionários do banco.
+
+Agindo desta maneira, a ré deve assumir o risco de falhas na prestação do serviço, fornecendo ao consumidor a segurança necessária para que não haja problemas nas transações realizadas através do sistema de autoatendimento e pela internet.
+
+O réu, em sua defesa, alega que foi zeloso, imputando a responsabilidade pelas operações não reconhecidas exclusivamente ao autor, dizendo que os saques foram efetuados por ele ou com ciência dele, pois utilizados seu cartão e sua senha, dado de seu exclusivo conhecimento, além do que não há indícios da ocorrência de fraude.
+
+Na condição de prestador de serviços bancários, é do réu o ônus de comprovar que tais operações foram, de fato, realizadas pelo autor, diretamente ou através de terceira pessoa, ônus do qual se eximiu.
+
+Com efeito, a perícia realizada concluiu que todos os saques foram efetivados através da utilização do cartão original do autor, com a senha e dados adicionais correspondentes. 
+
+Não é crível que o autor, após ter o cartão engolido pela máquina dia 26 de agosto, tenha ficado até o dia 12 de setembro sem verificar a movimentação de sua conta. 
+
+Vale anotar, ainda, que de acordo com o laudo pericial, Os saques impugnados pelo requerente foram realizados em terminais (caixas eletrônicos) da rede de terminais do requerido; os registros (logs) dos terminais onde foram realizados os saques impugnados não apresentavam sinais de fraude; todas as transações foram validadas através da tecnologia CHIP com a utilização da senha e informações extras do requerido, tais como: data de nascimento; não houve a retenção do cartão que estava na posse do requerente em terminal (caixa eletrônico); atualmente a possibilidade de clonagem de CHIP aderente ao padrão EMV embora exista, é considerada multa.
+
+Diante do exposto, julgo IMPROCEDENTE o pedido inicial, nos termos do art. 269, I, do Código de Processo Civil.
+
+Por sucumbente, arcará o autor ao pagamento das custas e despesas processuais, bem como aos honorários advocatícios da parte contrária, que fixo em R$ 1.500,00 (artigo 20, § 4o, do Código de Processo Civil). Todavia, por ser o vencido beneficiário da justiça gratuita, as verbas de sucumbência só poderão lhe ser cobradas na hipótese e no prazo do art. 12 da Lei no 1.060/50.
+
+P.R.I.
+
+São Paulo, 13 de março de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

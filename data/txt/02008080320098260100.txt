@@ -1,0 +1,57 @@
+
+
+SENTENÇA
+
+Processo nº:0200808-03.2009.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Material
+Requerente:Uniscience do Brasil Industrial , Comercio e Representações Ltda
+Requerido:Eppendorf do Brasil Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Andréa Galhardo Palma
+
+
+VISTOS.
+
+UNISCIENCE DO BRASIL INDÚSTRIA, COMÉRCIO E REPRESENTAÇÕES LTDA., pessoa jurídica de direito privado já qualificada na inicial, propôs a presente Ação de Indenização em face de EPPENDORF DO BRASIL LTDA., alegando, em síntese, que, a ré, sua concorrente comercial direta, violou o seu banco de dados através da invasão remota de seu servidor feita em 10/04/2008, por meio do qual ? a requerida - teve acesso a todo o seu acervo de dados e informações comerciais confidenciais, obtido pela autora durante os seus 25 anos de existência, seu maior ativo patrimonial.
+Em vista da irreversibilidade do ilícito cometido, qual seja, concorrência desleal, pede a condenação da requerida a pagar indenização pelos danos imateriais causados a ela, tendo como parâmetro para fixação o valor de R$ 750.000,00 e também indenização pelos lucros cessantes a serem apurados em liquidação de sentença.
+Com a inicial, juntou documentos de fls. 24/166.
+Validamente citado (fl. 172/173), o réu apresentou contestação tempestiva (fls. 186/214) alegando, primeiramente que não é concorrente direto da ré, pois é apenas divulgador dos produtos, sendo que os mesmos são comercializados por distribuidores, e, por isso, não teria nenhum interesse no banco de dados da autora. Em segundo lugar, aduz que não há nos autos nenhuma prova concreta de que o acesso remoto a que a autora se refere tenha de fato ocorrido, de modo que o informativo da NET (utilizado como prova de tal fato pela autora) apenas informa que o IP questionado é pertencente a ré, mas não diz que tal acesso se deu por meio desse IP ou de qualquer outro pertencente a ré. Por fim, alega ainda que caso se comprove tal acesso por meio de IP da ré, esse se deu por meio de funcionário que agiu a despeito de qualquer consentimento ou mesmo conhecimento do ato pela empresa Eppendorf. Diante disso, nega todas as acusações da requerente e requer a total improcedência da ação.
+Réplica às fls. 237/249
+Despacho saneador nomeou o perito Dante Grasso Junior para produzir perícia com o fim de verificar a origem de eventual acesso remoto ao banco de dados da autora e eventuais prejuízos suportados (fl. 258).
+Agravo retido interposto pela requerida às fls. 367/370.
+Laudo pericial às fls. 387/499.
+Agravo retido interposto pela requerida às fls. 554/556
+É o relatório.
+Fundamento e decido.
+O feito prescinde de outras provas, pois bastam aquelas existentes nos autos para a formação da convicção do julgador. Assim, na medida em que remanescem apenas questões de direito, passo ao julgamento da lide no estado em que se encontra o processo (art. 330, inciso I, do Código de Processo Civil).
+Pelo que se observa dos autos, o fato controverso principal da presente lide se encontra na verificação de se houve ou não acesso remoto ao banco de dados da autora por meio de IP pertencente a ré e, em caso afirmativo, quais foram os eventuais prejuízos decorrentes de tal ato. Para tanto, foi deferida prova pericial (laudo pericial às fls. 387/499), que constatou que, de fato, em 10/04/2008 às 15:59:32 o servidor da requerente foi acessado por meio de máquina pertencente a ré (nº do IP 201.6.122.233 ? fls. 418 e 490) com o login do usuário Lilian Carla Alves.
+Nesse acesso único feito pelo ID da ré, esta última se restringiu a buscar informações cadastrais do cliente da autora SOUZA CRUZ e das propostas de venda que estavam sendo negociadas com o mesmo (fls. 414/417 e fls. 433/434 ? resposta ao quesito ?p? do autor).
+Portanto, resta demonstrado que:
+a) a requerida, de fato, acessou o banco de dados da autora ilicitamente, configurado assim o crime de concorrência desleal conforme inteligência do inciso III, artigo 195 da Lei 9.279/96:
+Art. 195. Comete crime de concorrência desleal quem:
+ III - emprega meio fraudulento, para desviar, em proveito próprio ou alheio, clientela de outrem;
+
+b) entretanto, a ré não teve acesso a todo o acervo de dados do autor como alegado na inicial, mas apenas ás informações referentes ao cliente SOUZA CRUZ.
+Quanto a alegação da requerida de que as empresas não são concorrentes diretas, a simples análise dos catálogos de vendas da autora e da ré acostados aos autos em fls. 24/50 e 52/144 é capaz de demostrar o contrário, ou seja, comprova que ambas as partes são concorrentes diretas, pois trabalham com a venda de produtos semelhantes voltados a um mercado comum. Portanto, é evidente que se trata de um mesmo ramo comercial, qual seja, produtos de life science. 
+Sendo assim, considero que o autor conseguiu comprovar o quanto alegado, e por isso, a parcial procedência do feito é medida que se impõe a correta solução da lide.
+Digo parcial porque, apesar de demostrado o cometimento do ato ilícito por parte da ré, não há nos autos provas quanto a utilização desses dados pela requerida, nem mesmo se essa última teve ou tem alguma relação jurídica com o tal cliente da autora SOUZA CRUZ de modo que pudesse se demonstrar que aquela ? a requerida - utilizou-se dos dados captados ilicitamente para obter vantagem econômica ou qualquer proveito de outra monta.
+Portanto, ainda que seja possível admitir que, pelo fato das empresas serem concorrentes diretas, as informações obtidas pela ré poderiam ter sido usadas contra a autora, a ausência de provas nesse sentido impedem a quantificação do dano decorrido de tal ato, de modo que se vislumbra impossível a determinação dos lucros cessantes, se é que eles existem.
+Entretanto, é evidente que, o ato de violar banco de dados alheio é, por si só, ato ilícito nos termos do artigo 186, uma vez que se está invadindo propriedade imaterial de outrem, e, portanto, aquele que comete tal ilícito deve responder civilmente, ainda que apenas a título de indenização moral (uma vez que não há comprovação do prejuízo material decorrente de tal ato).
+O dano moral da pessoa jurídica é tema absolutamente pacífico (Súmula 227 do Superior Tribunal de Justiça) e hoje positivado no artigo 52 do novo Código Civil. No dizer de Sérgio Cavalieri Filho, a pessoa jurídica, embora não seja passível de sofrer dano moral em sentido estrito ofensa à dignidade, por ser esta exclusiva da pessoa humana -, pode sofrer dano moral em sentido amplo violação de algum direito da personalidade -, porque é titular de honra objetiva, fazendo jus a indenização sempre que seu bom nome, credibilidade ou imagem forem atingidos por algum ato ilícito. 
+Em última análise, o que se indeniza é o dano à imagem da pessoa jurídica, fator essencial para sucesso da empresa, diante do meio em que desempenha suas atividades. O que se preserva é a formação da imagem abstrata e não visual, da entidade diante do mundo dos negócios e do próprio consumidor. Há dano que repercute em sua capacidade de produzir riqueza, ainda que imensurável de imediato.
+Com a previsão do artigo 5º, inciso X, da Carta Magna, a indenização por danos de aspecto moral é palco de infindáveis querelas doutrinárias e jurisprudenciais, mormente com a proliferação de demandas acerca do tema. Tem-se buscado coibir a utilização do instituto como meio de enriquecimento sem causa, porém, é curial que não se deixem indenes danos efetivamente observados, consideráveis, no tocante às conseqüências, se razoáveis e amoldados ao conceito doutrinário que se lhe impôs. 
+Entendo que a indenização por danos morais possui dupla finalidade: reparadora e desestimuladora. 
+Nesse sentir é a lição de Caio Mário da Silva Pereira, extraída da sua obra Responsabilidade Civil, (pp. 315-316), que ensina: Como tenho sustentado em minhas Instituições de Direito Civil (v. II, n.176), na reparação por danos morais estão conjugados dois motivos, ou duas concausas: I- punição ao infrator pelo fato de haver ofendido um bem jurídico da vítima, posto que imaterial; II- pôr nas mãos do ofendido uma soma que não é um pretium doloris, porém um meio de lhe oferecer oportunidade de conseguir uma satisfação de qualquer espécie, seja de ordem intelectual ou moral, seja mesmo de cunho material, o que pode ser obtido 'no fato' de saber que esta soma em dinheiro pode amenizar a amargura da ofensa e de qualquer maneira o desejo de vingança.
+Desse modo e para que a indenização por dano moral represente uma compensação e não uma fonte de enriquecimento sem causa fixo, mas sem perder de vista que a fixação em valor demasiadamente baixo importaria, por via diversa, um estímulo à reiteração dessa prática, e por fim, levando em consideração que a ré não teve acesso a todo o banco de dados da autora, mas apenas a informações pontuais de um cliente em específico, fixo em R$ 50.000, 00 o valor a título de indenização moral.
+Diante do exposto, JULGO PARCIALMENTE PROCEDENTE o pedido deduzido pelo autor e condeno a requerida, EPPENDORF DO BRASIL LTDA., ao pagamento da quantia de R$ 50.000,00 (cinquenta mil reais) a título de indenização moral, devidamente corrigidos desde o ajuizamento da ação, pela Tabela Prática de Atualização de Débitos Judiciais do Tribunal de Justiça do Estado de São Paulo e acrescida de juros de 1% ao mês, contados da citação.
+Como decorrência da sucumbência, a ré arcará com as custas processuais e honorários advocatícios do patrono do autor, fixados estes em 20% do valor da condenação.
+Por ter decaído de parte mínima do pedido, deixo de condenar a autora ao ônus parcial da sucumbência.
+P.R.I.
+
+
+São Paulo, 03 de setembro de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

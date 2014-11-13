@@ -1,0 +1,50 @@
+
+
+SENTENÇA
+
+Processo nº:0022529-84.2012.8.26.0004
+Classe - AssuntoProcedimento Ordinário - Obrigação de Fazer / Não Fazer
+Requerente:Janaina Morone Bavini
+Requerido:Banco Santander Brasil S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Lúcia Helena Bocchi Faibicher
+
+Vistos.
+
+
+JANAINA MORONE BAVINI ajuizou a presente ação de obrigação de fazer cumulada com pedido de declaração de inexigibilidade do débito, indenização por danos morais e pedido de tutela antecipada contra BANCO SANTANDER alegando, em resumo, que após encerramento regular de sua conta corrente, foi surpreendida com a inscrição de seu nome no cadastro de emitentes de cheques sem fundos ? CCF  ? pelo banco réu. Alega que o cheque, emitido há 5 anos, foi apresentado para compensação e devolvido pelo motivo 13 (conta encerrada), ao invés do motivo 44 (cheque prescrito), ocasionando a inscrição indevida do nome da autora nos cadastros restritivos, razão pela qual pede a condenação do banco réu ao pagamento de indenização por danos morais, no valor de R$ 8.000,00, bem como a declaração de inexigibilidade do débito. 
+O pedido de tutela antecipada foi indeferido à fls. 37, por não verificar risco de dano de difícil reparação ou urgência a justificar o atropelo ao contraditório. 
+Devidamente citado, o banco réu ofereceu contestação às fls. 80/91. Defende a inaplicabilidade do Código de Defesa do Consumidor. Sustenta a inexistência de responsabilidade do réu. Alega a ausência de danos morais indenizáveis. Alternativamente, pede a redução do valor da condenação.
+Réplica às fls. 121/134.
+É o relatório.
+Fundamento e decido.
+Prescinde o feito de dilação probatória comportando seu julgamento antecipado, conforme o disposto no art. 330, I do Código de Processo Civil, por se tratar de matéria exclusivamente de direito, estando os fatos devidamente comprovados nos autos.
+Depreende-se dos autos que a autora encerrou sua conta corrente que mantinha junto ao banco réu, em 2011.
+Ocorre que, após o encerramento, houve apresentação do cheque nº 011363, no valor de R$ 80,00, emitido em 23 de fevereiro de 2006, o qual foi devolvido pela alínea 13 (conta encerrada).
+Note-se que o banco réu não observou que o cheque estava prescrito, violando assim aos artigos 11 e 12 da Resolução nº 1.682/90 do Banco Central, os quais prescrevem que decorridos 6 meses do prazo de apresentação (30 ou 60 dias), o cheque será devolvido pelo motivo 44 (apresentação indevida de cheque prescrito).
+Ressalte-se, ainda, que a prescrição se dera muitos anos antes do encerramento da conta, não havendo motivo justo ou razoável para que optasse o banco pela alínea 13.
+Cabe transcrever a respeito:
+?DANOS MORAIS - Cheque - Devolução de cheque prescrito pela alínea 13 (conta encerrada) - Inadmissibilidade - Verificada a prescrição do cheque, a instituição financeira tem o dever de devolvê-lo pelo motivo 44, nos termos do art. 12 do Regulamento Anexo à Resolução n° 1.631 do Banco Central do Brasil Inscrição indevida em cadastro de inadimplentes  Desnecessidade de prova da ocorrência do dano moral Recurso parcialmente provido?. (TJSP; 11ª Câmara de Direito Privado; Apelação nº 991.02.085424-2; Rel. Renato Rangel Desinano; julgado em 13/05/2010).
+
+Bem por isso é de rigor o acolhimento da pretensão inaugural, pois em decorrência do ato do réu, a autora acabou sofrendo indiscutível prejuízo de ordem moral, já que teve seu nome lançado nos cadastros negativos (fls. 29/30)
+Segundo Antônio Jeová Santos ?o dano exsurge vistosamente pelo fato de o nome constar erroneamente do cadastro. Nada mais é necessário provar. Houve o lançamento irregular, ilícito e injusto, o dano ocorre in re ipsa? (sic) (Dano moral indenizável, 2ª ed., pág. 475, Lejus).
+E, consoante lição de Carlos Alberto Bittar: ?Na concepção moderna da teoria da reparação de danos morais, prevalece, de início, a orientação de que a responsabilização do agente se opera por força do simples fato da violação. Com isso, verificado o evento danoso, surge ipso facto, a necessidade de reparação, uma vez presentes os pressupostos de direito?. (?Reparação Civil por Danos Morais?, p. 214, 3ª ed.)
+Com relação ao valor da indenização, já decidiu o Superior Tribunal de Justiça: ?Embora a avaliação dos danos morais para fins indenizatórios seja das tarefas mais difíceis impostas ao magistrado, cumpre-lhe atentar, em cada caso, para as condições da vítima e do ofensor, o grau de dolo ou culpa presente na espécie, bem como os prejuízos morais sofridos pela vítima, tendo em conta a dupla finalidade da condenação, qual seja, a de punir o causador do dano, de forma a desestimulá-lo à prática futura de atos semelhantes, e a de compensar o sofrimento indevidamente imposto, evitando, sempre, que o ressarcimento se transforme numa fonte de enriquecimento injustificado ou que seja inexpressivo ao ponto de não retribuir o mal causado pela ofensa.? (AI nº 163.571-MG, Rel. Min. EDUARDO RIBEIRO, j. 9.2.99, DJU de 23.12.99, p. 71)
+Preleciona Caio Mario da Silva Pereira, a indenização deve ser constituída de soma compensatória ?nem tão grande que se converta em fonte de enriquecimento, nem tão pequena que se torne inexpressiva.?(Responsabilidade Civil, 2ª ed. Forense, 1990, pag. 67).
+Nesse sentido, já decidiu o Tribunal de Justiça do Estado de São Paulo:
+?AÇÃO DE INDENIZAÇÃO POR MORAIS. Conta corrente encerrada. Cheques prescritos devolvidos pelo motivo 13 (conta encerrada). Inadmissibilidade. Cheque prescrito deve ser devolvido pelo motivo 44 (apresentação indevida de cheque prescrito). Inteligência dos arts. 11 e 12 da Resolução nº 1.682/90 do BACEN. Falha no sistema operacional causou inscrição indevida do nome do autor nos cadastros de restrição ao crédito. Recurso provido. 
+DANO MORAL. Configuração. Banco de dados. Inscrição indevida dispensa a comprovação da extensão dos danos, pois evidenciado pelas circunstâncias do próprio fato, não dependendo de prova prejuízo suportado. Recurso provido.
+VALOR DA INDENIZAÇÃO. Indenização fixada em R$15.000,00, com correção monetária pela Tabela Prática do TJSP, a partir da publicação do acórdão (Súmula nº 362 do STJ), e juros de mora de 1% ao mês, a partir do ato lesivo (Súmula nº 54 do STJ), os quais soam compatíveis com o dano sofrido, sem representar enriquecimento ilícito, além de servir como óbice à reiteração da conduta abusiva do banco. Recurso provido.? (Apelação nº 0083860-21.2008.8.26.0000, 17ª Câmara de Direito Privado, Relator Desembargador Erson T. Oliveira, 18/04/2012).
+Assim sendo, arbitro os danos morais em importe equivalente a R$ 8.000,00 (oito mil reais), valor requerido pela autora (fls. 22) e suficiente para reparação dos prejuízos em testilha.
+Posto isso e considerando o mais que dos autos consta, JULGO PROCEDENTE o pedido deduzido por JANAINA MORONE BAVINI contra BANCO SANTANDER (BRASIL) S/A, para o fim de declarar inexigível o débito e condenar o banco réu ao pagamento de indenização no valor de R$ 8.000,00, a título de ressarcimento por danos morais, devidamente acrescido de correção monetária pela Tabela Prática do TJSP, a partir desta data, e juros de mora de 1% (um por cento) ao mês, desde a citação. 
+Condeno o banco réu ao pagamento das custas, despesas processuais e honorários advocatícios, que ora arbitro em 10% (dez por cento) sobre o total da indenização.
+Oportunamente, oficie-se aos órgãos de proteção ao crédito para exclusão do nome da autora dos cadastros restritivos.
+P. R. I. C.
+
+
+São Paulo, 18 de junho de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

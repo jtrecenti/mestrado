@@ -1,0 +1,67 @@
+
+
+SENTENÇA
+
+Processo nº:0053555-69.2013.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Previdência privada
+Requerente:José Antonio Rey Rodriguez
+Requerido:Fundação Itaubanco
+
+
+
+Juiz(a) de Direito: Dr(a).Carlos Eduardo Borges Fantacini
+
+
+
+Controle nº 1516-13
+
+
+
+
+Vistos.
+José Antonio Rey Rodriguez move a presente AÇÃO ORDINÁRIA (?RECLAMAÇÃO TRABALHISTA?) contra FUNDAÇÃO ITAU UNIBANCO PREVIDÊNCIA COMPLEMENTAR, alegando, em resumo, que foi funcionário da empresa ITAUDATA ITAÚ INFORMÁTICA LTDA., onde aderiu ao plano de complementação de aposentadoria gerido pelo requerido; obteve a aposentadoria por invalidez em 30/11/2003. Sustenta a ilegalidade da aplicação da TR como índice de correção do benefício, por não repor as perdas inflacionárias, e assim pleiteia seja aplicado o INPC, com o pagamento das diferenças.
+Contestação a fls. 106.
+Réplica fls. 191.
+É o relatório.
+Decido.
+Nos termos da Súmula STJ n° 291, a ação de cobrança de parcelas de complementação de aposentadoria pela previdência privada prescreve em cinco anos; e consoante o enunciado 327 do TST, não atinge o fundo do direito, as apenas as parcelas anteriores ao quinquênio. 
+Ficando assim afastada a preliminar de prescrição.
+Trata-se a ré de entidade de previdência fechada, sociedade civil de fins previdenciários e assistenciais, sem fins lucrativos, não se vislumbrando qualquer relação de consumo entre as partes, pelo que inaplicável o Código de Defesa do Consumidor.
+Tratando-se de complementação de aposentadoria, dispõe o regulamento do benefício que tal será calculado conforme a aposentadoria dita oficial. 
+A princípio, a aposentadoria visa propiciar ao beneficiário o mesmo padrão de vida que mantinha enquanto na ativa ou, em outros termos, manter seu poder aquisitivo. 
+Não confunde a pretensão do autor com aquela decorrente dos expurgos inflacionários por conta dos conhecidos planos econômicos.
+O art. 42 da LF n° 6.435/77 estabeleceu no inciso IV a obrigatoriedade do regulamento dos planos de previdência privada indicar o valor de resgate das contribuições saldadas e a norma de cálculo em caso de retirada do participante; o art. 31 § 2o do DF n° 81.240/78, que a regulamentou, reconheceu o direito do participante que se retira à restituição das contribuições pessoais vertidas, corrigidas segundo as normas estabelecidas no próprio plano (redação dada pelo DF n° 2.111/96).
+O benefício do autor se deu na forma do regulamento do plano ? RP 40/80, em 1980. 
+Após a aprovação do regulamento, o país passou por sucessivos planos econômicos: Cruzado I e II, o Bresser I e II, o Verão, Collor I e II, todos eles trazendo alterações na forma de cálculo da correção monetária oficial, com extinção e criação de índices.  
+As entidades de previdência privada passaram a adotar os índices que vieram em substituição: a ORTN até fevereiro de 1986, a OTN de março de 1986 a janeiro de 1989, o BTN de fevereiro de 1989 a fevereiro de 1991 e a TR a partir de março de 1991. 
+O Regulamento aprovado previu que os valores a resgatar seriam corrigidos com base na Taxa Referencial - TR ou outro que a substitua, até o mês da restituição. 
+Esses, portanto, foi o índice utilizado no caso do autor a partir de então. 
+Os planos econômicos alteraram a metodologia do cálculo da inflação visando à rápida queda dos índices; criou-se então uma distinção entre a inflação medida pelos indicadores autônomos e aquela medida pelos indicadores instituídos pelo governo. Eram índices que mascaravam a inflação real. Tais índices passaram a ser denominados de índices expurgados, com duas características próprias: (i) eram parte integrante dos denominados planos econômicos e (ii) provocavam, pela alteração da forma de cálculo, o divórcio entre a inflação real e a inflação por eles indicadas. 
+Ante o dano que tais expurgos causavam ao cumprimento dos contratos e das decisões judiciais, pacificou-se em juízo que, em substituição aos índices expurgados, deviam ser utilizados outros que refletissem a inflação real; acabou-se por aplicar o IPC ou o INPC do IBGE. A jurisprudência não determinou que se utilizasse em cada mês o de valor maior dentre os diversos índices existentes; indicou apenas um deles, de aceitação geral, que no senso comum refletia adequadamente a variação de preços. É importante repetir: não há precedentes dessa ocasião determinando a substituição de índices previstos em lei ou no contrato, salvo na hipótese dos índices expurgados. 
+O exame dos acórdãos do Superior Tribunal de Justiça que levaram à edição da Súmula STJ n° 259 segue essa regra: fazem menção aos meses e aos índices em que houve expurgo, deixando claro que deve ser aplicado o índice previsto no regulamento, nos demais. 
+Assim chegamos à TR, indicador financeiro que passou a ser utilizado como indexador de títulos públicos e privados e adotada como corretor da poupança e de diversos outros contratos. A TR configura um índice novo, não é controlado pelo governo e reflete a realidade econômica que visa a medir; continua a existir e está em uso.  
+Sua variação flutua ao longo do tempo, com variação para mais ou para menos conforme o período. Não atende aos dois requisitos acima indicados: não compõe um plano econômico (embora tenha origem no Plano Collor II) e não há divórcio sensível entre a inflação real e a inflação por ele medida (digo inflação por ele medida, pois a desvalorização é elemento relevante da taxa de juros). Não é um índice expurgado. 
+A TR é um índice como os demais, sem o vício de origem daqueles originalmente afastados pela jurisprudência, abstraído o juízo de valor de ser o melhor ou o mais adequado. 
+A LF n° 6.435/77 atribui ao regulamento a definição dos critérios de atualização dos valores vertidos, em caso de resgate; e a LCF n° 109/01 segue a mesma diretriz, ao dispor no art. 10, § Iº, I e II, que aos participantes será entregue certificado e cópia do regulamento indicando as características do plano de benefícios. 
+Acresce que a hipótese cuida de contrato de direito privado, que faz lei entre as partes, e que o art. 202 da Constituição Federal, o art. Iº da LCF n° 109/01, que dispõe sobre a previdência complementar e a LF n° 6.435/77 tomam especial cuidado com a manutenção de reservas que assegurem o pagamento dos benefícios ? diante do princípio do mutualismo, sempre visando o equilíbrio atuarial. 
+Por isso a jurisprudência sempre entendeu que os direitos e obrigações são regidos pelo regulamento do plano, inclusive, como já visto, a disciplina da atualização dos benefícios e dos valores a resgatar. Os tribunais interferiram nos planos unicamente na presença dos índices expurgados; mas não nas outras disposições, nem nos momentos de regularidade econômica. 
+Assim, afastada essa situação específica e que não ocorre desde 1991, não há razão para a interferência judicial no período iniciado em março de 1991; é um período de normalidade legal e econômica, em que prevalecem - como deve ser - as regras próprias de cada plano de benefícios. Em assim sendo, o autor não tem razão: a atualização dos valores vertidos foi feita conforme previsto no regulamento, que dimensiona os direitos e obrigações. 
+Deve-se respeitar o art. 42, V, § 2o, da Lei 6435/77, os princípios do pacta sunt servanda, da legalidade (art. 5o, II, CF), do ato jurídico perfeito e direito adquirido (art. 5o, XXXVI, CF, art. 6º da LICC). 
+Nos termos do art. 31 § 1º, e 32 da LCF n° 109/01 as entidades fechadas não podem ter fim lucrativo e têm por objeto tão só a administração e execução de planos de benefícios de natureza previdenciária. 
+Ao final do exercício, o superávit é destinado à constituição de reserva para garantia de benefícios (art. 20) e o déficit é distribuído entre os participantes; de modo que o superávit e o déficit beneficiam ou oneram os participantes, não a patrocinadora ou os administradores. Por esse motivo, o art. 35 § 1º assegura aos participantes e assistidos no mínimo um terço das vagas no Conselho Deliberativo e Fiscal. 
+Não é correto, portanto, afirmar que a instituição da TR no cálculo do valor a ser resgatado seja índice de exclusiva conveniência da ré, ou que vise a subtrair valores dos participantes (isto é, a causar-lhes prejuízo), ou implique em manipulação para resguardar exclusivamente os interesses da ré, como dito no acórdão transcrito. O regulamento foi aprovado pelos representantes dos participantes e dos assistidos e não visa a resguardar 'interesses da ré', pois nenhum ela tem; não lucra nem perde com a adoção de um índice ou de outro.  
+Quem lucra ou perde são os participantes: o descasamento atuarial da atualização do ativo e do passivo redundará em desbalanceamento do plano e em comprometimento das reservas, a base que dá saúde e longevidade ao plano de benefícios. 
+A lei atribui à própria entidade, em que os participantes e assistidos têm voz, a regulamentação do plano de benefícios. Não há justificativa para a intervenção judicial em época de normalidade, como é o caso dos autos; nem cabe ao juiz indicar o índice, dentre os diversos existentes, que deve reger os vários aspectos da relação contratual.  
+Trata-se o contrato entre as partes de ato jurídico perfeito, não viciado por qualquer das causas de anulação previstas no art. 147 do Código Civil então vigente, não deixa qualquer incerteza que pudesse haver quanto a obrigação entre as partes, não se admitindo a reabertura de sua discussão por um mero arrependimento ou por uma não determinada má compreensão das obrigações assumidas pelos contraentes, o que seria verdadeiro contrassenso, gerando a incerteza jurídica, violando a força obrigatória dos contratos, mal que infelizmente assola este país.
+Importante, observar, ademais, que não se confunde o patrocinador, com a ré. Não sendo esta a seara adequada para discutir eventuais questões de natureza trabalhista.
+Ademais, ressalto que ?reserva de poupança? em previdência privada sempre teve normas de regência própria (Lei 6.435/77, art. 42; Dec. 81.240/78, art. 31), que, de fato, não se confundem com as de "caderneta de poupança" ou similar. Esta rende juros e protege contra inflação, mas aquela não rende juros e não é sempre que protege contra a inflação (dado o risco que há nos investimentos dos fundos).
+Mesmo depois, com a Lei Complementar n. 109/2001, não se pode afirmar que a situação seja diversa, pois essa lei preserva as condições do custeio dos planos da entidade no molde da avaliação atuarial, sempre se reportando a critérios técnicos de preservação do equilíbrio financeiro e atuarial, de atendimento das peculiaridades de cada plano, de apresentação do cálculo atuarial em nota técnica ou equivalente. 
+Em princípio, no cálculo de correção monetária, sabe-se que devem prevalecer os índices oficiais (para o período em que não se admite à iniciativa privada a eleição de algum índice) e os índices eleitos pelas normas internas do próprio negócio (para os períodos em que a lei faculta as partes contratantes a eleição do índice de atualização). Todavia, no caso, há situação peculiar, pois se cuida de plano de previdência privada, com pagamento retroativo, descabida a correção monetária na forma pleiteada, vez que não vinculada ao salário ou ao benefício do autor. 
+Ante o exposto, e acolhendo formalmente a bem lançada defesa também como razão de decidir, JULGO IMPROCEDENTE o pedido e CONDENO o autor ao pagamento das despesas processuais, sendo os honorários advocatícios fixados em R$ 2.000,00 (art. 20, § 4º, CPC).
+
+
+São Paulo, 18 de setembro de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

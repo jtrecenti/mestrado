@@ -1,0 +1,61 @@
+
+
+SENTENÇA
+
+Processo Físico nº:0005456-65.2013.8.26.0004
+Classe - AssuntoProcedimento Ordinário - Indenização por Dano Material
+Requerente:Serdomolde Indústria e Comércio de Artefatos Plásticos Ltda.
+Requerido:Golive Business Comercio e Serviços de Informatica Ltda - Epp e outro
+
+
+
+
+Juiz(a) de Direito: Dr(a). Julio Cesar Silva de Mendonça Franco
+
+
+
+
+V I S T O S, etc.
+
+
+
+
+I. SERDOMOLDE INDÚSTRIA E COMÉRCIO DE ARTEFATOS PLÁSTICOS LTDA. moveu a presente ação de rescisão de contrato c.c. devolução de quantias pagas e indenização por danos materiais e morais, pelo rito ordinário, em face de GOLIVE BUSINESS COMÉRCIO E SERVIÇOS DE INFORMÁTICA LTDA.-EPP e APT ? REPRESETNTAÇÃO EM INFORMÁTICA E COMÉRCIO LTDA.-ME, alegando, em resumo, que firmou com a primeira requerida um contrato de prestação de serviços para adesão ao software de gestão empresarial denominado ?Sistema Simple Versão Light nº 00005/2010?, em 20/09/2010, pelo qual a mesma se comprometeu a finalizar os serviços em onze (11) semanas. Disse que a segunda ré é representante autônoma da primeira ré, e que atuou como prestadora de serviços e implantadora do sistema. Ocorre que, apesar de implantado e atualizado com os dados da empresa autora, o sistema não funcionou corretamente e apresentou defeitos, deixando de atender à proposta apresentada pela primeira ré. Alega que tentou a solução amigável da pendenga, sem sucesso, o que também gerou gastos na ordem de R$ 784,72. Disse que a atitude das rés lhe causou danos morais. Requer a rescisão do contrato, a devolução da quantia paga (R$ 14.176,22) e a condenação das requeridas no pagamento de danos morais. 
+Devidamente citada (fls. 218), a requerida Golive Business deixou transcorrer ?in albis? o prazo legal, sem oferecer resposta, tornando-se revel.
+Regularmente citada (fls. 219), a requerida APT ? Representação em Informática e Comércio Ltda. apresentou contestação (fls. 232/250). Em preliminar, alegou sua própria ilegitimidade passiva ?ad causam?, porque não teria contratado com a autora, nem se responsabilizado pelo correto funcionamento do software, mas que seria apenas a implantadora deste último. No mérito, disse que prestou o serviço de implantação do ?software?, mas que não pôde terminá-lo, por culpa exclusiva da primeira ré (Golive Business), a qual não finalizou o sistema para uso da autora. Afirma que não sabia da ausência de finalização do sistema, e que informou à ré Golive Business os erros do sistema, mas a requerida não tomou nenhuma providência. Disse que a finalização do sistema, com suas informações essenciais (códigos-fonte) são de responsabilidade exclusiva da ré Golive Business. Sustentou a inexistência de dano moral indenizável.
+Houve réplica (fls. 409/422).
+A audiência de conciliação designada resultou infrutífera (fls. 411).
+Determinada a especificação de provas (fls. 424), a autora requereu a produção de provas oral e pericial (fls. 426/428), e a ré APT pugnou pela realização de provas orais (fls. 431/432).
+A audiência de tentativa de conciliação resultou infrutífera (fls. 439).
+Em apenso, constam os autos da exceção de incompetência sob nº 0012203-31.2013.8.26.0004), arguída pela requerida APT, a qual foi rejeitada por meio da decisão de fls. 39 daquele caderno processual.
+É o breve relatório.
+DECIDO.
+II. A ação é parcialmente procedente.
+Antes de qualquer coisa, temos que a matéria objeto de toda discussão está a dispensar a ampliação do leque instrutório, o que viabiliza o seu pronto julgamento.
+A preliminar de ilegitimidade passiva da corré APT ? Representação em Informática Ltda.-ME não merece acolhimento. A ré não nega que prestou serviço de implantação do sistema gerencial à autora, em decorrência do contrato entabulado entre a autora e a corré Golive Business (fls. 43/62). Aliás, os documentos de fls. 63/66 evidenciam sobremaneira a parceria existente entre as rés para a consecução do contrato.
+Logo, a ré é parte legítima, pois a alegação é de vício na prestação do serviço, com base no Código de Defesa do Consumidor. É o que basta. Se a ré é, ou não, responsável pelo evento narrado, isto é matéria de mérito, o qual será oportunamente apreciado.
+Portanto, rejeito a preliminar e passo ao exame do ?meritum causae?.
+Através da peça vestibular, a autora deu conta de que o ?sofware? contratado para gerenciar sua atividade empresarial não funcionou conforme o contratado, causando diversos problemas e transtornos no serviço diário, e que o defeito (vício) não foi resolvido pelas rés, apesar das diversas reclamações e do decurso do prazo avençado para a sua finalização (onze semanas).  
+Sobre o assunto, a requerida APT negou qualquer responsabilidade, alegando que assumiu apenas e tão somente a implantação do sistema, mas que não poderia finalizá-lo, já que isto dependia da disponibilização efetiva do ?software? pela proprietária do mesmo, a ré Golive Business. A requerida Golive Business é revel.
+Assim, restaram incontroversas, por ausência de impugnação específica, a contratação e a implantação do ?software? de gerenciamento, bem como o preço e os pagamentos efetivados pela autora, conforme informado na inicial.  
+Restou incontroverso, também, a existência do vício no serviço apontado pela autora em sua peça inicial, haja vista que a própria requerida admitiu a sua existência, bem como o fato de que tais problemas (erros) impediam o normal funcionamento e desenvolvimento do ?sofware? (fls. 234/236). 
+Não há dúvida de que a relação aqui discutida é de consumo. A autora é consumidora final dos serviços prestados pelas requeridas-fornecedoras. Estas respondem objetivamente pelos danos causados à autora-consumidora em razão do vício ou defeito do serviço prestado (artigo 14 do CDC). Além disso, no caso de vício do serviço, o consumidor ambém pode pedir a restituição imediata da quantia paga, monetariamente atualizada, sem prejuízo de eventuais perdas e danos (artigo 20, II, do CDC).
+Ora, já se concluiu que o serviço prestado não atendeu à proposta realizada pela requerida contratante, e que contém vício de qualidade que o torna impróprio ao fim a que se destina. Ademais, também não pode a requerida APT invocar culpa exclusiva da ré Golive Business, pois ela é fornecedora solidária dos serviços prestados à autora.
+Nesse ponto, cabe salientar que fornecedor é quem desenvolve atividades de produção, montagem, criação, construção, transformação, importação, exportação, distribuição ou comercialização de produtos ou prestação de serviços (artigo 3º, ?caput?, do CDC), e que, na cadeia de consumo, todos os fornecedores são solidariamente responsáveis pelo fato do produto ou serviço ou pelo vício de qualidade que os torne impróprios para o uso a que se destinam (artigos 7º, parágrafo único, 12, 14, 20 e 25, §§ 1º e 2º do CDC).
+Por isso, não poderia a requerida APT elidir sua responsabilidade, argumentando simplesmente que cumpriu a sua obrigação de implantar o sistema, mas que o mesmo não funcionou por culpa da Golive Business. Ora, o fato é que o sistema não funcionou corretamente. Logo, esse tipo de argumento deve ser utilizado regressivamente contra a outra requerida, pouco importando à autora-consumidora se o mau-funcionamento se deu por culpa da APT ou da Golive Business.
+  Em conclusão, houve inexecução da obrigação, razão pela qual o contrato deve ser rescindido, voltando as partes ao seu ?status quo ante?. Assim, as requeridas deverão restituir à autora todas as quantias pagas por conta do contrato, e que, segundo a autora, alcançaram o montante de R$ 14.176,22. Esse valor deverá ser acrescido de juros de mora de 1% (um por cento) ao mês e correção monetária pela Tabela Prática do E. TJSP, desde o desembolso.
+A multa moratória, porém, não é devida, pois não há previsão no contrato da sua incidência em favor da parte contratante. 
+O gasto da autora com a notificação das rés está comprovada a fls. 87/88 (R$ 162,72). 
+A autora disse que teve gastos com a contratação de advogado, porém, não comprovou documentalmente tais gastos. Ora, a prova é documental, por meio da exibição dos respectivos recibos de pagamento. Isto não ocorreu.
+Além disso, simples contrato de honorários não prova o pagamento (fls. 89/90). Tratando-se de matéria de direito, a prova é da autora, e não se torna incontroversa, nem mesmo pela revelia, cujos efeitos são relativos (apenas matéria de fato).
+Também não me convenço da existência de dano moral à autora. É pacífico o entendimento de que pessoas jurídicas podem sofrer dano moral indenizável, quando comprovado prejuízo à sua honra objetiva. É que pessoas jurídicas não sentem dor, não sofrem angústias e outros sentimentos próprios do ser humano. Ou seja, não têm honra subjetiva.
+Consequentemente, é indenizável somente a honra objetiva, ou seja, os atributos relativos à credibilidade, à boa reputação e ao bom nome comercial da pessoa jurídica na sociedade e no mercado. Ausente conduta danosa a esses atributos, que são de cunho estritamente econômico, não há que se falar em dano moral. 
+No caso dos autos, bem se vê que a Autora não sofreu dano moral algum, mas meros transtornos administrativos, em decorrência do descumprimento do contrato, o que leva à improcedência do pedido indenitário correspondente.
+
+III. Posto isto, JULGO PROCEDENTE, EM PARTE, a presente ação de rescisão de contrato c.c. devolução de quantias pagas e indenização por danos materiais e morais movimentada por SERDOMOLDE INDÚSTRIA E COMÉRCIO DE ARTEFATOS PLÁSTICOS LTDA. em face de GOLIVE BUSINESS COMÉRCIO E SERVIÇOS DE INFORMÁTICA LTDA.-EPP e APT ? REPRESETNTAÇÃO EM INFORMÁTICA E COMÉRCIO LTDA.-ME, para rescindir o contrato entabulado entre as partes (fls. 43/62) e para condenar as rés solidariamente à restituição das quantias pagas pela autora, no montante de R$ 14.176,22 (quatorze mil e cento e setenta e seis reais e vinte e dois centavos), com correção monetária pela Tabela Prática do E. TJSP, a partir da data do desembolso, e juros de mora de 1% (um por cento) ao mês, desde a data da notificação de fls. 83/86.
+Outrossim, condeno as requeridas solidariamente ao pagamento da quantia de R$ 162,72 (cento e sessenta e dois reais e setenta e dois centavos), a título de indenização por danos materiais, com correção monetária pela Tabela Prática do E. TJSP, desde o desembolso, e juros de mora de 1% (um por cento) ao mês, desde a citação. 
+Sucumbentes em maior extensão, as requeridas arcarão com o pagamento integral das custas, dos emolumentos, das despesas processuais e dos honorários advocatícios da advogada da autora, que ora arbitro em 10% (dez por cento) sobre o montante total da condenação.
+P.R.I.C.
+São Paulo, 24 de março de 2014.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

@@ -1,0 +1,67 @@
+
+
+SENTENÇA
+
+Processo nº:0024092-72.2010.8.26.0008
+Classe - AssuntoProcedimento Ordinário - Prestação de Serviços
+Requerente:Waled Incorporadora Ltda
+Requerido:Serasa S.A.
+
+Juiz(a) de Direito: Dr(a). Durval Augusto Rezende Filho
+
+
+Vistos.
+
+
+I ? 
+
+
+Trata-se de ação declaratória ajuizada por WALED INCORPORADORA LTDA. em face de SERASA S.A., ambas qualificadas nos autos.
+
+Alega a autora, em síntese, que mantém com a ré um contrato de prestação de serviços de informações, e que em regra paga por uma média de cinqüenta consultas quantia em torno de R$ 500,00, mas que em dezembro recebeu quatro faturas, relativas a novecentas consultas, num total de R$ 3.777,25, o que a seu ver é fruto de fraude.
+Aduz que o sistema de segurança da senha é deficiente, e pede a procedência da ação, com a anulação das faturas, condenando-se a ré nas verbas de sucumbência. Com a inicial vieram documentos.
+
+A fls. 192 foi concedida liminar para, mediante caução, suspender a exigibilidade do crédito em questão.
+     
+Em sua contestação de fls. 207/219, a ré argumenta, resumidamente, que:- não se aplica o CDC ao caso em questão; a relação entre as partes é de natureza contratual; mediante o contratado, a autora poderia usar a base de dados da ré, a partir de contas-logon, utilizando-se de senhas exclusivas e automatizadas; é da responsabilidade da autora a guarda e não divulgação da senha; a ré desconhece as senhas dos clientes, sendo que em caso de perda é preciso reiniciar o sistema de recadastramento; se houve utilização indevida, a responsabilidade disso é da autora; a ré cumpriu sua parte no contrato. Pede a improcedência do contrato. Juntou documentos.
+
+Réplica a fls.  280/281.
+Houve manifestação sobre provas.
+Não houve conciliação em audiência.
+Vieram então os autos a conclusão para as determinações de direito.
+É o relatório.
+
+II ? 
+
+Fundamento e decido.
+
+Conheço diretamente da ação, visto que a matéria em questão é de direito de modo a desnecessitar da produção de novas provas.
+Há contrato de prestação de serviços celebrado entre as partes. Não há controvérsia nisso.
+A prestação de serviços é feita pela ré com a solicitação destes mediante acesso pela autora a base de dados da ré, por meio de utilização de internet e senha. Também não há controvérsia nisso.
+Contudo, nesta ação a autora questiona a regularidade dos faturamentos apontados na inicial, os quais a seu ver decorrem de fraude, já que as consultas faturadas são muito superiores a sua média mensal padrão.
+No hipótese em questão há uma relação de consumo, visto que a autora é a destinatária final dos serviços prestados, ou seja, das informações prestadas a autora. 
+Ora, a autora noticia que tinha um faturamento médio de cinqüenta consultas por mês e no mês de novembro isso se eleva inexplicavelmente para cerca de novecentas consultas. A ré não contestou tais números.
+Tem-se claro, pois, um pico de consultas que não se mostra razoável, e a ré na defesa de sua posição afirma que isso é de responsabilidade da autora, que detém a senha para a realização das consultas.
+Ora, é sabido que nos dias de hoje todo serviço prestado com o uso de meios eletrônicos está sujeito a fraudes cada vez mais sofisticadas, a exigir da prestadora de serviços fiscalização constante e grande empenho para proteção do consumidor e do próprio serviço prestado.
+A experiência tem mostrado que é cada vez mais comum que terceiros fraudulentamente obtenham senhas e ilicitamente se façam passar por outrem, a exigir um postura de fiscalização mais rígida da ré.
+A partir de um determinado número de consultas acima da média mensal era possível a ré contatar a autora para saber se era ela mesma quem estava se utilizando dos serviços. Aliás, algumas empresas de cartão de crédito já tem agido assim, e até mesmo informando ao cliente por e-mail ou sms cada compra que é feita com seu cartão.
+Assim, no entender do magistrado, diante da negativa da autora quanto a utilização do serviço, do quanto acima ponderado, e do desinteresse da ré em demonstrar que isso de fato ocorreu (apesar de intimada para isso não especificou nenhuma nova prova a produzir), entende o magistrado que o serviço se mostrou defeituoso, por não fornecer a segurança que o consumidor dele esperava (art. 14, §  1o, do CDC), de modo que a fraude está evidenciada.
+Nesse sentido é a jurisprudência:- 
+
+a-) Contrato de conta poupança Transferência fraudulenta Ação de reparação civil julgada improcedente Apelação do poupador firme nas teses de que (1) jamais pediu auxílio à pessoa que não aos funcionários do banco-réu, identificados através de crachá; (2) a Justiça não admite julgamento por suposição e o banco-réu não comprovou que o poupador se socorreu de terceiros estranhos ao quadro de funcionários; (3) é absurda a conclusão de que deixara sua senha cair em mãos erradas, visto que os estabelecimentos bancários são responsáveis pela segurança de seus clientes; e, (4) o banco é responsável pelo fato ocorrido Acolhimento Aplicação do CDC aos contratos bancários conforme a Súmula 297, do Col. STJ Incidência do art. 6º, inciso VIII, e art. 42, parágrafo único, ambos do CDC Inversão do ônus da prova decretada Banco que tinha o dever de produzir a prova de que a operação foi praticada pelo poupador Reparação devida Sucumbência a cargo do banco Recurso provido. Não basta o banco alegar que o seu sistema eletrônico de movimentação é seguro; deve prová-lo. (Apelação n. 9209352-64.2008.8.26.0000;Relator Des. Moura Ribeiro; Comarca de Campinas; 11ª Câmara de Direito Privado; Data do julgamento: 24/11/2011. Grifei. Disponível no site do tjsp.jus.br).
+
+b-) DECLARATÓRIA - Operações bancárias realizadas via internet - Operações não reconhecidas pelo autor - Ilegitimidade passiva ad causam ? Defesa do banco pautada em refutar sua responsabilidade pelas operações indevidas, afirmando que os prejuízos decorrem de ato exclusivo de seu correntista - Preliminar afastada - Casa bancária que não conseguiu desincumbir-se de seu dever de demonstrar ter o autor contribuído de qualquer modo para o resultado - Fraudes eletrônicas realizada por terceiros que são cada vez mais constantes e decorrem da negligência das instituições financeiras nos meios de segurança, notadamente a falta de constante fiscalização - Responsabilidade da casa bancária por operações indevidas na conta do consumidor, com obrigação de ressarcir o dano causado - Dano moral decorrente da falha do serviço - Intenso estado de angústia e insegurança ? Indenização fixada em primeiro grau em cem salários mínimos - Redução - Possibilidade - Valor agora adequado ao caso concreto para o equivalente a vinte salários mínimos respeitado os critérios de razoabilidade e pertinência com a discussão da causa - Fixação que não é inconstitucional ? Recurso provido parcialmente. (Apelação n. 9194594-46.2009.8.26.0000; Relator Des. Ricardo Negrão; Comarca de São Paulo; 19ª Câmara de Direito Privado; Data do julgamento: 04/10/2011. Grifei. Disponível no site do tjsp.jus.br.
+
+c-) RESPONSABILIDADE CIVIL Pretensão dos clientes à restituição dos valores transferidos por fraude da conta corrente e de aplicação Possibilidade Não obstante o dever de guarda do cartão e senha, o banco concorreu com culpa no evento Risco das novas tecnologias é da instituição financeira Obrigação de adotar mecanismos de proteção à conta contra alteração abrupta e substancial da rotina na movimentação Causa excludente não verificada Recurso não provido. (Apelação n. 0602212-58.2008.8.26.0003 Relator Des. Rubens Cury; Comarca de São Paulo; 18ª Câmara de Direito Privado; Data do julgamento: 09/11/2011. Grifei. Disponível no site do tjsp.jus.br).
+
+Diante de tal quadro está convencido o magistrado de que em face da fraude ocorrida, e da qual ambas as partes foram vítimas, os quatro faturamentos em questão (vide fls. 05 e 56/59) devem se cancelados, visto que são nulos por vicio de origem. Consequentemente, à evidência, a autora não deve a ré os valores constantes dos ditos faturamentos.
+
+Ante o exposto, torno definitiva a liminar concedida e julgo procedente a ação, para declarar nulos os faturamentos em questão.
+Por força da sucumbência, suportará a ré o pagamento das custas e despesas processuais, e honorários advocatícios que fixo em R$ 1.700,00 (um mil e setecentos reais), com base no artigo 20, § 4o, do CPC. 
+
+P.R.I.
+
+São Paulo, 29 de novembro de 2011
+
+Durval Augusto Rezende Filho
+             juiz de direito

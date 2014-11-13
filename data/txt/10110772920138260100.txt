@@ -1,0 +1,62 @@
+
+
+SENTENÇA
+
+Processo nº:1011077-29.2013.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Obrigação de Fazer / Não Fazer
+Requerente:Marcio Socorro Pollet
+Requerido:GOOGLE BRASIL INTERNET LTDA - Google São Paulo/SP
+
+
+
+
+Juiz(a) de Direito: Dr(a). Rogério Marrone de Castro Sampaio
+
+
+Vistos.
+
+
+MARCIO S. POLLET ajuizou ação condenatória ao cumprimento de obrigação de fazer contra GOOGLE BRASIL INTERNET LTDA.. Sustenta, em síntese, que a ré mantem em seu site de pesquisa links de outros domínios de internet que divulgam o nome do autor vinculado a fatos delituosos e a pessoas, prejudicando sua imagem perante a sociedade. Com fundamento no direito à imagem, pede a condenação da ré à obrigação de fazer consistente em retirar seu sistema de busca ou pesquisa os sites que divulgam as notícias reputadas ofensivas à sua honra.
+ 
+Com a petição inicial juntou documentos (fls. 19/77).
+
+Indeferido, fundamentadamente, o pedido de antecipação de tutela (fls. 78/79), o autor emendou a petição inicial reiterando seu pedido liminar (fls. 81/84). Mantida a decisão, foi determinada a citação da ré (fls. 85). .
+
+A ré, citada, ofereceu contestação (fls. 120/144). Preliminarmente, arguiu ausência de interesse de agir. No mérito, repetiu o argumento preliminar, acrescentando não possui ingerência sobre o conteúdo dos sites indicados pelo autor, limitando-se, apenas, a oferecer o sistema de pesquisa. Ressaltou, inclusive, que não tem meios de remover o conteúdo neles hospedados. Afirmou que, se teve o autor dano, este deve ser atribuído a conduta de terceiro. 
+
+Ofereceu o autor réplica (fls. 172/177). 
+
+É o relatório.
+
+Decido.
+
+O caso comporta julgamento antecipado da lide, nos termos do artigo 330, I, do Código de Processo Civil. Trata-se de matéria de direito e de fato, sendo suficiente a prova documental já produzida. Importante ressaltar, quanto a esse aspecto, que as próprias partes demonstraram desinteresse na produção de outras provas.
+
+Em princípio, é preciso delimitar o objeto da presente demanda. A pretensão do autor está restrita à imposição de obrigação de fazer tendente à retirada do sistema de busca ou de pesquisa oferecido pela ré de sites divulgadores de atos supostamente ofensivos a sua honra. 
+
+Com tal premissa, rejeita-se a preliminar suscitada em contestação.  Em tese, é evidente a pertinência subjetiva da ré para figurar no pólo passivo da ação, na medida em que é responsável pelo serviço de pesquisa e busca de informações junto à rede mundial de computadores. E, nessa condição, é destinatária da obrigação de fazer objeto da pretensão deduzida pelo autor. 
+
+Quanto ao mérito, a ação é improcedente. 
+
+De fato, demonstrou o autor a divulgação, em sites vinculados à internet e devidamente discriminados quando da emenda à petição inicial (fls. 81/84), de notícias em tese ofensivas à sua honra, vinculando-o a determinado esquema de corrupção. 
+
+No entanto, a atuação da ré, frise-se, como simples prestadora de serviços de busca ou de pesquisa, não atenta, sequer indiretamente, contra a honra ou imagem do autor, de modo a embasar a tutela cominatória pretendida inicialmente. Como bem destacado no processo, os sites devidamente identificados e que noticiam os fatos em tese reprováveis, permanecerão em plena atividade, mesmo que retirados do sistema de pesquisa elaborado pela ré. Importante o registro de que os usuários têm, inclusive, outros mecanismos de busca, além do acesso direto aos respectivos domínios. 
+
+Em suma, não há porque restringir a atividade da ré neste caso, já que, repita-se, apenas facilita aos usuários o acesso às informações distribuídas pelos inúmeros atores do mundo virtual. Deve, portanto, prevalecer o direito à informação.
+
+Seguindo esta orientação, vale destacar o seguinte precedente do Superior Tribunal de Justiça:
+
+CIVIL E CONSUMIDOR. INTERNET. RELAÇÃO DE CONSUMO. INCIDÊNCIA DO CDC. GRATUIDADE DO SERVIÇO. INDIFERENÇA. PROVEDOR DE PESQUISA. FILTRAGEM PRÉVIA DAS BUSCAS. DESNECESSIDADE. RESTRIÇÃO DOS RESULTADOS. NÃO-CABIMENTO. CONTEÚDO PÚBLICO. DIREITO À INFORMAÇÃO. 1. A exploração comercial da Internet sujeita as relações de consumo daí advindas à Lei nº 8.078/90. 2. O fato de o serviço prestado pelo provedor de serviço de Internet ser gratuito não desvirtua a relação de consumo, pois o termo "mediante remuneração", contido no art. 3º, § 2º, do CDC, deve ser interpretado de forma ampla, de modo a incluir o ganho indireto do fornecedor. 3. O provedor de pesquisa é uma espécie do gênero provedor de conteúdo, pois não inclui, hospeda, organiza ou de qualquer outra forma gerencia as páginas virtuais indicadas nos resultados disponibilizados, se limitando a indicar links onde podem ser encontrados os termos ou expressões de busca fornecidos pelo próprio usuário. 4. A filtragem do conteúdo das pesquisas feitas por cada usuário não constitui atividade intrínseca ao serviço prestado pelos provedores de pesquisa, de modo que não se pode reputar defeituoso, nos termos do art. 14 do CDC, o site que não exerce esse controle sobre os resultados das buscas. 5. Os provedores de pesquisa realizam suas buscas dentro de um universo virtual, cujo acesso é público e irrestrito, ou seja, seu papel se restringe à identificação de páginas na web onde determinado dado ou informação, ainda que ilícito, estão sendo livremente veiculados. Dessa forma, ainda que seus mecanismos de busca facilitem o acesso e a consequente divulgação de páginas cujo conteúdo seja potencialmente ilegal, fato é que essas páginas são públicas e compõem a rede mundial de computadores e, por isso, aparecem no resultado dos sites de pesquisa. 6. Os provedores de pesquisa não podem ser obrigados a eliminar do seu sistema os resultados derivados da busca de determinado termo ou expressão, tampouco os resultados que apontem para uma foto ou texto específico, independentemente da indicação do URL da página onde este estiver inserido. 7. Não se pode, sob o pretexto de dificultar a propagação de conteúdo ilícito ou ofensivo na web, reprimir o direito da coletividade à informação. Sopesados os direitos envolvidos e o risco potencial de violação de cada um deles, o fiel da balança deve pender para a garantia da liberdade de informação assegurada pelo art. 220, § 1º, da CF/88, sobretudo considerando que a Internet representa, hoje, importante veículo de comunicação social de massa. 8. Preenchidos os requisitos indispensáveis à exclusão, da web, de uma determinada página virtual, sob a alegação de veicular conteúdo ilícito ou ofensivo - notadamente a identificação do URL dessa página - a vítima carecerá de interesse de agir contra o provedor de pesquisa, por absoluta falta de utilidade da jurisdição. Se a vítima identificou, via URL, o autor do ato ilícito, não tem motivo para demandar contra aquele que apenas facilita o acesso a esse ato que, até então, se encontra publicamente disponível na rede para divulgação. 9. Recurso especial provido. (STJ REsp 1316921/RJ RECURSO ESPECIAL 2011/0307909-6 ? Rel. Ministra NANCY ANDRIGHI).
+
+É o que basta para a rejeição do pedido deduzido pelo autor. 
+
+Ante o exposto e de tudo mais que dos autos consta, JULGO IMPROCENTE A AÇÃO. 
+
+Diante da sucumbência, arcará o autor com as custas judiciais e despesas processuais, bem como com honorários advocatícios que arbitro, nos termos do artigo 20, § 4º, do CPC, em 15% do valor da causa, apenas atualizado. 
+
+P.R.I.C.
+
+
+São Paulo, 25 de julho de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

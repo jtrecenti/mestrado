@@ -1,0 +1,68 @@
+
+
+SENTENÇA
+
+Processo nº:0009103-74.2013.8.26.0002
+Classe - AssuntoProcedimento Ordinário - Defeito, nulidade ou anulação
+Requerente:Soelington Holanda Ramalho
+Requerido:Banco Carrefour S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Antonio Carlos Santoro Filho
+
+Vistos.
+
+Trata-se de ação declaratória de inexigibilidade de débitos c.c. pedido de indenização por danos morais ajuizada por SOELINGTON HOLANDA RAMALHO em face de BANCO CARREFOUR S.A. 
+Alega o autor, em síntese, que no dia 10 de fevereiro de 2012 constatou o extravio de seu cartão de crédito administrado pela ré. De imediato tentou bloquear o cartão por telefone, mas não logrou êxito, o que somente foi obtido mediante o seu comparecimento pessoal à agência, no dia 15. Ocorre que, no período de 11 a 15 de fevereiro, foram realizadas inúmeras compras fraudulentas com o cartão, discriminadas a fls. 03/04. Contatado o réu, este não tomou qualquer providência para solucionar o infortúnio e ainda lançou o nome do autor em cadastros de inadimplentes. Requer, por tais fundamentos, sejam declarados inexigíveis os débitos e condenado o réu ao pagamento de indenização pelos danos morais causados. 
+A tutela antecipada foi deferida (fls. 71).
+Citado, o réu ofertou a resposta de fls. 84/89, na qual sustentou que o extravio do cartão  somente se deu em razão de descuido do autor, não podendo ser imputado à instituição financeira; que não perpetrou qualquer ato ilícito; que a culpa pelo evento é exclusiva do autor ou de terceiro não identificado; que não há dano moral indenizável. Requer, por tais fundamentos, a improcedência da demanda. 
+Em réplica o autor reiterou as alegações iniciais. 
+É o relatório. 
+Decido. 
+Considerando que as questões controvertidas comportam apenas prova documental, já produzida, sendo desnecessária a produção de outras em audiência, passo ao conhecimento direto do pedido. 
+Sustenta o réu que o seu sistema de segurança é inviolável, o que afasta as pretensões deduzidas na inicial. 
+A versão defensiva, todavia, não merece acolhimento. 
+A uma porque o réu não trouxe aos autos qualquer documento apto a afastar os termos da contestação de fls.33, que, embora se trate de documento registrado a partir de declaração unilateral, não pode ser presumido como falso, pois, se assim o fosse, se estaria imputando ao autor, sem qualquer embasamento, a prática de falsidade ideológica. 
+A mesma conclusão cabe com relação ao BO de fls. 51/52, não se podendo presumir que tenha o autor incorrido no ilícito de falsa comunicação de crime. 
+A duas porque inviável se exigir do autor a prova de fato negativo, isto é, de que não realizou as operações impugnadas. 
+Assim, seja já pelo disposto no art. 333, do CPC, seja pela regra insculpida no art. 6º, inciso VIII, do Código de Defesa do Consumidor, na medida em que o autor é manifestamente hipossuficiente em relação ao réu, grande instituição financeira, caberia ao segundo demonstrar a infalibilidade de seus sistemas de segurança, e mais, que foi o autor, e não terceiro por ele não autorizado, o responsável pelas operações. 
+Nada disso, entretanto, fez o réu. 
+Com efeito, apesar de ter alegado na sua resposta, não demonstrou que as operações impugnadas eram constantemente realizadas pelo autor; não demonstrou em quais postos foram realizadas; não trouxe aos autos a filmagem das operações realizadas; não demonstrou, por fim, qualquer contribuição culposa do autor para o evento. 
+Registre-se que tais fatos comportariam apenas prova documental, não produzida. 
+Assim, considerando a absoluta ausência de provas a respeito da contribuição do autor para os fatos e, por outro lado, a responsabilidade objetiva do réu ? art. 14, do CDC -, impõe-se a procedência da demanda. Neste sentido tem se orientado parcela significativa da jurisprudência. A título de ilustração, em hipóteses semelhantes: 
+
+Direito processual civil. Ação de indenização. Saques sucessivos em conta corrente. Negativa de autoria do correntista. Inversão do ônus da prova. 
+- É plenamente viável a inversão do ônus da prova (art. 333, II do CPC) na ocorrência de saques indevidos de contas-correntes, competindo ao banco (réu da ação de indenização) o ônus de provar os fatos impeditivos, modificativos ou extintivos do direito do autor.
+- Incumbe ao banco demonstrar, por meios idôneos, a inexistência ou impossibilidade de fraude, tendo em vista a notoriedade do reconhecimento da possibilidade de violação do sistema eletrônico de saque por meio de cartão bancário e?ou senha.
+- Se foi o cliente que retirou o dinheiro, compete ao banco estar munido de instrumentos tecnológicos seguros para provar de forma inegável tal ocorrência.
+Recurso especial parcialmente conhecido, mas não provido. (REsp. n. 727.843/2005-SP ? Rel. Min. Nancy Andrighi).
+
+PROCESSO CIVIL. INVERSÃO DO ÔNUS DA PROVA. SAQUE INDEVIDO COM CARTÃO MAGNÉTICO. Correta a inversão do ônus da prova determinada pelo tribunal a quo porque o sistema de segurança do cartão magnético é vulnerável a fraudes. Agravo regimental não provido (REsp. n. 724.954/2005-RJ ? Rel. Min. Ari Pargendler)
+
+DANO MORAL ? Responsabilidade civil ? Banco ? Saque indevido em conta-corrente ? Cartão bancário ? Responsabilidade objetiva do fornecedor do serviço ? Valores restituídos ? Dano moral configurado ? Redução para montante adequado às peculiaridades do caso ? Recurso parcialmente provido (Apelação Cível n. 7.021.060-3 ? São Paulo - 22ª Câmara de Direito Privado ? Relator: Matheus Fontes ? 15.08.06 - V.U. - Voto n. 14592)
+
+
+RESPONSABILIDADE CIVIL - Cartão de crédito - Extravio - Compras feitas por terceira pessoa - Comunicação por parte da cliente, de forma rápida, sobre o extravio - Compras sequenciais no mesmo dia - Sentença que declara inexistência de responsabilidade da cliente - Hipótese em que a empresa de cartão de crédito, ao oferecer tecnologia de ponta, altamente sofisticada, para seus clientes, deve também tomar cuidados necessários para, se houver extravio ou furto de cartão, diminuir os riscos aos quais o cliente fica submetido - A ocorrência de compra seqüencial, por oito vezes, no mesmo dia, deveria despertar um sistema que, como já ocorre nos dias atuais, bloqueasse automaticamente o cartão - Ademais, se a própria empresa de cartão de crédito admite desídia da loja vendedora, que não teria conferido a documentação do comprador, não pode responsabilizar seu cliente, a compradora, que fez a comunicação do extravio tão logo percebeu tal fato - Decisão confirmada - Recurso não provido (Apelação Cível n. 916.293-0 - Comarca de Campinas - 24ª Câmara de Direito Privado - Relator: Manoel Justino Bezerra Filho - J. 05.09.2006 - V.U. - Voto n. 2395)
+
+CONTRATO ? Cartão de crédito ? Extravio ? Débito decorrente de compras efetuadas antes da comunicação do fato à administradora ? Responsabilidade do usuário determinada em cláusula do contrato ? Exame, todavia, das circunstâncias e à luz do Código de Proteção e Defesa do Consumidor, que afastam a responsabilidade do cliente pelo pagamento ? Artigo 51, IV e XV, do Código de Proteção e Defesa do Consumidor (Lei 8078/80) ? Agravo retido não conhecido, posto que não reiterado ? Apelação improvida.(Apelação nº 1.282.129-7 ? São Paulo ? 22ª Câmara de Direito Privado ? 19.09.06 ? Rel. Desembargador ROBERTO BEDAQUE ? vu. ? Voto 12494)
+
+RESPONSABILIDADE CIVIL - Cartão de crédito - Extravio ou furto - Ação de inexigibilidade de dívida - Apropriação por terceiros que com eles efetuaram compras - Aceitação imprudente, diante da evidente divergência de assinaturas - Utilização atípica, atingindo em um só dia o limite de crédito, discrepando do perfil usual do consumidor - Imprudência da administradora, que deverá arcar com os prejuízos - Aplicação das regras do Código de Defesa do Consumidor - Recurso provido para decretar a procedência da demanda (Apelação Cível n. 960.032-8 - Comarca de São Paulo - 13ª Câmara de Direito Privado - Relator: Ulisses do Valle Ramos - J. 21.03.2007 - V.U. - Voto n. 10.567)
+
+Logo, impõe-se a declaração de inexigibilidade dos débitos impugnados, bem discriminados a fls. 03/04 e, em consequência, a determinação de cancelamento da restrição de crédito lançada contra o autor, que deverá efetivar o pagamento do saldo remanescente diretamente à ré. 
+Com relação aos danos morais, também restaram caracterizados. 
+A uma porque a injusta privação do exercício de um direito e a acusação ? ainda que implícita ? de tentativa de obtenção de vantagem indevida por meios fraudulentos impõe angústia ao indivíduo e afeta a sua honra, o que merece compensação pecuniária. 
+A duas porque, por conta dos débitos indevidos, o autor teve  o seu nome, indevidamente, lançado em cadastro de inadimplentes ? fato incontroverso. O dano moral, conforme jurisprudência pacífica do STJ, em tais circunstâncias, decorre do próprio fato, independentemente de outras provas. 
+Considerando a capacidade econômica das partes, o grau do dano ? de razoável monta ? e a negativa do réu em solucionar o problema assim que comunicado do fato, entendo suficiente a tal compensação a fixação de indenização de R$ 10.000,00 (dez mil reais), que sofrerá correção monetária a partir desta data e juros de mora de 1% a.m. a partir da citação ? ilícito contratual. 
+Ante o exposto, JULGO PROCEDENTE a ação de indenização por danos materiais e morais ajuizada por SOELINGTON HOLANDA RAMALHO em face de BANCO CARREFOUR S.A. para os seguintes fins: 
+(a) DECLARAR INEXIGÍVEIS os débitos impugnados, bem discriminados a fls. 03/04 e, em consequência, determinar o cancelamento da restrição de crédito lançada contra o autor, tornando definitiva, assim, a tutela antecipada concedida. Oficie-se. O débito real, excluídos aqueles ora declarados inexigíveis, deverão ser pagos diretamente pelo autor à ré;
+(b) CONDENAR a ré a pagar ao autor indenização por danos morais no valor de R$ 10.000,00 (dez mil reais), que sofrerá correção monetária a partir desta data e juros de mora de 1% a.m. desde a citação; 
+(c)CONDENAR a ré ao pagamento das custas e honorários advocatícios, que arbitro em 10% do valor atualizado da condenação. 
+                Após o trânsito em julgado, aguarde-se em cartório por 20(vinte) dias. Nada mais sendo requerido, arquive-se. 
+P.R.I.C. 
+
+
+São Paulo, 09 de agosto de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

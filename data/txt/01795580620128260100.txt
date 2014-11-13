@@ -1,0 +1,112 @@
+
+
+SENTENÇA
+
+Processo nº:0179558-06.2012.8.26.0100
+Classe - AssuntoProcedimento Sumário - Obrigação de Fazer / Não Fazer
+Requerente:Unidas S.a.
+Requerido:Google Brasil Internet Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Márcio Roberto Alexandre
+
+VISTOS.
+UNIDAS S/A ajuizou a presente  AÇÃO DE OBRIGAÇÃO DE FAZER c.c. INDENIZAÇÃO POR DANOS MORAIS em face de GOOGLE BRASIL INTERNET LTDA. alegando, em síntese, que a empresa NOVINELA B.V é a atual detentora de uma série de marcas compostas a partir da expressão ?Unidas?, sendo que por meio de contrato de licença de uso de marcas e seus aditivos, celebrados entre a autora e a referida empresa, foi a ela concedida licença para uso das marcas ?Unidas? e ?Seminovos Unidas?; asseverou que utiliza a marca ?Unidas? em seu negócio, possuindo larga experiência e dotada de grande credibilidade no mercado nos três ramos de atividade que atua, quais sejam, terceirização de frotas, aluguel de carros e venda de seminovos; narrou que para sua surpresa, tomou conhecimento que o website HTTP://unidasseminovos.blogspot.com.br, cuja responsabilidade e administração cabem a seu provedor, o ora réu Google, divulga informações inverídicas e difamatórias contra ela e utiliza indevidamente a logomarca ?Unidas Seminovos? e o seu nome parcial de domínio ?seminovos?; afirmou que o criador do referido blog se aproveita do anonimato para denegrir e difamar a sua imagem; afirmou que jamais concedeu qualquer autorização para uso de sua marca, logomarca e de seu domínio pelo réu ou pelo criador do blog (de nome e IP desconhecidos), especialmente por se tratar de conteúdo difamatório, sem qualquer comprovação de veracidade; afirmou ter notificado o réu para que, no prazo de 24 horas a contar do rececimento da notificação, que ocorreu em 31/07/2012, excluísse da base do ?blogspot? o referido blog, pelos motivos acima anunciados, sob pena de adoção das medidas judiciais cabíveis; asseverou que diante da inércia da ré, não lhe restou outra alternativa senão o ajuizamento da presente demanda; disse que ainda que se admita que os provedores, como é o caso do réu, não exerçam controle ou fiscalização prévia sobre o conteúdo de suas inúmeras páginas, até mesmo com a finalidade de preservar o direito fundamental à liberdade de expressão de seus usuários, está consolidado na jurisprudência o entendimento de que, a partir do momento em que o provedor de internet toma conhecimento do ato ilícito praticado e persista no comportamento de  mantê-lo, é clara a sua responsabilidade pelo conteúdo negativo divulgado; pretende que a ré seja compelida a remover o referido blog; afirmou que em razão do ocorrido, experimentou danos morais indenizáveis; pugnou, assim, pela procedência dos pedidos iniciais, com a condenação da ré na obrigação de fazer, consistente em remover do blogspot do qual é provedor, o blog http://unidasseminovos.blogspot.com.br, bem assim no pagamento de quantia a ser arbitrada pelo Juízo, a título de indenização por danos morais, tendo formulado, ainda, pedido de antecipação dos efeitos da tutela, no sentido de que à ré seja liminarmente determinado o cumprimento da obrigação de fazer acima especificada, sob pena de incidência de multa diária.
+
+Por decisão proferida a fls. 87/89, o pleito antecipatório foi deferido.
+
+Regularmente citada, a ré apresentou defesa sob forma de contestação (fls. 164/203) na qual, após longamente discorrer acerca de suas atividades, suscitou preliminar de ilegitimidade passiva ?ad causam?, pois não pode ser responsabilizada por ato de terceiro; no mérito, afirmou que eventual remoção do blog mencionado na inicial violaria frontalmente o Estado Democrático de Direito e a Constituição Federal, na medida em que censura o direito à livre manifestação do pensamento e liberdade de expressão, não sendo viável, portanto, determinar-se sua exclusão; argumentou que eventual remoção somente seria lícita e devida, caso fosse constatado o abuso por parte dos usuários no exercício constitucional dos direitos à liberdade de expressão, opinião, crítica e informação, o que não ocorre na hipótese presente, que se limita a reclamações trazidas pelos usuários; afirmou que ao se fazer a necessária ponderação dos valores constitucionalmente tutelados em conflito, impõe-se reconhecer a impossibilidade de exclusão do aludido blog; defendeu a ausência de violação de marca e logotipo da autora, uma vez que o blog em comento tem por objetivo criticá-la, e não utilizar a sua logomarca para se fazer passar pela mesma; afirmou não ser responsável pela administração do site como alegado pela autora; disse que no caso em tela nem o criador do blog, nem o autor dos posts ou comentários em questão, procura confundir o consumidor ou a clientela do titular da marca, ou seja, apenas procura exercer o seu direito de crítica; afirmou não ter praticado ato ilícito, eis que o teor do blog denunciado é lícito, de maneira que, mesmo após ter sido notificada pela autora, não tinha a obrigação de removê-lo; afirmou que sua obrigação seria a de informar o número do IP do criador do blog e suposto praticante do ato ilícito, o que sequer foi pleiteado pela autora; defendeu a inaplicabilidade da teoria do risco à atividade que exerce; bate-se na inexistência de defeito na prestação de seus serviços; afirmou que o ato exclusivo de terceiro atua como causa excludente de sua responsabilidade; defendeu a inocorrência e ausência de comprovação dos propalados danos morais; afirmou que a multa aplicada se revelou exorbitante, o que impõe sua minoração; pugnou, assim, pela improcedência dos pedidos iniciais, caos não acolhida a preliminar argüida.
+
+Sobreveio réplica a fls. 224/237.
+  
+É O RELATÓRIO.
+
+DECIDO.
+
+Dispenso a designação de audiência preliminar, à luz da intensa litigiosidade instaurada com a apresentação da peça de defesa, donde não se vislumbra a possibilidade de as partes chegarem a uma solução conciliada ao litígio.
+
+Reputando despicienda a abertura de dilação probatória, julgo antecipadamente a lide.
+
+A preliminar de ilegitimidade passiva ?ad causam? sustentada pela ré, nos moldes em que propalada, guarda umbilical liame com o mérito da demanda, devendo com ele ser analisada, notadamente por se referir à responsabilidade imputada à ré pelo ocorrido.
+
+Superada tal questão, passo ao exame do ?meritum causae?.
+
+Consoante jurisprudência formada no âmbito do Superior Tribunal de Justiça, aos provedores de internet, como é o caso do réu, não pode ser atribuída a responsabilidade pela análise prévia dos conteúdos que nele são inseridos, eis que desta forma se tornariam verdadeiros órgãos de censura, não se olvidando que tal exame prévio, à luz das milhões de informações que neles são lançadas diariamente, simplesmente inviabilizaria o seu funcionamento, dada a impossibilidade de filtrar e analisar individualmente cada qual das milhões de informações, além do que não se trata de atividade inerente aos serviços que disponibiliza.
+
+Entrementes, sua responsabilidade desponta com evidência, a partir do momento em que, notificado pelo sedizente lesado acerca da hospedagem de conteúdo ilícito, se abstém de adotar as providências necessárias para a remoção do conteúdo havido por ofensivo.
+
+Nesse sentido, confira-se:
+
+Processo AgRg no REsp 1309891 / MG
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL 2012/0035031-2
+Relator(a) Ministro SIDNEI BENETI (1137)
+Órgão Julgador T3 - TERCEIRA TURMA
+Data do Julgamento: 26/06/2012
+Data da Publicação/Fonte: DJe 29/06/2012 
+Ementa: AGRAVO REGIMENTAL EM RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. PROVEDOR. MENSAGEM DE CONTEÚDO OFENSIVO. REGISTRO DE NÚMERO DO IP. DANO MORAL. NÃO RETIRADA EM TEMPO RAZOÁVEL.
+1.-  Na linha dos precedentes desta Corte, o provedor de conteúdo de internet não responde objetivamente pelo conteúdo inserido pelo usuário em sítio eletrônico, por não se tratar de risco inerente à sua atividade. Está obrigado, no entanto, a retirar imediatamente o conteúdo moralmente ofensivo, sob pena de responder solidariamente com o autor direto do dano. Precedentes.
+2.- No caso dos autos o Tribunal de origem entendeu que não houve a imediata exclusão do perfil fraudulento, porque a Recorrida, por mais de uma vez, denunciou a ilegalidade perpetrada mediante os meios eletrônicos disponibilizados para esse fim pelo próprio provedor, sem obter qualquer resultado.
+3.- Agravo Regimental a que se nega provimento.
+
+Isso porque o direito constitucionalmente assegurado à liberdade de expressão, opinião e crítica, não se reveste de caráter absoluto, encontrando temperanças no próprio texto constitucional, que de idêntica maneira, alberga o direito à dignidade e ao direito de resposta proporcional ao agravo, exemplificativamente.
+
+ Nesse diapasão sobreditos princípios de mesmo patamar, hão de ser cotejados e harmonizados, de modo a serem evitar excessos, preservando assim o Estado Democrático de Direito, que não se coaduna com ofensas imotivadas, desarrazoadas ou desproporcionais.  
+
+É dos autos que a empresa autora notificou a empresa ré, para que essa última procedesse à exclusão do blog mencionado na inicial, sob o fundamento de o mesmo veicular conteúdo ofensivo, o que não foi por ela levado a efeito.
+
+Entrementes, a omissão da requerida quanto ao atendimento do pedido formulado através da sobredita notificação, analisada de ?per si?, não induz à inexorável conclusão acerca da efetiva prática de ato ilícito por parte da GOOGLE.
+
+Isso porque mister se faz a análise sobre a propalada ilicitude do conteúdo veiculado no referido blog, para que somente então se possa cogitar de responsabilidade do provedor pela manutenção do conteúdo supostamente impróprio.
+
+E na hipótese dos autos, não se vislumbra a ilicitude do conteúdo veiculado no blog.
+
+Trata-se de blog que se presta à divulgação de reclamações e críticas direcionadas aos serviços prestados pela empresa autora, oriundas de clientes insatisfeitos.
+
+Pelo teor do documento de fls. 78/79, infere-se se tratar de desabafo de um consumidor extremamente insatisfeito com os serviços prestados pela ré, eis que segundo ele, dela adquiriu um veículo seminovo que apresentou defeitos após menos de uma semana da aquisição, sem que a ré lhe tivesse apresentado uma solução razoável.
+
+ E tamanho foi seu inconformismo, que exortou eventuais interessados a se absterem de adquirir automóveis da autora.
+
+Como se vê, conquanto tenham sido ásperas as críticas lançadas em desfavor da ré, trata-se de mero desabafo de um cliente insatisfeito, exarado decerto quando estava com os nervos à flor da pele, à luz de uma situação desagradável a que se submeteu, o que não caracteriza qualquer ilicitude.
+
+Ademais, o fato de a ré supor que em razão de tal mensagem os seus potenciais consumidores efetivamente deixariam de buscar os seus serviços, afronta a inteligência e a capacidade de discernimento dos referidos consumidores, que certamente não se deixariam influenciar por um comentário isolado para concluir que a ré se trata de empresa inidônea.
+
+Ademais, consoante alardeado pela própria requerida, trata-se de empresa que atua há décadas na mesma área de mercado, e que decerto construiu uma considerável reputação no país, que decerto não se viu maculada com a veiculação do inconformismo de um cliente.
+
+Também, ao se lançar nas atividades de terceirização de frotas, aluguel e venda de carros, possui milhares de clientes atuais e potenciais, estando sujeita, portanto, a críticas de eventuais consumidores insatisfeitos, ônus que tem que arcar, notadamente por se tratar de uma empresa e grandes proporções e de invejável alcance.
+
+Aliás, o Direito não se coaduna com suscetibilidades.
+
+Outrossim, não se evidenciou que o blog em tela tenha alcançado número considerável de acessos, pelo contrário, a autora trouxe somente a manifestação de um cliente aos autos.
+
+Nesse diapasão, não se vislumbrando a ilicitude no conteúdo veiculado pelo blog, não possuía a ré a obrigação de remover o seu conteúdo, mesmo após notificada pela suposta e sedizente lesada, de maneira que sua omissão não caracteriza a prática de ato ilícito gerador do dever de indenizar.
+
+E sequer de violação aos direitos autorais da autora se pode cogitar, sobretudo porque, a toda evidência, não se faz possível a existência de qualquer confusão entre as suas marca e logomarca, e um blog destinado à veiculação de críticas à empresa requerente.
+
+ No caso dos autos, não se vislumbra, ainda que esforço homérico se faça, qualquer intenção do criador do blog, em confundi-lo com eventual blog da empresa autora ou mesmo com sua página na internet.
+
+Ademais, é de se notar que a empresa autora, de maneira assaz estranha, sequer se preocupou em descobrir quem seria o criador do blog para dele exigir explicações ou pleitear indenização, evidenciando assim, que optou por buscar indevidamente a reparação de suas pretensões junto à poderosa GOOGLE, ao invés de se voltar contra o adquirente de um veículo CELTA ano 2007.
+
+Nesse diapasão, a rejeição das pretensões inicialmente deduzidas é medida que se impõe.
+
+Diante do exposto e pelo mais que dos autos consta, JULGO IMPROCEDENTES os pedidos formulados pela autora.
+
+Por força da sucumbência, CONDENO-A ao pagamento das custas e despesas processuais eventualmente despendidas pela ré, corrigidas monetariamente desde os respectivos desembolsos, bem como dos honorários advocatícios de seu patrono, que ora fixo, eqüitativamente, em R$ 800,00 (oitocentos reais), considerando o tempo de duração da demanda e o valor atribuído à causa.
+
+Como corolário lógico da improcedência das pretensões iniciais, notadamente da obrigação de fazer, REVOGO A MEDIDA QUE ANTECIPOU OS EFEITOS DA TUTELA.
+
+
+P.R.I.C.
+ 
+  De Americana p/ S. Paulo, 15/04/2013.
+
+
+      MÁRCIO ROBERTO ALEXANDRE
+    Juiz de Direito
+
+
+
+São Paulo, 27 de maio de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

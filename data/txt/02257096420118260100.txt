@@ -1,0 +1,64 @@
+
+
+SENTENÇA
+
+Processo nº:0225709-64.2011.8.26.0100
+Classe ? Assunto:Procedimento Ordinário - Indenização por Dano Material 
+Requerente:Sueli Aparecida Benvenuto
+Requerido:Banco Itau S/A e outro
+
+
+
+
+Juiz(a) de Direito: Dr(a). Alberto Alonso Muñoz
+
+
+Vistos.
+
+Sueli Aparecida Benvenuto, qualificado(s) na inicial, ajuizou(aram) ação de Procedimento Ordinário em face de Banco Itau S/A, Banco Brasileiro de Descontos S/A Bradesco.
+Alega, em síntese, que teria efetuado pagamento de um título emitido pelo Bradesco em 3/7/2011, através de sua conta no Banco Itaú. O valor foi debitado de sua conta. Ocorre que o Itaú não teria repassado o valor para o Bradesco, que terminou por inscrever seu nome no cadastro de inadimplentes em razão do não pagamento. Entende ter havido fato do serviço, razão pela qual pediu: a) a antecipação dos efeitos da tutela para determinar o levantamento do nome da autora dos cadastros de inadimplentes; b) a condenação das rés ao pagamento, solidariamente, de indenização pelo dano moral; c) a declaração de inexigibilidade do débito. Juntou documentos.
+Citado, o Bradesco contestou afirmando que nunca teria recebido nenhum valor repassado pelo Banco Itaú, razão pela qual a inscrição em cadastro de inadimplentes seria exercício regular de um direito. Negou ainda que tivesse havido inscrição no referido cadastro. Impugnou a existência de dano moral indenizável.
+O Itaú levantou a preliminar de ilegitimidade passiva ad causam, já que seu sistema comprovaria que teria remetido o valor ao Bradesco. Impugnou a existência de dano moral indenizável.
+Houve réplica.
+Relatei o essencial. DECIDO. 
+O processo comporta julgamento antecipado do mérito, na forma do art. 330, I do Código de Processo Civil, não se caracterizando cerceamento de defesa se não eram necessárias outras provas. Ao contrário, nas hipóteses em que se impõe, o julgamento antecipado do mérito não é faculdade do julgador, mas dever legalmente imposto até mesmo pela Constituição Federal quando o feito se encontra em condições de ser sentenciado, sendo corolário do princípio da economia processual (que decorre daquele do devido processo legal: art. 5.º, LIV da CF/88) e da razoável duração do processo (art. 5.º, LXXVIII).
+A preliminar do Banco Itaú confunde-se com o mérito e será nela analisada.
+O pedido é procedente.
+O art. 6.º, I e VI do Código de Defesa do Consumidor estabelecem serem direitos básicos do consumidor "a proteção da vida, saúde e segurança contra os riscos provocados por práticas no fornecimento de produtos e serviços considerados perigosos ou nocivos" e "a efetiva prevenção e reparação de danos patrimoniais e morais". Por sua vez, o art. 14 impõe o chamado "princípio da qualidade", conforme o qual o prestador de serviços é obrigado legalmente a prestar serviços adequados:
+
+Art. 14. O fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos.
+§ 1° O serviço é defeituoso quando não fornece a segurança que o consumidor dele pode esperar, levando-se em consideração as circunstâncias relevantes, entre as quais:
+I - o modo de seu fornecimento;
+II - o resultado e os riscos que razoavelmente dele se esperam;
+III - a época em que foi fornecido.
+§ 2º O serviço não é considerado defeituoso pela adoção de novas técnicas.
+§ 3° O fornecedor de serviços só não será responsabilizado quando provar:
+I - que, tendo prestado o serviço, o defeito inexiste;
+II - a culpa exclusiva do consumidor ou de terceiro.
+E o art. 7.º, parágrafo único, do mesmo Código de Defesa do Consumidor, estabelece que respondem solidariamente todos os causadores do dano.
+Assim, a responsabilidade aqui é objetiva. Se o Banco Itaú presta serviços de pagamento e transferência desses valores a outras pessoas, naturais ou jurídicas, arrume o risco pela não recepção ou pela não remessa dos valores. Não pode transferir o risco ao consumidor, ele que lucra com o serviço.
+O mesmo raciocínio vale para o Banco Bradesco, na medida em que, ao oferecer o serviço de pagamento através de boleto pagável em outros bancos, também corre o risco de o sistema de pagamento, que é informatizado e não é exime de erros, deixe de transferir-lhe o valor. Ora, a ser assim, não pode imediatamente passar a negativar o nome da parte autora, transferindo o risco justamente ao consumidor. Se o sistema lhe permite o lucro, deve, também, arcar com o risco que causa a terceiros e não transferi-lo.
+Anoto, ademais, que o Banco Bradesco apresentou tela em que consta que a parte autora não teria sido negativada. Não corresponde à verdade. Antes, ainda reforça a impressão de desorganização do banco, já que a SERASA (veja-se documento de fls. 19) procedeu à negativação.
+Quanto ao mais, a prova é robusta: o valor foi devidamente debitado da conta da parte autora. Onde foi parar o valor é matéria que as duas instituições financeiras deverão debater entre si e não atribuir à autora o risco pela desorganização de seus sistemas. 
+Ademais, o réu não comprovou que notificou o autor de futura anotação em cadastro de inadimplentes (art. 43, § 2º do Código de Defesa do Consumidor).
+Houve negativação do nome da autora. Sendo indevido, enseja compensação pelo dano moral suportado. É dano à honra objetiva, à imagem creditícia que a autora possui no mercado de consumo, indenizável portanto.
+Havendo o an debeatur, resta o quantum debeatur da indenização pelo dano moral.
+Utilizando o critério punitivo-pedagógico, de um lado, e reparador, de outro, e cuidando para que não haja enriquecimento sem causa de uma parte a custas da outra, entendo razoável a condenação da ré ao pagamento de R$ 20.000,00 (vinte mil reais).
+Termo inicial dos juros e correção monetária:
+?O termo inicial da correção monetária incidente sobre a indenização por danos morais é a data do seu arbitramento, consoante dispõe o verbete da Súmula n. 362/STJ: ?A correção monetária do valor da indenização do dano moral incide desde a data do arbitramento?. Os juros moratórios, em se tratando de responsabilidade extracontratual, incidem desde a data do evento danoso, na forma da Súmula n. 54/STJ: ?Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual?. Precedente da Segunda Seção do STJ no julgamento do REsp n. 1.132.866/SP, em sessão realizada em 23/11/2011, cujo acórdão encontra-se pendente de publicação.? (REsp 827.010/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/02/2012, DJe 13/03/2012).
+A data do evento danoso é a data da inscrição do nome da parte autora no cadastro de inadimplentes.
+Porcentual dos juros e da correção monetária e seu cálculo: Selic, na forma pacificada no STJ:
+?Os juros moratórios de 6% ao ano são devidos a partir da data do evento danoso, na forma da Súmula 54 do STJ, observando-se o limite disposto nos arts. 1.062 e 1.063 do CC/16, até janeiro de 2003, momento a partir do qual passa a vigorar a disposição contida no art. 406 do CC/02, nos moldes do precedente da Corte Especial, que aplica a taxa SELIC. A correção monetária, também incidente a partir do evento danoso e que deve ser alcançada mediante a aplicação de índice que reflita a variação de preços ao consumidor, terá sua incidência cessada a partir do momento em que iniciada a da taxa SELIC, sob pena de bis in idem. Precedente.? (REsp 1139997/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/02/2011, DJe 23/02/2011).O pedido, portanto, há de ser acolhido.
+Ante o exposto, JULGO PROCEDENTE o pedido da parte autora e EXTINGO o processo, COM RESOLUÇÃO DE MÉRITO, na forma do art. 269, I, do Código de Processo Civil para o fim de CONDENAR os réus solidariamente ao pagamento de R$ 20.000,00 (vinte mil reais). DECLARO a inexistência da relação jurídica debatida nestes autos. CONFIRMO a antecipação dos efeitos da tutela.
+Termo inicial dos juros e correção monetária:
+?O termo inicial da correção monetária incidente sobre a indenização por danos morais é a data do seu arbitramento, consoante dispõe o verbete da Súmula n. 362/STJ: ?A correção monetária do valor da indenização do dano moral incide desde a data do arbitramento?. Os juros moratórios, em se tratando de responsabilidade extracontratual, incidem desde a data do evento danoso, na forma da Súmula n. 54/STJ: ?Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual?. Precedente da Segunda Seção do STJ no julgamento do REsp n. 1.132.866/SP, em sessão realizada em 23/11/2011, cujo acórdão encontra-se pendente de publicação.? (REsp 827.010/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/02/2012, DJe 13/03/2012).
+A data do evento danoso é a data da inscrição do nome da parte autora no cadastro de inadimplentes.
+Porcentual dos juros e da correção monetária e seu cálculo: Selic, na forma pacificada no STJ:
+?Os juros moratórios de 6% ao ano são devidos a partir da data do evento danoso, na forma da Súmula 54 do STJ, observando-se o limite disposto nos arts. 1.062 e 1.063 do CC/16, até janeiro de 2003, momento a partir do qual passa a vigorar a disposição contida no art. 406 do CC/02, nos moldes do precedente da Corte Especial, que aplica a taxa SELIC. A correção monetária, também incidente a partir do evento danoso e que deve ser alcançada mediante a aplicação de índice que reflita a variação de preços ao consumidor, terá sua incidência cessada a partir do momento em que iniciada a da taxa SELIC, sob pena de bis in idem. Precedente.? (REsp 1139997/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/02/2011, DJe 23/02/2011).
+A parte ré deverá proceder ao pagamento integral do valor nestes autos, após o trânsito em julgado, no prazo de quinze dias de sua intimação, sob pena de prosseguir-se na forma do art. 475-J do CPC. Nessa última hipótese, elaborado cálculo do débito pela parte autora e recolhidas as custas correspondentes, fica desde já autorizada a penhora online via sistema Bacenjud. 
+Custas pelos réus em igual proporção. Honorários fixados em 10% sobre o valor da condenação, considerando a complexidade do feito e o número de atos praticados, na forma do art. 20, §§ 3.º e 4.º do CPC. 
+Publique-se. Registre-se. Intimem-se.
+
+
+
+São Paulo, 23 de janeiro de 2013.

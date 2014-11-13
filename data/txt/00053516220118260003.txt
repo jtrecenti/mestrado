@@ -1,0 +1,95 @@
+
+
+SENTENÇA
+
+Processo nº:0005351-62.2011.8.26.0003
+Classe - AssuntoProcedimento Ordinário - Interpretação / Revisão de Contrato
+Requerente:Cátia Cristina dos Santos
+Requerido:Banco Itaú BBA S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Marcos Alexandre Santos Ambrogi
+
+
+VISTOS.
+
+
+CATIA CRISTINA DOS SANTOS, já devidamente qualificada nos autos, ajuizou AÇÃO REVISIONAL DE CONTRATO contra BANCO ITAÚ BBA S/A, alegando, em resumo, que firmou contrato de arrendamento mercantil tendo por objeto o veículo mais bem identificado na inicial; que o contrato deve ser revisado; que há capitalização de juros; que há ilegal estipulação de comissão de permanência; que o contrato ofende o código de defesa do consumidor; que há ilegalidade na cobrança antecipada do VRG.
+
+Liminar foi concedida, nos termos de fls. 34.
+O réu ofereceu contestação, aduzindo, em síntese, que o contrato deve ser cumprido, não havendo de se falar em cláusulas ilegais; que não há abusividade ou limitação de juros.
+
+O autor se manifestou a respeito da contestação.
+
+É o relatório.
+DECIDO.
+
+1- O feito comporta o julgamento antecipado, nos termos do art. 330, I, do Cód. de Proc. Civil, já que o desate da lide independe da produção de outras provas. Improvável a conciliação, tendo em vista o que ordinariamente se observa em casos semelhantes.
+
+2- O contrato prevê hipótese pré-fixada de encargos remuneratórios. Os juros estão no contrato consignados (fls. 21).
+
+Não se trata de capitalização ilegal a incorporação de juros vencidos decorrente de saldo devedor ao capital. Os juros vencidos se convertem e se incorporam naturalmente ao capital, ao final de cada período de capitalização expresso na taxa de juros.
+
+Quem assim entende confunde capital com renda. Capital, em um mútuo financeiro, na acepção adequada a esta exposição, é o valor atual do saldo de um débito, expresso pelo montante  que resultar do capital original, acrescido dos juros vencidos, convertidos e incorporados periodicamente ao capital, abatidos os valores eventualmente pagos (parte dos juros, total dos juros, total dos juros e amortização). Juro  ou  renda  é o fruto deste capital que, após ser gerado, pelo decurso do período de geração (e se tornar, assim, juro vencido  ou  renda vencida)  - independentemente de haver ou não sido pago ? se converte e se incorpora ao capital inicial  do período, transformando-o em capital final  do período.
+
+A única peculiaridade da renda vencida paga, em relação à  renda vencida não paga,  é que esta última fica aplicada com o mesmo mutuário, elevando o saldo devedor de capital. Daí o equívoco comum de se considerar o juro de um segundo período como sendo representado por dois diferentes tipos de juros: o juro do capital  e o juro do juro (Juros. Correção Monetária. Danos Financeiros irreparáveis. Uma abordagem jurídico econômica /   Romualdo Wilson Cançado e Orlei Claro de Lima ? 3.ed.rev.atual.e ampl. ? Belo Horizonte: Del Rey, 2003. pág. 27/28).
+Por outro lado, perfeitamente possível a operação mencionada pelo autor como ilegal:
+
+Segundo Dornelles da Luz, Não há como escapar da realidade. Os Bancos, fazendo o que se convencionou chamar de intermediação financeira, têm que repassar o dinheiro pelo seu custo, mais o spread que constitui sua comissão. Ora, se a capitalização mensal é consentida na captação como seria possível proibir seu repasse? Pode um comerciante ser obrigado a vender sua mercadoria com prejuízo? Há fundamento jurídico a respaldar uma proibição dessa natureza? Só mesmo em uma economia de guerra ter-se-á justificativa jurídica. Aos poucos os Tribunais foram-se dando conta da absurdidade de algumas teses que entre eles encontrava sustentação.[...]. Mas, não demorará muito, chegará a admiti-lo [refere-se ao computo capitalizado dos juros] em toda operação bancária indistintamente, enquanto perdurarem essas ruinosas condições em nossa economia (LUZ, Aramy Dornelles da. Negócios jurídicos bancários, o banco múltiplo e seus Contratos, Revista dos Tribunais, São Paulo, 1996, p. 99-100)
+Uma leitura atenta do art. 4º, inciso IX, da Lei nº 4.595/94 e da Súmula nº 596, do E. STF,  revela que a prática da capitalização, nos termos como acima denominados, incorporação do capital após o decurso do prazo para a incidência da remuneração não mais é proibida de há muito.
+A partir do momento que as taxas de juros podem ser livremente pactuadas, se tornou livre a forma de calculá-las, desde que os valores dos juros resultantes da aplicação das taxas contratadas estejam corretos.
+No caso, conforme já assinalado, o autor não demonstra, pelo contrato, onde está a incorreção dos juros cobrados.
+
+A proibição dos juros compostos leva a situações absurdas, como, por exemplo, uma instituição financeira pode contratar uma taxa de juros simples de 500% ao ano, mas não pode estabelecer essa taxa a 2% ao mês, a juros compostos, o que dá apenas 26,8% em um ano. 
+Se a taxa de juros é estabelecida para um determinado período, tanto faz calculá-la pelo regime simples ou composto.
+
+Tanto faz contratar uma operação de 26,8% ao ano a juros simples ou compostos, que o desembolso final do mutuário será absolutamente o mesmo.
+
+
+Não há que se falar ilegalidade da cobrança antecipada do VRG. Apreciando o negócio em sua comutatividade, não se pode olvidar que as empresas de leasing, ao contratarem com os fornecedores e deles comprarem os bens indicados pelos clientes, efetuam um imediato e elevado desembolso de capital, o qual necessariamente terá de ser recuperado pela empresa, sob pena de tal gênero de negócios tornar-se inviável.
+
+Portanto, é essencial ao leasing financeiro que os valores das contraprestações, mais o valor residual, necessariamente incluam, como de fato incluem:
+
+a) o custo do dinheiro que a empresa de arrendamento mercantil captou no mercado de capitais, sob condições notoriamente severas, estando adstrita, a empresa, a honrar seus compromissos para com os bancos independentemente de o cliente permanecer pagando pontualmente ou não as contraprestações e o valor residual;
+
+b) o spread, porquanto a empresa de leasing necessita cobrir seus encargos operacionais e precisa, naturalmente, auferir lucro na operação.
+
+O valor residual é obrigatório no contrato de leasing, podendo ser convencionado entre as partes que o seu pagamento se dará após o término do contrato, ou antecipadamente, juntamente com as prestações, sendo um equívoco pensar-se que a antecipação descaracteriza o leasing para contrato de compra e venda.
+A matéria, inclusive, foi sumulada pelo E. Superior Tribunal de Justiça:
+
+"A cobrança antecipada do valor residual garantido (VRG) não descaracteriza o contrato de arrendamento mercantil" (Súmula nº 293 - Corte Especial, 05.05.2004).
+Isso consta do contrato e não pode ser ignorado pela autora, que sabe ler e escrever.
+
+A propósito, o CDC não é panacéia jurídica e o fato de se considerar consumidor não torna a pessoa irracional, inanimada ou inimputável.
+
+Embora contrato de adesão, não se pode negar validade às cláusulas de reajuste presentes nos instrumentos do contrato de mútuo, não se divisando na espécie qualquer abuso de direito. Como lembra o Prof.. WASHINGTON DE BARROS MONTEIRO, "a igualdade econômica e a igualdade verbal não são condições para a validade dos contratos; basta a igualdade jurídica", e mais adiante acrescenta: "se a outra parte se submete, vem a aceitar-lhe as disposições, não pode mais tarde fugir ao respectivo cumprimento" ("Curso de Direito Civil", vol. 5º/31, 2ª parte, 11ª ed.).
+Adverte ORLANDO GOMES que "a exagerada tendência para negar força obrigatória às cláusulas impressas é de todo condenável até porque não deve o juiz esquecer que certas cláusulas rigorosas são necessárias à consumação dos fins perseguidos pelos contratos de adesão em série" ("Contratos", 9ª ed., p. 139)".
+Na interpretação dos contratos de adesão regulados pelo direito consumerista, parte-se do pressuposto de que, nas relações de consumo, existe de fato uma vulnerabilidade do consumidor em face do fornecedor de bens e serviços ou porque não tem ele os mesmos conhecimentos de natureza técnica sobre as informações a respeito do objeto negocial ou porque não consegue alcançar plenamente as conseqüências jurídicas do seu engajamento ou porque não goza das mesmas condições econômicas e sociais da outra parte.
+
+Diante desta situação, a legislação consumerista corrige um possível desvio da liberdade contratual, concedendo ao consumidor direitos que restabeleçam, juridicamente, o equilíbrio negocial. O princípio do equilíbrio, essencial ao exercício da autonomia privada, manifesta-se na lei pela nulidade de cláusulas abusivas. 
+
+Assim, abusividade não é um conceito discricionário, posto na lei para permitir ao aplicador uma opção subjetiva, mas é um conceito indeterminado, cujo sentido, apesar de difuso, pressupõe um significado estável que deve ser alcançado pelo intérprete. 
+
+À primeira vista, portanto, o artigo 51 da Lei 8.078/90 não parece distinguir entre as cláusulas abusivas nulas de pleno direito, que não comportam apreciação judicial em nenhuma circunstância, e aquelas que a admitem, podendo ser corrigidas. 
+
+O princípio diretor desta possibilidade está no equilíbrio contratual. Isto porque a função da proteção ao consumidor não se localiza na supressão da autonomia da vontade, mas na equalização das condições do seu exercício. Assim, não se deve substituir a autonomia privada pela heteronomia, pois isso deslocaria as relações econômicas do âmbito da livre iniciativa e dos objetivos da justiça social, ao inviabilizar a atividade e o benefício dela decorrente ou porque a encareceria insuportavelmente para o consumidor ou porque a eliminaria como possibilidade econômica para o fornecedor. 
+
+A idéia diretriz, presente no Código de Defesa do Consumidor, não é, pois, de um "favorecimento" mas de evitar um "desfavorecimento" do consumidor. Daí a prescrição expressa, com o auxílio de conceitos indeterminados, constante do artigo 51,IV, que considera iníqua, abusiva, cláusula que estabeleça obrigação que coloque o consumidor "em desvantagem exagerada" ou sejam incompatíveis com a boa-fé ou a equidade. Desvantagem exagerada significa quebra ostensiva de equilíbrio. 
+
+Sob o manto do equilíbrio não se pode extrair que a tutela criada para evitar a inferioridade de uma das partes em face da outra implique na total imunidade da parte tutelada aos efeitos obrigacionais por ela assumidos de forma a causar prejuízos para todos.
+
+
+Do resto, não se pode conhecer de ofício (STJ, Súmula 381).
+
+Diante do exposto, revogo a liminar e JULGO IMPROCEDENTES os pedidos da autora, pondo fim ao processo, com resolução do mérito, nos termos do art. 269, I, do Cód. de Proc. Civil. Condeno a autora em custas, despesas processuais, bem como em honorários advocatícios que fixo em R$1.800,00, nos termos do art. 20, § 4º do CPC, atentando-se para o conteúdo do trabalho desenvolvido pelo réu e pela pouca complexidade da causa. Devem ser observados, no entanto, os arts. 3º, 11 e 12 da Lei 1.060/50.
+
+P.R.I.C.
+
+São Paulo, 04 de agosto de 2011.
+
+Marcos Alexandre Santos Ambrogi
+Juiz de Direito
+
+São Paulo, 04 de agosto de 2011.

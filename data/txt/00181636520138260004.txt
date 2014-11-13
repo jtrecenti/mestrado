@@ -1,0 +1,56 @@
+
+
+SENTENÇA
+
+Processo Físico nº:0018163-65.2013.8.26.0004
+Classe - AssuntoProcedimento Ordinário - Marca
+Requerente:Vahrcav Participações Ltda
+Requerido:Kanui Comércio Varejista Ltda
+
+
+
+
+Juiz(a) de Direito: Dr(a). Adriana Genin Fiore Basso
+
+
+
+
+
+
+
+Vistos.
+Vahrcav Participações Ltda. ajuizou ação contra kanui Comercio Varejista Ltda visando seja a ré condenada na obrigação de se abster da utilização indevida da expressão ?WORD TENIS?, sob o argumento de que fere o seu direito de propriedade da marca ?World Tennis?, cujo registro lhe pertence. Diz que a ré, sua concorrente direta no ramo de comercialização e distribuição de calçados, e empresa de comercio ?online? de calcados e demais artigos de vestuário, utilizando a marca Kanui para identificar seus serviços. Alega que a loja virtual da ré está hospedada no nome de domínio www.kanui.com.br, de sua titularidade, mas vem se utilizando indevidamente da expressão ?WORD TENIS?, que imita marca renomada de sua propriedade ?WORLD TENNIS?, como a palavra chave e titulo de anuncio de links patrocinados contratados junto a provedores de busca na INTERNET, de forma que seu website seja listado com destaque nos resultados apresentados pelos referidos provedores de busca, antes mesmo do próprio website da autora. Sustenta que tal pratica implica em desvio fraudulento de clientela, além de criar confusão ou falsa associação nos consumidores, viciando sua capacidade de escolha. Alega que o direito de propriedade da marca lhe pertence e cita legislação pertinente. Discorre sobre a prática de concorrência desleal e diz que a conduta da ré afronta aos princípios da livre concorrência e defesa do consumidor. Pede indenização por danos materiais e sustenta que o dever indenizar independe da prova do dano. Pede, ainda, ressarcimento por lucros cessantes. Pede, ainda, indenização por dano moral e tutela antecipada para que a ré se abstenha de utilizar indevidamente a expressão ?WORD TENIS? ou qualquer outra que imite ou reproduza, gráfica ou foneticamente, a marca ?WORLD TENNIS? sob pena de multa diária e, ainda, altere todo e qualquer link patrocinado que houve contratado junto a provedores de busca na internet que utilizem como palavra chave e titulo de anuncio a expressão ?WORD TENIS? ou qualquer outra que reproduza, gráfica ou foneticamente, a marca ?WORLD TENNIS? de sua titularidade. Junta documentos de fls. 31/100. 
+Deferida a tutela antecipada por decisão de fl. 104, seguiu-se interposição de embargos de declaração, rejeitados na fl. 120.
+Citada, a ré apresentou contestação nas fls. 124/152.  Inicialmente, pede a denunciação da lide a empresa Google sob o argumento de que e quem fornece esse serviço de link patrocinado. Sustenta ausência de infração aos direitos de propriedade industrial a autora, sob o enfoque de todo uso justo de palavras genéricas, também conhecido como fair use marcario, deve ser permitido, situação essa que se enquadra a hipótese dos autos. Discorre sobre a função dos links patrocinados e sustenta que as palavras chave não identificam ou distinguem produtos ou serviços e sua utilização não caracteriza uso da marca. Defende a utilização das palavras-chave como mecanismo de busca e sustenta que não se confundem com o uso da marca. Diz que impedir o uso das expressões comuns a atividade da ré fere a livre concorrência e prejudica o direito a informação dos internautas. Nega existência de concorrência desleal e diz que comercializa diversos produtos que a distancia de uma concorrência desleal. Alega que ao entrar em seu site o consumidor não encontrara qualquer uso da marca ?WORLD TENNIS?, mas tão somente a marca KANUI. Discorre sobre rotinas de mercado e uso das expressões ?word tênis?. Sustenta inexistência de dano de qualquer natureza. Junta documentos de fls. 153/172.
+Réplica nas fls. 178/191.
+É o relatório. DECIDO.
+O feito comporta julgamento antecipado posto que a matéria debatida, de direito e de fato, dispensa a produção de outras provas, além das documentais já apresentadas.
+Diga-se, inicialmente, que não se acolhe o pedido de denunciação da lide.  Aquele que oferece o serviço de busca por meio de palavras chave (links patrocinados) não se enquadra em nenhuma das hipóteses do art. 70 do CPC. Ademais, não é cabível a denunciação da lide nos casos em que o demandado tenta eximir-se de sua responsabilidade pelo evento, atribuindo a terceiro.
+A ação é parcialmente procedente.
+Incontroversa nos autos a contratação pela ré dos serviços de busca por meio das palavras-chave WORD TENIS (link patrocinado). 
+Trata-se da utilização da ferramenta denominada ?link patrocinado?, que possibilita que o site da empresa ré apareça ao lado ou acima dos resultados da pesquisa formulada sobre a expressão ?word tenis?.
+Ocorre que, a contratação pela ré da palavra-chave WORD TENIS, em conjunto, fere o direito de uso da marca registrada pela autora WORLD TENNIS no INPI, registro esse comprovado nos autos e cujos depósitos datam de mais de dez anos (fls. 72/88).
+Note-se que, embora não seja uma empresa que comercialize exclusivamente calçados esportivos (tênis), a ré mantém em seu site a oferta deste produto - tênis, produto esse comercializado pela autora, cuja marca WORLD TENNIS é reconhecida e prestigiada no mercado de consumo (fls. 39/71).
+Não se pode negar que o uso das palavras- chave WORD TENIS em link patrocinado, não só pode induzir em erro o consumidor que procura pela marca renomada WORLD TENNIS, como também pode implicar em desvio de clientela e confusão entre os estabelecimentos, ainda que no site da ré apareça a sua própria marca e diversas outras opções de produtos para a compra. 
+Nem se diga que seriam as palavras WORD e TENIS de uso genérico e que, portanto, passíveis de contratação para links patrocinados.
+Isoladamente, sim, seriam vocábulos genéricos que inadmitem titularidade exclusiva, mas quando contratados de modo associado, por uma combinação (no conjunto) remetem à marca WORLD TENNIS e podem gerar um tráfico indevido para o site patrocinado pela ré. 
+Não se coloca em dúvida a capacidade de discernimento do consumidor diante das opções que aparecem nos sites de busca de links patrocinados, mas é bom lembrar que o consumidor é sempre considerado vulnerável numa relação de consumo e, portanto, deve ser protegido de práticas abusivas ou desleais. 
+Caracterizado, portanto, o uso indevido de link patrocinado, resta apurar a existência do dano material e moral.
+Embora o Superior Tribunal de Justiça tenha firmado entendimento no sentido de ser desnecessária a prova concreta do prejuízo nos casos de uso indevido de marca, no caso dos autos não se pode aplicar o entendimento.
+Vejamos.
+A ré contratou link patrocinado vinculado à busca da palavra chave ?word tênis? que se assemelha à marca da autora, World Tennis. Porém, como bem disse a ré em sua defesa, ao realizar a busca, o consumidor é remetido a uma página com diversas opções de anúncios relacionados (fls. 144/145). Não necessariamente o consumidor fará a opção pelo site da ré. Tampouco deixará de buscar o site da autora. Há uma infinidade de opções e decisões que podem ser exercidas e tomadas pelo consumidor. E, diante desse quadro hipotético, não se pode afirmar que a autora deixou de lucrar ou teve reduzido o número de acessos de seu site como decorrência da conduta indevida da ré.
+Não há qualquer indício da existência do dano material, aqui incluídos os lucros cessantes.
+No que toca aos danos morais, cumpre inicialmente afirmar que a pessoa jurídica é titular de honra objetiva, ou seja, aquela refletida na reputação, no bom nome e na imagem perante a sociedade, que é comum a ela e à pessoa natural. Desse modo, entende-se que a pessoa jurídica faz jus à indenização por dano moral, sempre que o seu nome for afetado.
+A súmula 227 do Superior Tribunal de Justiça estabelece que a pessoa jurídica pode sofrer dano moral. A respeito, já se decidiu que a evolução do pensamento jurídico, no qual convergiram jurisprudência e doutrina, veio a afirmar, inclusive nesta Corte, onde o entendimento tem sido unânime, que a pessoa jurídica pode ser vítima também de danos morais, considerados estes como violadores da sua honra objetiva, isto é, sua reputação junto a terceiros (STJ, 4ª. T., Resp 223494-DF, rel. Min. Sálvio de Figueiredo Teixeira, v.u., j. 14.9.1999, DJU 25.10.1999, p. 94).
+Ocorre que, no caso, embora se reconheça como indevido a utilização do sistema de comercialização por meio de link patrocinado com a utilização da palavra chave ?word tênis?, porque semelhante à marca registrada pela ré ?World Tennis?, não há indicativo de que tal conduta tenha causado dano moral à autora.
+Para fins de parametrização, poderíamos verificar o grau de credibilidade da ré no mercado de consumo, relacionamento com clientes, reclamações de consumidores, práticas reiteradas de condutas abusivas, e outros, mas tais dados não vieram para os autos.
+Fosse a ré uma empresa notória ou comprovadamente inidônea, ou estivesse ela comercializando produtos comprovadamente de qualidade inferior aos produtos comercializados pela autora, aí sim, poderíamos falar em ofensa à honra. Não há, entretanto, prova disso.
+Como se vê, não há que se falar em dano moral.
+Diante do exposto, JULGO PARCIALMENTE PROCEDENTE a ação ajuizada por Vahrcav Participações Ltda contra Kanui Comércio Varejista Ltda. para tornar definitiva a tutela concedida e condenar a ré à obrigação de abster-se de toda e qualquer utilização da expressão ?WORD TENIS? ou qualquer outra que imite ou reproduza, gráfica ou foneticamente, a marca WORLD TENNIS, de titularidade da autora, bem como cancelar todo e qualquer link patrocinado que houver contratado junto a provedores de busca na Internet que utilizam como palavra-chave e título de anúncio a expressão ?WORD TENIS?  ou qualquer outra que imite ou reproduza, gráfica ou foneticamente, a marca ?WORLD TENNIS?, de titularidade da autora, sob pena de fixação de multa diária. 
+Sucumbência recíproca, condeno a ré no pagamento de 70% das custas e despesas processuais, bem como honorários advocatícios da parte contrária na mesma proporção que arbitro em 15% sobre o valor atribuído à causa, devidamente atualizado pela Tabela Prática do Tribunal de Justiça, cabendo o restante ao autor.
+P.R.I.
+
+São Paulo, 13 de junho de 2014.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

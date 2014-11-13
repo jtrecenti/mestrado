@@ -1,0 +1,46 @@
+
+
+SENTENÇA
+
+Processo nº:0166967-12.2012.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Seguro
+Requerente:Bradesco Auto/re Companhia de Seguros
+Requerido:Eletropaulo Metropolitana Eletricidade de São Paulo S/A
+
+
+
+
+Juiz(a) de Direito: Dr(a). Arnaldo Luiz Zasso Valderrama
+
+
+
+
+
+
+
+Vistos.
+
+Bradesco Auto/RE Companhia de Seguros ajuizou ação de reparação de danos em face de Eletropaulo Metropolitana Eletricidade de São Paulo S/A, ambos qualificados nos autos. Em síntese, alegou que no dia 10.11.2009, por volta das 22h30m, ocorreu interrupção no fornecimento de energia pela ré, ocasionando danos a uma máquina de corte a laser Proel, modelo Euroflex, série: 937/50UN-EFB-L07; pagou indenização à segurada Detalle Bordados Ltda, no importe de R$ 17.318,86; análise técnica concluiu que ocorreram danos elétricos em decorrência da falta de energia. Salientou que é legitimo o direito de regresso de terceiro interessado em face do causador do dano por aplicação dos arts. 346, III, e 786 do CC, e Súmula nº 188 do STF. Ressaltou que a responsabilidade da empresa é objetiva perante o consumidor e que pagou R$ 1.224,30 para análise e regulação do sinistro pela Líder Brasil Comissária de Avarias. Pediu a condenação da ré ao pagamento de indenização pelos danos materiais no valor de R$ 18.543,16. Juntou documentos.
+Citada, a ré apresentou contestação (fls.67/80), na qual alegou que pela Resolução Normativa nº 61/2004 da Anatel traz o roteiro para o ressarcimento de prejuízos por descargas elétricas; exige-se o nexo causalidade com os danos, o que foi rompido pelo reparo feito pelo cliente da autora; o acionamento do seguro é facultativo e havia possibilidade de reparo administrativo; o consumidor não trata sobre notas de serviço de reparo dos equipamentos, o que impede a análise dos valores; os reparos impedem a apuração dos fatos e exclui o direito à indenização segundo o art. 10, inc. II, da RN nº 61/2004 da Anatel; não é crível que seguradora indenizasse sem comprovar por meios próprios sem perícia ou vistoria; não houve apresentação dos documentos necessários; o dano decorreu de caso fortuito ou de força maior.
+Foi oferecida réplica (fls.94/102).
+É o relatório. 
+Fundamento e decido.
+
+O feito comporta julgamento antecipado da lide, na forma do art. 330, inc. I, do Código de Processo Civil, pois as partes não apresentaram nenhuma alegação que demande a colheita de prova oral. Utilizo-me do poder de velar pela rápida solução do litígio, impedindo que ?as partes exerçam a atividade probatória inutilmente ou com intenções protelatórias" (Vicente Greco Filho, in Direito Processual Civil Brasileiro, 14ª Ed., 1999, p 228).
+É permitido ao julgador apreciar as provas livremente, seguindo impressões pessoais e utilizando-se de sua capacidade intelectual, em conformidade com o princípio do livre convencimento motivado/persuasão racional. Neste caso, temos em conta que: 1) os elementos de convicção são suficientes ao deslinde da causa e hábeis a sustentar a linha decisória; 2) quaisquer provas adicionais careceriam de aptidão para modificar o dispositivo; 3) as alegações de ambas as partes fazem concluir pelo julgamento no estado em que se encontra o processo.
+Presentes os pressupostos processuais e as condições da ação, passo ao julgamento do mérito. A pretensão veiculada nesta ação é procedente.
+Resultou incontroverso que a autora indenizou sua cliente em razão de danos a uma máquina segurada, o que também ficou demonstrado pela apólice (fls.18/20) e recibo de R$ 17.318,86 (fls.22/23). Também não foi contestada a ocorrência de apagão na noite de 10.11.2009. A controvérsia consiste apenas no cabimento do direito de regresso contra a concessionária.
+De plano, cumpre ressaltar que a parte autora, na qualidade seguradora de bem danificado, nos termos do artigo 786 do Código Civil, sub-roga-se nos direitos que competem ao segurado contra o autor do dano. No mesmo sentido, a Súmula n° 188 do C. Supremo Tribunal de Justiça consagrou o entendimento de que: "o segurador tem ação regressiva contra o causador do dano, pelo que efetivamente pagou, até ao limite previsto no contrato de seguro".
+Como prova de suas alegações, a autora trouxe laudo preliminar de vistoria (fls.24/26), no qual os técnicos concluíram que a máquina de corte a laser foi comprometida em razão de sobrecarga elétrica sofrida. A parte juntou relatório de regulação de sinistro (fls.27/40) confirmando tal informação e constando que os honorários pelo serviço totalizaram R$ 1.224,30. Apresentou outro laudo técnico indicando a existência de avarias no tubo laser devido a descarga elétrica (fl.41) e nota fiscal relativa ao serviço de conserto da máquina por R$ 37.032,00 (fl.45).
+Exitosa a autora em demonstrar o dano na máquina e o nexo de causalidade com descarga elétrica. E era só o que lhe cabia comprovar. A ré, na condição de concessionária de serviço público, responde objetivamente pelos danos que causa a terceiros, conforme art. 37, §6º, da Carta Magna: ?As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa". 
+Não há falar, tampouco, em caso fortuito ou força maior. É cediço que chuvas torrenciais e temporais são fatos completamente previsíveis. A queda de fios de alta tensão, quando presentes tais circunstâncias, é plenamente possível também de se prever. Desse modo, incumbia à ré adotar as medidas necessárias no sentido de verificar se manutenção de sua rede elétrica estava em dia e preparada para eventos de natureza que não fogem da normalidade. Assim, sem sucesso a ré em se desincumbir do ônus que lhe cabia, qual seja, demonstrar que excludente de sua responsabilidade, esta deve ressarcir a autora nos direitos em que se sub-rogou.
+Não assiste razão à ré ao invocar a Resolução Normativa nº 61/2004 da Anatel para excluir sua responsabilidade, uma vez que tal norma apenas regula o procedimento de ressarcimento direto entre o consumidor e a concessionária, o que não é o caso. Aliás, a norma administrativa não tem o poder de impedir a aplicação da regra contida no Código Civil, a qual estabelece o direito de o segurador voltar-se contra o causador do dano para buscar a reparação. Tampouco o fato de o segurado ter consertado a máquina impede o reembolso, pois os danos e o nexo ficaram evidentes nos laudos técnicos juntados pela parte autora com a petição inicial.
+Por fim, o regresso deve abranger o valor da indenização paga e o gasto para análise e regulação do sinistro pela Líder Brasil Comissária de Avarias, conforme recibos juntados.
+
+Diante do exposto, JULGO PROCEDENTE a pretensão veiculada na petição inicial e extinto o feito com resolução do mérito, com fundamento no art. 269, inc. I, do Código de Processo Civil, para o fim de: a) CONDENAR a ré a pagar ao autor R$ 18.543,16 (dezoito mil e quinhentos e quarenta e três reais e dezesseis centavos), corrigidos monetariamente desde a data do desembolso pela Tabela Prática do E. Tribunal de Justiça do Estado de São Paulo e acrescidos de juros moratórios de 1% ao mês, desde a citação; b) CONDENAR a ré ao pagamento das custas e despesas do processo, bem como dos honorários advocatícios, que fixo em 10% (dez por cento) da condenação, atualizado a partir desta data, nos termos do art. 20, § 3º, do CPC.
+Publique-se. Registre-se. Intimem-se.
+Após o trânsito em julgado desta decisão, intime-se o requerente para se manifestar. Nada sendo requerido, arquivem-se os autos, com as baixas e anotações necessárias.
+
+São Paulo, 06 de dezembro de 2013.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

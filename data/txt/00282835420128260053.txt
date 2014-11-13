@@ -1,0 +1,88 @@
+
+
+SENTENÇA
+
+Processo nº:0028283-54.2012.8.26.0053 - Procedimento Ordinário
+Requerente:Calçados Behisnelian Ltda
+Requerido:Fazenda do Estado de São Paulo
+
+
+Juiz(ª) de Direito Dr.(ª): Thiago Massao Cortizo Teraoka
+
+Vistos.
+
+CALÇADOS BEHISNELIAN LTDA. Ingressou com ação anulatória de débito fiscal com pedido de tutela antecipada em face da FAZENDA PÚBLICA DO ESTADO DE SÃO PAULO.
+
+Em síntese, a autora alega que teve lavrado contra si auto de infração e imposição de multa nº 3.117.427-9 por ter deixado de recolher ICMS baseado em divergência apurada entre os valores declarados pela autora e os valores informados por operadoras de cartão de crédito e débito. Alega que as informações foram apuradas de forma ilegal por não respeitarem a necessidade de procedimento administrativo. Há vício formal. Foi exigido ICMS de filial encerrada. Não se considerou saldos credores em favor da autora. Requer a anulação do débito.
+
+A liminar foi indeferida em primeira instância (fl. 806), mas deferida em instância superior (fls. 826 e 828).
+
+Em contestação de fls. 852/896, a ré requer a improcedência da demanda. 
+
+Houve réplica. (fls. 1040/1050)
+
+Intimadas as partes (fl. 1128), não requereram provas (fls. 1138 e 1139 e 1140).
+
+É o relatório.
+
+DECIDO.
+
+O processo deve ser julgado antecipadamente, nos termos do artigo 330, inciso I, do Código de Processo Civil (CPC), não havendo a necessidade da produção de outras provas. O feito está instruído por documentos, os quais devem ser juntados na inicial e na contestação.
+
+No mérito, a demanda é procedente.
+
+O sigilo bancário é um dever. É respaldado pelos dispositivos constitucionais que visam garantir a privacidade e personalidade das pessoas.
+
+A Constituição Federal de 1988 prescreve em seu artigo 5º, incisos X e XII:
+
+?X - são invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas, assegurado o direito à indenização pelo dano material ou moral decorrente de sua violação;?
+?XII - é inviolável o sigilo da correspondência e das comunicações telegráficas, de dados e das comunicações telefônicas, salvo, no último caso, por ordem judicial, nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal ou instrução processual penal;?
+
+Em julgamento plenário, o Supremo Tribunal Federal manifestou-se:
+
+?SIGILO DE DADOS ? AFASTAMENTO. Conforme disposto no inciso XII do artigo 5º da Constituição Federal, a regra é a privacidade quanto à correspondência, às comunicações telegráficas, aos dados e às comunicações, ficando a exceção ? a quebra do sigilo ? submetida ao crivo de órgão equidistante ? o Judiciário ? e, mesmo assim, para efeito de investigação criminal ou instrução processual penal. SIGILO DE DADOS BANCÁRIOS ? RECEITA FEDERAL. Conflita com a Carta da República norma legal atribuindo à Receita Federal ? parte na relação jurídico-tributária ? o afastamento do sigilo de dados relativos ao contribuinte.? (grifos nossos - STF, RE 389808 / PR, Relator(a):  Min. MARCO AURÉLIO, Órgão Julgador:  Tribunal Pleno, EMENT VOL-02518-01 PP-00218, RTJ VOL-00220- PP-00540, publicação em 15/12/2010).
+
+Por outro lado, o mesmo Supremo Tribunal Federal, parece já ter se manifestado de modo diverso, ao negar a medida cautelar em ação que buscava a tutela de urgência em recurso extraordinário:
+
+?RECURSO EXTRAORDINÁRIO. TUTELA DE URGÊNCIA (PODER GERAL DE CAUTELA). REQUISITOS. AUSÊNCIA. PROCESSUAL CIVIL. REFERENDO DE DECISÃO MONOCRÁTICA (ART. 21, V DO RISTF). CONSTITUCIONAL. TRIBUTÁRIO. DADOS BANCÁRIOS PROTEGIDOS POR SIGILO. TRANSFERÊNCIA DE INFORMAÇÕES SIGILOSAS DA ENTIDADE BANCÁRIA AO ÓRGÃO DE FISCALIZAÇÃO TRIBUTÁRIA FEDERAL SEM PRÉVIA AUTORIZAÇÃO JUDICIAL. LEI COMPLEMENTAR 105/2001. LEI 10.174/2001. DECRETO 3.724/2001. A concessão de tutela de urgência ao recurso extraordinário pressupõe a verossimilhança da alegação e o risco do transcurso do tempo normalmente necessário ao processamento do recurso e ao julgamento dos pedidos. Isoladamente considerado, o ajuizamento de ação direta de inconstitucionalidade sobre o tema é insuficiente para justificar a concessão de tutela de urgência a todo e qualquer caso. Ausência do risco da demora, devido ao considerável prazo transcorrido entre a sentença que denegou a ordem e o ajuizamento da ação cautelar, sem a indicação da existência de qualquer efeito lesivo concreto decorrente do ato tido por coator (21.09.2001 ? 30.06.2003). Medida liminar não referendada. Decisão por maioria.? (STF, AC 33 MC / PR, Relator(a):  Min. MARCO AURÉLIO, Relator(a) p/ Acórdão:  Min. JOAQUIM BARBOSA, DJe-027 DIVULG 09-02-2011 PUBLIC 10-02-2011).
+
+No entanto, ao analisar detidamente os precedentes da Corte Suprema, observo que parece prevalecer a orientação vencedora do RE 389808/PR. Isso porque o precedente do AC 33/MC parece ter sido decidido também em questões de direito processual.
+
+De toda sorte, ainda que a orientação do Supremo Tribunal Federal indicada no RE 389808/PR não prevaleça e seja alterada naquele Pretório Excelso, o lançamento guerreado nestes autos não subsistirá.
+
+Isso porque, mesmo em sendo constitucional a utilização de dados financeiros pelo Fisco, independentemente de autorização do Poder Judiciário, essa utilização deve ser realizada nos termos da Lei Complementar nº 105, de 10/01/2001.
+
+O artigo 6º da LC 105/2001 é claro ao dispor que:
+
+?As autoridades e os agentes fiscais tributários da União, dos Estados, do Distrito Federal e dos Municípios somente poderão examinar documentos, livros e registros de instituições financeiras, inclusive os referentes a contas de depósitos e aplicações financeiras, quando houver processo administrativo instaurado ou procedimento fiscal em curso e tais exames sejam considerados indispensáveis pela autoridade administrativa competente.? (grifos nossos).
+
+Porém, no caso concreto, ao angariar informações sobre a empresa autora neste caso, a Fazenda sequer respeitou a exigência da prévia existência de procedimento administrativo. Pelo contrário, utilizou-se das informações conseguidas para instaurar o procedimento necessário. Resta clara, portanto, a ilegalidade da quebra do sigilo.
+
+Portanto, ainda que se considere constitucional a Lei Complementar nº 105/2001, no caso concreto, o Fisco Paulista desrespeitou o procedimento necessário para a utilização dos dados sigilosos para fins de lançamento fiscal.
+
+Nem se alegue que os dados de movimentação de cartão de crédito, por serem de conhecimento da Fazenda, prescindiriam da prévia existência de procedimento administrativo.
+
+Nesse sentido, transcrevo os julgados do Tribunal de Justiça do Estado de São Paulo:
+
+?Ação anulatória ICMS. Auto de Infração e Imposição de Multa lavrado e exclusão do Regime do Simples Nacional a partir de mero confronto com informações fornecidas por administradoras de cartão de crédito. Ilegalidade. Autoridade tributária que não observou os requisitos do art. 6º da LC nº 105/01 para a quebra de sigilo do contribuinte, quanto aos dados relativos a operações com cartões de crédito e débito. Ausência de instauração prévia de processo administrativo ou procedimento fiscal em curso. Sentença de procedência mantida. Recursos oficial e voluntário desprovidos.? (grifos nossos - TJ/SP, 0008779-42.2012.8.26.0577, Apelação / Reexame Necessário, Relator(a): Luciana Bresciani, Comarca: São José dos Campos, Órgão julgador: 13ª Câmara de Direito Público, Data do julgamento: 17/04/2013, Data de registro: 30/04/2013, Outros números: 87794220128260577).
+
+?TRIBUTÁRIO. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE. SIGILO BANCÁRIO. 1. Ação ordinária pela qual a autora visa declarar a inexigibilidade de débito tributário constante de Auto de Infração e Imposição de Multa. Alegação de que houve a presunção de fraude, porquanto constatou-se diferenças ao cotejar os valores declarados ao Fisco com os informados pelas administradoras de cartão de crédito e débito. Sentença de procedência. 2. O sigilo bancário somente pode ser afastado desde que implementadas as exigências do artigo 6º da Lei Complementar Federal 105/2001: (a) quando houver processo administrativo instaurado ou procedimento fiscal em curso e (b) quando tais exames sejam considerados indispensáveis pela autoridade administrativa competente. Inexistência de procedimento fiscal prévio; não demonstração da indispensabilidade destes dados. Manutenção da decisão recorrida. Recurso voluntário não conhecido. Remessa necessária desprovida.? (grifos nossos - TJ/SP, 0007709-44.2011.8.26.0053, Apelação, Relator(a): Nogueira Diefenthaler, Comarca: São Paulo, Órgão julgador: 5ª Câmara de Direito Público, Data do julgamento: 08/04/2013, Data de registro: 10/04/2013, Outros números: 77094420118260053).
+
+Portanto, o débito consubstanciado no lançamento tributário é nulo.
+ 
+Diante o exposto, JULGO PROCEDENTE a demanda. RESOLVO o mérito nos termos do artigo 269, I do Código de Processo Civil.
+
+DECLARO nulo débito consubstanciado no AIIM nº 3.117.427-9.
+
+MANTENHO a tutela antecipada, deferida anteriormente em instância superior.
+
+CONDENO a ré ao pagamento de despesas do processo. FIXO os honorários devidos ao réu em R$ 50.000,00 nos termos do artigo 20, § 4º, do Código de Processo Civil. 
+
+Publique-se. Registre-se. Intimem-se.
+
+São Paulo, 07 de junho de 2013.
+
+THIAGO MASSAO CORTIZO TERAOKA
+JUIZ DE DIREITO
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

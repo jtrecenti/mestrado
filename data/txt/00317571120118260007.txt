@@ -1,0 +1,114 @@
+
+
+TERMO DE AUDIÊNCIA
+
+Processo:0031757-11.2011.8.26.0007 - Procedimento do Juizado Especial Cível
+
+IDENTIFICAÇÃO DAS PARTES
+
+Autor(a)(es)(as):João de Lima
+Réu(é)s:BANCO SANTANDER (BRASIL) S/A. 
+
+
+DATA, HORA E LOCAL
+
+Data e horário: 17/05/2012 às 14:00h 
+Local: Sala de Audiências da Vara do JUIZADO ESPECIAL CÍVEL DE ITAQUERA
+
+
+PRESENÇAS
+
+MM(a). Juiz(a) de Direito: Eduardo Francisco Marcondes
+Escrevente: ELISANGELA ADAMUZ NUNES SOARES
+
+Autor(a)(es)(as) assistido(a)(s) pelo(a) Dr(a). RAFAEL JUNIOR BASTOS, OAB/SP nº 235.655.
+
+Réu(é)(s)  representado(a)(s) pelo(a) Sr(a). JULIO RODRIGUES DOS SANTOS, RG nº 32.652.672-9 (SSP/SP) e assistido(a) pelo(a) Dr(a).  LEANDRO SILVA DA MATTA, OAB/SP nº 245.590.
+
+CONCILIAÇÃO
+
+A tentativa de conciliação resultou infrutífera.
+
+DEFESA
+ 
+O(s) réu(é)(s)  apresentou(aram) defesa escrita.  
+
+RÉPLICA
+
+A réplica foi apresentada oralmente, nos seguintes termos: ?MM(a). Juiz(a), reitero os termos da inicial, que não restaram abalados pela(s) defesa(s) apresentada(s)?.
+
+INSTRUÇÃO
+
+Não foram colhidos depoimentos.
+
+JULGAMENTO
+
+Pelo(a) MM(a). Juiz(a) foi proferida a seguinte SENTENÇA:
+Vistos.
+Dispensado o relatório, conforme o art. 38 da Lei nº 9.099/95,
+D E C I D O.
+JULGAMENTO
+
+Pelo MM. Juiz foi proferida a seguinte SENTENÇA:
+Vistos.
+Dispensado o relatório, conforme o art. 38 da Lei nº 9.099/95,
+D E C I D O.
+Rejeito a preliminar argüida pelo réu.
+Não há necessidade de prova pericial, pois bastam a documental e oral para a solução da lide.
+Passo a apreciar o mérito.
+Este processo trata de fatos semelhantes que são objeto de inúmeros outros processos contra o mesmo Banco Santander e que tramitam por este JEC: é creditada uma certa quantia na conta da parte autora, com histórico de ?transferência?, proveniente de outra conta mantida junto ao réu por alguém que não está identificado nos autos (informação que o réu não apresenta no processo), e, ato contínuo, são efetuados saques cuja soma atinge aquele valor creditado ou dele se aproxima muito. Mas não pára por aí: assim que o consumidor leva os fatos ao conhecimento do réu, este procede, na conta da parte autora, ao estorno a débito da quantia que fora creditada pela transferência, em geral lançando o histórico ?LCTO A DEBITO ? SAC?.  Supõe?se que o réu faça essse estorno para devolver o dinheiro ao outro cliente titular da conta da qual partiu aquela transferência inicial. Isso implica em concluir que o réu reconheceu que ocorreu uma fraude, em razão da qual aquela transferência inicial foi feita.
+Só que em todos os casos o réu não estorna a crédito do consumidor os débitos que foram efetuados logo em seguida àquela transferência, ou seja, todo o prejuízo da fraude fica para o consumidor que teve a conta utilizada para a prática da fraude.
+Ora, nesse contexto o que se conclui é que o réu imputa a prática da ilicitude à parte autora. 
+Desde que o réu imputa ato ilícito à parte autora, tinha o ônus de produzir tal prova, que não pode ser exigida da parte autora, na medida em que, a par de se presumir a boa fé do consumidor, este não pode ser obrigado a produzir prova de fato negativo, ou seja, de que não praticou aquele ato ilícito.
+O réu, aliás, sequer indicou onde os saques foram realizados, ou seja, a partir de qual máquina e onde esta se encontrava instalada. O réu não informou se o local dos saques era filmado ou não ou se tais máquinas fotografavam a pessoa que estava a realizar a movimentação.
+O réu não indicou como ocorreram a tal transferência e os saques, de maneira que pudesse imputar à parte autora responsabilidade pela sua realização, até mesmo porque essa responsabilização pela transferência era pressuposto para que o réu efetuasse o estorno acima mencionado.
+Não é razoável isentar a responsabilidade do banco, sob o argumento de que todas as transações foram regulares, ou seja, que para aprovação das transações feitas com o uso do cartão magnético era necessário usar o próprio cartão e, ainda, apresentar todos os dados da parte autora, ou seja, seu código secreto, o que impunha a esta o dever de sigilo desses dados, por ela descumprido. Ocorre que o sistema informatizado do réu não é inviolável. Ao contrário: é de conhecimento público, verdadeiro fato notório, a enorme quantidade de fraudes praticadas por hackers e por outras pessoas com conhecimento em tecnologia da informação, mediante clonagem dos dados utilizados nas operações bancárias efetuadas com o uso de cartão magnético e senha. E isso acontece mesmo quando são utilizados sistemas auxiliares de segurança além da senha, como, por exemplo, as ?letras de acesso?.
+Nunca é demais lembrar que o cartão que o réu forneceu à parte autora  também possuía tarja magnética, o que, por si só, já representa uma facilitação à ação de estelionatários, pois os dados da tarja magnética são facilmente clonáveis por quadrilhas de criminosos especializados em fraudes ao sistema bancário, conforme se tem observado pelas inúmeras reportagens divulgadas pela imprensa.
+Não há sequer início de prova, pois, de culpa da parte autora.
+Portanto, o banco não provou o que alegou, ou seja, não provou que a parte autora tenha agido ilicitamente e não há dispositivo legal autorizando que se faça tal presunção de responsabilidade civil da parte autora.
+E tão pouco se pode excluir a responsabilidade do réu sob o fundamento da culpa exclusiva de terceiro, tal seja o estelionatário que aplicou o golpe, pois a responsabilidade pela segurança do sistema é do réu, enquanto fornecedor, e a ação do terceiro ocorreu justamente em cima de falha da segurança, que é, portanto, plenamente imputável ao réu, que responde pelos danos sofridos pela parte autora.
+Existem sistemas de segurança que poderiam ser usados pelo réu, tais como aqueles que envolvem biometria, mas que são desprezados em razão do elevado custo que representam para as operações. Ora, desde que o risco do negócio é do fornecedor, não é razoável que este, ao deixar de efetuar os investimentos necessários para manter a segurança, transfira ao consumidor o risco decorrente justamente da insuficiente segurança que forneceu.
+É o que basta para se concluir que a culpa não foi exclusiva do consumidor, nem de terceiro, e que, portanto, o réu deve lhe devolver o valor indevidamente retirado de sua conta.
+Houve danos morais. Caracteriza mais do que mero aborrecimento ver o consumidor ser subtraída quantia de sua conta bancária sem que o depositário, a quem confiou a guarda de seu dinheiro, apresente justifica razoável para o ocorrido e, ainda, sem que este assuma sua responsabilidade, pela qual, aliás, era remunerado pelo consumidor.
+Nesse contexto, arbitro o valor de R$ 6.000,00 para a indenização por danos morais.
+DISPOSITIVO:
+Em razão do exposto, JULGO PROCEDENTE a ação para:
+a.) condenar o réu a pagar à parte autora a quantia de R$ 2.000,00 (dois mil reais), por danos materiais, a ser acrescida dos valores de todos os encargos e taxas que tenha cobrado da parte autora por conta dos fatos retratados neste processo, tudo com correção monetária desde a(s) data(s) do(s) débito(s) pela tabela do TJSP e de juros moratórios de 1% ao mês desde a data da citação, conforme arts. 405 e 406, do Código Civil c.c. art. 161, §1º, do Código Tributário Nacional;
+b.) condenar o réu a pagar à parte autora a quantia de R$ 6.000,00 (seis mil reais), por danos morais, com acréscimo de correção monetária desde hoje pela tabela do TJSP (Sum. 362 do STJ) e de juros moratórios de 1% ao mês desde a data da citação, conforme arts. 405 e 406, do Código Civil c.c. art. 161, §1º, do Código Tributário Nacional.
+Em conseqüência, torno definitiva a liminar de fls. 16.
+Como o réu demorou 12 (doze) dias para cumprir a liminar (foi intimado em 13/09/2011 a fls. 40 e somente a cumpriu em 27/09/2011 ? fls. 50), aplico-lhe a multa total de R$ 12.000,00 (doze mil reais), a ser paga à parte autora atualizada a partir de 16/09/2011 pela Tabela do TJSP, com juros moratórios de 1% ao mês desde a data da citação, conforme arts. 405 e 406, do Código Civil c.c. art. 161, §1º, do Código Tributário Nacional.
+Diante da repetição quase diária de processos idênticos a este neste JEC, encaminhe-se cópia dos autos ao Banco Central, para apuração da responsabilidade do réu em razão da fragilidade de seu sistema informatizado.
+Encaminhe-se cópia desta sentença por email ao E. Colégio Recursal, diante do agravo de instrumento interposto (fls. 21). No email, informe-se ao Exmo. Sr. Juiz Relator que, s.m.j., o agravo é intempestivo, porque o réu foi intimado da decisão em 13/09/2011 (fls. 40) e somente recorreu em 05/10/2011.
+Honorários, custas  e despesas processuais: não há condenação ao pagamento de honorários e de custas e despesas processuais, porque incabíveis nesta fase processual do Juizado Especial Cível (Lei nº 9.099/95, arts. 54 e 55).
+
+PUBLICAÇÃO, INTIMAÇÃO E ENCERRAMENTO
+
+Publicada a sentença em audiência, ficam as partes intimadas: 
+(a) do prazo de dez dias para apresentação de recurso, que não possui efeito suspensivo do julgado (art. 43, da Lei 9099/95); 
+(b) do prazo de 48 horas para efetuar o pagamento do preparo do recurso, a partir da interposição, sob pena de deserção (art. 42, § 1º, da Lei 9099/95), bem como pagamento do porte de remessa e retorno (item 66, do Provimento CSM nº 806/2003, de 10.11.03, com a redação do Provimento  884/2004, DJE 23.09.2004). O valor do preparo deve ser a soma de 1% (um por cento) do valor da causa ou cinco UFESPS, o que for maior, mais 2% (dois por cento) do total da condenação ou cinco UFESPS, o que for maior, ressalvada a gratuidade da justiça deferida à parte recorrente, quando efetivamente concedida nos autos. 
+REGISTRE-SE. 
+Eu, ___________________, escrevente acima identificado, digitei, providenciei a impressão e subscrevi.
+
+ATENÇÃO: este documento, que foi produzido eletronicamente na forma da Lei nº 11.419/2006, contém a assinatura digital do(a) MM. Juiz(a) de Direito no original e a(s) assinatura(s) física(s) da(s) parte(s) na 1ª cópia juntada aos autos.
+
+ASSINATURAS:
+
+ASSINADO DIGITALMENTE
+EDUARDO FRANCISCO MARCONDES
+Juiz de Direito
+
+
+
+
+Autor(a)
+
+
+Advogado(s) do(a) Autor(a)
+
+
+
+
+Réu(é)
+
+
+Advogado do(a) Réu(é)

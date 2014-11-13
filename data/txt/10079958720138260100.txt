@@ -1,0 +1,84 @@
+
+
+SENTENÇA
+
+Processo nº:1007995-87.2013.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Espécies de Contratos
+Requerente:MULTI MERCANTES LTDA
+Requerido:TOTVS SA
+
+
+
+
+Juiz(a) de Direito: Dr(a). Adriana Cardoso dos Reis
+
+Vistos.
+
+Trata-se de AÇÃO DE OBRIGAÇÃO DE FAZER c.c. INDENIZAÇÃO POR DANO MATERIAL E MORAL.
+
+Narra, em síntese, a petição inicial que: 1) a autora adquiriu da ré sistema de informática; 2) o serviço contratado não foi executado adequadamente; 3) a ré concluiu apenas a primeira fase do serviço contratado e com várias falhas; 4) pagou parte do preço ajustado pela aquisição do serviço; 5) precisou contratar outras empresas para executar o serviço que não foi prestado pela ré e também para corrigir as falhas existentes em relação à parte do serviço que foi executada.
+
+A autora postula: 1) a declaração de inexigibilidade do restante do preço ajustado e que ainda não foi pago; 2) a condenação da ré à obrigação de não desligar a chave de segurança que permite o funcionamento do sistema de Software IMPXEXP (EASY IMPORT), bem como à obrigação de promover as atualizações e o suporte técnico para o funcionamento do sistema pelo prazo mínimo de 180 dias; 3) a condenação da ré à obrigação de restituir todos os valores pagos, quais sejam: R$ 524.735,97 (quinhentos e vinte e quatro mil setecentos e trinta e cinco reais e noventa e sete centavos) pelos serviços complementares de softwares (SCS), e R$51.000,00 (cinquenta e um mil reais)  pelo Software IMPXEXP (EASY IMPORT) 4) a condenação da ré ao pagamento de indenização por dano material e moral.
+
+A petição inicial foi instruída com documentos (fls. 60/238).
+
+A ré foi citada (fls. 277), mas ofereceu contestação após o prazo legal (fls. 279).
+
+
+É O RELATÓRIO.
+FUNDAMENTO E DECIDO.
+
+
+Julgo antecipadamente a lide, com fulcro no inciso II do art. 330 do Código de Processo Civil, tendo em vista que a ré é revel, uma vez que foi citada e não ofereceu contestação no prazo legal.
+
+
+Nesse passo, aplica-se ao caso vertente o disposto no art. 319 do Código de Processo Civil e, por conseguinte, presumem-se como verdadeiros os fatos narrados na petição inicial, vale dizer: que a ré deixou descumpriu o contrato celebrado com a autora, uma vez que não executou a totalidade do serviço adquirido, e que executou mal a parte do serviço realizada, e que a autora pagou à ré as quantias mencionadas às fls. 57.
+
+Cumpre ressaltar que a contestação oferecida após o prazo legal equivale à ausência de contestação e, por conseguinte, acarreta os efeitos da revelia.
+
+De outra banda, a revelia acarreta, como já ressaltado, a presunção dos fatos alegados pela parte autora, porém não necessariamente a procedência do pedido, porque este é analisado em consonância com o ordenamento jurídico em vigor.
+
+Considerando o acima exposto, o pedido da autora é parcialmente procedente, pelos motivos que passo a expor.
+
+Em razão da revelia, presume-se que a ré deixou de cumprir parte das obrigações contratadas e que a obrigação cumprida não observou a forma contratada.
+
+Por conseguinte, impõe-se a resolução do contrato celebrado entre as partes, com o direito da autora à restituição do preço pago, devidamente corrigido.
+
+Ressalto que o pedido de restituição do preço pago implica na resolução do contrato, e é incompatível com o pedido de condenação da ré à obrigação de cumprir as obrigações contratadas, razão pela qual este pedido é improcedente.
+
+Nesse passo, a ré deverá restituir à autora o valor total do preço pago, qual seja R$575.786,97 (quinhentos e setenta e cinco mil setecentos e oitenta e seis reais e noventa e sete centavos).
+
+Os juros de mora incidirão a partir da citação, no montante de um por cento ao mês, por força do disposto no art. 219 do Código de Processo Civil e art. 406 do Código Civil.
+
+E a correção monetária, pelo índice oficialmente adotado pela Tabela Prática do Egrégio Tribunal de Justiça de São Paulo, incidirá a partir da data do ajuizamento da ação, em consonância com o disposto no §2º do art. 1º da Lei 6.899, de 9 de abril de 1981.
+
+O pedido de indenização por dano material é improcedente, pelos motivos que passo a expor.
+
+A autora pede, cumulativamente, a restituição dos valores pagos à ré e a indenização dos valores pagos pelo execução do mesmo serviço a terceiros.
+
+Ocorre que cumulação dos dois pedidos implicaria em enriquecimento ilícito, uma vez que por força desta sentença ela irá obter a restituição do preço pago pela aquisição do serviço.
+
+Por sua vez, o pedido de indenização por dano moral também é improcedente, porque não houve no caso vertente violação a direito subjetivo.
+
+O dano moral constitui-se na dor e no sofrimento, que residem na alma.
+
+A vida em sociedade traz alegrias e contentamentos, ocorrendo, dada à multiplicidade de relações intersubjetivas, satisfações e tristezas ao longo dos relacionamentos e no desenrolar dos fatos.
+
+Isto, contudo, não implica admitir a ocorrência de dano moral todas as vezes que ocorre um dissabor ou um desgosto, pois são acontecimentos naturais decorrentes da convivência em sociedade.
+
+A indenização por dano moral é cabível somente quando os eventos causem transtornos anormais, excepcionais, que fujam à ordinariedade, o não ocorreu na hipótese vertente.
+
+O descumprimento de um contrato constitui evento previsível, que via de regra não enseja indenização por dano moral.
+
+Diante do exposto, e do mais que dos autos consta, JULGO PARCIALMENTE PROCEDENTE O PEDIDO, nos termos do art. 269, inciso I, do Código de Processo Civil, para o fim de: 1) declarar rescindido o contrato entre as partes; 2) declarar inexigível, para todos os efeitos legais, o saldo remanescente do preço ajustado pelo serviço contratado; 3) condenar a ré a pagar à autora a quantia de R$ 575.786,97 (quinhentos e setenta e cinco mil setecentos e oitenta e seis reais e noventa e sete centavos), com incidência de juros de mora e correção monetária na forma determinada nesta sentença.
+
+Tendo em vista a sucumbência recíproca, nos termos do art. 21 do CPC, cada uma das partes arcará com os honorários de seu patrono e com cinquenta por cento do valor devido a título de custas e despesas processuais.
+
+P.R.I.
+
+São Paulo, 19 de dezembro de 2013.
+
+ADRIANA CARDOSO DOS REIS
+JUÍZA DE DIREITO
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

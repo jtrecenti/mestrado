@@ -1,0 +1,93 @@
+
+
+SENTENÇA
+
+Processo nº:0004296-08.2013.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Perdas e Danos
+Requerente:Optidata Soluções em Informática e Equipamentos Ltda ME.
+Requerido:Megawork Consultoria e Sistemas Ltda e outro
+
+Juiz(a) de Direito: Dr(a). Rogério de Camargo Arruda
+
+
+Vistos.
+
+OPTIDATA SOLUÇÕES EM INFORMÁTICA E EQUIPAMENTOS LTDA ? ME ajuizou a presente ação contra MEGAWORK CONSULTORIA E SISTEMAS LTDA. e SAP BRASIL LTDA. alegando, em síntese, que celebrou contrato com a ré Megawork para adquirir e implantar um software produzido pela ré SAP. Diz que a Megawork lhe enviou documentos com a descrição do que deveria ser observado para a implantação do sistema, bem como um cronograma para a execução dos serviços. Afirmou ter sido necessária a contratação de uma empresa para parametrizar a sua parte fiscal e a compra de equipamento para a instalação do sistema, o que a onerou. Aduz que, de acordo com o cronograma fornecido pela ré, os serviços teriam início em 11/07/2011 e fim em 20/10/2011 (data denominada ?go live?). Diz que o serviço estaria concluído com a entrega definitiva do sistema com todas as suas funcionalidades, treinamento dos seus funcionários e banco de dados alimentado. Assevera que avisou à ré que o software deveria contemplar alguns recursos específicos e que ela aceitou todas as exigências. Alega que os prazos não foram cumpridos e que nem metade dos serviços para implantar o software foi concluída. Alegando o inadimplemento das rés, bem como os gastos para adquirir equipamentos novos, que não puderam ser aproveitados, diz que incorreram as requeridas em ilícito, ensejando danos morais. Afirma, ainda, que pagou a renovação da licença do software, mesmo sem seu funcionamento, em janeiro de 2012. Por essas razões, pediu a declaração de resolução do contrato por inadimplemento das rés e a condenação ao pagamento de todos os valores pagos às rés, da multa de 30% sobre o valor do contrato, dos valores pagos à empresa de parametrização fiscal e a devolução em dobro dos valores pagos a título da renovação dos softwares. Juntou documentos.
+
+Citada, a ré Megawork apresentou contestação às folhas 371/410 alegando, em síntese, que atuou sempre dentro do prazo. Diz que ficou acertado entre as parte que o projeto teria início apenas quando a autora providenciasse toda a infraestrutura necessária, mas que houve atraso por parte da requerente, gerando uma demora no início do projeto. Afirma que a autora ocasionou o atraso na entrega e disponibilização de alguns itens imprescindíveis para o desenvolvimento do sistema contratado. Aduz que todo o serviço foi acompanhado pela autora, vários módulos foram entregues e aceitos por ela. Alega que a autora realizou uma solicitação para alteração do escopo, o que impediu o cumprimento do primeiro prazo, além disso, a autora não agendou novo ?go live?. Diz que apresentou nova proposta com a alteração e com novo valor. Alega que houve culpa da requerente, o que gerou falha no serviço prestado. No que diz respeito à alegação de que nem metade dos serviços foi prestada, afirma que restam pendentes apenas algumas atividades de responsabilidade da autora. Aduz que a prova de folhas 84 foi feita sem o conhecimento de seu representante, sendo, assim, ilícita. Em relação aos valores despendidos pelo serviço prestado, diz que o pedido não merece prosperar, pois os serviços foram prestados e entregues, com validação. No que concerne à multa, afirma que não houve descumprimento contratual. Sobre a devolução em dobro, diz que a cobrança foi feita dentro do contratado entre as partes. Por fim, impugnou a alegação de danos morais. Por essas razões, requereu a improcedência da ação.
+
+Citada, a ré SAP Brasil apresentou contestação de folhas 602/624 alegando, preliminarmente, ilegitimidade passiva, dizendo que é subsidiária da SAP AG. No mérito, alegou inexistência solidária, pois não há qualquer vínculo de subordinação entre a Megawork e a SAP. Aduz que os infortúnios narrados na inicial não foram causados por ela, já que os problemas reportam-se exclusivamente à parte de implementação do software. Afirma que não há comprovante de que houve desembolso dos preditos valores pela autora em favor da Megawork, bem como não pode a SAP devolver valor que não recebeu. Em relação à restituição em dobro, diz não prosperar tal alegação, pois não houve dolo ou má-fé da contestante. Por essas razões, requereu o acolhimento da preliminar ou a improcedência da ação. 
+
+Réplica às folhas 663/687.
+
+Instadas a manifestarem-se sobre dilação probatória (folhas 688), a autora afirmou não ter interesse em produção de outras provas (folhas 690/692), a ré SAP requereu prova documental e oral (folhas 694/695) e a ré Megawork requereu prova pericial e oral.
+
+É o relatório.
+
+Fundamento e decido.
+
+O feito comporta julgamento no estado em que se encontra, tendo em vista que as alegações das partes, os documentos acostados aos autos e, sobretudo, o desinteresse da parte autora na produção de outras provas dos fatos por ela alegados (folhas 690/692) permitem a prolação da sentença, independentemente da produção de outras provas.
+
+Posto isso, procede a preliminar de ilegitimidade passiva suscitada pela requerida SAP do Brasil Ltda., com relação a qual o feito deve ser extinto, sem julgamento do mérito, uma vez que, a requerente volta-se contra a prestação os serviços da empresa que contratou para instalação do Software ? a corré Megawork ? que, por essa razão, deve figurar de forma isolada no polo passivo da presente ação. Nesse sentido:
+
+Ação de rescisão contratual. descumprimento. Demora na instalação de software. Caso em que é de ser afastada a pretensão da autora relativa à responsabilidade solidária da co-demandada, já que a mesma não possui qualquer relação jurídica com a demandante, sendo que eventuais problemas existentes entre as duas empresas rés não interferem nos direitos contratuais da autora. Assim, deve a responsabilidade pela rescisão da avença diante do descumprimento dos deveres contratuais ser imputada somente a uma delas. (TJRS ? Apelação nº 70043055466- DJ: 30/06/2011 ? g.n.)
+
+
+Com efeito, a requerida SAP do Brasil Ltda. não foi contratada pela parte requerente para instalação e implementação do referido software, mas apenas cedeu à requerida a permissão de uso de referido produto. Dessa forma, não se referido a narrativa inicial a defeitos do produto adquirido, mas sim à má prestação dos serviços pela requerida Megawork, não tem a licenciadora SAP legitimidade para a causa.
+
+Até mesmo porque, ?parceria em negócios não gera responsabilidade solidária de uma parceira pela contratação jamais imposta da outra, inda mais se a primeira somente em meio da implantação, pela segunda, do software que licenciara passou a regê-la para tentar conclui-lá? (TJSP - Apelação 9139103-93.2005.8.26.0000).
+
+Ou seja, se no caso acima mencionado o Egrégio Tribunal de Justiça deste Estado reconheceu a ilegitimidade da licenciadora, inclusive quando ela assumiu a conclusão da implantação falha, com mais razão se reconhecer sua ilegitimidade no caso presente, no qual ela se limitou a autorizar o uso do software adquirido. 
+
+Posto isso e ressaltando-se que a relação entre as partes discutida nestes autos não é regida pelo Código de Defesa do Consumidor, impõe-se o reconhecimento da ilegitimidade passiva da requerida SAP Brasil Ltda., extinguindo-se o feito, sem apreciação do mérito com relação a ela.
+
+Já quanto à requerida Megawork, a ação é improcedente.
+
+
+Isso porque, de plano, consigne-se que se tratando de relação entre pessoas jurídicas, na qual a parte requerente adquiriu da requerida software notoriamente conhecido para o gerenciamento e fomento de sua atividade econômica, não se trata de relação de consumo e, portanto, ao caso não se aplica o Código de Defesa do Consumidor. 
+
+Nesse sentido: 
+
+
+?Aquisição de software com finalidade específica. Alegação voltada ao vício no produto por conta de desinformação quanto às especificações para seu uso e conseqüente direito de repetição do valor pago. Defeito não provado. Artigo 333, I, do CPC. Demanda travada entre pessoas jurídicas. Inaplicabilidade do Código de Defesa do Consumidor por não se tratar de destinatário final. Improcedência do pedido inicial? (TJSP ? Apelação nº 9183844-87.2006.8.26.0000 ? Rel. Des. Rocha de Souza ? DJ: 28.10.2010 ? g.n.). 
+
+
+
+Posto isso, em que pesem as afirmações contidas na petição inicial de que a ré Megawork não teria cumprido adequadamente com os prazos e nem a totalidade dos serviços contratados, não restou cabalmente demonstrada, nos autos, a culpa da requerida no alegado atraso, nem tampouco a que alegada falha na prestação dos seus serviços. 
+
+Com efeito, é certo que os documentos trazidos pela parte requerente com sua inicial indicam o atraso no desenvolvimento dos serviços contratados. Todavia, em contestação, a requerida Megawork nega a falha de sua parte e aponta que os atrasos e percalços ocorridos se deram em razão da conduta da própria requerente.
+
+De fato, alegou a requerida que o atraso na finalização do projeto ocorreu em razão da conduta da requerente, que não teria disponibilizados os servidores necessários, não apresentou as planilhas necessárias, optou pela inclusão de dados e cadastramentos manualmente, que houve o desligamento de um consultor da requerente, com impacto no desenvolvimento do projeto, e, ainda, que houve alteração do escopo do trabalho.
+ A dar suporte às alegações da requerida ? tornando, no mínimo, os fatos controvertidos nos autos - é de se verificar que, verbi gratia, os documentos de folhas 449 e seguintes revelam a existência de pendências por parte da requerente, bem como a impossibilidade do prosseguimento do projeto enquanto não houvesse a finalização das ?cargas de planos de contas, impostos, parceiro de negócio e itens, pois são informações estruturais para as próximas fases do sistema?. 
+
+Da mesma forma, a sequencia das mensagens indica que houve impossibilidade de avanço nos projetos, em razão da ?importação das planilhas?, de responsabilidade da requerida, como se depreende das mensagens de folhas 450/452, dentre as quais se verifica a cobrança do responsável da requerente de pessoa denominada ?Santana? o envio das planilhas para a Megawork (folhas 451), a qual, em seguida, noticia não tê-las recebido (folhas 452). 
+
+E, do mesmo modo, de folhas 56, se observa a requisição pela requerente de alteração de algumas questões funcionais do produto adquirido, sendo-lhe informado que ?o sistema não contempla essa funcionalidade?. Assim, a autora teve conhecimento de que, o que poderia ser feito era a realização de um ?add-on? no sistema, o que implicaria em novo prazo, maior do que o acordado pela primeira vez. 
+
+Tudo isso, no mínimo, deixa os fatos narrados na inicial controversos e, portanto, dependentes de cabal comprovação, sendo certo que, por força da norma positivada pelo artigo 333, inciso I, do Código de Processo Civil, o ônus de tal comprovação recaia sobre a parte autora, que, no entanto, a ele não atendeu, sobretudo ao manifestar desinteresse na produção de outras provas (folhas 690/692).
+Assim sendo, impõe-se reconhecer que a parte requerente não logrou comprovar cabalmente os fatos por ela alegados, em observância ao quanto disposto pelo referido artigo 333, inciso I, do Código de Processo Civil, deixando precluir tal direito ao, quando instada sobre o interesse na produção de outras provas, manifestou-se negativamente. 
+
+Nesses termos: 
+
+?Prova dos fatos constitutivos de seu direito que compete à autora, por força do art. 333, I, do CPC - Ônus do qual não se desincumbiu, tendo postulado pelo julgamento antecipado da lide na oportunidade concedida para especificação de provas - Sentença de improcedência mantida? (TJSP: Apel. 9108217-43.2007.8.26.0000 ? Rel. Sérgio Shimura ? DJ: 08.02.2012 ? g.n.).
+
+Assim sendo, ?se a autora não faz prova boa e cabal do fato constitutivo do seu direito a ação improcede. Inteligência do art. 333, I, do CPC? (TJSP ? Apel. 0009786-75.2010.8.26.0048). Portanto, sem a adequada comprovação do ilícito na falha dos serviços por parte da requerida e do nexo causal entre a conduta da requerida e o dano alegado, inviável o acolhimento das pretensões da parte requente. 
+
+
+Ademais, os fatos acima apontados revelam que houve descumprimento por parte da empresa autora em disponibilizar o necessário para a instalação e implementação do software, de forma que, tratando-se de contrato bilateral, nos termos do artigo 476, do Código Civil, não poderia ela exigir da requerida o cumprimento de sua obrigação, sem antes promover o que lhe competia para tanto. 
+
+Nesse sentido:
+
+
+?Ação de rescisão contratual c/c restituição de valores ? Inaplicabilidade do código de defesa do consumidor ? - Não configuração do autor como destinatário final ? - Empresa que não é de pequeno porte - Software utilizado com intuito de obtenção de lucro - Inexistência de qualquer hipossuficiência ou vulnerabilidade - ? Precedentes - ? Artigo 476 do Código Civil ? contrato bilateral - ? Impossibilidade de exigir o cumprimento sem ter realizado sua obrigação contratual - Apelada que descumpriu o dever de disponibilizar o sistema adequado à instalação do software ?  - Rescisão unilateral do contrato pela apelada ? inexistência de dever de devolução dos valores pagos ? recurso de apelação parcialmente provido.
+
+
+Diante do exposto: A) Reconheço a ilegitimidade passiva da requerida SAP Brasil Ltda. e, por via de consequência, com relação a ela, JULGO EXTINTO O PROCESSO, sem julgamento do seu mérito, com base no artigo 267, VI, do Código de Processo Civil; e B) Com relação à requerida Megawork Consultoria e Sistemas Ltda., JULGO IMPROCEDENTES os pedidos e, por consequência, julgo o processo extinto, com base no artigo 269, inciso I, do Código de Processo Civil. 
+
+Pela sucumbência, arcará a parte autora com as custas e despesas processuais, além de honorários de advogado das partes adversas, fixados em R$ 5.000,00, com base no artigo 20, § 4º, do Código de Processo Civil, para cada requerida.
+
+P.R.I.
+São Paulo, 26 de setembro de 2013.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE, NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

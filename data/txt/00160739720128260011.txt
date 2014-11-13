@@ -1,0 +1,76 @@
+
+
+SENTENÇA
+
+CONCLUSÃO
+Em 20 de fevereiro de 2013, faço estes autos conclusos ao(a) MM. Juiz(a) de Direito, Exmo(a). Sr(a). Dr(a). Manoel Luiz Ribeiro. Eu ___ Manoel Luiz Ribeiro, subscrevi.
+
+
+
+Processo nº:0016073-97.2012.8.26.0011 - Procedimento Ordinário
+Requerente:Valter Gonzales
+Requerido:Sulamerica Cia de Seguro Saude
+
+Justiça Gratuita
+
+Juiz(a) de Direito: Dr(a). Manoel Luiz Ribeiro
+
+
+Vistos.
+
+VALTER GONZALES propôs ação cominatória contra SUL AMÉRICA SEGURO SAÚDE S/A, alegando ter sido acometido de carcinoma de canal anal (ca epidermoide), de forma que necessita realizar o tratamento oncológico de radioterapia com IMRT (Intensidade modulada). Ocorre que a ré recusa-se a autorizar o tratamento, sob o argumento de que o procedimento não consta da relação da ANS. Sustenta a existência de dano moral com a recusa indevida. Pede a procedência da ação, com autorização do procedimento junto ao Hospital Oswaldo Cruz, e a indenização por danos morais em valor não inferior a 100 salários mínimos. Junta documentos.
+
+Deferida a liminar, a ré foi citada e ofereceu contestação, alegando que o procedimento em questão não está coberto, exatamente porque não consta do rol da ANS. Não há ato ilícito gerador de dano moral. Ademais, o valor pleiteado é exorbitante (fls. 44/51).  Junta documentos. 
+
+Réplica às fls. 55/59.
+
+É o relatório.
+
+Fundamento e decido.
+
+O processo comporta julgamento antecipado, na forma do artigo 330, I, do Código de Processo Civil. A matéria fática só admite prova documental que já consta ou deveria estar presente nos autos. Ademais, as partes pleiteiam o julgamento antecipado, afirmando não haverem provas a produzir.
+
+A ação é procedente em parte.
+
+É fato incontroverso que o contrato de seguro-saúde prevê cobertura para "sessões de quimioterapia e radioterapia, mediante solicitação médica", sendo que, no caso vertente, há prescrição médica.
+
+De outra parte, ordinariamente o contrato prevê a exclusão de cobertura para procedimento não relacionado no rol da ANS. Com base nessa cláusula a ré nega o direito pretendido pela autora.
+
+Não nos parece, contudo, acertada a tese.
+
+A doutrina médica explica que o ?IMRT - Intensity Modulated Radiotherapy - Radioterapia com Intensidade Modulada é uma tecnologia avançada de radioterapia. O objetivo de todos os tratamentos de radioterapia é o de causar o máximo de dano às células cancerosas e ao mesmo tempo provocar um mínimo de dano às células normais. As máquinas IMRT têm a capacidade de controlar melhor o feixe de radiação do que as máquinas convencionais, provocando assim o mínimo de danos às células normais? (http://www.siemens.com.br/templates/coluna1.aspx?channel=2124).
+
+Outro site acresce: ?O planejamento tridimensional preparatório para as técnicas conformal (RT-3D) ou IMRT, é efetuado através da reconstrução de cortes de tomografia computadorizada, onde são delineadas as estruturas de interesse (cabeça de fêmur, reto, bexiga, próstata e vesículas seminais). Permite o arranjo de vários campos com diferentes portas de entrada, inclusive em planos não-axiais, e principalmente o cálculo da distribuição de dose, comparação entre diferentes técnicas, e geração de histogramas de dose-volume (DVH - gráficos que ilustram o quanto de cada órgão, seja ele alvo ou normal, recebe de radiação)? (http://www.lincx.com.br/lincx/cientificos/medicos/urologia/imrt.asp).
+
+Assim, resta evidente que a nova técnica não representa um procedimento diagnóstico, nem tratamento clínico novo, mas aperfeiçoamento da radioterapia, que acaba sendo executada com o controle maior da quantidade de radiação.
+
+O fato de o tratamento não estar incluído na tabela da ANS não afasta a obrigação de cobertura. Evidente que a demora do órgão público na atualização do rol de procedimentos não inviabiliza o tratamento, que decorre de doença coberta. Interpretação contraria redundaria prestigiar o fornecedor, que redigiu as cláusulas de adesão, em detrimento do aderente. 
+
+A solução preconizada viola as regras de hermenêutica adotadas para o caso em exame. No contrato impresso de adesão, qualquer cláusula obscura se interpreta em favor do aderente. Aliás, a proteção coincide com mandamento consumerista, relação presente no caso vertente (art. 47 do Código de Defesa do Consumidor).
+
+De outra parte, violaria também o princípio da boa-fé, pois o fornecedor, oferecendo a cobertura ao câncer, de quimioterapia e radioterapia, sem ressalvas, capta a vontade do consumidor, aderente, que, confiante na amplitude do contrato, acredita na plena proteção em situações da espécie (art. 51, IV, do Código de Defesa do Consumidor).
+
+Não só viola a boa-fé, como revelaria tal interpretação a admissão de cláusula abusiva, na medida em que coloca o consumidor em desvantagem exagerada, apresentando caráter de iniqüidade (art. 51, IV, do Código de Defesa do Consumidor). Afinal, exigir do consumidor que aguarde a atualização da tabela da ANS para submeter-se ao procedimento de radioterapia necessitado, coberto e disponível no mercado, seria restringir ?direitos ou obrigações fundamentais inerentes à natureza do contrato, de tal modo a ameaçar seu objeto ou equilíbrio contratual? (parágrafo 1º, II, do art. 51 citado).
+
+Imperioso, portanto, que se acolha a pretensão nesta parte.
+
+No tocante ao pleito de indenização por dano moral, melhor sorte não assiste ao autor.
+
+A matéria envolve discussão jurídica, de forma que a divergência de interpretação não pode conduzir à conclusão, diante do não acolhimento de uma delas, da prática de ato ilícito gerador de dano moral.
+
+EMENTA: APELAÇÃO CÍVEL. PLANO DE SAÚDE. O CDC é norma principiológica, de ordem pública e aplicável a qualquer relação de consumo. Não subsiste a negativa da ré em cobrir exame de Pet-Scan por não haver obrigatoriedade no rol da ANS, sob pena de violação da função social do contrato. Inexiste desequilíbrio contratual quando surge obrigação de cobertura que, embora não prevista contratualmente, era previsível pela interpretação sistemática do ordenamento. Não há dever de indenização quando a negativa se baseia e discussão jurídica fundada. Apelo parcialmente provido (Ap. Civ. 0029577-06.2011.8.26.0562 ? TJSP ? 2ª Câm. ? rel. Des. José Carlos Ferreira Alves ? j. 04.12.2012).
+
+Ante o exposto, por estes fundamentos e pelo mais que dos autos consta, JULGO PROCEDENTE EM PARTE A AÇÃO para condenar a ré a autorizar e custear o tratamento oncológico de radioterapia com intensidade modular (IMRT) no hospital Oswaldo Cruz, sob pena de multa diária R$ 500,00. Torno, assim, definitiva a tutela antecipada concedida.
+ 
+Diante da sucumbência recíproca, cada parte arcará com as custas e despesas processuais despendidas e os honorários advocatícios de seu respectivo patrono.
+
+P.R.I.
+
+São Paulo, 20 de fevereiro de 2013.
+
+
+
+                D  A  T  A
+Em _______ de _______ de 2013.
+recebi estes autos em Cartório.
+Eu,______________, Escr., subsc.

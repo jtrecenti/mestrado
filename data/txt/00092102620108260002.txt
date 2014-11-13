@@ -1,0 +1,48 @@
+
+
+CONCLUSÃO 
+Em 23/11/2011, faço estes autos conclusos à Dra. Fernanda Soares Fialdini, MMa. Juíza de Direito da 4ª Vara Cível do Foro Regional de Santo Amaro. Eu __, (Flávio), escrev. subscr.
+
+
+SENTENÇA
+
+Processo nº:0009210-26.2010.8.26.0002 - Procedimento Ordinário
+Requerente:Silvio Lattaro Mello e outro
+Requerido:Banco Bradesco S/A
+
+
+
+Juiz(a) de Direito: Dr(a). Fernanda Soares Fialdini
+
+
+
+Vistos.
+ 1. Eliane de Carvalho Domanico Lattaro Mello e Silvio Lattaro Mello ajuizaram ação contra Banco Bradesco S/A. Alegam que o réu permitiu que o autor, em fevereiro de 2008, no ambiente virtual denominado Bradesco Home Banking fornecesse seus dados cadastrais e senha, que foram utilizados por terceiro de má-fé para realizar diversas operações financeiras, subtraindo R$ 40.500,00 dos autores. O réu ressarciu parte do prejuízo, mas depois deixou de fazê-lo argumentando que, na conta poupança as transações foram feitas mediante utilização de senha, pessoal e intransferível. O fornecimento da senha apenas foi possível porque o ambiente virtual é passível de violação. Pediu a reparação dos danos materiais, no valor de R$ 42.185,53, e indenização por danos morais.
+O réu contestou. Argumenta que o fornecimento de dados bancários e pessoais, intransmissíveis, foi realizado em favor de terceiro estranho à relação bancária. Para utilização da conta poupança/corrente dos autores de forma virtual, necessário se faz a colocação de senhas e códigos secretos, aos quais somente os autores tinham acesso. O autor é responsável pelo sigilo e guarda de suas senhas e demais códigos de segurança. Os clientes assumem a responsabilidade pelas instruções passadas pelo banco com uso de senhas e códigos. Os autores conhecem as regras das instituições financeiras, especialmente que não é possível fornecer senhas a desconhecidos. Não podem responsabilizar o banco por um erro seu.
+Os autores se manifestaram em réplica.
+Não foi requerida a produção de provas.
+É o relatório.
+Decido.
+2. Ao contrário do que alega o réu, não há qualquer má-fé dos autores. Eles confessam que houve o fornecimento de senha no ambiente virtual do banco, pelo autor Silvio. Ele argumenta, porém, que foi conduzido a informar seus dados pessoais durante o acesso ao site do banco, e tais dados foram utilizados por terceiro de má-fé.
+Seria diferente a situação se o autor, por exemplo, houvesse fornecido a um empregado seu a senha, e saques houvessem sido realizados. O autor estava em ambiente que considerava seguro. Mas no mesmo ambiente virtual estava um criminoso, que utilizou o próprio ambiente virtual para obter do autor informações sigilosas. Com elas, realizou transações e causou prejuízo material aos autores.
+Ou seja: o serviço de ?internet banking? disponibilizado pelo réu não tinha a segurança que o consumidor tem o direito de exigir.
+O art. 14 do Código de Defesa do Consumidor estabelece:
+?O fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos.
+ § 1° O serviço é defeituoso quando não fornece a segurança que o consumidor dele pode esperar, levando-se em consideração as circunstâncias relevantes, entre as quais:
+ I - o modo de seu fornecimento;
+ II - o resultado e os riscos que razoavelmente dele se esperam;
+ III - a época em que foi fornecido.
+ § 2º O serviço não é considerado defeituoso pela adoção de novas técnicas.
+ § 3° O fornecedor de serviços só não será responsabilizado quando provar:
+ I - que, tendo prestado o serviço, o defeito inexiste;
+ II - a culpa exclusiva do consumidor ou de terceiro.?
+Qual a segurança que se espera de um serviço disponibilizado pelo banco para acesso às contas e aos valores nelas depositados? Que terceiros não se aproveitem do acesso do cliente e utilizem o ambiente proporcionado pelo banco para obter dados sigilosos. Foi exatamente o que aconteceu. O autor não forneceu seus dados sigilosos a um remetente de e-mail, mas sim dentro do ambiente virtual.
+O réu, que lucra com a prestação de serviços, deve neles investir até que não ofereçam mais riscos. Enquanto for possível aos criminosos burlarem a segurança do sistema (e, ressalte-se, burlaram a segurança não apenas quando obtiveram os dados do autor, mas sim quando entraram no ambiente virtual em que o autor acreditava estar seguro), o réu deve arcar com os prejuízos decorrentes da violação.
+O banco sustenta que os autores tinha conhecimento das ?regras? da utilização do ?internet banking?. Não trouxe aos autos, porém, sequer as telas que disponibiliza aos clientes, em que deveria alertá-los sobre todas as condutas que não podem ser adotadas, a fim de manter a segurança de dados. Após o dano ocorrido, o banco apresenta o questionário de fls. 89/90, em que tenta obter do consumidor informações que apenas prejudicarão as tentativas de ressarcimento que o cliente vem fazendo junto ao banco. Há ali diversos termos técnicos, que o consumidor não tem obrigação de dominar, a não ser que o banco comprove que, antes de disponibilizar o acesso aos serviços pela internet, orientou e informou o consumidor sobre todas as suas peculiariedades.
+O réu deverá restituir aos autores, corrigidos, os valores que foram subtraídos de sua conta e por eles impugnados.
+Indenização por danos morais não é devida. Os autores não sofreram constrangimentos, humilhações, não foram diminuídos em sua honra ou imagem. Sofreram dissabores que, na vida moderna, devem ser suportados. Não justificam a condenação do réu ao pagamento da indenização.
+3. Posto isso, JULGO PARCIALMENTE PROCEDENTE A AÇÃO para condenar o réu ao ressarcimento de R$ 42.185,53, corrigidos desde a propositura da ação e acrescidos de juros de 1% ao mês desde a citação.
+Pela sucumbência parcial e pelo princípio da causalidade, condeno o réu ao pagamento das custas e despesas processuais, bem como honorários advocatícios que fixo em 10% sobre o valor da condenação. 
+P.R.I. 
+
+São Paulo, 23 de novembro de 2011.

@@ -1,0 +1,83 @@
+
+
+SENTENÇA
+
+Processo nº:0171044-06.2008.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Prestação de Serviços
+Requerente:Swissport Brasil Ltda
+Requerido:Norinvest Fac Soc Fom Coml Ltda e outros
+
+
+
+
+Juiz(a) de Direito: Dr(a). Rogério Marrone de Castro Sampaio
+
+
+Vistos.
+
+Trata-se de ação declaratória de inexigibilidade de débito, movida por SWISSPORT BRASIL LTDA contra NORINVEST FAC SOC FOM COML LTDA, BANCO SANTANDER S.A. e LUK-PLUS CONFECÇÕES E COMÉRCIO LTDA, objetivando sejam declaradas nulas as duplicatas sacadas pela última ré (nº 000571-B, 000563B ? fls. 23/24). Alega a autora, em síntese, que tais títulos vem desprovidos de qualquer causa jurídica, já que não realizou qualquer relação comercial com a pessoa indicada como sacadora. Por conseqüência, irregulares os débitos representados nos títulos e indevidos os respectivos protestos. 
+
+Com a petição inicial foram juntados documentos (fls. 08/28). 
+
+Deferido o pedido de antecipação de tutela, foi determinada a citação das rés (fls. 34/35). 
+
+A corré Luk, devidamente citada (fls. 215), não ofereceu contestação. 
+
+A corré Norinvest, citada por edital, (fls. 239), apresentou contestação por intermédio de curador especial, baseada em negativa geral dos fatos (fls. 249/251). 
+
+Por último, ofereceu o corréu Banco Santander, contestação (fls. 59/70). Em resumo, alegou ser parte ilegítima, já que atuou com base em endosso mandato. 
+
+Réplicas às fls. 72/73 e 261.
+
+É o relatório.
+
+Decido.
+
+O caso comporta julgamento antecipado da lide, nos termos do artigo 330, inciso I, do CPC. A questão versa sobre matéria de direito e de fato, sendo suficiente a prova documental já produzida. 
+
+A ação tem por objeto a declaração de inexigibilidade de créditos representados em duas duplicatas, sacadas pela corré Luk, endossadas à demandada Norinvest e apresentadas ao serviço de protesto pela instituição financeira também demandada. 
+
+Em princípio, é preciso definir a pertinência subjetiva das endossatárias para integrarem o pólo passivo da relação processual. 
+
+Para tanto, impõe-se a diferenciação entre o endosso translativo e o endosso mandato. No endosso mandato, mais comum nas relações jurídicas em que figuram instituições financeiras, o endossatário age como mero mandatário do endossante. Bem por isso, diz-se que não há relação jurídica de direito material entre este endossatário e o sacado, ou seja, aquele contra quem são sacadas as duplicatas. 
+ 
+Em outras palavras, por tratar-se de endosso mandato, o endossatário, em nome próprio, não tem o direito de exigir o crédito representado na cártula. Tampouco, pode ser responsabilizado pelo ato de apontamento dos títulos ao serviço notarial. Isso porque, ao fazê-lo, não age em nome próprio, mas sim sob poderes delegados pelo endossante, efetivo titular dos direitos representados na cártula. Esse entendimento veio a ser consolidado na Súmula 476, do STJ, com o seguinte teor:
+
+?O endossatário de título de crédito por endosso-mandato só responde por danos decorrentes de protesto indevido se extrapolar os poderes de mandatário?.
+
+Em contrapartida, no endosso translativo há uma verdadeira transferência da propriedade do título ao endossatário, ou seja, este tipo de endosso visa à transferência dos direitos do título de crédito.
+
+No caso concreto, constata-se que a instituição financeira Banco Santander S.A., apenas atuou como endossatário, valendo-se da modalidade endosso mandato. Isto é, em nome do efetivo credor, simplesmente apresentou as cártulas ao serviço de protesto. Assim, à luz do quanto exposto, deve ser considerada parte ilegítima. 
+
+Diversa é a solução em relação à co-demandada Norinvest. Nesse caso, o endosso foi translativo, razão pela qual a endossatária passou a ser titular dos direitos cambiários e, portanto, beneficiária direta do protesto perseguido. Tudo fruto de um negócio jurídico de cessão de crédito celebrado entre ela a sacadora das duplicatas. Tendo agido em nome e interesses próprios, a endossatária assumiu o dever de certificar-se da integridade, ao menos formal, da duplicata sacada com base em compra e venda ou prestação de serviços e não aceita pelo sacado. Em tal contexto, assumiu o risco da irregularidade do protesto, bem como de causar danos ao sacado. Reside, nesse aspecto, a pertinência subjetiva da ré para integrar a relação processual.   
+
+Quanto ao mérito, a ação procede. Digno de acolhimento o pedido da autora de declarar a inexigibilidade do crédito representado nas duplicatas discriminadas nesses autos.
+
+Como é cediço, a duplicata, enquanto título de crédito classificado como causal, tem a sua emissão vinculada à realização de determinados atos jurídicos, especificados por lei, quais sejam, a compra e venda mercantil e a prestação de serviços. Assim, a consecução de um destes negócios justifica a emissão desta espécie de título de crédito, de modo a possibilitar que o seu portador possa exercer os direitos nele contidos.
+
+Bem por isso, para que o titular da cártula possa exercer, com força executiva, o direito literal e autônomo nela contida, necessária prova inequívoca da compra e venda que deu origem à emissão do título, bem como a demonstração da entrega da mercadoria vendida, mediante a juntada do respectivo recibo de entrega. O mesmo se diz quando se trata de prestação de serviços. Isto tudo, no caso de duplicata não aceita. Tal exigência vem prevista no artigo 15, inciso II, "b", da Lei 5.474/68. De notar-se que o referido dispositivo legal aplica-se tanto para as duplicatas lastreadas em compra e venda mercantil como em prestação de serviços.
+
+Neste último caso, dispõe o artigo 20, §1º que a "fatura deverá discriminar a natureza dos serviços prestados".  Já no § 3º determinou o legislador que ?aplicam-se à fatura e à duplicata ou triplicata de prestação de serviços, com as adaptações cabíveis, as disposições referentes à fatura e à duplicata ou triplicata de venda mercantil, constituindo documento hábil, para transcrição do instrumento de protesto, qualquer documento que comprove a efetiva prestação de serviços e o vínculo contratual que o autorizou." 
+
+E, diante dos elementos de convicção proporcionados, restou evidenciada a falta de origem desses títulos causais. Não há sequer indícios de que a autora tenha mantido qualquer relação comercial e mais especificamente de compra e venda ou de prestação de serviços, com a sacadora das cártulas. 
+
+Inexigíveis, portanto, os débitos representados nas duplicatas, que serviram de apontamento no Serviço Notarial de Protesto.  
+
+Ante o exposto e de tudo mais que dos autos consta, JULGO:
+
+a)RESOLVIDO o processo, sem apreciação de mérito, em relação ao corréu Banco Santander (Brasil) S.A., por ser parte ilegítima, nos termos do art. 267, VI, do CPC;
+
+Em razão da sucumbência neste capítulo, arcará a autora com os honorários advocatícios que, nos termos do artigo 20, parágrafo 4º, do CPC, arbitro em R$ 1.000,00 (um mil reais), atualizados a partir da sentença.
+
+b)PROCEDENTE a presente ação, em relação aos corréus Norinvest Fac Soc Fom Coml Ltda, e Luk-Plus Confecções e Comércio Ltda, para declarar inexigíveis as duplicatas sacadas contra a autora, devidamente discriminadas no processo, tornando definitiva a tutela antecipada concedida;
+
+Em razão da sucumbência, arcarão as rés com as custas judiciais e despesas processuais, bem como com os honorários advocatícios que, nos termos do artigo 20, parágrafo 4º, do CPC, arbitro em R$ 3.000,00 (três mil reais), atualizados a partir da sentença.
+
+P. R. I. C.
+
+
+São Paulo, 08 de março de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

@@ -1,0 +1,82 @@
+
+
+SENTENÇA
+
+Processo nº:0154721-81.2012.8.26.0100
+Classe - AssuntoCautelar Inominada - Liminar
+Requerente:Manoel Leite e outro
+Requerido:Facebook Serviços Online do Brasil Ltda e outros
+
+Juiz(a) de Direito: Dr(a). Cláudia Maria Pereira Ravacci
+
+Vistos 
+
+
+
+
+
+MANOEL LEITE e outra requereram, em caráter liminar e cautelar, a condenação de FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA. e OUTROS, ao fornecimento das informações dos dados cadastrais, registro de acesso com os respectivos números de IP, e data/hora de acesso, e-mail utilizado para o cadastro da respectiva conta do responsável por enviar mensagens de cunho difamatório. 
+
+ Narra a inicial que no mês de novembro de 2011, os autores e membros de sua família receberam diversas mensagens através da rede social ?Facebook?, com conteúdo difamatório contra os autores, bem como através de e-mails. 
+
+Em razão das mensagens hostis e acusações difamatórias contra o Sr. Manoel, teme pela sua integridade física e moral, além dos resultados negativos que podem ser gerados tanto na vida pessoal quanto na profissional.
+
+Daí sua pretensão pelas informações cadastrais do responsável pela conta no ?Facebook?: www.facebook.com/profile.php?id=100003030578110 e do e-mail: danyelsaopaulo@hotmail.com. e pelo IP de nº 207.138.191.84.
+
+Decisão declinatória de competência do 1ª Vara Cível do Foro Regional do Butantã, a fls. 221.
+
+Foi-lhe deferida a cautelar satisfativa e o trâmite em segredo de justiça, pela decisão de fls. 225.
+
+A corré LEVEL 3 COMUNICAÇÕES DO BRASIL LTDA., atual denominação de GLOBAL CROSSING COMUNICAÇÕES DO BRASIL LTDA. apresentou os dados referentes ao IP reclamado, a fls. 248.
+
+Na contestação a fls. 335, a corré MICROSOFT INFORMÁTICA LTDA. arguiu a carência da ação pela ilegitimidade passiva, vez que a prestação dos serviços de ?hotmail? são de total responsabilidade da Microsoft Corporation, sediada nos Estados Unidos e a impossibilidade jurídica e técnica. Requereu a improcedência do pedido sob o argumento de que as informações somente poderão ser fornecidas mediante requisição específica emitida pela autoridade judiciária norte- americana. No entanto, a fls. 418 e segs. apresentou as informações armazenadas nos arquivos da empresa americana
+
+Na manifestação a fls. 379 e segs., a corré FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA. apresentou os dados cadastrais do usuário criador do perfil com o nome de ?Danyel Campos? em 22 páginas. Aduziu que somente a Microsoft é capaz de fornecer os dados de cadastro do e-mail, vez que o Facebook Brasil não tem acesso à base de dados do provedor. Indicou que o acesso pelo IP 189.54.95.4 originou-se por meio do provedor de acesso NET Serviços de Comunicação S/A. Em sua contestação a fls. 426 e segs. arguiu em preliminar sua ilegitimidade, vez que não tem qualquer ingerência sobre os dados armazenados nos servidores utilizados pelos operadores do site ?Facebook?. Requereu a improcedência do pedido sob o argumento de que não existe o dever de monitorar ou moderar o conteúdo disponibilizado por terceiros.
+
+Réplica a fls. 457 e segs.
+
+
+É o Relatório. 
+
+Decido. 
+
+
+Conheço diretamente do pedido, cf. art. 330, I, do CPC. 
+
+A pretensão inicial merece acolhimento. 
+
+É fato público e notório, portanto, dispensável de produção de provas, nos moldes do art. 334, II, do CPC, que o Facebook é um provedor de serviço de internet que se caracteriza pela hospedagem de páginas pessoais de usuários, qualidade esta que não lhe permite exercer controle preventivo ou monitoramento sobre o conteúdo das páginas pessoais ou comunidades criadas pelos usuários, e poderia, de fato, implicar censura prévia, vedada pela Constituição Federal, conforme colação doutrinária a fls. 45 da contestação. 
+
+Outrossim, é sabido que os usuários do Facebook podem visitar as páginas pessoais uns dos outros, ter acesso às informações disponibilizadas nos perfis e interagirem entre si, por meio de mensagens e das chamadas notificações. 
+
+É de responsabilidade do autor do perfil o controle das informações nele inseridas, tanto quanto ao seu conteúdo, a exemplo de dados pessoais, como o endereço de e-mail, telefone, fotos etc, como decisões de exclusões a qualquer tempo. Exerce, portanto, controle sobre as mensagens que enviou ou postou em página de terceiros como também em relação a qualquer mensagem ou dados inseridos por outros usuários em sua página. Além disso, ao acessar o site ?Facebook? para criar um perfil, o usuário aceita e contrata com a ré o termo de serviços, mediante o qual toma conhecimento de uma série de informações e de recomendações de segurança, assumindo também obrigações perante a empresa que disponibiliza a ferramenta de hospedagem. 
+
+Como não haveria de ser, do dinamismo dos espaços virtuais disponibilizados na internet, restam evidentes abusos por parte de pessoas que, em qualquer ambiente (real ou virtual), optam por adotar condutas indesejáveis e até mesmo ilícitas. 
+
+Não obstante, não lhes cabe o julgamento do mérito das informações pessoais ou invasivas de outros usuários, de modo que algumas decisões terão de ser proferidas mesmo por um Juiz de Direito, a exemplo de divulgação de imagem ou linguagem chocante ou repulsiva, sátira política ou social, etc. 
+
+Por certo, as situações assim descritas, envolvem temas delicados, pois há em todos os regimes democráticos do mundo a proteção ao direito de livre manifestação de pensamento e a liberdade de expressão, sempre contrapostos aos também protegidos direitos à intimidade e a privacidade das pessoas. 
+
+É com base em tais conflitos de interesses, ambos sob tutela constitucional, que as rés relegam ao Poder Judiciário, a decisão de exclusão de determinado conteúdo, como órgão supremo da jurisdição. 
+
+Quanto ao mérito das ofensas contra a qual se insurgem os autores, é mister lhes seja conferida justa razão, mas em pretensão a ser deduzidas contra seus autor ora identificado na defesa das rés. 
+
+Verificam-se das transcrições feitas na petição inicial, que de fato, as expressões são injuriosas e ofensivas à honra objetiva e subjetiva do homem de inteligência e prudência medianas e indicativas de represálias e também do seu direito à privacidade, e deve ser preferido em face do suposto direito constitucional ao direito de expressão e pensamento. 
+
+De modo que a solução se restringe às mensagens concretas, descrita na inicial, e o julgamento de que é mister uma decisão judicial acerca do conteúdo da página, se de fato, ofensiva à honra dos autores, ou se atinente à liberdade de expressão e pensamento, por legislação específica, de rigor, não se evidencia o aspecto de resistência à pretensão dos autores a fim de suprimir a condenação das rés ao pagamento dos encargos de sucumbência, à semelhança dos processos de jurisdição voluntária. 
+
+A seguir, confira-se: 
+
+
+DANOS MORAIS - Indenização - Criação de comunidade por ex-aluno contendo ofensas e injúria a colégio em sitio de relacionamentos "Orkut" - Comprovada conduta ilícita - Reconvenção improcedente - Sanção regularmente aplicada - Sentença mantida - RECURSO NÃO PROVIDO. DANOS MORAIS - Provedora de serviços que apenas disponibiliza espaço para armazenamento de páginas dos usuários - Ausência de responsabilidade - Impossibilidade de monitoramento - Notificação judicial efetuada após exclusão da comunidade - Inexistência de notificação extrajudicial anterior - Ausência de descumprimento da ordem liminar ou de omissão - Culpa não demonstrada - Sentença reformada - RECURSO PROVIDO. (Apelação 578.863.4/3-00 - 7ª Câmara de Direito Privado TJ/SP - Rel. Elcio Trujillo - 18.2.2009). 
+
+
+Pelo exposto, JULGO PROCEDENTE o pedido. Torno definitiva a tutela. Deverá o autor pagar as custas do processo e isento as rés de condenação de honorários advocatícios, à vista da peculiaridade do feito, de caráter satisfativo, e pela ausência de resistência para cumprimento de bom grado à ordem liminar. 
+Retifiquem o nome da corré Global Crossing Comunicações do Brasil para LEVEL 3 COMUNICAÇÕES DO BRASIL LTDA., conforme fls. 248.
+P.R.I.
+
+São Paulo, 02 de maio de 2013.
+
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

@@ -1,0 +1,170 @@
+
+
+SENTENÇA
+
+Processo nº:0119528-41.2008.8.26.0004
+Classe - AssuntoOutros Feitos Não Especificados
+Requerente:Arthur da A. Antunes Imoveis Ltda
+Requerido:Banco Itau S/A
+
+
+
+Juiz(a) de Direito: Dr(a). Carlos Roberto de Souza
+
+
+Vistos.
+
+ARTHUR DA A. ANTUNES IMÓVEIS LTDA propôs a presente ação de obrigação de fazer c/c reparação de danos e pedido de tutela antecipada em face de BANCO ITAÚ S/A aduzindo que no dia 16 de junho de 2008 sua sócia proprietária, Sra. Maria Célia Cabrinni Sagretti, procurara acessar a conta corrente mantida pela autora junto ao Banco réu via Internet e fora obstada pela informação de "ERRO: Transação não confirmada, fale com seu gerente. Mencione código 408X-COD.910". Que em face disso a sócia em questão contatara o gerente da agência competente e obtivera um extrato via fax do qual constava dois débitos não realizados pela requerente, tal como descritos às fls. 03 da inicial.
+
+Afirmou que apesar de vários contatos com os gerentes da agência, inclusive por carta, não logrou resolver o problema dos débitos indevidos na conta da empresa.
+
+Nessa conformidade, a autora postulou a obrigação de fazer, por parte do réu, relativa ao estorno dos montantes indevidamente descontados da conta e pediu ainda a condenação do adverso em perdas e danos e danos materiais e morais. Requereu, em tutela antecipada, fosse o requerido compelido a depositar os montantes descontados aludidos. Juntou documentos.
+
+Às fls. 19 sobreveio decisão indeferindo a tutela antecipada alvejada.
+
+Devidamente citado o réu, ofereceu contestação às fls. 26/55 arguindo, preliminarmente, a carência de ação da autora e a ilegitimidade de parte do Banco requerido, já que em momento algum autorizara qualquer tipo de operação a ser realizada na conta corrente da autora. Aduziu que todos os protocolos de segurança haviam sido cumpridos pelo Banco e era à requerente que incumbia a responsabilidade pela guarda do cartão de segurança e das "chaves" e senha pessoal de sua conta.
+
+Meritoriamente, discorreu a respeito da inexistência de ato ilícito a ele imputável, afirmando que o seu sistema informatizado é totalmente seguro e não pode ser manipulado por hackers ou crakers, na medida em que se utiliza da tecnologia SSL, internacionalmente reconhecida como a de maior segurança para transmissão de dados via rede Internet.
+
+Disse, mais, que a autora aceitara os termos das "Condições Gerais da Prestação de Serviços de Conveniência", cadastrando uma senha eletrônica e uma senha do cartão específico para o acesso via internet.
+A seguir, relatou longamente todo o método de cadastramento e uso de senhas e concluiu que somente a autora poderia ser a responsável pelas movimentações em sua conta, extraindo daí a ilação da culpa exclusiva da adversa.
+Destacou, igualmente, a ausência de nexo causal, porquanto o dano sofrido teria advindo exclusivamente da atividade ou inatividade da requerente.
+No mais, refutou a existência de danos materiais, argumentou acerca da inexistência de dano moral face a pessoa jurídica, pugnou pela razoabilidade da eventual fixação de dano moral e disse não haver verossimilhança das alegações da autora para a concessão da tutela antecipada postulada. Protestou pela decretação de improcedência da ação e juntou documentos.
+
+A autora, de seu turno, apresentou réplica às fls. 63/71 reiterando os termos de sua inicial e tecendo tese sobre a possibilidade real do ataque de "piratas de internet" em qualquer sistema informatizado, salientando a assertiva de que a movimentação havida em sua conta não partira dela própria. Juntou novos documentos.
+
+Às fls. 82 adveio despacho determinando às partes que dissessem sobre provas e sobre a possibilidade de conciliação.
+
+O Banco requerido manifestou-se às fls. 85/86 afiançando incumbir à requerente a prova de suas alegações, não tendo interesse na designação de audiência para tentativa de conciliação.
+
+A autora pronunciou-se às fls. 88/89 requerendo a inversão do ônus da prova para que o Banco requerido apresentasse o computador (com o respectivo código de IP) do qual se originara a transação indevida. Protestou, ainda, pela produção de prova oral e arrolou testemunha.
+
+Designada audiência para tentativa de conciliação, restou esta infrutífera (fls. 93).
+
+É o relatório.
+Passo a DECIDIR:
+
+Julgo antecipadamente a lide ante à desnecessidade de recorrer-se à dilação probatória, nos termos do artigo 330, I do CPC.
+
+A preliminar apresentada pelo Banco requerido,  se confunde com o mérito da ação, eis que depende da análise fática sobre a movimentação impugnada pela Autora e sobre as implicações decorrentes da relação de consumo, considerando que as instituições estão sujeitas às regras do CDC, nos termos da Súmula 297 do STJ.
+
+A preliminar de ilegitimidade passiva, será, então, apreciada ao longo da presente decisão e como adiante se verá, seu afastamento é de rigor.
+
+O Código de Defesa do Consumidor, em seu artigo 3º, parágrafo segundo, incluiu expressamente a atividade bancária no conceito de serviço. Desde então, não resta a menor dúvida de que a responsabilidade contratual do banco é objetiva, nos termos do artigo 14 do mesmo Código, respondendo, independentemente de culpa, pela reparação de danos causados por defeitos decorrentes dos serviços que presta.
+
+Os Bancos, como prestadores de serviços especialmente contemplados no artigo 3º, parágrafo segundo, estão submetidos às disposições do Código de Defesa do Consumidor.Portanto, por lhes ser exigida a eficiência dos serviços prestados, devem assumir os riscos e as responsabilidades do serviço, caso a falha de seus serviços que  ocasione prejuízos aos seus clientes.
+
+Por lhe ser incumbida a gerência de negócios, à instituição financeira cabe tomar as medidas de segurança inerentes à atividade exercida, viabilizando a efetivação das relações estabelecidas pelos clientes.
+
+Verifico que no caso vertente, a Autora, pequena empresa, impugna duas transações eletrônicas (realizadas no dia 16.06.2008) nos valores respectivos de R$ 500,00 e R$ 1.000,00 (fls.16, verso).
+
+Em casos semelhantes, tem sido iterativa a jurisprudência de que cabe ao fornecedor o ônus de demonstrar que as operações impugnadas tenham sido feitas efetivamente pelo cliente.
+
+Nessa esteira, cabia ao Banco requerido demonstrar que seu sistema é seguro como alegou na contestação e afastar de forma idônea a verossimilhança das alegações da empresa requerente.
+
+No caso vertente, não se desincumbiu o Banco do referido ônus.
+
+Modificando o entendimento que vinha esposando (enquadramento do fato no artigo 14, §§ e incisos), trago a colação as razões da modificação do entendimento de acordo com os argumentos desenvolvidos no excelente trabalho magistrado Demócrito Reinaldo Filho, em trabalho específico  sobre  A RESPONSABILIDADE DOS BANCOS PELOS PREJUÍZOS RESULTANTES DO PHISHING, no seguinte sentido:  
+
+6.1.1 Responsabilidade contratual regida pelo CDC
+
+Nenhum outro intermediário da cadeia de comunicação informática está tão ligado à vítima de phishing do que o seu próprio banco, com quem mantém uma relação contratual para prestação de serviços de Internetbanking. A responsabilidade do banco, portanto, é uma responsabilidade de origem contratual e o vínculo que o prende ao seu cliente forma uma relação de consumo, a ser regida pelas normas da Lei nº 8.078/90 (Código de Defesa do Consumidor). De fato, o cliente bancário se enquadra no conceito de consumidor definido no artigo 2º. do CDC, já que adquire e utiliza o serviço de Internetbanking na condição de "destinatário final". Por sua vez, a instituição bancária é considerada fornecedor, para fins de aplicação das normas do Código, na medida em que desenvolve atividade de prestação de serviços (artigo 3º.). Além disso, ao definir serviço, o parágrafo segundo. do artigo 3º. alcança "qualquer atividade fornecida no mercado de consumo, mediante remuneração, inclusive as de natureza bancária".
+
+A jurisprudência inclusive já vem fazendo recurso de normas do CDC quando se trata de definir a responsabilidade dos bancos em matéria de fraudes eletrônicas. Por exemplo, a 5ª Turma Cível do Tribunal de Justiça do Distrito Federal manteve, por unanimidade, sentença do Juiz Franco Vicente Piccolo, da 1ª Vara Cível de Brasília, que condenou um banco a indenizar um correntista que teve sua conta invadida (Nota: 46). Para fundamentar a condenação do banco, a sentença invocou a responsabilidade orientada pela teoria do risco profissional, nos termos da qual é responsável pela reparação dos danos aquele que maior lucro extrai da atividade que lhe deu origem(Nota: 47). O próprio STJ vem enfrentando essas questões sob a ótica das normas do CDC, com a diferença de que tem firmado o entendimento de que o uso do cartão magnético e da senha é de responsabilidade do correntista, daí que se os entrega a terceiro incide a regra do parágrafo terceiro do artigo 14, que isenta o fornecedor de responsabilidade quando a culpa é exclusiva do consumidor(Nota: 48).
+
+Esse tipo de compreensão do problema, data vênia, incorre em erro técnico-jurídico, uma vez não se deve enfrentá-lo por via da utilização do esquema de imputação de responsabilidade objetiva, prevista no artigo 14 do CDC. Como se sabe, o CDC criou dois regimes diferentes de vícios do produto ou serviço. O primeiro se refere aos vícios de insegurança, capazes de provocar o fato do produto ou serviço, ou seja, o defeito de insegurança que atinge o consumidor (ou terceiro) na sua integridade física ou psíquica. O defeito de segurança provoca danos à esfera da saúde física ou psíquica da pessoa, causando o acidente de consumo. A responsabilidade pelos danos causados por esse tipo de vício é de natureza extracontratual e independe de culpa. Trata-se de uma responsabilidade objetiva ou responsabilidade não culposa, já que os artigos 12 e 14 do CDC atribuem responsabilidade a certos fornecedores "independentemente da existência de culpa" pela reparação dos danos causados aos consumidores por defeitos do produto ou relativos à prestação dos serviços(Nota: 49). Já o regime dos vícios de inadequação ou de funcionalidade (tratados no artigo 18 e ss.)(Nota: 50) não caracteriza uma responsabilidade objetiva. Ao contrário dos artigos 12 e 14 (que tratam do fato do produto ou serviço), os artigos 18 e 20 (que regulamentam a responsabilidade por vício do produto ou serviço) não se utilizam da mesma expressão, ou seja, não indicam que o fornecedor responde pela reparação "independentemente da existência de culpa". Em assim sendo, pode-se dizer que o regime dos vícios de inadequação, de natureza contratual, tem amparo numa "responsabilidade especial"(Nota: 51).
+
+Os prejuízos decorrentes de phishing são de ordem exclusivamente patrimonial. Ou seja, a vítima da fraude sofre apenas danos materiais, não sendo atingida em sua integridade física ou psíquica, daí que não se configura o instituto do fato do serviço (ou acidente de consumo) e não se pode invocar a aplicação do artigo 14 do CDC como fundamento da responsabilidade do banco (fornecedor). A situação pode ser representativa apenas de um típico vício por inadequação do serviço (de Internetbanking), enquadrando-se no descritor normativo do artigo 20, para efeito de justificar a responsabilização do prestador do serviço falho ou inadequado(Nota: 52).
+
+Por outro lado, o que é relevante não é o aspecto subjetivo (da conduta do banco). Na definição do dever de reparação do fornecedor de serviços (bancários), o importante é um dado objetivo: se o serviço (de Internetbanking) é falho, no sentido de que não protege o usuário contra golpes de phishing. Mesmo não se tratando de uma responsabilidade puramente objetiva - a que é delineada no artigo 20 do CDC - não exige culpa ou prova da culpa, mas apenas constatação do "vício". Trata-se de uma responsabilidade especial, dependente de parâmetros impostos nas previsões legais específicas (artigo 20 e seu parágrafo segundo.). De fato, ao estabelecer que "o fornecedor de serviços responde pelos vícios de qualidade que os tornem impróprios ao consumo", o legislador criou um padrão de responsabilidade peculiar, que impõe a obrigação de liberar no mercado de consumo somente serviços isentos de vícios, não importando perquirir a culpa pelos danos causados em função do serviço viciado.
+
+Cláudia Lima Marques é quem melhor explica que o CDC criou uma responsabilidade especial, um sistema específico para disciplinar a relação do fornecedor de produtos e serviços com o consumidor. De acordo com ela (Nota: 53), o fundamento desta responsabilidade tem origem na teoria da qualidade, segundo a qual os produtos e serviços prestados trariam em si uma garantia de adequação para o seu uso e uma garantia de segurança. Nesse sentido, todo fornecedor tem um dever de qualidade, considerado um dever anexo à própria atividade produtiva no mercado de consumo. Portanto, o CDC impôs um dever legal para o fornecedor, uma garantia implícita de adequação e segurança dos seus produtos e serviços. Só há violação desse dever ou garantia se o bem introduzido no mercado apresenta um vício de qualidade ou defeito de segurança. Assim, para se estabelecer a responsabilidade do fornecedor pela reparação de danos não se deve perquirir se agiu com a diligência necessária (noção de culpa) ou o grau de risco criado pela sua atividade (fundamento da responsabilidade objetiva), mas se faltou com o dever de qualidade, ao inserir no mercado um produto ou serviço imprestável ou inseguro, causando, por causa desse vício ou defeito, algum tipo de dano ao consumidor.
+
+Ao tratar diretamente dos vícios de inadequação, a citada doutrinadora explicita a pouca importância do aspecto subjetivo da conduta do fornecedor na definição de sua responsabilidade:
+
+"Concretamente, o CDC impõe aos fornecedores a obrigação de liberar no mercado somente produtos isentos de vícios. Trata-se de uma obrigação de resultado, não importa perquirir a culpa de algum dos fornecedores da cadeia. O importante é o vício, que será reclamado, normalmente, perante o comerciante direto, último na cadeia"(Nota: 54) (grifos nossos).
+
+Mais adiante, o comentar o artigo 20 do CDC, Cláudia Lima Marques volta a enfatizar que o esquema peculiar criado pelo diploma consumerista confere pouco valor ao agir do prestador de serviço, na definição da responsabilidade:
+
+"...isto porque concentra-se na funcionalidade, na adequação do serviço prestado e não na subjetiva existência de diligência normal ou de uma eventual negligência do prestador de serviços e de seus prepostos. A prestação de um serviço adequado passa a ser a regra, não bastando que o fornecedor tenha prestado o serviço com diligência"(Nota: 55).
+
+E continua:
+
+"Enquanto o direito tradicional se concentra na ação do fornecedor do serviço, no seu fazer, exigindo somente diligência e cuidados ordinários, o sistema do CDC, baseado na teoria da função social do contrato, concentra-se no efeito do contrato. O efeito do contrato é a prestação de uma obrigação de fazer, de meio ou de resultado. Este efeito, este serviço prestado, é que deve ser adequado para os fins que "razoavelmente dele se esperam"; é o serviço prestado, por exemplo, o transporte de passageiros, a pintura da parede da casa, a intervenção cirúrgica ou a guarda do automóvel na garagem, que deve possuir a adequação e a prestabilidade normal. Está claro que o fazer e o resultado são inseparáveis, conexos de qualquer maneira, mas o CDC como que presume que o fazer foi falho, viciado, se o serviço dele resultante não é adequado ou não possui a prestabilidade regular.
+
+Se efetivamente o fornecedor agiu ou não com a diligência, o cuidado e a vigilância normal, quando da prestação de sua obrigação, importa apenas para a alegação de um eventual inadimplemento contratual. O recurso usado pelo CDC de instituir uma noção de vício do serviço facilitará a satisfação das expectativas legítimas dos consumidores também nos contratos de serviços, pois objetiva os critérios jurídicos para determinar se há ou não falha na prestação do fornecedor(Nota: 56).
+
+Como se observa, para fins de determinação dos limites da responsabilidade do fornecedor de serviços, o jurista deve se concentrar na análise do vício. O regime de vícios pressupõe o descumprimento de um dever anexo do fornecedor, um dever de qualidade, dever de adequação do serviço à finalidade a que se destina. Assentada essa teoria da qualidade, a definição da responsabilidade do banco em reparar os danos sofridos por seu cliente, passa necessariamente pela análise da funcionalidade do serviço de Internetbanking.
+
+E aqui, pelas razões já expostas anteriormente, deve-se entender que um sistema de Internetbanking que não proteja o usuário contra golpes de phishing não pode ser encarado como isento de vício. Somente os bancos têm condições técnicas para monitorar, detectar e prevenir transações fraudulentas, além de capacidade econômica para investir no desenvolvimento de soluções tecnológicas para combater o phishing. Portanto, deve haver um reconhecimento generalizado de que se o banco não desenvolve dispositivos capazes de eliminar esse tipo de praga tecnológica, o serviço de Internetbanking que oferece no mercado é viciado, dotado de vício de inadequação às finalidades que dele se espera. O cliente desse serviço tem uma legítima expectativa de proteção contra fraudes eletrônicas e, se não atende a essa expectativa, não se mostra adequado para realizar a finalidade que razoavelmente dele se espera. O sistema de Internetbanking que não tenha evoluído para proteger o cliente contra golpes de phishing é "impróprio ao consumo", por conter vício de qualidade, já que se mostra inadequado aos fins que dele razoavelmente se espera (parágrafo segundo. do artigo 20 do CDC)(Nota: 57)  (destaquei)
+
+Compulsando os autos, verifica-se que em momento algum o Banco requerido provou a existência de qualquer fato excludente de sua responsabilidade, prevalecendo, assim, a tese  da autora que constata um defeito na prestação de serviço oferecida pelo Banco Itaú S/A.
+
+Ora, não pode o Banco requerido afirmar, sem que haja qualquer prova nesse sentido, que o seu sistema é perfeito haja vista que é notória a possibilidade de violação do sistema do netbanking, o que implica em reconhecer a inadequação do serviço disponibilizado para o fim a que se destina..
+
+Ademais, por ser detentor desse serviço tecnológico disponibilizado aos consumidores, deveria ter demonstrado, por meio adequado, que as operações reputadas como indevidas foram realizadas pela Autora, não o fazendo, deve arcar com os prejuízos sofridos pelo Apelado.
+
+A jurisprudência do E. Tribunal de Justiça de São Paulo, ainda, que lastreada no artigo 14 do CDC, é remansosa no que tange ao reconhecimento da responsabilidade do Banco:
+
+APELAÇÃO - Tempestividade da contestação - Encaminhamento à outra Vara - Mero erro material - Representação processual - Possibilidade de regularização nas instâncias ordinárias - Ausência de nulidade na sentença - Preliminares afastadas. APELAÇÃO - Reparação de danos - Fraude perpetrada em conta corrente por meio da Internet - Responsabilidade objetiva do banco - Fraude que é freqüente e que deve ser imputada à vulnerabilidade do sistema de serviço adotado pelo banco - Ausência de demonstração quanto ao uso de tela falsa pela correntista - Art. 14 do CDC - Teoria do risco da atividade - Danos materiais caracterizados - Danos morais - Ausência de fato específico que justifique indenização a este título - Condenação afastada - Recurso provido parcialmente. Apelação / Bancários 990100529960  - Relator(a): Maurício Ferreira Leite  - Comarca: Campinas  - Órgão julgador: 21ª Câmara de Direito Privado  - Data do julgamento: 17/11/2010  - Data de registro: 13/12/2010.  
+
+Responsabilidade civil - Danos morais e materiais - Contrato de empréstimo não reconhecido pelo titular - Fraude perpetrada em conta corrente por meio da Internet, mediante transferência de valores para conta de terceiro - Devolução em dobro do indébito. 1. É incabível a devolução em dobro do indébito uma vez descaracterizado o pagamento indevido com a determinação judicial de estorno dos valores da conta corrente e quando presente a excludente de engano justificável, prevista no artigo 42, parágrafo único, do Código de Defesa do Consumidor. 2. É objetiva a responsabilidade do banco em reparar os danos experimentados por seu cliente em decorrência de fraude praticada em conta corrente, via Internet. 3. Arbitra-se a reparação dos danos morais com vistas à sua intensidade e as condições sócio-econômicas das partes, em consonância com as circunstâncias dos autos e os parâmetros adotados pela Câmara em casos assemelhados, aplicados os princípios da proporcionalidade e da razoabilidade. Artigo 14, caput, do Código de Defesa do Consumidor. Recurso do réu não provido, provido em parte o apelo da autora. Apelação / Bancários 990101870010   - Relator(a): Itamar Gaino  - Comarca: São Paulo  - Órgão julgador: 21ª Câmara de Direito Privado  - Data do julgamento: 10/11/2010  - Data de registro: 01/12/2010.  
+
+
+RESPONSABILIDADE CIVIL - Fato do serviço - Operações realizadas de forma fraudulenta em conta-corrente via "internet" - Relação de consumo configurada - Eficácia dos serviços não comprovada - Teoria do risco do negócio adotada (Código Civil, art. 927, P.U e Código de Defesa do Consumidor, art. 14), ausentes as excludentes (caso fortuito, força maior ou culpa exclusiva da vítima ou de terceiro) - Recursos não providos. DANO MORAL - Responsabilidade civil - Fato do serviço - Operações fraudulentas em conta- corrente - Defeito na prestação de serviços - Dever de configurar configurado - Observância das circunstâncias da causa, da capacidade econômica das partes e das finalidades reparatória e pedagógica no arbitramento - Valor indenizatório adequado - Recursos não providos.  Apelação / Contratos Bancários 990103950100   - Relator(a): Melo Colombi  - Comarca: São Paulo  - Órgão julgador: 14ª Câmara de Direito Privado  - Data do julgamento: 27/10/2010  - Data de registro: 26/11/2010.  
+
+
+RECURSOS DE APELAÇÃO INTERPOSTOS CONTRA R. SENTENÇA PELA QUAL FOI JULGADA PARCIALMENTE PROCEDENTE AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS, EM RAZÃO DA OPERAÇÕES INDEVIDAS REALIZADAS PELA INTERNET, COM RETIRADAS DA CORRENTE DOS AUTORES. RECURSO DOS AUTORES - REPARO QUANTO AO VALOR DO ARBITRAMENTO DO VALOR DA INDENIZAÇÃO POR DANOS MORAIS - PEDIDO DE MAJORAÇÃO - INADMISSIBILIDADE - VALOR DENTRO DOS PADRÕES LEGAIS - RECURSO NÃO PROVIDO. PEDIDO DE APLICAÇÃO DE LITIGÂNCIA DE MÁ-FÉ -HIPÓTESE NÃO CARACTERIZADA NOS AUTOS -RECURSO NÃO PROVIDO. RECURSO DO BANCO RÉU - RENOVAÇÃO DAS PRELIMINARES ALEGADAS EM CONTESTAÇÃO -LIMITAÇÃO DO APELO A MERA REITERAÇÃO DO PLEITO INICIAL - AUSÊNCIA DE EXPOSIÇÃO DAS PRELIMINARES - DESATENDIMENTO AO DISPOSTO NO ART 514 DO CPC.- NÃO CONHECIMENTO DAS PRELIMINARES. ALEGAÇÃO DE INCORREÇÃO DA R. SENTENÇA, POSTO QUE. NÃO RESULTOU COMPROVADO QUALQUER DANO - INEXISTÊNCIA DE PREJUÍZO COM REFLEXOS MORAIS INADMISSIBILIDADE - CONSTATAÇÃO, PELO BANCO, DE INVASÃO DO SISTEMA INFORMATIZADO COM MODIFICAÇÕES DE SENHAS E MOVIMENTAÇÕES FINANCEIRAS INDEVIDAS - NOME DOS AUTORES INSERIDOS NOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO -DANO MORAL CONFIGURADO - RECURSO NÃO PROVIDO. PEDIDO ALTERNATIVO DE REDUÇÃO DO VALOR FIXADO COMO INDENIZAÇÃO PELO DANO MORAL -DEFINIÇÃO DE FORMA EXCESSIVA - PEDIDO DE REFORMA- ACERTO PARCIAL DA R. DECISÃO -JUSTA, APESAR DE EXCESSIVA A INDENIZAÇÃO POR DANO MORAL -RECURSO PROVIDO EM PARTE, APENAS COM REDUÇÃO DO VALOR DE INDENIZAÇÃO. Apelação / Contratos Bancários 991040823608 (1330369000)   - Relator(a): Simões de Vergueiro  - Comarca: São José do Rio Pardo  - Órgão julgador: 17ª Câmara de Direito Privado  - Data do julgamento: 18/08/2010  - Data de registro: 11/11/2010.  
+
+
+Por conseguinte, constatado o defeito no serviço prestado pelo Banco Réu, subsiste a obrigação de indenizar pelos danos patrimoniais ocasionados pelos descontos indevidos na conta corrente do Autor, pois a  responsabilidade do Banco é objetiva, independente de prova.
+
+Embora proceda a afirmação de que incumbe ao correntista o zelo pelo uso do cartão magnético de acesso e respectiva senha , fato é que a obrigação de ofertar segurança às operações de saque por meio de cartão magnético incumbe ao banco sacado, sendo sabido que o sistema não é indene de fraudes, cada vez mais freqüentes.
+
+Ora, o Banco requerido, uma potência no setor, detém instrumentos para averiguar quem  de fato utilizou o sistema eletrônico e foi beneficiado com o valor transferido.
+
+A autora, por sua vez, é parte vulnerável e não tem condições de demonstrar que não efetuou as operações.
+
+A tese de que por dispor da senha pessoal e cartão de operações deve o consumidor arcar com as operações realizadas não pode vingar no presente caso, devendo ser verificada caso a caso para não gerar a indústria dos saques indevidos.
+
+Apesar de extensa, é útil a transcrição de parte do excelente trabalho assinado pelo eminente magistrado pernambucano Demócrito Reinaldo Filho, pois, contempla de forma apropriada vários aspectos que devem ser levados em conta para a apreciação devida do fato: 
+
+A responsabilização dos bancos na reparação dos efeitos financeiros resultantes do phishing, ainda pode ser justificada levando-se em consideração os seguintes argumentos adicionais:
+
+a) argumento de ordem econômica.
+
+Trata-se de argumento não propriamente jurídico, mas que nem por isso deixa de influenciar na definição da responsabilidade. Essa teoria é explorada por Assaf Hamdani, em relação à possibilidade da escolha de uma pessoa (intermediário) para responder pelos atos ilícitos praticados por um terceiro na rede, quando este não for passível de sanção de modo efetivo e que traga resultados práticos e úteis. Nesse caso, deve ser a parte para quem a atividade de fiscalização e monitoração represente custos mais baixos(Nota: 44).
+
+Ao analisar a responsabilidade dos bancos pelos prejuízos resultantes de phishing e outras fraudes semelhantes não se pode desconsiderar o argumento econômico de que são eles quem menos sofrem com a imposição dos custos da reparação. O fornecedor dos serviços bancários na Internet, pela sua supremacia econômica, é o que se chama na doutrina anglo-americana de o "least cost avoider", ou seja, a pessoa para quem a imposição do dever da reparação econômica representa o menor peso, considerando-se sua capacidade econômica. E aqui deve ser entendido que os bancos não somente podem "internalizar" mais facilmente os custos com a reparação dos prejuízos decorrentes de phishing, mas que são os únicos que dispõem de capacidade econômica para investir no desenvolvimento de soluções tecnológicas para combater esse tipo de fraude. Portanto, os bancos podem, em determinadas circunstâncias, suportar o ônus pelas conseqüências danosas do phishing, em substituição ao praticante direto da fraude, recorrendo-se à aplicação de princípios econômicos por meios dos quais se pode atribuir responsabilidade ao "least cost avoider". A responsabilidade pela reparação dos prejuízos financeiros pode ser expandida para a parte cujos custos de prevenção pelas fraudes são mais baixos.
+
+Chamamos a atenção para a circunstância de que esse argumento, de ordem mais econômica do que jurídica, é utilizado com mais freqüência para justificar a responsabilidade objetiva de alguns atores que desenvolvem certos tipos de atividade (em geral de natureza periculosa) na sociedade, embora possa também influir na visualização e definição de outros padrões de responsabilidade. De fato, a própria jurisprudência brasileira, na aplicação da teoria contratualista - fusão entre a teoria do risco profissional e da culpa - às instituições financeiras, sempre considerou que a responsabilidade deve recair sobre aquele que extrai maior lucro da atividade que deu margem ao dano, nas hipóteses em que não resulta configurada culpa do correntista ou do banco(Nota: 45). Mesmo quando se trata de definir responsabilidade fundada na teoria pura da culpa, o argumento econômico pode ter extrema valia. A idéia é de que aqueles que se beneficiam com a venda de serviços e obtêm lucros excessivos nesse comércio devem ser responsabilizados ao menor sinal de negligência.
+
+b) incentivo ao desenvolvimento de ferramentas tecnológicas.
+
+A admissão da responsabilização dos bancos (obviamente, dentro de certas circunstâncias) também produz um incentivo para que desenvolvam ferramentas tecnológicas anti-phishing. As fraudes causam aos bancos tanto perdas financeiras como a erosão da confiança dos clientes nos sistemas de pagamentos e transações on line. De fato, incentivos mercadológicos já parecem estar dirigindo os bancos a lutarem contra o phishing da melhor forma que podem. As fraudes praticadas contra usuários de serviços na Internet ameaçam o desenvolvimento do comércio eletrônico. Se eles perdem a confiança na segurança das transações eletrônicas, quer seja porque não estão certos da identidade do site que visitam, quer porque temem de inadvertidamente divulgar informações pessoais, a conseqüência é um possível abalo ao modelo existente de e-commerce. O reconhecimento, no âmbito da teoria jurídica, de que os bancos podem sofrer a responsabilização pelo ressarcimento dos prejuízos causados ao seu cliente, vítima de golpe de phishing, funcionaria como incentivo adicional para desenvolverem dispositivos capazes de eliminar esse tipo de praga tecnológica. Sofrendo responsabilização, e conseqüentemente sendo obrigados a reparar os danos resultados das fraudes, os bancos (e as empresas de comércio eletrônico de uma forma geral) sentir-se-ão incentivados a adotar medidas tecnológicas de segurança mais adequadas a lidar com a nova realidade do phishing.
+
+c) argumento da possibilidade técnica de evitar a fraude
+
+Para se determinar a pessoa que deve responder pelos prejuízos produzidos por fraudes bancárias em ambientes eletrônicos é imprescindível a noção de que a responsabilidade deve ser imposta a quem é capaz de detectar a ação criminosa e preveni-la.
+
+Os bancos têm a capacidade tecnológica para prevenir transações fraudulentas, já que são os únicos com acesso a todos os dados e com habilidade para evoluir seus sistemas.
+
+Por outro lado, os custos econômicos para o desenvolvimento de ferramentas tecnológicas de combates a fraudes tecnológicas são razoáveis, em relação os prejuízos que buscam prevenir, daí que a teoria a ser evoluída nesse campo específico da responsabilidade civil deve reconhecer o papel de interesse público que as instituições bancárias devem ter na atribuição de segurança a essas transações.
+
+6.1. Adequação do novo padrão de responsabilidade à legislação existente
+
+Já vimos que o banco é quem guarda a relação mais estreita com a vítima do golpe de phishing, a quem está vinculado por meio de uma relação contratual. É o prestador direto do serviço, cuja segurança, no caso de ataque, é que está mais suscetível a acusações de falha.
+
+A imputação de responsabilidade aos bancos, no entanto, não pode ser feita de forma aleatória, mas deve adequar-se aos esquemas de responsabilidade civil (contratual) existentes em nosso sistema jurídico. Examinando os esquemas existentes, bem como seus fundamentos, é que identificamos aquele que pode servir de padrão à responsabilidade do prestador de serviços bancários on line, na reparação de danos causados à vítima (cliente) de golpe de phishing.
+
+No tocante aos danos morais, não vislumbro, in casu,sua ocorrência, pois os reflexos foram apenas e tão somente na órbita patrimonial e a recusa do Banco, ainda que não acolhida, ficou restrita à relação contratual.
+
+ANTE O EXPOSTO, JULGO PARCIALMENTE PROCEDENTE a ação para condenar o requerido a  reembolsar à autora em  R$ 1.500,00 e que deverá ser atualizado de acordo com o demonstrativo de fls.16, verso (16.06.2008) pela Tabela Prática do Tribunal de Justiça e juros de mora de 1%  ao mês, contados da citação.
+
+Condeno o requerido ao pagamento de custas e despesas processuais proporcionais à sua sucumbência  e honorários advocatícios que fixo em R$ 1.000,00 nos termos do artigo 20, § 4º do CPC.
+
+Havendo sucumbência recíproca, arcará o Autor com custas processuais proporcionais à sua sucumbência e verba honorária do patrono do réu e que são fixados em R$ 1.000,00, podendo tais verbas serem compensadas posteriormente (art.21 do CPC).
+
+P.R.I.
+
+São Paulo, 03 de fevereiro de 2011.

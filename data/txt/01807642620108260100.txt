@@ -1,0 +1,79 @@
+
+
+SENTENÇA
+
+Processo nº:0180764-26.2010.8.26.0100
+Classe - AssuntoProcedimento Ordinário - Cédula de Crédito Bancário
+Requerente:Hkl Computação Gráfica Ltda
+Requerido:Banco Safra S/A
+Data da Audiência:Data e Hora da Audiência Selecionada >
+
+
+
+Juiz(a) de Direito: Dr(a). Henrique Maul Brasilio De Souza
+
+
+
+
+
+
+VISTOS.
+
+
+
+
+HKL COMPUTAÇÃO GRÁFICA LTDA. ajuizou ação declaratória de anulação de título de crédito extrajudicial, pelo rito ordinário, em face de BANCO SAFRA S/A.
+
+Causa de Pedir: manteve relacionamento creditício com a instituição bancária requerida. Em suas atividades comerciais diárias emitia duplicatas de serviço para seus clientes, repassando os títulos ao banco réu, que os recebia em caução. Contudo, houve inadimplemento substancial das obrigações impostas ao reclamado, que não efetivava baixa dos pagamentos realizados pelos clientes da autora, inserindo o nome de alguns em órgãos protetivos de crédito, redundando em prejuízos diversos à sua imagem no mercado. As Cédulas de Crédito Bancário emitidas e protestadas, portanto, não o deveriam ser, já que ausentes liquidez e exigibilidade.
+
+Pedidos: declaração de inexigibilidade do título e cancelamento definitivo do protesto, além de indenização por danos morais.
+
+Contestação: possibilidade de uma Cédula de Crédito Bancário ser protestada; existência de débito em nome da autora junto ao banco réu; inexistência de vícios na relação jurídica entabulada pelas partes; ausência de danos extrapatrimoniais indenizáveis.
+
+Réplica às fls. 191/200.
+
+Saneados à fl. 201/v, com deferimento de prova pericial, cujo laudo encontra-se às fls. 315/342 e 358/363.
+
+Em apenso ao primeiro volume estão duas ações cautelares de sustação de protesto (autos nº 1546/2010 e 2659/2010). Apensada ao segundo volume há também a correspondente ação declaratória principal relacionada à CCB nº 007161382. O julgamento de todas as ações será em conjunto.
+
+É o relatório.
+
+Fundamento e DECIDO.
+
+Conheço diretamente dos pedidos, pois basta, para o deslinde da causa as provas documental e pericial acostadas aos autos.
+
+As Cédulas de Crédito Bancário (CCB) são títulos executivos extrajudiciais: nesse sentido é o art. 28 da Lei nº 10.931/04. Vale frisar que tal disposição não padece de ilegalidade, sendo certo que eventual inexatidão formal de norma elaborada mediante processo legislativo regular não constitui escusa válida para o seu descumprimento (art. 18, Lei Complementar nº 95/1998). No mesmo sentido (TJSP): Apelação nº 0050247-57.2010.8.26.0576, rel. Des. Maia da Rocha. Reporto-me, ainda, ao enunciado sumular nº 14, também do E. Tribunal de Justiça de São Paulo, verbis: A cédula de crédito bancário regida pela Lei nº 10.931/04 é título executivo extrajudicial. Portanto, são aptas à lavratura de protesto, até porque constituem documento de dívida (art. 7º, Lei nº 9.492/97).
+
+No caso em exame, o bem elaborado laudo pericial demonstrou que a autora é devedora da instituição financeira ré.
+
+Ali se verificou que a operação firmada com o requerido e consubstanciada na CCB nº 007160041 estabeleceu cessão fiduciária de duplicatas em garantia do empréstimo, conforme instrumento coligido às fls. 22, tratando-se de instituto distinto da 'caução', estando o banco autorizado à prática de todo e qualquer ato necessário à cobrança dos títulos (fl. 322, quesitos 1 e 2).
+
+No quesito segundo do reclamado (fl. 325), indagou-se à experta se o requerente se utilizara dos créditos disponibilizados, sendo positiva a resposta: em ambas as operações (...) o exame dos extratos coligidos aos autos revelam e comprovam a utilização ininterrupta dos limites de crédito disponibilizados pelo Banco Réu, fazendo frente às constantes deficiências de recursos apresentadas na conta corrente de livre movimento nº 22057-0, de titularidade da Autora... (fl. 325). Tudo isso sendo certo que a requerente não cumpriu integralmente os termos contratuais quanto à liquidação dos empréstimos nas datas aprazadas (quesito nº 3 do banco, à fl. 327). Portanto, concluiu-se que as operações encontram-se em aberto (quesito nº 4, ibidem), mesmo com as amortizações promovidas pela empresa autora, devidamente consideradas na apuração do saldo devedor do contrato (quesito nº 6 de fl. 328).
+
+Eis as conclusões alcançadas pela experta no tocante à evolução do débito pertinente às Cédulas questionadas:
+
+Quanto à de nº 007160041 (fl. 330, item 1.1; cautelar nº 1546/2010), na data do vencimento originalmente fixado (01/12/2009) a conta empréstimo 716.004-1, vinculada e pertinente à Cédula de Crédito Bancário nº 007160041 apresentava saldo devedor de R$ 267.681,25 (fl. 332). Após seu aditamento (fl. 332, item 1.2), a conta empréstimo 716.069-6, vinculada e pertinente à Cédula de Crédito Bancário nº 007160041 e seu correspondente Instrumento Particular de Aditamento nº 007160696 apresentava saldo devedor de R$ 264.306,81 (extrato às fls. 119), computando tanto o crédito das amortizações quanto os débitos de encargos contratuais efetuados no período (fl. 333).
+
+Após analisar a evolução do débito no período subsequente ao vencimento da CCB nº 7160041 (fl. 333, item 1.3), a perita concluiu, com exatidão, pela integral demonstração do valor de R$ 266.156,96, objeto da intimação levada a efeito pelo Banco Réu perante o 8º Tabelião de Protesto de Letras e Títulos da Capital, cumprindo destacar que não houve qualquer questionamento ou estabelecimento de controvérsia quanto aos encargos remuneratórios contratualmente estipulados (fl. 334).
+
+Mesma conclusão acerca da idoneidade do débito se deu quando da análise da CCB nº 007161382 (fls. 335/336; cautelar nº 2659/2010; principal nº 3804/2010).
+
+O parecer técnico de fls. 347/355 corroborou as conclusões oficiais, estando provado que a autora utilizou os créditos disponibilizados pelo banco e não cumpriu integralmente os termos contratuais correlatos (fl. 354).
+
+Finalmente, a manifestação complementar de fls. 358/363 rebate com suficiência as críticas suscitadas pela parte autora, sobrelevando notar que inexiste a cumulação de comissão de permanência com correção monetária na constituição dos débitos discutidos nestes autos, inclusive com a constatação pericial de que, após o vencimento, sequer os juros e encargos contratualmente estabelecidos foram computados, imputando-se meramente correção monetária pela variação do INPC (fls. 362/363).
+Improcedentes as pretensões principais, afastam-se também os pedidos sucessivos delas dependentes.
+
+CONCLUSÃO
+
+Ante o exposto, julgo improcedentes a ação principal nº 1708/2010 e cautelar nº 1546/2010, revogando a liminar ali concedida. Oficie-se informando acerca desta decisão, autorizando o restabelecimento do(s) protesto(s) anteriormente sustado(s) por este Juízo.
+
+Julgo improcedentes a ação principal nº 3804/2010 e cautelar nº 2659/2010, revogando a liminar ali concedida. Oficie-se informando acerca desta decisão, autorizando o restabelecimento do(s) protesto(s) anteriormente sustado(s) por este Juízo.
+
+Arcará a requerente com custas processuais de todos os feitos, além de verba honorária equipolente a 10% do valor atualizado atribuído à ação principal nº 1708/2010.
+
+Extingo todas as relações jurídico-processuais (cautelares e principais) com fundamento no art. 269, inciso I, do Código de Processo Civil, devendo a z. Serventia naqueles autos certificar.
+
+P. R. I.
+
+
+São Paulo, 03 de junho de 2013.
