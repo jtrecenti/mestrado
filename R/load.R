@@ -1,17 +1,18 @@
 ## Downloads data, load packages
 
-# library(tjsp)
+library(RWeka)
+library(SnowballC)
+library(tm)
+library(topicmodels)
+library(e1071)
+library(FactoMineR)
+
 library(dplyr)
 library(tidyr)
 library(rvest)
 library(stringr)
 library(ggplot2)
 library(httr)
-# library(SnowballC)
-# library(tm)
-# library(topicmodels)
-# library(e1071)
-# library(FactoMineR)
 
 set_names <- function(.data, n) {
   names(.data) <- n
@@ -47,14 +48,15 @@ pega_bancos <- function() {
 ####################################################################################################
 
 # pegar de mais fontes?
-antig_juizes <- read.csv('data/lista_antiguidade_final.csv', as.is=T, encoding='UTF-8')
+antig_juizes <- read.csv('data/lista_antiguidade_final.csv', as.is=T, encoding='UTF-8') %>%
+  tbl_df %>%
+  mutate(nome=toupper(rm_accent(nome)))
 
 ####################################################################################################
 ## BANCOS
 ####################################################################################################
 
-bancos <- pega_bancos()
-save(bancos, file='data/bancos.RData')
+bancos <- pega_bancos() %>% mutate(nome=rm_accent(nome))
 
 ####################################################################################################
 ## DADOS TJSP
@@ -75,12 +77,11 @@ pj <- c('TELLERINA', 'ALLIANZ', 'INDÚSTRIA', 'CONSULTORIA',
         ' ME$', 'LTDA', 'CONDOMINIO', 'DEF PUB', 'LOGISTICA',
         'SPEED BEE', 'ASSOCIACAO', 'EUROTUBOS', 'TRANSPORTES') %>% paste(collapse='|')
 
-d_meta <- d_meta_raw %>%
-  filter(!area %in% 'Criminal', !is.na(area)) %>%
-  mutate(reqdo_limpo=toupper(gsub('\\s+', ' ', gsub('[^A-Za-z0-9 ]', '', rm_accent(reqdo)))),
-         reqte_limpo=toupper(gsub('\\s+', ' ', gsub('[^A-Za-z0-9 ]', '', rm_accent(reqte)))),
-         n_partes=str_count(reqdo, '\n')+1) %>%
-  filter(str_detect(reqte_limpo, ' ')) %>%
+d_meta <- d_tjsp %>%
+  mutate(reqdo_limpo=toupper(gsub('\\s+', ' ', gsub('[^A-Za-z0-9 \n]', '', rm_accent(reqdo)))),
+         reqte_limpo=toupper(gsub('\\s+', ' ', gsub('[^A-Za-z0-9 \n]', '', rm_accent(reqte)))),
+         n_partes=str_count(reqdo, '\n')+1,
+         reqte_limpo=ifelse(!str_detect(reqte_limpo, ' '), NA, reqte_limpo)) %>%
   mutate(reqdo_nao_banco=str_detect(reqdo_limpo, nao_banco),
          reqdo_banco=str_detect(reqdo_limpo, banco),
          reqte_pj=str_detect(reqte_limpo, pj)) %>%
@@ -104,22 +105,31 @@ d_meta <- d_meta_raw %>%
          reqdo_limpo=ifelse(str_detect(reqdo_limpo, 'BANCO CRUZEIRO DO SUL|BANCO PAN|BANCO PANAMERICANO'), 'BANCO PANAMERICANO SA', reqdo_limpo),
          reqdo_limpo=ifelse(str_detect(reqdo_limpo, 'CARREFOUR'), 'BANCO CSF SA', reqdo_limpo)) %>%
   inner_join(bancos, c('reqdo_limpo'='nome')) %>%
-  select(-f, -area, -processo, -reqdo, -reqdo_nao_banco, -reqdo_banco, -numero) %>%
+  select(-reqdo, -reqdo_nao_banco, -reqdo_banco, -numero) %>%
   mutate(reqte_tem_adv=!is.na(adv_reqte), reqdo_tem_adv=!is.na(adv_reqdo)) %>%
-  inner_join(d_sp, 'n_processo') %>%
-  select(-juiz, -classe, -assunto) %>%
-  rename(juiz=juiz_p, classe=classe_p, assunto=assunto_p) %>%
-  mutate(juiz=rm_accent(toupper(juiz))) %>%
-  left_join(antig_juizes, 'juiz')
+  mutate(magistrado=rm_accent(toupper(magistrado))) %>%
+  left_join(antig_juizes, c('magistrado'='nome'))
 
-#################################################################################################
+# pensar num pacote para fazer um wrapper mais bonito do pacote tm
+# padronizar os textos e termos chave para criar variaveis
+# colocar caracteristicas dos processos como metadados
+# pensar novamente no problema do valor pedido
+# tomar cuidado para isso nao impedir a evolucao da dissertacao
+
+# fazer uma amostra de 100 processos para tabular as caracteristicas
+
+####################################################################################################
+### TEXTOS
+####################################################################################################
 
 meses <- c("janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho",
            "agosto", "setembro", "outubro", "novembro", "dezembro")
+
 banned_words_direito <- c("a", "ajuiz", "aleg", "art", "artig", "autor",
                           "cdig", "direit", "fls", "inicial", "julg", "juiz", "juz", "justic",
                           "lei", "peti", "process", "ru", "sentenc", "vist", "vot", 'tribunal',
                           'classe', 'assunto', 'part', 'jur', 'dan', 'contrat', 'pel', 'par', 'valor')
+
 banned_words <- c(stopwords("portuguese"), meses, banned_words_direito)
 
 
@@ -205,6 +215,72 @@ d_txt$valor_sentenca <- d_txt %>%
 
 d_txt$valor_sentenca <- ifelse(d_txt$re_improcedente=='s'|d_txt$re_extinto=='s'|d_txt$re_acordo=='s',
                                0, d_txt$valor_sentenca)
+
+####################################################################################################
+### ANALISE DOS TEXTOS
+####################################################################################################
+
+ds <- DirSource('data/txt/', encoding='UTF-8')
+txt <- VCorpus(ds, readerControl = list(reader=readPlain, language='pt-br'))
+processos_txt <- meta(txt, 'id') %>% unlist %>% str_replace_all('[^0-9]', '')
+txt <- txt[processos_txt %in% d_meta$n_processo]
+
+load('temp.RData')
+
+banned_words <- c('fls', 'art.', 'artigo', 'autos', 'acao', 'caso', 
+                  'conforme', 'civel', 'codigo', 'data', 'desde', 'direito', 'documentos',
+                  'especial', 'fato', 'forma', 'juiz', 'juizado', 'lei', 'mes', 'nome', 
+                  'sao paulo', 'processo', 'presente', 'qualquer', 'recurso', 'relacao',
+                  'requerido', 'sentenca', 'termos', 'tribunal', 'assim', 'ainda',
+                  'partes', 'brasil')
+
+banned_words <- c('direito', 'sentenca', 'processo', 'sao paulo', 'vistos', 'termos', 'autos', 
+                  'lei', 'relatorio', 'acao', 'civel', 'partes', 'codigo', 'artigo', 'art', 
+                  'classe', 'forma', 'assuntoprocedimento', 'juizado', 'civil', 'conforme',
+                  'recurso', 'sendo', 'assim', 'data', 'presente', 'fls', 'brasil', 'desde',
+                  'justica', 'qualquer', 'digialmente', 'impressao', 'requeridobanco')
+
+
+deleta <- function(x, pattern) gsub(pattern, "", x)
+
+txt2 <- txt[1:1000] %>%
+  tm_map(removePunctuation, preserve_intra_word_dashes=T) %>%
+  tm_map(content_transformer(deleta), 'ª|º') %>%
+  tm_map(content_transformer(rm_accent)) %>%  
+  tm_map(content_transformer(tolower)) %>%
+  tm_map(removeWords, banned_words) %>%
+  tm_map(removeWords, stopwords('portuguese')) %>%
+  tm_map(stripWhitespace)
+
+BigramTokenizer <- function(x) NGramTokenizer(x, Weka_control(min = 2, max = 2))
+
+tdm <- txt2 %>%
+  TermDocumentMatrix(control = list(tokenize = BigramTokenizer)) %>%
+  removeSparseTerms(.1) %>%
+  as.matrix %>% 
+  data.frame %>%
+  mutate(palavra=row.names(.)) %>% 
+  tbl_df %>%
+  gather(processo, n, -palavra) %>%
+  filter(n>0)
+
+tdm %>%
+  group_by(palavra) %>%
+  summarise(n_docs=n()) %>%
+  ungroup %>%
+  arrange(desc(n_docs)) %>%
+  head(30)
+
+
+obj %>%
+  group_by(palavra) %>%
+  summarise(n=sum(n)) %>%
+  ungroup %>%
+  arrange(desc(n))
+
+
+
+  
 
 ####################################################################################################
 ### DESCRITIVA
