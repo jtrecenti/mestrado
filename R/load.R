@@ -1,5 +1,10 @@
 ## Downloads data, load packages
 
+#___________________________________________________________________________________________________
+# PACOTES
+#___________________________________________________________________________________________________
+# TODO: TIRAR PACOTES E UTILIZAR 'ON THE FLY' OU ENTAO USAR NAMESPACE
+
 library(RWeka)
 library(SnowballC)
 library(tm)
@@ -14,26 +19,27 @@ library(stringr)
 library(ggplot2)
 library(httr)
 
-set_names <- function(.data, n) {
-  names(.data) <- n
-  .data
-}
+#___________________________________________________________________________________________________
 
+
+# Adiciona uma coluna no bd valendo s se encontrou a expressao regular re e n caso contrario
 add_key <- function(d, re, lab) {
   d[[lab]] <- ifelse(str_detect(d$txt2, perl(re)), 's', 'n')
   return(d)
 }
 
-rm_accent <- function (x) gsub("`|\\'", "", iconv(x, to = "ASCII//TRANSLIT"))
+# Retira acentos de um texto (linux only)
+rm_accent <- function(x) gsub("`|\\'", "", iconv(x, to = "ASCII//TRANSLIT"))
 
+# baixa lista de bancos do site da febraban
 pega_bancos <- function() {
   link <- 'http://www.buscabanco.com.br/AgenciasBancos.asp?uf=&ordem=banco&wtexto=&tipo=&origem=&natural='
   bancos <- GET(link, encoding='latin1') %>%
     content('text') %>%
-    html('UTF-8') %>%
+    html('latin1') %>%
     html_node(xpath="//table[@bgcolor='#003366']") %>%
     html_table(header=T, trim=T, fill=T, dec=',') %>%
-    set_names(c('numero', 'nome', 'site', 'qtd_agencias')) %>%
+    setNames(c('numero', 'nome', 'site', 'qtd_agencias')) %>%
     select(-site) %>%
     mutate(nome=gsub(' +', ' ', gsub('[./,\n()-]', '', toupper(nome))),
            qtd_agencias=as.numeric(gsub('[.]', '', qtd_agencias))) %>%
@@ -43,18 +49,18 @@ pega_bancos <- function() {
   bancos
 }
 
-####################################################################################################
-### ANTIGUIDADE DOS JUIZES
-####################################################################################################
+#___________________________________________________________________________________________________
+# ANTIGUIDADE DOS JUIZES
+#___________________________________________________________________________________________________
 
 # pegar de mais fontes?
 antig_juizes <- read.csv('data/lista_antiguidade_final.csv', as.is=T, encoding='UTF-8') %>%
   tbl_df %>%
   mutate(nome=toupper(rm_accent(nome)))
 
-####################################################################################################
-## BANCOS
-####################################################################################################
+#___________________________________________________________________________________________________
+# BANCOS
+#___________________________________________________________________________________________________
 
 bancos <- pega_bancos() %>% mutate(nome=rm_accent(nome))
 
@@ -63,7 +69,8 @@ bancos <- pega_bancos() %>% mutate(nome=rm_accent(nome))
 ####################################################################################################
 
 # Processos da area civel com palavra-chave dano/danos pesquisados ate xx/xx/2014
-load("data/d_tjsp.RData")
+d_tjsp <- readRDS('data/d_tjsp.rds')
+
 
 ## RECLASSIFICACAO DOS REQUERIDOS
 banco <- c('BANCO', 'BRADESCO', 'ITAU', 'SANTANDER', 'VOTORANTIM',
