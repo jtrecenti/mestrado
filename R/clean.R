@@ -22,20 +22,6 @@ antig_juizes$juiz[str_detect(antig_juizes$juiz, 'SALVETTI')] <- 'CLAUDIO SALVETT
 ## BANCOS
 ####################################################################################################
 
-link <- 'http://www.buscabanco.com.br/AgenciasBancos.asp?uf=&ordem=banco&wtexto=&tipo=&origem=&natural='
-bancos <- GET(link, encoding='latin1') %>%
-  content('text') %>%
-  html('UTF-8') %>%
-  html_node(xpath="//table[@bgcolor='#003366']") %>%
-  html_table(header=T, trim=T, fill=T, dec=',') %>%
-  set_names(c('numero', 'nome', 'site', 'qtd_agencias')) %>%
-  select(-site) %>%
-  mutate(nome=gsub(' +', ' ', gsub('[./,\n()-]', '', rm_accent(toupper(nome)))),
-         qtd_agencias=as.numeric(gsub('[.]', '', qtd_agencias))) %>%
-  filter(!is.na(qtd_agencias)) %>%
-  tbl_df %>%
-  arrange(desc(qtd_agencias))
-
 ####################################################################################################
 ## DADOS TJSP
 ####################################################################################################

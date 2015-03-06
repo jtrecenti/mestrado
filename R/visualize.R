@@ -11,7 +11,25 @@ library(lubridate)
 library(dplyr)
 library(stringr)
 
-dim(d_tjsp)
+d_tjsp <- readRDS('data/d_tjsp.rds') %>%
+  mutate(data_sentenca = as.Date(dmy(data_sentenca))) %>%
+  filter(data_sentenca >= as.Date('2010-01-01'), data_sentenca <= as.Date('2014-08-31')) %>%
+  filter(classe %in% c('Procedimento do Juizado Especial Cível', 
+                       'Procedimento Ordinário',
+                       'Procedimento Sumário')) %>%
+  filter(!foro %in% c('Foro Central - Fazenda Pública/Acidentes', 
+                      'Foro Distrital de Parelheiros')) %>%
+  filter(!str_detect(vara, 'Família|Juventude|Registros|Falências')) %>%
+  mutate(data_distribuicao = as.Date(dmy(data_distribuicao))) %>%
+  mutate(tempo = as.numeric(data_sentenca - data_distribuicao)) %>%
+  mutate(tipo_vara = ifelse(str_detect(vara, 'special|tinerante'), 'JEC', 'Cível')) %>%
+  mutate(foro = ifelse(foro %in% 'Foro Central Juizados Especiais Cíveis', 
+                       'Foro Central Cível', foro)) %>%
+  mutate(valor_acao_num = as.numeric(
+    str_replace_all(str_replace_all(valor_acao, '[R$ .]', ''), ',', '.'))
+  )
+
+
 
 # VOLUME PROCESSUAL
 #___________________________________________________________________________________________________
@@ -537,4 +555,330 @@ d_tjsp %>%
   geom_abline(intercept = 0, slope = 1) +
   geom_hline(yintercept = as.numeric(as.Date(ymd('2010-01-01') + years(0:5))), alpha = .3) +
   theme_bw()
+
+# Requeridos
+#___________________________________________________________________________________________________
+
+d_tjsp %>%
+  mutate(reqdo_limpo = toupper(gsub('\\s+', ' ', gsub('[^A-Za-z0-9 \n]', '', rm_accent(reqdo))))) %>%
+  count(reqdo_limpo, sort = T) %>%
+  head(20) %>%
+  (knitr::kable)
+
+d_tjsp %>%
+  mutate(reqdo_limpo = toupper(gsub('\\s+', ' ', gsub('[^A-Za-z0-9 \n]', '', rm_accent(reqdo))))) %>%
+  filter(year(data_sentenca) == 2014) %>%
+  count(reqdo_limpo, sort = T) %>%
+  head(20) %>%
+  (knitr::kable)
+
+
+d_tjsp %>%
+  mutate(reqdo_limpo = toupper(gsub('\\s+', ' ', gsub('[^A-Za-z0-9 \n]', '', rm_accent(reqdo))))) %>%
+  filter(year(data_sentenca) == 2014) %>%
+  count(reqdo_limpo, sort = T) %>%
+  View
+
+
+# Classificacao dos requeridos
+# BANCOS: BANCO DO BRASIL, ITAU, BRADESCO, SANTANDER. 
+# TELEFONIA: TIM, VIVO, CLARO, NET, NEXTEL
+
+bradesco <- 'BRADESCO SA|BRADESCAR|BRADESCO$|BRADESCO CARTOES|BRADESCO FINANC'
+itau <- 'UNIBANCO SA$|UNIBANCO ITAU|ITAU UNIBANCO BANCO MULTIPLO SA|ITAU CARD|ITAUCARD|ITAU UNIBANCO SA|ITAUCARD SA|ITAU$|UNIBANCO$|ITAU SA|ITAUCARD$|ITAUUNIBANCO|^ITAU$|ITAU FINAN|ITAU UNIBANCO F|FINANCEIRA ITAU'
+santander <- 'SANTANDER$|SANTANDER [^L]|SANTANDER[SA]'
+bb <- 'BANCO DO BRASIL'
+tim <- 'TIM CELUL?AR|^TIM SA|TIM BRASIL SA|TIM DO BRASIL SA|^TIM$| TIM$|TIM OPERADORA|TIM TELEFONIA'
+claro <- 'CLARO$|CLARO [^A]|EMBRATEL'
+net <- '^NET$|^NET | NET S|CENTRAL DA NET'
+nextel <- 'NEXTEL'
+vivo <- 'VIVO|TELESP|TELEFONICA'
+eletropaulo <- 'ELETROP'
+
+pj <- c('TELLERINA', 'ALLIANZ', 'INDÚSTRIA', 'CONSULTORIA',
+        ' ME$', 'LTDA', 'CONDOMINIO', 'DEF PUB', 'LOGISTICA',
+        'SPEED BEE', 'ASSOCIACAO', 'EUROTUBOS', 'TRANSPORTES') %>% paste(collapse='|')
+
+
+d_tjsp_empresas <- d_tjsp %>%
+  filter(year(data_sentenca) %in% 2014) %>%
+  mutate(reqdo_limpo = toupper(gsub('\\s+', ' ', gsub('[^A-Za-z0-9 \n]', '', rm_accent(reqdo)))),
+         reqte_limpo = toupper(gsub('\\s+', ' ', gsub('[^A-Za-z0-9 \n]', '', rm_accent(reqte))))) %>%
+  filter(str_detect(
+    reqdo_limpo,
+    paste(bradesco, itau, santander, bb, tim, claro, net, nextel, vivo, eletropaulo, sep = '|'))
+  ) %>%
+  filter(!str_detect(reqte_limpo, pj)) %>%
+  mutate(q_bradesco = ifelse(str_detect(reqdo_limpo, bradesco), 'BRADESCO', ''),
+         q_itau = ifelse(str_detect(reqdo_limpo, itau), 'ITAU', ''),
+         q_santander = ifelse(str_detect(reqdo_limpo, santander), 'SANTANDER', ''),
+         q_bb = ifelse(str_detect(reqdo_limpo, bb), 'BB', ''),
+         q_tim = ifelse(str_detect(reqdo_limpo, tim), 'TIM', ''),
+         q_claro = ifelse(str_detect(reqdo_limpo, claro), 'CLARO', ''),
+         q_net = ifelse(str_detect(reqdo_limpo, net), 'NET', ''),
+         q_nextel = ifelse(str_detect(reqdo_limpo, nextel), 'NEXTEL', ''),
+         q_vivo = ifelse(str_detect(reqdo_limpo, vivo), 'VIVO', ''),
+         q_eletropaulo = ifelse(str_detect(reqdo_limpo, eletropaulo), 'ELETROPAULO', '')) %>%
+  rowwise %>%
+  mutate(empresa = str_trim(paste(q_bradesco, q_itau, q_santander, q_bb, q_tim, q_claro, q_net, 
+                                  q_nextel, q_vivo, q_eletropaulo))) %>%
+  ungroup %>%
+  filter(!str_detect(empresa, ' ')) %>%
+  tbl_df %>%
+  select(-starts_with('q_'))
+
+d_tjsp_empresas %>%
+  ggplot(aes(x = log10(valor_acao_num+1), fill=tipo_vara)) +
+  geom_density(alpha=.2) +
+  facet_wrap(~empresa) +
+  theme_bw()
+
+d_tjsp_empresas %>%
+  count(empresa, tipo_vara, sort=T) %>%
+  (knitr::kable)
+
+# Classificacao por palavras-chave
+#___________________________________________________________________________________________________
+
+library(tm)
+
+meses <- c("janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho",
+           "agosto", "setembro", "outubro", "novembro", "dezembro")
+
+banned_words_direito <- c("a", "ajuiz", "aleg", "art", "artig", "autor",
+                          "cdig", "direit", "fls", "inicial", "julg", "juiz", "juz", "justic",
+                          "lei", "peti", "process", "ru", "sentenc", "vist", "vot", 'tribunal',
+                          'classe', 'assunto', 'part', 'jur', 'dan', 'contrat', 'pel', 'par', 'valor')
+
+banned_words <- c(stopwords("portuguese"), meses, banned_words_direito)
+
+# txt_interesse <- gsub('[^0-9]', '', list.files('data/txt'))
+# txt_interesse <- txt_interesse[txt_interesse %in% d_tjsp_empresas$n_processo]
+# dir.create('data/txt_empresas')
+# file.copy(sprintf('%s/%s.txt', 'data/txt/', txt_interesse), 'data/txt_empresas')
+
+ds <- DirSource('data/txt_empresas/', encoding='UTF-8')
+txt <- VCorpus(ds, readerControl = list(reader=readPlain, language='pt-br'))
+
+banned_words <- c('fls', 'art.', 'artigo', 'autos', 'acao', 'caso', 
+                  'conforme', 'civel', 'codigo', 'data', 'desde', 'direito', 'documentos',
+                  'especial', 'fato', 'forma', 'juiz', 'juizado', 'lei', 'mes', 'nome', 
+                  'sao paulo', 'processo', 'presente', 'qualquer', 'recurso', 'relacao',
+                  'requerido', 'sentenca', 'termos', 'tribunal', 'assim', 'ainda',
+                  'partes', 'brasil')
+
+banned_words <- c('direito', 'sentenca', 'processo', 'sao paulo', 'vistos', 'termos', 'autos', 
+                  'lei', 'relatorio', 'acao', 'civel', 'partes', 'codigo', 'artigo', 'art', 
+                  'classe', 'forma', 'assuntoprocedimento', 'juizado', 'civil', 'conforme',
+                  'recurso', 'sendo', 'assim', 'data', 'presente', 'fls', 'brasil', 'desde',
+                  'justica', 'qualquer', 'digialmente', 'impressao', 'requeridobanco', 'que')
+
+
+deleta <- function(x, pattern) gsub(pattern, "", x)
+
+txt2 <- txt %>%
+  tm_map(removePunctuation, preserve_intra_word_dashes=T) %>%
+  tm_map(content_transformer(deleta), 'ª|º') %>%
+  tm_map(content_transformer(rm_accent)) %>%  
+  tm_map(content_transformer(tolower)) %>%
+  #tm_map(removeWords, banned_words) %>%
+  #tm_map(removeWords, stopwords('portuguese')) %>%
+  tm_map(stripWhitespace)
+
+
+
+
+
+# WORD CLOUD
+#___________________________________________________________________________________________________
+
+wordcloud_txt <- function(txt, i, min = 1, max = 1, min_freq = 2) {
+  tokenizer <- function(x) NGramTokenizer(x, Weka_control(min = min, max = max))
+  tf_bi <- termFreq(txt2[[i]], control = list(tokenize = tokenizer)) %>%
+    data_frame(nome = names(.), freq = .)
+  wordcloud(tf_bi$nome, tf_bi$freq, 
+            min.freq = min_freq, 
+            random.color = TRUE, 
+            rot.per = 0, 
+            fixed.asp = FALSE)
+}
+
+s <- sample(seq_len(length(txt2)), 1)
+wordcloud_txt(txt, s, min = 3, max = 3, min_freq = 2)
+
+# WORD TREE
+#___________________________________________________________________________________________________
+# outro dia
+
+
+
+# RECUPERANDO INFORMACOES
+#___________________________________________________________________________________________________
+
+txt_limpo <- txt %>%
+  tm_map(removePunctuation, preserve_intra_word_dashes=T) %>%
+  tm_map(content_transformer(deleta), 'ª|º') %>%
+  tm_map(content_transformer(rm_accent)) %>%  
+  tm_map(content_transformer(tolower)) %>%
+  tm_map(removeWords, banned_words) %>%
+  tm_map(removeWords, stopwords('portuguese')) %>%
+  tm_map(stripWhitespace)
+
+
+# Aproveitando estrutura dos documentos
+#___________________________________________________________________________________________________
+
+d_txt <- bind_rows(lapply(1:length(txt), function(x) {
+  data_frame(n_processo = gsub('[^0-9]', '', txt[[x]]$meta$id), 
+             txt = paste(txt[[x]]$content, collapse='\n\n'),
+             txt2 = paste(txt2[[x]]$content, collapse='\n\n'))
+}))
+
+d_txt <- d_tjsp_empresas %>%
+  select(empresa, tipo_vara, n_processo) %>%
+  inner_join(d_txt, 'n_processo')
+
+# JEC
+
+d_txt_jec <- d_txt %>%
+  filter(tipo_vara == 'JEC') %>%
+  mutate(termo_audiencia = str_detect(txt2, 'termo de audiencia'))
+
+d_txt_jec %>%
+  filter(termo_audiencia) %T>% print %>%
+  sample_n(1) %>%
+  with(txt) %>%
+  cat
+
+# Civel
+
+d_txt_civ <- d_txt %>%
+  filter(tipo_vara == 'Cível') %>%
+  mutate(termo_audiencia = str_detect(txt2, 'termo de audiencia'))
+
+d_txt_civ %>%
+  filter(termo_audiencia) %T>% print %>%
+  sample_n(1) %>%
+  with(txt) %>%
+  cat
+
+d_txt_civ %>%
+  filter(!termo_audiencia) %T>% print %>%
+  sample_n(1) %>%
+  with(txt) %>%
+  cat
+
+tx <- d_txt_civ %>%
+  filter(!termo_audiencia) %>%
+  sample_n(1) %>%
+  with(txt)
+
+processa_processo <- function(tx) {
+  linhas <- unlist(str_split(tx, '\n\n'))
+  
+  vistos <- first(grep('Vistos', linhas))
+  pric <- last(grep('P\\.?R\\.?I\\.?C?', linhas))
+  
+  linhas <- linhas[(vistos + 1):(pric - 1)]
+  
+  decido <- first(grep('Decido.', linhas))
+  
+  decisao <- linhas[str_detect(linhas, 'Ante o exposto')]
+  
+  d <- dplyr::data_frame(fatos = fatos,
+                         argumentos = argumentos,
+                         decisao = decisao)
+  
+}
+
+
+#___________________________________________________________________________________________________
+
+
+dano_material <- 'danos?([a-z ]+)?material?(is)?|danos?([a-z ]+)? patrimonial?(is)?'
+dano_moral <- 'danos?([a-z ]+)?moral?(is)?|danos?([a-z ]+)? extrapatrimonial?(is)?'
+seguro <- ' segur'
+honorarios <- 'honorario'
+procedente <- '(julgo|declaro) (totalmente )?procedente'
+improcedente <- '(julgo|declaro) (totalmente )?improcedente'
+extinto <- '(julgo|declaro) extinto?a?'
+parc_procedente <- '(julgo|declaro) parcialmente procedente'
+procedente_parte <- '(julgo|declaro) procedente em parte'
+tutela_antecipada <- 'tutela antecipada'
+plano_saude <- 'plano de saude'
+inexistencia_debito <- 'inexistencia de debito|inscricao indevida|indevidamente escrito|serasa|inexigibilidade de debito|debito e inexigivel'
+dpvat <- 'dpvat'
+acordo <- 'homolog'
+conciliacao_infrutifera <- 'infrutifera'
+conciliacao_frutifera <- ' frutifera'
+calcada <- 'calcada'
+audiencia <- 'audiencia'
+
+# Novas palavras-chave
+inicio_decisao <- ''
+onus <- 'onus'
+collor <- 'collor|bresser|plano verao'
+hipossuf <- 'hiposs'
+em_dobro <- 'em dobro'
+prescricao <- 'prescric'
+rel_dano_moral <- 'abalo|psiquico|aborr|sofrim'
+dissabor <- 'dissabor'
+espolio <- 'espolio'
+cujus <- 'cujus'
+lei_jec <- '9099/95|9\\.099/95'
+consumo <- 'consum'
+inscr_indevida <- 'serasa|spc|inscricao indevida|cadastro de inadimp|scpc'
+inadimpl <- 'inadimpl'
+
+
+tokenizer <- function(x) NGramTokenizer(x, Weka_control(min = 1, max = 4))
+
+tdm <- txt2[1:10] %>%
+  TermDocumentMatrix(control = list(tokenize = tokenizer)) %>%
+  removeSparseTerms(.1) %>%
+  as.matrix %>% 
+  data.frame %>%
+  tbl_df %>%
+  add_rownames('palavra') %>%
+  gather(processo, n, -palavra) %>%
+  filter(n > 0)
+
+
+#___________________________________________________________________________________________________
+
+
+tdm <- txt2q %>%
+  TermDocumentMatrix(control = list(tokenize = BigramTokenizer)) %>%
+  removeSparseTerms(.1) %>%
+  as.matrix %>% 
+  data.frame %>%
+  mutate(palavra=row.names(.)) %>% 
+  tbl_df %>%
+  gather(processo, n, -palavra) %>%
+  filter(n > 0)
+
+tdm %>%
+  group_by(palavra) %>%
+  summarise(n_docs=n()) %>%
+  ungroup %>%
+  arrange(desc(n_docs)) %>%
+  head(30)
+
+
+obj %>%
+  group_by(palavra) %>%
+  summarise(n=sum(n)) %>%
+  ungroup %>%
+  arrange(desc(n))
+
+
+
+
+
+
+
+
+
+
+
 

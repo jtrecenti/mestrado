@@ -139,7 +139,6 @@ banned_words_direito <- c("a", "ajuiz", "aleg", "art", "artig", "autor",
 
 banned_words <- c(stopwords("portuguese"), meses, banned_words_direito)
 
-
 ## PALAVRAS
 dano_material <- 'danos?([a-z ]+)?material?(is)?|danos?([a-z ]+)? patrimonial?(is)?'
 dano_moral <- 'danos?([a-z ]+)?moral?(is)?|danos?([a-z ]+)? extrapatrimonial?(is)?'
